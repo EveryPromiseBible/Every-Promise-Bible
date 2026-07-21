@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## 2026-07-21 — Healing replaces Sick; shuffle stops repeating; an anchor verse
+
+**Sick became Healing.** Same 116 promises, retagged by the new
+`tools/retag_mood.py`. "Sick" names a condition and asks a reader to identify
+as it; "Healing" names what they are reaching for. Because the UI derives its
+pill list from the data rather than a hardcoded array, this was a data
+operation with no string in `index.html` to change. Sick is deliberately absent
+from the validator's allow-list now, so a stale batch cannot reintroduce it and
+quietly split the mood in two.
+
+**Shuffle no longer repeats.** The old `shuffleVerse` picked at random and only
+stepped away if it landed on the verse already showing, which guards against
+nothing beyond an immediate repeat. Random sampling collides far sooner than it
+feels like it should: across 116 Healing promises the odds of having already
+seen one pass half by the thirteenth tap. A devotional that hands back the
+verse you just read does not read as random, it reads as broken.
+
+The pool is now dealt as a shuffled deck — Fisher-Yates, every promise in the
+pool appearing exactly once before any appears twice. The deck is keyed to the
+mood selection so changing moods discards it rather than dealing indices no
+longer in play, and a reshuffle will not open with the verse still on screen,
+since that single boundary-crossing tap is exactly the repeat the mechanism
+exists to prevent. Verified by dealing every pool to exhaustion: 1,522 shuffles
+over the full corpus and 116 over Healing, both zero repeats, zero consecutive
+repeats, and nothing dealt from outside the active mood.
+
+**2 Corinthians 1:20 opens every visit.** It was previously reachable only by
+chance. It is the claim the whole app rests on — every promise here is yes in
+Christ — and a reader should meet it first rather than stumble into it on some
+later shuffle. Its fifteen meditations already carried the voice ("Jesus is the
+Amen over your life", "The promises are kept in a Person") and were left alone.
+Resolved by reference rather than a stored index, because merging a batch of
+new promises shifts every index after the insertion point.
+
 ## 2026-07-21 — The verse being meditated on is now visible
 
 The meditate view showed the reference and the meditation but not the verse

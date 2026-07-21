@@ -571,9 +571,60 @@ function clearMoods() {
   renderMoods();
 }
 
-function pickRandomIdx() {
+/* ---- the shuffle deck ----
+   Random picking repeats, and far sooner than it feels like it should: with
+   116 promises in a mood pool the odds of having already seen one pass half
+   by the thirteenth tap, and a duplicate inside three or four taps is
+   commonplace. A devotional that hands back the verse you just read does not
+   read as random, it reads as broken.
+
+   So the pool is dealt as a shuffled deck rather than sampled: every promise
+   in it appears exactly once before any appears twice. The deck is keyed to
+   the mood selection, so changing moods discards it rather than dealing
+   indices that are no longer in play, and it rebuilds when the corpus grows. */
+let deck = [], deckAt = 0, deckKey = null;
+
+function deckKeyFor(pool) {
+  return Array.from(activeMoods).sort().join('|') + ':' + pool.length;
+}
+
+function buildDeck(pool, avoid) {
+  const d = pool.slice();
+  for (let i = d.length - 1; i > 0; i--) {          // Fisher-Yates
+    const j = Math.floor(Math.random() * (i + 1));
+    const t = d[i]; d[i] = d[j]; d[j] = t;
+  }
+  /* A reshuffle must not open with the verse still on screen. That single tap
+     crossing the deck boundary would look exactly like the repeat this whole
+     mechanism exists to prevent, and it is the one a reader would notice. */
+  if (d.length > 1 && d[0] === avoid) { const t = d[0]; d[0] = d[1]; d[1] = t; }
+  return d;
+}
+
+function nextIdx() {
   const pool = moodPool();
-  return pool[Math.floor(Math.random() * pool.length)];
+  const key = deckKeyFor(pool);
+  if (key !== deckKey || deckAt >= deck.length) {
+    deck = buildDeck(pool, currentIdx);
+    deckAt = 0;
+    deckKey = key;
+  }
+  return deck[deckAt++];
+}
+
+/* Kept as the name several callers already use. */
+function pickRandomIdx() { return nextIdx(); }
+
+/* The thesis verse, shown on every load rather than a random pick. It is the
+   claim the whole app rests on -- every promise here is yes in Christ -- and a
+   reader should meet it first rather than stumble into it on some later
+   shuffle. Resolved by reference, never a stored index: merging a new batch of
+   promises shifts every index after the insertion point. */
+const ANCHOR_REF = '2 Corinthians 1:20';
+
+function anchorIdx() {
+  const i = PROMISES.findIndex(p => p.reference === ANCHOR_REF);
+  return i >= 0 ? i : nextIdx();
 }
 function loadVerse(idx) {
   currentIdx = idx;
@@ -588,9 +639,7 @@ function shuffleVerse() {
   // would hand back a verse the chosen mood does not carry.
   const pool = moodPool();
   if (pool.length === 1) { loadVerse(pool[0]); return; }
-  let n = pickRandomIdx();
-  if (n === currentIdx) n = pool[(pool.indexOf(currentIdx) + 1) % pool.length];
-  loadVerse(n);
+  loadVerse(nextIdx());
 }
 /* ---- Favorites ----
    Follows the bookmarks pattern exactly: loadStore -> mutate -> saveStore ->
@@ -1316,7 +1365,7 @@ populateSelect();
 migrateHighlightKeys();        // must run before any section is built
 loadChapter('intro');          // the Bible tab opens on the introduction
 renderMoods();                 // restore any saved mood before the first verse
-loadVerse(pickRandomIdx());
+loadVerse(anchorIdx());        // 2 Corinthians 1:20 opens every visit
 document.getElementById('studyLabel').classList.add('active');
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
 </script>

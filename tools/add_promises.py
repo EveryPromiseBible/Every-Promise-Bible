@@ -36,11 +36,17 @@ BATCH_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "promises_n
 
 MOODS = ["Encouraged", "Grateful", "Hopeful", "Anxious", "Peaceful", "Broken",
          "Confused", "Waiting", "Lonely", "Overwhelmed", "Joyful", "Tired",
-         "Sick", "Stressed", "Tempted", "Angry",
+         "Stressed", "Tempted", "Angry",
          # 2026-07-20: provision -- money, work, debt, lack, daily supply. The
          # UI derives its pill list from the data, so adding it here (the
          # validator's allow-list) is the only code change a new mood needs.
-         "Provision"]
+         "Provision",
+         # 2026-07-21: healing REPLACES sick. "Sick" names a condition and asks
+         # the reader to identify as it; "Healing" names what they are reaching
+         # for. Same 116 promises, retagged by tools/retag_mood.py -- Sick is
+         # deliberately absent from this list so a stale batch cannot reintroduce
+         # it and quietly split the mood in two.
+         "Healing"]
 
 
 def span(ref):
