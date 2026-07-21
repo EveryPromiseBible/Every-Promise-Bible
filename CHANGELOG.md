@@ -1,5 +1,93 @@
 # CHANGELOG
 
+## 2026-07-20 — Favorites, History, and cross-references go live
+
+Three features that were built-but-inert. No text was touched.
+
+### The mood row was checked, and is fine
+
+Adding Provision made 17 pills where the row was designed for 16, and nobody had
+opened the page. Checked at desktop and at a true 390px phone viewport: **no
+overflow, nothing clipped, bottom nav intact.** On desktop the row breaks 8/7/2,
+leaving "Sick, Angry" on an orphan third line — cosmetic, reflows at other
+widths, and the design guidelines say not to redesign. Left alone.
+
+**A caution for the next session that measures this.** Headless Chrome has a
+minimum viewport of 500px. Asking for `--window-size=430` lays the page out at
+500 and then crops the screenshot to 430, which looks *exactly* like horizontal
+overflow: pills cut mid-word, the verse running off, "Journal" clipped to "J".
+A control page reporting `window.innerWidth` proved it was the harness, not the
+site. Real narrow viewports need an iframe of a fixed width, not a small window.
+
+### Favorites — persisted
+
+Was `let fav = false`: the heart reset on every reload *and* on every verse
+change, so it never meant anything, and the tab held a hardcoded empty state.
+
+Now follows the bookmarks pattern exactly (`loadStore` → mutate → `saveStore` →
+re-render), stored under `everypromise_favorites`.
+
+**Keyed on the promise REFERENCE, not its index.** PROMISES has gone 329 → 1,005
+→ 1,522 in two days; an index-keyed favorite would silently re-point to a
+different verse every time the corpus grows. `jumpToFavorite` also drops a
+favorite whose reference no longer resolves rather than throwing — the
+alternative is a dead row the user cannot clear.
+
+### History — tracked
+
+Records chapter views most-recent-first under `everypromise_history`, capped at
+50, deduped by chapter so re-reading Romans 8 moves it to the top instead of
+filling the list with copies.
+
+Recorded inside `loadChapter` rather than in the click handlers, so every route
+in counts — the select, a bookmark jump, a history jump. Placed deliberately
+*after* the `'intro'` early-return: the introduction is not a chapter and should
+not fill the list.
+
+### Cross-references — enabled and retuned
+
+`SHOW_CROSSREF` was `false` with the note "re-enable once the full NT is
+translated and this can be retuned against full-corpus word frequency." The full
+NT has been in place since 2026-07-18. Now on.
+
+**`CROSSREF_MAX` retuned 12 → 30.** The 12 was set when 7 books existed (96,778
+Greek tokens); at 137,554 the same semantic threshold scales to ~17. But
+measuring showed the choice is not delicate:
+
+| Band | What lives there |
+|---|---|
+| 16–32 occurrences | ποιμήν shepherd, κληρονομέω inherit, μετάνοια repentance, ὑπομονή endurance, ἐλεέω show mercy |
+| 1,200+ | ὁ 19,767 · καί 8,973 · αὐτός 5,549 · δέ 2,766 · ἐν 2,733 |
+
+Nothing lives in between, so any cutoff from ~17 to ~100 excludes exactly the
+same set of function words. The real constraint is list length: the list dedupes
+by section, so at 30 a reader sees a median of 4 rows, 13 at the 90th
+percentile, 28 at worst. The modal already scrolls at 85vh, so no CSS changed.
+
+Clicking ποιμήν now shows 18 occurrences as 11 rows — "John 10 · I Am the Good
+Shepherd (5×)", "Luke 2 · Good News to Shepherds (4×)", "Matthew 25 · The Sheep
+and the Goats". The editorial section headings are what make it readable; a bare
+verse list would not trace a theme like that.
+
+### Verified by driving the app, not by reading the diff
+
+33 assertions run against the live page in a browser, via an iframe harness:
+
+```
+favorites/history .... 20/20   incl. survives a full reload, dedupe,
+                               cap at 50, intro not recorded,
+                               heart clears when un-favorited elsewhere
+cross-references ..... 13/13   incl. kai (8,973x) shows NO links,
+                               single-occurrence renders nothing,
+                               30 in / 31 out boundary
+```
+
+**One harness bug worth recording:** `frame.PROMISES` is `undefined`. index.html
+declares its state with top-level `const`/`let`, which are global *lexical*
+bindings and never become `window` properties — only function declarations do.
+The harness reads state through `eval()` in the iframe's own scope instead. The
+first run's failures were the test, not the app.
+
 ## 2026-07-20 (later still) — Grace-lens audit: 263 law-shaped meditations rewritten
 
 Chris read some meditations and said they "feel like law and doing." He was

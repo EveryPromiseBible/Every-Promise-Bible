@@ -456,17 +456,15 @@ Verified: all 4 data blobs parse; the full 8.7 MB script parses cleanly under
 esprima; mood counts and union semantics checked against the real data.
 **Not verified: the visual layout** — that needs a human to open the page.
 
-### [ ] Favorites — persist
-Tab exists with a hardcoded empty state. `let fav = false` resets on reload.
-- [ ] Follow the bookmarks pattern exactly: `loadStore('favorites')` → mutate → `saveStore` → re-render
-- [ ] Wire `toggleFav()` to storage
-- [ ] Render `#tab-favorites`
+### ✅ [x] Favorites — persist — **DONE 2026-07-20**
+Keyed on the promise **reference**, not its index — the corpus went 329 → 1,005
+→ 1,522 in two days and an index key would re-point to a different verse each
+time. Stored at `everypromise_favorites`, bookmarks pattern throughout.
 
-### [ ] History — track and persist
-Tab exists with a hardcoded empty state, no logic.
-- [ ] Record chapter views in `loadChapter()`
-- [ ] Cap the list (last 50?)
-- [ ] Render `#tab-history`
+### ✅ [x] History — track and persist — **DONE 2026-07-20**
+Most-recent-first, capped at 50, deduped by chapter. Recorded inside
+`loadChapter` so every route in counts, and after the `'intro'` early-return so
+the introduction never fills the list.
 
 ### [ ] Meditations — persist custom entries
 `addCustomMeditation()` appends to a session array. Lost on reload.
@@ -477,10 +475,15 @@ Toolbar button `🔍` rendered, inert.
 - [ ] Greek search
 - [ ] Strong's number search (`OCCURRENCE_INDEX` already exists and is built at load)
 
-### [ ] Cross-references — re-enable
-`SHOW_CROSSREF = false`. Code is written and working. The comment says: *"re-enable once the full NT is translated and this can be retuned against full-corpus word frequency."*
-- [ ] Blocked on: full NT corpus
-- [ ] Then retune `CROSSREF_MAX` (currently 12) against real frequency
+### ✅ [x] Cross-references — enabled and retuned — **DONE 2026-07-20**
+`SHOW_CROSSREF = true`. **`CROSSREF_MAX` 12 → 30.**
+
+The cutoff turned out not to be delicate. Words at 16–32 occurrences are
+ordinary vocabulary worth linking (shepherd, inherit, repentance, endurance);
+the grammatical words start at 1,200+ (ὁ 19,767, καί 8,973). Nothing lives in
+between, so any cutoff from ~17 to ~100 excludes the same function words. 30 was
+chosen for **list length**, not meaning: median 4 rows, 13 at the 90th
+percentile, 28 worst case.
 
 ### [ ] Prayer view
 Placeholder — "your prayer space"

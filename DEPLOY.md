@@ -4,18 +4,41 @@ The site is static: `index.html` plus four data files. No server code, no build
 framework, no database.
 
 ```
-index.html         53 KB    all the code
-data/chapters.js  5.41 MB   the New Testament
-data/abbott.js    2.46 MB   Abbott-Smith lexicon
-data/lexicon.js   1.24 MB   Strong's / Thayer's
-data/promises.js  0.72 MB   the 1,005 promises
+index.html          64 KB   all the code
+data/chapters.js   5.41 MB  the New Testament
+data/abbott.js     2.46 MB  Abbott-Smith lexicon
+data/lexicon.js    1.24 MB  Strong's / Thayer's
+data/promises.js   1.13 MB  the 1,522 promises
+data/wordcounts.js   1 KB   generated proof table (loaded by index.html)
 _headers                    cache rules (Netlify / Cloudflare Pages)
 ```
 
-Everything else in this repo — `tools/`, `HANDOFF.md`, `CHANGELOG.md`, the plan
-files — is **working material and must not be published.** The build command
-below copies only the site into `dist/`, so connecting the repo to a host does
-not expose the rest.
+Everything else in this repo — `tools/`, `HANDOFF.md`, `CHANGELOG.md`,
+`PROJECT.md`, `TODO.md`, `CLAUDE.md`, the plan files — is **working material and
+must not be published.** The `dist/` build command below copies only the site,
+so a host that runs it does not expose the rest.
+
+> Note: the live site serves the repo root rather than this `dist/` build, so
+> those files are reachable on the domain too. See "What is actually live".
+
+---
+
+## What is actually live
+
+The site is on **GitHub Pages**, serving the repository root, with `CNAME`
+pointing at `everypromisebible.com`. Updating means uploading the changed files
+to GitHub; Pages redeploys on its own.
+
+Because Pages serves the root, the whole repo is reachable on the domain, not
+just the site — `/CHANGELOG.md`, `/TODO.md`, `/tools/*.py` and so on all return
+200. Nothing secret is exposed (no keys, no personal data, and the large KJV and
+MorphGNT sources are gitignored), and the repo is public on GitHub anyway, so
+these files are readable there regardless. Noted here as a fact of the setup,
+not a problem to fix.
+
+`https://everypromisebible.com` does not yet have a certificate — GitHub serves
+a `*.github.io` cert, so `https://` shows a browser warning while `http://`
+works normally. DNS is correct; the certificate is pending on GitHub's side.
 
 ---
 
@@ -32,7 +55,11 @@ Then open <http://localhost:8000>. Any static server works.
 
 ---
 
-## Publishing (Cloudflare Pages or Netlify)
+## Alternative host — Cloudflare Pages or Netlify
+
+The site is currently on GitHub Pages (above). This section is kept as an
+option: these hosts run a build, so only `dist/` is published, and they issue
+the SSL certificate automatically.
 
 Both are free, both give a custom domain with an automatic SSL certificate, and
 both redeploy on `git push`.
@@ -64,8 +91,9 @@ already pointed correctly.
 
 ## Notes
 
-- **First load is about 2.4 MB gzipped.** The hosts compress automatically, so
-  visitors do not download the raw 9.8 MB. It caches after the first visit.
+- **First load is about 2.5 MB gzipped** (measured: 10.31 MB raw → 2.46 MB
+  gzipped; chapters.js is 1.14 MB of that). The hosts compress automatically, so
+  visitors do not download the raw 10.3 MB. It caches after the first visit.
 - **Google Fonts is the only external call.** Offline or blocked, the page still
   works and falls back to system fonts.
 - **`_headers` is Netlify/Cloudflare syntax.** On a different host (S3, nginx)

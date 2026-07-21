@@ -372,13 +372,13 @@
         <div id="notesList"></div>
       </div>
       <div class="side-panel-content" id="tab-favorites" style="display:none;">
-        <div class="empty-state"><div class="eicon">&#9825;</div><p>No favorites yet.<br>Verses you favorite from Promises or the Bible will appear here.</p></div>
+        <div id="favoritesList"></div>
       </div>
       <div class="side-panel-content" id="tab-highlights" style="display:none;">
         <div id="highlightsList"></div>
       </div>
       <div class="side-panel-content" id="tab-history" style="display:none;">
-        <div class="empty-state"><div class="eicon">&#128340;</div><p>Nothing read yet.<br>Chapters and verses you've viewed will show up here.</p></div>
+        <div id="historyList"></div>
       </div>
     </div>
   </div>
@@ -437,8 +437,24 @@ CHAPTERS.forEach((chapter, ci) => {
     });
   });
 });
-const CROSSREF_MAX = 12; // above this, the word is too common (grammatical) to usefully list
-const SHOW_CROSSREF = false; // re-enable once the full NT is translated and this can be retuned against full-corpus word frequency
+/* Above this many occurrences a word is too common to list individually.
+   Retuned 2026-07-20 against the FULL 27-book corpus, which is what the old
+   comment here was waiting for. 12 was set when only 7 books existed (96,778
+   Greek tokens); the corpus is now 137,554, so the same semantic threshold
+   scales to ~17.
+
+   Measured, the choice turns out not to be delicate. Words in the 16-32 band
+   are all ordinary vocabulary a reader would want linked — ποιμήν shepherd,
+   κληρονομέω inherit, μετάνοια repentance, ὑπομονή endurance, ἐλεέω show mercy.
+   The genuinely grammatical words sit three orders of magnitude away: ὁ 19,767,
+   καί 8,973, αὐτός 5,549, δέ 2,766, ἐν 2,733. Nothing lives in between, so any
+   cutoff from ~17 to ~100 excludes exactly the same set of function words.
+
+   The real constraint is list length, not meaning. The list dedupes by section,
+   so at 30 a reader sees a median of 4 rows, 13 at the 90th percentile, 28 at
+   worst — scannable, and the modal already scrolls at 85vh. */
+const CROSSREF_MAX = 30;
+const SHOW_CROSSREF = true;
 
 let currentIdx = 0, fav = false, medIdx = 0, medList = [], customFlags = [];
 
@@ -525,7 +541,7 @@ function loadVerse(idx) {
   const item = PROMISES[idx];
   document.getElementById('verseText').textContent = item.verse;
   document.getElementById('verseRef').textContent = item.reference;
-  fav = false; updateFav();
+  fav = isFavorited(item.reference); updateFav();
 }
 function shuffleVerse() {
   // Must stay inside the mood pool. The old fallback of (n+1) % PROMISES.length
@@ -537,11 +553,104 @@ function shuffleVerse() {
   if (n === currentIdx) n = pool[(pool.indexOf(currentIdx) + 1) % pool.length];
   loadVerse(n);
 }
-function toggleFav() { fav = !fav; updateFav(); }
+/* ---- Favorites ----
+   Follows the bookmarks pattern exactly: loadStore -> mutate -> saveStore ->
+   re-render. Was previously `let fav = false`, which reset on every reload and
+   on every verse change, so the heart never meant anything. */
+function isFavorited(reference) {
+  return favorites.some(f => f.reference === reference);
+}
+function toggleFav() {
+  const item = PROMISES[currentIdx];
+  const at = favorites.findIndex(f => f.reference === item.reference);
+  if (at >= 0) {
+    favorites.splice(at, 1);
+  } else {
+    favorites.push({ reference: item.reference, verse: item.verse });
+  }
+  saveStore('favorites', favorites);
+  fav = at < 0;
+  updateFav();
+  renderFavoritesTab();
+}
 function updateFav() {
   const b = document.getElementById('favBtn');
   b.classList.toggle('active', fav);
   b.innerHTML = fav ? '&#9829;' : '&#9825;';
+}
+function jumpToFavorite(reference) {
+  const i = PROMISES.findIndex(p => p.reference === reference);
+  /* A favorite saved before a corpus edit may no longer resolve. Drop it
+     rather than throw — the alternative is a dead row the user cannot clear. */
+  if (i < 0) {
+    const at = favorites.findIndex(f => f.reference === reference);
+    if (at >= 0) { favorites.splice(at, 1); saveStore('favorites', favorites); }
+    renderFavoritesTab();
+    return;
+  }
+  loadVerse(i);
+  sv('promises');
+}
+function renderFavoritesTab() {
+  const el = document.getElementById('favoritesList');
+  if (!el) return;
+  if (favorites.length === 0) {
+    el.innerHTML = '<div class="empty-state"><div class="eicon">&#9825;</div><p>No favorites yet.<br>Tap the heart under any promise to save it here.</p></div>';
+    return;
+  }
+  el.innerHTML = '<div class="saved-count">' + favorites.length + ' saved</div><div class="saved-list">' +
+    favorites.map((f, i) => `
+      <div class="saved-item" onclick="jumpToFavorite('${f.reference.replace(/'/g, "\\'")}')">
+        <button class="si-remove" onclick="event.stopPropagation(); removeFavorite(${i})">&times;</button>
+        <div class="si-ref">${f.reference}</div>
+        <div class="si-text">${f.verse}</div>
+      </div>`).join('') + '</div>';
+}
+function removeFavorite(i) {
+  const gone = favorites[i];
+  favorites.splice(i, 1);
+  saveStore('favorites', favorites);
+  /* If the verse on screen is the one just un-saved, the heart must follow. */
+  if (gone && PROMISES[currentIdx] && PROMISES[currentIdx].reference === gone.reference) {
+    fav = false; updateFav();
+  }
+  renderFavoritesTab();
+}
+
+/* ---- History ----
+   Records chapter views most-recent-first. Deduped by chapter, so re-reading
+   Romans 8 moves it to the top rather than filling the list with copies. */
+function recordHistory(chapterIdx) {
+  const ref = CHAPTERS[chapterIdx].ref;
+  const at = history.findIndex(h => h.chapterIdx === chapterIdx);
+  if (at >= 0) history.splice(at, 1);
+  history.unshift({ chapterIdx, ref });
+  if (history.length > HISTORY_MAX) history.length = HISTORY_MAX;
+  saveStore('history', history);
+}
+function renderHistoryTab() {
+  const el = document.getElementById('historyList');
+  if (!el) return;
+  if (history.length === 0) {
+    el.innerHTML = '<div class="empty-state"><div class="eicon">&#128340;</div><p>Nothing read yet.<br>Chapters you open will show up here.</p></div>';
+    return;
+  }
+  el.innerHTML = '<div class="saved-count">' + history.length + ' recent</div><div class="saved-list">' +
+    history.map((h, i) => `
+      <div class="saved-item" onclick="jumpToSection(${h.chapterIdx})">
+        <button class="si-remove" onclick="event.stopPropagation(); removeHistory(${i})">&times;</button>
+        <div class="si-ref">${h.ref}</div>
+      </div>`).join('') + '</div>';
+}
+function removeHistory(i) {
+  history.splice(i, 1);
+  saveStore('history', history);
+  renderHistoryTab();
+}
+function clearHistory() {
+  history = [];
+  saveStore('history', history);
+  renderHistoryTab();
 }
 function openMeditate() {
   const item = PROMISES[currentIdx];
@@ -589,6 +698,13 @@ function saveStore(name, arr) {
 let bookmarks = loadStore('bookmarks');
 let notes = loadStore('notes');
 let highlights = loadStore('highlights');
+/* Favorites key on the promise REFERENCE, not its index. PROMISES has grown
+   329 -> 1,005 -> 1,522, and index-keyed favorites would silently re-point to a
+   different verse every time the corpus changes. The reference is stable. */
+let favorites = loadStore('favorites');
+/* History is most-recent-first and capped; see recordHistory(). */
+let history = loadStore('history');
+const HISTORY_MAX = 50;
 
 function bookOf(ref) { return ref.replace(/\s+\d+$/, ''); }
 function populateSelect() {
@@ -1082,6 +1198,11 @@ function loadChapter(idx) {
 
   idx = Number(idx);                       // the <select> hands back a string
   currentChapterIdx = idx;
+  /* Recorded here rather than in the click handlers so every route into a
+     chapter counts — the select, a bookmark jump, a history jump, or init.
+     Deliberately after the 'intro' early-return above: the introduction is not
+     a chapter and should not fill the list. */
+  recordHistory(idx);
   const chapter = CHAPTERS[idx];
   document.getElementById('chapterTitle').textContent = chapter.ref;
   renderIntro(idx);
@@ -1108,6 +1229,8 @@ function showTab(name) {
   if (name === 'bookmarks') renderBookmarksTab();
   if (name === 'notes') renderNotesTab();
   if (name === 'highlights') renderHighlightsTab();
+  if (name === 'favorites') renderFavoritesTab();
+  if (name === 'history') renderHistoryTab();
 }
 
 function sv(name) {
