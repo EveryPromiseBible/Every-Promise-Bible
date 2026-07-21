@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-07-21 — The verse being meditated on is now visible
+
+The meditate view showed the reference and the meditation but not the verse
+itself. On meditation 9 of 15 that leaves a reader holding the thing being said
+without the thing it is said about — and the reference alone only helps someone
+who already knows the verse by heart.
+
+The verse now sits under the reference in small grey type: `--sans` at 0.95em
+against the meditation's 2.3em bold, capped at 560px. Deliberately quiet. It is
+what is under consideration, not what is being said, and it should not compete
+with the meditation for the eye.
+
+Written in `openMeditate` rather than `renderMed`, because the verse does not
+change as you page through — it is set once when the view opens rather than
+rewritten on every step. Verified to survive stepping, jumping via the dots,
+and adding a custom meditation.
+
 ## 2026-07-21 — Chapter navigation at the foot of a chapter
 
 Finishing a chapter meant scrolling all the way back to the select at the top

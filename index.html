@@ -108,6 +108,11 @@
 
   #view-meditate{text-align:center;}
   .med-ref{font-family:var(--mono);font-size:0.75em;color:var(--sword);font-weight:700;margin-bottom:8px;}
+  /* the verse being meditated on, kept deliberately quiet -- it is the thing
+     under consideration, not the thing being said about it, so it sits well
+     below the meditation in weight and size */
+  .med-verse{font-family:var(--sans);font-size:0.95em;line-height:1.55;color:var(--gray);
+             max-width:560px;margin:0 auto 22px;}
   .med-counter{font-family:var(--mono);font-size:0.7em;color:var(--orange);margin-bottom:40px;}
   .med-text{font-family:var(--sans);font-size:2.3em;font-weight:700;letter-spacing:-0.01em;line-height:1.4;max-width:640px;margin:0 auto;min-height:170px;display:flex;align-items:center;justify-content:center;}
   .med-dots{display:flex;justify-content:center;gap:6px;margin:40px 0 36px;flex-wrap:wrap;max-width:400px;margin-left:auto;margin-right:auto;}
@@ -346,6 +351,7 @@
 
   <section class="view" id="view-meditate">
     <div class="med-ref" id="medRef"></div>
+    <div class="med-verse" id="medVerse"></div>
     <div class="med-counter" id="medCounter"></div>
     <div class="med-text" id="medText"></div>
     <div class="med-dots" id="medDots"></div>
@@ -691,6 +697,7 @@ function openMeditate() {
   customFlags = medList.map(() => false);
   medIdx = 0;
   document.getElementById('medRef').textContent = item.reference;
+  document.getElementById('medVerse').textContent = item.verse;
   renderMed();
   sv('meditate');
 }
