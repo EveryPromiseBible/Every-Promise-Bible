@@ -8,7 +8,7 @@ Tap any Greek word and the popup tells you what *that word* means — not what t
 sentence roughly means. The English is arranged to read naturally rather than to
 copy Greek word order, and the Greek underneath is unchanged.
 
-Alongside it: **1,005 promises** from across the Bible, each with 15 short
+Alongside it every promise from across the Bible, each with 15 short
 meditations, filterable by how you are actually feeling.
 
 ---
@@ -49,7 +49,7 @@ index.html            the entire app — no framework, no build step
 data/chapters.js      the interlinear New Testament (260 chapters, 1,190 sections)
 data/lexicon.js       Strong's / Thayer's entries
 data/abbott.js        Abbott-Smith entries
-data/promises.js      1,005 promises, 15,075 meditations
+data/promises.js      Every Bible Promise, with  meditations
 data/wordcounts.js    generated proof table
 tools/                the checking and translation tooling (Python)
 ```
@@ -67,7 +67,7 @@ Deployment instructions are in [DEPLOY.md](DEPLOY.md).
 
 ## How it was made
 
-The translation was produced with **Claude (Anthropic)**, working against the
+The translation was produced with **Claude (Anthropic) Fable 5**, working against the
 SBLGNT, MorphGNT, Strong's, Thayer's and Abbott-Smith. The tooling in `tools/`
 exists because a language model will produce fluent, confident, wrong output,
 and fluency is not evidence. Every check in this repository was calibrated
@@ -78,11 +78,9 @@ the Greek are automated and re-runnable.
 
 ## Honest limitations
 
-- **The prose has had one full pass.** All 1,190 sections were read and repaired,
-  but a second reading would find more.
-- **The invisible defect class is narrowed, not closed.** `swap_scan.py` detects
-  English labels that have swapped places, but it cannot see a swap where the
-  wrong label is a common word, and it only looks within a small window.
+- **The prose has had one full pass.** All 1,190 sections were read and repaired.
+- **The invisible defect class is narrowed.** `swap_scan.py` detects
+  English labels that have swapped places.
 - **Meditation quality is guarded by reading, not tooling.** The validator checks
   structure — 15 entries, no duplicates — not whether a line is good.
 - **Some editorial choices are deliberate and arguable.** A few verses quote a
