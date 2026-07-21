@@ -1,5 +1,53 @@
 # CHANGELOG
 
+## 2026-07-21 — The corpus reaches 2,022 promises (batches 15–20 complete the 500)
+
+1,522 → **2,022 promises, 30,330 meditations.** Twenty batches, eighteen agents,
+**500/500 accepted with zero rejections at any stage.**
+
+**What the sourcing turned out to be.** The obvious promise verses were gone
+before this started. 129 well-known references yielded 3 available; a web search
+for published promise lists returned ten verses of which ten were already here.
+So every one of the 500 came from reading the text — 24,000-odd unused
+candidates computed by subtracting the verses already covered, split into
+disjoint worksheets so two agents could never be shown the same verse. That is
+what made "no duplicate verses" structural rather than merely checked.
+
+**Verse text was never written by hand or by an agent.** References,
+meditations and moods were authored; `kjv.lookup` supplied every word of
+scripture. A misquotation was not made unlikely, it was made impossible.
+
+**Where the hard books landed.** Three ranges are actively hostile to a
+grace-based brief and were flagged to the agents in advance rather than left to
+be discovered:
+
+- **Proverbs** is conditional moral wisdom. Only God's keeping, sovereignty,
+  provision and personified Wisdom were taken; the maxims were skipped.
+- **Deuteronomy** is "if thou shalt hearken, then the LORD will". Avoided
+  almost entirely, with 30:6 kept because God is the actor there — He
+  circumcises the heart.
+- **Job** contains speeches the book itself later declares wrong. Zero verses
+  from Eliphaz, Bildad or Zophar; Elihu limited to four statements of God's
+  character, since 42:7 does not include him.
+- **James** is the most works-flavoured book in the New Testament. It yielded
+  three verses that fit cleanly. The rest of that batch came from Hebrews. The
+  22/3 split is recorded so nobody later reads it as an oversight.
+
+**Finds that no promise list would have produced:** Philemon 1:18, where Paul
+offers to take Onesimus' debt onto his own account; Genesis 15:17, where God
+alone passes between the pieces while Abram sleeps; 2 Samuel 7, almost wholly
+unused and now carrying seven entries; Job 33:24, "I have found a ransom"; and
+Ecclesiastes 9:7, a grace text sitting inside a deliberately bleak book.
+
+**On the voice gate, honestly.** It checks what `add_promises.py` structurally
+cannot: whether a meditation hands the work back to the reader. Across 4,500
+meditations it fired nineteen times and was wrong nineteen times — it only ever
+catches works vocabulary inside a *denial* of works. Useful as a prompt to read
+the line. Worthless as a verdict. Do not let a future session treat a flag as a
+failure.
+
+Healing: 116 → **209**.
+
 ## 2026-07-21 — 150 promises drafted in parallel (batches 3–8)
 
 1,572 → **1,722 promises, 25,830 meditations.** Six agents drafting
