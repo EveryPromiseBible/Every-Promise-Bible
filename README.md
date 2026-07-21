@@ -8,8 +8,9 @@ Tap any Greek word and the popup tells you what *that word* means — not what t
 sentence roughly means. The English is arranged to read naturally rather than to
 copy Greek word order, and the Greek underneath is unchanged.
 
-Alongside it: **1,005 promises** from across the Bible, each with 15 short
-meditations, filterable by how you are actually feeling.
+Alongside it: **1,522 promises** from across the Bible, each with 15 short
+meditations, filterable by how you are actually feeling — including **Provision**,
+for money, work, debt and daily supply.
 
 ---
 
@@ -49,7 +50,7 @@ index.html            the entire app — no framework, no build step
 data/chapters.js      the interlinear New Testament (260 chapters, 1,190 sections)
 data/lexicon.js       Strong's / Thayer's entries
 data/abbott.js        Abbott-Smith entries
-data/promises.js      1,005 promises, 15,075 meditations
+data/promises.js      1,522 promises, 22,830 meditations
 data/wordcounts.js    generated proof table
 tools/                the checking and translation tooling (Python)
 ```

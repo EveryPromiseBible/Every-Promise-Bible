@@ -36,7 +36,11 @@ BATCH_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "promises_n
 
 MOODS = ["Encouraged", "Grateful", "Hopeful", "Anxious", "Peaceful", "Broken",
          "Confused", "Waiting", "Lonely", "Overwhelmed", "Joyful", "Tired",
-         "Sick", "Stressed", "Tempted", "Angry"]
+         "Sick", "Stressed", "Tempted", "Angry",
+         # 2026-07-20: provision -- money, work, debt, lack, daily supply. The
+         # UI derives its pill list from the data, so adding it here (the
+         # validator's allow-list) is the only code change a new mood needs.
+         "Provision"]
 
 
 def span(ref):

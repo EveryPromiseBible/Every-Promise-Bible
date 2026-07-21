@@ -1,5 +1,297 @@
 # CHANGELOG
 
+## 2026-07-20 (later still) — Grace-lens audit: 263 law-shaped meditations rewritten
+
+Chris read some meditations and said they "feel like law and doing." He was
+right, and the defect was **older than the Provision work**.
+
+### The shape, not the vocabulary
+
+`med_scan.py` already checked for banned words (strive, earn, sow/reap) and
+reported the corpus clean. It was looking for the wrong thing. The real defect
+is a SHAPE: **reader-verb → divine-payout**, which can be built entirely from
+innocent words.
+
+  "Generosity unlocks overflow."          (Luke 6:38)
+  "Giving activates overflow."            (Malachi 3:10)
+  "Delight unlocks destiny."              (Psalm 37:4)
+  "Confession opens the door."            (1 John 1:9)
+  "Faith is heaven's currency."           (Mark 9:23)
+  "Heaven records every good work."       (Colossians 3:23-24)
+  "Humility invites exaltation."          (James 4:10)
+  "Your cry shifts things."               (Psalm 56:9)
+
+Not one of those trips a keyword filter. All of them make the reader's
+performance the lever that moves God — ledger-and-currency language about a
+Father. That is the thing the grace lens exists to prevent.
+
+### It was concentrated in the OLDEST material
+
+The 517 promises added earlier the same day were written against an explicit
+grace brief and came back essentially clean. The original corpus never had that
+brief, and it shows:
+
+| Batch | Lines rewritten / 600 |
+|---|---|
+| rev002 (early) | **39** |
+| rev003 (early) | **37** |
+| rev005 (early) | **37** |
+| rev001 (early) | **20** |
+| rev026 | 9 |
+| rev008 | 8 |
+| most later batches | **0–3** |
+
+Nine of the 39 batches needed **zero** changes.
+
+**Worst single promise: Psalm 91:14 — 9 of its 15 lines were transactional**
+("Love activates His protection.", "Deliverance is tied to devotion.", "Knowing
+Him is your promotion."). The verse itself is a because/therefore construction,
+and the meditations had simply inherited its grammar.
+
+Runner-up for subtlety: **Colossians 3:15**, where four lines cast gratitude as
+the thing that *maintains* God's peace ("Give thanks — it keeps peace ruling.").
+That one is harder to spot than a prosperity line, and worse: it makes a
+finished gift contingent on upkeep.
+
+### Result
+
+**263 lines rewritten across 138 promises — 1.15% of 22,830.** The corpus was
+not broadly broken; it had a real, specific, and clustered defect.
+
+Rewrites move God into the subject position and put His action first:
+
+| Before | After |
+|---|---|
+| Confession opens the door. | The door was opened at the cross. |
+| Trust brings calm. | Calm settles over you as you trust. |
+| Waiting brings renewal. | He renews your strength as you wait. |
+| Weakness invites power. | His power meets you in your weakness. |
+| Prayer activates promise. | His promise stands before you pray. |
+| Your sighing moved Him to act. | He was moving before you sighed. |
+| He forgave the moment you said it. | Forgiveness was settled before you spoke. |
+
+`law_scan` LEVER flags: **47 → 16**, and all 16 survivors are false positives —
+God is the actor ("He releases you into peace") or the qualification is inverted
+("Your sickness qualifies you for Him", "He qualifies you, not your years").
+
+### Two tools, and one that had to be thrown away
+
+| Tool | What it does |
+|---|---|
+| `tools/law_scan.py` | shape detector — OBLIGATION / CONDITIONAL / LEVER |
+| `tools/med_export.py` | splits PROMISES into reviewable batches |
+| `tools/med_apply.py` | merges reviews back; verse, reference and moods FROZEN |
+
+**The imperative detector failed and is left in the file, disabled, with the
+reason written down.** It tried to flag bare commands by matching the first
+capitalised word. English marks the imperative by MOOD, not form, so "Guard your
+heart." and "He stands with you." are identical to a regex. First run: 15,198
+"imperatives" across 885 "verbs", led by *he* (3,508), *his* (1,751), *your*
+(1,582), *the* (1,220). Two thirds of the corpus flagged is not a triage list.
+Deleting it silently would have invited the next session to rebuild it.
+
+**Calibration again outweighed authoring**, exactly as with `prose_scan.py` and
+`med_scan.py`. The OBLIGATION check first returned 33 hits of which ~30 were
+grace-affirming NEGATIONS — "not your job, but His", "He does not require you
+steady", "an invitation, not a demand". The grace lens is usually expressed by
+negating the law word, so a bare keyword search reports the *best* lines in the
+corpus as defects. Suppressing negated frames took it to 16.
+
+### The reviewers were told they could find nothing
+
+Every batch prompt carried an explicit over-trigger guard and told reviewers
+that reporting zero was a valid result. Nine did exactly that. This matters:
+the project has twice broken working text by over-correcting (Luke 5's
+existential inversion, Matthew 8's content-search targeting). A pass that
+rewrites 8,000 lines is not a grace audit, it is a rewrite. 1.15% is the number
+that says the tool was aimed correctly.
+
+`med_apply.py` refuses any batch that alters a verse, a reference, or a mood —
+so a reviewer judging a devotional line has no authority over scripture. All
+1,522 verses still verify verbatim against the KJV.
+
+### Left deliberately alone — Chris's call
+
+Reviewers repeatedly hit verses whose KJV text is *itself* conditional, and were
+told to fix the meditation rather than soften the verse. Where a line merely
+paraphrases the verse's own grammar, they left it and flagged it:
+
+- **Malachi 3:10** — "prove me now herewith" is a literal test-and-payout formula
+- **Luke 6:38** — "give, and it shall be given unto you"
+- **James 4:7 / 4:10** — submit → the devil flees; humble → He lifts you
+- **Psalm 50:23** — "to him that ordereth his conversation aright will I shew…"
+- **Joshua 1:8** — "then thou shalt make thy way prosperous" (6 of 9 fixes in one batch)
+- **Psalm 25:9, Proverbs 28:13, Hebrews 6:15, Psalm 91:15, Matthew 21:22, Luke 12:31**
+
+The honest tension is in the verse selection, not the writing. Whether those
+promises belong in a grace-centred corpus at all is a decision for Chris.
+
+### Verified
+
+```
+promises ............. 1,522   unchanged
+meditations .......... 22,830  unchanged (all exactly 15)
+lines rewritten ...... 263 across 138 promises (1.15%)
+verses verbatim KJV .. 1,522 / 1,522
+moods ................ unchanged, all 17
+NT units/tokens ...... 117,353 / 137,554  untouched
+law_scan LEVER ....... 47 -> 16, all 16 false positives
+```
+
+## 2026-07-20 (later) — Promises 1,005 → 1,522, and a Provision mood
+
+### The count this file used to claim was wrong
+
+The entry below reports 1,007 promises / 15,105 meditations. The data on disk
+held **1,005 / 15,075**. Two promises were removed after that entry was written
+and only `README.md` was updated to match. Both were **Sick**-tagged — every
+other mood count in that entry still reconciles exactly against the data, and
+Sick alone was short by two. What was dropped, and why, is not recorded
+anywhere. If it was a KJV-verification failure it deserved a line, because that
+gate is the whole defence against misquoted scripture.
+
+### Provision — a 17th mood
+
+Money, work, debt, lack, harvest, daily supply. **120 promises** carry it.
+
+The UI needed **no change**: `MOODS` in `index.html` is derived from the data,
+so the pill appeared on its own. The only code edit was adding "Provision" to
+the validator's allow-list in `add_promises.py`. That design paid for itself
+exactly as intended.
+
+**The theological risk was the point of the care taken.** Provision is where a
+grace-centred Bible turns into a prosperity one, and several of these verses are
+the classic proof texts — Malachi 3:10, Luke 6:38, Proverbs 3:9-10,
+Deuteronomy 15:10, Mark 10:29-30. The rule applied throughout: provision is
+grounded in God's fatherhood and Christ's finished work, and generosity is a
+**response** to grace received, never a payment that obligates God. No
+meditation makes the reader's giving, tithing or faith the lever that produces
+money.
+
+Verses whose KJV wording is itself conditional or transactional were kept
+verbatim and handled in the meditations rather than softened in the text:
+
+| Verse | The tension | How it was handled |
+|---|---|---|
+| Deuteronomy 15:10 | "because for this thing the Lord thy God shall bless thee" | "Blessing follows a heart, not a transaction." |
+| Proverbs 3:10 | barns filled — paired with 3:9's tithing | God's generous character, no give-to-get causality |
+| Job 36:11 | "if they obey and serve him" | God's desire for flourishing, not obedience-as-trigger |
+| Mark 10:29-30 | hundredfold return for what was left | "a generous rewarder, not a debtor" |
+| Exodus 19:5 | explicit Sinai conditionality | written to "treasured possession" identity |
+| Luke 6:37, Mark 11:25 | forgiveness reads reciprocal | forgiving others flows *from* forgiveness received |
+| Micah 4:12 | judgment context, not comfort | **repurposed** to "His counsel exceeds understanding" — the most interpretive move made; worth a second look |
+
+### 1,005 → 1,522 promises, 22,830 meditations
+
+**517 added.** Every mood rose, and the thin ones rose most:
+
+| | Before | After |
+|---|---|---|
+| Angry | 74 | **106** |
+| Sick | 86 | **116** |
+| Stressed | 90 | **128** |
+| Tempted | 94 | **136** |
+| Provision | — | **120** |
+
+### Misquotation was made structurally impossible, not merely detected
+
+The previous round *validated* verse text against the KJV and rejected what
+failed. That is a gate on work already done — the author still types the verse,
+and typing scripture from memory is the one failure this project cannot absorb.
+
+`tools/fill_verses.py` inverts it. A batch now supplies only reference,
+meditations and moods; the verse text is **copied out of the local KJV** by the
+tool. Nobody quotes anything, so nothing can be misquoted. All 26 batches were
+written by agents that never had authority over the verse field, and every one
+came back with the text byte-identical. `add_promises.py`'s verbatim check was
+left in place as an independent second lens rather than the only one.
+
+Result: **1,522 of 1,522 verses verbatim** (`python tools/kjv.py --verify`).
+
+### 5 pre-existing quotation defects fixed
+
+`kjv.py --verify` had been reporting 1000 match / 5 differs and nobody had run
+it down. None was invented text; four were silent **modernisations** and one
+dropped clauses:
+
+| Verse | Was | KJV reads |
+|---|---|---|
+| Jeremiah 33:3 | "show thee" | **shew** |
+| 3 John 1:2 | "thy soul prospers" | **prospereth** |
+| Matthew 28:20 | "with you always" | **alway** |
+| Psalm 29:11 | `people:` | `people;` |
+| Ephesians 4:31-32 | elided two clauses, no ellipsis | restored |
+
+The Ephesians one mattered most: the elision had removed **"even as God for
+Christ's sake hath forgiven you"** — the grace clause that grounds the command.
+In a grace-centred Bible that is the half of the verse you least want missing.
+Fixed by `tools/fix_kjv_quotes.py`.
+
+### New tooling
+
+| Tool | What it does |
+|---|---|
+| `tools/fill_verses.py` | populates verse text from the local KJV so it is never typed |
+| `tools/ref_filter.py` | screens candidate references for unresolved / already-present / span-overlap **before** meditations are written |
+| `tools/med_scan.py` | the grace-lens scanner — self-effort language, prosperity-transactional shape, straight apostrophes, length outliers, cross-promise repeats |
+| `tools/fix_kjv_quotes.py` | the 5 quotation repairs above |
+
+**`med_scan` needed calibration more than authoring** — the same lesson
+`prose_scan.py` learned. Its first run flagged 25 "self-effort" lines and every
+single one was the *opposite*: "You did not earn this gladness.", "Wisdom is His
+to give, not yours to earn.", "You need not strive; His grace already won." The
+grace lens is expressed by **negating** the effort verb, so a bare keyword search
+reports the most on-frame lines in the corpus as defects. Suppressing negated and
+contrastive frames took it from 25 hits to 6, all of which read clean.
+
+Final scan of the 517: **0 transactional, 0 straight apostrophes, 0 over-length,
+6 self-effort flags all false positives.** One genuine fix was made by hand —
+John 20:31 read *"Your belief unlocks life in His name."*, which makes belief a
+lever; now *"Life in His name is freely given."*
+
+### A bug in my own filter, caught by the merge gate
+
+`ref_filter.py` screened 1,148 candidates down to 518 and **let an exact
+duplicate through**. `Mark 10:30` was listed twice in the candidate pool — once
+under Provision, once under Lonely — and the span-overlap loop skips any
+comparison where the other reference normalises to the same key, precisely so a
+reference is not reported as overlapping *itself*. That guard made an exact
+repeat invisible.
+
+`add_promises.py` caught it at merge, but only after 15 meditations had been
+written for both copies. The duplicate was dropped (517 merged, not 518) and
+`ref_filter` now checks the candidate list against itself. **Cost: one wasted
+batch entry. Had the gate not existed, the app would show the same verse twice
+under the same heading.**
+
+### Reference discovery used the web; text never did
+
+Topical verse lists were searched for discovery only — the same limit set last
+session after a list cited a Nehemiah 8:43 in a chapter with 18 verses. They
+proved shallow again: of 152 provision candidates seeded from them, **42 were
+already in the corpus**. Depth came from going past them. Of 1,148 candidates
+screened, **0 were unresolved** — every reference existed, because the lists were
+used for ideas and the KJV index was used for truth.
+
+Two books that had **zero** promises now have one each: **Obadiah** (1:17) and
+**Philemon** (1:6). 66 of 66 books represented.
+
+### Verified
+
+```
+promises ............. 1,522   (was 1,005)
+meditations .......... 22,830  (all exactly 15 per promise)
+verses verbatim KJV .. 1,522 / 1,522
+duplicate references . 0
+moods ................ 17, all populated, all derived from data
+NT units ............. 117,353  unchanged
+NT tokens ............ 137,554  unchanged
+JSON blobs ........... all 4 parse
+```
+
+**Not verified: the visual layout.** A 17th mood pill is one more than the row
+was built for, and nobody has opened the page. That needs a human.
+
 ## 2026-07-20 — Promises 329 → 1,007, and the mood picker goes live
 
 ### Mood filtering shipped

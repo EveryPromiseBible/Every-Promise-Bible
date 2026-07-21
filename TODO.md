@@ -375,9 +375,59 @@ Chris chose **Option B** (chapter-by-chapter, fix as you go) over the bulk sweep
 All 329 promise verses were **already tagged** across 16 moods and nothing read
 them. Now wired up.
 
-**Corpus grown 329 → 1,007 promises / 15,105 meditations (2026-07-20).** Every
+**Corpus grown 329 → 1,522 promises / 22,830 meditations (2026-07-20).** Every
 added verse copied verbatim from a local public-domain KJV via `tools/kjv.py`;
 nothing merged until it passed `tools/add_promises.py`. See CHANGELOG.
+
+> ⚠️ **The "1,007 / 15,105" this line used to claim was never true on disk.**
+> The data held 1,005 / 15,075 — two Sick-tagged promises were removed after
+> that number was written and only README was corrected. Anything quoting 1,007
+> is stale.
+
+### ✅ [x] Grace-lens audit of all 22,830 meditations — **DONE 2026-07-20**
+
+Chris flagged that some meditations "feel like law and doing." Confirmed and
+fixed: **263 lines rewritten across 138 promises (1.15%)**, concentrated almost
+entirely in the ORIGINAL corpus, not the 517 added the same day.
+
+The defect is a **shape**, not vocabulary — reader-verb → divine-payout — and it
+passes every keyword filter: "Generosity unlocks overflow.", "Delight unlocks
+destiny.", "Faith is heaven's currency.", "Humility invites exaltation."
+
+Worst single promise: **Psalm 91:14, 9 of 15 lines.** Subtlest: **Colossians
+3:15**, where gratitude was framed as what *keeps* God's peace ruling.
+
+Tools: `law_scan.py` (shape triage), `med_export.py` / `med_apply.py` (safe
+parallel review — verse, reference and moods frozen at merge).
+
+- [ ] **Verses that are themselves conditional — Chris's call.** Reviewers fixed
+      the meditations but left lines that merely paraphrase the verse's own
+      grammar. Whether these belong in a grace-centred corpus is an editorial
+      decision, not an AI one: **Malachi 3:10** (prove me now herewith),
+      **Luke 6:38** (give and it shall be given), **James 4:7/4:10**,
+      **Psalm 50:23**, **Joshua 1:8**, **Psalm 25:9**, **Proverbs 28:13**,
+      **Hebrews 6:15**, **Matthew 21:22**, **Luke 12:31**.
+- [ ] **497 straight apostrophes** in the pre-existing corpus ("God's" with `'`
+      rather than `’`). All in the original 1,005; the 517 added later have zero.
+      Purely mechanical, safe to normalise.
+
+### ✅ [x] Provision — a 17th mood — **DONE 2026-07-20**
+Money, work, debt, lack, harvest, daily supply. **120 promises.** No UI change
+was needed (the pill list is derived from the data); the only code edit was the
+validator's allow-list in `add_promises.py`.
+
+**Handled deliberately against the prosperity reading.** Malachi 3:10,
+Luke 6:38, Proverbs 3:9-10, Deuteronomy 15:10 and Mark 10:29-30 are the classic
+proof texts. Provision is grounded in God's fatherhood and Christ's finished
+work; generosity is a response to grace, never a lever that obligates God. See
+CHANGELOG for the verse-by-verse table.
+
+- [ ] **Micah 4:12 wants a second look.** Its context is judgment on the
+      nations, not comfort. The meditations repurpose it to "His counsel exceeds
+      your understanding" — defensible, but the most interpretive move in the
+      batch. Chris's call whether to keep, retag or drop it.
+- [ ] **The mood row now has 17 pills.** Layout unverified — needs a human to
+      open the page.
 
 Counts at the time the picker was built (all 329 carried at least one mood):
 Encouraged 132 · Grateful 113 · Hopeful 112 · Anxious 87 · Peaceful 78 · Broken 67 · Confused 61 · Waiting 51 · Lonely 36 · Overwhelmed 35 · Joyful 32 · Tired 31 · Sick 30 · Stressed 30 · Tempted 29 · Angry 22
