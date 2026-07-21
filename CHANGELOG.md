@@ -1,5 +1,78 @@
 # CHANGELOG
 
+## 2026-07-21 — The site becomes installable, and works offline
+
+The site can now be added to a phone's home screen, opens without browser
+chrome, and reads with no connection. **Nothing about the reading experience
+changed.** `index.html` gained 30 lines — `<meta>` tags, a manifest link, and
+one registration script — and lost one. No CSS, no markup, no text was touched.
+
+This replaces the retired Flutter app rather than extending it. The store
+listings are being wound down; the only thing carried across is the sword
+launcher icon, which the site's `--sword` `#004878` was already sampled from.
+
+**Fonts moved off Google.** They were the page's only network call, and
+PROJECT.md had already flagged the consequence: offline, the three families
+fell back to system fonts. An installed app that silently loses its typography
+on a plane reads as broken, so all three are now served from `fonts/`. Latin
+and Greek subsets only — Cyrillic and Vietnamese were dead weight for an
+English UI over a Greek text. `unicode-range` is preserved, so a browser still
+fetches only what a given page needs: 22 files exist, a typical visit caches 11.
+
+**The caching split, and what it costs.** Offline and instant-updates pull
+against each other — a cache that never expires freezes the corpus, and one
+that always revalidates re-downloads 2.5 MB gzipped on a bad connection. So
+`sw.js` splits along the line `_headers` already drew: `index.html` is network
+first (small, changes often), `data/*.js` is stale-while-revalidate (huge,
+changes rarely). The honest cost is that **a newly added promise lands on the
+reader's next visit, not the current one.** That is the price of the corpus
+loading instantly and working offline, and it is worth knowing before wondering
+why an edit "did not show up." The data files are deliberately *not* precached;
+`index.html` pulls them in anyway, and precaching would have made the first
+visit slower than it is today.
+
+**Greek coverage was verified, not assumed.** Every non-ASCII codepoint in the
+four data files was extracted and checked against the self-hosted
+`unicode-range` declarations: 313 distinct codepoints, of which 194 are Greek.
+**All 194 are covered by Gentium Plus — no gaps**, including the whole Greek
+Extended block the polytonic accents live in. Verified in a browser with the
+server stopped: Matthew 5 rendered 604 Greek words from cache, computed font
+`"Gentium Plus", serif`.
+
+The same sweep turned up four OCR artifacts in `abbott.js` — two combining
+accents sitting one letter to the right of where they belong, a stray acute
+after a comma, and a Cyrillic ї standing in for a Latin ï. Logged in TODO.md
+under data fixes; they need repairing upstream in the generator, not by hand.
+
+Hebrew (49 codepoints, plus 14 presentation forms) has no font of its own and
+falls back to a system face. That was equally true when Google served the
+fonts — Gentium Plus offers no Hebrew subset — so it is unchanged, not a
+regression, but it is now written down.
+
+## 2026-07-20 — Two features investigated and declined
+
+Recorded because the reasoning cost real work and would otherwise be repeated.
+
+**Greek pronunciation audio — not built.** No automated option meets this
+project's accuracy bar. There is no single correct Koine pronunciation
+(Erasmian, Modern, and reconstructed Koine genuinely conflict); LEXICON's
+existing pronunciation on all 5,359 entries is Erasmian, so a Modern Greek TTS
+voice would contradict the text printed beside it; and eSpeak's Ancient Greek
+voice is described by its own maintainers as "an initial naive implementation."
+Shipping any of them would make audio the first thing in the app that is
+approximate while presented as authoritative.
+
+The useful finding, if it is ever revisited: **500 recordings would cover 84.3%
+of every Greek token**, 200 cover 73%, and 1,841 of the 5,359 words occur once.
+Recording is a few hundred items, not 5,359. Full detail in TODO.md.
+
+**Abbott–Smith reference linking — not built.** Those entries carry 33,092
+embedded references; 27,750 are NT and resolve to a chapter. But the corpus has
+no verse numbers by design, so "Mt 5:16" could only land a reader in Matthew 5
+with nothing to find verse 16 by — promising a precision the translation
+deliberately does not offer. Left as printed text, which is what they are in the
+original lexicon.
+
 ## 2026-07-20 — Favorites, History, and cross-references go live
 
 Three features that were built-but-inert. No text was touched.

@@ -22,6 +22,7 @@ __pycache__/
 
 # Claude Code per-user local settings (personal, not shared)
 .claude/settings.local.json
+.claude/settings.local.json.bak
 
 # Downloaded public-domain lexicon / Greek sources (large; reproducible via
 # the URLs documented in tools/lex_build.py and tools/co2_tags.py headers)

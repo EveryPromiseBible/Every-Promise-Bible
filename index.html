@@ -4,7 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Every Promise</title>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&family=Gentium+Plus:ital@0;1&display=swap" rel="stylesheet">
+<meta name="description" content="An interlinear Greek New Testament where every English word is anchored to its Greek source, with a promises and meditations layer.">
+
+<!-- installable web app: manifest, icons, and the iOS-only equivalents -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#004878">
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Every Promise">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+<!-- fonts are served from this repo rather than Google, so an installed copy
+     still renders correctly with no connection. Same three families, same
+     names, Latin + Greek subsets. See fonts/fonts.css. -->
+<link rel="stylesheet" href="fonts/fonts.css">
 <style>
   :root {
     --white:#ffffff; --paper:#fbfaf8; --ink:#111111; --gray:#9a9a95; --line:#eceae3;
@@ -1251,6 +1265,24 @@ renderMoods();                 // restore any saved mood before the first verse
 loadVerse(pickRandomIdx());
 document.getElementById('studyLabel').classList.add('active');
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
+</script>
+
+<script>
+/* Register the service worker -- this is what makes the site installable and
+ * lets it work with no connection. It is deliberately the last thing to run
+ * and guarded on every side: a browser without support, a file:// open, or a
+ * failed registration all fall through silently to the ordinary site. The
+ * worker is an enhancement, never a dependency. */
+const swOK = location.protocol === 'https:' ||
+             location.hostname === 'localhost' ||
+             location.hostname === '127.0.0.1';
+if ('serviceWorker' in navigator && swOK) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(err => {
+      console.warn('[sw] registration failed:', err);
+    });
+  });
+}
 </script>
 
 </body>
