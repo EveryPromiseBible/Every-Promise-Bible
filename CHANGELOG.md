@@ -1,5 +1,45 @@
 # CHANGELOG
 
+## 2026-07-21 — 150 promises drafted in parallel (batches 3–8)
+
+1,572 → **1,722 promises, 25,830 meditations.** Six agents drafting
+simultaneously, **150/150 accepted by `add_promises.py` with zero rejections**.
+
+**Duplicate verses were made structurally impossible rather than merely
+checked.** Each agent received its own worksheet of unused verses drawn from a
+disjoint slice of the canon — Psalms 1–72, Psalms 73–150, Isaiah + Jeremiah,
+the Minor Prophets, Matthew + Mark, Luke + Acts — and was told to pick only
+from that file. Two agents cannot choose the same verse if they are never shown
+the same verse. The 8,726 candidates were computed by subtracting every verse
+already covered by an existing promise span, so the worksheets could not offer
+anything already in the corpus.
+
+**Verse text was never written by an agent.** They returned references,
+meditations and moods only; `kjv.lookup` supplied the words. A misquotation is
+not unlikely here, it is impossible — the only text that can reach the corpus
+is the text in the source.
+
+**A voice gate now runs before the validator.** `add_promises.py` guards
+structure and cannot guard voice, which is the thing most likely to drift when
+six writers work in parallel. The gate checks the two rules that actually
+define this content: grace-based (no meditation may hand the work back to the
+reader) and in voice (median 6 words, ceiling 12, declarative, no questions or
+exclamations). Across 2,250 meditations it raised four flags, **all four false
+positives** — it cannot read negation, so "He did not wait for you to deserve
+it" trips the same rule as its opposite would. Worth knowing before the next
+run: the check is a prompt for judgement, not a verdict.
+
+Word counts came back median 6–7 against the corpus's 6, p90 8–9 against 8.
+
+**The imperative problem, handled well.** Acts 2:38 and Luke 11:9 carry
+commands, and the agent holding them flagged the difficulty rather than papering
+over it. Its meditations dwell on the gift the command points at — "The word
+gift rules out earning", "Access is gift, not achievement", "Peter offers grace
+to the crowd that shouted crucify" — which is the framing the rest of the corpus
+uses.
+
+Healing is now 153. **300 remaining.**
+
 ## 2026-07-21 — 50 new promises, grace-based and Christ-centred (batches 1–2)
 
 1,522 → **1,572 promises, 23,580 meditations.** Two batches of 25, both passing
