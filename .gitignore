@@ -37,3 +37,8 @@ tools/data/KJV.json
 
 # build output (assembled by the host, not committed)
 dist/
+
+# Promise batches are staging, not source. Once add_promises.py --merge has
+# written them into data/promises.js the file must leave promises_new/ or it
+# is re-read as a duplicate and blocks the next merge.
+tools/promises_new/
