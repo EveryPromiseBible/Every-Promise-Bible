@@ -1,0 +1,4 @@
+# The four data blobs are single-line JS files written by tools/epcore.py.
+# Git must not rewrite their line endings or the whole file churns on every
+# commit and the diffs become useless.
+data/*.js -text

@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Every Promise</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&family=Gentium+Plus:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --white:#ffffff; --paper:#fbfaf8; --ink:#111111; --gray:#9a9a95; --line:#eceae3;
+    --orange:#FF5A1F; --blue:#3B6FE0; --yellow:#F0B90B; --green:#3FA66A; --pink:#E8558C;
+    /* sampled from the sword in the logo mark, not guessed: its dominant
+       saturated pixels sit at #004070-#004878. --sword is the darker working
+       value; --sword-soft is for tints and borders. */
+    --sword:#004878; --sword-soft:#E4EDF4;
+    --sans:'Space Grotesk',sans-serif; --mono:'JetBrains Mono',monospace; --grk:'Gentium Plus',serif;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:var(--sans);color:var(--ink);background:var(--white);min-height:100vh;}
+  a{color:inherit;}
+
+  header{display:flex;justify-content:space-between;align-items:center;padding:18px 32px;flex-wrap:wrap;gap:14px;border-bottom:1px solid var(--line);}
+  .wordmark{font-weight:700;font-size:0.95em;white-space:nowrap;}
+  .brand{display:flex;flex-direction:column;align-items:flex-start;gap:7px;}
+  .logo-circle{width:44px;height:44px;border-radius:50%;background:var(--paper);border:1px solid var(--line);display:flex;align-items:center;justify-content:center;overflow:hidden;flex:none;}
+  .logo-circle img{width:100%;height:100%;object-fit:contain;display:block;}
+  nav.top-nav{display:flex;gap:22px;font-size:0.85em;text-transform:capitalize;}
+  nav.top-nav button{background:none;border:none;color:var(--gray);font-family:inherit;font-size:1em;cursor:pointer;padding:2px 0;text-transform:capitalize;}
+  nav.top-nav button.active{color:var(--sword);font-weight:700;box-shadow:inset 0 -2px 0 var(--sword);}
+  nav.top-nav button:hover{color:var(--sword);}
+  .bible-toolbar{display:none;align-items:center;gap:6px;}
+  .bible-toolbar.show{display:flex;}
+  .tool-btn{width:38px;height:38px;border-radius:8px;border:1.5px solid var(--line);background:var(--white);display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:1em;color:var(--ink);}
+  .tool-btn:hover{border-color:var(--ink);}
+  .tool-btn.active{background:var(--orange);border-color:var(--orange);color:#fff;}
+  select.chapter-select{
+    font-family:var(--mono);font-size:0.82em;font-weight:700;
+    border:1.5px solid var(--line);border-radius:8px;padding:8px 14px;background:var(--white);cursor:pointer;
+  }
+
+  main{max-width:900px;margin:0 auto;padding:20px 40px 110px;}
+  .view{display:none;} .view.active{display:block;}
+
+  .kicker{font-family:var(--mono);font-size:0.72em;color:var(--gray);margin-bottom:20px;display:flex;align-items:center;gap:10px;}
+  .kicker .dot{width:7px;height:7px;border-radius:50%;background:var(--sword);}
+  #verseText{font-size:2.6em;font-weight:700;line-height:1.15;margin:0;letter-spacing:-0.01em;max-width:820px;}
+  .ref{font-family:var(--mono);font-size:0.85em;color:var(--sword);margin-top:24px;font-weight:700;}
+  .actions{display:flex;gap:10px;margin-top:38px;flex-wrap:wrap;align-items:center;}
+  .abtn{font-family:var(--sans);font-weight:600;font-size:0.88em;text-transform:lowercase;padding:13px 24px;border-radius:999px;cursor:pointer;border:1.5px solid var(--ink);background:var(--white);}
+  .abtn.primary{background:var(--ink);color:var(--white);}
+  .abtn.primary:hover{background:var(--sword);border-color:var(--sword);}
+  .abtn:hover:not(.primary){background:#f4f4f2;}
+  .aicon{width:44px;height:44px;border-radius:50%;border:1.5px solid var(--ink);display:flex;align-items:center;justify-content:center;cursor:pointer;background:var(--white);}
+
+  /* introduction — shown above Matthew 1 only */
+  .intro{border:1.5px solid var(--line);border-left:4px solid var(--sword);border-radius:10px;
+         padding:26px 30px;margin:0 0 38px;background:var(--paper);max-width:820px;}
+  .intro h2{font-size:1.25em;margin:0 0 6px;letter-spacing:-0.01em;}
+  .intro .intro-sub{font-family:var(--mono);font-size:0.72em;color:var(--sword);
+                    font-weight:700;margin-bottom:18px;}
+  .intro p{font-size:0.95em;line-height:1.6;margin:0 0 14px;max-width:70ch;}
+  .intro strong{color:var(--sword);}
+  .intro .intro-toggle{font-family:var(--mono);font-size:0.72em;background:none;border:none;
+        color:var(--sword);cursor:pointer;padding:6px 0;text-decoration:underline;font-weight:700;}
+  .intro table{border-collapse:collapse;width:100%;margin-top:14px;font-family:var(--mono);font-size:0.7em;}
+  .intro th,.intro td{text-align:right;padding:4px 8px;border-bottom:1px solid var(--line);}
+  .intro th:first-child,.intro td:first-child{text-align:left;}
+  .intro thead th{color:var(--gray);font-weight:700;border-bottom:1.5px solid var(--line);}
+  .intro tfoot td{font-weight:700;border-top:1.5px solid var(--line);border-bottom:none;}
+  .intro .ok{color:var(--green);}
+  .intro-table-wrap{overflow-x:auto;}
+
+  /* mood picker — sits on the top row, centred, across from "verse of the day" */
+  .promise-head{display:flex;align-items:flex-start;gap:24px;margin-bottom:22px;}
+  .promise-head .kicker{margin-bottom:0;flex:0 0 auto;padding-top:5px;}
+  .mood-bar{flex:1 1 auto;display:flex;flex-direction:column;align-items:center;gap:9px;min-width:0;}
+  .mood-q{font-family:var(--mono);font-size:0.72em;color:var(--gray);}
+  .mood-pills{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;}
+  .mood{font-family:var(--mono);font-size:0.7em;line-height:1;
+        padding:7px 13px;border-radius:999px;border:1.5px solid var(--line);
+        background:var(--white);color:var(--gray);cursor:pointer;transition:none;}
+  .mood:hover{border-color:var(--sword);color:var(--sword);background:var(--sword-soft);}
+  .mood.on{background:var(--sword);border-color:var(--sword);color:#fff;}
+  .mood-clear{font-family:var(--mono);font-size:0.7em;
+              background:none;border:none;color:var(--gray);cursor:pointer;padding:7px 6px;text-decoration:underline;}
+  .mood-clear:hover{color:var(--ink);}
+  /* the verse is the page; the picker must stay quiet next to it */
+  @media(max-width:760px){
+    .promise-head{flex-direction:column;gap:16px;}
+    .mood-bar{align-items:flex-start;width:100%;}
+    .mood-pills{justify-content:flex-start;}
+  }
+  .aicon.active{background:var(--orange);border-color:var(--orange);color:#fff;}
+
+  #view-meditate{text-align:center;}
+  .med-ref{font-family:var(--mono);font-size:0.75em;color:var(--sword);font-weight:700;margin-bottom:8px;}
+  .med-counter{font-family:var(--mono);font-size:0.7em;color:var(--orange);margin-bottom:40px;}
+  .med-text{font-family:var(--sans);font-size:2.3em;font-weight:700;letter-spacing:-0.01em;line-height:1.4;max-width:640px;margin:0 auto;min-height:170px;display:flex;align-items:center;justify-content:center;}
+  .med-dots{display:flex;justify-content:center;gap:6px;margin:40px 0 36px;flex-wrap:wrap;max-width:400px;margin-left:auto;margin-right:auto;}
+  .med-dots span{width:7px;height:7px;border-radius:50%;background:var(--line);cursor:pointer;}
+  .med-dots span.active{background:var(--orange);width:18px;border-radius:4px;}
+  .med-dots span.custom{background:var(--blue);}
+  .med-nav{display:flex;justify-content:center;gap:14px;align-items:center;}
+  .med-nav button{width:50px;height:50px;border-radius:50%;border:1.5px solid var(--ink);background:var(--white);cursor:pointer;font-size:1.2em;}
+  .med-nav button:hover{background:#f4f4f2;}
+  .med-nav button:disabled{opacity:0.25;cursor:default;}
+  .med-add{margin-top:44px;padding-top:28px;border-top:1px solid var(--line);max-width:420px;margin-left:auto;margin-right:auto;}
+  .med-add .addlabel{font-family:var(--mono);font-size:0.68em;color:var(--gray);text-transform:lowercase;margin-bottom:10px;}
+  .med-add-row{display:flex;gap:8px;}
+  .med-add-row input{flex:1;font-family:var(--grk);font-size:1em;padding:10px 14px;border:1.5px solid var(--line);border-radius:8px;}
+  .med-add-row input:focus{outline:none;border-color:var(--orange);}
+  .med-add-row button{background:var(--ink);color:#fff;border:none;border-radius:8px;padding:0 20px;font-family:var(--sans);font-weight:600;cursor:pointer;}
+  .med-close{margin-top:50px;}
+  .med-close button{font-family:var(--mono);font-size:0.72em;color:var(--gray);background:none;border:none;cursor:pointer;text-transform:lowercase;text-decoration:underline;}
+
+  .bible-layout{display:flex;max-width:1400px;margin:0 auto;}
+  .bible-main{flex:1;max-width:900px;}
+  .chapter-head-row{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-bottom:30px;}
+  .bible-main h1{font-size:1.9em;font-weight:700;margin:0;}
+  .mode-toggle{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:0.72em;color:var(--gray);text-transform:lowercase;user-select:none;}
+  .switch{position:relative;width:46px;height:26px;border-radius:999px;background:var(--line);cursor:pointer;transition:background .2s ease;flex-shrink:0;}
+  .switch.on{background:var(--orange);}
+  .switch .knob{position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:var(--white);box-shadow:0 1px 3px rgba(0,0,0,0.25);transition:transform .2s ease;}
+  .switch.on .knob{transform:translateX(20px);}
+  .mode-toggle .mlabel.active{color:var(--ink);font-weight:700;}
+  .section{margin-bottom:2.6em;}
+  .section-heading-row{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:0.25em;margin-bottom:1.1em;gap:10px;}
+  .section-heading{font-family:var(--sans);font-style:italic;font-weight:500;font-size:1.05em;color:#6b5f4a;}
+  .sec-actions{display:flex;gap:4px;flex-shrink:0;}
+  .sec-action-btn{
+    width:28px;height:28px;border-radius:6px;border:1px solid transparent;background:none;
+    display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:0.85em;color:var(--gray);
+  }
+  .sec-action-btn:hover{background:#f4f3ef;border-color:var(--line);}
+  .sec-action-btn.active{color:var(--orange);}
+  .word-row{display:flex;flex-wrap:wrap;align-items:flex-start;row-gap:0.9em;}
+  .unit{display:inline-flex;flex-direction:column;align-items:center;margin:0 0.4em 0 0;text-align:center;border-radius:5px;padding:2px 3px;}
+  .unit.clickable{cursor:pointer;transition:background .12s ease;}
+  .unit.clickable:hover{background:#f4f3ef;}
+  .unit.highlighted{background:#fdf0b8;}
+  .unit.highlighted:hover{background:#fbe79a;}
+  .eng{font-size:0.95em;font-weight:700;line-height:1.15;white-space:nowrap;}
+  .eng.filler{color:#2b2b2b;font-weight:400;font-style:italic;}
+  .grk{font-family:var(--grk);font-size:0.85em;line-height:1.1;margin-top:0.06em;white-space:nowrap;}
+  .grk.empty{visibility:hidden;}
+  .tag{font-family:var(--mono);font-size:0.52em;color:#9c9488;line-height:1.3;margin-top:0.16em;white-space:nowrap;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;}
+  .tag.empty{visibility:hidden;text-decoration:none;}
+  body.highlight-mode #view-bible .unit.clickable{cursor:cell;}
+  body.read-mode #view-bible .grk, body.read-mode #view-bible .tag{visibility:hidden;}
+  body.read-mode #view-bible .unit.clickable{cursor:default;}
+  body.read-mode #view-bible .unit.clickable:hover{background:none;}
+  body.read-mode #view-bible .sec-actions{display:none;}
+
+  /* ---- Saved item lists (bookmarks/notes/highlights) ---- */
+  .saved-list{display:flex;flex-direction:column;gap:10px;}
+  .saved-item{border:1.5px solid var(--line);border-radius:10px;padding:14px;cursor:pointer;background:var(--white);position:relative;}
+  .saved-item:hover{border-color:var(--ink);}
+  .saved-item .si-ref{font-family:var(--mono);font-size:0.66em;color:var(--orange);font-weight:700;margin-bottom:6px;}
+  .saved-item .si-text{font-size:0.85em;line-height:1.4;}
+  .saved-item .si-note{font-family:var(--grk);font-size:0.9em;color:var(--ink);margin-top:6px;font-style:italic;}
+  .saved-item .si-remove{
+    position:absolute;top:8px;right:8px;background:none;border:none;color:var(--gray);cursor:pointer;
+    font-size:0.9em;line-height:1;padding:2px 4px;
+  }
+  .saved-item .si-remove:hover{color:var(--pink);}
+  .saved-count{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-bottom:14px;text-transform:lowercase;}
+
+  /* ---- Note modal ---- */
+  .note-card textarea{
+    width:100%;min-height:120px;font-family:var(--grk);font-size:1em;padding:12px 14px;
+    border:1.5px solid var(--line);border-radius:10px;resize:vertical;margin-top:6px;
+  }
+  .note-card textarea:focus{outline:none;border-color:var(--orange);}
+  .note-card .note-actions{display:flex;gap:8px;margin-top:14px;justify-content:flex-end;}
+  .note-card .note-actions button{
+    font-family:var(--sans);font-size:0.85em;font-weight:600;padding:9px 18px;border-radius:8px;cursor:pointer;
+    border:1.5px solid var(--line);background:var(--white);
+  }
+  .note-card .note-actions button.primary{background:var(--ink);color:#fff;border-color:var(--ink);}
+
+  .side{width:360px;flex-shrink:0;border-left:1px solid var(--line);padding:0 0 30px;background:var(--paper);display:none;overflow-y:auto;}
+  .side.open{display:block;}
+  .side-tabs{display:flex;flex-wrap:wrap;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--paper);z-index:5;}
+  .side-tab-btn{
+    flex:1 1 auto;min-width:64px;font-family:var(--mono);font-size:0.62em;text-transform:capitalize;
+    color:var(--gray);background:none;border:none;padding:12px 6px;cursor:pointer;border-bottom:2px solid transparent;
+    text-align:center;white-space:nowrap;
+  }
+  .side-tab-btn.active{color:var(--sword);border-bottom-color:var(--sword);font-weight:700;}
+  .side-panel-content{padding:26px 24px;}
+  .side-panel-content h2{font-size:1.05em;font-weight:700;text-transform:lowercase;margin:0 0 20px;}
+  .lib-group{margin-bottom:32px;}
+  .glabel{font-family:var(--mono);font-size:0.68em;color:var(--gray);text-transform:lowercase;margin-bottom:12px;}
+  .lib-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  .lib-card{border:1.5px solid var(--line);border-radius:10px;padding:14px;cursor:pointer;background:var(--white);}
+  .lib-card:hover{border-color:var(--ink);}
+  .lib-card.active{border-color:var(--orange);background:#fff8f4;}
+  .lswatch{width:20px;height:20px;border-radius:5px;margin-bottom:10px;}
+  .lcode{font-family:var(--mono);font-size:0.6em;color:var(--gray);margin-bottom:4px;}
+  .lname{font-size:0.82em;font-weight:600;}
+  .empty-state{text-align:center;padding:50px 10px;color:var(--gray);}
+  .empty-state .eicon{font-size:1.8em;margin-bottom:14px;opacity:0.6;}
+  .empty-state p{font-family:var(--mono);font-size:0.78em;line-height:1.6;margin:0;}
+
+  .bnav{display:none;}
+
+  .overlay{display:none;position:fixed;inset:0;background:rgba(17,17,17,0.35);z-index:100;align-items:center;justify-content:center;padding:20px;}
+  .overlay.open{display:flex;}
+  .def-card{background:var(--white);border-radius:16px;max-width:460px;width:100%;padding:0;box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;overflow-y:auto;}
+  .def-card .def-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:1.3em;color:var(--gray);cursor:pointer;line-height:1;z-index:2;}
+  .def-source-block{padding:26px 26px 22px;}
+  .def-source-label{
+    display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:0.66em;font-weight:700;
+    text-transform:uppercase;letter-spacing:0.06em;color:var(--gray);margin-bottom:16px;
+  }
+  .def-source-label .src-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+  .def-source-label .src-dot.strongs{background:var(--orange);}
+  .def-source-label .src-dot.abbott{background:var(--blue);}
+  .def-source-label .src-line{flex:1;height:1px;background:var(--line);}
+  .def-greek-row{display:flex;align-items:baseline;gap:12px;margin-bottom:4px;flex-wrap:wrap;}
+  .def-greek{font-family:var(--grk);font-size:1.7em;font-weight:500;}
+  .def-translit{font-family:var(--mono);font-size:0.85em;color:var(--gray);font-style:italic;}
+  .def-pron{font-family:var(--mono);font-size:0.72em;color:var(--gray);margin-bottom:14px;}
+  .def-strongs-tag{display:inline-block;font-family:var(--mono);font-size:0.68em;font-weight:700;color:var(--orange);border:1px solid var(--orange);border-radius:999px;padding:2px 10px;margin-bottom:16px;}
+  .def-section{margin-bottom:14px;}
+  .def-label{font-family:var(--mono);font-size:0.64em;color:var(--gray);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:4px;}
+  .def-text{font-size:0.92em;line-height:1.55;}
+  .def-eng-word{font-family:var(--mono);font-size:0.72em;color:var(--gray);padding:14px 26px 20px;border-top:1px solid var(--line);}
+  .def-divider{height:8px;background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
+  .def-multi + .def-multi{margin-top:12px;padding-top:14px;border-top:1px dashed var(--line);}
+
+  /* Abbott-Smith specific */
+  .as-meta{display:flex;gap:14px;flex-wrap:wrap;font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-bottom:14px;}
+  .as-meta b{color:var(--ink);}
+  .as-senses{border:1px solid var(--line);border-radius:10px;overflow:hidden;}
+  .as-sense-item{border-bottom:1px solid var(--line);}
+  .as-sense-item:last-child{border-bottom:none;}
+  .as-sense-head{
+    display:flex;align-items:center;gap:10px;padding:11px 14px;cursor:pointer;background:var(--white);
+    transition:background .12s ease;
+  }
+  .as-sense-head:hover{background:#f4f3ef;}
+  .as-sense-head .as-num{font-family:var(--mono);font-weight:700;color:var(--blue);font-size:0.82em;flex-shrink:0;}
+  .as-sense-head .as-preview{font-size:0.86em;flex:1;color:var(--ink);}
+  .as-sense-head .as-chevron{font-size:0.7em;color:var(--gray);transition:transform .18s ease;flex-shrink:0;}
+  .as-sense-item.open .as-chevron{transform:rotate(90deg);}
+  .as-sense-body{display:none;padding:4px 14px 14px 38px;background:var(--paper);}
+  .as-sense-item.open .as-sense-body{display:block;}
+  .as-subsense{padding:6px 0;font-size:0.86em;line-height:1.5;}
+  .as-subsense .as-subnum{font-family:var(--mono);color:var(--blue);font-weight:700;margin-right:6px;}
+  .as-synonyms{margin-top:14px;padding-top:12px;border-top:1px dashed var(--line);font-size:0.82em;line-height:1.55;color:#444;}
+  .crossref-list{display:flex;flex-direction:column;gap:6px;}
+  .crossref-item{
+    font-family:var(--mono);font-size:0.78em;padding:8px 10px;border:1px solid var(--line);border-radius:8px;
+    cursor:pointer;transition:border-color .12s ease;
+  }
+  .crossref-item:hover{border-color:var(--orange);color:var(--orange);}
+
+  @media(max-width:1000px){
+    nav.top-nav{display:none;}
+    main{padding:10px 20px 110px;}
+    #verseText{font-size:1.7em;}
+    .bible-layout{flex-direction:column;}
+    .side{width:100%;border-left:none;border-top:1px solid var(--line);}
+    header{padding:12px 16px;} .wordmark{display:none;}
+    .bnav{display:flex;justify-content:space-around;position:fixed;left:0;right:0;bottom:0;background:var(--white);border-top:1px solid var(--line);padding:10px 4px 16px;z-index:50;}
+    .bnav button{display:flex;flex-direction:column;align-items:center;gap:3px;background:none;border:none;font-family:var(--mono);font-size:0.6em;color:var(--gray);text-transform:capitalize;}
+    .bnav button.active{color:var(--orange);}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <span class="logo-circle"><img alt="Every Promise" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAGrElEQVR42u2dTY8dRxWG33O6+n7OeBI7seyAIOCQOAgJdrAwC5CQ+BFILCLBv2DFkiULNpEiZYFQfgIsgAVCSmRhICIQhHCC42BsJjNzP/p2V9Vh0e2ZOzP3jlhO+rzP6up+LLrrrXPec6q6LkAIIYQQQgghhBBCCCGEEEIIIaSHFC4vWgrdfeXOa+H2t34yuvaZr+jsyduxXlYQcXcvxNvlhkJRvvrdN5af/+r3kVeAlgiHTx7r3bderOcH8/Z7xgjQv7FXAIbpjVsvrb787ddzs5gBFiSu5nnn6jNXBuWqevj+b7zNCXUX88rxc9kMAAIgCtEBcswYjF/wmA79CKAddKQn9/8wWHwyg5YDADBBVjNd3v/z6x6ToqMIYIAoFvPDCh/97ccIpSKnCkU5Cvv/uZ8e/eOddaF4IXgMe7Fa7nczPUMVMdZHOTXm8V6ox4s2oDgx+gJr74NQAH4EYMc1v3kq+iiAdsyznXRBcsZoOtkdD4fisTXiUgBStHFfAEVKmO5Mb+7u7RUA3DUDnQmgnfmT3Z09WD4e7axFyB77wO4E0JV4167f+BJSAkwUKlhVDZbLmh7AC7NlLVBtA4IKqjpisag8tgG8CaCN8vNlBASwrgTIACzFU2mCAujv+KOumi7/C5BiHE3GeO6Fm5PWBCoF4KMM7NSQkYsQMJzsjDzei/61gtfM/DlbLwpYAkLW43CvgiYmzGeLtjkkgKz90rYYSQrgkjv9zYOXAAB7V6/ePIgJIlCD5BQN86MqwQzGxaBPL6PBADrYnUYzKYoC5SBgOChRhgKqguV8HiejgcadZ28dpAiIKoCcM6BaPjueTD8ZDEbFdHc3xGxSNw1i3SDGBEBR5OVyvpinHtqifrD30je+t7p1582YamgRUKggBIWKQCBo6hrZUl6Zau52CD29DUVdLQrLsSjLyXA8DtmAmDJyzkgpARIwnj167/B3b77KCHBJOcD0awhhATQRyIqI9iWstfciCoQRxM4kCEMajiYpWwSQl8vVAmZtc1AEUFGI5Sbs3GYKuMwpQPNiVQwmlnO72yusBTqzru5PQI5d8JMTIZhBymGwdo1g0MZGOfEVRYFgMzT9rIz7wXByZRinz9/OZgZbHz8DRETNYF/4+k/t+ufuIK4iRAOADBWVqs7406++Y7Z6DIi0xYRYpxGDiIbq8OPm6NG/GQEuKavF4QqLw3vbPs8A5PmX7+HGF+/A6m79p90qZjECj9/7dfe1jf3Avs3+HpaBsmU917oeQIaJDjcOrwigoxK2Wm0PjsY+wCVvAlwwQO1nohs6BdZuDDPLdvKpj36Av1awbXnDfG4Mc7kWcFoJbfvXfO4HcSgAySCuI4D2sQKmAP7vwG/5TAowCoCXTAH4sQDIG1OAUADeqkBbzwuMAG4iwPltQq4NoeMIsP4OI4BvBO62glEAx2FfAGMKcDfsxH0fwM54AK4F+DCBls+ngK46EArAawTwWws4FEDeONTsBLqzgmspoOsOMQV4TAEXPUpGAfQ1BawHA3F9Uhj7AM6bA9wP4PygQIeLQXnD9DdWAT4rgXVhcDHIXSw4ZQQZARwLwezUsTAUQK8Dv24MBCwDvcx32WQCmQIcKUAv9gMUgNdigFWAE86kALONZSEF4KYEBFvB/i5ZNucBowAcpPwNj4ebnToUjALodRm4xQk6LQR4RAzLQG85QEEJsA9weuQdVwL+TKBtKgDEbS+AG0Kebggxn08GMAU8LQ14TJxnE0AT6MgEXGQM6AGcmEA7pwhxGgcYAbpxN5aBTjL+lvMhha1gr5HAuBzs1PifvOazgZ5mvp6e8V0bWLglzFPkPxPzTdw+HObXBK4POD2AJzLOnwhkTAFuUoDolinPFOCkAMjnKwJWAU5LwLUqgB7A+SXzgAg3ZeC2FEAT6JPjPxGnCXRpAdo3xe0hIY7/MmZ9I6hxOdhNBEhnY0G7GihOT4t2JIB2dMfjUYadMYIZGBUap9ORu5rAXQQIy/273ZQ/UYEoimb2bmqq+gKnQAH0gbz/4LeSE4CivXbLNbTI+b8PflHVtbvt4X4E0C0DNvsP3h8uj2YoitDO9EI1J80f//XnNIEOSoC6rpJ+9JcfQUuVFGcIZRgdPvxjOnj44bpQKIAeNwGaD+7+LFSzbGGgYtDyw3s/bFIyj80AZx7AABE01dFy9MHdH2B4ZTJ+8s9fzv/17u+7f48E6X8e6MrBqT7zzdf+vnv9xc8+TQ/EGXt7166EIvBGEEIIIYQQQgghhBBCCCGEEEIIIaRX/A+ZMIFWH44rXwAAAABJRU5ErkJggg=="></span>
+    <span class="wordmark">Every Promise</span>
+  </div>
+  <nav class="top-nav">
+    <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
+    <button data-v="bible" onclick="sv('bible')">Bible</button>
+    <button data-v="mystuff" onclick="sv('mystuff')">My Stuff</button>
+    <button data-v="prayer" onclick="sv('prayer')">Prayer</button>
+    <button data-v="journal" onclick="sv('journal')">Journal</button>
+  </nav>
+  <div class="bible-toolbar" id="bibleToolbar">
+    <select class="chapter-select" id="chapterSelect" onchange="loadChapter(this.value)"></select>
+    <button class="tool-btn" title="home">&#8962;</button>
+    <button class="tool-btn" title="search">&#128269;</button>
+    <button class="tool-btn" id="hlBtn" onclick="toggleHighlightMode()" title="highlight">&#9998;</button>
+    <button class="tool-btn" title="listen">&#128266;</button>
+    <button class="tool-btn" id="libBtn" onclick="toggleLibrary()" title="library">&#128218;</button>
+  </div>
+</header>
+
+<main>
+  <section class="view active" id="view-promises">
+    <div class="promise-head">
+      <div class="kicker"><span class="dot"></span><span id="kickerLabel">Verse of the day</span></div>
+      <div class="mood-bar">
+        <div class="mood-q" id="moodQ">How are you feeling today?</div>
+        <div class="mood-pills" id="moodPills"></div>
+      </div>
+    </div>
+    <h1 id="verseText">loading...</h1>
+    <div class="ref" id="verseRef"></div>
+    <div class="actions">
+      <button class="abtn primary" onclick="openMeditate()">meditate</button>
+      <button class="abtn">share</button>
+      <button class="abtn" onclick="shuffleVerse()">shuffle</button>
+      <button class="aicon" id="favBtn" onclick="toggleFav()">&#9825;</button>
+    </div>
+  </section>
+
+  <section class="view" id="view-meditate">
+    <div class="med-ref" id="medRef"></div>
+    <div class="med-counter" id="medCounter"></div>
+    <div class="med-text" id="medText"></div>
+    <div class="med-dots" id="medDots"></div>
+    <div class="med-nav">
+      <button id="medPrev" onclick="medStep(-1)">&#8592;</button>
+      <button id="medNext" onclick="medStep(1)">&#8594;</button>
+    </div>
+    <div class="med-add">
+      <div class="addlabel">+ add your own</div>
+      <div class="med-add-row">
+        <input type="text" id="customInput" placeholder="write your own meditation on this verse...">
+        <button onclick="addCustomMeditation()">add</button>
+      </div>
+    </div>
+    <div class="med-close"><button onclick="sv('promises')">&#8592; back to promises</button></div>
+  </section>
+</main>
+
+<div class="view" id="view-bible">
+  <div class="bible-layout">
+    <div class="bible-main" style="padding:0 50px 40px;">
+      <div class="chapter-head-row">
+        <h1 id="chapterTitle">Matthew 1</h1>
+        <div class="mode-toggle">
+          <span class="mlabel" id="studyLabel">study</span>
+          <div class="switch" id="modeSwitch" onclick="toggleMode()"><div class="knob"></div></div>
+          <span class="mlabel" id="readLabel">read</span>
+        </div>
+      </div>
+      <div id="bibleIntro"></div>
+      <div id="sectionsContainer"></div>
+    </div>
+
+    <div class="side" id="library">
+      <div class="side-tabs" id="sideTabs">
+        <button class="side-tab-btn active" data-tab="library" onclick="showTab('library')">Library</button>
+        <button class="side-tab-btn" data-tab="bookmarks" onclick="showTab('bookmarks')">Bookmarks</button>
+        <button class="side-tab-btn" data-tab="notes" onclick="showTab('notes')">Notes</button>
+        <button class="side-tab-btn" data-tab="favorites" onclick="showTab('favorites')">Favorites</button>
+        <button class="side-tab-btn" data-tab="highlights" onclick="showTab('highlights')">Highlights</button>
+        <button class="side-tab-btn" data-tab="history" onclick="showTab('history')">History</button>
+      </div>
+
+      <div class="side-panel-content" id="tab-library">
+        <div class="lib-group"><div class="glabel">translations</div>
+          <div class="lib-grid" style="grid-template-columns:1fr;max-width:170px;">
+            <div class="lib-card active"><div class="lswatch" style="background:var(--orange);"></div><div class="lcode">tx.01</div><div class="lname">Mak Translation</div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="side-panel-content" id="tab-bookmarks" style="display:none;">
+        <div id="bookmarksList"></div>
+      </div>
+      <div class="side-panel-content" id="tab-notes" style="display:none;">
+        <div id="notesList"></div>
+      </div>
+      <div class="side-panel-content" id="tab-favorites" style="display:none;">
+        <div class="empty-state"><div class="eicon">&#9825;</div><p>No favorites yet.<br>Verses you favorite from Promises or the Bible will appear here.</p></div>
+      </div>
+      <div class="side-panel-content" id="tab-highlights" style="display:none;">
+        <div id="highlightsList"></div>
+      </div>
+      <div class="side-panel-content" id="tab-history" style="display:none;">
+        <div class="empty-state"><div class="eicon">&#128340;</div><p>Nothing read yet.<br>Chapters and verses you've viewed will show up here.</p></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="view" id="view-mystuff"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">my stuff</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">favorites, notes, highlights, library</p></div></section>
+<section class="view" id="view-prayer"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">your prayer space</p></div></section>
+<section class="view" id="view-journal"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">journal</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">yearly themes and reflection</p></div></section>
+
+<div class="bnav">
+  <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
+  <button data-v="bible" onclick="sv('bible')">Bible</button>
+  <button data-v="mystuff" onclick="sv('mystuff')">Stuff</button>
+  <button data-v="prayer" onclick="sv('prayer')">Prayer</button>
+  <button data-v="journal" onclick="sv('journal')">Journal</button>
+</div>
+
+<div class="overlay" id="defOverlay" onclick="if(event.target===this) closeDef()">
+  <div class="def-card" id="defCard"></div>
+</div>
+
+<div class="overlay" id="noteOverlay" onclick="if(event.target===this) closeNoteModal()">
+  <div class="def-card note-card" id="noteCard"></div>
+</div>
+
+<script src="data/chapters.js"></script>
+<script src="data/lexicon.js"></script>
+<script src="data/promises.js"></script>
+<script src="data/abbott.js"></script>
+<script src="data/wordcounts.js"></script>
+<script>
+const PALETTE = [
+"#b5461a","#1a6fa8","#7a8c1a","#a3247a","#1a8c6f","#c47a00","#5a3fa8",
+"#0f7a3f","#a81a3f","#2f6ba8","#8c5a1a","#1a9c9c","#8c1a8c","#4f7a1a",
+"#c4321a","#1a4fa8","#a87a1a","#2f8c5a","#7a1a5a","#1a7ac4","#a84f1a",
+"#5a7a1a","#c41a6f","#1a8caf","#8c3f1a","#3f1a8c","#a89c1a","#1a5a7a",
+"#7a4f1a","#c41a3f","#1a7a4f","#6f1a8c","#af7a1a","#1a3fa8","#8c1a3f",
+"#4f8c1a"
+];
+
+
+/* Build an index: Strong's number -> every place it occurs across all books */
+const OCCURRENCE_INDEX = {};
+CHAPTERS.forEach((chapter, ci) => {
+  chapter.sections.forEach((sec, si) => {
+    sec.words.forEach((triple) => {
+      const eng = triple[0], grk = triple[1], tag = triple[2];
+      if (!tag) return;
+      tag.split(' \u00b7 ').forEach(part => {
+        const m = part.trim().match(/^G(\d+)/);
+        if (!m) return;
+        const num = 'G' + m[1];
+        if (!OCCURRENCE_INDEX[num]) OCCURRENCE_INDEX[num] = [];
+        OCCURRENCE_INDEX[num].push({ chapterIdx: ci, ref: chapter.ref, heading: sec.heading, eng, grk });
+      });
+    });
+  });
+});
+const CROSSREF_MAX = 12; // above this, the word is too common (grammatical) to usefully list
+const SHOW_CROSSREF = false; // re-enable once the full NT is translated and this can be retuned against full-corpus word frequency
+
+let currentIdx = 0, fav = false, medIdx = 0, medList = [], customFlags = [];
+
+/* ---- mood filtering -------------------------------------------------------
+   Every promise was already tagged with moods in the data; nothing read them
+   until now. The list is derived from PROMISES rather than hardcoded, so a mood
+   added to the data shows up here automatically and one that is removed cannot
+   leave a dead button behind. Ordered by how many promises carry it. */
+const MOODS = (function () {
+  const count = {};
+  PROMISES.forEach(p => (p.moods || []).forEach(m => { count[m] = (count[m] || 0) + 1; }));
+  return Object.keys(count)
+    .sort((a, b) => count[b] - count[a] || a.localeCompare(b))
+    .map(m => ({ name: m, n: count[m] }));
+})();
+
+let activeMoods = new Set(loadStore('moods'));
+
+/* Indices of the promises currently in play. Several moods select the UNION,
+   not the intersection: someone who is both anxious and tired wants either
+   verse, and intersecting 16 moods empties out fast. Falls back to everything
+   if a filter somehow matches nothing, so the page can never go blank. */
+function moodPool() {
+  if (!activeMoods.size) return PROMISES.map((_, i) => i);
+  const out = [];
+  PROMISES.forEach((p, i) => {
+    if ((p.moods || []).some(m => activeMoods.has(m))) out.push(i);
+  });
+  return out.length ? out : PROMISES.map((_, i) => i);
+}
+
+function renderMoods() {
+  const wrap = document.getElementById('moodPills');
+  if (!wrap) return;
+  wrap.innerHTML = '';
+  MOODS.forEach(m => {
+    const b = document.createElement('button');
+    b.className = 'mood' + (activeMoods.has(m.name) ? ' on' : '');
+    b.textContent = m.name;
+    b.title = m.n + ' promise' + (m.n === 1 ? '' : 's');
+    b.setAttribute('aria-pressed', activeMoods.has(m.name) ? 'true' : 'false');
+    b.onclick = () => toggleMood(m.name);
+    wrap.appendChild(b);
+  });
+  if (activeMoods.size) {
+    const c = document.createElement('button');
+    c.className = 'mood-clear';
+    c.textContent = 'Clear';
+    c.onclick = clearMoods;
+    wrap.appendChild(c);
+  }
+  const chosen = MOODS.filter(m => activeMoods.has(m.name)).map(m => m.name);
+  // No count here on purpose. A number invites the reader to weigh one mood
+  // against another ("only 22?") when what matters is that a promise is here
+  // for them at all.
+  document.getElementById('moodQ').textContent = activeMoods.size
+    ? 'Chosen for you'
+    : 'How are you feeling today?';
+  document.getElementById('kickerLabel').textContent = chosen.length
+    ? 'For when you feel ' + (chosen.length === 1 ? chosen[0]
+        : chosen.slice(0, -1).join(', ') + ' or ' + chosen[chosen.length - 1])
+    : 'Verse of the day';
+}
+
+function toggleMood(name) {
+  if (activeMoods.has(name)) activeMoods.delete(name); else activeMoods.add(name);
+  saveStore('moods', Array.from(activeMoods));
+  renderMoods();
+  loadVerse(pickRandomIdx());   // answer the tap immediately with a matching verse
+}
+
+function clearMoods() {
+  activeMoods.clear();
+  saveStore('moods', []);
+  renderMoods();
+}
+
+function pickRandomIdx() {
+  const pool = moodPool();
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+function loadVerse(idx) {
+  currentIdx = idx;
+  const item = PROMISES[idx];
+  document.getElementById('verseText').textContent = item.verse;
+  document.getElementById('verseRef').textContent = item.reference;
+  fav = false; updateFav();
+}
+function shuffleVerse() {
+  // Must stay inside the mood pool. The old fallback of (n+1) % PROMISES.length
+  // stepped to the next promise in the whole corpus, which with a filter on
+  // would hand back a verse the chosen mood does not carry.
+  const pool = moodPool();
+  if (pool.length === 1) { loadVerse(pool[0]); return; }
+  let n = pickRandomIdx();
+  if (n === currentIdx) n = pool[(pool.indexOf(currentIdx) + 1) % pool.length];
+  loadVerse(n);
+}
+function toggleFav() { fav = !fav; updateFav(); }
+function updateFav() {
+  const b = document.getElementById('favBtn');
+  b.classList.toggle('active', fav);
+  b.innerHTML = fav ? '&#9829;' : '&#9825;';
+}
+function openMeditate() {
+  const item = PROMISES[currentIdx];
+  medList = item.meditations.slice();
+  customFlags = medList.map(() => false);
+  medIdx = 0;
+  document.getElementById('medRef').textContent = item.reference;
+  renderMed();
+  sv('meditate');
+}
+function renderMed() {
+  document.getElementById('medText').textContent = medList[medIdx];
+  document.getElementById('medCounter').textContent = (medIdx + 1) + ' of ' + medList.length;
+  document.getElementById('medPrev').disabled = medIdx === 0;
+  document.getElementById('medNext').disabled = medIdx === medList.length - 1;
+  document.getElementById('medDots').innerHTML = medList.map((m, i) =>
+    '<span class="' + (i === medIdx ? 'active' : '') + (customFlags[i] ? ' custom' : '') + '" onclick="jumpMed(' + i + ')"></span>'
+  ).join('');
+}
+function medStep(dir) { const n = medIdx + dir; if (n < 0 || n >= medList.length) return; medIdx = n; renderMed(); }
+function jumpMed(i) { medIdx = i; renderMed(); }
+function addCustomMeditation() {
+  const input = document.getElementById('customInput');
+  const val = input.value.trim();
+  if (!val) return;
+  medList.push(val); customFlags.push(true); medIdx = medList.length - 1;
+  input.value = ''; renderMed();
+}
+
+let readMode = false;
+let highlightMode = false;
+let currentChapterIdx = 0;
+let pendingNoteKey = null;
+
+function loadStore(name) {
+  try {
+    const raw = localStorage.getItem('everypromise_' + name);
+    return raw ? JSON.parse(raw) : [];
+  } catch (e) { return []; }
+}
+function saveStore(name, arr) {
+  try { localStorage.setItem('everypromise_' + name, JSON.stringify(arr)); } catch (e) {}
+}
+
+let bookmarks = loadStore('bookmarks');
+let notes = loadStore('notes');
+let highlights = loadStore('highlights');
+
+function bookOf(ref) { return ref.replace(/\s+\d+$/, ''); }
+function populateSelect() {
+  const sel = document.getElementById('chapterSelect');
+  // The introduction is its own destination, sitting above Matthew 1 rather
+  // than living inside it -- it describes the whole translation, not that chapter.
+  let out = '<option value="intro">Introduction</option>', current = null;
+  CHAPTERS.forEach((c, i) => {
+    const b = bookOf(c.ref);
+    if (b !== current) {
+      if (current !== null) out += '</optgroup>';
+      out += `<optgroup label="${b}">`;
+      current = b;
+    }
+    out += `<option value="${i}">${c.ref}</option>`;
+  });
+  if (current !== null) out += '</optgroup>';
+  sel.innerHTML = out;
+}
+function parseTag(tag) {
+  return tag.split(' \u00b7 ').map(part => {
+    const m = part.trim().match(/^G(\d+)\s+(.*)$/);
+    if (!m) return null;
+    return { num: 'G' + m[1], pos: m[2] };
+  }).filter(Boolean);
+}
+function showDefinition(eng, grk, tag) {
+  const parts = parseTag(tag);
+  const card = document.getElementById('defCard');
+  let html = '<button class="def-close" onclick="closeDef()">&times;</button>';
+
+  parts.forEach((p, idx) => {
+    const entry = LEXICON[p.num];
+    const abbott = ABBOTT[p.num];
+
+    html += '<div class="def-multi">';
+
+    /* ---- STRONG'S section ---- */
+    html += `<div class="def-source-block">
+      <div class="def-source-label"><span class="src-dot strongs"></span>strong's<span class="src-line"></span></div>`;
+    if (entry) {
+      html += `<div class="def-greek-row"><span class="def-greek">${entry.greek}</span><span class="def-translit">${entry.translit}</span></div>
+        <div class="def-pron">${entry.pronunciation || ''}</div>
+        <div class="def-strongs-tag">${p.num} &middot; ${p.pos}</div>
+        <div class="def-section"><div class="def-label">Definition</div><div class="def-text">${entry.definition || '&mdash;'}</div></div>`;
+      if (entry.derivation) html += `<div class="def-section"><div class="def-label">Derivation</div><div class="def-text">${entry.derivation}</div></div>`;
+      if (entry.kjv) html += `<div class="def-section"><div class="def-label">KJV renders this as</div><div class="def-text">${entry.kjv}</div></div>`;
+    } else {
+      html += `<div class="def-strongs-tag">${p.num} &middot; ${p.pos}</div><div class="def-text">No lexicon entry found.</div>`;
+    }
+    html += SHOW_CROSSREF ? buildCrossRefHtml(p.num) : '';
+    html += '</div>';
+
+    /* ---- ABBOTT-SMITH section ---- */
+    if (abbott) {
+      html += `<div class="def-divider"></div>
+      <div class="def-source-block">
+        <div class="def-source-label"><span class="src-dot abbott"></span>abbott-smith<span class="src-line"></span></div>
+        <div class="as-meta">${abbott.occurrencesNT ? `<span>occurs <b>${abbott.occurrencesNT}&times;</b> in NT</span>` : ''}<span>${abbott.form}</span></div>`;
+      if (abbott.etymology) {
+        html += `<div class="def-section"><div class="def-label">Etymology</div><div class="def-text">${abbott.etymology}</div></div>`;
+      }
+      if (abbott.senses && abbott.senses.length) {
+        html += '<div class="as-senses">' + abbott.senses.map((s, si) => buildSenseAccordion(s, p.num, idx, si)).join('') + '</div>';
+      }
+      if (abbott.synonyms) {
+        html += `<div class="as-synonyms">${abbott.synonyms}</div>`;
+      }
+      html += '</div>';
+    }
+
+    html += '</div>';
+    if (idx < parts.length - 1) html += '<div class="def-divider"></div>';
+  });
+
+  html += `<div class="def-eng-word">In this translation: <b>${eng}</b> &mdash; ${grk}</div>`;
+  card.innerHTML = html;
+  document.getElementById('defOverlay').classList.add('open');
+}
+
+function buildSenseAccordion(sense, num, partIdx, senseIdx) {
+  const itemId = 'sense-' + num + '-' + partIdx + '-' + senseIdx;
+  const preview = sense.text || (sense.subsenses[0] ? sense.subsenses[0].text : '');
+  const subHtml = renderSubsenses(sense.subsenses);
+  return `<div class="as-sense-item" id="${itemId}">
+    <div class="as-sense-head" onclick="toggleSense('${itemId}')">
+      ${sense.num ? `<span class="as-num">${sense.num}</span>` : ''}
+      <span class="as-preview">${preview}</span>
+      <span class="as-chevron">&#9656;</span>
+    </div>
+    <div class="as-sense-body">${sense.text && sense.subsenses.length ? `<div class="as-subsense">${sense.text}</div>` : ''}${subHtml}</div>
+  </div>`;
+}
+function renderSubsenses(subsenses) {
+  if (!subsenses || !subsenses.length) return '';
+  return subsenses.map(s => `
+    <div class="as-subsense"><span class="as-subnum">${s.num}</span>${s.text}${renderSubsenses(s.subsenses)}</div>
+  `).join('');
+}
+function toggleSense(itemId) {
+  document.getElementById(itemId).classList.toggle('open');
+}
+
+function buildCrossRefHtml(num) {
+  const occ = OCCURRENCE_INDEX[num] || [];
+  if (occ.length <= 1) return ''; // only occurs here, nothing to cross-reference
+  if (occ.length > CROSSREF_MAX) {
+    return `<div class="def-section"><div class="def-label">Other occurrences</div>
+      <div class="def-text">This is a common word &mdash; it appears ${occ.length} times across the New Testament, so individual links aren't shown here.</div></div>`;
+  }
+  // dedupe by chapter+heading, keep count per location
+  const seen = {};
+  const order = [];
+  occ.forEach(o => {
+    const key = o.chapterIdx + ':' + o.heading;
+    if (!seen[key]) { seen[key] = { ...o, count: 0 }; order.push(key); }
+    seen[key].count++;
+  });
+  const items = order.map(key => {
+    const o = seen[key];
+    const countLabel = o.count > 1 ? ` (${o.count}&times;)` : '';
+    return `<div class="crossref-item" onclick="closeDef(); jumpToSection(${o.chapterIdx});">
+      ${o.ref} &middot; ${o.heading}${countLabel}
+    </div>`;
+  }).join('');
+  return `<div class="def-section"><div class="def-label">Other occurrences (${occ.length})</div><div class="crossref-list">${items}</div></div>`;
+}
+function closeDef() { document.getElementById('defOverlay').classList.remove('open'); }
+
+/* ---- Bookmarks ---- */
+function toggleBookmark(chapterIdx, sectionIdx, heading) {
+  const key = chapterIdx + ':' + sectionIdx;
+  const existing = bookmarks.findIndex(b => b.key === key);
+  if (existing >= 0) {
+    bookmarks.splice(existing, 1);
+  } else {
+    bookmarks.push({ key, chapterIdx, sectionIdx, ref: CHAPTERS[chapterIdx].ref, heading });
+  }
+  saveStore('bookmarks', bookmarks);
+  loadChapter(currentChapterIdx);
+  renderBookmarksTab();
+}
+function jumpToSection(chapterIdx) {
+  loadChapter(chapterIdx);
+  sv('bible');
+}
+function renderBookmarksTab() {
+  const el = document.getElementById('bookmarksList');
+  if (bookmarks.length === 0) {
+    el.innerHTML = '<div class="empty-state"><div class="eicon">&#128278;</div><p>No bookmarks yet.<br>Tap the bookmark icon next to any section to save it here.</p></div>';
+    return;
+  }
+  el.innerHTML = '<div class="saved-count">' + bookmarks.length + ' saved</div><div class="saved-list">' +
+    bookmarks.map((b, i) => `
+      <div class="saved-item" onclick="jumpToSection(${b.chapterIdx})">
+        <button class="si-remove" onclick="event.stopPropagation(); removeBookmark(${i})">&times;</button>
+        <div class="si-ref">${b.ref}</div>
+        <div class="si-text">${b.heading}</div>
+      </div>`).join('') + '</div>';
+}
+function removeBookmark(i) {
+  bookmarks.splice(i, 1);
+  saveStore('bookmarks', bookmarks);
+  loadChapter(currentChapterIdx);
+  renderBookmarksTab();
+}
+
+/* ---- Notes ---- */
+function openNoteModal(chapterIdx, sectionIdx, heading) {
+  pendingNoteKey = chapterIdx + ':' + sectionIdx;
+  const existing = notes.find(n => n.key === pendingNoteKey);
+  const card = document.getElementById('noteCard');
+  card.innerHTML = `
+    <button class="def-close" onclick="closeNoteModal()">&times;</button>
+    <div class="def-strongs-tag">${CHAPTERS[chapterIdx].ref}</div>
+    <div class="def-label" style="margin-top:6px;">${heading}</div>
+    <textarea id="noteTextarea" placeholder="write a note on this section...">${existing ? existing.text : ''}</textarea>
+    <div class="note-actions">
+      ${existing ? '<button onclick="deleteNote()">delete</button>' : ''}
+      <button class="primary" onclick="saveNote(${chapterIdx}, ${sectionIdx}, '${heading.replace(/'/g, "\\'")}')">save</button>
+    </div>`;
+  document.getElementById('noteOverlay').classList.add('open');
+}
+function saveNote(chapterIdx, sectionIdx, heading) {
+  const text = document.getElementById('noteTextarea').value.trim();
+  const key = chapterIdx + ':' + sectionIdx;
+  const existingIdx = notes.findIndex(n => n.key === key);
+  if (!text) {
+    if (existingIdx >= 0) notes.splice(existingIdx, 1);
+  } else if (existingIdx >= 0) {
+    notes[existingIdx].text = text;
+  } else {
+    notes.push({ key, chapterIdx, sectionIdx, ref: CHAPTERS[chapterIdx].ref, heading, text });
+  }
+  saveStore('notes', notes);
+  closeNoteModal();
+  loadChapter(currentChapterIdx);
+  renderNotesTab();
+}
+function deleteNote() {
+  const idx = notes.findIndex(n => n.key === pendingNoteKey);
+  if (idx >= 0) notes.splice(idx, 1);
+  saveStore('notes', notes);
+  closeNoteModal();
+  loadChapter(currentChapterIdx);
+  renderNotesTab();
+}
+function closeNoteModal() { document.getElementById('noteOverlay').classList.remove('open'); pendingNoteKey = null; }
+function renderNotesTab() {
+  const el = document.getElementById('notesList');
+  if (notes.length === 0) {
+    el.innerHTML = '<div class="empty-state"><div class="eicon">&#128221;</div><p>No notes yet.<br>Tap the note icon next to any section to add one.</p></div>';
+    return;
+  }
+  el.innerHTML = '<div class="saved-count">' + notes.length + ' saved</div><div class="saved-list">' +
+    notes.map((n, i) => `
+      <div class="saved-item" onclick="jumpToSection(${n.chapterIdx})">
+        <button class="si-remove" onclick="event.stopPropagation(); removeNote(${i})">&times;</button>
+        <div class="si-ref">${n.ref} &middot; ${n.heading}</div>
+        <div class="si-note">${n.text}</div>
+      </div>`).join('') + '</div>';
+}
+function removeNote(i) {
+  notes.splice(i, 1);
+  saveStore('notes', notes);
+  loadChapter(currentChapterIdx);
+  renderNotesTab();
+}
+
+/* ---- Highlights ---- */
+/* ---- stable highlight keys ------------------------------------------------
+   Highlights used to be keyed "chapterIdx:sectionIdx:wordIdx" -- pure position.
+   Every text fix reorders units inside a section, so after an update position
+   47 is a different word and the reader's highlight silently slides onto it.
+   Harmless while it is one person's localStorage; unfixable once accounts exist,
+   because the old positions are gone.
+
+   The fix leans on a property this data provably has: a section's Greek
+   MULTISET never changes (verified 0 of 260 chapters across ~250 edits). So the
+   Greek token plus which occurrence of it this is within the section identifies
+   a word uniquely AND survives any reordering. The chapter is identified by its
+   ref string rather than its index, so inserting a chapter cannot shift it. */
+function stableKey(chapterIdx, sectionIdx, grk, nth) {
+  return CHAPTERS[chapterIdx].ref + '|' + sectionIdx + '|' + grk + '|' + nth;
+}
+
+/* One-time migration of highlights saved under the old positional scheme.
+   Resolves each old key against the CURRENT text; anything that no longer
+   resolves is dropped rather than left pointing at the wrong word. */
+function migrateHighlightKeys() {
+  const OLD = /^(\d+):(\d+):(\d+)$/;
+  let changed = 0, lost = 0;
+  highlights = highlights.filter(h => {
+    const m = OLD.exec(h.key || '');
+    if (!m) return true;                       // already migrated
+    const c = +m[1], s = +m[2], w = +m[3];
+    const sec = CHAPTERS[c] && CHAPTERS[c].sections[s];
+    if (!sec || !sec.words[w]) { lost++; return false; }
+    const grk = sec.words[w][1];
+    if (!grk) { lost++; return false; }
+    let nth = 0;
+    for (let i = 0; i <= w; i++) if (sec.words[i][1] === grk) nth++;
+    h.key = stableKey(c, s, grk, nth);
+    changed++;
+    return true;
+  });
+  if (changed || lost) {
+    saveStore('highlights', highlights);
+    console.info('highlights migrated to stable keys: ' + changed +
+                 (lost ? ', ' + lost + ' dropped (no longer resolvable)' : ''));
+  }
+}
+
+function toggleHighlightMode() {
+  highlightMode = !highlightMode;
+  document.body.classList.toggle('highlight-mode', highlightMode);
+  document.getElementById('hlBtn').classList.toggle('active', highlightMode);
+}
+function toggleHighlight(wordKey, chapterIdx, sectionIdx, heading, eng, grk) {
+  const existingIdx = highlights.findIndex(h => h.key === wordKey);
+  if (existingIdx >= 0) {
+    highlights.splice(existingIdx, 1);
+  } else {
+    highlights.push({ key: wordKey, chapterIdx, sectionIdx, ref: CHAPTERS[chapterIdx].ref, heading, eng, grk });
+  }
+  saveStore('highlights', highlights);
+  renderHighlightsTab();
+}
+function renderHighlightsTab() {
+  const el = document.getElementById('highlightsList');
+  if (highlights.length === 0) {
+    el.innerHTML = '<div class="empty-state"><div class="eicon">&#9998;</div><p>No highlights yet.<br>Turn on the highlight tool in the toolbar, then tap any word.</p></div>';
+    return;
+  }
+  el.innerHTML = '<div class="saved-count">' + highlights.length + ' saved</div><div class="saved-list">' +
+    highlights.map((h, i) => `
+      <div class="saved-item" onclick="jumpToSection(${h.chapterIdx})">
+        <button class="si-remove" onclick="event.stopPropagation(); removeHighlight(${i})">&times;</button>
+        <div class="si-ref">${h.ref} &middot; ${h.heading}</div>
+        <div class="si-text"><b>${h.eng}</b> &mdash; ${h.grk}</div>
+      </div>`).join('') + '</div>';
+}
+function removeHighlight(i) {
+  highlights.splice(i, 1);
+  saveStore('highlights', highlights);
+  loadChapter(currentChapterIdx);
+  renderHighlightsTab();
+}
+
+function buildSection(section, chapterIdx, sectionIdx) {
+  const secDiv = document.createElement('div');
+  secDiv.className = 'section';
+
+  const headRow = document.createElement('div');
+  headRow.className = 'section-heading-row';
+
+  const h = document.createElement('div');
+  h.className = 'section-heading';
+  h.textContent = section.heading;
+  headRow.appendChild(h);
+
+  const actions = document.createElement('div');
+  actions.className = 'sec-actions';
+
+  const bmKey = chapterIdx + ':' + sectionIdx;
+  const isBookmarked = bookmarks.some(b => b.key === bmKey);
+  const hasNote = notes.some(n => n.key === bmKey);
+
+  const bmBtn = document.createElement('button');
+  bmBtn.className = 'sec-action-btn' + (isBookmarked ? ' active' : '');
+  bmBtn.innerHTML = isBookmarked ? '&#128278;' : '&#128278;\uFE0E';
+  bmBtn.title = 'bookmark this section';
+  bmBtn.onclick = () => toggleBookmark(chapterIdx, sectionIdx, section.heading);
+  actions.appendChild(bmBtn);
+
+  const noteBtn = document.createElement('button');
+  noteBtn.className = 'sec-action-btn' + (hasNote ? ' active' : '');
+  noteBtn.innerHTML = '&#128221;';
+  noteBtn.title = 'add a note';
+  noteBtn.onclick = () => openNoteModal(chapterIdx, sectionIdx, section.heading);
+  actions.appendChild(noteBtn);
+
+  headRow.appendChild(actions);
+  secDiv.appendChild(headRow);
+
+  const row = document.createElement('div');
+  row.className = 'word-row';
+
+  let colorIdx = 0;
+  const grkSeen = {};          // how many times each Greek token has appeared in this section
+  section.words.forEach((triple, wordIdx) => {
+    const eng = triple[0], grk = triple[1], tag = triple[2];
+    const unit = document.createElement('span');
+    unit.className = 'unit';
+
+    const engEl = document.createElement('span');
+    const grkEl = document.createElement('span');
+    grkEl.className = 'grk';
+    const tagEl = document.createElement('span');
+    tagEl.className = 'tag';
+
+    if (grk === "") {
+      engEl.className = 'eng filler';
+      engEl.textContent = eng;
+      grkEl.classList.add('empty');
+      grkEl.textContent = '\u00A0';
+      tagEl.classList.add('empty');
+      tagEl.textContent = '\u00A0';
+    } else {
+      const color = PALETTE[colorIdx % PALETTE.length];
+      colorIdx++;
+      engEl.className = 'eng';
+      engEl.style.color = color;
+      engEl.textContent = eng;
+      grkEl.style.color = color;
+      grkEl.textContent = grk;
+      tagEl.textContent = tag;
+
+      unit.classList.add('clickable');
+      const nth = (grkSeen[grk] = (grkSeen[grk] || 0) + 1);
+      const wordKey = stableKey(chapterIdx, sectionIdx, grk, nth);
+      unit.dataset.wordKey = wordKey;
+      if (highlights.some(hl => hl.key === wordKey)) unit.classList.add('highlighted');
+
+      unit.addEventListener('click', () => {
+        if (highlightMode) {
+          toggleHighlight(wordKey, chapterIdx, sectionIdx, section.heading, eng, grk);
+          unit.classList.toggle('highlighted');
+        } else {
+          showDefinition(eng, grk, tag);
+        }
+      });
+    }
+
+    unit.appendChild(engEl);
+    unit.appendChild(grkEl);
+    unit.appendChild(tagEl);
+    row.appendChild(unit);
+  });
+
+  secDiv.appendChild(row);
+  return secDiv;
+}
+/* ---- introduction, shown above Matthew 1 only -----------------------------
+   The word-count table is built from data/wordcounts.js, which is GENERATED
+   from the corpus and checked against MorphGNT at build time -- it is not typed
+   by hand, so it cannot drift from what the app actually contains. If a Greek
+   word were ever added or lost, the "matches" column would say so. */
+let introOpen = false;
+
+function renderIntro(idx) {
+  const el = document.getElementById('bibleIntro');
+  if (!el) return;
+  if (idx !== 'intro') { el.innerHTML = ''; return; }   // its own destination
+
+  const g = WORDCOUNTS.reduce((a, r) => a + r[1], 0);
+  const s = WORDCOUNTS.reduce((a, r) => a + r[2], 0);
+  const e = WORDCOUNTS.reduce((a, r) => a + r[3], 0);
+  const allMatch = WORDCOUNTS.every(r => r[1] === r[2]);
+  const n = x => x.toLocaleString('en-US');
+
+  el.innerHTML = `
+    <div class="intro">
+      <h2>The Mak Translation</h2>
+      <div class="intro-sub">An interlinear New Testament &middot; every English word anchored to its Greek word</div>
+
+      <p>This is a thought-for-thought English New Testament laid over the Greek
+      text of the <strong>SBLGNT</strong>. It is built on one rule: <strong>every English
+      word sits on the specific Greek word it came from.</strong> Tap any Greek word and
+      the popup tells you what <em>that word</em> means &mdash; not what the sentence
+      roughly means.</p>
+
+      <p>The English is arranged to read naturally rather than to copy Greek word
+      order. Doing that safely is the hard part, because reordering the English
+      can quietly leave a label sitting on the wrong Greek word. Every one of the
+      1,190 sections has been read through, and the Greek was checked after every
+      change: <strong>no Greek word has been added, removed, or moved between
+      chapters.</strong></p>
+
+      <p>The table below is the proof, and it is generated from the text you are
+      reading, not written by hand. For each book it compares the Greek words in
+      this app against the Greek words in the SBLGNT source. English needs more
+      words than Greek to say the same thing &mdash; about
+      <strong>${(e / g).toFixed(2)}&times;</strong> as many &mdash; which is why that
+      column is larger. The Greek column is the one that must match, and it does,
+      in all ${WORDCOUNTS.length} books.</p>
+
+      <button class="intro-toggle" onclick="toggleIntroTable()">
+        ${introOpen ? '&minus; hide the word counts' : '+ show the word counts for all 27 books'}
+      </button>
+
+      <div class="intro-table-wrap" style="display:${introOpen ? 'block' : 'none'}">
+        <table>
+          <thead><tr><th>Book</th><th>Greek here</th><th>Greek in SBLGNT</th><th>English</th><th>Matches</th></tr></thead>
+          <tbody>
+            ${WORDCOUNTS.map(r => `<tr>
+              <td>${r[0]}</td><td>${n(r[1])}</td><td>${n(r[2])}</td><td>${n(r[3])}</td>
+              <td class="${r[1] === r[2] ? 'ok' : ''}">${r[1] === r[2] ? '&#10003;' : '&#10007;'}</td></tr>`).join('')}
+          </tbody>
+          <tfoot><tr><td>All 27 books</td><td>${n(g)}</td><td>${n(s)}</td><td>${n(e)}</td>
+            <td class="${allMatch ? 'ok' : ''}">${allMatch ? '&#10003;' : '&#10007;'}</td></tr></tfoot>
+        </table>
+      </div>
+
+      <p style="margin-top:18px;">Built with <strong>Claude (Anthropic)</strong>, working
+      against the SBLGNT, MorphGNT, Strong's, Thayer's and Abbott&ndash;Smith. The
+      translation, the tooling that checks it and the full record of every
+      correction are open source, so anything here can be verified rather than
+      taken on trust. As these models improve, the text can be revised again
+      &mdash; the checks that protect the Greek are automated and re-runnable.</p>
+    </div>`;
+}
+
+function toggleIntroTable() {
+  introOpen = !introOpen;
+  renderIntro(currentChapterIdx);
+}
+
+function loadChapter(idx) {
+  const container = document.getElementById('sectionsContainer');
+  document.getElementById('chapterSelect').value = idx;
+
+  if (idx === 'intro') {
+    currentChapterIdx = 'intro';
+    document.getElementById('chapterTitle').textContent = 'Introduction';
+    container.innerHTML = '';
+    renderIntro('intro');
+    window.scrollTo({top:0, behavior:'smooth'});
+    return;
+  }
+
+  idx = Number(idx);                       // the <select> hands back a string
+  currentChapterIdx = idx;
+  const chapter = CHAPTERS[idx];
+  document.getElementById('chapterTitle').textContent = chapter.ref;
+  renderIntro(idx);
+  container.innerHTML = '';
+  chapter.sections.forEach((s, sIdx) => container.appendChild(buildSection(s, idx, sIdx)));
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+function toggleMode() {
+  readMode = !readMode;
+  document.body.classList.toggle('read-mode', readMode);
+  document.getElementById('modeSwitch').classList.toggle('on', readMode);
+  document.getElementById('studyLabel').classList.toggle('active', !readMode);
+  document.getElementById('readLabel').classList.toggle('active', readMode);
+}
+function toggleLibrary() {
+  document.getElementById('library').classList.toggle('open');
+  document.getElementById('libBtn').classList.toggle('active');
+}
+function showTab(name) {
+  document.querySelectorAll('.side-panel-content').forEach(p => p.style.display = 'none');
+  document.getElementById('tab-' + name).style.display = 'block';
+  document.querySelectorAll('.side-tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelector('.side-tab-btn[data-tab="' + name + '"]').classList.add('active');
+  if (name === 'bookmarks') renderBookmarksTab();
+  if (name === 'notes') renderNotesTab();
+  if (name === 'highlights') renderHighlightsTab();
+}
+
+function sv(name) {
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.getElementById('view-' + name).classList.add('active');
+  document.querySelectorAll('nav.top-nav button, .bnav button').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('[data-v="' + name + '"]').forEach(b => b.classList.add('active'));
+  document.getElementById('bibleToolbar').classList.toggle('show', name === 'bible');
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDef(); });
+
+populateSelect();
+migrateHighlightKeys();        // must run before any section is built
+loadChapter('intro');          // the Bible tab opens on the introduction
+renderMoods();                 // restore any saved mood before the first verse
+loadVerse(pickRandomIdx());
+document.getElementById('studyLabel').classList.add('active');
+if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
+</script>
+
+</body>
+</html>

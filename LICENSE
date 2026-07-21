@@ -1,6 +1,15 @@
-MIT License
+MIT License — for the SOFTWARE in this repository
 
-Copyright (c) 2026 EveryPromiseBible
+This covers the code only: everything in tools/, the HTML, CSS and JavaScript in
+index.html, and the build and deploy configuration.
+
+It does NOT cover the translation or the biblical data in data/*.js. Those are
+licensed separately — see LICENSE-DATA — because they build on sources that
+carry their own conditions. See CREDITS.md for the full picture.
+
+-------------------------------------------------------------------------------
+
+Copyright (c) 2026 Mak
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

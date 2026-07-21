@@ -1,0 +1,49 @@
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+— for the TRANSLATION and BIBLICAL DATA in this repository
+
+This covers the Mak Translation and everything in data/:
+    data/chapters.js     the interlinear New Testament
+    data/lexicon.js      the assembled Strong's / Thayer's entries
+    data/abbott.js       the assembled Abbott-Smith entries
+    data/promises.js     the promises and meditations
+    data/wordcounts.js   the generated word-count table
+
+The software is licensed separately under the MIT License — see LICENSE.
+
+-------------------------------------------------------------------------------
+
+Copyright (c) 2026 Mak
+
+Licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+License. The full legal text is at:
+
+    https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+In plain terms, you are free to:
+
+  * SHARE — copy and redistribute this in any medium or format
+  * ADAPT — remix, transform, and build upon it, for any purpose,
+    including commercially
+
+Under these terms:
+
+  * ATTRIBUTION — you must give appropriate credit, link to this license, and
+    indicate if you made changes.
+  * SHARE-ALIKE — if you remix or build upon this, you must distribute your
+    version under this same license.
+  * NO ADDITIONAL RESTRICTIONS — you may not add legal terms or technical
+    measures that stop anyone else doing what this license permits.
+
+-------------------------------------------------------------------------------
+WHY SHARE-ALIKE, AND WHY IT IS NOT OPTIONAL
+
+The morphological parsing in this work (the grammar codes such as V-AAI-3S)
+derives from MorphGNT, which is published under CC BY-SA 3.0. Share-alike
+carries forward into derivative works, so the data here must remain under a
+compatible ShareAlike license. CC BY-SA 4.0 is the permitted upgrade from 3.0.
+
+The practical effect is one the project welcomes: this text cannot be enclosed.
+Anyone may use it, improve it, or build on it, but no one can take it, alter it,
+and lock the result away.
+
+See CREDITS.md for every source used and the attribution each one requires.

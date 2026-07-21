@@ -1,0 +1,17 @@
+# Cache rules for Netlify / Cloudflare Pages.
+#
+# The four data files are large and change rarely, but they MUST NOT be cached
+# blindly -- when a promise is added or a verse corrected, readers have to get
+# it. So they revalidate on every visit, and the host answers an unchanged file
+# with a 304 (a few hundred bytes) instead of resending megabytes. That keeps
+# updates instant without paying the download twice.
+
+/data/*
+  Cache-Control: no-cache
+  Content-Type: application/javascript; charset=utf-8
+
+/index.html
+  Cache-Control: no-cache
+
+/
+  Cache-Control: no-cache

@@ -1,0 +1,38 @@
+# OS / filesystem cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local scratch / logs (not part of the app)
+*.log
+tmp/
+scratch/
+
+# Python bytecode cache from the tools/ reorder scripts
+__pycache__/
+*.pyc
+
+# Claude Code per-user local settings (personal, not shared)
+.claude/settings.local.json
+
+# Downloaded public-domain lexicon / Greek sources (large; reproducible via
+# the URLs documented in tools/lex_build.py and tools/co2_tags.py headers)
+tools/data/*.xml
+tools/data/*.zip
+tools/data/strongs-greek.js
+tools/data/*-morphgnt.txt
+
+# Regenerable per-chapter word dumps (co2_words.py --json)
+tools/data/co2_words_*.json
+tools/data/KJV.json
+
+# build output (assembled by the host, not committed)
+dist/
