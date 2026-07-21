@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## 2026-07-21 — Chapter navigation at the foot of a chapter
+
+Finishing a chapter meant scrolling all the way back to the select at the top
+to start the next one. There are now previous/next buttons below the final
+section, labelled with the chapter they lead to — "Matthew 6", not a bare
+arrow — so a reader knows where they are going before they commit to it.
+
+**The introduction is treated as a destination in the sequence, not a special
+case.** It is what sits before Matthew 1 and it has nothing before it, which is
+exactly how `populateSelect` already presents it. Revelation 22 is the end of
+the line and gets no next; both ends render an invisible placeholder so the
+remaining button stays on its own side instead of sliding across.
+
+Everything routes through `loadChapter`, which means the select at the top
+stays in sync, the scroll returns to the top, and chapters reached by arrow are
+recorded in History — all of it inherited rather than reimplemented. Crossing a
+book boundary works because the buttons walk the flat `CHAPTERS` index rather
+than reasoning about books: Matthew 28 → Mark 1.
+
 ## 2026-07-21 — The site becomes installable, and works offline
 
 The site can now be added to a phone's home screen, opens without browser

@@ -131,6 +131,24 @@
   .bible-main{flex:1;max-width:900px;}
   .chapter-head-row{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-bottom:30px;}
   .bible-main h1{font-size:1.9em;font-weight:700;margin:0;}
+
+  /* chapter nav — previous/next at the foot of a chapter, so a reader who has
+     finished one moves on without scrolling back to the select at the top.
+     The introduction is a destination like any other: it is what sits before
+     Matthew 1, and it has nothing before it. */
+  .chapter-nav{display:flex;justify-content:space-between;align-items:stretch;gap:14px;
+               margin-top:56px;padding-top:26px;border-top:1.5px solid var(--line);flex-wrap:wrap;}
+  .chap-nav-btn{flex:1 1 0;min-width:150px;display:flex;flex-direction:column;gap:5px;
+                background:var(--white);border:1.5px solid var(--line);border-radius:10px;
+                padding:14px 18px;cursor:pointer;font-family:inherit;color:var(--ink);text-align:left;}
+  .chap-nav-btn:hover{border-color:var(--sword);}
+  .chap-nav-btn.next{text-align:right;align-items:flex-end;}
+  /* an empty slot keeps the remaining button on its own side rather than
+     letting it slide across when there is no counterpart */
+  .chap-nav-btn.empty{visibility:hidden;cursor:default;border-color:transparent;}
+  .cn-dir{font-family:var(--mono);font-size:0.7em;color:var(--gray);}
+  .chap-nav-btn:hover .cn-dir{color:var(--sword);}
+  .cn-ref{font-weight:700;font-size:0.95em;}
   .mode-toggle{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:0.72em;color:var(--gray);text-transform:lowercase;user-select:none;}
   .switch{position:relative;width:46px;height:26px;border-radius:999px;background:var(--line);cursor:pointer;transition:background .2s ease;flex-shrink:0;}
   .switch.on{background:var(--orange);}
@@ -359,6 +377,7 @@
       </div>
       <div id="bibleIntro"></div>
       <div id="sectionsContainer"></div>
+      <div class="chapter-nav" id="chapterNav"></div>
     </div>
 
     <div class="side" id="library">
@@ -1197,6 +1216,32 @@ function toggleIntroTable() {
   renderIntro(currentChapterIdx);
 }
 
+/* Previous/next at the foot of a chapter. 'intro' is treated as a destination
+   in the sequence rather than a special case bolted on: it precedes Matthew 1
+   and has nothing before it, which is exactly how populateSelect already
+   presents it. Revelation 22 is the end of the line and gets no next. */
+function renderChapterNav(idx) {
+  const nav = document.getElementById('chapterNav');
+  if (!nav) return;
+
+  const prev = idx === 'intro' ? null : (idx === 0 ? 'intro' : idx - 1);
+  const next = idx === 'intro' ? 0 : (idx + 1 < CHAPTERS.length ? idx + 1 : null);
+
+  const label = i => i === 'intro' ? 'Introduction' : CHAPTERS[i].ref;
+  const arg   = i => i === 'intro' ? "'intro'" : i;
+
+  const btn = (i, dir, arrow) =>
+    i === null
+      ? '<span class="chap-nav-btn ' + dir + ' empty"></span>'
+      : `<button class="chap-nav-btn ${dir}" onclick="loadChapter(${arg(i)})">
+           <span class="cn-dir">${arrow}</span>
+           <span class="cn-ref">${label(i)}</span>
+         </button>`;
+
+  nav.innerHTML = btn(prev, 'prev', '&#8592; previous') +
+                  btn(next, 'next', 'next &#8594;');
+}
+
 function loadChapter(idx) {
   const container = document.getElementById('sectionsContainer');
   document.getElementById('chapterSelect').value = idx;
@@ -1206,6 +1251,7 @@ function loadChapter(idx) {
     document.getElementById('chapterTitle').textContent = 'Introduction';
     container.innerHTML = '';
     renderIntro('intro');
+    renderChapterNav('intro');
     window.scrollTo({top:0, behavior:'smooth'});
     return;
   }
@@ -1222,6 +1268,7 @@ function loadChapter(idx) {
   renderIntro(idx);
   container.innerHTML = '';
   chapter.sections.forEach((s, sIdx) => container.appendChild(buildSection(s, idx, sIdx)));
+  renderChapterNav(idx);
   window.scrollTo({top:0, behavior:'smooth'});
 }
 function toggleMode() {
