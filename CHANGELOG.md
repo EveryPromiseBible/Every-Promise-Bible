@@ -1,5 +1,41 @@
 # CHANGELOG
 
+## 2026-07-21 — 50 new promises, grace-based and Christ-centred (batches 1–2)
+
+1,522 → **1,572 promises, 23,580 meditations.** Two batches of 25, both passing
+`add_promises.py` at 25/25 with no rejections.
+
+**The finding that shaped the sourcing.** The obvious promise verses are gone.
+Scouting 129 well-known references — the ones any "Promises of God" list
+carries — returned **3 available, a 2.2% hit rate**, and a web search for
+published promise lists returned ten verses of which **ten were already in the
+corpus**. That is not a gap in the corpus; it is evidence the original 1,522
+were thorough.
+
+So candidates now come from reading the text rather than harvesting anthologies.
+Saturation says where to look: Colossians was 26% mined, Ephesians 23%, which
+means three quarters of those letters were untouched — and the untouched part is
+disproportionately *declarative statements of what God has done in Christ*,
+which is exactly the voice wanted. Batch 1 came from that epistle seam.
+Batch 2 came from Jesus' own words in John, the good shepherd and the upper
+room, plus the prodigal in Luke 15 and three from Isaiah.
+
+**Verses are never typed.** The authored files carry only meditations and moods;
+`kjv.lookup` fills the verse text, so "VERSE NOT VERBATIM" can only fire if a
+reference is wrong — a different and far more visible mistake than a
+misremembered clause.
+
+**The voice was matched by measurement, not by feel.** New meditations run a
+median of 6 words against the corpus's 6, and a p90 of 8 against 8. Every one
+points at what Christ has done rather than what the reader should do; nothing in
+the 750 asks anyone to try harder.
+
+Healing is now 120, having gained John 14:19, John 16:20, John 6:40 and
+2 Timothy 1:10 — all resurrection and sorrow-turned-to-joy rather than illness,
+which is the distinction the mood was renamed for.
+
+**450 remaining.**
+
 ## 2026-07-21 — Healing replaces Sick; shuffle stops repeating; an anchor verse
 
 **Sick became Healing.** Same 116 promises, retagged by the new
