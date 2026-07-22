@@ -1,5 +1,34 @@
 # CHANGELOG
 
+## 2026-07-22 — Word Pictures, round two: rescue the wrongly-flat, and the names
+
+Two gaps in the first pass, both now closed. **Pictures rose from 4,027 to
+4,826; flat fell from 1,153 to 354.**
+
+**The wrongly-flat words (660).** The first two rounds — the most-tapped
+1,200 words — were written before the build learned to resolve derivation roots
+one link deep, so words with a real root came back flat. δοῦλος is the type
+case: it was "No picture" when it plainly has one — Strong's traces it to a word
+meaning "to bind," so the picture is *the one who cannot walk away*. All 660
+such words were re-run through the enriched pipeline; nearly every one now
+carries a real image, and the rescue agents independently re-caught the same
+source typos (the ἡμέτερος "our/mortal" transposition, the ἐκτός/ἕκτος
+misfiling) and routed around them.
+
+**The Hebrew names (168).** Most Bible names are Hebrew, and their meaning was
+never in our Greek data — Strong's only says "Abraham, the Hebrew patriarch,"
+not what it means. The meanings were resolved from the **public-domain Strong's
+Hebrew dictionary** (openscriptures), whose derivation field states them
+plainly: Abraham *father of a multitude*, Daniel *God is my judge*, Gideon *the
+feller / warrior*, Elizabeth *God of the oath*. The picture had to rest on that
+resolved meaning; the agents were told not to invent biblical detail, so an
+ambiguous name (Mary, Simon — many bearers) gives the meaning and stops. Ten
+names whose Hebrew entry is itself "of uncertain derivation" stay honestly flat.
+
+The remaining 354 flats are the genuine floor: primary particles (πᾶς, "how",
+"neither"), and the handful of names the sources never explain. Every one of
+the 828 new entries had its anchor re-verified as a substring of its source.
+
 ## 2026-07-22 — Word Pictures: a plain-English image for every Greek word
 
 Tap a Greek word and the popup now opens with a **Word Picture** — a short,
