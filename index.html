@@ -872,10 +872,12 @@ function showDefinition(eng, grk, tag) {
     /* ---- 1. STRONG'S section (open) ---- */
     /* The three share a `name`, which makes them a native exclusive accordion:
        opening one closes the others, so the card stays short even when a word's
-       occurrence list is long. Keyed per word (idx) so a multi-word popup does
-       not collapse one word's sections when another's is opened. */
+       occurrence list is long. All three start closed -- the card opens compact
+       and the reader taps whichever they want. Keyed per word (idx) so a
+       multi-word popup does not collapse one word's sections when another's is
+       opened. */
     const grp = 'defsec-' + idx;
-    html += `<details class="def-fold" name="${grp}" open><summary><span class="src-dot strongs"></span>strong's<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
+    html += `<details class="def-fold" name="${grp}"><summary><span class="src-dot strongs"></span>strong's<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
       <div class="def-source-block">`;
     if (entry) {
       html += `<div class="def-greek-row"><span class="def-greek">${entry.greek}</span><span class="def-translit">${entry.translit}</span></div>
