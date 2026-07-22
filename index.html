@@ -270,7 +270,7 @@
      Strong's and Abbott-Smith are native <details> that start collapsed, so the
      card opens short and the reference detail is one tap away. No JS, no
      dependency -- the same vanilla constraint the rest of the app keeps. */
-  .wp-block{padding:26px 26px 20px;}
+  .wp-block{padding:0 26px 20px;}
   .wp-headline{font-family:var(--sans);font-weight:700;font-size:1.12em;line-height:1.3;
                letter-spacing:-0.01em;margin:6px 0 12px;}
   .wp-block.flat .wp-headline{color:var(--gray);font-weight:600;}
@@ -286,6 +286,7 @@
   .def-fold > summary .src-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
   .def-fold > summary .src-dot.strongs{background:var(--orange);}
   .def-fold > summary .src-dot.abbott{background:var(--blue);}
+  .def-fold > summary .src-dot.wordpic{background:var(--green);}
   .def-fold > summary .src-line{flex:1;height:1px;background:var(--line);}
   .def-fold > summary .fold-caret{font-size:0.9em;transition:transform 0.15s;}
   .def-fold[open] > summary .fold-caret{transform:rotate(90deg);}
@@ -858,20 +859,10 @@ function showDefinition(eng, grk, tag) {
 
     html += '<div class="def-multi">';
 
-    /* ---- WORD PICTURE section (open) ---- */
     const wp = (typeof WORDPICTURES !== 'undefined') ? WORDPICTURES[p.num] : null;
-    if (wp) {
-      const paras = (wp.b || '').split('\n\n')
-        .map(t => `<p>${t}</p>`).join('');
-      html += `<div class="wp-block${wp.flat ? ' flat' : ''}">
-        <div class="wp-gloss">${wp.g || ''}</div>
-        <div class="wp-headline">${wp.h || ''}</div>
-        <div class="wp-body">${paras}</div>
-      </div>`;
-    }
 
-    /* ---- STRONG'S section (collapsed) ---- */
-    html += `<details class="def-fold"><summary><span class="src-dot strongs"></span>strong's<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
+    /* ---- 1. STRONG'S section (open) ---- */
+    html += `<details class="def-fold" open><summary><span class="src-dot strongs"></span>strong's<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
       <div class="def-source-block">`;
     if (entry) {
       html += `<div class="def-greek-row"><span class="def-greek">${entry.greek}</span><span class="def-translit">${entry.translit}</span></div>
@@ -886,7 +877,18 @@ function showDefinition(eng, grk, tag) {
     html += SHOW_CROSSREF ? buildCrossRefHtml(p.num) : '';
     html += '</div></details>';
 
-    /* ---- ABBOTT-SMITH section (collapsed) ---- */
+    /* ---- 2. WORD PICTURE section (collapsed) ---- */
+    if (wp) {
+      const paras = (wp.b || '').split('\n\n').map(t => `<p>${t}</p>`).join('');
+      html += `<details class="def-fold"><summary><span class="src-dot wordpic"></span>word picture<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
+        <div class="wp-block${wp.flat ? ' flat' : ''}">
+          <div class="wp-gloss">${wp.g || ''}</div>
+          <div class="wp-headline">${wp.h || ''}</div>
+          <div class="wp-body">${paras}</div>
+        </div></details>`;
+    }
+
+    /* ---- 3. ABBOTT-SMITH section (collapsed) ---- */
     if (abbott) {
       html += `<details class="def-fold"><summary><span class="src-dot abbott"></span>abbott-smith<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
         <div class="def-source-block">
@@ -1336,7 +1338,7 @@ function renderChapterNav(idx) {
                   btn(next, 'next', 'next &#8594;');
 }
 
-function loadChapter(idx) {
+function loadChapter(idx, skipHistory) {
   const container = document.getElementById('sectionsContainer');
   document.getElementById('chapterSelect').value = idx;
 
@@ -1355,8 +1357,10 @@ function loadChapter(idx) {
   /* Recorded here rather than in the click handlers so every route into a
      chapter counts — the select, a bookmark jump, a history jump, or init.
      Deliberately after the 'intro' early-return above: the introduction is not
-     a chapter and should not fill the list. */
-  recordHistory(idx);
+     a chapter and should not fill the list. skipHistory is set for the random
+     chapter the app lands on at startup -- a landing the reader did not choose
+     should not flood the History tab on every visit. */
+  if (!skipHistory) recordHistory(idx);
   const chapter = CHAPTERS[idx];
   document.getElementById('chapterTitle').textContent = chapter.ref;
   renderIntro(idx);
@@ -1401,9 +1405,13 @@ document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDef()
 
 populateSelect();
 migrateHighlightKeys();        // must run before any section is built
-loadChapter('intro');          // the Bible tab opens on the introduction
 renderMoods();                 // restore any saved mood before the first verse
-loadVerse(anchorIdx());        // 2 Corinthians 1:20 opens every visit
+loadVerse(anchorIdx());        // set up Promises (2 Corinthians 1:20) for when it is opened
+/* The app opens on the Bible, landing on a random chapter each visit -- a
+   different corner of the text every time. skipHistory: the reader did not pick
+   this, so it should not be recorded. */
+loadChapter(Math.floor(Math.random() * CHAPTERS.length), true);
+sv('bible');
 document.getElementById('studyLabel').classList.add('active');
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
 </script>
