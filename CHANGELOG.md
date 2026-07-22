@@ -1,5 +1,47 @@
 # CHANGELOG
 
+## 2026-07-22 — Word Pictures: a plain-English image for every Greek word
+
+Tap a Greek word and the popup now opens with a **Word Picture** — a short,
+concrete, for-a-ten-year-old explanation of what the word depicts — above the
+Strong's and Abbott-Smith cards, which are now collapsed by default and one tap
+away. New file `data/wordpictures.js`, loaded like the other data blobs, keyed
+by Strong's number, one line and LF per `.gitattributes`.
+
+**Coverage: all 5,180 content words** in the corpus (every word except the 166
+function words — the, and, of — and a short list of negations, the copula, and
+yes/no). **4,027 carry a real picture; 1,153 are honestly flat** ("No picture."),
+because a bare name or a primary particle has nothing behind it and inventing
+one would be the very thing this feature exists to avoid.
+
+**How they were built, and why they can be trusted.** Every picture is derived
+from Strong's (1890) and Abbott-Smith (1922), both public domain and already in
+the repo — nothing was pulled from the open web, where "Greek word picture"
+content is mostly Strong's guesses with the hedges stripped off. Each entry
+carries a build-time *anchor*: a phrase copied character-for-character from that
+word's own lexicon text, the phrase the picture rests on. A tool verified all
+5,180 anchors as genuine substrings of the source, so an invented etymology has
+nothing to quote and cannot pass. The load-bearing example: **προσκυνέω**
+(worship) is given Abbott-Smith's "to kiss toward", and the popular "dog licking
+its master's hand" — Strong's own flagged conjecture — is named and set aside.
+
+The writing bar was set by seven hand-built exemplars (the arrow of *hamartia*,
+the fishing net of *katartizo*, wind for *pneuma*, the bound one for *doulos*).
+The rule: a real concrete thing you can see, grounded in a printed line, with a
+short turn to why it matters — never a manufactured abstract metaphor.
+
+**A note for whoever regenerates this.** The build resolves each word's Strong's
+derivation one link deep, so *doulos* arrives carrying its root "to bind" rather
+than a bare cross-reference number. That resolution surfaced a scattering of
+errors in the 130-year-old source data — transposed derivation numbers and a
+handful of Abbott entries filed under the wrong Strong's number (G1622, G2251,
+G3426, G4821, and more, all in TODO.md). The writing agents caught every one by
+cross-checking the resolved root against Abbott's own etymology and ignoring the
+mismatch. The lexicons themselves still carry these slips; only the word
+pictures route around them.
+
+
+
 ## 2026-07-21 — The corpus reaches 2,022 promises (batches 15–20 complete the 500)
 
 1,522 → **2,022 promises, 30,330 meditations.** Twenty batches, eighteen agents,

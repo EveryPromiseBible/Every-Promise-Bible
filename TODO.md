@@ -280,6 +280,36 @@ commit messages. Greek multiset unchanged; 0 standalone `—` placeholders.
 
 ## 🟡 Data fixes — small, precise
 
+### [ ] G2251 — Strong's derivation points to the wrong number — **FOUND 2026-07-21**
+
+`ἡμέτερος` ("our") has a Strong's derivation reading `from (G2349)` — θνητός,
+"liable to die." That is a digit transposition: it should be **G2249** (ἡμεῖς,
+"we"). "Our" comes from "we," not from "mortal." Abbott–Smith has it right
+(`ἡμεῖς`), so the app's Abbott card is fine; only the Strong's derivation field
+is wrong. Surfaced while building the word-picture worksheets, whose root
+resolver follows these derivation numbers — a transposed number feeds a false
+root. Same class as G1622: occasional errors in the 1890 Strong's data. Fix
+upstream in the generator.
+
+### [ ] G1622 — Abbott–Smith entry is the wrong word — **FOUND 2026-07-21**
+
+Surfaced by an agent writing word pictures, not by looking. In `abbott.js`,
+**G1622** holds the entry for `ἕκτος` ("the sixth") when the Strong's headword
+at G1622 is `ἐκτός` ("outside, except"). They differ only by a breathing mark
+and are genuinely different words; the "sixth" material belongs at **G1623**. So
+a reader tapping ἐκτός sees Strong's correct gloss beside an Abbott–Smith card
+for a different word.
+
+Small in isolation, but almost certainly not unique — the same agent pass found
+it by accident. A systematic sweep was attempted and abandoned: comparing the
+two lexicons' definitions flags ~844 entries (28%), nearly all innocent (two
+lexicographers describing one word in different English), and a spelling
+comparison misses this very case because accent-folding collapses ἐκτός/ἕκτος.
+Finding the rest reliably needs an **external** Strong's-number → headword
+reference to check against, not a same-source comparison. Own project, later.
+
+Fix upstream in the generator, not by hand-editing `abbott.js`.
+
 ### [ ] Abbott–Smith — 4 stray characters left by OCR — **FOUND 2026-07-21**
 
 Turned up while verifying font coverage for the offline build, not by looking

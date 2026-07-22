@@ -266,6 +266,32 @@
   .def-divider{height:8px;background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
   .def-multi + .def-multi{margin-top:12px;padding-top:14px;border-top:1px dashed var(--line);}
 
+  /* Word Picture -- the plain-English image, shown open above the two lexicons.
+     Strong's and Abbott-Smith are native <details> that start collapsed, so the
+     card opens short and the reference detail is one tap away. No JS, no
+     dependency -- the same vanilla constraint the rest of the app keeps. */
+  .wp-block{padding:26px 26px 20px;}
+  .wp-headline{font-family:var(--sans);font-weight:700;font-size:1.12em;line-height:1.3;
+               letter-spacing:-0.01em;margin:6px 0 12px;}
+  .wp-block.flat .wp-headline{color:var(--gray);font-weight:600;}
+  .wp-body p{font-size:0.95em;line-height:1.6;margin:0 0 10px;}
+  .wp-body p:last-child{margin-bottom:0;}
+  .wp-gloss{font-family:var(--mono);font-size:0.7em;color:var(--green);font-weight:700;
+            text-transform:lowercase;}
+  .def-fold{border-top:1px solid var(--line);}
+  .def-fold > summary{list-style:none;cursor:pointer;padding:16px 26px;
+    display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:0.66em;
+    font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--gray);}
+  .def-fold > summary::-webkit-details-marker{display:none;}
+  .def-fold > summary .src-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+  .def-fold > summary .src-dot.strongs{background:var(--orange);}
+  .def-fold > summary .src-dot.abbott{background:var(--blue);}
+  .def-fold > summary .src-line{flex:1;height:1px;background:var(--line);}
+  .def-fold > summary .fold-caret{font-size:0.9em;transition:transform 0.15s;}
+  .def-fold[open] > summary .fold-caret{transform:rotate(90deg);}
+  .def-fold[open] > summary{color:var(--ink);}
+  .def-fold .def-source-block{padding-top:0;}
+
   /* Abbott-Smith specific */
   .as-meta{display:flex;gap:14px;flex-wrap:wrap;font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-bottom:14px;}
   .as-meta b{color:var(--ink);}
@@ -448,6 +474,7 @@
 <script src="data/promises.js"></script>
 <script src="data/abbott.js"></script>
 <script src="data/wordcounts.js"></script>
+<script src="data/wordpictures.js"></script>
 <script>
 const PALETTE = [
 "#b5461a","#1a6fa8","#7a8c1a","#a3247a","#1a8c6f","#c47a00","#5a3fa8",
@@ -831,9 +858,21 @@ function showDefinition(eng, grk, tag) {
 
     html += '<div class="def-multi">';
 
-    /* ---- STRONG'S section ---- */
-    html += `<div class="def-source-block">
-      <div class="def-source-label"><span class="src-dot strongs"></span>strong's<span class="src-line"></span></div>`;
+    /* ---- WORD PICTURE section (open) ---- */
+    const wp = (typeof WORDPICTURES !== 'undefined') ? WORDPICTURES[p.num] : null;
+    if (wp) {
+      const paras = (wp.b || '').split('\n\n')
+        .map(t => `<p>${t}</p>`).join('');
+      html += `<div class="wp-block${wp.flat ? ' flat' : ''}">
+        <div class="wp-gloss">${wp.g || ''}</div>
+        <div class="wp-headline">${wp.h || ''}</div>
+        <div class="wp-body">${paras}</div>
+      </div>`;
+    }
+
+    /* ---- STRONG'S section (collapsed) ---- */
+    html += `<details class="def-fold"><summary><span class="src-dot strongs"></span>strong's<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
+      <div class="def-source-block">`;
     if (entry) {
       html += `<div class="def-greek-row"><span class="def-greek">${entry.greek}</span><span class="def-translit">${entry.translit}</span></div>
         <div class="def-pron">${entry.pronunciation || ''}</div>
@@ -845,13 +884,12 @@ function showDefinition(eng, grk, tag) {
       html += `<div class="def-strongs-tag">${p.num} &middot; ${p.pos}</div><div class="def-text">No lexicon entry found.</div>`;
     }
     html += SHOW_CROSSREF ? buildCrossRefHtml(p.num) : '';
-    html += '</div>';
+    html += '</div></details>';
 
-    /* ---- ABBOTT-SMITH section ---- */
+    /* ---- ABBOTT-SMITH section (collapsed) ---- */
     if (abbott) {
-      html += `<div class="def-divider"></div>
-      <div class="def-source-block">
-        <div class="def-source-label"><span class="src-dot abbott"></span>abbott-smith<span class="src-line"></span></div>
+      html += `<details class="def-fold"><summary><span class="src-dot abbott"></span>abbott-smith<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
+        <div class="def-source-block">
         <div class="as-meta">${abbott.occurrencesNT ? `<span>occurs <b>${abbott.occurrencesNT}&times;</b> in NT</span>` : ''}<span>${abbott.form}</span></div>`;
       if (abbott.etymology) {
         html += `<div class="def-section"><div class="def-label">Etymology</div><div class="def-text">${abbott.etymology}</div></div>`;
@@ -862,7 +900,7 @@ function showDefinition(eng, grk, tag) {
       if (abbott.synonyms) {
         html += `<div class="as-synonyms">${abbott.synonyms}</div>`;
       }
-      html += '</div>';
+      html += '</div></details>';
     }
 
     html += '</div>';
