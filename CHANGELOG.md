@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## 2026-07-22 — Thayer's Greek-English Lexicon added to every word
+
+Tapping a Greek word now opens a fourth section beneath Strong's, Word Picture,
+and Abbott-Smith: the full text of **Thayer's Greek-English Lexicon** (Joseph
+Henry Thayer, 1889), keyed to Strong's numbers. **5,178 of the 5,180 content
+words carry a Thayer entry** — only G52 and G680 are absent from the source, and
+their section is simply omitted rather than filled with a placeholder. Nothing
+is invented.
+
+The text was decoded from the e-Sword "Thayer's Unabridged" module, whose
+definitions are stored as RTF with Greek in the Windows Greek code page (1253),
+Hebrew in 1255, and polytonic accents as Unicode escapes. A decoder converts all
+of that to clean Unicode, normalizes scripture references, and strips the
+color/formatting codes, yielding `data/thayer.js` (5,521 entries, ~5 MB).
+
+Because the file is large it is **lazy-loaded**: warmed in the background once
+the app is idle, and fetched on first word-tap if a reader gets there first. The
+service worker caches it like the other data files, so it works offline after
+the first load. Rendered in the Greek serif so the polytonic Greek reads
+cleanly.
+
+The same text is published separately as a public-domain, browser-searchable
+open-data repository (*Every-Promise-Thayers*): full lexicon, a single
+searchable HTML page, and split markdown.
+
 ## 2026-07-22 — Word Pictures, round two: rescue the wrongly-flat, and the names
 
 Two gaps in the first pass, both now closed. **Pictures rose from 4,027 to

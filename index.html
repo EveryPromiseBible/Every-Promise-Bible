@@ -22,7 +22,7 @@
 <style>
   :root {
     --white:#ffffff; --paper:#fbfaf8; --ink:#111111; --gray:#9a9a95; --line:#eceae3;
-    --orange:#FF5A1F; --blue:#3B6FE0; --yellow:#F0B90B; --green:#3FA66A; --pink:#E8558C;
+    --orange:#FF5A1F; --blue:#3B6FE0; --yellow:#F0B90B; --green:#3FA66A; --pink:#E8558C; --purple:#7C5CE0;
     /* sampled from the sword in the logo mark, not guessed: its dominant
        saturated pixels sit at #004070-#004878. --sword is the darker working
        value; --sword-soft is for tints and borders. */
@@ -294,11 +294,21 @@
   .def-fold > summary .src-dot.strongs{background:var(--orange);}
   .def-fold > summary .src-dot.abbott{background:var(--blue);}
   .def-fold > summary .src-dot.wordpic{background:var(--green);}
+  .def-fold > summary .src-dot.thayer{background:var(--purple);}
   .def-fold > summary .src-line{flex:1;height:1px;background:var(--line);}
   .def-fold > summary .fold-caret{font-size:0.9em;transition:transform 0.15s;}
   .def-fold[open] > summary .fold-caret{transform:rotate(90deg);}
   .def-fold[open] > summary{color:var(--ink);}
   .def-fold .def-source-block{padding-top:0;}
+
+  /* Thayer's -- the unabridged lexicon, set in the Greek serif so the polytonic
+     Greek (and the Hebrew that falls back to a system face) reads cleanly. Lazy
+     loaded on first word tap because the full lexicon is ~5MB. */
+  .th-body{font-family:var(--grk);}
+  .th-body p{font-size:0.98em;line-height:1.62;margin:0 0 9px;}
+  .th-body p:last-child{margin-bottom:0;}
+  .th-body .th-lead{font-weight:600;}
+  .th-loading{font-family:var(--mono);font-size:0.72em;color:var(--gray);padding:2px 0;}
 
   /* Abbott-Smith specific */
   .as-meta{display:flex;gap:14px;flex-wrap:wrap;font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-bottom:14px;}
@@ -867,6 +877,7 @@ function showDefinition(eng, grk, tag) {
   const parts = parseTag(tag);
   const card = document.getElementById('defCard');
   let html = '<button class="def-close" onclick="closeDef()">&times;</button>';
+  let needThayer = false;
 
   parts.forEach((p, idx) => {
     const entry = LEXICON[p.num];
@@ -936,13 +947,67 @@ function showDefinition(eng, grk, tag) {
       html += '</div></details>';
     }
 
+    /* ---- 4. THAYER'S section (collapsed; the full lexicon is lazy-loaded) ----
+       If the data is already in memory, render the entry inline (and skip the
+       section entirely for the handful of words Thayer has no entry for). If it
+       is not loaded yet, drop in a placeholder and fill it once data/thayer.js
+       arrives, so the reading experience never waits on a 5MB file. */
+    const thSum = `<summary><span class="src-dot thayer"></span>thayer's<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>`;
+    if (typeof window.THAYER !== 'undefined') {
+      const th = window.THAYER[p.num];
+      if (th) html += `<details class="def-fold" name="${grp}">${thSum}<div class="def-source-block th-block">${renderThayer(th)}</div></details>`;
+    } else {
+      html += `<details class="def-fold" name="${grp}">${thSum}<div class="def-source-block th-block th-pending" data-num="${p.num}"><div class="th-loading">Loading Thayer&rsquo;s&hellip;</div></div></details>`;
+      needThayer = true;
+    }
+
     html += '</div>';
     if (idx < parts.length - 1) html += '<div class="def-divider"></div>';
   });
 
   card.innerHTML = html;
   document.getElementById('defOverlay').classList.add('open');
+  if (needThayer) ensureThayer().then(fillThayerPlaceholders).catch(thayerFailed);
 }
+
+/* ---- Thayer's lazy loader ----------------------------------------------- */
+let _thayerPromise = null;
+function ensureThayer() {
+  if (typeof window.THAYER !== 'undefined') return Promise.resolve(window.THAYER);
+  if (_thayerPromise) return _thayerPromise;
+  _thayerPromise = new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = 'data/thayer.js'; s.async = true;
+    s.onload = () => resolve(window.THAYER);
+    s.onerror = () => { _thayerPromise = null; reject(new Error('thayer load failed')); };
+    document.head.appendChild(s);
+  });
+  return _thayerPromise;
+}
+function renderThayer(text) {
+  if (!text) return '';
+  const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const body = text.split('\n').filter(l => l.trim())
+    .map((l, i) => `<p class="th-p${i === 0 ? ' th-lead' : ''}">${esc(l)}</p>`).join('');
+  return `<div class="th-body">${body}</div>`;
+}
+function fillThayerPlaceholders() {
+  const T = window.THAYER; if (!T) return;
+  document.querySelectorAll('.th-block.th-pending').forEach(el => {
+    const entry = T[el.getAttribute('data-num')];
+    if (entry) { el.classList.remove('th-pending'); el.innerHTML = renderThayer(entry); }
+    else { const det = el.closest('details.def-fold'); (det || el).remove(); }
+  });
+}
+function thayerFailed() {
+  document.querySelectorAll('.th-block.th-pending .th-loading').forEach(el => {
+    el.textContent = "Thayer's could not be loaded.";
+  });
+}
+/* Warm the Thayer cache once the app is idle, so the first word tap usually
+   renders inline rather than showing the loading placeholder. */
+if ('requestIdleCallback' in window) requestIdleCallback(() => ensureThayer(), { timeout: 5000 });
+else setTimeout(() => ensureThayer(), 3000);
 
 function buildSenseAccordion(sense, num, partIdx, senseIdx) {
   const itemId = 'sense-' + num + '-' + partIdx + '-' + senseIdx;

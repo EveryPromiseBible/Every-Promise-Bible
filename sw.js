@@ -27,10 +27,10 @@
 const CACHE_VERSION = 'every-promise-v1';
 
 /* The shell only. data/*.js is deliberately NOT precached: those files total
- * ~10 MB raw, and precaching them would make the very first visit slower than
- * it is today. index.html loads them via <script src> anyway, so they land in
- * the cache on first visit through the runtime path below -- same download,
- * just not duplicated up front. */
+ * ~15 MB raw (Thayer's alone is ~5 MB), and precaching them would make the very
+ * first visit slower than it is today. index.html loads most via <script src>,
+ * and Thayer's is fetched on first word tap; either way they land in the cache
+ * through the runtime path below -- same download, just not duplicated up front. */
 const SHELL = [
   '/',
   '/index.html',

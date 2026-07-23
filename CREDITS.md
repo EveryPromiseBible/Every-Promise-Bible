@@ -51,8 +51,18 @@ to MorphGNT's data.
 
 ## Lexicons
 
-**Strong's Exhaustive Concordance** (1890) and **Thayer's Greek-English Lexicon**
-(1889) — public domain. Assembled into `data/lexicon.js`.
+**Strong's Exhaustive Concordance** (1890) — public domain. Assembled into
+`data/lexicon.js`.
+
+**Thayer's Greek-English Lexicon of the New Testament**, Joseph Henry Thayer
+(1889) — public domain. The full unabridged text, keyed to Strong's numbers, in
+`data/thayer.js`. It was decoded to Unicode from a community digitization (the
+e-Sword "Thayer's Unabridged" module): the definitions are stored as RTF with
+Greek in the Windows Greek code page (1253), Hebrew in 1255, and polytonic
+accents as Unicode escapes, all of which a decoder (`tools/thayer_parse.py`,
+driven by `tools/build_thayer.py`) converts to clean polytonic Unicode.
+Scripture references are normalized and the color/formatting codes dropped;
+definition text is otherwise as published.
 
 **A Manual Greek Lexicon of the New Testament**, G. Abbott-Smith (1922) —
 public domain. Assembled into `data/abbott.js`.
