@@ -265,6 +265,13 @@
   .def-eng-word{font-family:var(--mono);font-size:0.72em;color:var(--gray);padding:14px 26px 20px;border-top:1px solid var(--line);}
   .def-divider{height:8px;background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
   .def-multi + .def-multi{margin-top:12px;padding-top:14px;border-top:1px dashed var(--line);}
+  /* Each word in the tapped phrase gets its Greek word as a header, so a
+     multi-word popup shows which word the collapsed Strong's/Word Picture/
+     Abbott sections below belong to. */
+  .def-word-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;padding:20px 26px 12px;}
+  .dwh-gk{font-family:var(--grk);font-size:1.5em;font-weight:600;}
+  .dwh-tr{font-family:var(--mono);font-size:0.8em;color:var(--gray);font-style:italic;}
+  .dwh-gl{font-family:var(--mono);font-size:0.72em;color:var(--gray);}
 
   /* Word Picture -- the plain-English image, shown open above the two lexicons.
      Strong's and Abbott-Smith are native <details> that start collapsed, so the
@@ -869,6 +876,15 @@ function showDefinition(eng, grk, tag) {
 
     const wp = (typeof WORDPICTURES !== 'undefined') ? WORDPICTURES[p.num] : null;
 
+    /* Word header -- the Greek word this block is about, always visible above
+       the collapsed sections so a multi-word popup is never ambiguous. */
+    const headGloss = wp ? wp.g : (entry && entry.kjv ? entry.kjv.split(',')[0].trim() : '');
+    html += `<div class="def-word-head">
+      <span class="dwh-gk">${entry ? entry.greek : p.num}</span>
+      ${entry && entry.translit ? `<span class="dwh-tr">${entry.translit}</span>` : ''}
+      ${headGloss ? `<span class="dwh-gl">${headGloss}</span>` : ''}
+    </div>`;
+
     /* ---- 1. STRONG'S section (open) ---- */
     /* The three share a `name`, which makes them a native exclusive accordion:
        opening one closes the others, so the card stays short even when a word's
@@ -924,7 +940,6 @@ function showDefinition(eng, grk, tag) {
     if (idx < parts.length - 1) html += '<div class="def-divider"></div>';
   });
 
-  html += `<div class="def-eng-word">In this translation: <b>${eng}</b> &mdash; ${grk}</div>`;
   card.innerHTML = html;
   document.getElementById('defOverlay').classList.add('open');
 }
