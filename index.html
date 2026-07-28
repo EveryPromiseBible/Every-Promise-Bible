@@ -560,6 +560,7 @@
           <div class="lib-grid" style="grid-template-columns:1fr;max-width:170px;">
             <div class="lib-card active" id="txcard-mak" onclick="switchTranslation('mak')"><div class="lswatch" style="background:var(--orange);"></div><div class="lcode">tx.01</div><div class="lname">Mak Translation</div></div>
             <div class="lib-card" id="txcard-illum" onclick="switchTranslation('illum')"><div class="lswatch" style="background:#5a3fa8;"></div><div class="lcode">tx.02</div><div class="lname">Illumination Translation</div></div>
+            <div class="lib-card" id="txcard-kjv" onclick="switchTranslation('kjv')"><div class="lswatch" style="background:#1a6fa8;"></div><div class="lcode">tx.03</div><div class="lname">King James Version</div></div>
           </div>
         </div>
       </div>
@@ -618,6 +619,7 @@
 
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
+<script src="data/kjv.js"></script>
 <script src="data/lexicon.js"></script>
 <script src="data/promises.js"></script>
 <script src="data/abbott.js"></script>
@@ -1639,6 +1641,22 @@ function sv(name) {
 let currentTx = 'mak';
 let ILLUM_NAV = [];
 
+/* The Illumination and the KJV share a data shape, so they share a reader.
+   Mak keeps its own path because its sections are Greek-aligned word triples.
+   The KJV carries no introductions -- it is the text unedited, which is the
+   point of having it -- so its navigation has no synopsis entries. */
+const CORPUS = {
+  illum: { get books(){ return ILLUMINATION_BOOKS; }, get chapters(){ return ILLUMINATION; },
+           get intros(){ return ILLUMINATION_INTROS; },
+           label: 'The Illumination Translation · 66 books' },
+  kjv:   { get books(){ return KJV_BOOKS; }, get chapters(){ return KJV; },
+           intros: null,
+           label: 'The Authorized Version, 1769 · 66 books' }
+};
+const NAV_CACHE = {};
+function isVerseTx(tx) { return tx === 'illum' || tx === 'kjv'; }
+function corpus() { return CORPUS[currentTx]; }
+
 function ilEsc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
@@ -1646,16 +1664,19 @@ function ilEsc(s) {
 function ilText(s) { return ilEsc(s).replace(/\n/g, '<br>'); }
 
 function buildIllumNav() {
-  if (ILLUM_NAV.length) return;
+  if (NAV_CACHE[currentTx]) { ILLUM_NAV = NAV_CACHE[currentTx]; return; }
+  const c = corpus(), nav = [], hasSyn = !!c.intros;
   let ci = 0;
-  ILLUMINATION_BOOKS.forEach(b => {
-    ILLUM_NAV.push({ type: 'syn', book: b.name });
-    for (let k = 0; k < b.chapters; k++) ILLUM_NAV.push({ type: 'ch', ci: ci++, book: b.name });
+  c.books.forEach(b => {
+    if (hasSyn) nav.push({ type: 'syn', book: b.name });
+    for (let k = 0; k < b.chapters; k++) nav.push({ type: 'ch', ci: ci++, book: b.name });
   });
+  NAV_CACHE[currentTx] = nav;
+  ILLUM_NAV = nav;
 }
 
 function illumLabel(d) {
-  return d.type === 'syn' ? d.book + ' — Synopsis' : ILLUMINATION[d.ci].ref;
+  return d.type === 'syn' ? d.book + ' — Synopsis' : corpus().chapters[d.ci].ref;
 }
 
 /* 1,255 destinations is too many for one dropdown, and HTML will not nest an
@@ -1665,7 +1686,7 @@ function illumLabel(d) {
 let illumTestament = 'OT';
 
 function testamentOf(book) {
-  const b = ILLUMINATION_BOOKS.find(x => x.name === book);
+  const b = corpus().books.find(x => x.name === book);
   return b ? b.testament : 'OT';
 }
 
@@ -1700,7 +1721,7 @@ function setTestament(t) {
    hanging so the numerals line up down the left. Fields never split across a
    column, so a label is never orphaned from what it introduces. */
 function buildIllumSynopsis(book) {
-  const fields = ILLUMINATION_INTROS[book] || [];
+  const fields = (corpus().intros || {})[book] || [];
   let h = '<div class="il-syn"><div class="il-bookhead">' + ilEsc(book) + '</div>' +
           '<div class="il-cols">';
   fields.forEach(f => {
@@ -1776,29 +1797,31 @@ function loadIllum(i) {
     body.innerHTML = '';
   } else {
     if (intro) intro.innerHTML = '';
-    body.innerHTML = buildIllumChapter(ILLUMINATION[d.ci]);
+    body.innerHTML = buildIllumChapter(corpus().chapters[d.ci]);
   }
   renderIllumNav(i);
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 /* The select is shared, so it routes on the active translation. */
-function navSelect(v) { currentTx === 'illum' ? loadIllum(v) : loadChapter(v); }
+function navSelect(v) { isVerseTx(currentTx) ? loadIllum(v) : loadChapter(v); }
 
 function switchTranslation(tx) {
   if (tx === currentTx) return;
   currentTx = tx;
-  document.getElementById('txcard-mak').classList.toggle('active', tx === 'mak');
-  document.getElementById('txcard-illum').classList.toggle('active', tx === 'illum');
-  /* The Illumination has no Greek, so the study switch has nothing to act on.
-     Force read mode on the way in rather than leaving a dead control. */
-  document.body.classList.toggle('illum-active', tx === 'illum');
+  ['mak', 'illum', 'kjv'].forEach(k =>
+    document.getElementById('txcard-' + k).classList.toggle('active', tx === k));
+  /* Neither the Illumination nor the KJV carries Greek alignment, so the
+     study switch has nothing to act on. Force read mode rather than leaving
+     a dead control. */
+  document.body.classList.toggle('illum-active', isVerseTx(tx));
   /* Mak is New Testament only, so a testament filter there would be a control
-     with nothing to do. Shown for the Illumination, hidden for Mak. */
-  document.getElementById('testamentSelect').style.display = (tx === 'illum') ? '' : 'none';
-  if (tx === 'illum') {
+     with nothing to do. Shown for the two whole-Bible translations. */
+  document.getElementById('testamentSelect').style.display = isVerseTx(tx) ? '' : 'none';
+  if (isVerseTx(tx)) {
     if (!readMode) toggleMode();
     document.getElementById('testamentSelect').value = illumTestament;
+    buildIllumNav();
     populateIllumSelect();
     const first = ILLUM_NAV.findIndex(d => testamentOf(d.book) === illumTestament);
     loadIllum(first >= 0 ? first : 0);
@@ -1813,16 +1836,16 @@ function switchTranslation(tx) {
    text and a reader looking at one expects results from it. The index is
    built once, on first search, and reused -- the Illumination alone is
    ~3.8M characters and there is no reason to walk it on every keystroke. */
-let SEARCH_IDX = { mak: null, illum: null };
+let SEARCH_IDX = { mak: null, illum: null, kjv: null };
 
 function buildSearchIndex(tx) {
   if (SEARCH_IDX[tx]) return SEARCH_IDX[tx];
   const rows = [];
-  if (tx === 'illum') {
+  if (isVerseTx(tx)) {
     buildIllumNav();
     const navOf = {};
     ILLUM_NAV.forEach((d, i) => { if (d.type === 'ch') navOf[d.ci] = i; });
-    ILLUMINATION.forEach((ch, ci) => {
+    CORPUS[tx].chapters.forEach((ch, ci) => {
       const book = bookOf(ch.ref);
       ch.sections.forEach(s => s.verses.forEach(v => {
         rows.push({ book: book, ref: ch.ref + ':' + v[0].replace(/^\d+:/, ''),
@@ -1851,8 +1874,8 @@ function openSearch() {
   document.getElementById('searchResults').innerHTML =
     '<div class="search-empty">Type a word or a phrase. Results jump straight to the passage.</div>';
   document.getElementById('searchScope').textContent =
-    'searching ' + (currentTx === 'illum' ? 'The Illumination Translation · 66 books'
-                                          : 'The Mak Translation · New Testament');
+    'searching ' + (CORPUS[currentTx] ? CORPUS[currentTx].label
+                                      : 'The Mak Translation · New Testament');
   setTimeout(() => i.focus(), 30);
 }
 function closeSearch() { document.getElementById('searchOverlay').classList.remove('open'); }
@@ -1924,11 +1947,11 @@ function goToHit(n) {
   const h = SEARCH_HITS[n];
   if (!h) return;
   closeSearch();
-  if (currentTx === 'illum') loadIllum(h.go); else loadChapter(h.go);
+  if (isVerseTx(currentTx)) loadIllum(h.go); else loadChapter(h.go);
   /* after the chapter renders */
   setTimeout(() => {
     let el = null;
-    if (currentTx === 'illum') {
+    if (isVerseTx(currentTx)) {
       el = [...document.querySelectorAll('#sectionsContainer .illum-ref')]
              .find(e => e.textContent.trim() === h.mark);
       if (el) el = el.parentElement;
