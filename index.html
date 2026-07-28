@@ -300,6 +300,24 @@
 
   .overlay{display:none;position:fixed;inset:0;background:rgba(17,17,17,0.35);z-index:100;align-items:center;justify-content:center;padding:20px;}
   .overlay.open{display:flex;}
+  /* ---- scripture search ---- */
+  .search-card{background:var(--white);border-radius:16px;max-width:640px;width:100%;
+    box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;display:flex;flex-direction:column;
+    overflow:hidden;position:relative;}
+  .search-bar{display:flex;align-items:center;gap:10px;padding:18px 54px 14px 22px;border-bottom:1px solid var(--line);}
+  #searchInput{flex:1 1 auto;border:none;outline:none;background:none;font-family:var(--sans);
+    font-size:1.05em;color:var(--ink);padding:6px 0;}
+  .search-scope{font-family:var(--mono);font-size:0.66em;letter-spacing:0.06em;text-transform:uppercase;
+    color:var(--gray);padding:10px 22px;border-bottom:1px solid var(--line);}
+  .search-results{overflow-y:auto;padding:6px 0 10px;}
+  .search-hit{display:block;width:100%;text-align:left;background:none;border:none;cursor:pointer;
+    padding:12px 22px;border-bottom:1px solid var(--line);font-family:var(--sans);}
+  .search-hit:hover{background:#faf7f4;}
+  .search-hit .sh-ref{font-family:var(--mono);font-size:0.68em;color:var(--orange);
+    letter-spacing:0.04em;margin-bottom:5px;}
+  .search-hit .sh-txt{font-size:0.9em;line-height:1.55;color:var(--ink);}
+  .search-hit mark{background:#ffe9c9;color:inherit;padding:0 1px;border-radius:2px;}
+  .search-empty{padding:26px 22px;color:var(--gray);font-size:0.9em;}
   .def-card{background:var(--white);border-radius:16px;max-width:460px;width:100%;padding:0;box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;overflow-y:auto;}
   .def-card .def-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:1.3em;color:var(--gray);cursor:pointer;line-height:1;z-index:2;}
   .def-source-block{padding:26px 26px 22px;}
@@ -452,7 +470,7 @@
     </select>
     <select class="chapter-select" id="chapterSelect" onchange="navSelect(this.value)"></select>
     <button class="tool-btn" title="home">&#8962;</button>
-    <button class="tool-btn" title="search">&#128269;</button>
+    <button class="tool-btn" id="searchBtn" onclick="openSearch()" title="search">&#128269;</button>
     <button class="tool-btn" id="hlBtn" onclick="toggleHighlightMode()" title="highlight">&#9998;</button>
     <button class="tool-btn" title="listen">&#128266;</button>
     <button class="tool-btn" id="libBtn" onclick="toggleLibrary()" title="library">&#128218;</button>
@@ -567,6 +585,19 @@
 
 <div class="overlay" id="defOverlay" onclick="if(event.target===this) closeDef()">
   <div class="def-card" id="defCard"></div>
+</div>
+
+<div class="overlay" id="searchOverlay" onclick="if(event.target===this) closeSearch()">
+  <div class="search-card">
+    <div class="search-bar">
+      <input type="search" id="searchInput" placeholder="search a word or phrase&hellip;"
+             autocomplete="off" autocapitalize="off" spellcheck="false"
+             oninput="queueSearch()" onkeydown="if(event.key==='Enter'){event.preventDefault();runSearch();}">
+      <button class="def-close" onclick="closeSearch()" title="close">&times;</button>
+    </div>
+    <div class="search-scope" id="searchScope"></div>
+    <div class="search-results" id="searchResults"></div>
+  </div>
 </div>
 
 <div class="overlay" id="noteOverlay" onclick="if(event.target===this) closeNoteModal()">
@@ -1765,7 +1796,104 @@ function switchTranslation(tx) {
   }
 }
 
-document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDef(); });
+/* ================= scripture search =================
+   Searches whatever translation is active, because the two hold different
+   text and a reader looking at one expects results from it. The index is
+   built once, on first search, and reused -- the Illumination alone is
+   ~3.8M characters and there is no reason to walk it on every keystroke. */
+let SEARCH_IDX = { mak: null, illum: null };
+
+function buildSearchIndex(tx) {
+  if (SEARCH_IDX[tx]) return SEARCH_IDX[tx];
+  const rows = [];
+  if (tx === 'illum') {
+    buildIllumNav();
+    const navOf = {};
+    ILLUM_NAV.forEach((d, i) => { if (d.type === 'ch') navOf[d.ci] = i; });
+    ILLUMINATION.forEach((ch, ci) => {
+      ch.sections.forEach(s => s.verses.forEach(v => {
+        rows.push({ ref: ch.ref + ':' + v[0].replace(/^\d+:/, ''),
+                    text: v[1].replace(/\n/g, ' '), go: navOf[ci] });
+      }));
+    });
+  } else {
+    CHAPTERS.forEach((ch, ci) => {
+      ch.sections.forEach((s, si) => {
+        const t = s.words.map(w => w[0]).filter(Boolean).join(' ').replace(/\s+/g, ' ');
+        rows.push({ ref: ch.ref + (s.heading ? ' · ' + s.heading : ''), text: t, go: ci });
+      });
+    });
+  }
+  rows.forEach(r => { r.lc = r.text.toLowerCase(); });
+  SEARCH_IDX[tx] = rows;
+  return rows;
+}
+
+function openSearch() {
+  document.getElementById('searchOverlay').classList.add('open');
+  const i = document.getElementById('searchInput');
+  i.value = '';
+  document.getElementById('searchResults').innerHTML =
+    '<div class="search-empty">Type a word or a phrase. Results jump straight to the passage.</div>';
+  document.getElementById('searchScope').textContent =
+    'searching ' + (currentTx === 'illum' ? 'The Illumination Translation · 66 books'
+                                          : 'The Mak Translation · New Testament');
+  setTimeout(() => i.focus(), 30);
+}
+function closeSearch() { document.getElementById('searchOverlay').classList.remove('open'); }
+
+let searchTimer = null;
+function queueSearch() { clearTimeout(searchTimer); searchTimer = setTimeout(runSearch, 180); }
+
+function shEsc(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function runSearch() {
+  const q = document.getElementById('searchInput').value.trim();
+  const box = document.getElementById('searchResults');
+  if (q.length < 2) {
+    box.innerHTML = '<div class="search-empty">Keep typing &mdash; two letters or more.</div>';
+    return;
+  }
+  const rows = buildSearchIndex(currentTx);
+  const lc = q.toLowerCase();
+  const CAP = 200;
+  const hits = [];
+  for (let i = 0; i < rows.length && hits.length < CAP; i++) {
+    if (rows[i].lc.indexOf(lc) !== -1) hits.push(rows[i]);
+  }
+  if (!hits.length) {
+    box.innerHTML = '<div class="search-empty">Nothing found for &ldquo;' + shEsc(q) + '&rdquo;.</div>';
+    return;
+  }
+  /* A verse can be long, so show the match in context rather than the whole
+     block, and mark every occurrence inside the window. */
+  const html = hits.map(h => {
+    const at = h.lc.indexOf(lc);
+    const from = Math.max(0, at - 70);
+    let snip = h.text.slice(from, at + lc.length + 110);
+    if (from > 0) snip = '…' + snip;
+    if (at + lc.length + 110 < h.text.length) snip += '…';
+    const re = new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig');
+    const marked = shEsc(snip).replace(new RegExp(shEsc(q).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig'),
+                                       m => '<mark>' + m + '</mark>');
+    return '<button class="search-hit" onclick="goToHit(' + h.go + ')">' +
+           '<div class="sh-ref">' + shEsc(h.ref) + '</div>' +
+           '<div class="sh-txt">' + marked + '</div></button>';
+  }).join('');
+  const more = hits.length >= CAP ? '<div class="search-empty">Showing the first ' + CAP +
+               ' matches. Narrow the phrase for fewer.</div>' : '';
+  box.innerHTML = html + more;
+  box.scrollTop = 0;
+}
+
+function goToHit(i) {
+  closeSearch();
+  if (currentTx === 'illum') loadIllum(i); else loadChapter(i);
+}
+
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeDef(); closeSearch(); } });
 
 populateSelect();
 migrateHighlightKeys();        // must run before any section is built
