@@ -362,6 +362,27 @@
     border-top:1px solid var(--line);border-bottom:1px solid var(--line);
     position:sticky;top:0;z-index:2;}
   .search-book .sb-count{color:var(--gray);font-weight:400;}
+  /* Source divider, one level above the book divider: search now covers every
+     translation plus the devotional, and the first thing worth knowing about a
+     result is which text it came from. Sits above the book header when both
+     stick, so the pair reads source-then-book. */
+  .search-src{display:flex;align-items:center;justify-content:space-between;
+    font-family:var(--mono);font-size:0.7em;letter-spacing:0.1em;text-transform:uppercase;
+    color:var(--white);font-weight:700;background:var(--ink);padding:10px 22px;
+    position:sticky;top:0;z-index:3;}
+  .search-src .ss-count{color:#c9bfb6;font-weight:400;letter-spacing:0.04em;text-transform:none;}
+  .search-src + .search-book{top:34px;}
+  /* Fold a source shut to get it out of the way -- the KJV runs to 31,000
+     verses and will dominate a common word. The header and its counts stay, so
+     a folded group still says how much is inside it. */
+  .search-src{cursor:pointer;user-select:none;}
+  .search-src:hover{background:#2f2a25;}
+  .search-src .ss-name{display:flex;align-items:center;gap:8px;}
+  .search-src .ss-chev{display:inline-block;font-size:0.9em;transition:transform 0.15s ease;}
+  .search-group.collapsed .ss-chev{transform:rotate(-90deg);}
+  .search-group.collapsed .search-book,
+  .search-group.collapsed .search-hit,
+  .search-group.collapsed .search-empty{display:none;}
   /* Brief flash on the passage you landed on, so the eye finds it without
      the reader having to re-read the screen. */
   .search-landed{animation:landed 2.2s ease-out;border-radius:6px;}
@@ -1705,17 +1726,21 @@ function ilEsc(s) {
 /* Poetry keeps its line breaks; prose has none to keep. */
 function ilText(s) { return ilEsc(s).replace(/\n/g, '<br>'); }
 
-function buildIllumNav() {
-  if (NAV_CACHE[currentTx]) { ILLUM_NAV = NAV_CACHE[currentTx]; return; }
-  const c = corpus(), nav = [], hasSyn = !!c.intros;
+/* Built for a named corpus rather than the active one, because search now
+   indexes every translation at once and must be able to work out a destination
+   in a corpus the reader is not currently in. */
+function navFor(tx) {
+  if (NAV_CACHE[tx]) return NAV_CACHE[tx];
+  const c = CORPUS[tx], nav = [], hasSyn = !!c.intros;
   let ci = 0;
   c.books.forEach(b => {
     if (hasSyn) nav.push({ type: 'syn', book: b.name });
     for (let k = 0; k < b.chapters; k++) nav.push({ type: 'ch', ci: ci++, book: b.name });
   });
-  NAV_CACHE[currentTx] = nav;
-  ILLUM_NAV = nav;
+  NAV_CACHE[tx] = nav;
+  return nav;
 }
+function buildIllumNav() { ILLUM_NAV = navFor(currentTx); }
 
 function illumLabel(d) {
   return d.type === 'syn' ? d.book + ' — Synopsis' : corpus().chapters[d.ci].ref;
@@ -1978,45 +2003,101 @@ function switchTranslation(tx) {
    text and a reader looking at one expects results from it. The index is
    built once, on first search, and reused -- the Illumination alone is
    ~3.8M characters and there is no reason to walk it on every keystroke. */
-let SEARCH_IDX = { mak: null, illum: null, kjv: null, dev: null };
+/* One index over everything the library holds -- all three translations and the
+   devotional -- so a search finds a phrase wherever it lives rather than only in
+   whatever happened to be open. Each row carries the source it came from, and
+   following a result switches to that source on the way. Built once, lazily:
+   ~41,000 rows, and no reason to walk them before the reader asks. */
+let SEARCH_ALL = null;
 
-function buildSearchIndex(tx) {
-  if (SEARCH_IDX[tx]) return SEARCH_IDX[tx];
+/* Which source groups the reader has folded shut. Remembered, because the point
+   of folding the KJV away is not having to do it again on the next search. */
+let SEARCH_COLLAPSED = (() => {
+  try { return JSON.parse(localStorage.getItem('ep-search-collapsed')) || {}; }
+  catch (e) { return {}; }
+})();
+
+function toggleSearchSource(tx) {
+  const g = document.getElementById('sgroup-' + tx);
+  if (!g) return;
+  SEARCH_COLLAPSED[tx] = g.classList.toggle('collapsed');
+  try { localStorage.setItem('ep-search-collapsed', JSON.stringify(SEARCH_COLLAPSED)); }
+  catch (e) {}
+}
+
+const SEARCH_SOURCES = [
+  { tx: 'mak',   label: 'Mak Translation' },
+  { tx: 'illum', label: 'Illumination Translation' },
+  { tx: 'kjv',   label: 'King James Version' },
+  { tx: 'dev',   label: 'The Thirteenth Disciple' }
+];
+
+/* A synopsis field flattened to the text a reader would search for. The label
+   is kept on the reference, not in the body, so searching "covenant" does not
+   match every book on the word KEY WORDS. */
+function synFieldText(f) {
+  if (f.kind === 'words')   return f.words.join(' · ');
+  if (f.kind === 'list')    return f.items.map(it => it.text).join(' ');
+  if (f.kind === 'outline') return f.items.map(it => it.text).join(' ');
+  return f.text || '';
+}
+
+function buildSearchIndex() {
+  if (SEARCH_ALL) return SEARCH_ALL;
   const rows = [];
-  if (isDevTx(tx)) {
-    /* The devotional has no verse numbers, so a paragraph is the unit and the
-       day is the grouping. Both blocks are indexed: the opening carries as much
-       of the day as the body does. */
-    DEVOTIONAL.days.forEach((d, k) => {
-      const label = 'Day ' + d.n + ' · ' + d.title;
-      d.opening.forEach((p, pi) =>
-        rows.push({ book: label, ref: label + ' · opening', text: p, go: k + 1, para: p }));
-      d.body.forEach((b, pi) =>
-        rows.push({ book: label, ref: label, text: b.t, go: k + 1, para: b.t }));
+
+  /* Mak: Greek-aligned word triples, so a section is the unit. */
+  CHAPTERS.forEach((ch, ci) => {
+    const book = bookOf(ch.ref);
+    ch.sections.forEach((s, si) => {
+      const t = s.words.map(w => w[0]).filter(Boolean).join(' ').replace(/\s+/g, ' ');
+      rows.push({ src: 'mak', book: book, ref: ch.ref + (s.heading ? ' · ' + s.heading : ''),
+                  text: t, go: ci, sec: si });
     });
-  } else if (isVerseTx(tx)) {
-    buildIllumNav();
-    const navOf = {};
-    ILLUM_NAV.forEach((d, i) => { if (d.type === 'ch') navOf[d.ci] = i; });
-    CORPUS[tx].chapters.forEach((ch, ci) => {
-      const book = bookOf(ch.ref);
-      ch.sections.forEach(s => s.verses.forEach(v => {
-        rows.push({ book: book, ref: ch.ref + ':' + v[0].replace(/^\d+:/, ''),
-                    text: v[1].replace(/\n/g, ' '), go: navOf[ci], mark: v[0] });
-      }));
+  });
+
+  /* The two verse translations. The Illumination also carries a synopsis for
+     every book, which is real text a reader may well be looking for -- the
+     themes, the outline, the key words -- so it is indexed alongside the
+     chapters and lands on the synopsis page. */
+  /* Walked in NAVIGATION order, so each book's synopsis is followed by that
+     book's chapters. Indexing all 66 synopses first and all the chapters after
+     would put a book under two separate headings, and -- worse -- a common word
+     would fill the display cap with synopsis entries before a single verse
+     appeared. Canonical order keeps a book's material together. */
+  ['illum', 'kjv'].forEach(tx => {
+    const nav = navFor(tx), intros = CORPUS[tx].intros;
+    nav.forEach((d, i) => {
+      if (d.type === 'syn') {
+        (intros[d.book] || []).forEach(f => {
+          const t = synFieldText(f);
+          if (t) rows.push({ src: tx, book: d.book,
+                             ref: d.book + ' — Synopsis · ' + f.label, text: t, go: i });
+        });
+      } else {
+        const ch = CORPUS[tx].chapters[d.ci];
+        ch.sections.forEach(s => s.verses.forEach(v => {
+          rows.push({ src: tx, book: d.book, ref: ch.ref + ':' + v[0].replace(/^\d+:/, ''),
+                      text: v[1].replace(/\n/g, ' '), go: i, mark: v[0] });
+        }));
+      }
     });
-  } else {
-    CHAPTERS.forEach((ch, ci) => {
-      const book = bookOf(ch.ref);
-      ch.sections.forEach((s, si) => {
-        const t = s.words.map(w => w[0]).filter(Boolean).join(' ').replace(/\s+/g, ' ');
-        rows.push({ book: book, ref: ch.ref + (s.heading ? ' · ' + s.heading : ''),
-                    text: t, go: ci, sec: si });
-      });
-    });
-  }
+  });
+
+  /* The devotional has no verse numbers, so a paragraph is the unit and the day
+     is the grouping. Both blocks are indexed: the opening carries as much of the
+     day as the body does. */
+  DEVOTIONAL.days.forEach((d, k) => {
+    const label = 'Day ' + d.n + ' · ' + d.title;
+    d.opening.forEach(p =>
+      rows.push({ src: 'dev', book: label, ref: label + ' · opening', text: p,
+                  go: k + 1, para: p }));
+    d.body.forEach(b =>
+      rows.push({ src: 'dev', book: label, ref: label, text: b.t, go: k + 1, para: b.t }));
+  });
+
   rows.forEach(r => { r.lc = r.text.toLowerCase(); });
-  SEARCH_IDX[tx] = rows;
+  SEARCH_ALL = rows;
   return rows;
 }
 
@@ -2027,9 +2108,7 @@ function openSearch() {
   document.getElementById('searchResults').innerHTML =
     '<div class="search-empty">Type a word or a phrase. Results jump straight to the passage.</div>';
   document.getElementById('searchScope').textContent =
-    'searching ' + (isDevTx(currentTx) ? DEVOTIONAL.title + ' · 31 days'
-                 : CORPUS[currentTx] ? CORPUS[currentTx].label
-                                     : 'The Mak Translation · New Testament');
+    'searching every translation, every synopsis, and the devotional';
   setTimeout(() => i.focus(), 30);
 }
 function closeSearch() { document.getElementById('searchOverlay').classList.remove('open'); }
@@ -2048,49 +2127,68 @@ function runSearch() {
     box.innerHTML = '<div class="search-empty">Keep typing &mdash; two letters or more.</div>';
     return;
   }
-  const rows = buildSearchIndex(currentTx);
+  const rows = buildSearchIndex();
   const lc = q.toLowerCase();
-  const CAP = 200;
-  const hits = [];
-  for (let i = 0; i < rows.length && hits.length < CAP; i++) {
-    if (rows[i].lc.indexOf(lc) !== -1) hits.push(rows[i]);
+  /* Every row is scanned, so the totals reported are the real ones. Only the
+     DISPLAY is capped, and per source -- a single global cap would fill itself
+     from whichever translation came first and quietly hide the rest. */
+  const PER_SOURCE = 60;
+  const all = [];
+  for (let i = 0; i < rows.length; i++) {
+    if (rows[i].lc.indexOf(lc) !== -1) all.push(rows[i]);
   }
-  if (!hits.length) {
+  if (!all.length) {
     box.innerHTML = '<div class="search-empty">Nothing found for &ldquo;' + shEsc(q) + '&rdquo;.</div>';
     return;
   }
-  /* Grouped by book, in canonical order, with a count per book -- a bare list
-     of 92 hits tells you nothing about where they cluster. */
-  SEARCH_HITS = hits;
-  let html = '', currentBook = null;
-  hits.forEach((h, n) => {
-    if (h.book !== currentBook) {
-      currentBook = h.book;
-      const inBook = hits.filter(x => x.book === currentBook).length;
-      html += '<div class="search-book">' + shEsc(currentBook) +
-              '<span class="sb-count">' + inBook + '</span></div>';
+
+  const rx = new RegExp(shEsc(q).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig');
+  const shown = [];
+  let html = '';
+  SEARCH_SOURCES.forEach(src => {
+    const mine = all.filter(h => h.src === src.tx);
+    if (!mine.length) return;
+    const groups = new Set(mine.map(h => h.book)).size;
+    const unit = src.tx === 'dev' ? (groups === 1 ? 'day' : 'days')
+                                  : (groups === 1 ? 'book' : 'books');
+    /* Each source is a foldable group. The header keeps its counts when shut,
+       so folding the KJV away still tells you how much is in there. */
+    const shut = SEARCH_COLLAPSED[src.tx] ? ' collapsed' : '';
+    html += '<div class="search-group' + shut + '" id="sgroup-' + src.tx + '">' +
+            '<div class="search-src" onclick="toggleSearchSource(\'' + src.tx + '\')">' +
+            '<span class="ss-name"><span class="ss-chev">&#9662;</span>' + shEsc(src.label) + '</span>' +
+            '<span class="ss-count">' + mine.length + ' in ' + groups + ' ' + unit + '</span></div>';
+    let currentBook = null;
+    mine.slice(0, PER_SOURCE).forEach(h => {
+      if (h.book !== currentBook) {
+        currentBook = h.book;
+        const inBook = mine.filter(x => x.book === currentBook).length;
+        html += '<div class="search-book">' + shEsc(currentBook) +
+                '<span class="sb-count">' + inBook + '</span></div>';
+      }
+      const at = h.lc.indexOf(lc);
+      const from = Math.max(0, at - 70);
+      let snip = h.text.slice(from, at + lc.length + 110);
+      if (from > 0) snip = '…' + snip;
+      if (at + lc.length + 110 < h.text.length) snip += '…';
+      const marked = shEsc(snip).replace(rx, m => '<mark>' + m + '</mark>');
+      html += '<button class="search-hit" onclick="goToHit(' + shown.length + ')">' +
+              '<div class="sh-ref">' + shEsc(h.ref) + '</div>' +
+              '<div class="sh-txt">' + marked + '</div></button>';
+      shown.push(h);
+    });
+    if (mine.length > PER_SOURCE) {
+      html += '<div class="search-empty">' + (mine.length - PER_SOURCE) +
+              ' more in ' + shEsc(src.label) + ' &mdash; narrow the phrase to see them.</div>';
     }
-    const at = h.lc.indexOf(lc);
-    const from = Math.max(0, at - 70);
-    let snip = h.text.slice(from, at + lc.length + 110);
-    if (from > 0) snip = '…' + snip;
-    if (at + lc.length + 110 < h.text.length) snip += '…';
-    const marked = shEsc(snip).replace(
-      new RegExp(shEsc(q).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig'),
-      m => '<mark>' + m + '</mark>');
-    html += '<button class="search-hit" onclick="goToHit(' + n + ')">' +
-            '<div class="sh-ref">' + shEsc(h.ref) + '</div>' +
-            '<div class="sh-txt">' + marked + '</div></button>';
+    html += '</div>';
   });
-  const books = new Set(hits.map(h => h.book)).size;
-  /* The devotional groups by day, not by book, so the count has to say so. */
-  const unit = isDevTx(currentTx) ? (books === 1 ? ' day' : ' days')
-                                  : (books === 1 ? ' book' : ' books');
-  const head = '<div class="search-scope" style="border-top:none;">' + hits.length +
-               (hits.length >= CAP ? '+' : '') + ' matches in ' + books + unit + '</div>';
-  const more = hits.length >= CAP ? '<div class="search-empty">Showing the first ' + CAP +
-               ' matches. Narrow the phrase for fewer.</div>' : '';
-  box.innerHTML = head + html + more;
+  SEARCH_HITS = shown;
+
+  const srcs = new Set(all.map(h => h.src)).size;
+  const head = '<div class="search-scope" style="border-top:none;">' + all.length +
+               ' matches across ' + srcs + (srcs === 1 ? ' source' : ' sources') + '</div>';
+  box.innerHTML = head + html;
   box.scrollTop = 0;
 }
 
@@ -2103,18 +2201,24 @@ function goToHit(n) {
   const h = SEARCH_HITS[n];
   if (!h) return;
   closeSearch();
-  if (isDevTx(currentTx)) loadDev(h.go);
-  else if (isVerseTx(currentTx)) loadIllum(h.go);
+  /* A result may live in a source the reader is not currently in, so follow it
+     there first. switchTranslation lands on that source's opening page; the
+     load immediately below moves it on to the passage itself. */
+  if (h.src !== currentTx) switchTranslation(h.src);
+  if (h.src === 'dev') loadDev(h.go);
+  else if (isVerseTx(h.src)) loadIllum(h.go);
   else loadChapter(h.go);
   /* after the chapter renders */
   setTimeout(() => {
     let el = null;
-    if (isDevTx(currentTx)) {
+    if (h.src === 'dev') {
       /* No verse numbers to anchor on, so the paragraph is matched by its own
          text -- exact, because that is what was indexed. */
       el = [...document.querySelectorAll('#sectionsContainer .dev p')]
              .find(e => e.textContent.trim() === h.para.trim());
-    } else if (isVerseTx(currentTx)) {
+    } else if (isVerseTx(h.src)) {
+      /* A synopsis row has no verse to land on -- the page itself is the hit. */
+      if (h.mark === undefined) return;
       el = [...document.querySelectorAll('#sectionsContainer .illum-ref')]
              .find(e => e.textContent.trim() === h.mark);
       if (el) el = el.parentElement;
@@ -2134,12 +2238,40 @@ populateSelect();
 migrateHighlightKeys();        // must run before any section is built
 renderMoods();                 // restore any saved mood before the first verse
 loadVerse(anchorIdx());        // set up Promises (2 Corinthians 1:20) for when it is opened
-/* The app opens on the Bible, landing on a random chapter each visit -- a
-   different corner of the text every time. skipHistory: the reader did not pick
-   this, so it should not be recorded. */
-loadChapter(Math.floor(Math.random() * CHAPTERS.length), true);
+/* The app opens on the Bible, landing somewhere different every visit.
+   The pool is the Illumination and the devotional -- the two texts written to
+   be read rather than studied. The KJV is deliberately not in it, and Mak is
+   not either: it opens in the study grid, which is not what a landing page
+   wants to be.
+
+   Weighted rather than uniform. The Illumination has 1,189 chapters and the
+   devotional has 31 days, so an even draw across all destinations would surface
+   the devotional about once in forty visits, and an even draw across the two
+   SOURCES would show the same 31 days over and over. Three to one lands on
+   scripture most visits while the devotional still comes round often. */
+const RANDOM_POOL = [
+  { tx: 'illum', weight: 3 },
+  { tx: 'dev',   weight: 1 }
+];
+
+function openSomewhereRandom() {
+  const draw = [];
+  RANDOM_POOL.forEach(s => { for (let i = 0; i < s.weight; i++) draw.push(s.tx); });
+  const tx = draw[Math.floor(Math.random() * draw.length)];
+  switchTranslation(tx);
+  if (tx === 'dev') {
+    /* From 1, not 0 -- destination 0 is the front matter, which is the same
+       page every time and is not a reading. */
+    loadDev(1 + Math.floor(Math.random() * DEVOTIONAL.days.length));
+  } else {
+    /* Chapters only. A synopsis is a reference page, not somewhere to land. */
+    const chapters = [];
+    navFor(tx).forEach((d, i) => { if (d.type === 'ch') chapters.push(i); });
+    loadIllum(chapters[Math.floor(Math.random() * chapters.length)]);
+  }
+}
+openSomewhereRandom();
 sv('bible');
-document.getElementById('studyLabel').classList.add('active');
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
 </script>
 
