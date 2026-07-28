@@ -318,6 +318,18 @@
   .search-hit .sh-txt{font-size:0.9em;line-height:1.55;color:var(--ink);}
   .search-hit mark{background:#ffe9c9;color:inherit;padding:0 1px;border-radius:2px;}
   .search-empty{padding:26px 22px;color:var(--gray);font-size:0.9em;}
+  /* Book divider: results cluster, and seeing where they cluster is half the
+     value of a search. */
+  .search-book{display:flex;align-items:center;justify-content:space-between;
+    font-family:var(--mono);font-size:0.66em;letter-spacing:0.07em;text-transform:uppercase;
+    color:var(--ink);font-weight:700;background:#faf7f4;padding:8px 22px;
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    position:sticky;top:0;z-index:2;}
+  .search-book .sb-count{color:var(--gray);font-weight:400;}
+  /* Brief flash on the passage you landed on, so the eye finds it without
+     the reader having to re-read the screen. */
+  .search-landed{animation:landed 2.2s ease-out;border-radius:6px;}
+  @keyframes landed{0%{background:#ffe9c9;}70%{background:#ffe9c9;}100%{background:transparent;}}
   .def-card{background:var(--white);border-radius:16px;max-width:460px;width:100%;padding:0;box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;overflow-y:auto;}
   .def-card .def-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:1.3em;color:var(--gray);cursor:pointer;line-height:1;z-index:2;}
   .def-source-block{padding:26px 26px 22px;}
@@ -1811,16 +1823,19 @@ function buildSearchIndex(tx) {
     const navOf = {};
     ILLUM_NAV.forEach((d, i) => { if (d.type === 'ch') navOf[d.ci] = i; });
     ILLUMINATION.forEach((ch, ci) => {
+      const book = bookOf(ch.ref);
       ch.sections.forEach(s => s.verses.forEach(v => {
-        rows.push({ ref: ch.ref + ':' + v[0].replace(/^\d+:/, ''),
-                    text: v[1].replace(/\n/g, ' '), go: navOf[ci] });
+        rows.push({ book: book, ref: ch.ref + ':' + v[0].replace(/^\d+:/, ''),
+                    text: v[1].replace(/\n/g, ' '), go: navOf[ci], mark: v[0] });
       }));
     });
   } else {
     CHAPTERS.forEach((ch, ci) => {
+      const book = bookOf(ch.ref);
       ch.sections.forEach((s, si) => {
         const t = s.words.map(w => w[0]).filter(Boolean).join(' ').replace(/\s+/g, ' ');
-        rows.push({ ref: ch.ref + (s.heading ? ' · ' + s.heading : ''), text: t, go: ci });
+        rows.push({ book: book, ref: ch.ref + (s.heading ? ' · ' + s.heading : ''),
+                    text: t, go: ci, sec: si });
       });
     });
   }
@@ -1867,30 +1882,64 @@ function runSearch() {
     box.innerHTML = '<div class="search-empty">Nothing found for &ldquo;' + shEsc(q) + '&rdquo;.</div>';
     return;
   }
-  /* A verse can be long, so show the match in context rather than the whole
-     block, and mark every occurrence inside the window. */
-  const html = hits.map(h => {
+  /* Grouped by book, in canonical order, with a count per book -- a bare list
+     of 92 hits tells you nothing about where they cluster. */
+  SEARCH_HITS = hits;
+  let html = '', currentBook = null;
+  hits.forEach((h, n) => {
+    if (h.book !== currentBook) {
+      currentBook = h.book;
+      const inBook = hits.filter(x => x.book === currentBook).length;
+      html += '<div class="search-book">' + shEsc(currentBook) +
+              '<span class="sb-count">' + inBook + '</span></div>';
+    }
     const at = h.lc.indexOf(lc);
     const from = Math.max(0, at - 70);
     let snip = h.text.slice(from, at + lc.length + 110);
     if (from > 0) snip = '…' + snip;
     if (at + lc.length + 110 < h.text.length) snip += '…';
-    const re = new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig');
-    const marked = shEsc(snip).replace(new RegExp(shEsc(q).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig'),
-                                       m => '<mark>' + m + '</mark>');
-    return '<button class="search-hit" onclick="goToHit(' + h.go + ')">' +
-           '<div class="sh-ref">' + shEsc(h.ref) + '</div>' +
-           '<div class="sh-txt">' + marked + '</div></button>';
-  }).join('');
+    const marked = shEsc(snip).replace(
+      new RegExp(shEsc(q).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig'),
+      m => '<mark>' + m + '</mark>');
+    html += '<button class="search-hit" onclick="goToHit(' + n + ')">' +
+            '<div class="sh-ref">' + shEsc(h.ref) + '</div>' +
+            '<div class="sh-txt">' + marked + '</div></button>';
+  });
+  const books = new Set(hits.map(h => h.book)).size;
+  const head = '<div class="search-scope" style="border-top:none;">' + hits.length +
+               (hits.length >= CAP ? '+' : '') + ' matches in ' + books +
+               (books === 1 ? ' book' : ' books') + '</div>';
   const more = hits.length >= CAP ? '<div class="search-empty">Showing the first ' + CAP +
                ' matches. Narrow the phrase for fewer.</div>' : '';
-  box.innerHTML = html + more;
+  box.innerHTML = head + html + more;
   box.scrollTop = 0;
 }
 
-function goToHit(i) {
+let SEARCH_HITS = [];
+
+/* Land on the passage itself, not just the chapter. A chapter can run to 176
+   verses, and dropping the reader at the top of Psalm 119 to hunt for their
+   phrase is barely better than not jumping at all. */
+function goToHit(n) {
+  const h = SEARCH_HITS[n];
+  if (!h) return;
   closeSearch();
-  if (currentTx === 'illum') loadIllum(i); else loadChapter(i);
+  if (currentTx === 'illum') loadIllum(h.go); else loadChapter(h.go);
+  /* after the chapter renders */
+  setTimeout(() => {
+    let el = null;
+    if (currentTx === 'illum') {
+      el = [...document.querySelectorAll('#sectionsContainer .illum-ref')]
+             .find(e => e.textContent.trim() === h.mark);
+      if (el) el = el.parentElement;
+    } else {
+      el = document.querySelectorAll('#sectionsContainer .section')[h.sec];
+    }
+    if (!el) return;
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    el.classList.add('search-landed');
+    setTimeout(() => el.classList.remove('search-landed'), 2200);
+  }, 60);
 }
 
 document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeDef(); closeSearch(); } });
