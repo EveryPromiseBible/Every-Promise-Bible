@@ -235,6 +235,18 @@
   .lib-group{margin-bottom:32px;}
   .glabel{font-family:var(--mono);font-size:0.68em;color:var(--gray);text-transform:lowercase;margin-bottom:12px;}
   .lib-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  /* Illumination Translation: plain reading type. No Greek, no word units, so
+     it takes the reading column rather than the study grid. */
+  .illum-chap-title{font-size:1.15em;font-weight:600;color:var(--ink);margin:0 0 22px;letter-spacing:0.01em;}
+  .illum-head{font-weight:600;color:var(--ink);margin:30px 0 10px;font-size:0.98em;}
+  .illum-head:first-of-type{margin-top:6px;}
+  .illum-v{margin:0 0 15px;line-height:1.75;max-width:34em;color:var(--ink);}
+  .illum-ref{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-right:8px;vertical-align:2px;letter-spacing:0.02em;}
+  /* Nothing in this translation is Greek-anchored, so the study control has
+     nothing to act on. Hidden rather than left as a dead switch. */
+  body.illum-active #modeSwitch,
+  body.illum-active #studyLabel,
+  body.illum-active #readLabel{display:none;}
   .lib-card{border:1.5px solid var(--line);border-radius:10px;padding:14px;cursor:pointer;background:var(--white);}
   .lib-card:hover{border-color:var(--ink);}
   .lib-card.active{border-color:var(--orange);background:#fff8f4;}
@@ -379,7 +391,7 @@
     <button data-v="journal" onclick="sv('journal')">Journal</button>
   </nav>
   <div class="bible-toolbar" id="bibleToolbar">
-    <select class="chapter-select" id="chapterSelect" onchange="loadChapter(this.value)"></select>
+    <select class="chapter-select" id="chapterSelect" onchange="navSelect(this.value)"></select>
     <button class="tool-btn" title="home">&#8962;</button>
     <button class="tool-btn" title="search">&#128269;</button>
     <button class="tool-btn" id="hlBtn" onclick="toggleHighlightMode()" title="highlight">&#9998;</button>
@@ -457,7 +469,8 @@
       <div class="side-panel-content" id="tab-library">
         <div class="lib-group"><div class="glabel">translations</div>
           <div class="lib-grid" style="grid-template-columns:1fr;max-width:170px;">
-            <div class="lib-card active"><div class="lswatch" style="background:var(--orange);"></div><div class="lcode">tx.01</div><div class="lname">Mak Translation</div></div>
+            <div class="lib-card active" id="txcard-mak" onclick="switchTranslation('mak')"><div class="lswatch" style="background:var(--orange);"></div><div class="lcode">tx.01</div><div class="lname">Mak Translation</div></div>
+            <div class="lib-card" id="txcard-illum" onclick="switchTranslation('illum')"><div class="lswatch" style="background:#5a3fa8;"></div><div class="lcode">tx.02</div><div class="lname">Illumination Translation</div></div>
           </div>
         </div>
       </div>
@@ -502,6 +515,7 @@
 </div>
 
 <script src="data/chapters.js"></script>
+<script src="data/illumination.js"></script>
 <script src="data/lexicon.js"></script>
 <script src="data/promises.js"></script>
 <script src="data/abbott.js"></script>
@@ -1501,6 +1515,131 @@ function sv(name) {
   document.querySelectorAll('[data-v="' + name + '"]').forEach(b => b.classList.add('active'));
   document.getElementById('bibleToolbar').classList.toggle('show', name === 'bible');
   window.scrollTo({top:0, behavior:'smooth'});
+}
+
+/* ================= Illumination Translation (tx.02) =================
+   A separate reading path, deliberately not threaded through the study
+   renderer. buildSection() walks section.words as [english, greek, tag]
+   triples; the Illumination is a thought-for-thought paraphrase with no
+   word-level Greek alignment, so routing it through that code would mean
+   inventing alignment data. This renders text only.
+
+   Navigation is book-first: each book's Synopsis is its own destination
+   sitting above that book's chapter 1, mirroring how the Mak Introduction
+   already sits above Matthew 1 rather than inside it. */
+let currentTx = 'mak';
+let ILLUM_NAV = [];
+
+function ilEsc(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+/* Poetry keeps its line breaks; prose has none to keep. */
+function ilText(s) { return ilEsc(s).replace(/\n/g, '<br>'); }
+
+function buildIllumNav() {
+  if (ILLUM_NAV.length) return;
+  let ci = 0;
+  ILLUMINATION_BOOKS.forEach(b => {
+    ILLUM_NAV.push({ type: 'syn', book: b.name });
+    for (let k = 0; k < b.chapters; k++) ILLUM_NAV.push({ type: 'ch', ci: ci++, book: b.name });
+  });
+}
+
+function illumLabel(d) {
+  return d.type === 'syn' ? d.book + ' — Synopsis' : ILLUMINATION[d.ci].ref;
+}
+
+function populateIllumSelect() {
+  buildIllumNav();
+  const sel = document.getElementById('chapterSelect');
+  let out = '', current = null;
+  ILLUM_NAV.forEach((d, i) => {
+    if (d.book !== current) {
+      if (current !== null) out += '</optgroup>';
+      out += '<optgroup label="' + ilEsc(d.book) + '">';
+      current = d.book;
+    }
+    out += '<option value="' + i + '">' + ilEsc(illumLabel(d)) + '</option>';
+  });
+  if (current !== null) out += '</optgroup>';
+  sel.innerHTML = out;
+}
+
+function buildIllumSynopsis(book) {
+  const fields = ILLUMINATION_INTROS[book] || [];
+  let h = '<div class="intro"><h2>' + ilEsc(book) + '</h2>' +
+          '<div class="intro-sub">The Illumination Translation &middot; synopsis</div>';
+  fields.forEach(f => {
+    h += '<p><strong>' + ilEsc(f.label) + '</strong><br>' + ilText(f.text) + '</p>';
+  });
+  return h + '</div>';
+}
+
+function buildIllumChapter(ch) {
+  let h = '';
+  if (ch.title) h += '<div class="illum-chap-title">' + ilEsc(ch.title) + '</div>';
+  ch.sections.forEach(s => {
+    if (s.heading) h += '<div class="illum-head">' + ilEsc(s.heading) + '</div>';
+    s.verses.forEach(v => {
+      h += '<p class="illum-v"><span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
+           ilText(v[1]) + '</p>';
+    });
+  });
+  return h;
+}
+
+function renderIllumNav(i) {
+  const nav = document.getElementById('chapterNav');
+  if (!nav) return;
+  const prev = i > 0 ? i - 1 : null;
+  const next = i + 1 < ILLUM_NAV.length ? i + 1 : null;
+  const btn = (j, dir, arrow) =>
+    j === null
+      ? '<span class="chap-nav-btn ' + dir + ' empty"></span>'
+      : '<button class="chap-nav-btn ' + dir + '" onclick="loadIllum(' + j + ')">' +
+        '<span class="cn-dir">' + arrow + '</span>' +
+        '<span class="cn-ref">' + ilEsc(illumLabel(ILLUM_NAV[j])) + '</span></button>';
+  nav.innerHTML = btn(prev, 'prev', '&#8592; previous') + btn(next, 'next', 'next &#8594;');
+}
+
+function loadIllum(i) {
+  i = Number(i);
+  const d = ILLUM_NAV[i];
+  if (!d) return;
+  document.getElementById('chapterSelect').value = i;
+  document.getElementById('chapterTitle').textContent = illumLabel(d);
+  const intro = document.getElementById('bibleIntro');
+  const body  = document.getElementById('sectionsContainer');
+  if (d.type === 'syn') {
+    if (intro) intro.innerHTML = buildIllumSynopsis(d.book);
+    body.innerHTML = '';
+  } else {
+    if (intro) intro.innerHTML = '';
+    body.innerHTML = buildIllumChapter(ILLUMINATION[d.ci]);
+  }
+  renderIllumNav(i);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+/* The select is shared, so it routes on the active translation. */
+function navSelect(v) { currentTx === 'illum' ? loadIllum(v) : loadChapter(v); }
+
+function switchTranslation(tx) {
+  if (tx === currentTx) return;
+  currentTx = tx;
+  document.getElementById('txcard-mak').classList.toggle('active', tx === 'mak');
+  document.getElementById('txcard-illum').classList.toggle('active', tx === 'illum');
+  /* The Illumination has no Greek, so the study switch has nothing to act on.
+     Force read mode on the way in rather than leaving a dead control. */
+  document.body.classList.toggle('illum-active', tx === 'illum');
+  if (tx === 'illum') {
+    if (!readMode) toggleMode();
+    populateIllumSelect();
+    loadIllum(0);
+  } else {
+    populateSelect();
+    loadChapter(0);
+  }
 }
 
 document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDef(); });
