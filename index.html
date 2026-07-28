@@ -235,6 +235,42 @@
   .lib-group{margin-bottom:32px;}
   .glabel{font-family:var(--mono);font-size:0.68em;color:var(--gray);text-transform:lowercase;margin-bottom:12px;}
   .lib-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  /* ---- Illumination synopsis: set as a reference page ----
+     Dense multi-column type with the label leading its field inline, the way a
+     study-Bible book introduction reads. Fields are kept whole across column
+     breaks so a label never sits alone at the foot of a column. */
+  body.il-syn-page #chapterTitle{display:none;}
+  .il-syn{font-family:Georgia,'Iowan Old Style','Palatino Linotype',Palatino,serif;color:var(--ink);}
+  .il-bookhead{font-size:2em;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;
+    margin:0 0 20px;padding-bottom:12px;border-bottom:1.5px solid var(--line);}
+  .il-cols{column-count:3;column-gap:34px;column-rule:1px solid var(--line);font-size:0.86em;line-height:1.52;}
+  @media (max-width:1150px){ .il-cols{column-count:2;} }
+  @media (max-width:720px){ .il-cols{column-count:1;} }
+  .il-field{break-inside:avoid;-webkit-column-break-inside:avoid;page-break-inside:avoid;margin:0 0 15px;}
+  .il-label{font-family:var(--mono);font-size:0.76em;letter-spacing:0.08em;text-transform:uppercase;
+    color:#9a3d16;font-weight:600;margin-right:2px;}
+  .il-label::after{content:':';}
+  .il-words{font-style:italic;}
+  .il-n{font-weight:600;}
+  /* Hanging indent: the numeral sits in the margin so the numbers line up and
+     the wrapped text stays clear of them. */
+  .il-outline{margin-top:5px;}
+  .il-o{display:flex;gap:6px;margin:0 0 4px;align-items:baseline;}
+  .il-rn{flex:0 0 auto;min-width:1.7em;text-align:right;color:#9a3d16;font-weight:600;}
+  .il-ot{flex:1 1 auto;}
+  /* Each level steps in, and the numeral keeps its own hanging column so the
+     wrapped text never runs back under it. */
+  .il-l0{margin-left:0;margin-top:9px;font-weight:600;}
+  .il-l0:first-child{margin-top:0;}
+  .il-l1{margin-left:1.15em;font-weight:normal;margin-top:5px;}
+  .il-l2{margin-left:2.5em;}
+  .il-l3{margin-left:3.85em;}
+  .il-l1 .il-rn,.il-l2 .il-rn,.il-l3 .il-rn{font-weight:normal;color:var(--gray);}
+  /* Only the top level is bold. Setting A./B./C. bold worked while entries were
+     short phrases, but several books carry long ones (Revelation especially),
+     and a whole column of bold stops being emphasis and becomes noise. */
+  .il-l1>.il-ot,.il-l2>.il-ot,.il-l3>.il-ot{font-weight:normal;}
+
   /* Illumination Translation: plain reading type. No Greek, no word units, so
      it takes the reading column rather than the study grid. */
   .illum-chap-title{font-size:1.15em;font-weight:600;color:var(--ink);margin:0 0 22px;letter-spacing:0.01em;}
@@ -1565,14 +1601,33 @@ function populateIllumSelect() {
   sel.innerHTML = out;
 }
 
+/* The synopsis is set as a reference page rather than an article: dense
+   multi-column type, the label leading its own field inline, and the outline
+   hanging so the numerals line up down the left. Fields never split across a
+   column, so a label is never orphaned from what it introduces. */
 function buildIllumSynopsis(book) {
   const fields = ILLUMINATION_INTROS[book] || [];
-  let h = '<div class="intro"><h2>' + ilEsc(book) + '</h2>' +
-          '<div class="intro-sub">The Illumination Translation &middot; synopsis</div>';
+  let h = '<div class="il-syn"><div class="il-bookhead">' + ilEsc(book) + '</div>' +
+          '<div class="il-cols">';
   fields.forEach(f => {
-    h += '<p><strong>' + ilEsc(f.label) + '</strong><br>' + ilText(f.text) + '</p>';
+    h += '<div class="il-field"><span class="il-label">' + ilEsc(f.label) + '</span> ';
+    if (f.kind === 'words') {
+      h += '<span class="il-words">' + f.words.map(ilEsc).join(' &middot; ') + '</span>';
+    } else if (f.kind === 'list') {
+      h += '<span class="il-run">' + f.items.map(it =>
+        '<span class="il-n">' + ilEsc(it.n) + '.</span> ' + ilEsc(it.text)).join(' ') + '</span>';
+    } else if (f.kind === 'outline') {
+      /* it.lvl is the outline depth: 0 = I., 1 = A., 2 = 1., 3 = a. */
+      h += '<div class="il-outline">' + f.items.map(it =>
+        '<div class="il-o il-l' + (it.lvl || 0) + '">' +
+        '<span class="il-rn">' + ilEsc(it.num) + '.</span>' +
+        '<span class="il-ot">' + ilEsc(it.text) + '</span></div>').join('') + '</div>';
+    } else {
+      h += '<span class="il-run">' + ilEsc(f.text) + '</span>';
+    }
+    h += '</div>';
   });
-  return h + '</div>';
+  return h + '</div></div>';
 }
 
 function buildIllumChapter(ch) {
@@ -1610,6 +1665,9 @@ function loadIllum(i) {
   document.getElementById('chapterTitle').textContent = illumLabel(d);
   const intro = document.getElementById('bibleIntro');
   const body  = document.getElementById('sectionsContainer');
+  /* The synopsis carries its own book head, so the shared chapter title above
+     it would just say the same thing twice. Hidden for this destination only. */
+  document.body.classList.toggle('il-syn-page', d.type === 'syn');
   if (d.type === 'syn') {
     if (intro) intro.innerHTML = buildIllumSynopsis(d.book);
     body.innerHTML = '';
