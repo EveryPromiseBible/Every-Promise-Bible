@@ -239,6 +239,9 @@
      Dense multi-column type with the label leading its field inline, the way a
      study-Bible book introduction reads. Fields are kept whole across column
      breaks so a label never sits alone at the foot of a column. */
+  /* Kept narrow so it does not crowd the chapter select, which is the control
+     doing the real work. */
+  .testament-select{max-width:150px;flex:0 0 auto;}
   body.il-syn-page #chapterTitle{display:none;}
   .il-syn{font-family:Georgia,'Iowan Old Style','Palatino Linotype',Palatino,serif;color:var(--ink);}
   .il-bookhead{font-size:2em;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;
@@ -413,7 +416,13 @@
        Give the toolbar its own full-width row and let the select take up the
        slack, so every button stays on screen. */
     header{flex-wrap:wrap;row-gap:10px;}
-    .bible-toolbar{width:100%;justify-content:space-between;gap:6px;}
+    /* wrap allowed so the added testament control cannot push a button off the
+       edge again -- the selects take one line and the buttons the next */
+    .bible-toolbar{width:100%;justify-content:space-between;gap:6px;flex-wrap:wrap;}
+    /* Two tidy rows rather than three: the selects share the first, the buttons
+       take the second. Basis under half forces exactly two per row. */
+    .testament-select{max-width:none;flex:1 1 44%;}
+    .bible-toolbar #chapterSelect{flex:1 1 44%;min-width:0;}
     .bible-toolbar #chapterSelect{flex:1 1 auto;min-width:0;}
     .bible-toolbar .tool-btn{flex:0 0 auto;}
     .bnav{display:flex;justify-content:space-around;position:fixed;left:0;right:0;bottom:0;background:var(--white);border-top:1px solid var(--line);padding:10px 4px 16px;z-index:50;}
@@ -437,6 +446,10 @@
     <button data-v="journal" onclick="sv('journal')">Journal</button>
   </nav>
   <div class="bible-toolbar" id="bibleToolbar">
+    <select class="chapter-select testament-select" id="testamentSelect" onchange="setTestament(this.value)" title="testament" style="display:none;">
+      <option value="OT">Old Testament</option>
+      <option value="NT">New Testament</option>
+    </select>
     <select class="chapter-select" id="chapterSelect" onchange="navSelect(this.value)"></select>
     <button class="tool-btn" title="home">&#8962;</button>
     <button class="tool-btn" title="search">&#128269;</button>
@@ -1602,11 +1615,23 @@ function illumLabel(d) {
   return d.type === 'syn' ? d.book + ' — Synopsis' : ILLUMINATION[d.ci].ref;
 }
 
+/* 1,255 destinations is too many for one dropdown, and HTML will not nest an
+   optgroup inside an optgroup -- so the testament is its own small select and
+   the chapter list is filtered to it. The Mak Translation is New Testament
+   only, so the control is hidden there: there is nothing to divide. */
+let illumTestament = 'OT';
+
+function testamentOf(book) {
+  const b = ILLUMINATION_BOOKS.find(x => x.name === book);
+  return b ? b.testament : 'OT';
+}
+
 function populateIllumSelect() {
   buildIllumNav();
   const sel = document.getElementById('chapterSelect');
   let out = '', current = null;
   ILLUM_NAV.forEach((d, i) => {
+    if (testamentOf(d.book) !== illumTestament) return;
     if (d.book !== current) {
       if (current !== null) out += '</optgroup>';
       out += '<optgroup label="' + ilEsc(d.book) + '">';
@@ -1616,6 +1641,15 @@ function populateIllumSelect() {
   });
   if (current !== null) out += '</optgroup>';
   sel.innerHTML = out;
+}
+
+/* Switching testament lands on that testament's first book rather than leaving
+   the reader on a chapter the list no longer shows. */
+function setTestament(t) {
+  illumTestament = t;
+  populateIllumSelect();
+  const first = ILLUM_NAV.findIndex(d => testamentOf(d.book) === t);
+  if (first >= 0) loadIllum(first);
 }
 
 /* The synopsis is set as a reference page rather than an article: dense
@@ -1678,6 +1712,15 @@ function loadIllum(i) {
   i = Number(i);
   const d = ILLUM_NAV[i];
   if (!d) return;
+  /* Walking forward from Malachi lands in Matthew, and a bookmark may point
+     anywhere. If the destination is in the other testament, follow it there
+     rather than leaving the reader on a chapter the filtered list cannot show. */
+  const t = testamentOf(d.book);
+  if (t !== illumTestament) {
+    illumTestament = t;
+    document.getElementById('testamentSelect').value = t;
+    populateIllumSelect();
+  }
   document.getElementById('chapterSelect').value = i;
   document.getElementById('chapterTitle').textContent = illumLabel(d);
   const intro = document.getElementById('bibleIntro');
@@ -1707,10 +1750,15 @@ function switchTranslation(tx) {
   /* The Illumination has no Greek, so the study switch has nothing to act on.
      Force read mode on the way in rather than leaving a dead control. */
   document.body.classList.toggle('illum-active', tx === 'illum');
+  /* Mak is New Testament only, so a testament filter there would be a control
+     with nothing to do. Shown for the Illumination, hidden for Mak. */
+  document.getElementById('testamentSelect').style.display = (tx === 'illum') ? '' : 'none';
   if (tx === 'illum') {
     if (!readMode) toggleMode();
+    document.getElementById('testamentSelect').value = illumTestament;
     populateIllumSelect();
-    loadIllum(0);
+    const first = ILLUM_NAV.findIndex(d => testamentOf(d.book) === illumTestament);
+    loadIllum(first >= 0 ? first : 0);
   } else {
     populateSelect();
     loadChapter(0);
