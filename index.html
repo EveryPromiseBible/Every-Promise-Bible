@@ -406,6 +406,16 @@
     .bible-layout{flex-direction:column;}
     .side{width:100%;border-left:none;border-top:1px solid var(--line);}
     header{padding:12px 16px;} .wordmark{display:none;}
+    /* The toolbar is ~436px wide (the chapter select alone is 216) and the
+       header has ~358px to give at phone width. It was overflowing, and since
+       the library button is the LAST item in the LAST child it was the one
+       pushed off the right edge -- reachable on desktop, invisible on a phone.
+       Give the toolbar its own full-width row and let the select take up the
+       slack, so every button stays on screen. */
+    header{flex-wrap:wrap;row-gap:10px;}
+    .bible-toolbar{width:100%;justify-content:space-between;gap:6px;}
+    .bible-toolbar #chapterSelect{flex:1 1 auto;min-width:0;}
+    .bible-toolbar .tool-btn{flex:0 0 auto;}
     .bnav{display:flex;justify-content:space-around;position:fixed;left:0;right:0;bottom:0;background:var(--white);border-top:1px solid var(--line);padding:10px 4px 16px;z-index:50;}
     .bnav button{display:flex;flex-direction:column;align-items:center;gap:3px;background:none;border:none;font-family:var(--mono);font-size:0.6em;color:var(--gray);text-transform:capitalize;}
     .bnav button.active{color:var(--orange);}
@@ -1529,8 +1539,15 @@ function toggleMode() {
   document.getElementById('readLabel').classList.toggle('active', readMode);
 }
 function toggleLibrary() {
-  document.getElementById('library').classList.toggle('open');
+  const lib = document.getElementById('library');
+  const open = lib.classList.toggle('open');
   document.getElementById('libBtn').classList.toggle('active');
+  /* On a phone the layout stacks, so the panel opens BELOW the whole chapter --
+     which can be thousands of words. Tapping the button then looks like it did
+     nothing at all. Bring it into view so the tap has a visible result. */
+  if (open && window.innerWidth <= 1000) {
+    lib.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
 }
 function showTab(name) {
   document.querySelectorAll('.side-panel-content').forEach(p => p.style.display = 'none');
