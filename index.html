@@ -286,6 +286,42 @@
   body.illum-active #modeSwitch,
   body.illum-active #studyLabel,
   body.illum-active #readLabel{display:none;}
+
+  /* The Thirteenth Disciple (dv.01). Narrative prose, not verses -- so it takes
+     a serif reading column and keeps the typography the manuscript itself uses:
+     centred day head, an italic opening block, the rule pair, then the body.
+     That opening/body break is the book's own structure and the reason the days
+     read the way they do; flattening it would lose the shape. */
+  .dev{font-family:Georgia,'Iowan Old Style','Palatino Linotype',Palatino,serif;color:var(--ink);
+    max-width:33em;margin:0 auto;}
+  .dev-head{text-align:center;margin:0 0 34px;}
+  .dev-daynum{font-family:var(--mono);font-size:0.72em;letter-spacing:0.18em;text-transform:uppercase;
+    color:#9a3d16;font-weight:600;}
+  .dev-title{font-size:1.65em;font-weight:600;letter-spacing:0.01em;margin:8px 0 16px;line-height:1.25;}
+  .dev-hlabel{font-family:var(--mono);font-size:0.64em;letter-spacing:0.14em;text-transform:uppercase;
+    color:var(--gray);}
+  .dev-harmony{font-style:italic;font-size:0.85em;color:var(--gray);margin-top:4px;line-height:1.6;}
+  .dev-open p{font-style:italic;line-height:1.8;margin:0 0 15px;}
+  /* The rules are the hinge between the two blocks. Drawn as a mark rather than
+     three em dashes so it reads as a division and not as stray punctuation. */
+  .dev-rule{display:flex;align-items:center;gap:14px;margin:30px 0 28px;color:var(--line);}
+  .dev-rule::before,.dev-rule::after{content:'';flex:1 1 auto;height:1px;background:var(--line);}
+  .dev-rule span{font-family:var(--mono);font-size:0.6em;letter-spacing:0.3em;color:var(--gray);}
+  .dev-body p{line-height:1.8;margin:0 0 16px;}
+  /* Scripture is set apart: centred, italic, with the attribution under it. */
+  .dev-q{text-align:center;font-style:italic;margin:26px auto 4px !important;max-width:28em;line-height:1.7;}
+  .dev-attr{text-align:center;font-family:var(--mono);font-size:0.7em;letter-spacing:0.04em;
+    color:var(--gray);margin:0 0 26px !important;}
+  .dev-h{font-weight:600;text-align:center;margin:30px 0 14px;}
+  .dev-end{text-align:center;color:var(--line);letter-spacing:0.5em;margin:38px 0 0;}
+  body.dev-active #modeSwitch,
+  body.dev-active #studyLabel,
+  body.dev-active #readLabel,
+  body.dev-active #testamentSelect{display:none;}
+  /* The day carries its own head, so the shared title above it would say the
+     same thing twice -- the same reason the Synopsis hides it. */
+  body.dev-active #chapterTitle{display:none;}
+  @media (max-width:720px){ .dev-title{font-size:1.35em;} }
   .lib-card{border:1.5px solid var(--line);border-radius:10px;padding:14px;cursor:pointer;background:var(--white);}
   .lib-card:hover{border-color:var(--ink);}
   .lib-card.active{border-color:var(--orange);background:#fff8f4;}
@@ -563,6 +599,11 @@
             <div class="lib-card" id="txcard-kjv" onclick="switchTranslation('kjv')"><div class="lswatch" style="background:#1a6fa8;"></div><div class="lcode">tx.03</div><div class="lname">King James Version</div></div>
           </div>
         </div>
+        <div class="lib-group"><div class="glabel">devotionals</div>
+          <div class="lib-grid" style="grid-template-columns:1fr;max-width:170px;">
+            <div class="lib-card" id="txcard-dev" onclick="switchTranslation('dev')"><div class="lswatch" style="background:#7a5c2e;"></div><div class="lcode">dv.01</div><div class="lname">The Thirteenth Disciple</div></div>
+          </div>
+        </div>
       </div>
 
       <div class="side-panel-content" id="tab-bookmarks" style="display:none;">
@@ -620,6 +661,7 @@
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
 <script src="data/kjv.js"></script>
+<script src="data/devotional.js"></script>
 <script src="data/lexicon.js"></script>
 <script src="data/promises.js"></script>
 <script src="data/abbott.js"></script>
@@ -1803,22 +1845,122 @@ function loadIllum(i) {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
+/* ================= The Thirteenth Disciple (dv.01) =================
+   A devotional narrative, not a translation: 31 days of prose rather than
+   books and verses. It gets its own small reader for the same reason the
+   Illumination got one -- routing it through a renderer that expects chapters
+   and verse numbers would mean inventing structure the text does not have.
+
+   Destination 0 is the front matter, which carries the author's note on how
+   the book is built. It sits above Day 1 the way a book's Synopsis sits above
+   its chapter 1. */
+function isDevTx(tx) { return tx === 'dev'; }
+
+function devLabel(i) {
+  if (i === 0) return 'Front Matter';
+  const d = DEVOTIONAL.days[i - 1];
+  return 'Day ' + d.n + ' · ' + d.title;
+}
+
+function populateDevSelect() {
+  const sel = document.getElementById('chapterSelect');
+  let out = '<option value="0">' + ilEsc(devLabel(0)) + '</option>';
+  out += '<optgroup label="' + ilEsc(DEVOTIONAL.title) + '">';
+  DEVOTIONAL.days.forEach((d, k) =>
+    out += '<option value="' + (k + 1) + '">' + ilEsc(devLabel(k + 1)) + '</option>');
+  sel.innerHTML = out + '</optgroup>';
+}
+
+/* The manuscript opens with its own title page -- title, subtitle, dedication,
+   epigraph -- so no head is added above it. Adding one printed the title twice.
+   The first heading is set as the book title rather than a section head. */
+function buildDevFront() {
+  let h = '<div class="dev"><div class="dev-body">';
+  let first = true;
+  DEVOTIONAL.front.forEach(f => {
+    if (f.k === 'h' && first) {
+      h += '<div class="dev-head"><div class="dev-title">' + ilEsc(f.t) + '</div></div>';
+      first = false;
+    }
+    else if (f.k === 'h') h += '<div class="dev-h">' + ilEsc(f.t) + '</div>';
+    else if (f.k === 'q') h += '<p class="dev-q">' + ilText(f.t) + '</p>';
+    else if (f.k === 'attr') h += '<p class="dev-attr">' + ilText(f.t) + '</p>';
+    else h += '<p>' + ilText(f.t) + '</p>';
+  });
+  return h + '</div></div>';
+}
+
+function buildDevDay(d) {
+  let h = '<div class="dev"><div class="dev-head">' +
+          '<div class="dev-daynum">Day ' + d.n + '</div>' +
+          '<div class="dev-title">' + ilEsc(d.title) + '</div>' +
+          '<div class="dev-hlabel">Scripture Harmony</div>' +
+          '<div class="dev-harmony">' + ilEsc(d.harmony) + '</div></div>';
+  h += '<div class="dev-open">' + d.opening.map(p => '<p>' + ilText(p) + '</p>').join('') + '</div>';
+  h += '<div class="dev-rule"><span>&#10038;</span></div>';
+  h += '<div class="dev-body">';
+  d.body.forEach(b => {
+    if (b.k === 'h') h += '<div class="dev-h">' + ilEsc(b.t) + '</div>';
+    else if (b.k === 'q') h += '<p class="dev-q">' + ilText(b.t) + '</p>';
+    else if (b.k === 'attr') h += '<p class="dev-attr">' + ilText(b.t) + '</p>';
+    else h += '<p>' + ilText(b.t) + '</p>';
+  });
+  return h + '</div><div class="dev-end">&#10038;&#10038;&#10038;</div></div>';
+}
+
+function renderDevNav(i) {
+  const nav = document.getElementById('chapterNav');
+  if (!nav) return;
+  const last = DEVOTIONAL.days.length;
+  const prev = i > 0 ? i - 1 : null;
+  const next = i < last ? i + 1 : null;
+  const btn = (j, dir, arrow) =>
+    j === null
+      ? '<span class="chap-nav-btn ' + dir + ' empty"></span>'
+      : '<button class="chap-nav-btn ' + dir + '" onclick="loadDev(' + j + ')">' +
+        '<span class="cn-dir">' + arrow + '</span>' +
+        '<span class="cn-ref">' + ilEsc(devLabel(j)) + '</span></button>';
+  nav.innerHTML = btn(prev, 'prev', '&#8592; previous') + btn(next, 'next', 'next &#8594;');
+}
+
+function loadDev(i) {
+  i = Number(i);
+  if (i < 0 || i > DEVOTIONAL.days.length) return;
+  document.getElementById('chapterSelect').value = i;
+  document.getElementById('chapterTitle').textContent = devLabel(i);
+  const intro = document.getElementById('bibleIntro');
+  const body  = document.getElementById('sectionsContainer');
+  if (intro) intro.innerHTML = '';
+  body.innerHTML = i === 0 ? buildDevFront() : buildDevDay(DEVOTIONAL.days[i - 1]);
+  renderDevNav(i);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 /* The select is shared, so it routes on the active translation. */
-function navSelect(v) { isVerseTx(currentTx) ? loadIllum(v) : loadChapter(v); }
+function navSelect(v) {
+  if (isDevTx(currentTx)) loadDev(v);
+  else if (isVerseTx(currentTx)) loadIllum(v);
+  else loadChapter(v);
+}
 
 function switchTranslation(tx) {
   if (tx === currentTx) return;
   currentTx = tx;
-  ['mak', 'illum', 'kjv'].forEach(k =>
+  ['mak', 'illum', 'kjv', 'dev'].forEach(k =>
     document.getElementById('txcard-' + k).classList.toggle('active', tx === k));
   /* Neither the Illumination nor the KJV carries Greek alignment, so the
      study switch has nothing to act on. Force read mode rather than leaving
-     a dead control. */
+     a dead control. The devotional is prose and has even less to align. */
   document.body.classList.toggle('illum-active', isVerseTx(tx));
+  document.body.classList.toggle('dev-active', isDevTx(tx));
   /* Mak is New Testament only, so a testament filter there would be a control
      with nothing to do. Shown for the two whole-Bible translations. */
   document.getElementById('testamentSelect').style.display = isVerseTx(tx) ? '' : 'none';
-  if (isVerseTx(tx)) {
+  if (isDevTx(tx)) {
+    if (!readMode) toggleMode();
+    populateDevSelect();
+    loadDev(0);
+  } else if (isVerseTx(tx)) {
     if (!readMode) toggleMode();
     document.getElementById('testamentSelect').value = illumTestament;
     buildIllumNav();
@@ -1836,12 +1978,23 @@ function switchTranslation(tx) {
    text and a reader looking at one expects results from it. The index is
    built once, on first search, and reused -- the Illumination alone is
    ~3.8M characters and there is no reason to walk it on every keystroke. */
-let SEARCH_IDX = { mak: null, illum: null, kjv: null };
+let SEARCH_IDX = { mak: null, illum: null, kjv: null, dev: null };
 
 function buildSearchIndex(tx) {
   if (SEARCH_IDX[tx]) return SEARCH_IDX[tx];
   const rows = [];
-  if (isVerseTx(tx)) {
+  if (isDevTx(tx)) {
+    /* The devotional has no verse numbers, so a paragraph is the unit and the
+       day is the grouping. Both blocks are indexed: the opening carries as much
+       of the day as the body does. */
+    DEVOTIONAL.days.forEach((d, k) => {
+      const label = 'Day ' + d.n + ' · ' + d.title;
+      d.opening.forEach((p, pi) =>
+        rows.push({ book: label, ref: label + ' · opening', text: p, go: k + 1, para: p }));
+      d.body.forEach((b, pi) =>
+        rows.push({ book: label, ref: label, text: b.t, go: k + 1, para: b.t }));
+    });
+  } else if (isVerseTx(tx)) {
     buildIllumNav();
     const navOf = {};
     ILLUM_NAV.forEach((d, i) => { if (d.type === 'ch') navOf[d.ci] = i; });
@@ -1874,8 +2027,9 @@ function openSearch() {
   document.getElementById('searchResults').innerHTML =
     '<div class="search-empty">Type a word or a phrase. Results jump straight to the passage.</div>';
   document.getElementById('searchScope').textContent =
-    'searching ' + (CORPUS[currentTx] ? CORPUS[currentTx].label
-                                      : 'The Mak Translation · New Testament');
+    'searching ' + (isDevTx(currentTx) ? DEVOTIONAL.title + ' · 31 days'
+                 : CORPUS[currentTx] ? CORPUS[currentTx].label
+                                     : 'The Mak Translation · New Testament');
   setTimeout(() => i.focus(), 30);
 }
 function closeSearch() { document.getElementById('searchOverlay').classList.remove('open'); }
@@ -1929,9 +2083,11 @@ function runSearch() {
             '<div class="sh-txt">' + marked + '</div></button>';
   });
   const books = new Set(hits.map(h => h.book)).size;
+  /* The devotional groups by day, not by book, so the count has to say so. */
+  const unit = isDevTx(currentTx) ? (books === 1 ? ' day' : ' days')
+                                  : (books === 1 ? ' book' : ' books');
   const head = '<div class="search-scope" style="border-top:none;">' + hits.length +
-               (hits.length >= CAP ? '+' : '') + ' matches in ' + books +
-               (books === 1 ? ' book' : ' books') + '</div>';
+               (hits.length >= CAP ? '+' : '') + ' matches in ' + books + unit + '</div>';
   const more = hits.length >= CAP ? '<div class="search-empty">Showing the first ' + CAP +
                ' matches. Narrow the phrase for fewer.</div>' : '';
   box.innerHTML = head + html + more;
@@ -1947,11 +2103,18 @@ function goToHit(n) {
   const h = SEARCH_HITS[n];
   if (!h) return;
   closeSearch();
-  if (isVerseTx(currentTx)) loadIllum(h.go); else loadChapter(h.go);
+  if (isDevTx(currentTx)) loadDev(h.go);
+  else if (isVerseTx(currentTx)) loadIllum(h.go);
+  else loadChapter(h.go);
   /* after the chapter renders */
   setTimeout(() => {
     let el = null;
-    if (isVerseTx(currentTx)) {
+    if (isDevTx(currentTx)) {
+      /* No verse numbers to anchor on, so the paragraph is matched by its own
+         text -- exact, because that is what was indexed. */
+      el = [...document.querySelectorAll('#sectionsContainer .dev p')]
+             .find(e => e.textContent.trim() === h.para.trim());
+    } else if (isVerseTx(currentTx)) {
       el = [...document.querySelectorAll('#sectionsContainer .illum-ref')]
              .find(e => e.textContent.trim() === h.mark);
       if (el) el = el.parentElement;
