@@ -1850,17 +1850,25 @@ function commentaryFor(key) {
 }
 function cmtId(key) { return 'cmt-' + key.replace(/[^A-Za-z0-9]+/g, '-'); }
 
+/* Commentary text is authored in markdown, so **emphasis** has to become bold
+   rather than showing its asterisks. Escaping happens FIRST and the markers are
+   converted after, so nothing in the source can inject markup -- only the two
+   asterisk pairs this line looks for ever become a tag. */
+function cmtText(s) {
+  return ilEsc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
+
 function buildCommentaryPanel(key) {
   const c = commentaryFor(key);
   if (!c) return '';
   let h = '<div class="cmt-panel" id="' + cmtId(key) + '">' +
           '<div class="cmt-title">' + ilEsc(key) + ' &middot; ' + ilEsc(c.title) + '</div>';
   c.blocks.forEach(b => {
-    if (b.k === 'h') h += '<h4>' + ilEsc(b.t) + '</h4>';
+    if (b.k === 'h') h += '<h4>' + cmtText(b.t) + '</h4>';
     else if (b.k === 'ul')
-      h += '<ul>' + b.items.map(i => '<li>' + ilEsc(i) + '</li>').join('') + '</ul>';
-    else if (b.k === 'note') h += '<div class="cmt-note"><p>' + ilEsc(b.t) + '</p></div>';
-    else h += '<p>' + ilEsc(b.t) + '</p>';
+      h += '<ul>' + b.items.map(i => '<li>' + cmtText(i) + '</li>').join('') + '</ul>';
+    else if (b.k === 'note') h += '<div class="cmt-note"><p>' + cmtText(b.t) + '</p></div>';
+    else h += '<p>' + cmtText(b.t) + '</p>';
   });
   return h + '<button class="cmt-close" onclick="toggleCommentary(\'' + key +
          '\')">close</button></div>';
