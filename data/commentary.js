@@ -46,11 +46,11 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "In ordinary Greek, meletao is what a public speaker does when he drills a speech — going over it, working at it, until it is in him and he no longer has to reach for it."
+        "t": "In ordinary Greek, meletao is what a public speaker does when he drills a speech — going over it until it is in him and he no longer has to reach for it."
       },
       {
         "k": "p",
-        "t": "So both are in the one word: turn it over, and work at it. Say it until it is yours."
+        "t": "So both are in the one word: turn it over, and let it become yours. Say it until it lives in you."
       },
       {
         "k": "note",
@@ -62,11 +62,11 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "The word is prokope. It comes from a verb meaning to cut forward — the way someone hacks a path through undergrowth ahead of everyone else. It is not money quietly accumulating. It is ground gained by effort."
+        "t": "The word is prokope. It comes from a verb meaning to cut forward — the way someone hacks a path through undergrowth ahead of everyone else. It is not money quietly accumulating. It is ground gained."
       },
       {
         "k": "p",
-        "t": "Paul is saying: keep at this, and people will be able to see the path you are cutting."
+        "t": "Paul is saying: stay in this, and people will be able to see the path opening up in front of you."
       },
       {
         "k": "h",
@@ -78,7 +78,15 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "The word is sozo. In English, saved has narrowed until it means one thing — getting out of hell. The Greek word never narrowed like that."
+        "t": "The word is sozo."
+      },
+      {
+        "k": "p",
+        "t": "**Sozo means to save, to rescue, to heal, to make whole, to preserve, to bring safely through. Complete salvation and complete deliverance — in any and every sense a person could need it.** That is not a devotional stretch. That is the size of the word."
+      },
+      {
+        "k": "p",
+        "t": "In English, saved has narrowed until it means one thing: getting out of hell. The Greek word never narrowed like that, and it never had to."
       },
       {
         "k": "h",
@@ -94,7 +102,7 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "But the rescue is not finished there, and no one who has actually been rescued thinks it is. He is hauled over the side of the boat. The water is got out of him. Somebody wraps him in something dry, puts hot food in his hands, and sits with him until he stops shaking. He is carried to shore. He is taken home. In the morning he wakes up in his own bed."
+        "t": "But the rescue is not finished there, and no one who has actually been rescued thinks it is. He is hauled over the side. The water is got out of him. Somebody wraps him in something dry, puts hot food in his hands, and sits with him until he stops shaking. He is carried to shore. He is taken home. In the morning he wakes up in his own bed."
       },
       {
         "k": "p",
@@ -119,30 +127,6 @@ const COMMENTARY = {
       {
         "k": "p",
         "t": "One word, wide enough to hold all of it — because what God does with a person was never divided into compartments in the first place."
-      },
-      {
-        "k": "h",
-        "t": "So what happens to Timothy, and to the people listening"
-      },
-      {
-        "k": "p",
-        "t": "Paul is not promising that a well-taught congregation will merely dodge something at the end."
-      },
-      {
-        "k": "p",
-        "t": "He is saying that this man — who keeps working at the word, and keeps watching himself while he does it — gets brought all the way through. And the people sitting in front of him are brought through with him."
-      },
-      {
-        "k": "p",
-        "t": "Whatever it is in a person that is going under — the fear, the shame, the sickness, the confusion about what God is really like — sozo goes after all of it. It does not pull one part of a man onto the boat and leave the rest of him in the water."
-      },
-      {
-        "k": "p",
-        "t": "And notice who is first on the list. Yourself, then those who hear you. The man doing the teaching is not standing outside what he is teaching. He is the first one it gets hold of."
-      },
-      {
-        "k": "note",
-        "t": "One limit on this, and it matters. Sozo genuinely does include salvation in the fullest and final sense — that is not being taken away here, and this is not a case of everybody having had the word wrong all along. The claim that holds is that saved is WIDER than we usually hear it, not that it means something other than we thought. And the width of a word does not by itself promise a particular outcome in a particular case. What it tells you is the size of what God is dealing with: not a part of you, but you."
       }
     ]
   },
