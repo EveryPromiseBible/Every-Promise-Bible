@@ -9,6 +9,67 @@
  * Blocks: h heading, p paragraph, ul bullets, note a set-apart caution.
  */
 const COMMENTARY = {
+  "1 Timothy 4:14–16": {
+    "title": "What \"meditate\" actually meant",
+    "blocks": [
+      {
+        "k": "p",
+        "t": "Our text says take these things to heart. The word underneath it is stronger and stranger than that, and it is worth knowing what is inside it."
+      },
+      {
+        "k": "h",
+        "t": "It is the Psalm 1 word"
+      },
+      {
+        "k": "p",
+        "t": "The Greek word is meletao. It is the word the Greek Old Testament uses in Psalm 1 — the man whose delight is in the law, and who meditates in it day and night."
+      },
+      {
+        "k": "p",
+        "t": "And look at what Paul said two verses earlier: give your attention to the reading of the Scriptures aloud. Then he says this. He is telling a young minister to do with these things what the blessed man of Psalm 1 does with the law."
+      },
+      {
+        "k": "h",
+        "t": "It is not emptying your mind. It is filling it."
+      },
+      {
+        "k": "p",
+        "t": "Behind the Greek stands a Hebrew word, hagah. It does not mean sitting still and going blank. It means muttering, murmuring, going over something under your breath."
+      },
+      {
+        "k": "p",
+        "t": "The same Hebrew word gets used for a lion growling over its food, and for a dove moaning. It is a noise word. Biblical meditation is closer to chewing something over out loud than it is to silence."
+      },
+      {
+        "k": "h",
+        "t": "And it also means practice"
+      },
+      {
+        "k": "p",
+        "t": "In ordinary Greek, meletao is what a public speaker does when he drills a speech — going over it, working at it, until it is in him and he no longer has to reach for it."
+      },
+      {
+        "k": "p",
+        "t": "So both are in the one word: turn it over, and work at it. Say it until it is yours."
+      },
+      {
+        "k": "h",
+        "t": "Why \"profiting\""
+      },
+      {
+        "k": "p",
+        "t": "The word is prokope. It comes from a verb meaning to cut forward — the way someone hacks a path through undergrowth ahead of everyone else. It is not money quietly accumulating. It is ground gained by effort."
+      },
+      {
+        "k": "p",
+        "t": "Paul is saying: keep at this, and people will be able to see the path you are cutting."
+      },
+      {
+        "k": "note",
+        "t": "One thing not to push too far. The Greek word does cover quiet reflection as well — the noisy, muttering sense comes from the Hebrew word behind the Psalm, not from the Greek on its own. The claim that holds is this: biblical meditation means filling your mind with something and going over it, not emptying your mind. That much is solid, and it is enough."
+      }
+    ]
+  },
   "James 2:17": {
     "title": "Does James contradict Paul?",
     "blocks": [
