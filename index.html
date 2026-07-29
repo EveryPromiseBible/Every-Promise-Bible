@@ -281,6 +281,32 @@
   .illum-head:first-of-type{margin-top:6px;}
   .illum-v{margin:0 0 15px;line-height:1.75;max-width:34em;color:var(--ink);}
   .illum-ref{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-right:8px;vertical-align:2px;letter-spacing:0.02em;}
+
+  /* Verse commentary. A verse carrying a note gets a small marker after its
+     text; everything else is left alone, so the reading page stays clean and
+     the notes are there only for whoever wants them. */
+  .cmt-dot{display:inline-block;width:11px;height:11px;margin-left:7px;padding:0;
+    border:none;border-radius:50%;background:#e8a800;cursor:pointer;vertical-align:1px;
+    box-shadow:0 0 0 0 rgba(232,168,0,0.55);transition:box-shadow 0.2s,background 0.2s;}
+  .cmt-dot:hover{background:#c98f00;box-shadow:0 0 0 4px rgba(232,168,0,0.22);}
+  .cmt-dot.open{background:#c98f00;box-shadow:0 0 0 4px rgba(232,168,0,0.3);}
+  .cmt-panel{display:none;margin:14px 0 22px;padding:18px 20px;max-width:34em;
+    background:#fffaf0;border:1px solid #f0dfae;border-left:3px solid #e8a800;
+    border-radius:8px;}
+  .cmt-panel.open{display:block;}
+  .cmt-title{font-family:var(--mono);font-size:0.7em;letter-spacing:0.09em;
+    text-transform:uppercase;color:#8a6300;font-weight:700;margin:0 0 12px;}
+  .cmt-panel h4{font-size:0.95em;font-weight:600;color:var(--ink);margin:16px 0 6px;}
+  .cmt-panel h4:first-of-type{margin-top:0;}
+  .cmt-panel p{font-size:0.92em;line-height:1.7;margin:0 0 10px;color:var(--ink);}
+  .cmt-panel ul{margin:0 0 10px;padding-left:20px;}
+  .cmt-panel li{font-size:0.92em;line-height:1.65;margin:0 0 6px;color:var(--ink);}
+  .cmt-note{background:#fff3d6;border-radius:6px;padding:12px 14px;margin-top:12px;}
+  .cmt-note p{margin:0;font-size:0.9em;}
+  .cmt-close{display:block;margin-top:14px;background:none;border:none;padding:0;
+    font-family:var(--mono);font-size:0.68em;letter-spacing:0.08em;text-transform:uppercase;
+    color:#8a6300;cursor:pointer;}
+  .cmt-close:hover{text-decoration:underline;}
   /* Nothing in this translation is Greek-anchored, so the study control has
      nothing to act on. Hidden rather than left as a dead switch. */
   body.illum-active #modeSwitch,
@@ -683,6 +709,7 @@
 <script src="data/illumination.js"></script>
 <script src="data/kjv.js"></script>
 <script src="data/devotional.js"></script>
+<script src="data/commentary.js"></script>
 <script src="data/lexicon.js"></script>
 <script src="data/promises.js"></script>
 <script src="data/abbott.js"></script>
@@ -1813,14 +1840,59 @@ function buildIllumSynopsis(book) {
   return h + '</div></div>';
 }
 
+/* ---- verse commentary ----
+   Notes hang off the Illumination only: they discuss the choices made in THIS
+   translation's wording, so showing them over the KJV would be commenting on a
+   text that did not make those choices. A verse with no note is untouched. */
+function commentaryFor(key) {
+  return (typeof COMMENTARY !== 'undefined' && currentTx === 'illum')
+    ? COMMENTARY[key] : null;
+}
+function cmtId(key) { return 'cmt-' + key.replace(/[^A-Za-z0-9]+/g, '-'); }
+
+function buildCommentaryPanel(key) {
+  const c = commentaryFor(key);
+  if (!c) return '';
+  let h = '<div class="cmt-panel" id="' + cmtId(key) + '">' +
+          '<div class="cmt-title">' + ilEsc(key) + ' &middot; ' + ilEsc(c.title) + '</div>';
+  c.blocks.forEach(b => {
+    if (b.k === 'h') h += '<h4>' + ilEsc(b.t) + '</h4>';
+    else if (b.k === 'ul')
+      h += '<ul>' + b.items.map(i => '<li>' + ilEsc(i) + '</li>').join('') + '</ul>';
+    else if (b.k === 'note') h += '<div class="cmt-note"><p>' + ilEsc(b.t) + '</p></div>';
+    else h += '<p>' + ilEsc(b.t) + '</p>';
+  });
+  return h + '<button class="cmt-close" onclick="toggleCommentary(\'' + key +
+         '\')">close</button></div>';
+}
+
+function toggleCommentary(key) {
+  const p = document.getElementById(cmtId(key));
+  if (!p) return;
+  const open = p.classList.toggle('open');
+  const dot = document.querySelector('.cmt-dot[data-cmt="' + key + '"]');
+  if (dot) dot.classList.toggle('open', open);
+  if (open) p.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
 function buildIllumChapter(ch) {
   let h = '';
   if (ch.title) h += '<div class="illum-chap-title">' + ilEsc(ch.title) + '</div>';
+  const book = bookOf(ch.ref);
   ch.sections.forEach(s => {
     if (s.heading) h += '<div class="illum-head">' + ilEsc(s.heading) + '</div>';
     s.verses.forEach(v => {
+      const key = book + ' ' + v[0];
+      const note = commentaryFor(key);
       h += '<p class="illum-v"><span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
-           ilText(v[1]) + '</p>';
+           ilText(v[1]);
+      if (note) {
+        h += '<button class="cmt-dot" data-cmt="' + ilEsc(key) + '" title="commentary"' +
+             ' aria-label="Commentary on ' + ilEsc(key) + '"' +
+             ' onclick="toggleCommentary(\'' + key + '\')"></button>';
+      }
+      h += '</p>';
+      if (note) h += buildCommentaryPanel(key);
     });
   });
   return h;
