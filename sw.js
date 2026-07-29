@@ -24,7 +24,7 @@
  * or when you want a clean slate.
  */
 
-const CACHE_VERSION = 'every-promise-v4';
+const CACHE_VERSION = 'every-promise-v5';
 
 /* The shell only. data/*.js is deliberately NOT precached: those files total
  * ~15 MB raw (Thayer's alone is ~5 MB), and precaching them would make the very
