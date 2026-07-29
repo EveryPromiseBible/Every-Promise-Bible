@@ -10,7 +10,7 @@
  */
 const COMMENTARY = {
   "1 Timothy 4:14–16": {
-    "title": "What \"meditate\" actually meant",
+    "title": "What \"meditate\" meant, and what \"saved\" covers",
     "blocks": [
       {
         "k": "p",
@@ -53,6 +53,10 @@ const COMMENTARY = {
         "t": "So both are in the one word: turn it over, and work at it. Say it until it is yours."
       },
       {
+        "k": "note",
+        "t": "One thing not to push too far. The Greek word for meditate does cover quiet reflection as well — the noisy, muttering sense comes from the Hebrew word behind the Psalm, not from the Greek on its own. The claim that holds is this: biblical meditation means filling your mind with something and going over it, not emptying your mind. That much is solid, and it is enough."
+      },
+      {
         "k": "h",
         "t": "Why \"profiting\""
       },
@@ -66,7 +70,7 @@ const COMMENTARY = {
       },
       {
         "k": "h",
-        "t": "And the word this block ends on"
+        "t": "And now the word this block ends on"
       },
       {
         "k": "p",
@@ -74,19 +78,43 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "The word is sozo, and it is wider than English saved has become. It means to bring someone safely through — rescue, healing, coming out of a thing in one piece. It is the word used of a drowning man pulled out and of a sick man restored, as well as of the salvation of a life. There is a fuller note on it at James 1:21."
+        "t": "The word is sozo. In English, saved has narrowed until it means one thing — getting out of hell. The Greek word never narrowed like that, and it is worth seeing how wide it actually runs."
+      },
+      {
+        "k": "h",
+        "t": "Sozo means brought safely through"
       },
       {
         "k": "p",
-        "t": "So Paul is not narrowing this down to one rescue at the end of time. He is telling a young minister that a man who keeps working at the word, and keeps watching himself while he does it, is brought through — and so are the people sitting in front of him. The whole of them, not a compartment."
+        "t": "It is the word the disciples shout when the boat is going down in the storm and they wake Jesus: save us, we are perishing. Nobody in that boat is thinking about the afterlife. They mean get us out of this."
       },
       {
         "k": "p",
-        "t": "Notice too who is first on the list. Yourself, then those who hear you. The man doing the teaching is not outside what he is teaching."
+        "t": "It is the word used when a blind beggar receives his sight and Jesus tells him his faith has made him well. It is the word used of the woman who had been ill for twelve years, when she touches Him and the bleeding stops. It is the word James uses at the end of his letter for a sick man raised up when the church prays over him."
+      },
+      {
+        "k": "p",
+        "t": "And it is the word for the rescue of a life, finally and for ever."
+      },
+      {
+        "k": "p",
+        "t": "That is all one word. Not several different meanings competing for the same spelling — one word, wide enough to hold all of it, because what God does with a person was never divided into compartments in the first place."
+      },
+      {
+        "k": "h",
+        "t": "So what is Paul promising Timothy?"
+      },
+      {
+        "k": "p",
+        "t": "Not simply that people will avoid hell because he taught well. He is saying that a man who keeps working at the word, and keeps watching himself while he does it, is brought through — and so are the people sitting in front of him. The whole of them. Not a compartment."
+      },
+      {
+        "k": "p",
+        "t": "And notice who is first on the list. Yourself, then those who hear you. The man doing the teaching is not standing outside what he is teaching. He is the first one the word gets hold of."
       },
       {
         "k": "note",
-        "t": "One thing not to push too far. The Greek word for meditate does cover quiet reflection as well — the noisy, muttering sense comes from the Hebrew word behind the Psalm, not from the Greek on its own. The claim that holds is this: biblical meditation means filling your mind with something and going over it, not emptying your mind. That much is solid, and it is enough."
+        "t": "One limit on this, and it matters. Sozo genuinely does include salvation in the fullest and final sense — that is not being taken away here, and this is not a case of everybody having had the word wrong all along. The claim that holds is that saved is WIDER than we usually hear it, not that it means something other than we thought. And the width of a word does not by itself promise a particular outcome in a particular case. What it tells you is the size of what God is dealing with: not a part of you, but you."
       }
     ]
   },
