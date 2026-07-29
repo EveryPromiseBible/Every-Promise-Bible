@@ -14,7 +14,7 @@ const COMMENTARY = {
     "blocks": [
       {
         "k": "p",
-        "t": "Our text says take these things to heart. The word underneath it is stronger and stranger than that, and it is worth knowing what is inside it."
+        "t": "Take these things to heart, our text says — and that is the right feel for it. Underneath sits a Greek word with more packed into it than any one English phrase can carry, so here is what is in there."
       },
       {
         "k": "h",
@@ -78,11 +78,31 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "The word is sozo. In English, saved has narrowed until it means one thing — getting out of hell. The Greek word never narrowed like that, and it is worth seeing how wide it actually runs."
+        "t": "The word is sozo. In English, saved has narrowed until it means one thing — getting out of hell. The Greek word never narrowed like that."
       },
       {
         "k": "h",
-        "t": "Sozo means brought safely through"
+        "t": "A picture of it"
+      },
+      {
+        "k": "p",
+        "t": "Think of a man pulled out of the sea."
+      },
+      {
+        "k": "p",
+        "t": "The English word stops at the moment he stops sinking. He did not drown. That is saved."
+      },
+      {
+        "k": "p",
+        "t": "But the rescue is not finished there, and no one who has actually been rescued thinks it is. He is hauled over the side of the boat. The water is got out of him. Somebody wraps him in something dry, puts hot food in his hands, and sits with him until he stops shaking. He is carried to shore. He is taken home. In the morning he wakes up in his own bed."
+      },
+      {
+        "k": "p",
+        "t": "Sozo is the whole of that. Not the instant he stopped going under — everything from the water to the front door."
+      },
+      {
+        "k": "h",
+        "t": "The same word does all of it"
       },
       {
         "k": "p",
@@ -90,7 +110,7 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "It is the word used when a blind beggar receives his sight and Jesus tells him his faith has made him well. It is the word used of the woman who had been ill for twelve years, when she touches Him and the bleeding stops. It is the word James uses at the end of his letter for a sick man raised up when the church prays over him."
+        "t": "It is the word used when a blind beggar receives his sight. It is the word used of the woman who had been ill for twelve years, when she touches Him and the bleeding stops. It is the word James uses for a sick man raised up when the church prays over him."
       },
       {
         "k": "p",
@@ -98,19 +118,27 @@ const COMMENTARY = {
       },
       {
         "k": "p",
-        "t": "That is all one word. Not several different meanings competing for the same spelling — one word, wide enough to hold all of it, because what God does with a person was never divided into compartments in the first place."
+        "t": "One word, wide enough to hold all of it — because what God does with a person was never divided into compartments in the first place."
       },
       {
         "k": "h",
-        "t": "So what is Paul promising Timothy?"
+        "t": "So what happens to Timothy, and to the people listening"
       },
       {
         "k": "p",
-        "t": "Not simply that people will avoid hell because he taught well. He is saying that a man who keeps working at the word, and keeps watching himself while he does it, is brought through — and so are the people sitting in front of him. The whole of them. Not a compartment."
+        "t": "Paul is not promising that a well-taught congregation will merely dodge something at the end."
       },
       {
         "k": "p",
-        "t": "And notice who is first on the list. Yourself, then those who hear you. The man doing the teaching is not standing outside what he is teaching. He is the first one the word gets hold of."
+        "t": "He is saying that this man — who keeps working at the word, and keeps watching himself while he does it — gets brought all the way through. And the people sitting in front of him are brought through with him."
+      },
+      {
+        "k": "p",
+        "t": "Whatever it is in a person that is going under — the fear, the shame, the sickness, the confusion about what God is really like — sozo goes after all of it. It does not pull one part of a man onto the boat and leave the rest of him in the water."
+      },
+      {
+        "k": "p",
+        "t": "And notice who is first on the list. Yourself, then those who hear you. The man doing the teaching is not standing outside what he is teaching. He is the first one it gets hold of."
       },
       {
         "k": "note",
