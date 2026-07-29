@@ -1646,6 +1646,7 @@ function loadChapter(idx, skipHistory) {
   if (!skipHistory) recordHistory(idx);
   const chapter = CHAPTERS[idx];
   document.getElementById('chapterTitle').textContent = chapter.ref;
+  lastRef = chapter.ref;                   // so a switch can follow the reader here
   renderIntro(idx);
   container.innerHTML = '';
   chapter.sections.forEach((s, sIdx) => container.appendChild(buildSection(s, idx, sIdx)));
@@ -1854,6 +1855,9 @@ function loadIllum(i) {
   }
   document.getElementById('chapterSelect').value = i;
   document.getElementById('chapterTitle').textContent = illumLabel(d);
+  /* Remember the place for a later switch. A synopsis has no chapter of its own,
+     so it stands in for chapter 1 of its book. */
+  lastRef = d.type === 'ch' ? corpus().chapters[d.ci].ref : d.book + ' 1';
   const intro = document.getElementById('bibleIntro');
   const body  = document.getElementById('sectionsContainer');
   /* The synopsis carries its own book head, so the shared chapter title above
@@ -1968,8 +1972,58 @@ function navSelect(v) {
   else loadChapter(v);
 }
 
+/* ================= carrying the reader's place across a switch =================
+   All three verse translations label a chapter the same way -- "Book N" -- so a
+   place travels as that ref, plus the verse currently at the top of the screen
+   where the target has verses to land on. Mak carries no verse numbers, so it
+   takes the chapter only; the devotional has no chapter/verse structure at all,
+   so it keeps its own place and neither reads nor disturbs this one. */
+let lastRef = null, lastVerse = null;
+
+/* The ref span reads "1:1-2", so the verse is what follows the colon. */
+function verseNumOf(el) {
+  const m = el && el.textContent.match(/:\s*(\d+)/);
+  return m ? Number(m[1]) : null;
+}
+
+/* Whatever the reader is actually looking at, not wherever the chapter began. */
+function topVerseNum() {
+  const els = document.querySelectorAll('#sectionsContainer .illum-v .illum-ref');
+  for (let i = 0; i < els.length; i++) {
+    if (els[i].getBoundingClientRect().bottom > 90) return verseNumOf(els[i]);
+  }
+  return els.length ? verseNumOf(els[els.length - 1]) : null;
+}
+
+/* Verse numbering differs between translations -- the Illumination groups verses
+   into blocks -- so land on the first verse that reaches the one we came from
+   rather than requiring an exact match. */
+function scrollToVerse(n) {
+  if (!n) return;
+  const ps = [...document.querySelectorAll('#sectionsContainer .illum-v')];
+  const hit = ps.find(p => {
+    const v = verseNumOf(p.querySelector('.illum-ref'));
+    return v !== null && v >= n;
+  });
+  if (hit) hit.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+function navIndexForRef(tx, ref) {
+  if (!ref) return -1;
+  const nav = navFor(tx), chs = CORPUS[tx].chapters;
+  return nav.findIndex(d => d.type === 'ch' && chs[d.ci].ref === ref);
+}
+function makIndexForRef(ref) {
+  return ref ? CHAPTERS.findIndex(c => c.ref === ref) : -1;
+}
+
 function switchTranslation(tx) {
   if (tx === currentTx) return;
+  /* Read the place BEFORE anything moves. */
+  if (isVerseTx(currentTx)) {
+    const v = topVerseNum();
+    if (v) lastVerse = v;
+  }
   currentTx = tx;
   ['mak', 'illum', 'kjv', 'dev'].forEach(k =>
     document.getElementById('txcard-' + k).classList.toggle('active', tx === k));
@@ -1987,14 +2041,34 @@ function switchTranslation(tx) {
     loadDev(0);
   } else if (isVerseTx(tx)) {
     if (!readMode) toggleMode();
-    document.getElementById('testamentSelect').value = illumTestament;
     buildIllumNav();
-    populateIllumSelect();
-    const first = ILLUM_NAV.findIndex(d => testamentOf(d.book) === illumTestament);
-    loadIllum(first >= 0 ? first : 0);
+    /* Follow the reader's place if that chapter exists here. loadIllum moves the
+       testament filter itself when the destination is in the other testament. */
+    const at = navIndexForRef(tx, lastRef);
+    if (at >= 0) {
+      populateIllumSelect();
+      loadIllum(at);
+      setTimeout(() => scrollToVerse(lastVerse), 80);
+    } else {
+      document.getElementById('testamentSelect').value = illumTestament;
+      populateIllumSelect();
+      const first = ILLUM_NAV.findIndex(d => testamentOf(d.book) === illumTestament);
+      loadIllum(first >= 0 ? first : 0);
+    }
   } else {
     populateSelect();
-    loadChapter(0);
+    const at = makIndexForRef(lastRef);
+    if (at >= 0) {
+      loadChapter(at, true);
+    } else {
+      /* Mak is New Testament only, so an Old Testament place has no counterpart
+         here. Land on its opening rather than refusing the switch -- but KEEP
+         the remembered place, so switching back returns the reader to where
+         they actually were instead of stranding them at the fallback. */
+      const keep = lastRef;
+      loadChapter(0, true);
+      lastRef = keep;
+    }
   }
 }
 
@@ -2239,20 +2313,30 @@ migrateHighlightKeys();        // must run before any section is built
 renderMoods();                 // restore any saved mood before the first verse
 loadVerse(anchorIdx());        // set up Promises (2 Corinthians 1:20) for when it is opened
 /* The app opens on the Bible, landing somewhere different every visit.
-   The pool is the Illumination and the devotional -- the two texts written to
-   be read rather than studied. The KJV is deliberately not in it, and Mak is
-   not either: it opens in the study grid, which is not what a landing page
-   wants to be.
+   The pool is Mak, the Illumination and the devotional. The KJV is deliberately
+   not in it.
 
-   Weighted rather than uniform. The Illumination has 1,189 chapters and the
-   devotional has 31 days, so an even draw across all destinations would surface
-   the devotional about once in forty visits, and an even draw across the two
-   SOURCES would show the same 31 days over and over. Three to one lands on
-   scripture most visits while the devotional still comes round often. */
+   Weighted rather than uniform, because the sources are wildly different sizes:
+   1,189 Illumination chapters, 260 in Mak, 31 devotional days. An even draw
+   across every destination would surface the devotional about once in fifty
+   visits; an even draw across the three SOURCES would recycle the same 31 days
+   constantly. These weights give roughly half scripture in the Illumination, a
+   third in Mak, and the devotional about one visit in six. */
 const RANDOM_POOL = [
   { tx: 'illum', weight: 3 },
+  { tx: 'mak',   weight: 2 },
   { tx: 'dev',   weight: 1 }
 ];
+
+/* readMode is flipped by toggleMode(), which also repaints its own controls.
+   A landing sets the translation directly, so the controls are brought into
+   agreement here rather than left showing whatever the markup shipped with. */
+function syncModeUI() {
+  document.body.classList.toggle('read-mode', readMode);
+  document.getElementById('modeSwitch').classList.toggle('on', readMode);
+  document.getElementById('studyLabel').classList.toggle('active', !readMode);
+  document.getElementById('readLabel').classList.toggle('active', readMode);
+}
 
 function openSomewhereRandom() {
   const draw = [];
@@ -2263,12 +2347,16 @@ function openSomewhereRandom() {
     /* From 1, not 0 -- destination 0 is the front matter, which is the same
        page every time and is not a reading. */
     loadDev(1 + Math.floor(Math.random() * DEVOTIONAL.days.length));
+  } else if (tx === 'mak') {
+    /* skipHistory: a landing the reader did not choose should not fill History. */
+    loadChapter(Math.floor(Math.random() * CHAPTERS.length), true);
   } else {
     /* Chapters only. A synopsis is a reference page, not somewhere to land. */
     const chapters = [];
     navFor(tx).forEach((d, i) => { if (d.type === 'ch') chapters.push(i); });
     loadIllum(chapters[Math.floor(Math.random() * chapters.length)]);
   }
+  syncModeUI();
 }
 openSomewhereRandom();
 sv('bible');
