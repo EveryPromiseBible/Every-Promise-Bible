@@ -1495,6 +1495,16 @@ function buildSection(section, chapterIdx, sectionIdx) {
   const grkSeen = {};          // how many times each Greek token has appeared in this section
   section.words.forEach((triple, wordIdx) => {
     const eng = triple[0], grk = triple[1], tag = triple[2];
+    /* A unit with neither English nor Greek has nothing to show. The filler
+       branch below would still emit a span carrying two non-breaking spaces,
+       and .unit's margin+padding turns that into an unexplained gap in the
+       text. These appear as the by-product of placement repairs: when a
+       filler's English moves onto the Greek word beside it, apply_plan cannot
+       delete the emptied unit because it asserts the unit count. Skipping at
+       render keeps the data untouched, leaves every stableKey and the colour
+       cycle identical (empty units are grk === "" and never consume a colour),
+       and covers any future one. */
+    if (eng === "" && grk === "") return;
     const unit = document.createElement('span');
     unit.className = 'unit';
 

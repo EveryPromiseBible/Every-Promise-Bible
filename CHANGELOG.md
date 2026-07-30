@@ -1,5 +1,59 @@
 # CHANGELOG
 
+## 2026-07-30 — The placement audit lands: six books re-anchored
+
+The site's whole promise is *click this Greek word, learn what **this** word
+means.* This release is the first systematic check that the promise holds — not
+"is the English good", which was never in question, but **"is each English word
+sitting on the Greek word it belongs to."**
+
+Every section of **Matthew, Mark, Luke, John, Acts and Romans** was read pair by
+pair. All six are now at **zero misplaced tokens** and **zero Greek words that
+differ from SBLGNT**, and the whole 27-book corpus is at **zero accent and
+breathing errors**. 117,353 word units and 137,554 Greek tokens, unchanged in
+count throughout.
+
+### What was actually wrong
+
+Prose reads fine when a label sits on the wrong word, which is why this class
+survived every previous check. A few of the repairs:
+
+- **Romans 16:6** `ἀσπάσασθε Μαριάμ` was labelled only "Mary," with a mute
+  "Greet" beside it — so tapping the *name* opened the *verb*. Romans 16 says
+  `ἀσπάσασθε` sixteen times and the other fifteen all sit under "Greet".
+- **Romans 5:19** `τοῦ ἑνός` and `τοῦ ἑνὸς ἀνθρώπου` were swapped between the
+  disobedience clause and the obedience clause. Both units read "the one man's",
+  so it was invisible in the prose — inside the Adam/Christ typology.
+- **Romans 8:11** `ἐνοικοῦν` — the word the verse turns on — sat two sections
+  away while a bare article wore its meaning, "living".
+- **Romans 15:19** offered a tappable *God* entry where the critical text reads
+  only `πνεύματος`, while the "God's" of 15:32 had no Greek at all. One
+  misplaced token had simultaneously invented a divine name in one verse and
+  removed it from another.
+- **Romans 7:20** the word "sin" had no Greek beneath it at all; `ἁμαρτία` was
+  folded onto the unit labelled "me."
+- **Matthew 6:34** `αὑτῆς` — the reflexive, rough-breathing — had been spelled
+  with the smooth breathing of the ordinary pronoun in the same verse.
+
+Forty-nine wrong Strong's numbers were also corrected across the corpus,
+including six `τίνες` that opened "some or any person" when the English asked
+"who?", and a class of `δέομαι` forms that opened δέω, "to bind".
+
+### One rendering fix
+
+Placement repairs can leave a word unit holding neither English nor Greek. The
+renderer emitted a spacer for those, which showed up as an unexplained gap in
+the text. It now skips them. The data is untouched and saved highlights are
+unaffected — 69 such units currently exist.
+
+**Note for returning readers:** the corpus is cached for offline use and
+refreshes on your *next* visit, so the corrections land one visit later than the
+page itself. A highlight saved on one of the specific words that moved will not
+re-attach; every other highlight survives.
+
+The full working record — tools, per-book defect tables, and the reasoning
+behind each judgement call — lives in the translation repository.
+
 ## 2026-07-22 — Thayer's Greek-English Lexicon added to every word
 
 Tapping a Greek word now opens a fourth section beneath Strong's, Word Picture,
