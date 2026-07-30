@@ -1,5 +1,49 @@
 # CHANGELOG
 
+## 2026-07-30 (later) — 1 Corinthians re-anchored; a fix that reached back into Matthew
+
+**Seven books are now placement-read — 72% of the corpus by word unit.**
+Matthew, Mark, Luke, John, Acts, Romans and 1 Corinthians.
+
+All 69 sections of 1 Corinthians were read pair by pair. Nine corrections, and
+**only one of them changed the English text at all** — the rest moved a label
+onto the word it actually renders. A few:
+
+- **11:17** `παραγγέλλων` and `Τοῦτο` were exactly reversed: the verb's own
+  content noun, "instruction", sat on the demonstrative, which means only
+  "this". Abbott-Smith cites this very verse under παραγγέλλω, "to order,
+  command … c. acc. rei, I Co 11:17."
+- **9:8** the verb `λαλῶ` had lost its entire speech-sense to the pronoun beside
+  it — while the second half of the same verse does it correctly.
+- **4:3** `οὐδέ` is emphatic, and the corpus was rendering it as if it were a
+  plain negative. This is the one place a word was added: "I do not **even**
+  judge myself."
+- **9:21** `ἄνομος` had been clipped to "without" while the word *law* rode on
+  `θεοῦ`. It now reads as one unit, matching how `ἔννομος Χριστοῦ` — "within
+  Christ's law" — is already handled three units later.
+
+### The correction that mattered most wasn't in 1 Corinthians
+
+Three of the first defects turned out to be one recurring shape: a small
+emphatic particle whose "even" or "also" had drifted onto the neighbouring word.
+Searching the whole New Testament for that shape found two more — one of them in
+**Matthew 16:18**, in a book already checked. `κἀγώ` means "and I *also*", and
+its "also" was sitting on `δέ`, a connecting word that means nothing of the
+kind. Fixed, along with the same shape in 2 Corinthians 11:21.
+
+The same search on a tagging error found four more: the little dative `μοι`
+pointing at the dictionary entry for "I" rather than "to me". In one verse of
+1 Corinthians 9 the *same word four words earlier* was already correct, so a
+reader tapping twice in one sentence got two different answers.
+
+### 1 Corinthians 10:22
+
+An older repair to this verse was verified rather than assumed. Comparing four
+points in the project's history word by word across both chapters shows the
+damage was two words wide and both are now identical to the original text.
+
+**Note for returning readers:** the corpus refreshes on your *next* visit.
+
 ## 2026-07-30 — The placement audit lands: six books re-anchored
 
 The site's whole promise is *click this Greek word, learn what **this** word
