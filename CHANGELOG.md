@@ -1,5 +1,48 @@
 # CHANGELOG
 
+## 2026-07-30 (later still) — 2 Corinthians re-anchored, and six tags that pointed at the wrong word
+
+**Eight books are now placement-read**: Matthew, Mark, Luke, John, Acts, Romans,
+1 and 2 Corinthians. All 74 sections of 2 Corinthians were read pair by pair.
+
+**Not one word of English changed in this release.** Every repair moved a label
+onto the word it actually renders, or corrected a dictionary link.
+
+### Six words that opened the wrong dictionary entry
+
+`καλῶν` is the genitive plural of two different words — καλέω, "to call", and
+καλός, "good". All seven places it occurs pointed at *to call*, and six of them
+are the adjective. **Tapping "good works" at Titus 2:7, 2:14, 3:8, 3:14, Hebrews
+10:24 or 1 Peter 2:12 opened "to call."** Now fixed; the one genuine verb —
+1 Thessalonians 5:24, "He who calls" — is unchanged.
+
+Three more of the same kind, each a verb that happens to be spelled like a noun:
+"think" at 2 Cor 11:16 opened *glory*; "know" at Revelation 3:9 opened
+*knowledge*; and "may be" at Philippians 2:28 opened the exclamation *"O!"*. In
+every case the English was already right — only the link was wrong, which is
+exactly the sort of error that survives every reading of the text.
+
+And `οὗ` — which is both "where" and "of whom", spelled identically — had seven
+crossed between the two, in Matthew, Colossians, Hebrews, Revelation, Romans and
+2 Corinthians.
+
+### The little word "for"
+
+Seven places where a "For" or "because" was printed over the wrong word while
+the Greek word that actually means it sat blank beside it. Two are worth naming:
+at **John 4:44** the name *Jesus* was carrying it, and at **Romans 13:8** it sat
+on supplied English with no Greek behind it at all.
+
+### In 2 Corinthians itself
+
+**6:12** had three labels each one word to the left — "You are" on *not*, "not"
+on the verb, "restricted" on the preposition — with the same verb four words
+later doing it correctly. **11:29**'s "weak" sat on supplied text while the verb
+that means it showed only "I am not". Also 3:7, 7:9, 8:10, 8:13, 11:16, 12:11
+and 12:21. Chapters 4, 5, 6 and 10 came back completely clean.
+
+**Note for returning readers:** the corpus refreshes on your *next* visit.
+
 ## 2026-07-30 (later) — 1 Corinthians re-anchored; a fix that reached back into Matthew
 
 **Seven books are now placement-read — 72% of the corpus by word unit.**
