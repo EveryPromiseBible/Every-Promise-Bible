@@ -9,18 +9,25 @@ nothing. It is now a working part of the site.
 Two small markers tell you about a day at a glance without opening it: an
 orange dot means a reading is due, a blue dot means you wrote something.
 
-**Four reading plans**, each with a start date you choose, so a plan can begin
+**Six reading plans**, each with a start date you choose, so a plan can begin
 whenever you actually begin it rather than on the 1st of January:
 
 - New Testament in a year — one chapter a day, 260 reading days
 - New Testament in 90 days — about three chapters a day
 - The Gospels in 30 days
 - Paul's letters in 60 days
+- A psalm a day — the whole Psalter in 150 days
+- The Psalms in 30 days — five a day, the traditional monthly Psalter
+
+The four New Testament plans read in the Mak translation. The two Psalms plans
+read in the Illumination, which carries all 66 books; the Mak translation is the
+New Testament, so a Psalms plan is not possible there.
 
 The day's reading appears on the day, and each chapter in it is a link straight
-into the text. The schedules are computed from the corpus itself rather than
-typed out, so they cannot drift out of step with it: each plan covers its books
-exactly once, no chapter repeated and none dropped.
+into the text — switching translation for you, so a psalm opens as a psalm. The
+schedules are computed from the corpus itself rather than typed out, so they
+cannot drift out of step with it: each plan covers its books exactly once, no
+chapter repeated and none dropped.
 
 **Somewhere to write, per day.** Two tabs on each date — a free reflection, and
 sermon notes with title, speaker, passage and body. Everything saves as you
@@ -30,9 +37,16 @@ and clicking one jumps back to that day.
 Nothing is sent anywhere. As with bookmarks, notes and highlights, what you
 write lives only on your own device.
 
-### One thing worth recording
+### Two things worth recording
 
-The first working version had a daylight-saving bug. Counting the days between
+**A reading plan that began with nothing to read.** Spreading 260 chapters over
+365 days by handing each day its slice leaves 105 days empty — and the first day
+was one of them, so starting the year-long plan told you there was no reading
+today. The schedule is now built by asking of each chapter which day it falls
+on, rather than of each day which chapters it takes. Day one always has a
+reading, and the rest days scatter singly through the year instead of clumping.
+
+**A daylight-saving bug.** Counting the days between
 two dates by subtracting them and dividing by 24 hours is correct for most of
 the year and wrong across the spring clock change, where two consecutive
 midnights are 23 hours apart — the count loses a day, and every reading in the

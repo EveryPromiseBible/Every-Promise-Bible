@@ -543,12 +543,24 @@ percentile, 28 worst case.
 Placeholder — "your prayer space"
 
 ### ✅ [x] Journal view — **BUILT 2026-07-31**
-Month calendar, four reading plans, and per-day journal + sermon notes. All in
+Month calendar, six reading plans, and per-day journal + sermon notes. All in
 `index.html` like the rest of the app; no new files, no new dependencies.
 
-- Plans are **computed from `CHAPTERS` at load**, never hard-coded, so they
-  cannot drift out of step with the corpus. Verified: each plan covers its books
-  exactly once — 260/260 unique for the two NT plans, 89 Gospels, 87 Pauline.
+- Plans are **computed from the corpus at load**, never hard-coded, so they
+  cannot drift out of step with it. Verified: each plan covers its books exactly
+  once — 260/260 unique for the two NT plans, 89 Gospels, 87 Pauline, 150 Psalms.
+- **Each plan names its translation** (`tx`). The NT plans read `mak`; the two
+  Psalms plans read `illum`, which carries all 66 books. Mak is New Testament
+  only — a Psalms plan is impossible against it. `illum`/`kjv` are opened by
+  `loadIllum`, which takes a **nav position, not a chapter index**: the
+  Illumination's nav interleaves a synopsis before each book, so Psalms 1 is
+  chapter 478 at nav position 497. `jrOpen` searches the nav for the entry
+  owning the chapter rather than computing the offset. Do not "simplify" that
+  to `loadIllum(ci)` — it opens the wrong text, 19 entries out.
+- **`jrSpread` maps chapter → day, not day → chapters.** Slicing per day leaves
+  the first day empty whenever chapters are fewer than days (260 over 365), so
+  the year plan opened with "no reading scheduled". Regression check: every
+  plan's `sched[0]` must be non-empty.
 - Storage is `everypromise_journal` (array of day records) and
   `everypromise_journalplan` (`{id, start}`), through the existing
   `loadStore`/`saveStore`. Autosave is debounced 600ms, with a forced flush on

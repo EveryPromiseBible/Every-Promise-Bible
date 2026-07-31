@@ -2641,40 +2641,76 @@ function jrDayCount(a, b) {
 }
 
 /* Spread a list of chapter indices across n days as evenly as the arithmetic
-   allows. Day d takes the slice [d*len/n, (d+1)*len/n), which yields runs of
-   equal length differing by at most one and never drops or repeats a chapter. */
+   allows, by asking of each CHAPTER which day it falls on rather than of each
+   DAY which chapters it takes.
+
+   The direction matters when there are fewer chapters than days. Slicing per
+   day -- list.slice(d*len/n, (d+1)*len/n) -- gives an empty slice whenever the
+   window catches no chapter, and for 260 chapters over 365 days the very first
+   window is one of them: the reader starts a year-long plan and is told there
+   is nothing to read today. Mapping chapter k to day floor(k*n/len) instead
+   puts chapter 0 on day 0 by construction, and scatters the rest days evenly
+   through the year rather than clumping them.
+
+   Both directions schedule every chapter exactly once and never repeat one. */
 function jrSpread(list, days) {
-  const out = [];
-  for (let d = 0; d < days; d++) {
-    out.push(list.slice(Math.floor(d * list.length / days),
-                        Math.floor((d + 1) * list.length / days)));
+  const out = Array.from({ length: days }, () => []);
+  for (let k = 0; k < list.length; k++) {
+    out[Math.floor(k * days / list.length)].push(list[k]);
   }
   return out;
 }
 
-function jrIdxOfBooks(names) {
+/* Chapter indices for the named books, WITHIN a given translation's chapter
+   list. Every plan names the translation it reads from, because they do not
+   cover the same ground: the Mak translation is the New Testament only, while
+   the Illumination and the KJV carry all 66 books. A Psalms plan is therefore
+   impossible against Mak and ordinary against the Illumination. */
+function jrIdxOfBooks(chapters, names) {
   const set = new Set(names), out = [];
-  for (let i = 0; i < CHAPTERS.length; i++) {
-    const b = CHAPTERS[i].ref.replace(/\s+\d+$/, '');
+  for (let i = 0; i < chapters.length; i++) {
+    const b = chapters[i].ref.replace(/\s+\d+$/, '');
     if (set.has(b)) out.push(i);
   }
   return out;
 }
 
+function jrChapters(tx) {
+  if (tx === 'mak') return typeof CHAPTERS !== 'undefined' ? CHAPTERS : [];
+  const c = typeof CORPUS !== 'undefined' ? CORPUS[tx] : null;
+  return (c && c.chapters) || [];
+}
+function jrRefOf(tx, ci) {
+  const c = jrChapters(tx)[ci];
+  return c ? c.ref : '';
+}
+
 let JR_PLANS = [];
 function jrBuildPlans() {
-  const all = CHAPTERS.map((c, i) => i);
-  const gospels = jrIdxOfBooks(['Matthew', 'Mark', 'Luke', 'John']);
-  const paul = jrIdxOfBooks(['Romans', '1 Corinthians', '2 Corinthians', 'Galatians',
-    'Ephesians', 'Philippians', 'Colossians', '1 Thessalonians', '2 Thessalonians',
-    '1 Timothy', '2 Timothy', 'Titus', 'Philemon']);
+  const nt = CHAPTERS.map((c, i) => i);
+  const gospels = jrIdxOfBooks(CHAPTERS, ['Matthew', 'Mark', 'Luke', 'John']);
+  const paul = jrIdxOfBooks(CHAPTERS, ['Romans', '1 Corinthians', '2 Corinthians',
+    'Galatians', 'Ephesians', 'Philippians', 'Colossians', '1 Thessalonians',
+    '2 Thessalonians', '1 Timothy', '2 Timothy', 'Titus', 'Philemon']);
+
   JR_PLANS = [
-    { id: 'none',    name: 'No plan',                     days: 0,   sched: null },
-    { id: 'year',    name: 'New Testament in a year',     days: 365, sched: jrSpread(all, 365) },
-    { id: 'ninety',  name: 'New Testament in 90 days',    days: 90,  sched: jrSpread(all, 90) },
-    { id: 'gospels', name: 'The Gospels in 30 days',      days: 30,  sched: jrSpread(gospels, 30) },
-    { id: 'paul',    name: "Paul's letters in 60 days",   days: 60,  sched: jrSpread(paul, 60) }
+    { id: 'none',    name: 'No plan',                   tx: null,  days: 0,   sched: null },
+    { id: 'year',    name: 'New Testament in a year',   tx: 'mak', days: 365, sched: jrSpread(nt, 365) },
+    { id: 'ninety',  name: 'New Testament in 90 days',  tx: 'mak', days: 90,  sched: jrSpread(nt, 90) },
+    { id: 'gospels', name: 'The Gospels in 30 days',    tx: 'mak', days: 30,  sched: jrSpread(gospels, 30) },
+    { id: 'paul',    name: "Paul's letters in 60 days", tx: 'mak', days: 60,  sched: jrSpread(paul, 60) }
   ];
+
+  /* The Psalms, read in the Illumination. Guarded rather than assumed: if that
+     data file is ever absent the rest of the Journal must still work, so the
+     plans are appended only when the Psalms are actually found. */
+  const psalms = jrIdxOfBooks(jrChapters('illum'), ['Psalms', 'Psalm']);
+  if (psalms.length) {
+    JR_PLANS.push(
+      { id: 'psalmday', name: 'A psalm a day',        tx: 'illum', days: psalms.length, sched: jrSpread(psalms, psalms.length) },
+      { id: 'psalms30', name: 'The Psalms in 30 days', tx: 'illum', days: 30,           sched: jrSpread(psalms, 30) }
+    );
+  }
 }
 
 function jrCfg() {
@@ -2754,7 +2790,8 @@ function jrRenderPanel() {
   const box = document.getElementById('jrReading');
   if (reading.length) {
     box.innerHTML = '<div class="jr-reading"><div class="jr-rlab">today’s reading</div>' +
-      reading.map(i => '<a onclick="jrOpen(' + i + ')">' + CHAPTERS[i].ref + '</a>').join('') +
+      reading.map(i => '<a onclick="jrOpen(\'' + plan.tx + '\',' + i + ')">' +
+                       jrRefOf(plan.tx, i) + '</a>').join('') +
       '</div>';
   } else if (plan && plan.sched) {
     box.innerHTML = '<div class="jr-reading"><span class="jr-none">no reading scheduled for this day</span></div>';
@@ -2811,14 +2848,28 @@ function jrTab(t) {
   document.getElementById('jrPaneJ').classList.toggle('on', t === 'j');
   document.getElementById('jrPaneS').classList.toggle('on', t === 's');
 }
-/* A plan's readings are indices into CHAPTERS, which is the Mak translation.
-   If the reader was last in the Illumination, KJV or devotional, loadChapter
-   would render into a pane that is not on screen -- so switch first. The
-   function no-ops when already there. */
-function jrOpen(idx) {
-  if (typeof switchTranslation === 'function') switchTranslation('mak');
+/* Open one chapter of a plan's reading.
+
+   A reading is (translation, chapter index), and the two translations are
+   opened by different functions. Mak takes an index straight into CHAPTERS.
+   The Illumination and KJV go through loadIllum, which does NOT take a chapter
+   index -- it takes a position in that translation's NAVIGATION list, and the
+   Illumination's nav interleaves a synopsis entry before each book. Psalms 1 is
+   chapter 478 but nav position 497, so passing the chapter index would quietly
+   open the wrong text. The nav is searched for the entry that owns the chapter
+   instead of the offset being computed, so added or removed synopses cannot
+   break it.
+
+   Switch translation first in either case: the reader may have been anywhere,
+   and loading into a pane that is not on screen renders nothing. */
+function jrOpen(tx, ci) {
+  if (typeof switchTranslation === 'function') switchTranslation(tx);
   sv('bible');
-  loadChapter(idx);
+  if (tx === 'mak') { loadChapter(ci); return; }
+  const nav = navFor(tx);
+  for (let i = 0; i < nav.length; i++) {
+    if (nav[i].type === 'ch' && nav[i].ci === ci) { loadIllum(i); return; }
+  }
 }
 
 /* Debounced autosave. Writing on every keystroke would serialise the whole
@@ -2869,6 +2920,10 @@ function jrInit() {
   if (typeof CHAPTERS === 'undefined' || !CHAPTERS.length) return;
   jrBuildPlans();
   const cfg = jrCfg();
+  /* A stored plan can outlive its data -- the Psalms plans exist only while the
+     Illumination is loaded. Fall back rather than leaving the select showing a
+     plan that silently schedules nothing. */
+  if (!JR_PLANS.some(p => p.id === cfg.id)) cfg.id = 'none';
   document.getElementById('jrPlan').innerHTML =
     JR_PLANS.map(p => '<option value="' + p.id + '"' +
       (p.id === cfg.id ? ' selected' : '') + '>' + p.name + '</option>').join('');
