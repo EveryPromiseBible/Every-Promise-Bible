@@ -571,8 +571,25 @@ Month calendar, six reading plans, and per-day journal + sermon notes. All in
   change and silently shifts every reading for the rest of the plan. Regression
   check: `jrDayCount(jrParse('2026-03-01'), jrParse('2026-03-10'))` must be 9.
 
-Not built, and worth considering later: export entries to a file (they are
-device-only, so a lost browser profile loses them), and search across entries.
+- **Saving is verified, not assumed.** `saveStore` swallows every exception,
+  which is fine for a bookmark and wrong for the reader's own writing.
+  `jrFlush` reads the entry back and only then reports "saved"; otherwise it
+  shows an orange NOT SAVED. The read-back must compare **content, not entry
+  count** — editing an existing day leaves the count unchanged when the write
+  is refused, so a count check passes on the most common case.
+
+### [ ] Journal — export entries to a file
+**This is the real gap.** Journal and sermon notes live in `localStorage`,
+which means: one device only, gone if browsing data is cleared, and on iOS
+Safari **purged automatically after about seven days without a visit** (ITP).
+That is tolerable for bookmarks and highlights. It is not tolerable for
+something a person wrote themselves and expects to keep.
+
+Wanted: a "download my journal" button producing a plain `.json` or `.md` file,
+and an import to match. Until that exists the honest framing is *a scratchpad
+on this device*, not *a place to keep years of notes*.
+
+Also worth considering: search across entries.
 
 ### [ ] My Stuff view
 Placeholder — "favorites, notes, highlights, library"

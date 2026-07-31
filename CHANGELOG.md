@@ -35,7 +35,10 @@ type and stays in your browser. Recent entries are listed under the calendar,
 and clicking one jumps back to that day.
 
 Nothing is sent anywhere. As with bookmarks, notes and highlights, what you
-write lives only on your own device.
+write is stored by the browser itself, on the device you wrote it on. It is not
+carried between your phone and your computer, and clearing your browsing data
+clears it too. If the browser ever refuses to store an entry, the Journal now
+says so in orange rather than claiming it saved.
 
 ### Two things worth recording
 

@@ -600,6 +600,7 @@
   .jr-field input:focus,.jr-field textarea:focus{outline:none;border-color:var(--sword);}
   .jr-save{font-family:var(--mono);font-size:0.66em;color:var(--gray);min-height:1em;}
   .jr-save.on{color:var(--green);}
+  .jr-save.warn{color:var(--orange);font-weight:700;}
   .jr-actions{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:6px;}
   .jr-del{background:none;border:none;font-family:var(--mono);font-size:0.66em;color:var(--gray);cursor:pointer;text-decoration:underline;padding:0;}
   .jr-del:hover{color:var(--orange);}
@@ -2896,7 +2897,24 @@ function jrFlush() {
   };
   const all = jrEntries().filter(e => e.d !== JR_SEL);
   if (jrHasText(rec)) all.push(rec);
+
+  /* saveStore swallows every error by design -- fine for a bookmark, wrong for
+     something the reader wrote. A browser can refuse the write (storage full,
+     or Safari with site data blocked) and the naive version still says "saved".
+     Read it back, and claim success only if it is actually there.
+
+     Compare CONTENT, not entry count: the common case is editing a day that
+     already exists, where a refused write leaves the old value in place and the
+     count matches perfectly. Only the text tells you it did not land. */
+  const want = JSON.stringify(all);
   saveStore(JR_STORE, all);
+  const ok = JSON.stringify(jrEntries()) === want;
+  el.classList.toggle('warn', !ok);
+  if (!ok) {
+    el.textContent = 'NOT saved — this browser refused to store it. Copy your text elsewhere.';
+    el.classList.remove('on');
+    return;
+  }
   el.textContent = jrHasText(rec) ? 'saved' : '';
   el.classList.toggle('on', jrHasText(rec));
   document.getElementById('jrDel').style.visibility = jrHasText(rec) ? 'visible' : 'hidden';
