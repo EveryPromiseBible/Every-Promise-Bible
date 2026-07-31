@@ -542,8 +542,25 @@ percentile, 28 worst case.
 ### [ ] Prayer view
 Placeholder — "your prayer space"
 
-### [ ] Journal view
-Placeholder — "yearly themes and reflection"
+### ✅ [x] Journal view — **BUILT 2026-07-31**
+Month calendar, four reading plans, and per-day journal + sermon notes. All in
+`index.html` like the rest of the app; no new files, no new dependencies.
+
+- Plans are **computed from `CHAPTERS` at load**, never hard-coded, so they
+  cannot drift out of step with the corpus. Verified: each plan covers its books
+  exactly once — 260/260 unique for the two NT plans, 89 Gospels, 87 Pauline.
+- Storage is `everypromise_journal` (array of day records) and
+  `everypromise_journalplan` (`{id, start}`), through the existing
+  `loadStore`/`saveStore`. Autosave is debounced 600ms, with a forced flush on
+  `beforeunload`, on tab hide, and before any navigation inside the view.
+- **Day arithmetic must stay calendar-based, not clock-based.** `jrDayCount`
+  reprojects each local y/m/d onto UTC. Do not "simplify" it back to
+  `(b - a) / 86400000` — that formula is off by one across the spring clock
+  change and silently shifts every reading for the rest of the plan. Regression
+  check: `jrDayCount(jrParse('2026-03-01'), jrParse('2026-03-10'))` must be 9.
+
+Not built, and worth considering later: export entries to a file (they are
+device-only, so a lost browser profile loses them), and search across entries.
 
 ### [ ] My Stuff view
 Placeholder — "favorites, notes, highlights, library"

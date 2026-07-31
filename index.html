@@ -542,6 +542,75 @@
     .bnav button{display:flex;flex-direction:column;align-items:center;gap:3px;background:none;border:none;font-family:var(--mono);font-size:0.6em;color:var(--gray);text-transform:capitalize;}
     .bnav button.active{color:var(--orange);}
   }
+
+  /* ================= Journal: calendar, reading plans, notes =================
+     Built on the same primitives as the rest of the app -- loadStore/saveStore
+     over localStorage, sv() for view switching, the existing colour variables.
+     No new dependencies and nothing fetched at runtime. */
+  .jr-wrap{max-width:1040px;margin:0 auto;padding:28px 20px 80px;}
+  .jr-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:22px;}
+  .jr-head h2{text-transform:lowercase;margin:0 0 4px;}
+  .jr-sub{font-family:var(--mono);color:var(--gray);font-size:0.8em;margin:0;}
+  .jr-planbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-family:var(--mono);font-size:0.78em;}
+  .jr-planbar select,.jr-planbar input[type=date]{font-family:var(--mono);font-size:1em;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--white);color:var(--ink);}
+  .jr-planbar label{color:var(--gray);}
+
+  .jr-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);gap:26px;align-items:start;}
+  @media(max-width:820px){.jr-grid{grid-template-columns:1fr;}}
+
+  .jr-cal{border:1px solid var(--line);border-radius:12px;padding:14px 14px 18px;background:var(--paper);}
+  .jr-calhead{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;}
+  .jr-calhead strong{font-size:0.95em;}
+  .jr-calhead button{background:none;border:1px solid var(--line);border-radius:6px;width:30px;height:28px;cursor:pointer;color:var(--ink);font-family:var(--mono);line-height:1;}
+  .jr-calhead button:hover{border-color:var(--sword);color:var(--sword);}
+  .jr-dow{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;font-family:var(--mono);font-size:0.62em;color:var(--gray);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:4px;}
+  .jr-dow span{text-align:center;padding:2px 0;}
+  .jr-days{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;}
+  .jr-day{position:relative;aspect-ratio:1/1;border:1px solid transparent;border-radius:8px;background:var(--white);cursor:pointer;font-family:var(--mono);font-size:0.78em;color:var(--ink);display:flex;align-items:center;justify-content:center;padding:0;}
+  .jr-day:hover{border-color:var(--sword);}
+  .jr-day.blank{background:none;cursor:default;border-color:transparent;}
+  .jr-day.blank:hover{border-color:transparent;}
+  .jr-day.today{box-shadow:inset 0 0 0 2px var(--sword-soft);font-weight:700;}
+  .jr-day.sel{background:var(--sword);color:var(--white);border-color:var(--sword);font-weight:700;}
+  /* two independent markers: a reading is scheduled, and something was written */
+  .jr-day .jr-dot{position:absolute;bottom:5px;width:4px;height:4px;border-radius:50%;background:var(--sword);}
+  .jr-day.sel .jr-dot{background:var(--white);}
+  .jr-day .jr-plan{position:absolute;top:5px;right:5px;width:4px;height:4px;border-radius:50%;background:var(--orange);}
+  .jr-legend{display:flex;gap:14px;font-family:var(--mono);font-size:0.64em;color:var(--gray);margin-top:12px;align-items:center;flex-wrap:wrap;}
+  .jr-legend i{display:inline-block;width:5px;height:5px;border-radius:50%;margin-right:5px;vertical-align:middle;font-style:normal;}
+
+  .jr-panel{border:1px solid var(--line);border-radius:12px;padding:18px;background:var(--white);}
+  .jr-date{font-weight:700;font-size:1.02em;margin:0 0 2px;}
+  .jr-meta{font-family:var(--mono);font-size:0.72em;color:var(--gray);margin:0 0 16px;}
+  .jr-reading{background:var(--sword-soft);border-radius:8px;padding:11px 13px;margin-bottom:16px;}
+  .jr-reading .jr-rlab{font-family:var(--mono);font-size:0.64em;text-transform:uppercase;letter-spacing:0.07em;color:var(--sword);margin-bottom:7px;}
+  .jr-reading a{display:inline-block;margin:0 7px 6px 0;font-size:0.86em;border-bottom:1px solid var(--sword);cursor:pointer;text-decoration:none;}
+  .jr-reading a:hover{background:var(--white);}
+  .jr-none{font-family:var(--mono);font-size:0.72em;color:var(--gray);}
+
+  .jr-tabs{display:flex;gap:6px;margin-bottom:12px;}
+  .jr-tabs button{flex:1;background:var(--paper);border:1px solid var(--line);border-radius:7px;padding:7px 8px;font-family:var(--mono);font-size:0.7em;text-transform:uppercase;letter-spacing:0.05em;color:var(--gray);cursor:pointer;}
+  .jr-tabs button.on{background:var(--sword);border-color:var(--sword);color:var(--white);}
+  .jr-pane{display:none;}
+  .jr-pane.on{display:block;}
+  .jr-field{margin-bottom:10px;}
+  .jr-field label{display:block;font-family:var(--mono);font-size:0.64em;text-transform:uppercase;letter-spacing:0.06em;color:var(--gray);margin-bottom:4px;}
+  .jr-field input,.jr-field textarea{width:100%;font-family:var(--sans);font-size:0.9em;color:var(--ink);background:var(--white);border:1px solid var(--line);border-radius:7px;padding:9px 10px;resize:vertical;}
+  .jr-field textarea{min-height:190px;line-height:1.62;}
+  .jr-field input:focus,.jr-field textarea:focus{outline:none;border-color:var(--sword);}
+  .jr-save{font-family:var(--mono);font-size:0.66em;color:var(--gray);min-height:1em;}
+  .jr-save.on{color:var(--green);}
+  .jr-actions{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:6px;}
+  .jr-del{background:none;border:none;font-family:var(--mono);font-size:0.66em;color:var(--gray);cursor:pointer;text-decoration:underline;padding:0;}
+  .jr-del:hover{color:var(--orange);}
+
+  .jr-recent{margin-top:26px;}
+  .jr-recent h3{font-size:0.8em;text-transform:lowercase;color:var(--gray);font-weight:400;font-family:var(--mono);margin:0 0 10px;}
+  .jr-recent ul{list-style:none;margin:0;padding:0;}
+  .jr-recent li{border-top:1px solid var(--line);padding:9px 0;cursor:pointer;display:flex;gap:12px;align-items:baseline;}
+  .jr-recent li:hover .jr-rt{color:var(--sword);}
+  .jr-recent .jr-rd{font-family:var(--mono);font-size:0.68em;color:var(--gray);white-space:nowrap;}
+  .jr-recent .jr-rt{font-size:0.85em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
 </style>
 </head>
 <body>
@@ -674,7 +743,87 @@
 
 <section class="view" id="view-mystuff"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">my stuff</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">favorites, notes, highlights, library</p></div></section>
 <section class="view" id="view-prayer"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">your prayer space</p></div></section>
-<section class="view" id="view-journal"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">journal</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">yearly themes and reflection</p></div></section>
+<section class="view" id="view-journal">
+  <div class="jr-wrap">
+    <div class="jr-head">
+      <div>
+        <h2>journal</h2>
+        <p class="jr-sub">a reading plan, and somewhere to write</p>
+      </div>
+      <div class="jr-planbar">
+        <label for="jrPlan">plan</label>
+        <select id="jrPlan" onchange="jrSetPlan()"></select>
+        <label for="jrStart">from</label>
+        <input type="date" id="jrStart" onchange="jrSetPlan()">
+      </div>
+    </div>
+
+    <div class="jr-grid">
+      <div>
+        <div class="jr-cal">
+          <div class="jr-calhead">
+            <button onclick="jrMove(-1)" aria-label="previous month">&#8249;</button>
+            <strong id="jrMonth"></strong>
+            <button onclick="jrMove(1)" aria-label="next month">&#8250;</button>
+          </div>
+          <div class="jr-dow"><span>S</span><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span></div>
+          <div class="jr-days" id="jrDays"></div>
+          <div class="jr-legend">
+            <span><i style="background:var(--orange)"></i>reading due</span>
+            <span><i style="background:var(--sword)"></i>you wrote something</span>
+            <span><i style="background:var(--sword-soft)"></i>today</span>
+          </div>
+        </div>
+        <div class="jr-recent">
+          <h3>recent entries</h3>
+          <ul id="jrRecent"></ul>
+        </div>
+      </div>
+
+      <div class="jr-panel">
+        <p class="jr-date" id="jrDate"></p>
+        <p class="jr-meta" id="jrDayMeta"></p>
+        <div id="jrReading"></div>
+
+        <div class="jr-tabs">
+          <button id="jrTabJ" class="on" onclick="jrTab('j')">Journal</button>
+          <button id="jrTabS" onclick="jrTab('s')">Sermon notes</button>
+        </div>
+
+        <div class="jr-pane on" id="jrPaneJ">
+          <div class="jr-field">
+            <label for="jrJournal">reflection</label>
+            <textarea id="jrJournal" placeholder="What did you see today?" oninput="jrDirty()"></textarea>
+          </div>
+        </div>
+
+        <div class="jr-pane" id="jrPaneS">
+          <div class="jr-field">
+            <label for="jrSTitle">title</label>
+            <input id="jrSTitle" type="text" oninput="jrDirty()">
+          </div>
+          <div class="jr-field">
+            <label for="jrSSpeaker">speaker</label>
+            <input id="jrSSpeaker" type="text" oninput="jrDirty()">
+          </div>
+          <div class="jr-field">
+            <label for="jrSPassage">passage</label>
+            <input id="jrSPassage" type="text" oninput="jrDirty()">
+          </div>
+          <div class="jr-field">
+            <label for="jrSermon">notes</label>
+            <textarea id="jrSermon" placeholder="Points, references, things to look up." oninput="jrDirty()"></textarea>
+          </div>
+        </div>
+
+        <div class="jr-actions">
+          <span class="jr-save" id="jrSave"></span>
+          <button class="jr-del" id="jrDel" onclick="jrClear()">clear this day</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <div class="bnav">
   <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
@@ -2448,8 +2597,294 @@ function openSomewhereRandom() {
   }
   syncModeUI();
 }
+
+/* ================= Journal: calendar, reading plans, notes =================
+   Three things in one view: a month calendar, an optional reading plan, and a
+   place to write for any given day.
+
+   DATES ARE HANDLED LOCALLY, NEVER THROUGH toISOString(). That method converts
+   to UTC first, so west of Greenwich it reports yesterday for any time before
+   the offset -- a reader in Chicago opening this at 8pm would have written into
+   the wrong day. jrKey() formats from the local getFullYear/getMonth/getDate
+   instead, and every date is built with new Date(y, m, d) rather than parsed
+   from a string, because Date.parse of "2026-01-05" is specified as UTC while
+   Date.parse of "2026/01/05" is local. Mixing those is the classic off-by-one.
+
+   Plans are COMPUTED FROM CHAPTERS at load, not hard-coded, so they can never
+   drift out of step with the corpus: if a chapter is ever added or a book
+   renamed, the schedules follow automatically. */
+
+const JR_STORE = 'journal';
+const JR_PLANCFG = 'journalplan';
+
+function jrKey(d) {
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  return d.getFullYear() + '-' + m + '-' + day;
+}
+function jrParse(key) {            /* "YYYY-MM-DD" -> LOCAL midnight */
+  const p = key.split('-');
+  return new Date(+p[0], +p[1] - 1, +p[2]);
+}
+/* Whole days between two dates, counted on the CALENDAR rather than the clock.
+   Subtracting two local midnights and dividing by 86400000 is wrong across a
+   daylight-saving change: spanning the spring-forward the two midnights are 23
+   hours apart, so the division lands just under a whole day and floors away one
+   day -- and the plan then stays a day out for the rest of the year. (Autumn
+   hides it: the extra hour rounds the same direction as no change at all.)
+   Reprojecting each date onto UTC by its LOCAL y/m/d strips the offset entirely,
+   so the arithmetic is exact in every zone and on every date. */
+function jrDayCount(a, b) {
+  const ua = Date.UTC(a.getFullYear(), a.getMonth(), a.getDate());
+  const ub = Date.UTC(b.getFullYear(), b.getMonth(), b.getDate());
+  return Math.round((ub - ua) / 86400000);
+}
+
+/* Spread a list of chapter indices across n days as evenly as the arithmetic
+   allows. Day d takes the slice [d*len/n, (d+1)*len/n), which yields runs of
+   equal length differing by at most one and never drops or repeats a chapter. */
+function jrSpread(list, days) {
+  const out = [];
+  for (let d = 0; d < days; d++) {
+    out.push(list.slice(Math.floor(d * list.length / days),
+                        Math.floor((d + 1) * list.length / days)));
+  }
+  return out;
+}
+
+function jrIdxOfBooks(names) {
+  const set = new Set(names), out = [];
+  for (let i = 0; i < CHAPTERS.length; i++) {
+    const b = CHAPTERS[i].ref.replace(/\s+\d+$/, '');
+    if (set.has(b)) out.push(i);
+  }
+  return out;
+}
+
+let JR_PLANS = [];
+function jrBuildPlans() {
+  const all = CHAPTERS.map((c, i) => i);
+  const gospels = jrIdxOfBooks(['Matthew', 'Mark', 'Luke', 'John']);
+  const paul = jrIdxOfBooks(['Romans', '1 Corinthians', '2 Corinthians', 'Galatians',
+    'Ephesians', 'Philippians', 'Colossians', '1 Thessalonians', '2 Thessalonians',
+    '1 Timothy', '2 Timothy', 'Titus', 'Philemon']);
+  JR_PLANS = [
+    { id: 'none',    name: 'No plan',                     days: 0,   sched: null },
+    { id: 'year',    name: 'New Testament in a year',     days: 365, sched: jrSpread(all, 365) },
+    { id: 'ninety',  name: 'New Testament in 90 days',    days: 90,  sched: jrSpread(all, 90) },
+    { id: 'gospels', name: 'The Gospels in 30 days',      days: 30,  sched: jrSpread(gospels, 30) },
+    { id: 'paul',    name: "Paul's letters in 60 days",   days: 60,  sched: jrSpread(paul, 60) }
+  ];
+}
+
+function jrCfg() {
+  const raw = loadStore(JR_PLANCFG);
+  if (Array.isArray(raw)) return { id: 'none', start: jrKey(new Date()) };
+  return raw;
+}
+function jrSaveCfg(c) { saveStore(JR_PLANCFG, c); }
+
+function jrEntries() {
+  const raw = loadStore(JR_STORE);
+  return Array.isArray(raw) ? raw : [];
+}
+function jrGet(key) { return jrEntries().find(e => e.d === key) || null; }
+function jrHasText(e) {
+  return !!(e && ((e.j || '').trim() || (e.s || '').trim() ||
+                  (e.st || '').trim() || (e.sp || '').trim() || (e.sx || '').trim()));
+}
+
+/* Which chapter indices fall on a given date under the active plan. */
+function jrReadingFor(key) {
+  const cfg = jrCfg();
+  const plan = JR_PLANS.find(p => p.id === cfg.id);
+  if (!plan || !plan.sched) return [];
+  const n = jrDayCount(jrParse(cfg.start), jrParse(key));
+  if (n < 0 || n >= plan.days) return [];
+  return plan.sched[n];
+}
+
+let JR_VIEW = new Date();          /* month on screen */
+let JR_SEL = jrKey(new Date());    /* selected day */
+let JR_TAB = 'j';
+let JR_TIMER = null;
+
+const JR_MONTHS = ['January','February','March','April','May','June','July',
+                   'August','September','October','November','December'];
+
+function jrRenderCal() {
+  const y = JR_VIEW.getFullYear(), m = JR_VIEW.getMonth();
+  document.getElementById('jrMonth').textContent = JR_MONTHS[m] + ' ' + y;
+  const first = new Date(y, m, 1), last = new Date(y, m + 1, 0);
+  const today = jrKey(new Date());
+  const wrote = new Set(jrEntries().filter(jrHasText).map(e => e.d));
+  let html = '';
+  for (let i = 0; i < first.getDay(); i++) html += '<button class="jr-day blank" disabled></button>';
+  for (let d = 1; d <= last.getDate(); d++) {
+    const key = jrKey(new Date(y, m, d));
+    const cls = ['jr-day'];
+    if (key === today) cls.push('today');
+    if (key === JR_SEL) cls.push('sel');
+    const dot = wrote.has(key) ? '<span class="jr-dot"></span>' : '';
+    const plan = jrReadingFor(key).length ? '<span class="jr-plan"></span>' : '';
+    html += '<button class="' + cls.join(' ') + '" onclick="jrPick(\'' + key + '\')">' +
+            d + dot + plan + '</button>';
+  }
+  document.getElementById('jrDays').innerHTML = html;
+}
+
+function jrRenderPanel() {
+  const d = jrParse(JR_SEL);
+  document.getElementById('jrDate').textContent =
+    ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][d.getDay()] +
+    ', ' + JR_MONTHS[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+
+  const cfg = jrCfg();
+  const plan = JR_PLANS.find(p => p.id === cfg.id);
+  const reading = jrReadingFor(JR_SEL);
+  let meta = '';
+  if (plan && plan.sched) {
+    const n = jrDayCount(jrParse(cfg.start), jrParse(JR_SEL));
+    meta = (n >= 0 && n < plan.days)
+      ? plan.name + ' · day ' + (n + 1) + ' of ' + plan.days
+      : plan.name + ' · outside the plan window';
+  }
+  document.getElementById('jrDayMeta').textContent = meta;
+
+  const box = document.getElementById('jrReading');
+  if (reading.length) {
+    box.innerHTML = '<div class="jr-reading"><div class="jr-rlab">today’s reading</div>' +
+      reading.map(i => '<a onclick="jrOpen(' + i + ')">' + CHAPTERS[i].ref + '</a>').join('') +
+      '</div>';
+  } else if (plan && plan.sched) {
+    box.innerHTML = '<div class="jr-reading"><span class="jr-none">no reading scheduled for this day</span></div>';
+  } else {
+    box.innerHTML = '';
+  }
+
+  const e = jrGet(JR_SEL) || {};
+  document.getElementById('jrJournal').value = e.j || '';
+  document.getElementById('jrSTitle').value = e.st || '';
+  document.getElementById('jrSSpeaker').value = e.sp || '';
+  document.getElementById('jrSPassage').value = e.sx || '';
+  document.getElementById('jrSermon').value = e.s || '';
+  document.getElementById('jrSave').textContent = '';
+  document.getElementById('jrSave').classList.remove('on');
+  document.getElementById('jrDel').style.visibility = jrHasText(e) ? 'visible' : 'hidden';
+}
+
+function jrRenderRecent() {
+  const rows = jrEntries().filter(jrHasText).sort((a, b) => b.d.localeCompare(a.d)).slice(0, 8);
+  const ul = document.getElementById('jrRecent');
+  if (!rows.length) {
+    ul.innerHTML = '<li style="cursor:default"><span class="jr-rd">nothing yet</span></li>';
+    return;
+  }
+  ul.innerHTML = rows.map(e => {
+    const d = jrParse(e.d);
+    const label = (e.st || '').trim() || (e.j || '').trim().split('\n')[0] ||
+                  (e.s || '').trim().split('\n')[0] || '—';
+    const short = label.length > 58 ? label.slice(0, 58) + '…' : label;
+    return '<li onclick="jrPick(\'' + e.d + '\', true)">' +
+           '<span class="jr-rd">' + (d.getMonth() + 1) + '/' + d.getDate() + '</span>' +
+           '<span class="jr-rt">' + short.replace(/</g, '&lt;') + '</span></li>';
+  }).join('');
+}
+
+function jrRender() { jrRenderCal(); jrRenderPanel(); jrRenderRecent(); }
+
+function jrPick(key, jump) {
+  jrFlush();
+  JR_SEL = key;
+  if (jump) { const d = jrParse(key); JR_VIEW = new Date(d.getFullYear(), d.getMonth(), 1); }
+  jrRender();
+}
+function jrMove(n) {
+  jrFlush();
+  JR_VIEW = new Date(JR_VIEW.getFullYear(), JR_VIEW.getMonth() + n, 1);
+  jrRenderCal();
+}
+function jrTab(t) {
+  JR_TAB = t;
+  document.getElementById('jrTabJ').classList.toggle('on', t === 'j');
+  document.getElementById('jrTabS').classList.toggle('on', t === 's');
+  document.getElementById('jrPaneJ').classList.toggle('on', t === 'j');
+  document.getElementById('jrPaneS').classList.toggle('on', t === 's');
+}
+/* A plan's readings are indices into CHAPTERS, which is the Mak translation.
+   If the reader was last in the Illumination, KJV or devotional, loadChapter
+   would render into a pane that is not on screen -- so switch first. The
+   function no-ops when already there. */
+function jrOpen(idx) {
+  if (typeof switchTranslation === 'function') switchTranslation('mak');
+  sv('bible');
+  loadChapter(idx);
+}
+
+/* Debounced autosave. Writing on every keystroke would serialise the whole
+   store on each character; 600ms is under the threshold where a reader would
+   notice, and jrFlush() forces a write before anything that could lose it. */
+function jrDirty() {
+  const el = document.getElementById('jrSave');
+  el.textContent = 'saving…';
+  el.classList.remove('on');
+  clearTimeout(JR_TIMER);
+  JR_TIMER = setTimeout(jrFlush, 600);
+}
+function jrFlush() {
+  clearTimeout(JR_TIMER);
+  const el = document.getElementById('jrSave');
+  if (!el) return;
+  const rec = {
+    d: JR_SEL,
+    j: document.getElementById('jrJournal').value,
+    st: document.getElementById('jrSTitle').value,
+    sp: document.getElementById('jrSSpeaker').value,
+    sx: document.getElementById('jrSPassage').value,
+    s: document.getElementById('jrSermon').value
+  };
+  const all = jrEntries().filter(e => e.d !== JR_SEL);
+  if (jrHasText(rec)) all.push(rec);
+  saveStore(JR_STORE, all);
+  el.textContent = jrHasText(rec) ? 'saved' : '';
+  el.classList.toggle('on', jrHasText(rec));
+  document.getElementById('jrDel').style.visibility = jrHasText(rec) ? 'visible' : 'hidden';
+  jrRenderCal();
+  jrRenderRecent();
+}
+function jrClear() {
+  if (!confirm('Clear everything written for this day?')) return;
+  saveStore(JR_STORE, jrEntries().filter(e => e.d !== JR_SEL));
+  jrRender();
+}
+
+function jrSetPlan() {
+  jrFlush();
+  jrSaveCfg({ id: document.getElementById('jrPlan').value,
+              start: document.getElementById('jrStart').value || jrKey(new Date()) });
+  jrRender();
+}
+
+function jrInit() {
+  if (typeof CHAPTERS === 'undefined' || !CHAPTERS.length) return;
+  jrBuildPlans();
+  const cfg = jrCfg();
+  document.getElementById('jrPlan').innerHTML =
+    JR_PLANS.map(p => '<option value="' + p.id + '"' +
+      (p.id === cfg.id ? ' selected' : '') + '>' + p.name + '</option>').join('');
+  document.getElementById('jrStart').value = cfg.start;
+  jrRender();
+}
+
+/* A reader mid-sentence who switches view or closes the tab must not lose it. */
+window.addEventListener('beforeunload', jrFlush);
+document.addEventListener('visibilitychange', function () {
+  if (document.visibilityState === 'hidden') jrFlush();
+});
+
 openSomewhereRandom();
 sv('bible');
+jrInit();
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
 </script>
 

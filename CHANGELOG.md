@@ -1,5 +1,46 @@
 # CHANGELOG
 
+## 2026-07-31 — The Journal: a calendar, reading plans, and somewhere to write
+
+The Journal was a placeholder that said "yearly themes and reflection" and did
+nothing. It is now a working part of the site.
+
+**A month calendar.** Move between months, click any day. Today is outlined.
+Two small markers tell you about a day at a glance without opening it: an
+orange dot means a reading is due, a blue dot means you wrote something.
+
+**Four reading plans**, each with a start date you choose, so a plan can begin
+whenever you actually begin it rather than on the 1st of January:
+
+- New Testament in a year — one chapter a day, 260 reading days
+- New Testament in 90 days — about three chapters a day
+- The Gospels in 30 days
+- Paul's letters in 60 days
+
+The day's reading appears on the day, and each chapter in it is a link straight
+into the text. The schedules are computed from the corpus itself rather than
+typed out, so they cannot drift out of step with it: each plan covers its books
+exactly once, no chapter repeated and none dropped.
+
+**Somewhere to write, per day.** Two tabs on each date — a free reflection, and
+sermon notes with title, speaker, passage and body. Everything saves as you
+type and stays in your browser. Recent entries are listed under the calendar,
+and clicking one jumps back to that day.
+
+Nothing is sent anywhere. As with bookmarks, notes and highlights, what you
+write lives only on your own device.
+
+### One thing worth recording
+
+The first working version had a daylight-saving bug. Counting the days between
+two dates by subtracting them and dividing by 24 hours is correct for most of
+the year and wrong across the spring clock change, where two consecutive
+midnights are 23 hours apart — the count loses a day, and every reading in the
+plan stays a day out for the rest of the year. Autumn hides it, because the
+extra hour rounds harmlessly. The fix counts on the calendar rather than the
+clock. Verified over 1,464 consecutive days spanning eight clock changes and a
+leap day.
+
 ## 2026-07-30 — The placement audit is complete: all 27 books
 
 Every book of the New Testament has now been checked word by word — **260
