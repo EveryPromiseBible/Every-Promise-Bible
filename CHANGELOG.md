@@ -1,5 +1,66 @@
 # CHANGELOG
 
+## 2026-07-30 — The placement audit is complete: all 27 books
+
+Every book of the New Testament has now been checked word by word — **260
+chapters, 1,190 sections, 117,353 word units**, each one read as a Greek-English
+pair against the SBLGNT text. **No English changed in this release.**
+
+The question the audit asked was never "is the translation good." It was the
+narrower one the site actually promises: *when you tap a Greek word, does the
+entry that opens belong to **that** word?*
+
+### The corrections that mattered most were invisible to reading
+
+Every one of these reads perfectly well in English. That is precisely why they
+survived so long — nothing looks wrong on the page.
+
+- **The sixth hour of the crucifixion**, in all four gospels, opened the entry
+  for *"the exterior; aside from, besides."* The word for "sixth" had no entry
+  at all, so every "sixth" in the New Testament pointed at a similar-looking
+  word. The entry has been added and fourteen places corrected.
+- **Luke 3:2** — Annas the high priest opened the entry for *Anna the
+  prophetess*, a different person who appears one chapter earlier.
+- **Romans 9:5** — "who **is** God over all" had the word "is" shown as supplied
+  text, in a style meaning *no Greek word stands behind this*. The Greek word
+  beside it is exactly that word.
+- **Revelation 21:27** — "nothing unclean will ever enter it." The Greek double
+  negative carried "will ever," with no negation in it, while the negation sat
+  on the word meaning "any."
+- **"Good works"** at Titus 2:7, 2:14, 3:8, 3:14, Hebrews 10:24 and 1 Peter 2:12
+  opened *"to call."*
+- **"Whose son is he?"** (Matthew 22:42) and **"Whose image is this?"** (Mark
+  12:16) opened *"someone."* Thirty-one questions were pointing at the word for
+  "anyone."
+- **Every sentence-initial "We"** in the New Testament — ten of them — opened
+  the entry for "I," which has no definition text at all.
+
+Around 500 word placements and dictionary links were corrected in total.
+
+### What was checked and found correct
+
+Both Christ hymns, word by word — Philippians 2:6-11 and Colossians 1:15-20,
+including the places where a single crossed pair would invert the meaning. The
+faith chapter's twenty-one clauses in Hebrews 11. The armour of God. The fruit
+of the Spirit and the works of the flesh. The seven letters, seals, trumpets and
+bowls of Revelation, every ordinal on its own numeral. Paul's list of
+appearances in 1 Corinthians 15. Every "God is love" and "the Word was God"
+clause, checked for subject and predicate the right way round.
+
+And roughly 500 places where English is supplied with no Greek behind it — the
+italic text — were read one at a time to confirm the Greek really is absent.
+Nearly all were correct; a handful were words that did have Greek behind them.
+
+### Known and deliberately left
+
+A few dictionary entries Strong's never assigned still point at their nearest
+true match, which is the long-standing convention here rather than an error. The
+small grey grammar codes carry a batch of errors inherited from a 2026-07 data
+import; the dictionary links above them are unaffected, so no reader is misled
+about which word a label means.
+
+**Note for returning readers:** the corpus refreshes on your *next* visit.
+
 ## 2026-07-30 (later still) — 2 Corinthians re-anchored, and six tags that pointed at the wrong word
 
 **Eight books are now placement-read**: Matthew, Mark, Luke, John, Acts, Romans,
