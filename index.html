@@ -114,6 +114,9 @@
   .med-verse{font-family:var(--sans);font-size:0.95em;line-height:1.55;color:var(--gray);
              max-width:560px;margin:0 auto 22px;}
   .med-counter{font-family:var(--mono);font-size:0.7em;color:var(--orange);margin-bottom:40px;}
+  .med-del{font-family:var(--mono);font-size:0.92em;color:var(--gray);background:none;border:none;
+    padding:0 0 0 4px;cursor:pointer;text-decoration:underline;}
+  .med-del:hover{color:var(--orange);}
   .med-text{font-family:var(--sans);font-size:2.3em;font-weight:700;letter-spacing:-0.01em;line-height:1.4;max-width:640px;margin:0 auto;min-height:170px;display:flex;align-items:center;justify-content:center;}
   .med-dots{display:flex;justify-content:center;gap:6px;margin:40px 0 36px;flex-wrap:wrap;max-width:400px;margin-left:auto;margin-right:auto;}
   .med-dots span{width:7px;height:7px;border-radius:50%;background:var(--line);cursor:pointer;}
@@ -1157,10 +1160,28 @@ function clearHistory() {
   saveStore('history', history);
   renderHistoryTab();
 }
+/* CUSTOM MEDITATIONS ARE KEYED BY REFERENCE, NOT BY INDEX. PROMISES has grown
+   329 -> 1,005 -> 1,522 -> 2,022, and anything index-keyed silently re-points
+   to a different verse every time the corpus changes -- the same reasoning that
+   put favorites on the reference. A meditation someone wrote on Psalm 46:1 must
+   still be on Psalm 46:1 after the next data build. */
+function customMeds(ref) {
+  const all = loadStore('custommeds');
+  const hit = Array.isArray(all) ? all.find(x => x && x.ref === ref) : null;
+  return (hit && Array.isArray(hit.list)) ? hit.list : [];
+}
+
+function saveCustomMeds(ref, list) {
+  const all = loadStore('custommeds').filter(x => x && x.ref !== ref);
+  if (list.length) all.push({ ref: ref, list: list });
+  saveStore('custommeds', all);
+}
+
 function openMeditate() {
   const item = PROMISES[currentIdx];
-  medList = item.meditations.slice();
-  customFlags = medList.map(() => false);
+  const mine = customMeds(item.reference);
+  medList = item.meditations.slice().concat(mine);
+  customFlags = item.meditations.map(() => false).concat(mine.map(() => true));
   medIdx = 0;
   document.getElementById('medRef').textContent = item.reference;
   document.getElementById('medVerse').textContent = item.verse;
@@ -1169,7 +1190,13 @@ function openMeditate() {
 }
 function renderMed() {
   document.getElementById('medText').textContent = medList[medIdx];
-  document.getElementById('medCounter').textContent = (medIdx + 1) + ' of ' + medList.length;
+  /* Say plainly which ones are the reader's own, and offer to remove those.
+     A saved meditation the reader cannot delete is a typo kept forever. */
+  const own = customFlags[medIdx];
+  document.getElementById('medCounter').innerHTML =
+    (medIdx + 1) + ' of ' + medList.length +
+    (own ? ' &middot; yours <button class="med-del" onclick="deleteCustomMeditation(' +
+           medIdx + ')" title="remove this meditation">remove</button>' : '');
   document.getElementById('medPrev').disabled = medIdx === 0;
   document.getElementById('medNext').disabled = medIdx === medList.length - 1;
   document.getElementById('medDots').innerHTML = medList.map((m, i) =>
@@ -1183,7 +1210,23 @@ function addCustomMeditation() {
   const val = input.value.trim();
   if (!val) return;
   medList.push(val); customFlags.push(true); medIdx = medList.length - 1;
-  input.value = ''; renderMed();
+  input.value = '';
+  /* This is the line that was missing. Without it a meditation lived only in
+     the tab that wrote it and was gone on reload -- the reader's own words,
+     silently discarded. */
+  saveCustomMeds(PROMISES[currentIdx].reference,
+                 medList.filter((_, i) => customFlags[i]));
+  renderMed();
+}
+
+/* Written meditations must be removable, or a typo is permanent. */
+function deleteCustomMeditation(i) {
+  if (!customFlags[i]) return;
+  medList.splice(i, 1); customFlags.splice(i, 1);
+  if (medIdx >= medList.length) medIdx = Math.max(0, medList.length - 1);
+  saveCustomMeds(PROMISES[currentIdx].reference,
+                 medList.filter((_, j) => customFlags[j]));
+  renderMed();
 }
 
 let readMode = false;

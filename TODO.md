@@ -520,7 +520,17 @@ Most-recent-first, capped at 50, deduped by chapter. Recorded inside
 `loadChapter` so every route in counts, and after the `'intro'` early-return so
 the introduction never fills the list.
 
-### [ ] Meditations — persist custom entries
+### ✅ [x] Meditations — persist custom entries — **DONE 2026-08-02**
+Custom meditations were held in memory only: `addCustomMeditation` pushed onto
+`medList` and never wrote anywhere, so a reader's own words vanished on reload.
+
+Now stored under `everypromise_custommeds`, **keyed by the verse reference, not
+its index** — PROMISES has grown 329 → 1,005 → 1,522 → 2,022, and an
+index-keyed entry silently re-points to a different verse on every data build,
+which is the same reasoning that put favorites on the reference.
+
+Reader's own entries are marked "yours" in the counter and carry a *remove*
+link; built-in meditations cannot be deleted.
 `addCustomMeditation()` appends to a session array. Lost on reload.
 
 ### [ ] Search

@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2026-08-02 — Meditations you write now stay written
+
+If you added your own meditation to a promise, it lived only until you closed
+the page. The words went into a list in memory and were never saved anywhere.
+Nobody would have noticed until they came back looking for something they wrote.
+
+They are saved now, and they come back with the verse. Your own are marked
+**yours** and carry a **remove** link; the built-in meditations can't be deleted.
+
+They are stored against the **verse reference** rather than its position in the
+list. That sounds like a detail and isn't: the promises file has grown from 329
+to 2,022 entries, and anything stored by position quietly reattaches itself to a
+different verse every time the file is rebuilt. A meditation written on Psalm
+46:1 stays on Psalm 46:1.
+
 ## 2026-07-31 — The Journal: a calendar, reading plans, and somewhere to write
 
 The Journal was a placeholder that said "yearly themes and reflection" and did
