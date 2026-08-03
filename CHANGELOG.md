@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-08-03 — My Stuff opens up, and takes you back to the exact spot
+
+The My Stuff page counted what you had saved and then stopped, which answers
+"how many" when the question is "which". Every row with something in it now
+opens into the items themselves, and every item is a way back.
+
+**Back to the exact place, not just the chapter.** A chapter can run a hundred
+sections; landing at the top of one and hunting for the verse you tapped is not
+arriving. A highlight in the Mak translation goes to that word. A highlight in
+the Illumination goes to that verse. A bookmark or note goes to its section
+heading. Whatever you land on flashes briefly, so you can see which one it was.
+
+Journal entries open the journal on their day, favourites and the meditations
+you wrote open their promise, and chapters visited go back to the chapter. Moods
+are a filter setting rather than a place, so they list without linking.
+
+The library side panel now routes through the same code, so the two can never
+drift into disagreeing about where something lives.
+
+**The bottom navigation said "Stuff".** The top navigation said "My Stuff" all
+along, but the mobile bar — the one the Android app shows — was abbreviated.
+Both now read the same.
+
 ## 2026-08-03 — Marking up the Illumination, and reading mode that lets you
 
 Three things a reader could not do before.

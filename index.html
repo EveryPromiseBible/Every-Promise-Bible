@@ -646,6 +646,21 @@
   .ms-row{display:flex;justify-content:space-between;align-items:baseline;padding:11px 16px;border-bottom:1px solid var(--line);}
   .ms-row:last-child{border-bottom:none;}
   .ms-row.zero{opacity:0.4;}
+  .ms-row.opens{cursor:pointer;}
+  .ms-row.opens:hover{background:var(--paper);}
+  .ms-caret{display:inline-block;margin-left:9px;color:var(--gray);font-weight:400;transition:transform 0.15s;}
+  .ms-row.open .ms-caret{transform:rotate(90deg);}
+  .ms-row.open{background:var(--paper);}
+  .ms-items{border-bottom:1px solid var(--line);background:var(--paper);}
+  .ms-item{padding:10px 16px 10px 22px;border-top:1px solid var(--line);}
+  .ms-item.go{cursor:pointer;}
+  .ms-item.go:hover{background:var(--sword-soft);}
+  .ms-item-t{font-family:var(--mono);font-size:0.7em;color:var(--gray);text-transform:lowercase;margin-bottom:3px;}
+  .ms-item-s{font-size:0.88em;line-height:1.55;color:var(--ink);overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;}
+  /* Marks whatever a saved item just took you to. Landing mid-chapter with
+     nothing indicated leaves the reader hunting for the thing they tapped. */
+  .ms-flash{animation:msflash 1.8s ease-out;border-radius:4px;}
+  @keyframes msflash{0%{box-shadow:0 0 0 6px var(--sword-soft);background:var(--sword-soft);}100%{box-shadow:0 0 0 6px transparent;background:transparent;}}
   .ms-name{font-family:var(--mono);font-size:0.72em;text-transform:lowercase;color:var(--gray);}
   .ms-num{font-family:var(--mono);font-size:0.95em;font-weight:700;color:var(--ink);}
   .ms-block{margin-bottom:32px;}
@@ -891,7 +906,7 @@
 <div class="bnav">
   <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
   <button data-v="bible" onclick="sv('bible')">Bible</button>
-  <button data-v="mystuff" onclick="sv('mystuff')">Stuff</button>
+  <button data-v="mystuff" onclick="sv('mystuff')">My Stuff</button>
   <button data-v="prayer" onclick="sv('prayer')">Prayer</button>
   <button data-v="journal" onclick="sv('journal')">Journal</button>
 </div>
@@ -1617,18 +1632,95 @@ function jumpToSection(chapterIdx) {
   sv('bible');
 }
 
-function jumpToRef(tx, ref) {
+/* Landing on the right chapter is not the same as landing on the thing you
+   tapped -- a chapter can be a hundred sections long. `target` names the exact
+   element: a Mak word by its stable key, an Illumination verse by its
+   reference, or a section by its index. It is held rather than applied because
+   the chapter has to render first, and switchTranslation renders on its own
+   schedule. */
+let pendingScroll = null;
+
+function jumpToRef(tx, ref, target) {
   tx = tx || 'mak';
   sv('bible');
   lastRef = ref;
-  if (tx !== currentTx) { switchTranslation(tx); return; }
-  if (isVerseTx(tx)) {
+  pendingScroll = target || null;
+  if (tx !== currentTx) {
+    switchTranslation(tx);
+  } else if (isVerseTx(tx)) {
     const at = navIndexForRef(tx, ref);
     if (at >= 0) loadIllum(at);
   } else {
     const at = makIndexForRef(ref);
     if (at >= 0) loadChapter(at);
   }
+  /* Long enough for a translation switch to finish building its chapter. The
+     smooth scroll loadChapter/loadIllum start is overridden by this one. */
+  setTimeout(applyPendingScroll, 320);
+}
+
+/* One place that knows how to get back to a saved thing, used by both the
+   library panel and My Stuff so the two can never drift apart. Each store
+   answers "where was this?" differently: a highlight in the Illumination knows
+   its verse reference, a highlight in Mak knows its word, a favourite knows a
+   promise, a journal entry knows a date. */
+function goSaved(store, i) {
+  const rec = (loadStore(store) || [])[i];
+  if (!rec) return;
+  switch (store) {
+    case 'highlights':
+      jumpToRef(rec.tx, rec.ref,
+        rec.vref ? { vref: rec.vref, sec: rec.sectionIdx }
+                 : { wordKey: rec.key, sec: rec.sectionIdx });
+      break;
+    case 'bookmarks':
+    case 'notes':
+      jumpToRef(rec.tx, rec.ref, { sec: rec.sectionIdx });
+      break;
+    case 'history':
+      jumpToSection(rec.chapterIdx);
+      break;
+    case 'favorites':
+      jumpToFavorite(rec.reference);
+      break;
+    case 'custommeds':
+      /* Lands on the promise it was written under; the meditations open from
+         there. */
+      jumpToFavorite(rec.ref);
+      break;
+    case 'journal':
+      sv('journal');
+      if (typeof jrPick === 'function' && rec.d) jrPick(rec.d, true);
+      break;
+    default:
+      break;                        // moods are labels, not places
+  }
+}
+
+function applyPendingScroll() {
+  const t = pendingScroll;
+  pendingScroll = null;
+  if (!t) return;
+  let el = null;
+  if (t.wordKey) {
+    /* Attribute selectors choke on the | and : in a stable key, and CSS.escape
+       is not everywhere. Scanning the units is cheap and cannot misparse. */
+    el = [...document.querySelectorAll('#sectionsContainer .unit')]
+           .find(u => u.dataset.wordKey === t.wordKey) || null;
+  }
+  if (!el && t.vref) {
+    el = [...document.querySelectorAll('#sectionsContainer .illum-v')]
+           .find(p => p.dataset.vref === t.vref) || null;
+  }
+  if (!el && t.sec != null) {
+    el = document.querySelector('#sectionsContainer [data-sec="' + t.sec + '"]');
+  }
+  if (!el) return;
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  /* Say which one. Landing mid-chapter with nothing marked leaves the reader
+     hunting for the thing they just tapped. */
+  el.classList.add('ms-flash');
+  setTimeout(() => el.classList.remove('ms-flash'), 1800);
 }
 function renderBookmarksTab() {
   const el = document.getElementById('bookmarksList');
@@ -1638,7 +1730,7 @@ function renderBookmarksTab() {
   }
   el.innerHTML = '<div class="saved-count">' + bookmarks.length + ' saved</div><div class="saved-list">' +
     bookmarks.map((b, i) => `
-      <div class="saved-item" onclick="jumpToRef('${b.tx || 'mak'}', '${jsq(b.ref)}')">
+      <div class="saved-item" onclick="goSaved('bookmarks', ${i})">
         <button class="si-remove" onclick="event.stopPropagation(); removeBookmark(${i})">&times;</button>
         <div class="si-ref">${b.ref}${txBadge(b.tx)}</div>
         <div class="si-text">${b.heading || ''}</div>
@@ -1702,7 +1794,7 @@ function renderNotesTab() {
   }
   el.innerHTML = '<div class="saved-count">' + notes.length + ' saved</div><div class="saved-list">' +
     notes.map((n, i) => `
-      <div class="saved-item" onclick="jumpToRef('${n.tx || 'mak'}', '${jsq(n.ref)}')">
+      <div class="saved-item" onclick="goSaved('notes', ${i})">
         <button class="si-remove" onclick="event.stopPropagation(); removeNote(${i})">&times;</button>
         <div class="si-ref">${n.ref}${n.heading ? ' &middot; ' + n.heading : ''}${txBadge(n.tx)}</div>
         <div class="si-note">${n.text}</div>
@@ -1782,7 +1874,7 @@ function renderHighlightsTab() {
   }
   el.innerHTML = '<div class="saved-count">' + highlights.length + ' saved</div><div class="saved-list">' +
     highlights.map((h, i) => `
-      <div class="saved-item" onclick="jumpToRef('${h.tx || 'mak'}', '${jsq(h.ref)}')">
+      <div class="saved-item" onclick="goSaved('highlights', ${i})">
         <button class="si-remove" onclick="event.stopPropagation(); removeHighlight(${i})">&times;</button>
         <div class="si-ref">${h.ref}${h.vref ? ':' + String(h.vref).replace(/^\d+:/, '') : ''}${h.heading ? ' &middot; ' + h.heading : ''}${txBadge(h.tx)}</div>
         <div class="si-text">${h.grk ? `<b>${h.eng}</b> &mdash; ${h.grk}` : h.eng}</div>
@@ -1798,6 +1890,8 @@ function removeHighlight(i) {
 function buildSection(section, chapterIdx, sectionIdx) {
   const secDiv = document.createElement('div');
   secDiv.className = 'section';
+  /* A saved item names a section; this is what it scrolls to. */
+  secDiv.dataset.sec = sectionIdx;
 
   const headRow = document.createElement('div');
   headRow.className = 'section-heading-row';
@@ -2268,7 +2362,7 @@ function buildIllumChapter(ch) {
       const sk = secKey(currentTx, ch.ref, si);
       const bm = bookmarks.some(b => b.key === sk);
       const nt = notes.some(n => n.key === sk);
-      h += '<div class="illum-head-row">' +
+      h += '<div class="illum-head-row" data-sec="' + si + '">' +
              '<div class="illum-head">' + ilEsc(s.heading) + '</div>' +
              '<div class="sec-actions">' +
                '<button class="sec-action-btn' + (bm ? ' active' : '') + '"' +
@@ -2283,6 +2377,7 @@ function buildIllumChapter(ch) {
       const note = commentaryFor(key);
       const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
       h += '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
+           ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
            ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
            '<span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
            ilText(v[1]);
@@ -3375,14 +3470,74 @@ function msRestoreFrom(input) {
   reader.readAsText(file);
 }
 
+/* A count on its own answers "how many" and not "which", which is the question
+   a reader actually has. Each row opens into its items, and each item goes back
+   to the exact place it was made. */
+let msOpenGroup = null;
+
+function msLabelFor(store, rec) {
+  switch (store) {
+    case 'highlights':
+      /* "Galatians 5" + "5:25-26" reads as "Galatians 5:25-26": the verse ref
+         already repeats the chapter number, so drop it and keep the colon. */
+      return { title: rec.ref + (rec.vref ? String(rec.vref).replace(/^\d+/, '') : '') +
+                      (rec.heading ? ' · ' + rec.heading : '') + txBadge(rec.tx),
+               sub: rec.grk ? '<b>' + rec.eng + '</b> — ' + rec.grk : rec.eng };
+    case 'bookmarks':
+      return { title: rec.ref + txBadge(rec.tx), sub: rec.heading || '' };
+    case 'notes':
+      return { title: rec.ref + (rec.heading ? ' · ' + rec.heading : '') + txBadge(rec.tx),
+               sub: rec.text || '' };
+    case 'journal':
+      return { title: rec.d || '', sub: (rec.j || rec.s || rec.st || '').slice(0, 120) };
+    case 'favorites':
+      return { title: rec.reference || '', sub: (rec.verse || '').slice(0, 120) };
+    case 'custommeds':
+      return { title: rec.ref || '',
+               sub: (Array.isArray(rec.list) ? rec.list.length + ' written' : '') };
+    case 'history':
+      return { title: rec.ref || '', sub: '' };
+    case 'moods':
+      return { title: String(rec), sub: '' };
+    default:
+      return { title: String(rec), sub: '' };
+  }
+}
+
+/* moods are a filter setting, not somewhere you can stand. */
+const MS_NOT_A_PLACE = { moods: true };
+
+function msToggleGroup(store) {
+  msOpenGroup = (msOpenGroup === store) ? null : store;
+  msRender();
+}
+
 function msRender() {
   const box = document.getElementById('msCounts');
   if (!box) return;
   box.innerHTML = MS_STORES.map(s => {
-    const n = msCount(loadStore(s[0]));
-    return '<div class="ms-row' + (n === 0 ? ' zero' : '') + '">' +
-           '<span class="ms-name">' + s[1] + '</span>' +
-           '<span class="ms-num">' + n + '</span></div>';
+    const store = s[0];
+    const list = loadStore(store) || [];
+    const n = msCount(list);
+    const open = msOpenGroup === store && n > 0;
+    let html = '<div class="ms-row' + (n === 0 ? ' zero' : '') + (n > 0 ? ' opens' : '') +
+               (open ? ' open' : '') + '"' +
+               (n > 0 ? ' onclick="msToggleGroup(\'' + store + '\')"' : '') + '>' +
+               '<span class="ms-name">' + s[1] + '</span>' +
+               '<span class="ms-num">' + n +
+               (n > 0 ? '<span class="ms-caret">›</span>' : '') + '</span></div>';
+    if (open) {
+      const place = !MS_NOT_A_PLACE[store];
+      html += '<div class="ms-items">' + list.map((rec, i) => {
+        const L = msLabelFor(store, rec);
+        return '<div class="ms-item' + (place ? ' go' : '') + '"' +
+               (place ? ' onclick="goSaved(\'' + store + '\',' + i + ')"' : '') + '>' +
+               '<div class="ms-item-t">' + L.title + '</div>' +
+               (L.sub ? '<div class="ms-item-s">' + L.sub + '</div>' : '') +
+               '</div>';
+      }).join('') + '</div>';
+    }
+    return html;
   }).join('');
 
   const stampEl = document.getElementById('msStamp');
