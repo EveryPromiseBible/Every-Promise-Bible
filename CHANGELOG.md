@@ -1,5 +1,42 @@
 # CHANGELOG
 
+## 2026-08-03 — Marking up the Illumination, and reading mode that lets you
+
+Three things a reader could not do before.
+
+**Bookmarks and notes on Illumination headings.** Every section heading in the
+Illumination and the KJV now carries the same bookmark and note pair the Mak
+sections have always had.
+
+**Whole-verse highlighting in the Illumination.** Turn on the highlighter and
+tap a verse; the block highlights. Not word-level, deliberately. Mak highlights
+are anchored to their Greek token, which is why they survive the English being
+rewritten. The Illumination has no Greek and no word units, so word-level
+highlighting would mean storing character offsets — and those slide onto the
+wrong words the moment a verse is reworded, which happens here regularly.
+Anchoring to the verse **reference** cannot drift: proved by rewriting Galatians
+5:25 end to end and confirming the highlight stayed exactly where it was put.
+
+**Read mode is no longer read-only.** The bookmark and note icons used to be
+hidden in read mode, and the highlighter was switched off there. That was
+backwards — read mode is the devotional pass, which is precisely when someone
+wants to mark a verse or write about a section. Both work there now. The lexicon
+still does not: read mode hides the Greek and the tags, so opening a word entry
+would be answering a question the reader cannot see they asked.
+
+**Under it, a key change.** Bookmarks and notes were keyed `chapterIdx:sectionIdx`
+— an index into the Mak corpus and nothing else. The moment a second translation
+could be bookmarked that key was ambiguous: the Illumination's chapter 5 section
+2 and Mak's chapter 5 section 2 both wanted `5:2`, and one would have silently
+overwritten the other. Keys are now `translation|reference|section`, which is
+also immune to the corpus being rebuilt — the same reasoning that moved
+favourites onto verse references and highlights onto their Greek token. Existing
+bookmarks and notes are migrated on load; they already carried the reference
+they were made against, so nothing had to be guessed.
+
+Saved items from every translation share one list, so each now says which
+translation it came from. Mak is unlabelled, being the house translation.
+
 ## 2026-08-03 — My Stuff: everything you have saved, and a file that outlives it
 
 **my stuff** was a placeholder listing four words. It now shows what you have

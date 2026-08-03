@@ -195,7 +195,14 @@
   body.read-mode #view-bible .eng{color:var(--ink)!important;font-weight:400;font-size:1.02em;white-space:normal;}
   body.read-mode #view-bible .unit.clickable{cursor:default;}
   body.read-mode #view-bible .unit.clickable:hover{background:none;}
-  body.read-mode #view-bible .sec-actions{display:none;}
+  /* ...unless the highlighter is on. Read mode is where the prose is easiest to
+     read, so it is where a reader is most likely to want to mark something. */
+  body.read-mode.highlight-mode #view-bible .unit.clickable{cursor:cell;}
+  body.read-mode.highlight-mode #view-bible .unit.clickable:hover{background:#f4f3ef;}
+  /* Section actions used to be hidden in read mode. That was backwards: read
+     mode is the devotional pass, which is exactly when someone wants to
+     bookmark a section or write a note about it. Study mode is where you go to
+     dissect a word. Both need them. */
 
   /* ---- Saved item lists (bookmarks/notes/highlights) ---- */
   .saved-list{display:flex;flex-direction:column;gap:10px;}
@@ -210,6 +217,9 @@
   }
   .saved-item .si-remove:hover{color:var(--pink);}
   .saved-count{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-bottom:14px;text-transform:lowercase;}
+  /* Saved items from every translation share one list, so anything that is not
+     the house translation says so. */
+  .si-tx{font-family:var(--mono);font-size:0.82em;color:var(--sword);background:var(--sword-soft);border-radius:3px;padding:1px 5px;margin-left:6px;text-transform:none;letter-spacing:0;}
 
   /* ---- Note modal ---- */
   .note-card textarea{
@@ -282,7 +292,20 @@
   .illum-chap-title{font-size:1.15em;font-weight:600;color:var(--ink);margin:0 0 22px;letter-spacing:0.01em;}
   .illum-head{font-weight:600;color:var(--ink);margin:30px 0 10px;font-size:0.98em;}
   .illum-head:first-of-type{margin-top:6px;}
+  /* The heading now carries the same bookmark/note pair the Mak sections do, so
+     it becomes a row. The margins move to the row; the heading keeps none. */
+  .illum-head-row{display:flex;align-items:baseline;justify-content:space-between;gap:14px;margin:30px 0 10px;max-width:34em;}
+  .illum-head-row:first-of-type{margin-top:6px;}
+  .illum-head-row .illum-head{margin:0;}
   .illum-v{margin:0 0 15px;line-height:1.75;max-width:34em;color:var(--ink);}
+  /* Verse-level highlighting. The Illumination has no word units and no Greek to
+     key on, so a highlight is anchored to the verse REFERENCE -- which survives
+     the verse being rewritten, as Galatians 5:25 was. Word-level would mean
+     character offsets, and those slide onto the wrong words on the next edit. */
+  .illum-v.il-hl{background:#fdf0b8;border-radius:4px;box-shadow:0 0 0 5px #fdf0b8;}
+  body.highlight-mode .illum-v{cursor:cell;}
+  body.highlight-mode .illum-v:hover{background:#faf6e4;box-shadow:0 0 0 5px #faf6e4;border-radius:4px;}
+  body.highlight-mode .illum-v.il-hl:hover{background:#fbe79a;box-shadow:0 0 0 5px #fbe79a;}
   .illum-ref{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-right:8px;vertical-align:2px;letter-spacing:0.02em;}
 
   /* Verse commentary. A verse carrying a note gets a small marker after its
@@ -1501,22 +1524,111 @@ function buildCrossRefHtml(num) {
 }
 function closeDef() { document.getElementById('defOverlay').classList.remove('open'); }
 
+/* ---- section keys across translations -------------------------------------
+   Bookmarks and notes were keyed "chapterIdx:sectionIdx" -- an index into
+   CHAPTERS, which is the Mak corpus and nothing else. That was fine while Mak
+   was the only thing you could bookmark. It stops being fine the moment the
+   Illumination can be: its chapter 5 section 2 and Mak's chapter 5 section 2
+   both want the key "5:2", and one silently overwrites the other.
+
+   Keying on the REFERENCE rather than the index also survives the corpus being
+   rebuilt -- the same reasoning that put favourites on a verse reference after
+   PROMISES grew 329 -> 2,022, and highlights on their Greek token. An index is
+   never a name. */
+function secKey(tx, ref, sectionIdx) { return tx + '|' + ref + '|' + sectionIdx; }
+
+/* Saved lists are built by string concatenation, so a reference going into an
+   onclick has to survive being inside a quoted JS string inside an HTML
+   attribute. Book names carry no quotes today; this is so that stays true by
+   construction rather than by luck. */
+function jsq(s) {
+  return String(s == null ? '' : s).replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/"/g, '&quot;');
+}
+
+/* Saved items from different translations sit in one list, so each says where
+   it came from. Mak is unlabelled: it is the house translation and the default. */
+const TX_LABEL = { illum: 'Illumination', kjv: 'KJV', dev: 'Devotional' };
+function txBadge(tx) {
+  return TX_LABEL[tx] ? ' <span class="si-tx">' + TX_LABEL[tx] + '</span>' : '';
+}
+
+/* Repaint whichever reader is on screen. Mak rebuilds from CHAPTERS; the
+   Illumination and KJV share the verse reader and rebuild from their own nav
+   index. Called after a saved item is removed from the library panel, so the
+   icon in the text stops claiming the item still exists. */
+function refreshReader() {
+  if (isDevTx(currentTx)) return;                       // the devotional has no sections
+  if (isVerseTx(currentTx)) {
+    const sel = document.getElementById('chapterSelect');
+    if (sel && sel.value !== '') loadIllum(sel.value);
+  } else {
+    loadChapter(currentChapterIdx);
+  }
+}
+
+/* One-time migration of bookmarks and notes saved under the old scheme. Every
+   old record already carries the ref it was made against, so nothing has to be
+   guessed; CHAPTERS is only consulted if that field is somehow absent. */
+function migrateSectionKeys() {
+  const OLD = /^(\d+):(\d+)$/;
+  let n = 0;
+  const fix = list => list.forEach(x => {
+    const m = OLD.exec(x.key || '');
+    if (!m) return;
+    const ref = x.ref || (CHAPTERS[+m[1]] && CHAPTERS[+m[1]].ref);
+    if (!ref) return;                        // unresolvable: leave it alone
+    x.tx = 'mak';
+    x.ref = ref;
+    x.sectionIdx = +m[2];
+    x.key = secKey('mak', ref, +m[2]);
+    n++;
+  });
+  fix(bookmarks);
+  fix(notes);
+  if (n) {
+    saveStore('bookmarks', bookmarks);
+    saveStore('notes', notes);
+    console.info('section keys migrated to translation-aware form: ' + n);
+  }
+}
+
 /* ---- Bookmarks ---- */
-function toggleBookmark(chapterIdx, sectionIdx, heading) {
-  const key = chapterIdx + ':' + sectionIdx;
+function toggleBookmark(tx, ref, sectionIdx, heading) {
+  const key = secKey(tx, ref, sectionIdx);
   const existing = bookmarks.findIndex(b => b.key === key);
   if (existing >= 0) {
     bookmarks.splice(existing, 1);
   } else {
-    bookmarks.push({ key, chapterIdx, sectionIdx, ref: CHAPTERS[chapterIdx].ref, heading });
+    bookmarks.push({ key, tx, ref, sectionIdx, heading });
   }
   saveStore('bookmarks', bookmarks);
-  loadChapter(currentChapterIdx);
   renderBookmarksTab();
+  return existing < 0;                       // true if it is now bookmarked
 }
+
+/* Saved items name a translation and a reference, not an index, so getting back
+   to one may mean switching translation first. switchTranslation navigates by
+   lastRef, so setting it before the switch lands in the right place. */
+/* Kept for the two places that are Mak by nature and hold a real index: the
+   history list and the Greek cross-references. Neither can point anywhere else. */
 function jumpToSection(chapterIdx) {
+  if (currentTx !== 'mak') switchTranslation('mak');
   loadChapter(chapterIdx);
   sv('bible');
+}
+
+function jumpToRef(tx, ref) {
+  tx = tx || 'mak';
+  sv('bible');
+  lastRef = ref;
+  if (tx !== currentTx) { switchTranslation(tx); return; }
+  if (isVerseTx(tx)) {
+    const at = navIndexForRef(tx, ref);
+    if (at >= 0) loadIllum(at);
+  } else {
+    const at = makIndexForRef(ref);
+    if (at >= 0) loadChapter(at);
+  }
 }
 function renderBookmarksTab() {
   const el = document.getElementById('bookmarksList');
@@ -1526,49 +1638,51 @@ function renderBookmarksTab() {
   }
   el.innerHTML = '<div class="saved-count">' + bookmarks.length + ' saved</div><div class="saved-list">' +
     bookmarks.map((b, i) => `
-      <div class="saved-item" onclick="jumpToSection(${b.chapterIdx})">
+      <div class="saved-item" onclick="jumpToRef('${b.tx || 'mak'}', '${jsq(b.ref)}')">
         <button class="si-remove" onclick="event.stopPropagation(); removeBookmark(${i})">&times;</button>
-        <div class="si-ref">${b.ref}</div>
-        <div class="si-text">${b.heading}</div>
+        <div class="si-ref">${b.ref}${txBadge(b.tx)}</div>
+        <div class="si-text">${b.heading || ''}</div>
       </div>`).join('') + '</div>';
 }
 function removeBookmark(i) {
   bookmarks.splice(i, 1);
   saveStore('bookmarks', bookmarks);
-  loadChapter(currentChapterIdx);
+  refreshReader();
   renderBookmarksTab();
 }
 
 /* ---- Notes ---- */
-function openNoteModal(chapterIdx, sectionIdx, heading) {
-  pendingNoteKey = chapterIdx + ':' + sectionIdx;
+/* Takes a translation and a reference rather than an index, so the same modal
+   serves the Mak sections, the Illumination and the KJV. */
+function openNoteModal(tx, ref, sectionIdx, heading) {
+  pendingNoteKey = secKey(tx, ref, sectionIdx);
   const existing = notes.find(n => n.key === pendingNoteKey);
   const card = document.getElementById('noteCard');
   card.innerHTML = `
     <button class="def-close" onclick="closeNoteModal()">&times;</button>
-    <div class="def-strongs-tag">${CHAPTERS[chapterIdx].ref}</div>
-    <div class="def-label" style="margin-top:6px;">${heading}</div>
-    <textarea id="noteTextarea" placeholder="write a note on this section...">${existing ? existing.text : ''}</textarea>
+    <div class="def-strongs-tag">${ilEsc(ref)}${txBadge(tx)}</div>
+    <div class="def-label" style="margin-top:6px;">${ilEsc(heading || '')}</div>
+    <textarea id="noteTextarea" placeholder="write a note on this section...">${existing ? ilEsc(existing.text) : ''}</textarea>
     <div class="note-actions">
       ${existing ? '<button onclick="deleteNote()">delete</button>' : ''}
-      <button class="primary" onclick="saveNote(${chapterIdx}, ${sectionIdx}, '${heading.replace(/'/g, "\\'")}')">save</button>
+      <button class="primary" onclick="saveNote('${jsq(tx)}', '${jsq(ref)}', ${sectionIdx}, '${jsq(heading)}')">save</button>
     </div>`;
   document.getElementById('noteOverlay').classList.add('open');
 }
-function saveNote(chapterIdx, sectionIdx, heading) {
+function saveNote(tx, ref, sectionIdx, heading) {
   const text = document.getElementById('noteTextarea').value.trim();
-  const key = chapterIdx + ':' + sectionIdx;
+  const key = secKey(tx, ref, sectionIdx);
   const existingIdx = notes.findIndex(n => n.key === key);
   if (!text) {
     if (existingIdx >= 0) notes.splice(existingIdx, 1);
   } else if (existingIdx >= 0) {
     notes[existingIdx].text = text;
   } else {
-    notes.push({ key, chapterIdx, sectionIdx, ref: CHAPTERS[chapterIdx].ref, heading, text });
+    notes.push({ key, tx, ref, sectionIdx, heading, text });
   }
   saveStore('notes', notes);
   closeNoteModal();
-  loadChapter(currentChapterIdx);
+  refreshReader();
   renderNotesTab();
 }
 function deleteNote() {
@@ -1576,7 +1690,7 @@ function deleteNote() {
   if (idx >= 0) notes.splice(idx, 1);
   saveStore('notes', notes);
   closeNoteModal();
-  loadChapter(currentChapterIdx);
+  refreshReader();
   renderNotesTab();
 }
 function closeNoteModal() { document.getElementById('noteOverlay').classList.remove('open'); pendingNoteKey = null; }
@@ -1588,16 +1702,16 @@ function renderNotesTab() {
   }
   el.innerHTML = '<div class="saved-count">' + notes.length + ' saved</div><div class="saved-list">' +
     notes.map((n, i) => `
-      <div class="saved-item" onclick="jumpToSection(${n.chapterIdx})">
+      <div class="saved-item" onclick="jumpToRef('${n.tx || 'mak'}', '${jsq(n.ref)}')">
         <button class="si-remove" onclick="event.stopPropagation(); removeNote(${i})">&times;</button>
-        <div class="si-ref">${n.ref} &middot; ${n.heading}</div>
+        <div class="si-ref">${n.ref}${n.heading ? ' &middot; ' + n.heading : ''}${txBadge(n.tx)}</div>
         <div class="si-note">${n.text}</div>
       </div>`).join('') + '</div>';
 }
 function removeNote(i) {
   notes.splice(i, 1);
   saveStore('notes', notes);
-  loadChapter(currentChapterIdx);
+  refreshReader();
   renderNotesTab();
 }
 
@@ -1668,16 +1782,16 @@ function renderHighlightsTab() {
   }
   el.innerHTML = '<div class="saved-count">' + highlights.length + ' saved</div><div class="saved-list">' +
     highlights.map((h, i) => `
-      <div class="saved-item" onclick="jumpToSection(${h.chapterIdx})">
+      <div class="saved-item" onclick="jumpToRef('${h.tx || 'mak'}', '${jsq(h.ref)}')">
         <button class="si-remove" onclick="event.stopPropagation(); removeHighlight(${i})">&times;</button>
-        <div class="si-ref">${h.ref} &middot; ${h.heading}</div>
-        <div class="si-text"><b>${h.eng}</b> &mdash; ${h.grk}</div>
+        <div class="si-ref">${h.ref}${h.vref ? ':' + String(h.vref).replace(/^\d+:/, '') : ''}${h.heading ? ' &middot; ' + h.heading : ''}${txBadge(h.tx)}</div>
+        <div class="si-text">${h.grk ? `<b>${h.eng}</b> &mdash; ${h.grk}` : h.eng}</div>
       </div>`).join('') + '</div>';
 }
 function removeHighlight(i) {
   highlights.splice(i, 1);
   saveStore('highlights', highlights);
-  loadChapter(currentChapterIdx);
+  refreshReader();
   renderHighlightsTab();
 }
 
@@ -1696,7 +1810,8 @@ function buildSection(section, chapterIdx, sectionIdx) {
   const actions = document.createElement('div');
   actions.className = 'sec-actions';
 
-  const bmKey = chapterIdx + ':' + sectionIdx;
+  const chRef = CHAPTERS[chapterIdx].ref;
+  const bmKey = secKey('mak', chRef, sectionIdx);
   const isBookmarked = bookmarks.some(b => b.key === bmKey);
   const hasNote = notes.some(n => n.key === bmKey);
 
@@ -1704,14 +1819,17 @@ function buildSection(section, chapterIdx, sectionIdx) {
   bmBtn.className = 'sec-action-btn' + (isBookmarked ? ' active' : '');
   bmBtn.innerHTML = isBookmarked ? '&#128278;' : '&#128278;\uFE0E';
   bmBtn.title = 'bookmark this section';
-  bmBtn.onclick = () => toggleBookmark(chapterIdx, sectionIdx, section.heading);
+  bmBtn.onclick = () => {
+    const on = toggleBookmark('mak', chRef, sectionIdx, section.heading);
+    bmBtn.classList.toggle('active', on);
+  };
   actions.appendChild(bmBtn);
 
   const noteBtn = document.createElement('button');
   noteBtn.className = 'sec-action-btn' + (hasNote ? ' active' : '');
   noteBtn.innerHTML = '&#128221;';
   noteBtn.title = 'add a note';
-  noteBtn.onclick = () => openNoteModal(chapterIdx, sectionIdx, section.heading);
+  noteBtn.onclick = () => openNoteModal('mak', chRef, sectionIdx, section.heading);
   actions.appendChild(noteBtn);
 
   headRow.appendChild(actions);
@@ -1767,7 +1885,12 @@ function buildSection(section, chapterIdx, sectionIdx) {
       if (highlights.some(hl => hl.key === wordKey)) unit.classList.add('highlighted');
 
       unit.addEventListener('click', () => {
-        if (readMode) return;                 // read mode: words are not interactive
+        /* Read mode hides the Greek and the tags, so opening a lexicon entry
+           there would be answering a question the reader cannot see they asked.
+           Highlighting is different: it is about the English, which read mode
+           is showing at its best. So the lexicon stays off and the highlighter
+           stays on. */
+        if (readMode && !highlightMode) return;
         if (highlightMode) {
           toggleHighlight(wordKey, chapterIdx, sectionIdx, section.heading, eng, grk);
           unit.classList.toggle('highlighted');
@@ -2125,16 +2248,43 @@ function toggleCommentary(key) {
   if (open) p.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
+/* The chapter currently on screen. The Illumination reader builds HTML strings
+   rather than DOM nodes, so its click handlers arrive as onclick attributes
+   carrying only indices; this is what those indices index into. */
+let ilChapter = null;
+
+/* A verse highlight is keyed on the verse REFERENCE, never on its text or its
+   position. Galatians 5:25 was rewritten twice in one afternoon and the
+   reference did not move once. */
+function ilVerseKey(tx, chRef, vRef) { return tx + '|' + chRef + '|' + vRef; }
+
 function buildIllumChapter(ch) {
   let h = '';
+  ilChapter = ch;
   if (ch.title) h += '<div class="illum-chap-title">' + ilEsc(ch.title) + '</div>';
   const book = bookOf(ch.ref);
-  ch.sections.forEach(s => {
-    if (s.heading) h += '<div class="illum-head">' + ilEsc(s.heading) + '</div>';
-    s.verses.forEach(v => {
+  ch.sections.forEach((s, si) => {
+    if (s.heading) {
+      const sk = secKey(currentTx, ch.ref, si);
+      const bm = bookmarks.some(b => b.key === sk);
+      const nt = notes.some(n => n.key === sk);
+      h += '<div class="illum-head-row">' +
+             '<div class="illum-head">' + ilEsc(s.heading) + '</div>' +
+             '<div class="sec-actions">' +
+               '<button class="sec-action-btn' + (bm ? ' active' : '') + '"' +
+                 ' title="bookmark this section" onclick="ilBookmark(this,' + si + ')">&#128278;</button>' +
+               '<button class="sec-action-btn' + (nt ? ' active' : '') + '"' +
+                 ' title="add a note" onclick="ilNote(' + si + ')">&#128221;</button>' +
+             '</div>' +
+           '</div>';
+    }
+    s.verses.forEach((v, vi) => {
       const key = book + ' ' + v[0];
       const note = commentaryFor(key);
-      h += '<p class="illum-v"><span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
+      const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
+      h += '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
+           ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
+           '<span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
            ilText(v[1]);
       if (note) {
         h += '<button class="cmt-dot" data-cmt="' + ilEsc(key) + '" title="commentary"' +
@@ -2146,6 +2296,48 @@ function buildIllumChapter(ch) {
     });
   });
   return h;
+}
+
+/* ---- Illumination / KJV: bookmarks, notes, verse highlights ----------------
+   These repaint the one element they changed instead of rebuilding the
+   chapter. Rebuilding would work, but loadIllum scrolls to the top, and losing
+   your place because you bookmarked something is a bad trade. */
+function ilBookmark(btn, si) {
+  if (!ilChapter) return;
+  const s = ilChapter.sections[si];
+  const on = toggleBookmark(currentTx, ilChapter.ref, si, s.heading || '');
+  btn.classList.toggle('active', on);
+}
+
+function ilNote(si) {
+  if (!ilChapter) return;
+  const s = ilChapter.sections[si];
+  openNoteModal(currentTx, ilChapter.ref, si, s.heading || '');
+}
+
+function ilHighlightVerse(el, si, vi, ev) {
+  /* Only while the highlighter is on, so ordinary reading and the commentary
+     dots are untouched. */
+  if (!highlightMode || !ilChapter) return;
+  if (ev && ev.target && ev.target.closest && ev.target.closest('.cmt-dot')) return;
+  const s = ilChapter.sections[si], v = s.verses[vi];
+  const key = ilVerseKey(currentTx, ilChapter.ref, v[0]);
+  const at = highlights.findIndex(x => x.key === key);
+  if (at >= 0) {
+    highlights.splice(at, 1);
+  } else {
+    /* eng is a snippet for the library list only -- the highlight itself is
+       anchored to vref, so rewriting the verse cannot move it. grk stays empty
+       and is what the list uses to tell a Mak word from a verse. */
+    const txt = String(v[1]).replace(/\s+/g, ' ').trim();
+    highlights.push({
+      key, tx: currentTx, ref: ilChapter.ref, vref: v[0], sectionIdx: si,
+      heading: s.heading || '', eng: txt.length > 110 ? txt.slice(0, 110) + '…' : txt, grk: ''
+    });
+  }
+  saveStore('highlights', highlights);
+  el.classList.toggle('il-hl', at < 0);
+  renderHighlightsTab();
 }
 
 function renderIllumNav(i) {
@@ -2188,6 +2380,7 @@ function loadIllum(i) {
   if (d.type === 'syn') {
     if (intro) intro.innerHTML = buildIllumSynopsis(d.book);
     body.innerHTML = '';
+    ilChapter = null;            // a synopsis has no sections to act on
   } else {
     if (intro) intro.innerHTML = '';
     body.innerHTML = buildIllumChapter(corpus().chapters[d.ci]);
@@ -2632,6 +2825,7 @@ document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeDef
 
 populateSelect();
 migrateHighlightKeys();        // must run before any section is built
+migrateSectionKeys();          // likewise: bookmark/note keys are read at build time
 renderMoods();                 // restore any saved mood before the first verse
 loadVerse(anchorIdx());        // set up Promises (2 Corinthians 1:20) for when it is opened
 /* The app opens on the Bible, landing somewhere different every visit.
