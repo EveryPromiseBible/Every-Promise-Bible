@@ -648,15 +648,23 @@
   .ms-row.zero{opacity:0.4;}
   .ms-row.opens{cursor:pointer;}
   .ms-row.opens:hover{background:var(--paper);}
-  .ms-caret{display:inline-block;margin-left:9px;color:var(--gray);font-weight:400;transition:transform 0.15s;}
-  .ms-row.open .ms-caret{transform:rotate(90deg);}
-  .ms-row.open{background:var(--paper);}
-  .ms-items{border-bottom:1px solid var(--line);background:var(--paper);}
-  .ms-item{padding:10px 16px 10px 22px;border-top:1px solid var(--line);}
+  .ms-caret{display:inline-block;margin-left:9px;color:var(--gray);font-weight:400;}
+  /* One category, on its own page. */
+  /* No lowercase transform: this names the page it returns to, and that page is
+     "My Stuff". */
+  .ms-back{background:none;border:none;font-family:var(--mono);font-size:0.72em;color:var(--gray);cursor:pointer;padding:0;margin-bottom:20px;}
+  .ms-back:hover{color:var(--sword);}
+  /* Category titles are stored lowercase for the index rows; on their own page
+     they are a heading and sit beside a capitalised "My Stuff". */
+  #msDetailTitle{text-transform:capitalize;}
+  .ms-detail-list{border:1px solid var(--line);border-radius:10px;overflow:hidden;}
+  .ms-item{position:relative;padding:13px 40px 13px 16px;border-bottom:1px solid var(--line);}
+  .ms-item:last-child{border-bottom:none;}
   .ms-item.go{cursor:pointer;}
   .ms-item.go:hover{background:var(--sword-soft);}
-  .ms-item-t{font-family:var(--mono);font-size:0.7em;color:var(--gray);text-transform:lowercase;margin-bottom:3px;}
-  .ms-item-s{font-size:0.88em;line-height:1.55;color:var(--ink);overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;}
+  .ms-item-t{font-family:var(--mono);font-size:0.7em;color:var(--gray);text-transform:lowercase;margin-bottom:4px;}
+  .ms-item-s{font-size:0.9em;line-height:1.6;color:var(--ink);overflow:hidden;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;}
+  .ms-item .si-remove{position:absolute;top:10px;right:10px;}
   /* Marks whatever a saved item just took you to. Landing mid-chapter with
      nothing indicated leaves the reader hunting for the thing they tapped. */
   .ms-flash{animation:msflash 1.8s ease-out;border-radius:4px;}
@@ -800,8 +808,8 @@
   </div>
 </div>
 
-<section class="view" id="view-mystuff"><div class="ms-wrap">
-<h2>my stuff</h2>
+<section class="view" id="view-mystuff"><div class="ms-wrap" id="msIndex">
+<h2>My Stuff</h2>
 <p class="ms-sub">everything you have marked, written or saved. it lives on this device only &mdash; nothing is sent anywhere.</p>
 <div class="ms-counts" id="msCounts"></div>
 <div class="ms-block">
@@ -819,7 +827,16 @@
 <div class="ms-block">
   <p class="ms-note" id="msPersist"></p>
 </div>
-</div></section>
+</div>
+<!-- One category at a time, on its own page. The accordion this replaces meant
+     scrolling past everything else to reach what you wanted. -->
+<div class="ms-wrap" id="msDetail" style="display:none;">
+  <button class="ms-back" onclick="msBack()">&#8249; My Stuff</button>
+  <h2 id="msDetailTitle"></h2>
+  <p class="ms-sub" id="msDetailSub"></p>
+  <div class="ms-detail-list" id="msDetailList"></div>
+</div>
+</section>
 <section class="view" id="view-prayer"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">your prayer space</p></div></section>
 <section class="view" id="view-journal">
   <div class="jr-wrap">
@@ -2173,8 +2190,10 @@ function sv(name) {
   document.querySelectorAll('[data-v="' + name + '"]').forEach(b => b.classList.add('active'));
   document.getElementById('bibleToolbar').classList.toggle('show', name === 'bible');
   /* Counts are read fresh each time rather than kept in sync: the reader can
-     add a highlight in the bible view a second before opening this one. */
-  if (name === 'mystuff') msRender();
+     add a highlight in the bible view a second before opening this one.
+     msShow keeps whichever category page was last open, so jumping to a
+     highlight and coming back lands on the highlights list, not the index. */
+  if (name === 'mystuff') msShow();
   window.scrollTo({top:0, behavior:'smooth'});
 }
 
@@ -3471,10 +3490,8 @@ function msRestoreFrom(input) {
 }
 
 /* A count on its own answers "how many" and not "which", which is the question
-   a reader actually has. Each row opens into its items, and each item goes back
-   to the exact place it was made. */
-let msOpenGroup = null;
-
+   a reader actually has. Each row opens its own page of items, and each item
+   goes back to the exact place it was made. */
 function msLabelFor(store, rec) {
   switch (store) {
     case 'highlights':
@@ -3507,9 +3524,82 @@ function msLabelFor(store, rec) {
 /* moods are a filter setting, not somewhere you can stand. */
 const MS_NOT_A_PLACE = { moods: true };
 
-function msToggleGroup(store) {
-  msOpenGroup = (msOpenGroup === store) ? null : store;
-  msRender();
+/* Which category page is open, or null for the index. A category gets a page of
+   its own rather than an accordion: with eight groups stacked, opening the last
+   one meant scrolling past all the others to read it. */
+let msView = null;
+
+function msOpen(store) { msView = store; msShow(); }
+function msBack()      { msView = null;  msShow(); }
+
+function msShow() {
+  const index = document.getElementById('msIndex');
+  const detail = document.getElementById('msDetail');
+  if (!index || !detail) return;
+  if (msView) {
+    index.style.display = 'none';
+    detail.style.display = '';
+    msRenderDetail(msView);
+  } else {
+    detail.style.display = 'none';
+    index.style.display = '';
+    msRender();
+  }
+  window.scrollTo({ top: 0, behavior: 'auto' });
+}
+
+const MS_EMPTY = {
+  highlights: 'Turn on the highlighter in the toolbar, then tap a word or a verse.',
+  notes:      'Tap the note icon beside any section heading.',
+  bookmarks:  'Tap the bookmark icon beside any section heading.',
+  journal:    'Write something on any day in the Journal.',
+  favorites:  'Tap the heart under any promise.',
+  custommeds: 'Add your own meditation to any promise.',
+  history:    'Chapters you open show up here.',
+  moods:      'Choose the moods you want promises filtered by.'
+};
+
+function msRenderDetail(store) {
+  const label = (MS_STORES.find(s => s[0] === store) || [store, store])[1];
+  const list = loadStore(store) || [];
+  const n = msCount(list);
+  document.getElementById('msDetailTitle').textContent = label;
+  document.getElementById('msDetailSub').textContent =
+    n === 0 ? 'nothing here yet' : n + (n === 1 ? ' saved' : ' saved');
+  const box = document.getElementById('msDetailList');
+  if (n === 0) {
+    box.innerHTML = '<div class="empty-state"><p>' + (MS_EMPTY[store] || '') + '</p></div>';
+    return;
+  }
+  const place = !MS_NOT_A_PLACE[store];
+  box.innerHTML = list.map((rec, i) => {
+    const L = msLabelFor(store, rec);
+    return '<div class="ms-item' + (place ? ' go' : '') + '"' +
+           (place ? ' onclick="goSaved(\'' + store + '\',' + i + ')"' : '') + '>' +
+           '<button class="si-remove" title="remove"' +
+             ' onclick="event.stopPropagation(); msRemove(\'' + store + '\',' + i + ')">&times;</button>' +
+           '<div class="ms-item-t">' + L.title + '</div>' +
+           (L.sub ? '<div class="ms-item-s">' + L.sub + '</div>' : '') +
+           '</div>';
+  }).join('');
+}
+
+/* Removal goes through the existing per-store helpers where they exist, because
+   those also keep the module-level array and the library panel in step. */
+function msRemove(store, i) {
+  switch (store) {
+    case 'highlights': removeHighlight(i); break;
+    case 'notes':      removeNote(i);      break;
+    case 'bookmarks':  removeBookmark(i);  break;
+    case 'favorites':  removeFavorite(i);  break;
+    case 'history':    removeHistory(i);   break;
+    default: {
+      const l = loadStore(store) || [];
+      l.splice(i, 1);
+      saveStore(store, l);
+    }
+  }
+  msRenderDetail(store);
 }
 
 function msRender() {
@@ -3517,27 +3607,12 @@ function msRender() {
   if (!box) return;
   box.innerHTML = MS_STORES.map(s => {
     const store = s[0];
-    const list = loadStore(store) || [];
-    const n = msCount(list);
-    const open = msOpenGroup === store && n > 0;
-    let html = '<div class="ms-row' + (n === 0 ? ' zero' : '') + (n > 0 ? ' opens' : '') +
-               (open ? ' open' : '') + '"' +
-               (n > 0 ? ' onclick="msToggleGroup(\'' + store + '\')"' : '') + '>' +
-               '<span class="ms-name">' + s[1] + '</span>' +
-               '<span class="ms-num">' + n +
-               (n > 0 ? '<span class="ms-caret">›</span>' : '') + '</span></div>';
-    if (open) {
-      const place = !MS_NOT_A_PLACE[store];
-      html += '<div class="ms-items">' + list.map((rec, i) => {
-        const L = msLabelFor(store, rec);
-        return '<div class="ms-item' + (place ? ' go' : '') + '"' +
-               (place ? ' onclick="goSaved(\'' + store + '\',' + i + ')"' : '') + '>' +
-               '<div class="ms-item-t">' + L.title + '</div>' +
-               (L.sub ? '<div class="ms-item-s">' + L.sub + '</div>' : '') +
-               '</div>';
-      }).join('') + '</div>';
-    }
-    return html;
+    const n = msCount(loadStore(store));
+    return '<div class="ms-row' + (n === 0 ? ' zero' : ' opens') + '"' +
+           (n > 0 ? ' onclick="msOpen(\'' + store + '\')"' : '') + '>' +
+           '<span class="ms-name">' + s[1] + '</span>' +
+           '<span class="ms-num">' + n +
+           (n > 0 ? '<span class="ms-caret">›</span>' : '') + '</span></div>';
   }).join('');
 
   const stampEl = document.getElementById('msStamp');

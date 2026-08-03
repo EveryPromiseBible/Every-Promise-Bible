@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-08-03 — A page per category in My Stuff
+
+Opening a category used to unfold it in place, which meant everything else
+stayed on screen around it — read your bookmarks and the chapters you have
+visited are still sitting underneath. Each category now gets a page of its own:
+tap it, see only that, and a back link returns you.
+
+Items can be removed from there as well, so the category page does everything
+the library side panel does, with room to breathe.
+
+If you tap an item and go read it, coming back to My Stuff returns you to that
+category rather than the top — you were in the middle of working through a list.
+
+Empty categories say how to fill them instead of showing an empty box.
+
+**My Stuff** is now capitalised on the page, matching the navigation.
+
 ## 2026-08-03 — My Stuff opens up, and takes you back to the exact spot
 
 The My Stuff page counted what you had saved and then stopped, which answers
