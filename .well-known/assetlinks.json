@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.gods_promises",
+      "sha256_cert_fingerprints": [
+        "C8:29:B4:35:27:D9:8E:52:8B:61:28:A4:2C:F0:91:12:59:62:B1:85:5C:A2:6F:41:2F:24:55:1D:B1:9B:73:E7",
+        "0B:E0:A6:AA:26:51:34:A9:0F:26:82:7A:65:7E:48:82:01:FE:1A:B5:03:51:90:E6:79:65:E3:D9:06:36:16:2D"
+      ]
+    }
+  }
+]
