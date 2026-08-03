@@ -615,6 +615,23 @@
   .jr-recent li:hover .jr-rt{color:var(--sword);}
   .jr-recent .jr-rd{font-family:var(--mono);font-size:0.68em;color:var(--gray);white-space:nowrap;}
   .jr-recent .jr-rt{font-size:0.85em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  /* ---- My Stuff: what the reader has made, and the file that outlives it ---- */
+  .ms-wrap{max-width:620px;margin:0 auto;padding:58px 20px 90px;}
+  .ms-wrap h2{text-transform:lowercase;font-size:2em;letter-spacing:-0.01em;margin-bottom:6px;}
+  .ms-sub{font-family:var(--mono);color:var(--gray);font-size:0.72em;text-transform:lowercase;line-height:1.7;margin-bottom:32px;}
+  .ms-counts{border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:34px;}
+  .ms-row{display:flex;justify-content:space-between;align-items:baseline;padding:11px 16px;border-bottom:1px solid var(--line);}
+  .ms-row:last-child{border-bottom:none;}
+  .ms-row.zero{opacity:0.4;}
+  .ms-name{font-family:var(--mono);font-size:0.72em;text-transform:lowercase;color:var(--gray);}
+  .ms-num{font-family:var(--mono);font-size:0.95em;font-weight:700;color:var(--ink);}
+  .ms-block{margin-bottom:32px;}
+  .ms-block h3{font-family:var(--mono);font-size:0.68em;text-transform:uppercase;letter-spacing:0.07em;color:var(--gray);margin-bottom:8px;}
+  .ms-block p{font-size:0.9em;line-height:1.68;margin-bottom:14px;}
+  .ms-stamp{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-top:11px;text-transform:lowercase;}
+  .ms-stamp.warn{color:var(--orange);}
+  .ms-note{border-left:2px solid var(--sword-soft);padding:3px 0 3px 14px;font-size:0.85em;line-height:1.7;color:var(--gray);}
+  .ms-note strong{color:var(--ink);font-weight:600;}
 </style>
 </head>
 <body>
@@ -745,7 +762,26 @@
   </div>
 </div>
 
-<section class="view" id="view-mystuff"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">my stuff</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">favorites, notes, highlights, library</p></div></section>
+<section class="view" id="view-mystuff"><div class="ms-wrap">
+<h2>my stuff</h2>
+<p class="ms-sub">everything you have marked, written or saved. it lives on this device only &mdash; nothing is sent anywhere.</p>
+<div class="ms-counts" id="msCounts"></div>
+<div class="ms-block">
+  <h3>back up</h3>
+  <p>Writes all of it to one file. Keep that file somewhere safe &mdash; it is the only copy that survives clearing your browser data, changing phones, or reinstalling the app.</p>
+  <button class="abtn primary" onclick="msDownloadBackup()">back up my stuff</button>
+  <div class="ms-stamp" id="msStamp"></div>
+</div>
+<div class="ms-block">
+  <h3>restore</h3>
+  <p>Reads a backup file back in. This <strong>replaces</strong> what is on this device, so back up first if there is anything here you want to keep.</p>
+  <button class="abtn" onclick="document.getElementById('msFile').click()">choose a backup file</button>
+  <input type="file" id="msFile" accept="application/json,.json" style="display:none" onchange="msRestoreFrom(this)">
+</div>
+<div class="ms-block">
+  <p class="ms-note" id="msPersist"></p>
+</div>
+</div></section>
 <section class="view" id="view-prayer"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">your prayer space</p></div></section>
 <section class="view" id="view-journal">
   <div class="jr-wrap">
@@ -1919,6 +1955,9 @@ function sv(name) {
   document.querySelectorAll('nav.top-nav button, .bnav button').forEach(b => b.classList.remove('active'));
   document.querySelectorAll('[data-v="' + name + '"]').forEach(b => b.classList.add('active'));
   document.getElementById('bibleToolbar').classList.toggle('show', name === 'bible');
+  /* Counts are read fresh each time rather than kept in sync: the reader can
+     add a highlight in the bible view a second before opening this one. */
+  if (name === 'mystuff') msRender();
   window.scrollTo({top:0, behavior:'smooth'});
 }
 
@@ -2928,6 +2967,12 @@ function jrDirty() {
 }
 function jrFlush() {
   clearTimeout(JR_TIMER);
+  /* A restore has just written the journal straight to storage and is about to
+     reload. The fields on screen still hold the PRE-restore day, so flushing
+     them now would strip the restored entry for the selected date -- and only
+     that date, which looks like the restore half-worked. Found by testing a
+     backup/restore round trip; nothing else reaches this path. */
+  if (window.MS_RESTORING) return;
   const el = document.getElementById('jrSave');
   if (!el) return;
   const rec = {
@@ -2998,9 +3043,198 @@ document.addEventListener('visibilitychange', function () {
   if (document.visibilityState === 'hidden') jrFlush();
 });
 
+/* ================= My Stuff: backup and restore =================
+   Everything a reader makes lives in localStorage under everypromise_*. That
+   is comfortable until you remember where it physically sits: in the Android
+   app this site is wrapped by, the storage belongs to CHROME, not to the app.
+   "Clear browsing data" reaches it. The Flutter app this replaced kept its
+   data in a private sandbox and got Android's automatic Google Drive backup
+   for free -- the web has no equivalent and cannot have one.
+
+   So the honest answer is a file the reader holds. It outlives clearing the
+   browser, uninstalling the app, and the phone itself. The Flutter app had
+   exactly this (exportJson/importFromJson); this is the same idea, minus the
+   platform.
+
+   Restore REPLACES rather than merges. Merging sounds kinder and is worse:
+   highlights carry generated ids, so a merge silently doubles everything the
+   reader restores twice. Replace is predictable, and it is what the Flutter
+   version did. */
+
+const MS_FORMAT  = 'every-promise-backup';
+const MS_VERSION = 1;
+const MS_STAMP   = 'lastbackup';
+
+/* [storeName, label] -- the lists that get counted and shown. */
+const MS_STORES = [
+  ['highlights', 'highlights'],
+  ['notes',      'notes'],
+  ['bookmarks',  'bookmarks'],
+  ['journal',    'journal entries'],
+  ['favorites',  'favorite promises'],
+  ['custommeds', 'meditations you wrote'],
+  ['history',    'chapters visited'],
+  ['moods',      'moods chosen']
+];
+/* Backed up but not counted: settings objects, not lists. */
+const MS_EXTRA = ['journalplan'];
+
+function msAllStores() { return MS_STORES.map(s => s[0]).concat(MS_EXTRA); }
+function msCount(v) { return Array.isArray(v) ? v.length : 0; }
+
+function msSnapshot() {
+  const data = {};
+  msAllStores().forEach(n => { data[n] = loadStore(n); });
+  const counts = {};
+  MS_STORES.forEach(s => { counts[s[0]] = msCount(data[s[0]]); });
+  /* counts are duplicated into the file on purpose: it is pretty-printed so a
+     reader can open it and see at a glance that their work is really in it. */
+  return { format: MS_FORMAT, version: MS_VERSION,
+           generatedAt: new Date().toISOString(),
+           site: location.origin, counts: counts, data: data };
+}
+
+function msFilename() {
+  const d = new Date(), p = n => String(n).padStart(2, '0');
+  return 'every-promise-backup-' + d.getFullYear() + '-' +
+         p(d.getMonth() + 1) + '-' + p(d.getDate()) + '.json';
+}
+
+function msDownloadBackup() {
+  let url;
+  try {
+    const blob = new Blob([JSON.stringify(msSnapshot(), null, 2)],
+                          { type: 'application/json' });
+    url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = msFilename();
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  } catch (e) {
+    alert('Could not create the backup file.\n\n' + e);
+    return;
+  }
+  /* Revoke late: some Android browsers have not finished reading the blob when
+     click() returns, and revoking immediately gives a 0-byte download. */
+  setTimeout(() => { try { URL.revokeObjectURL(url); } catch (e) {} }, 30000);
+  saveStore(MS_STAMP, [new Date().toISOString()]);
+  msRender();
+}
+
+function msRestoreFrom(input) {
+  const file = input.files && input.files[0];
+  input.value = '';                    /* so the same file can be picked twice */
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onerror = () => alert('Could not read that file.');
+  reader.onload = () => {
+    let obj;
+    try { obj = JSON.parse(reader.result); }
+    catch (e) { alert('That file is not a valid backup -- it is not readable as JSON.'); return; }
+
+    if (!obj || typeof obj !== 'object' || obj.format !== MS_FORMAT || !obj.data) {
+      alert('That does not look like an Every Promise backup file.');
+      return;
+    }
+    if (typeof obj.version === 'number' && obj.version > MS_VERSION) {
+      if (!confirm('This backup was written by a newer version of the site. ' +
+                   'Some of it may not be understood. Continue?')) return;
+    }
+
+    /* Only known stores are written. A backup file is user-supplied input, and
+       copying arbitrary keys out of it into localStorage would let a file the
+       reader was sent set anything it liked. */
+    const incoming = {};
+    msAllStores().forEach(n => {
+      const v = obj.data[n];
+      if (Array.isArray(v) || (v && typeof v === 'object')) incoming[n] = v;
+    });
+
+    const lines = MS_STORES
+      .filter(s => msCount(incoming[s[0]]) > 0)
+      .map(s => '  ' + msCount(incoming[s[0]]) + '  ' + s[1]);
+    const when = obj.generatedAt ? new Date(obj.generatedAt).toLocaleDateString() : 'an unknown date';
+
+    if (!confirm(
+      'Restore this backup from ' + when + '?\n\n' +
+      (lines.length ? lines.join('\n') : '  (it contains nothing)') +
+      '\n\nThis REPLACES everything currently on this device.'
+    )) return;
+
+    try {
+      Object.keys(incoming).forEach(n => saveStore(n, incoming[n]));
+    } catch (e) {
+      alert('Could not write the restored data.\n\n' + e);
+      return;
+    }
+    /* Reload rather than re-render: bookmarks, notes, highlights and the rest
+       are module-level variables read once at startup, and every view holds its
+       own derived state. A reload is the only way to be certain nothing stale
+       survives.
+
+       The flag stops jrFlush's beforeunload handler writing the on-screen
+       journal fields -- still showing the pre-restore day -- over what was
+       just restored. See jrFlush. */
+    window.MS_RESTORING = true;
+    alert('Restored. The page will reload.');
+    location.reload();
+  };
+  reader.readAsText(file);
+}
+
+function msRender() {
+  const box = document.getElementById('msCounts');
+  if (!box) return;
+  box.innerHTML = MS_STORES.map(s => {
+    const n = msCount(loadStore(s[0]));
+    return '<div class="ms-row' + (n === 0 ? ' zero' : '') + '">' +
+           '<span class="ms-name">' + s[1] + '</span>' +
+           '<span class="ms-num">' + n + '</span></div>';
+  }).join('');
+
+  const stampEl = document.getElementById('msStamp');
+  const raw = loadStore(MS_STAMP);
+  const iso = Array.isArray(raw) ? raw[0] : null;
+  if (!iso) {
+    stampEl.className = 'ms-stamp warn';
+    stampEl.textContent = 'never backed up';
+  } else {
+    const days = Math.floor((Date.now() - new Date(iso).getTime()) / 86400000);
+    stampEl.className = 'ms-stamp' + (days >= 30 ? ' warn' : '');
+    stampEl.textContent = 'last backup: ' +
+      (days <= 0 ? 'today' : days === 1 ? 'yesterday' : days + ' days ago') +
+      ' (' + new Date(iso).toLocaleDateString() + ')';
+  }
+}
+
+/* Ask the browser to treat this site's storage as persistent. Without it,
+   Android may evict everything -- corpus AND the reader's notes -- when the
+   phone runs short of space, with no warning and no way to get it back. The
+   request is usually granted for an installed app. */
+function msInit() {
+  const el = document.getElementById('msPersist');
+  if (!navigator.storage || !navigator.storage.persist) {
+    if (el) el.innerHTML = '<strong>Back up regularly.</strong> This browser ' +
+      'cannot protect saved data from being cleared automatically.';
+    return;
+  }
+  navigator.storage.persisted()
+    .then(p => p ? true : navigator.storage.persist())
+    .then(granted => {
+      if (!el) return;
+      el.innerHTML = granted
+        ? '<strong>This device is protecting your saved work.</strong> It will ' +
+          'not be cleared automatically to free up space. It is still lost if ' +
+          'you clear your browser data, so keep a backup file.'
+        : '<strong>Back up regularly.</strong> This device may clear saved work ' +
+          'automatically when storage runs low.';
+    })
+    .catch(() => {});
+}
+
 openSomewhereRandom();
 sv('bible');
 jrInit();
+msInit();
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
 </script>
 

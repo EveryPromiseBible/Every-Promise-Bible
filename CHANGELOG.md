@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## 2026-08-03 — My Stuff: everything you have saved, and a file that outlives it
+
+**my stuff** was a placeholder listing four words. It now shows what you have
+actually made — highlights, notes, bookmarks, journal entries, favourites, the
+meditations you wrote — and lets you take it with you.
+
+**Back up** writes all of it to one file. **Restore** reads it back. The file is
+pretty-printed so you can open it and see your own work in it, and it carries the
+counts alongside the data so you can check nothing is missing at a glance.
+
+This matters more than it used to. The Android app is becoming a wrapper around
+this site, which means the reader's saved work no longer lives in an app's
+private sandbox — it lives in Chrome's storage for this domain. The old Flutter
+app got Android's automatic Google Drive backup for free; a website cannot. So a
+file the reader holds is the honest replacement: it survives clearing browser
+data, changing phones, and reinstalling. There is a **last backup** line under
+the button, which turns orange after thirty days, because a backup nobody
+presses is not a backup.
+
+The site also now asks the browser to treat its storage as **persistent**, so
+saved work is not silently discarded when the phone runs short of space. The
+panel says plainly whether that was granted.
+
+**Restore replaces rather than merges**, and says so before it does anything.
+Merging sounds kinder and is worse: highlights carry generated ids, so a merge
+doubles everything a reader restores twice.
+
+One bug found by testing the round trip rather than by reading the code: the
+journal's `beforeunload` flush fired during the reload that restore triggers,
+rebuilt the selected day from the form fields still showing the *pre-restore*
+state, and deleted the entry that had just been restored. Only the selected
+day — which would have looked like the restore half-worked. `jrFlush` now stands
+down while a restore is in flight.
+
 ## 2026-08-02 — Meditations you write now stay written
 
 If you added your own meditation to a promise, it lived only until you closed
