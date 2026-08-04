@@ -580,7 +580,7 @@
      No new dependencies and nothing fetched at runtime. */
   .jr-wrap{max-width:1040px;margin:0 auto;padding:28px 20px 80px;}
   .jr-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:22px;}
-  .jr-head h2{text-transform:lowercase;margin:0 0 4px;}
+  .jr-head h2{text-transform:none;margin:0 0 4px;}
   .jr-sub{font-family:var(--mono);color:var(--gray);font-size:0.8em;margin:0;}
   .jr-planbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-family:var(--mono);font-size:0.78em;}
   .jr-planbar select,.jr-planbar input[type=date]{font-family:var(--mono);font-size:1em;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--white);color:var(--ink);}
@@ -670,7 +670,10 @@
   .jr-recent .jr-rd{font-family:var(--mono);font-size:0.68em;color:var(--gray);white-space:nowrap;}
   .jr-recent .jr-rt{font-size:0.85em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
   /* ---- My Stuff: what the reader has made, and the file that outlives it ---- */
-  .ms-wrap{max-width:620px;margin:0 auto;padding:58px 20px 90px;}
+  .ms-wrap{max-width:620px;margin:0 auto;padding:34px 20px 90px;}
+  /* h2 keeps the browser's default top margin otherwise, which stacked on top
+     of the wrapper padding. */
+  .ms-wrap h2:first-child{margin-top:0;}
   /* This page reads in ordinary sentence case rather than the site's lowercase
      convention -- Chris's call, and the one place it applies. Everything here is
      scoped to .ms-wrap so the rest of the UI keeps the house style. */
@@ -870,13 +873,13 @@
   <div class="ms-detail-list" id="msDetailList"></div>
 </div>
 </section>
-<section class="view" id="view-prayer"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">your prayer space</p></div></section>
+<section class="view" id="view-prayer"><div style="text-align:center;padding:60px 0;max-width:900px;margin:0 auto;"><h2 style="margin-top:0;">Prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">Your prayer space</p></div></section>
 <section class="view" id="view-journal">
   <div class="jr-wrap" id="jrMain">
     <div class="jr-head">
       <div>
-        <h2>journal</h2>
-        <p class="jr-sub">a reading plan, and somewhere to write</p>
+        <h2>Journal</h2>
+        <p class="jr-sub">A reading plan, and somewhere to write</p>
       </div>
       <div class="jr-planbar">
         <label for="jrPlan">plan</label>
@@ -2279,7 +2282,16 @@ function showTab(name) {
 
 function sv(name) {
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
-  document.getElementById('view-' + name).classList.add('active');
+  const active = document.getElementById('view-' + name);
+  active.classList.add('active');
+  /* Only the promises and meditate views live inside <main>; bible, my stuff,
+     prayer and journal sit outside it for full-width layouts. An empty <main>
+     is still in the flow though, and it carries padding:20px 40px 110px -- so
+     every other page opened under a 130px band of nothing (120px on a phone).
+     Asking whether main holds the active view keeps this correct if a view
+     ever moves. */
+  const mainEl = document.querySelector('main');
+  if (mainEl) mainEl.style.display = mainEl.contains(active) ? '' : 'none';
   document.querySelectorAll('nav.top-nav button, .bnav button').forEach(b => b.classList.remove('active'));
   document.querySelectorAll('[data-v="' + name + '"]').forEach(b => b.classList.add('active'));
   document.getElementById('bibleToolbar').classList.toggle('show', name === 'bible');
