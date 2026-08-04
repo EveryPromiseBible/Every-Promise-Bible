@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## 2026-08-04 — The library panel stops repeating My Stuff
+
+The panel beside the chapter carried six tabs: Library, Bookmarks, Notes,
+Favorites, Highlights and History. Five of those are now pages in My Stuff,
+which shows them better — a page each, and tapping one returns you to the exact
+word or verse rather than the top of the chapter. Keeping both meant two places
+to look and two to maintain.
+
+Only the library remains, so the tab strip is gone with them; there is nothing
+left to switch between. The translations and the devotional now sit at the top
+of the panel where the tabs used to be.
+
+Nothing is lost: everything those tabs listed is in My Stuff, and it is in the
+backup file either way.
+
+**In the header**, the chapter picker and the tools move to the centre and the
+tabs to the right, with the logo staying where it was.
+
 ## 2026-08-04 — Options, on their own pages
 
 A **☰** beside Journal opens Options: an index of three, each opening its own
