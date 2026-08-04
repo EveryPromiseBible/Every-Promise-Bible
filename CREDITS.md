@@ -123,7 +123,9 @@ them. *How Great Thou Art* (Hine's English text, 1949), *He Lives* (1933) and
 ## The translations and original writing
 
 Three of the four texts in this app are original work by the project owner,
-produced with **Claude (Anthropic)** and released under CC BY-SA 4.0.
+produced with **Claude (Anthropic)** — most recently **Claude Opus 5** — and
+released under CC BY-SA 4.0. The work spans many sessions and successive model
+versions; Opus 5 is the current one, not the only one that touched it.
 
 ### The Mak Translation — `data/chapters.js`
 
