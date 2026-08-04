@@ -619,6 +619,32 @@
   .jr-reading a:hover{background:var(--white);}
   .jr-none{font-family:var(--mono);font-size:0.72em;color:var(--gray);}
 
+  /* ---- Sermon notes: its own page, with a formatting bar ---- */
+  .jr-sermon-page{max-width:820px;margin:0 auto;padding:28px 20px 90px;}
+  .jr-sp-back{background:none;border:none;font-family:var(--mono);font-size:0.72em;color:var(--gray);cursor:pointer;padding:0;margin-bottom:18px;}
+  .jr-sp-back:hover{color:var(--sword);}
+  .jr-sp-date{font-family:var(--mono);font-size:0.7em;color:var(--gray);margin-bottom:4px;}
+  .jr-sp-head{font-size:1.8em;font-weight:700;letter-spacing:-0.01em;margin-bottom:22px;}
+  .jr-sp-meta{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px;}
+  @media(max-width:640px){.jr-sp-meta{grid-template-columns:1fr;}}
+  /* The bar sticks so formatting stays reachable in a long set of notes. */
+  .rt-bar{position:sticky;top:0;z-index:6;display:flex;flex-wrap:wrap;gap:4px;align-items:center;
+          background:var(--paper);border:1px solid var(--line);border-radius:8px 8px 0 0;padding:7px 8px;}
+  .rt-btn{min-width:30px;height:30px;padding:0 7px;background:var(--white);border:1px solid var(--line);border-radius:6px;
+          cursor:pointer;font-family:var(--sans);font-size:0.82em;color:var(--ink);line-height:1;}
+  .rt-btn:hover{background:var(--sword-soft);border-color:var(--sword);}
+  .rt-btn.on{background:var(--sword);border-color:var(--sword);color:var(--white);}
+  .rt-sep{width:1px;height:20px;background:var(--line);margin:0 3px;}
+  .rt-sw{width:20px;height:20px;border-radius:50%;border:1.5px solid var(--line);cursor:pointer;padding:0;}
+  .rt-sw:hover{transform:scale(1.12);}
+  .rt-editor{min-height:340px;border:1px solid var(--line);border-top:none;border-radius:0 0 8px 8px;
+             padding:16px 16px 22px;font-family:var(--sans);font-size:0.95em;line-height:1.7;color:var(--ink);
+             background:var(--white);outline:none;overflow-wrap:break-word;}
+  .rt-editor:focus{border-color:var(--sword);}
+  .rt-editor:empty:before{content:attr(data-placeholder);color:var(--gray);}
+  .rt-editor ul,.rt-editor ol{padding-left:24px;margin:8px 0;}
+  .rt-editor blockquote{border-left:3px solid var(--sword-soft);margin:10px 0;padding:2px 0 2px 14px;color:var(--gray);}
+  .rt-editor h3{font-size:1.15em;margin:14px 0 6px;}
   .jr-tabs{display:flex;gap:6px;margin-bottom:12px;}
   .jr-tabs button{flex:1;background:var(--paper);border:1px solid var(--line);border-radius:7px;padding:7px 8px;font-family:var(--mono);font-size:0.7em;text-transform:uppercase;letter-spacing:0.05em;color:var(--gray);cursor:pointer;}
   .jr-tabs button.on{background:var(--sword);border-color:var(--sword);color:var(--white);}
@@ -846,7 +872,7 @@
 </section>
 <section class="view" id="view-prayer"><div style="text-align:center;padding:100px 0;max-width:900px;margin:0 auto;"><h2 style="text-transform:lowercase;">prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">your prayer space</p></div></section>
 <section class="view" id="view-journal">
-  <div class="jr-wrap">
+  <div class="jr-wrap" id="jrMain">
     <div class="jr-head">
       <div>
         <h2>journal</h2>
@@ -889,7 +915,7 @@
 
         <div class="jr-tabs">
           <button id="jrTabJ" class="on" onclick="jrTab('j')">Journal</button>
-          <button id="jrTabS" onclick="jrTab('s')">Sermon notes</button>
+          <button id="jrTabS" onclick="jrOpenSermon()">Sermon notes &#8250;</button>
         </div>
 
         <div class="jr-pane on" id="jrPaneJ">
@@ -899,30 +925,63 @@
           </div>
         </div>
 
-        <div class="jr-pane" id="jrPaneS">
-          <div class="jr-field">
-            <label for="jrSTitle">title</label>
-            <input id="jrSTitle" type="text" oninput="jrDirty()">
-          </div>
-          <div class="jr-field">
-            <label for="jrSSpeaker">speaker</label>
-            <input id="jrSSpeaker" type="text" oninput="jrDirty()">
-          </div>
-          <div class="jr-field">
-            <label for="jrSPassage">passage</label>
-            <input id="jrSPassage" type="text" oninput="jrDirty()">
-          </div>
-          <div class="jr-field">
-            <label for="jrSermon">notes</label>
-            <textarea id="jrSermon" placeholder="Points, references, things to look up." oninput="jrDirty()"></textarea>
-          </div>
-        </div>
-
         <div class="jr-actions">
           <span class="jr-save" id="jrSave"></span>
           <button class="jr-del" id="jrDel" onclick="jrClear()">clear this day</button>
         </div>
       </div>
+    </div>
+  </div>
+
+  <!-- Sermon notes, on their own page. The fields keep their ids and stay in
+       the document whether the page is showing or not, so jrFlush can read them
+       exactly as before no matter which screen the reader is on. -->
+  <div class="jr-sermon-page" id="jrSermonPage" style="display:none;">
+    <button class="jr-sp-back" onclick="jrCloseSermon()">&#8249; Journal</button>
+    <p class="jr-sp-date" id="jrSpDate"></p>
+    <h2 class="jr-sp-head">Sermon Notes</h2>
+
+    <div class="jr-sp-meta">
+      <div class="jr-field">
+        <label for="jrSTitle">title</label>
+        <input id="jrSTitle" type="text" oninput="jrDirty()">
+      </div>
+      <div class="jr-field">
+        <label for="jrSSpeaker">speaker</label>
+        <input id="jrSSpeaker" type="text" oninput="jrDirty()">
+      </div>
+    </div>
+    <div class="jr-field">
+      <label for="jrSPassage">passage</label>
+      <input id="jrSPassage" type="text" oninput="jrDirty()">
+    </div>
+
+    <div class="jr-field">
+      <label>notes</label>
+      <div class="rt-bar" id="rtBar">
+        <button type="button" class="rt-btn" data-cmd="bold" title="bold" onclick="rtCmd('bold')"><b>B</b></button>
+        <button type="button" class="rt-btn" data-cmd="italic" title="italic" onclick="rtCmd('italic')"><i>I</i></button>
+        <button type="button" class="rt-btn" data-cmd="underline" title="underline" onclick="rtCmd('underline')"><u>U</u></button>
+        <button type="button" class="rt-btn" data-cmd="strikeThrough" title="strikethrough" onclick="rtCmd('strikeThrough')"><s>S</s></button>
+        <span class="rt-sep"></span>
+        <button type="button" class="rt-btn" title="heading" onclick="rtBlock('H3')">H</button>
+        <button type="button" class="rt-btn" data-cmd="insertUnorderedList" title="bulleted list" onclick="rtCmd('insertUnorderedList')">&bull;</button>
+        <button type="button" class="rt-btn" data-cmd="insertOrderedList" title="numbered list" onclick="rtCmd('insertOrderedList')">1.</button>
+        <button type="button" class="rt-btn" title="quote" onclick="rtBlock('BLOCKQUOTE')">&rdquo;</button>
+        <span class="rt-sep"></span>
+        <span id="rtColors"></span>
+        <span class="rt-sep"></span>
+        <button type="button" class="rt-btn" title="highlight" onclick="rtHilite()">&#9998;</button>
+        <button type="button" class="rt-btn" title="clear formatting" onclick="rtClear()">&#10005;</button>
+      </div>
+      <div class="rt-editor" id="jrSermon" contenteditable="true" spellcheck="true"
+           data-placeholder="Points, references, things to look up."
+           oninput="jrDirty()" onkeyup="rtSync()" onmouseup="rtSync()" onfocus="rtSync()"></div>
+    </div>
+
+    <div class="jr-actions">
+      <span class="jr-save" id="jrSpSave"></span>
+      <button class="jr-del" onclick="jrCloseSermon()">done</button>
     </div>
   </div>
 </section>
@@ -1695,7 +1754,7 @@ function jumpToRef(tx, ref, target) {
    its verse reference, a highlight in Mak knows its word, a favourite knows a
    promise, a journal entry knows a date. */
 function goSaved(store, i) {
-  const rec = (loadStore(store) || [])[i];
+  const rec = msList(store)[i];
   if (!rec) return;
   switch (store) {
     case 'highlights':
@@ -1721,6 +1780,12 @@ function goSaved(store, i) {
     case 'journal':
       sv('journal');
       if (typeof jrPick === 'function' && rec.d) jrPick(rec.d, true);
+      break;
+    case 'sermons':
+      /* Straight into the notes themselves, which is what was tapped. */
+      sv('journal');
+      if (typeof jrPick === 'function' && rec.d) jrPick(rec.d, true);
+      if (typeof jrOpenSermon === 'function') jrOpenSermon();
       break;
     default:
       break;                        // moods are labels, not places
@@ -2223,6 +2288,8 @@ function sv(name) {
      msShow keeps whichever category page was last open, so jumping to a
      highlight and coming back lands on the highlights list, not the index. */
   if (name === 'mystuff') msShow();
+  /* Land on the calendar, not in an editor for a day nobody asked about. */
+  if (name === 'journal' && typeof jrShowMain === 'function') jrShowMain();
   window.scrollTo({top:0, behavior:'smooth'});
 }
 
@@ -3147,8 +3214,18 @@ function jrEntries() {
 }
 function jrGet(key) { return jrEntries().find(e => e.d === key) || null; }
 function jrHasText(e) {
-  return !!(e && ((e.j || '').trim() || (e.s || '').trim() ||
+  /* s is HTML now, so trimming the string is not enough: an untouched editor
+     leaves <br> or <div><br></div> behind, and that would save an empty day
+     every time someone opened the page and left again. */
+  return !!(e && ((e.j || '').trim() || rtText(e.s) ||
                   (e.st || '').trim() || (e.sp || '').trim() || (e.sx || '').trim()));
+}
+
+/* Does this day carry sermon notes specifically, as opposed to a reflection?
+   My Stuff lists the two separately. */
+function jrHasSermon(e) {
+  return !!(e && (rtText(e.s) || (e.st || '').trim() ||
+                  (e.sp || '').trim() || (e.sx || '').trim()));
 }
 
 /* Which chapter indices fall on a given date under the active plan. */
@@ -3225,7 +3302,7 @@ function jrRenderPanel() {
   document.getElementById('jrSTitle').value = e.st || '';
   document.getElementById('jrSSpeaker').value = e.sp || '';
   document.getElementById('jrSPassage').value = e.sx || '';
-  document.getElementById('jrSermon').value = e.s || '';
+  document.getElementById('jrSermon').innerHTML = rtLoad(e.s);
   document.getElementById('jrSave').textContent = '';
   document.getElementById('jrSave').classList.remove('on');
   document.getElementById('jrDel').style.visibility = jrHasText(e) ? 'visible' : 'hidden';
@@ -3265,9 +3342,139 @@ function jrMove(n) {
 function jrTab(t) {
   JR_TAB = t;
   document.getElementById('jrTabJ').classList.toggle('on', t === 'j');
-  document.getElementById('jrTabS').classList.toggle('on', t === 's');
   document.getElementById('jrPaneJ').classList.toggle('on', t === 'j');
-  document.getElementById('jrPaneS').classList.toggle('on', t === 's');
+}
+
+/* ================= Sermon notes: rich text =================
+   contenteditable + execCommand. execCommand is deprecated and there is no
+   replacement that does not mean shipping an editor library, which this
+   project does not do -- no build step, no dependencies. It is supported
+   everywhere that matters and degrades to plain typing if a command is
+   refused.
+
+   The notes field therefore stores HTML where it used to store the plain text
+   of a textarea. Two consequences are handled below: notes written before this
+   still have to open (rtLoad), and the HTML has to be sanitised on the way in
+   (rtSanitize) -- not because a reader would attack themselves, but because
+   restore reads a FILE, and a backup someone was sent is untrusted input. */
+
+const RT_OK = {B:1,STRONG:1,I:1,EM:1,U:1,S:1,STRIKE:1,BR:1,DIV:1,P:1,SPAN:1,
+               UL:1,OL:1,LI:1,H3:1,BLOCKQUOTE:1,FONT:1};
+const RT_KILL = {SCRIPT:1,STYLE:1,IFRAME:1,OBJECT:1,EMBED:1,LINK:1,META:1,FORM:1,INPUT:1,SVG:1};
+const RT_ATTR = {color:1, face:1};
+
+function rtSanitize(html) {
+  const root = document.createElement('div');
+  root.innerHTML = String(html == null ? '' : html);
+  (function walk(node) {
+    Array.from(node.children).forEach(el => {
+      const tag = el.tagName;
+      if (RT_KILL[tag]) { el.remove(); return; }         // drop it AND its contents
+      if (!RT_OK[tag]) {                                  // keep the words, lose the tag
+        walk(el);
+        el.replaceWith(...el.childNodes);
+        return;
+      }
+      Array.from(el.attributes).forEach(a => {
+        const n = a.name.toLowerCase();
+        if (n === 'style') {
+          /* colour is the whole point of the feature; nothing else survives,
+             so no position/display tricks can come in through a backup file. */
+          const keep = a.value.split(';')
+            .filter(p => /^\s*(color|background-color)\s*:\s*[#a-z0-9(),.\s%]+$/i.test(p))
+            .join(';');
+          if (keep) el.setAttribute('style', keep); else el.removeAttribute('style');
+          return;
+        }
+        if (!RT_ATTR[n]) el.removeAttribute(a.name);      // kills every on* handler
+      });
+      walk(el);
+    });
+  })(root);
+  return root.innerHTML;
+}
+
+/* Plain text from before this feature has no tags. Escape it and keep the line
+   breaks rather than showing the reader their own notes as one run-on block. */
+function rtLoad(v) {
+  const s = String(v == null ? '' : v);
+  if (!s) return '';
+  if (!/<[a-z][^>]*>/i.test(s)) return ilEsc(s).replace(/\n/g, '<br>');
+  return rtSanitize(s);
+}
+
+/* Whether there is anything in the notes once the markup is discounted: an
+   "empty" contenteditable is routinely <br> or <div><br></div>. */
+function rtText(html) {
+  const t = document.createElement('div');
+  t.innerHTML = String(html == null ? '' : html);
+  return (t.textContent || '').replace(/ /g, ' ').trim();
+}
+
+const RT_COLORS = ['#111111','#004878','#b5461a','#0f7a3f','#7a1a5a','#c47a00'];
+
+function rtBuildColors() {
+  const host = document.getElementById('rtColors');
+  if (!host || host.dataset.built) return;
+  host.innerHTML = RT_COLORS.map(c =>
+    '<button type="button" class="rt-sw" style="background:' + c + '"' +
+    ' title="text colour" onclick="rtColor(\'' + c + '\')"></button>').join('');
+  host.dataset.built = '1';
+}
+
+function rtFocus() { const e = document.getElementById('jrSermon'); if (e) e.focus(); }
+function rtCmd(cmd) { rtFocus(); try { document.execCommand(cmd, false, null); } catch (e) {} jrDirty(); rtSync(); }
+function rtColor(c) { rtFocus(); try { document.execCommand('styleWithCSS', false, true); document.execCommand('foreColor', false, c); } catch (e) {} jrDirty(); }
+function rtHilite() { rtFocus(); try { document.execCommand('styleWithCSS', false, true); document.execCommand('hiliteColor', false, '#fdf0b8'); } catch (e) {} jrDirty(); }
+function rtClear() { rtFocus(); try { document.execCommand('removeFormat', false, null); document.execCommand('formatBlock', false, 'div'); } catch (e) {} jrDirty(); rtSync(); }
+function rtBlock(tag) {
+  rtFocus();
+  /* Second press on the same block returns it to a paragraph, so the button
+     toggles rather than trapping the reader in a heading. */
+  let cur = '';
+  try { cur = String(document.queryCommandValue('formatBlock') || '').toUpperCase(); } catch (e) {}
+  try { document.execCommand('formatBlock', false, cur === tag ? 'div' : tag); } catch (e) {}
+  jrDirty(); rtSync();
+}
+
+/* Light up whichever buttons apply where the cursor is. */
+function rtSync() {
+  document.querySelectorAll('#rtBar .rt-btn[data-cmd]').forEach(b => {
+    let on = false;
+    try { on = document.queryCommandState(b.dataset.cmd); } catch (e) {}
+    b.classList.toggle('on', !!on);
+  });
+}
+
+function jrOpenSermon() {
+  rtBuildColors();
+  const d = jrParse(JR_SEL);
+  document.getElementById('jrSpDate').textContent =
+    ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][d.getDay()] +
+    ', ' + JR_MONTHS[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+  document.getElementById('jrMain').style.display = 'none';
+  document.getElementById('jrSermonPage').style.display = '';
+  window.scrollTo({ top: 0, behavior: 'auto' });
+  rtSync();
+}
+
+function jrCloseSermon() {
+  jrFlush();                                   // write before leaving the page
+  document.getElementById('jrSermonPage').style.display = 'none';
+  document.getElementById('jrMain').style.display = '';
+  jrRender();
+  window.scrollTo({ top: 0, behavior: 'auto' });
+}
+
+/* Whichever journal screen is showing. sv('journal') and the saved-item jump
+   both land on the calendar rather than stranding the reader in an editor for
+   a day they did not ask for. */
+function jrShowMain() {
+  const p = document.getElementById('jrSermonPage');
+  if (p && p.style.display !== 'none') {
+    p.style.display = 'none';
+    document.getElementById('jrMain').style.display = '';
+  }
 }
 /* Open one chapter of a plan's reading.
 
@@ -3319,7 +3526,9 @@ function jrFlush() {
     st: document.getElementById('jrSTitle').value,
     sp: document.getElementById('jrSSpeaker').value,
     sx: document.getElementById('jrSPassage').value,
-    s: document.getElementById('jrSermon').value
+    /* HTML now, sanitised on the way out as well as in: execCommand can be
+       fed by a paste from anywhere. */
+    s: rtSanitize(document.getElementById('jrSermon').innerHTML)
   };
   const all = jrEntries().filter(e => e.d !== JR_SEL);
   if (jrHasText(rec)) all.push(rec);
@@ -3416,6 +3625,30 @@ const MS_STORES = [
 ];
 /* Backed up but not counted: settings objects, not lists. */
 const MS_EXTRA = ['journalplan'];
+
+/* What My Stuff SHOWS, which is not the same as what it BACKS UP. A day in the
+   journal can hold a reflection, sermon notes, or both, and they are different
+   kinds of thing to go looking for -- so they get a row each. Both are still
+   one record in the journal store, and MS_STORES above stays the storage-level
+   list so the backup surface is unchanged by how this page chooses to display
+   it. */
+const MS_CATS = [
+  ['highlights', 'Highlights'],
+  ['notes',      'Notes'],
+  ['sermons',    'Sermon Notes'],
+  ['bookmarks',  'Bookmarks'],
+  ['journal',    'Journal Entries'],
+  ['favorites',  'Favorite Promises'],
+  ['custommeds', 'Meditations You Wrote'],
+  ['history',    'Chapters Visited'],
+  ['moods',      'Moods Chosen']
+];
+
+function msList(cat) {
+  if (cat === 'sermons') return (loadStore('journal') || []).filter(jrHasSermon);
+  if (cat === 'journal') return (loadStore('journal') || []).filter(e => (e.j || '').trim());
+  return loadStore(cat) || [];
+}
 
 function msAllStores() { return MS_STORES.map(s => s[0]).concat(MS_EXTRA); }
 function msCount(v) { return Array.isArray(v) ? v.length : 0; }
@@ -3527,27 +3760,33 @@ function msLabelFor(store, rec) {
     case 'highlights':
       /* "Galatians 5" + "5:25-26" reads as "Galatians 5:25-26": the verse ref
          already repeats the chapter number, so drop it and keep the colon. */
-      return { title: rec.ref + (rec.vref ? String(rec.vref).replace(/^\d+/, '') : '') +
-                      (rec.heading ? ' · ' + rec.heading : '') + txBadge(rec.tx),
-               sub: rec.grk ? '<b>' + rec.eng + '</b> — ' + rec.grk : rec.eng };
+      return { title: ilEsc(rec.ref) + (rec.vref ? ilEsc(String(rec.vref).replace(/^\d+/, '')) : '') +
+                      (rec.heading ? ' · ' + ilEsc(rec.heading) : '') + txBadge(rec.tx),
+               sub: rec.grk ? '<b>' + ilEsc(rec.eng) + '</b> — ' + ilEsc(rec.grk)
+                            : ilEsc(rec.eng || '') };
     case 'bookmarks':
-      return { title: rec.ref + txBadge(rec.tx), sub: rec.heading || '' };
+      return { title: ilEsc(rec.ref) + txBadge(rec.tx), sub: ilEsc(rec.heading || '') };
     case 'notes':
-      return { title: rec.ref + (rec.heading ? ' · ' + rec.heading : '') + txBadge(rec.tx),
-               sub: rec.text || '' };
+      return { title: ilEsc(rec.ref) + (rec.heading ? ' · ' + ilEsc(rec.heading) : '') + txBadge(rec.tx),
+               sub: ilEsc(rec.text || '') };
     case 'journal':
-      return { title: rec.d || '', sub: (rec.j || rec.s || rec.st || '').slice(0, 120) };
+      return { title: ilEsc(rec.d || ''), sub: ilEsc((rec.j || '').slice(0, 160)) };
+    case 'sermons':
+      return { title: (rec.d || '') + (rec.st ? ' · ' + ilEsc(rec.st) : '') +
+                      (rec.sx ? ' · ' + ilEsc(rec.sx) : ''),
+               sub: (rec.sp ? '<b>' + ilEsc(rec.sp) + '</b> — ' : '') +
+                    ilEsc(rtText(rec.s).slice(0, 160)) };
     case 'favorites':
-      return { title: rec.reference || '', sub: (rec.verse || '').slice(0, 120) };
+      return { title: ilEsc(rec.reference || ''), sub: ilEsc((rec.verse || '').slice(0, 120)) };
     case 'custommeds':
-      return { title: rec.ref || '',
+      return { title: ilEsc(rec.ref || ''),
                sub: (Array.isArray(rec.list) ? rec.list.length + ' written' : '') };
     case 'history':
-      return { title: rec.ref || '', sub: '' };
+      return { title: ilEsc(rec.ref || ''), sub: '' };
     case 'moods':
-      return { title: String(rec), sub: '' };
+      return { title: ilEsc(String(rec)), sub: '' };
     default:
-      return { title: String(rec), sub: '' };
+      return { title: ilEsc(String(rec)), sub: '' };
   }
 }
 
@@ -3582,7 +3821,8 @@ const MS_EMPTY = {
   highlights: 'Turn on the highlighter in the toolbar, then tap a word or a verse.',
   notes:      'Tap the note icon beside any section heading.',
   bookmarks:  'Tap the bookmark icon beside any section heading.',
-  journal:    'Write something on any day in the Journal.',
+  journal:    'Write a reflection on any day in the Journal.',
+  sermons:    'Open a day in the Journal and tap Sermon notes.',
   favorites:  'Tap the heart under any promise.',
   custommeds: 'Add your own meditation to any promise.',
   history:    'Chapters you open show up here.',
@@ -3590,8 +3830,8 @@ const MS_EMPTY = {
 };
 
 function msRenderDetail(store) {
-  const label = (MS_STORES.find(s => s[0] === store) || [store, store])[1];
-  const list = loadStore(store) || [];
+  const label = (MS_CATS.find(s => s[0] === store) || [store, store])[1];
+  const list = msList(store);
   const n = msCount(list);
   document.getElementById('msDetailTitle').textContent = label;
   document.getElementById('msDetailSub').textContent =
@@ -3623,6 +3863,29 @@ function msRemove(store, i) {
     case 'bookmarks':  removeBookmark(i);  break;
     case 'favorites':  removeFavorite(i);  break;
     case 'history':    removeHistory(i);   break;
+    /* One journal record can hold a reflection and sermon notes at once, and
+       these are two rows in My Stuff. Removing one must not take the other
+       with it -- so clear that half by DATE (the index is into the filtered
+       list, not the store) and drop the record only once nothing is left. */
+    case 'journal':
+    case 'sermons': {
+      const rec = msList(store)[i];
+      if (!rec) break;
+      const all = loadStore('journal') || [];
+      const at = all.findIndex(e => e.d === rec.d);
+      if (at < 0) break;
+      if (store === 'journal') {
+        all[at].j = '';
+      } else {
+        all[at].s = ''; all[at].st = ''; all[at].sp = ''; all[at].sx = '';
+      }
+      if (!jrHasText(all[at])) all.splice(at, 1);
+      saveStore('journal', all);
+      /* The panel may be sitting on the day just changed, holding the old text
+         in its fields -- the next flush would write it straight back. */
+      if (typeof JR_SEL !== 'undefined' && JR_SEL === rec.d && typeof jrRender === 'function') jrRender();
+      break;
+    }
     default: {
       const l = loadStore(store) || [];
       l.splice(i, 1);
@@ -3635,11 +3898,11 @@ function msRemove(store, i) {
 function msRender() {
   const box = document.getElementById('msCounts');
   if (!box) return;
-  box.innerHTML = MS_STORES.map(s => {
-    const store = s[0];
-    const n = msCount(loadStore(store));
+  box.innerHTML = MS_CATS.map(s => {
+    const cat = s[0];
+    const n = msCount(msList(cat));
     return '<div class="ms-row' + (n === 0 ? ' zero' : ' opens') + '"' +
-           (n > 0 ? ' onclick="msOpen(\'' + store + '\')"' : '') + '>' +
+           (n > 0 ? ' onclick="msOpen(\'' + cat + '\')"' : '') + '>' +
            '<span class="ms-name">' + s[1] + '</span>' +
            '<span class="ms-num">' + n +
            (n > 0 ? '<span class="ms-caret">›</span>' : '') + '</span></div>';

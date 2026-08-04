@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-08-03 — Sermon notes get their own page, and formatting
+
+**Sermon notes open full width** instead of sharing a cramped tab with the day's
+reflection, with a formatting bar: bold, italic, underline, strikethrough,
+heading, bulleted and numbered lists, quote, six text colours, a yellow
+highlighter, and clear formatting. Title, speaker and passage sit above the
+notes. A back link returns to the calendar.
+
+**Sermon Notes is now its own row in My Stuff**, sitting under Notes. A day can
+hold a reflection and sermon notes at once, and they are different things to go
+looking for — so they list separately. Tapping one opens straight into the
+notes on that day. Removing one leaves the other alone; the day disappears only
+when nothing is left in it.
+
+Notes written before this still open. They were plain text, and they are
+detected and converted rather than shown as one run-on block.
+
+Formatting is stored as markup, which is sanitised both on save and on load —
+only the tags the editor itself produces survive. That is not about a reader
+attacking themselves: **restore reads a file**, and a backup someone was handed
+is untrusted input. The same reasoning now escapes every saved-item label in My
+Stuff, which had been going in raw.
+
 ## 2026-08-03 — The books open at the top, and the newest thing you saved is first
 
 **The library panel opens above the text on a phone.** It is the last element in
