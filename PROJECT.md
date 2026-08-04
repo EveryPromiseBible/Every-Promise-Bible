@@ -497,15 +497,10 @@ Matthew/Mark are near zero **because they were fixed**. Luke/John are untouched.
 
 # Design Guidelines
 
-> **This section describes an existing, deliberate design. Do not redesign. Do not "modernize." Do not add gradients or animation. Change nothing here unless Chris asks.**
+> **This section describes an existing, deliberate design. Do not redesign. Do not "modernize." Do not add a dark mode, gradients, shadows, or animation. Change nothing here unless Chris asks.**
 
-> **Night mode exists as of 2026-08-04, at Chris's request** — this line used to
-> forbid it. It is a variable swap on `body.night`, not a second stylesheet.
-> The 36-colour word palette is **not** edited for it: `optNightPalette()`
-> derives a lighter variant by raising each colour's HSL lightness and leaving
-> hue and saturation alone, so the array keeps its order, its length and the
-> mutual distinctness that hue provides. Measured: 13 of the 36 fall below a
-> 3:1 contrast ratio on the dark background unlightened; 0 do after.
+> Night mode was built on 2026-08-04 and REMOVED the same day: Chris looked at
+> it and did not want it. Do not re-add it speculatively.
 
 ## Colors
 

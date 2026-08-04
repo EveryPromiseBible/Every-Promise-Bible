@@ -1,28 +1,23 @@
 # CHANGELOG
 
-## 2026-08-04 — Options: night mode, reading size and font, and what this is
+## 2026-08-04 — Options, on their own pages
 
-A **☰** beside Journal opens a small panel with three things.
+A **☰** beside Journal opens Options: an index of three, each opening its own
+page rather than everything stacked on one.
 
-**Night mode.** A proper dark theme, not a filter. The 36 word colours are the
-interesting part: they were chosen to be "muted, desaturated, mid-dark, legible
-on white," and 13 of the 36 fall below a 3:1 contrast ratio on a dark
-background — genuinely unreadable. The palette is **not** edited for night; a
-lighter variant is derived from it by raising each colour's lightness and
-leaving hue and saturation alone. Order, length and mutual distinctness all
-survive, because distinctness comes from hue and hue does not move. After
-deriving: 0 of 36 below 3:1, average contrast 9.5.
+**Reading Text** — four sizes and a choice between the modern sans and the
+serif. It applies to the scripture, the hymns and the devotional only, not to
+the navigation or the Greek tags: scaling the chrome along with the text makes a
+phone unusable at the large end, and the Strong'''s line is a label rather than
+something anyone reads at length. Remembered, and carried in your backup file.
 
-**Reading size and font.** Four sizes and a choice between the modern sans and
-the serif. It applies to the scripture, the hymns and the devotional only — not
-to the navigation or the Greek tags. Scaling the chrome along with the text
-makes a phone unusable at the large end, and the Strong's line is a label rather
-than something anyone reads at length.
+**About This Project** — what this is, with the chapter, promise and hymn counts
+read from the data itself rather than written down, so they cannot go stale.
 
-**About this project.** What it is, what it is built on, each source and its
-licence, and a plain statement that nothing you write leaves the device.
+**Sources & Licences** — every source and the terms it comes under.
 
-All three are remembered, and they travel in your backup file.
+Night mode was built earlier today and taken out again the same day. It is not
+coming back speculatively; PROJECT.md records that.
 
 ## 2026-08-03 — Sermon notes get their own page, and formatting
 
