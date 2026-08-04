@@ -2270,7 +2270,7 @@ function renderIntro(idx) {
       <h2>The Mak Translation</h2>
       <div class="intro-sub">An interlinear New Testament &middot; every English word anchored to its Greek word</div>
 
-      <p>This is a thought-for-thought English New Testament laid over the Greek
+      <p>This is a word-for-word English New Testament laid over the Greek
       text of the <strong>SBLGNT</strong>. It is built on one rule: <strong>every English
       word sits on the specific Greek word it came from.</strong> Tap any Greek word and
       the popup tells you what <em>that word</em> means &mdash; not what the sentence
@@ -2309,11 +2309,16 @@ function renderIntro(idx) {
       </div>
 
       <p style="margin-top:18px;">Built with <strong>Claude (Anthropic)</strong>, working
-      against the SBLGNT, MorphGNT, Strong's, Thayer's and Abbott&ndash;Smith. The
-      translation, the tooling that checks it and the full record of every
-      correction are open source, so anything here can be verified rather than
-      taken on trust. As these models improve, the text can be revised again
-      &mdash; the checks that protect the Greek are automated and re-runnable.</p>
+      against the SBLGNT, MorphGNT, Strong's, Thayer's and Abbott&ndash;Smith. As these
+      models improve, the text can be revised again &mdash; the checks that protect the
+      Greek are automated and re-runnable.</p>
+
+      <p><strong>Everything here is open source.</strong> The app, the translations, the
+      lexicons, the hymnal, the tools that assembled every file, and the full commit
+      history recording every correction and the reason for it. Nothing is held back, so
+      anything on this page can be verified rather than taken on trust &mdash;
+      <a href="https://github.com/EveryPromiseBible/Every-Promise-Bible" target="_blank"
+      rel="noopener">read it here</a>.</p>
     </div>`;
 }
 
@@ -4263,10 +4268,14 @@ function optAboutHtml() {
       ['Devotional', optCount(() => DEVOTIONAL.days.length) + ' days']
     ]) +
 
-    '<h3>It is open source</h3>' +
-    '<p>All of it. The code, the data, the tools that built the data, and the commit ' +
-    'history showing every correction and why it was made. Anyone can read it, copy it, ' +
-    'check it, or build something else from it.</p>' +
+    '<h3>Everything here is open source</h3>' +
+    '<p>Not part of it &mdash; <b>all</b> of it. The app you are reading this in. The ' +
+    'translations. The Greek, the morphology and both lexicons. The hymnal. The promises ' +
+    'and the meditations. The tools that assembled every one of those files. And the whole ' +
+    'commit history, which records every correction ever made to the text and the reason ' +
+    'it was made.</p>' +
+    '<p>Anyone can read it, copy it, check it, correct it, or build something else out ' +
+    'of it. Nothing is held back and nothing is hidden behind an account.</p>' +
     '<p>Two licences, because the two halves are different things. The <b>code</b> is ' +
     'MIT &mdash; do what you like with it. The <b>translation and data</b> are CC BY-SA 4.0: ' +
     'free to share and adapt, with attribution, and anything built on it stays as free. ' +
@@ -4274,7 +4283,9 @@ function optAboutHtml() {
     'ShareAlike itself.</p>' +
     '<p>Being open is the point rather than a gesture. A translation that asks you to ' +
     'trust it should let you check it, and the Greek here is verified against its source ' +
-    'mechanically &mdash; word counts compared book by book &mdash; rather than asserted.</p>' +
+    'mechanically &mdash; word counts compared book by book &mdash; rather than asserted. ' +
+    'You do not have to take that on faith either; the check is in the repository with ' +
+    'everything else.</p>' +
     '<p><a href="https://github.com/EveryPromiseBible/Every-Promise-Bible" target="_blank" ' +
     'rel="noopener">github.com/EveryPromiseBible/Every-Promise-Bible</a></p>' +
 
@@ -4290,10 +4301,13 @@ function optAboutHtml() {
 function optTextsHtml() {
   return '<div class="opt-about">' +
     '<h3>The Mak Translation</h3>' +
-    '<p>The interlinear, and the reason the project exists. A grace-centred, ' +
-    'thought-for-thought rendering of the New Testament in readable modern prose &mdash; ' +
-    'but a <i>strict</i> interlinear underneath: no English word floats free of its ' +
-    'Greek.</p>' +
+    '<p><b>A word-for-word rendering of the New Testament</b>, and the reason the project ' +
+    'exists. Every English word is anchored to the Greek word it renders. None floats ' +
+    'free of the text, and nothing is there that the Greek does not carry.</p>' +
+    '<p>That anchoring is the whole promise: tap a word and the lexicon opens on ' +
+    '<i>that</i> word. It is what a concordance or a strong-numbered Bible gives you, ' +
+    'except you do not have to go looking &mdash; the word and its meaning are the same ' +
+    'gesture.</p>' +
     '<p>Each word is a three-line stack &mdash; the English, the Greek it renders, and its ' +
     'Strong&rsquo;s number with the grammar. Words shown in <i>black italic</i> were ' +
     'supplied for the sake of English and have no Greek behind them, so you can always ' +
