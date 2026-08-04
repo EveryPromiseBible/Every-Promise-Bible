@@ -592,6 +592,16 @@
     /* wrap allowed so the added testament control cannot push a button off the
        edge again -- the selects take one line and the buttons the next */
     .bible-toolbar{width:100%;justify-content:space-between;gap:6px;flex-wrap:wrap;}
+    /* On a phone the toolbar takes a full-width row, so anything after it in
+       source order wraps to a line of its own -- which stranded the options
+       mark at the bottom left, under the tools. Ordering the toolbar last puts
+       the logo and the mark together on the first line, mark at the right. */
+    .brand{order:1;}
+    .nav-stack{order:2;}
+    .bible-toolbar{order:3;}
+    /* nav.top-nav is display:none here, so the stack is the mark alone and its
+       column gap would otherwise leave a phantom row of space. */
+    .nav-stack{gap:0;}
     /* Two tidy rows rather than three: the selects share the first, the buttons
        take the second. Basis under half forces exactly two per row. */
     .testament-select{max-width:none;flex:1 1 44%;}
