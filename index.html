@@ -3134,9 +3134,12 @@ loadVerse(anchorIdx());        // set up Promises (2 Corinthians 1:20) for when 
    visits; an even draw across the three SOURCES would recycle the same 31 days
    constantly. These weights give roughly half scripture in the Illumination, a
    third in Mak, and the devotional about one visit in six. */
+/* Scripture still wins the draw -- 5 of 8 -- because that is what this is. The
+   hymnal and the devotional are where a reader wanders, not where they live. */
 const RANDOM_POOL = [
   { tx: 'illum', weight: 3 },
   { tx: 'mak',   weight: 2 },
+  { tx: 'hymn',  weight: 2 },
   { tx: 'dev',   weight: 1 }
 ];
 
@@ -3153,7 +3156,23 @@ function syncModeUI() {
 function openSomewhereRandom() {
   const draw = [];
   RANDOM_POOL.forEach(s => { for (let i = 0; i < s.weight; i++) draw.push(s.tx); });
-  const tx = draw[Math.floor(Math.random() * draw.length)];
+  let tx = draw[Math.floor(Math.random() * draw.length)];
+
+  /* A hymn is not a translation of the bible reader -- it has its own view --
+     so this branch lands the reader somewhere else entirely and returns. If the
+     hymnal has not loaded, fall through to scripture rather than showing an
+     empty page. */
+  if (tx === 'hymn') {
+    const hymns = hyAll();
+    if (hymns.length) {
+      sv('hymns');
+      hyOpen(Math.floor(Math.random() * hymns.length));
+      return;
+    }
+    tx = 'illum';
+  }
+
+  sv('bible');
   switchTranslation(tx);
   if (tx === 'dev') {
     /* From 1, not 0 -- destination 0 is the front matter, which is the same
@@ -4151,9 +4170,12 @@ function hyInit() {
   hyFilter();
 }
 
-openSomewhereRandom();
-sv('bible');
+/* Before openSomewhereRandom, which can land on a hymn and needs the index
+   built to know how many there are and to give the reader prev/next. */
 hyInit();
+/* Sets its own view now: a hymn is not a chapter, so the landing decides
+   whether the reader arrives in the bible or the hymnal. */
+openSomewhereRandom();
 jrInit();
 msInit();
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
