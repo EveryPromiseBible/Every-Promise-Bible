@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 2026-08-04 — Forty-seven promises added from the gospels, Psalms and Isaiah
+## 2026-08-04 — Seventy-one promises added
 
 With the mood tags corrected, the real gaps became visible — and some of them
 were surprising. **Matthew 5:5 was not in the collection.** Neither was *blessed
@@ -11,8 +11,9 @@ yet have believed*.
 They were found by searching the whole KJV for promise grammar — first-person
 divine speech, beatitudes, *whosoever* and *he that* constructions — and
 subtracting every verse already present. That produced **638 candidates**, so
-the number is not the constraint; judgment is. Forty-seven were taken: 24 from
-the four gospels, 12 from the Psalms and 11 from Isaiah.
+the number is not the constraint; judgment is. Seventy-one were taken: 24 from
+the four gospels, 12 from the Psalms, 11 from Isaiah, 15 from Proverbs and 9
+from the epistles and Revelation.
 
 **What was excluded, and why**, since the search is far noisier than its output:
 
@@ -36,12 +37,17 @@ the four gospels, 12 from the Psalms and 11 from Isaiah.
 
 Every verse was taken from `data/kjv.js` **programmatically rather than typed**,
 so a transcription error is not possible, and `tools/kjv.py --verify` confirms
-all 2,069 against the KJV: *match 2069, not found 0, differs 0*.
+all 2,093 against the KJV: *match 2093, not found 0, differs 0*.
+
+**The epistles came back nearly empty**, which is its own result: Romans yielded
+2 candidates and Ephesians 1, and that one was the subscript line at the end of
+the letter. The New Testament letters were already covered. The remaining
+unmined ground is almost entirely the prophets.
 
 | | before | after |
 |---|---|---|
-| Promises | 2,022 | 2,069 |
-| Meditations | 30,330 | 31,035 |
+| Promises | 2,022 | 2,093 |
+| Meditations | 30,330 | 31,395 |
 | Moods | 17 | 17 |
 
 No existing record moved or changed; the additions are appended, and every
