@@ -1,5 +1,40 @@
 # CHANGELOG
 
+## 2026-08-04 — Twenty-eight from the Pentateuch and Joshua, under the new ruling
+
+The first pass to run under the standing ruling on audience, and it changed the
+result substantially: most of what came in was covenant spoken to one named
+person, which the narrower reading had been withholding.
+
+**God found Hagar twice** — a runaway slave woman at a well (Genesis 16:10) and
+a mother who had set her son down to die (21:18) — and made her a promise both
+times. Neither was in the collection. Nor was *as for Ishmael, I have heard
+thee* (17:20), a blessing on the son outside the covenant line. Nor *I will
+bring you up out of the affliction of Egypt* (Exodus 3:17), which is the verse
+the whole exodus rests on.
+
+**A third false-positive class showed up here, distinct from the earlier two:
+human speech.** *I will give thee thy wages* is Pharaoh's daughter. *I will draw
+water for thy camels* is Rebekah. *Appoint me thy wages, and I will give it* is
+Laban. *Ask me never so much dowry* is Shechem, negotiating for Dinah. All match
+the promise pattern perfectly and none of them are God speaking.
+
+**Leviticus returned 18 candidates and yielded one.** Seventeen were ritual
+uncleanness law — *whosoever toucheth... shall be unclean until the even* — and
+the survivor was 20:24, *ye shall inherit their land, and I will give it unto
+you*.
+
+The batch also caught a defect in its own making: the duplicate-meditation guard
+rejected Joshua 8:1 because the same line opened and closed its fifteen. The
+check exists because that is exactly the kind of thing reading does not catch.
+
+| | before | after |
+|---|---|---|
+| Promises | 2,131 | 2,159 |
+| Meditations | 31,965 | 32,385 |
+
+`tools/kjv.py --verify`: *match 2159, not found 0, differs 0*.
+
 ## 2026-08-04 — A standing ruling: whom a promise was spoken to does not limit it
 
 Earlier today's mining pass withheld a class of verses on the ground that they
