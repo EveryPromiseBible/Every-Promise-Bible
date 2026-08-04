@@ -27,16 +27,19 @@ Provision 153→169, Tempted 162→170, Healing 209→218, Angry 109→148. The 
 categories were a *tagging* gap, not a content gap — Matthew 11:28 was not
 tagged Stressed and Psalm 23:1 was not tagged Provision.
 
-**Added 71 promises**, 2,022 → 2,093, with 1,065 new meditations. Found by
+**Added 90 promises**, 2,022 → 2,112, with 1,350 new meditations. Found by
 searching the whole KJV for promise grammar and subtracting every verse already
-present. `tools/kjv.py --verify`: match 2093, not found 0, differs 0.
+present. `tools/kjv.py --verify`: match 2112, not found 0, differs 0.
 
-**Still to mine: ~567 candidates, almost all in the prophets** (Jeremiah 69,
-Ezekiel 61). These need more care per verse than anything done so far: in the
-prophets, restoration and judgment sit side by side in the same voice and the
-same grammar, so the regex cannot separate them and every one must be read in
-context. The gospels, Psalms, Isaiah, Proverbs and the epistles are done; the
-epistles came back nearly empty, meaning they were already covered.
+**Still to mine: ~560 candidates**, now spread across the narrative books
+(Genesis 35, Exodus 31, Leviticus 18, the histories) and second passes over
+Psalms (45), Isaiah (31), Matthew (28) and Luke (29) that the first pass left.
+
+Jeremiah and Ezekiel are **done and were the hardest**: 130 candidates yielded
+19 keeps, because roughly four in five prophetic *I will* statements are
+judgment in the same grammar and the same voice as the promises. The remaining
+narrative books will have the opposite problem — most of their matches are
+covenant spoken to one named person about territory, not promises to a reader.
 
 **The false-positive classes worth remembering**, since they will recur:
 - the psalmist's *vows* (*I will praise*, *I will keep thy statutes*) are not

@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 2026-08-04 — Seventy-one promises added
+## 2026-08-04 — Ninety promises added
 
 With the mood tags corrected, the real gaps became visible — and some of them
 were surprising. **Matthew 5:5 was not in the collection.** Neither was *blessed
@@ -11,9 +11,9 @@ yet have believed*.
 They were found by searching the whole KJV for promise grammar — first-person
 divine speech, beatitudes, *whosoever* and *he that* constructions — and
 subtracting every verse already present. That produced **638 candidates**, so
-the number is not the constraint; judgment is. Seventy-one were taken: 24 from
-the four gospels, 12 from the Psalms, 11 from Isaiah, 15 from Proverbs and 9
-from the epistles and Revelation.
+the number is not the constraint; judgment is. Ninety were taken: 24 from the
+four gospels, 12 from the Psalms, 11 from Isaiah, 15 from Proverbs, 9 from the
+epistles and Revelation, 13 from Jeremiah and 6 from Ezekiel.
 
 **What was excluded, and why**, since the search is far noisier than its output:
 
@@ -37,7 +37,15 @@ from the epistles and Revelation.
 
 Every verse was taken from `data/kjv.js` **programmatically rather than typed**,
 so a transcription error is not possible, and `tools/kjv.py --verify` confirms
-all 2,093 against the KJV: *match 2093, not found 0, differs 0*.
+all 2,112 against the KJV: *match 2112, not found 0, differs 0*.
+
+**The prophets were the hardest and the least productive.** Jeremiah returned 69
+candidates and 13 were kept; Ezekiel returned 61 and kept 6. Roughly four in
+five are judgment in the identical grammar and the identical first-person voice
+— *I will bring a nation upon you from far*, *I will send serpents among you*,
+*I will give this city into the hand of the Chaldeans*. No pattern separates
+those from *I will heal your backslidings* three chapters earlier. Every one had
+to be read in context, which is why this batch is small relative to its pool.
 
 **The epistles came back nearly empty**, which is its own result: Romans yielded
 2 candidates and Ephesians 1, and that one was the subscript line at the end of
@@ -46,8 +54,8 @@ unmined ground is almost entirely the prophets.
 
 | | before | after |
 |---|---|---|
-| Promises | 2,022 | 2,093 |
-| Meditations | 30,330 | 31,395 |
+| Promises | 2,022 | 2,112 |
+| Meditations | 30,330 | 31,680 |
 | Moods | 17 | 17 |
 
 No existing record moved or changed; the additions are appended, and every

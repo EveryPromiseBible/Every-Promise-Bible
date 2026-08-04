@@ -89,7 +89,7 @@ it. Days are narrative prose, read straight through rather than looked up.
 
 ## Around the texts
 
-**Promises** — 2,093 verses, each with 15 short meditations, hand-tagged across
+**Promises** — 2,112 verses, each with 15 short meditations, hand-tagged across
 17 moods so they can be filtered by how a reader is actually feeling. Every
 verse is checked against the KJV rather than trusted: `tools/kjv.py --verify`.
 
@@ -146,7 +146,7 @@ data/illumination.js    the Illumination (66 books)
 data/kjv.js             the Authorized Version, 1769
 data/devotional.js      The Thirteenth Disciple (31 days)
 data/hymns.js           1,323 public-domain hymns
-data/promises.js        2,093 promises, 31,395 meditations
+data/promises.js        2,112 promises, 31,680 meditations
 data/lexicon.js         Strong's / Thayer's — 5,367 entries
 data/thayer.js          the full Thayer's entries
 data/abbott.js          Abbott-Smith — 5,340 entries
