@@ -374,6 +374,8 @@
      same thing twice -- the same reason the Synopsis hides it. */
   body.dev-active #chapterTitle{display:none;}
   @media (max-width:720px){ .dev-title{font-size:1.35em;} }
+  /* Was an inline style on both grids; moved here so the phone can override it. */
+  .lib-grid-tx{grid-template-columns:1fr;max-width:170px;}
   .lib-card{border:1.5px solid var(--line);border-radius:10px;padding:14px;cursor:pointer;background:var(--white);}
   .lib-card:hover{border-color:var(--ink);}
   .lib-card.active{border-color:var(--orange);background:#fff8f4;}
@@ -552,6 +554,19 @@
        display:none until opened, so a closed panel costs nothing. The rule
        moves to the bottom edge because the panel now sits above the text. */
     .side{order:-1;width:100%;border-left:none;border-top:none;border-bottom:1px solid var(--line);}
+    /* Four stacked cards at 85px each, plus group margins and 26px of panel
+       padding, ran to roughly 500px -- so opening the books pushed the chapter
+       most of a screen down. Two columns, tighter cards, and a ceiling with its
+       own scroll: the panel is now a bounded box rather than something the
+       reader has to scroll past. */
+    .side{max-height:58vh;overflow-y:auto;}
+    .lib-grid-tx{grid-template-columns:1fr 1fr;max-width:none;}
+    .side-panel-content{padding:14px 14px 18px;}
+    .lib-group{margin-bottom:16px;}
+    .lib-card{padding:9px 11px;border-radius:8px;}
+    .lswatch{width:14px;height:14px;border-radius:4px;margin-bottom:6px;}
+    .lcode{font-size:0.55em;margin-bottom:2px;}
+    .lname{font-size:0.78em;line-height:1.3;}
     header{padding:12px 16px;} .wordmark{display:none;}
     /* The toolbar is ~436px wide (the chapter select alone is 216) and the
        header has ~358px to give at phone width. It was overflowing, and since
@@ -812,14 +827,14 @@
 
       <div class="side-panel-content" id="tab-library">
         <div class="lib-group"><div class="glabel">translations</div>
-          <div class="lib-grid" style="grid-template-columns:1fr;max-width:170px;">
+          <div class="lib-grid lib-grid-tx">
             <div class="lib-card active" id="txcard-mak" onclick="switchTranslation('mak')"><div class="lswatch" style="background:var(--orange);"></div><div class="lcode">tx.01</div><div class="lname">Mak Translation</div></div>
             <div class="lib-card" id="txcard-illum" onclick="switchTranslation('illum')"><div class="lswatch" style="background:#5a3fa8;"></div><div class="lcode">tx.02</div><div class="lname">Illumination Translation</div></div>
             <div class="lib-card" id="txcard-kjv" onclick="switchTranslation('kjv')"><div class="lswatch" style="background:#1a6fa8;"></div><div class="lcode">tx.03</div><div class="lname">King James Version</div></div>
           </div>
         </div>
         <div class="lib-group"><div class="glabel">devotionals</div>
-          <div class="lib-grid" style="grid-template-columns:1fr;max-width:170px;">
+          <div class="lib-grid lib-grid-tx">
             <div class="lib-card" id="txcard-dev" onclick="switchTranslation('dev')"><div class="lswatch" style="background:#7a5c2e;"></div><div class="lcode">dv.01</div><div class="lname">The Thirteenth Disciple</div></div>
           </div>
         </div>
