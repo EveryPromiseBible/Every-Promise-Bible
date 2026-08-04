@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## 2026-08-03 — The books open at the top, and the newest thing you saved is first
+
+**The library panel opens above the text on a phone.** It is the last element in
+the layout, so once the columns stack it landed below the entire chapter —
+tapping the books button meant scrolling past thousands of words to reach the
+choices. It now sits above the reading column, so the books are where you are
+already looking. The desktop layout is unchanged; the panel stays on the right.
+
+**Newest first.** Bookmarks, notes, highlights and favourites were appended, so
+the thing you had just saved went to the bottom of the list under everything
+older. That is backwards for a list you open to find what you were reading a
+minute ago.
+
 ## 2026-08-03 — A page per category in My Stuff
 
 Opening a category used to unfold it in place, which meant everything else

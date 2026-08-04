@@ -546,7 +546,12 @@
     main{padding:10px 20px 110px;}
     #verseText{font-size:1.7em;}
     .bible-layout{flex-direction:column;}
-    .side{width:100%;border-left:none;border-top:1px solid var(--line);}
+    /* The panel is the last child of .bible-layout, so once the layout stacks
+       it lands below the whole chapter -- thousands of words down. Ordering it
+       first puts the books where the reader is already looking. It stays
+       display:none until opened, so a closed panel costs nothing. The rule
+       moves to the bottom edge because the panel now sits above the text. */
+    .side{order:-1;width:100%;border-left:none;border-top:none;border-bottom:1px solid var(--line);}
     header{padding:12px 16px;} .wordmark{display:none;}
     /* The toolbar is ~436px wide (the chapter select alone is 216) and the
        header has ~358px to give at phone width. It was overflowing, and since
@@ -1167,7 +1172,7 @@ function toggleFav() {
   if (at >= 0) {
     favorites.splice(at, 1);
   } else {
-    favorites.push({ reference: item.reference, verse: item.verse });
+    favorites.unshift({ reference: item.reference, verse: item.verse });   // newest first
   }
   saveStore('favorites', favorites);
   fav = at < 0;
@@ -1633,7 +1638,10 @@ function toggleBookmark(tx, ref, sectionIdx, heading) {
   if (existing >= 0) {
     bookmarks.splice(existing, 1);
   } else {
-    bookmarks.push({ key, tx, ref, sectionIdx, heading });
+    /* Newest first. Appending buries what you just saved under everything
+       older, which is the wrong way round for a list you check to find the
+       thing you were reading a minute ago. */
+    bookmarks.unshift({ key, tx, ref, sectionIdx, heading });
   }
   saveStore('bookmarks', bookmarks);
   renderBookmarksTab();
@@ -1789,7 +1797,7 @@ function saveNote(tx, ref, sectionIdx, heading) {
   } else if (existingIdx >= 0) {
     notes[existingIdx].text = text;
   } else {
-    notes.push({ key, tx, ref, sectionIdx, heading, text });
+    notes.unshift({ key, tx, ref, sectionIdx, heading, text });   // newest first
   }
   saveStore('notes', notes);
   closeNoteModal();
@@ -1880,7 +1888,7 @@ function toggleHighlight(wordKey, chapterIdx, sectionIdx, heading, eng, grk) {
   if (existingIdx >= 0) {
     highlights.splice(existingIdx, 1);
   } else {
-    highlights.push({ key: wordKey, chapterIdx, sectionIdx, ref: CHAPTERS[chapterIdx].ref, heading, eng, grk });
+    highlights.unshift({ key: wordKey, chapterIdx, sectionIdx, ref: CHAPTERS[chapterIdx].ref, heading, eng, grk });  // newest first
   }
   saveStore('highlights', highlights);
   renderHighlightsTab();
@@ -2166,9 +2174,9 @@ function toggleLibrary() {
   const lib = document.getElementById('library');
   const open = lib.classList.toggle('open');
   document.getElementById('libBtn').classList.toggle('active');
-  /* On a phone the layout stacks, so the panel opens BELOW the whole chapter --
-     which can be thousands of words. Tapping the button then looks like it did
-     nothing at all. Bring it into view so the tap has a visible result. */
+  /* On a phone the layout stacks and the panel is ordered above the text, so
+     the choices sit at the top. Scroll there rather than leaving the reader
+     wherever they had got to in the chapter. */
   if (open && window.innerWidth <= 1000) {
     lib.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
@@ -2446,7 +2454,7 @@ function ilHighlightVerse(el, si, vi, ev) {
        anchored to vref, so rewriting the verse cannot move it. grk stays empty
        and is what the list uses to tell a Mak word from a verse. */
     const txt = String(v[1]).replace(/\s+/g, ' ').trim();
-    highlights.push({
+    highlights.unshift({                     // newest first, as elsewhere
       key, tx: currentTx, ref: ilChapter.ref, vref: v[0], sectionIdx: si,
       heading: s.heading || '', eng: txt.length > 110 ? txt.slice(0, 110) + '…' : txt, grk: ''
     });
