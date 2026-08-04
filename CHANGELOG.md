@@ -1,5 +1,44 @@
 # CHANGELOG
 
+## 2026-08-04 — Twenty-four promises added from the gospels
+
+With the mood tags corrected, the real gaps became visible — and some of them
+were surprising. **Matthew 5:5 was not in the collection.** Neither was *blessed
+are they which are persecuted*, nor *well done, good and faithful servant*, nor
+*every one that asketh receiveth*, nor *blessed are they that have not seen, and
+yet have believed*.
+
+They were found by searching the whole KJV for promise grammar — first-person
+divine speech, beatitudes, *whosoever* and *he that* constructions — and
+subtracting every verse already present. That produced **638 candidates**, so
+the number is not the constraint; judgment is. This batch is 24, taken from the
+four gospels.
+
+**What was excluded, and why**, since the search is far noisier than its output:
+
+- **Judgment wearing promise grammar.** *I will bring a nation upon you from
+  far* (Jeremiah 5:15) matches every pattern a promise does.
+- **Commands, not promises.** *Whosoever shall compel thee to go a mile, go with
+  him twain* is an instruction.
+- **Land grants and narrative.** Most of Genesis's *I will* is covenant spoken
+  to one man about territory.
+- **Parallel sayings.** Matthew 10:39 and 16:25 are the same saying twice, as
+  are Mark 8:35, Luke 9:24 and 17:33. One was taken, not five — repeating a
+  saying under five references would pad the count without adding anything.
+
+Every verse was taken from `data/kjv.js` **programmatically rather than typed**,
+so a transcription error is not possible, and `tools/kjv.py --verify` confirms
+all 2,046 against the KJV: *match 2046, not found 0, differs 0*.
+
+| | before | after |
+|---|---|---|
+| Promises | 2,022 | 2,046 |
+| Meditations | 30,330 | 30,690 |
+| Moods | 17 | 17 |
+
+No existing record moved or changed; the additions are appended, and every
+prior entry was asserted byte-identical before writing.
+
 ## 2026-08-04 — Five thin moods retagged
 
 Filtering by mood was returning too little in five places, and the cause turned
