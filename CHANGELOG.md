@@ -1,5 +1,44 @@
 # CHANGELOG
 
+## 2026-08-04 — Five thin moods retagged
+
+Filtering by mood was returning too little in five places, and the cause turned
+out to be tagging rather than content. Matthew 11:28 — *come unto me, all ye
+that labour and are heavy laden* — was not tagged **Stressed**. Psalm 23:1 was
+not tagged **Provision**. The verses were already in the collection, already
+verbatim-checked, already carrying their fifteen meditations; nothing pointed a
+reader to them.
+
+| | before | after |
+|---|---|---|
+| Stressed | 143 | 168 |
+| Provision | 153 | 169 |
+| Tempted | 162 | 170 |
+| Healing | 209 | 218 |
+| Angry | 109 | 143 |
+
+**Every candidate was read, not trusted.** A regex proposed them; on the first
+pass 46% of what it proposed was wrong, so the rest were read one by one. The
+recurring false-positive classes are worth recording, because they will recur:
+
+- **rest** also means rest from enemies (Joshua 21:44), God's dwelling place
+  (Psalm 132:14) and death (Revelation 14:13)
+- **riches** is usually the riches of grace or glory, not provision — that alone
+  accounted for eight verses
+- **wrath** is usually judgment, not the reader's anger
+- **feed** and **give bread** are often commands about an enemy (Romans 12:20),
+  not promises of being fed
+
+Roughly a third of what the regex found was dropped.
+
+Only the `moods` array changed. Reference order, verse text and all fifteen
+meditations per promise were asserted byte-identical before writing — the count
+holds at 2,022 promises and 30,330 meditations across 17 moods.
+
+**This is a tagging pass, not a content pass.** There are far more promises in
+scripture than the 2,022 here; retagging came first because it changes where the
+real gaps are, and a gap measured before tagging is measured wrong.
+
 ## 2026-08-04 — The library panel stops repeating My Stuff
 
 The panel beside the chapter carried six tabs: Library, Bookmarks, Notes,
