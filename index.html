@@ -688,6 +688,8 @@
   .opt-seg button:hover{border-color:var(--sword);color:var(--sword);}
   .opt-seg button.on{background:var(--sword);border-color:var(--sword);color:var(--white);}
   .opt-about{font-size:0.92em;line-height:1.75;color:var(--ink);}
+  .opt-about h3{font-size:1.02em;font-weight:700;margin:30px 0 10px;padding-top:20px;border-top:1px solid var(--line);}
+  .opt-about h3:first-child{margin-top:0;padding-top:0;border-top:none;}
   .opt-about p{margin:0 0 11px;}
   .opt-about a{color:var(--sword);}
   .opt-facts{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;font-family:var(--mono);font-size:0.66em;
@@ -4173,9 +4175,10 @@ function optSet(key, value) {
 let optView = null;
 
 const OPT_PAGES = [
-  ['reading', 'Reading Text', 'Size and font for the scripture, hymns and devotional'],
-  ['about',   'About This Project', 'What this is, and what it holds'],
-  ['sources', 'Sources & Licences', 'Where the text comes from and under what terms']
+  ['reading',      'Reading Text', 'Size and font for the scripture, hymns and devotional'],
+  ['about',        'About This Project', 'What this is, and why it is open'],
+  ['texts',        'The Texts', 'Mak, the Illumination, the KJV and the devotional'],
+  ['sources',      'Sources & Licences', 'Where the text comes from and under what terms']
 ];
 
 function optShow() {
@@ -4215,6 +4218,7 @@ function optBody(id) {
            'navigation or the Greek tags, which stay legible at their own size.</p>';
   }
   if (id === 'sources') return optSourcesHtml();
+  if (id === 'texts') return optTextsHtml();
   return optAboutHtml();
 }
 
@@ -4230,30 +4234,118 @@ function optPaintSegs() {
   seg('optFont', OPT_FONTS, OPT.font, 'font');
 }
 
-/* Counted from the data that is actually loaded rather than written down, so
-   these cannot quietly go stale the way a hardcoded number would. */
+/* Every number on these pages is counted from the data that is actually loaded,
+   never written down. A hardcoded figure is a claim that quietly stops being
+   true the next time the corpus is rebuilt. */
+function optCount(fn) { try { const n = fn(); return n ? n.toLocaleString() : '&mdash;'; } catch (e) { return '&mdash;'; } }
+function optFacts(rows) {
+  return '<div class="opt-facts">' +
+         rows.map(r => '<b>' + r[0] + '</b><span>' + r[1] + '</span>').join('') + '</div>';
+}
+
 function optAboutHtml() {
-  const chapters = (typeof CHAPTERS !== 'undefined') ? CHAPTERS.length : 0;
-  const promises = (typeof PROMISES !== 'undefined') ? PROMISES.length : 0;
-  const rows = [
-    ['Interlinear chapters', chapters ? chapters.toLocaleString() : '&mdash;'],
-    ['Promises', promises ? promises.toLocaleString() : '&mdash;'],
-    ['Hymns', hyAll().length ? hyAll().length.toLocaleString() : '&mdash;']
-  ];
   return '<div class="opt-about">' +
-         '<p><b>Every Promise</b> is a Greek&ndash;English interlinear New Testament. ' +
-         'Every English word is anchored to the Greek word it renders, so tapping one ' +
-         'opens the entry for <i>that</i> word rather than a guess at it.</p>' +
-         '<p>Alongside it: the Illumination Translation and the King James Version across ' +
-         'all 66 books, a promises and meditations layer, a journal with reading plans and ' +
-         'sermon notes, and a public-domain hymnal.</p>' +
-         '<div class="opt-facts">' +
-         rows.map(r => '<b>' + r[0] + '</b><span>' + r[1] + '</span>').join('') +
-         '</div>' +
-         '<p><b>Nothing you write leaves this device.</b> There are no accounts and no ' +
-         'tracking. Highlights, notes and journal entries live in this browser, and ' +
-         '<b>My Stuff</b> will write them to a file you keep.</p>' +
-         '</div>';
+    '<p><b>Every Promise</b> is a Bible built to be two things at once, and both are ' +
+    'required. It has to be <b>easy to read</b> &mdash; can you follow it without stopping? ' +
+    'And every English word has to <b>honestly describe the Greek word beneath it</b>. ' +
+    'A beautiful sentence with the wrong word under it is a broken product, not a ' +
+    'stylistic quibble.</p>' +
+
+    '<p>What that means in practice: tap any word in the interlinear and you get the ' +
+    'lexicon entry for <i>that</i> word. Not the verse, not something near it. The word ' +
+    'you touched.</p>' +
+
+    optFacts([
+      ['Interlinear', optCount(() => CHAPTERS.length) + ' chapters, the whole New Testament'],
+      ['Whole Bible', optCount(() => ILLUMINATION.length) + ' chapters in two more translations'],
+      ['Promises', optCount(() => PROMISES.length) + ' verses, each with meditations'],
+      ['Hymns', optCount(() => hyAll().length) + ' from a public-domain hymnal'],
+      ['Devotional', optCount(() => DEVOTIONAL.days.length) + ' days']
+    ]) +
+
+    '<h3>It is open source</h3>' +
+    '<p>All of it. The code, the data, the tools that built the data, and the commit ' +
+    'history showing every correction and why it was made. Anyone can read it, copy it, ' +
+    'check it, or build something else from it.</p>' +
+    '<p>Two licences, because the two halves are different things. The <b>code</b> is ' +
+    'MIT &mdash; do what you like with it. The <b>translation and data</b> are CC BY-SA 4.0: ' +
+    'free to share and adapt, with attribution, and anything built on it stays as free. ' +
+    'That is required rather than chosen, since the Greek morphology it rests on carries ' +
+    'ShareAlike itself.</p>' +
+    '<p>Being open is the point rather than a gesture. A translation that asks you to ' +
+    'trust it should let you check it, and the Greek here is verified against its source ' +
+    'mechanically &mdash; word counts compared book by book &mdash; rather than asserted.</p>' +
+    '<p><a href="https://github.com/EveryPromiseBible/Every-Promise-Bible" target="_blank" ' +
+    'rel="noopener">github.com/EveryPromiseBible/Every-Promise-Bible</a></p>' +
+
+    '<h3>Nothing you write leaves this device</h3>' +
+    '<p>There are no accounts, no sign-in, no analytics and no tracking. Your highlights, ' +
+    'notes, journal entries and sermon notes are held by this browser and go nowhere else. ' +
+    'That also means nobody else is keeping them safe for you &mdash; <b>My Stuff</b> will ' +
+    'write everything to a file you keep, and that file is the only copy that survives ' +
+    'clearing your browser or changing phones.</p>' +
+    '</div>';
+}
+
+function optTextsHtml() {
+  return '<div class="opt-about">' +
+    '<h3>The Mak Translation</h3>' +
+    '<p>The interlinear, and the reason the project exists. A grace-centred, ' +
+    'thought-for-thought rendering of the New Testament in readable modern prose &mdash; ' +
+    'but a <i>strict</i> interlinear underneath: no English word floats free of its ' +
+    'Greek.</p>' +
+    '<p>Each word is a three-line stack &mdash; the English, the Greek it renders, and its ' +
+    'Strong&rsquo;s number with the grammar. Words shown in <i>black italic</i> were ' +
+    'supplied for the sake of English and have no Greek behind them, so you can always ' +
+    'see what came from the text and what did not.</p>' +
+    '<p>The words sit in <b>English</b> order rather than Greek order, which is what makes ' +
+    'it readable. The Greek order is recoverable from the tags, and what must never change ' +
+    'is that every Greek word appears exactly once.</p>' +
+    optFacts([
+      ['Scope', 'The New Testament, ' + optCount(() => CHAPTERS.length) + ' chapters'],
+      ['Greek', 'SBLGNT, reproduced word for word'],
+      ['Reading', 'Study mode shows the Greek; Read mode hides it for plain prose']
+    ]) +
+
+    '<h3>The Illumination Translation</h3>' +
+    '<p>A different job entirely. Where Mak is anchored to the Greek word by word, the ' +
+    'Illumination is <b>free prose</b> &mdash; a loose, thought-for-thought paraphrase of ' +
+    'the whole Bible in original modern English, composed from the public-domain 1769 ' +
+    'Authorized Version.</p>' +
+    '<p>It is built for the reader who finds older translations hard going: long passages ' +
+    'with no signposts, sentences whose shape has drifted out of modern English. So it is ' +
+    '<b>organised by subject</b>. Every chapter carries a title, every section a heading, ' +
+    'and the verses are grouped into blocks of a single thought rather than chopped into ' +
+    'numbered fragments &mdash; you read a paragraph, not a list. Each book opens with a ' +
+    'synopsis of its own.</p>' +
+    optFacts([
+      ['Scope', optCount(() => ILLUMINATION_BOOKS.length) + ' books &mdash; the whole Bible, Old and New'],
+      ['Chapters', optCount(() => ILLUMINATION.length)],
+      ['Sections', optCount(() => ILLUMINATION.reduce((n, c) => n + c.sections.length, 0)) + ' with their own headings'],
+      ['Verse blocks', optCount(() => ILLUMINATION.reduce((n, c) => n + c.sections.reduce((m, s) => m + s.verses.length, 0), 0))],
+      ['Synopses', optCount(() => Object.keys(ILLUMINATION_INTROS).length) + ', one per book']
+    ]) +
+    '<p><b>Worth knowing about its text.</b> Because it was composed from the 1769 ' +
+    'Authorized Version, it follows the Greek text the King James translators used. The ' +
+    'Mak interlinear follows the SBLGNT, a modern critical edition. The two differ in a ' +
+    'handful of well-known places, so a verse can read slightly differently here than it ' +
+    'does in the interlinear. That is a difference of underlying manuscripts, not of ' +
+    'anyone&rsquo;s carelessness.</p>' +
+
+    '<h3>The King James Version</h3>' +
+    '<p>The Authorized Version of 1769, unedited. It is here so the older wording is ' +
+    'always a tap away &mdash; and so the Illumination can be read against the text it was ' +
+    'made from.</p>' +
+
+    '<h3>The Thirteenth Disciple</h3>' +
+    '<p>Not a translation but a devotional: <i>a gospel narrative in thirty-one days</i>, ' +
+    'walking beside Jesus from the Jordan to the Ascension. Each day carries the harmony ' +
+    'of gospel passages it draws on, so you can go and read the accounts it is retelling.</p>' +
+    optFacts([
+      ['Length', optCount(() => DEVOTIONAL.days.length) + ' days'],
+      ['Shape', 'A narrative, read straight through rather than looked up']
+    ]) +
+    '</div>';
 }
 
 function optSourcesHtml() {
