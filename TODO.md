@@ -20,6 +20,35 @@ Build a Bible that is **two things at once**, both required:
 
 ---
 
+## ✅ Recently completed — 2026-08-04, the promises pass
+
+**Retagged five thin moods** (+92 tags, no content changed): Stressed 143→168,
+Provision 153→169, Tempted 162→170, Healing 209→218, Angry 109→148. The thin
+categories were a *tagging* gap, not a content gap — Matthew 11:28 was not
+tagged Stressed and Psalm 23:1 was not tagged Provision.
+
+**Added 71 promises**, 2,022 → 2,093, with 1,065 new meditations. Found by
+searching the whole KJV for promise grammar and subtracting every verse already
+present. `tools/kjv.py --verify`: match 2093, not found 0, differs 0.
+
+**Still to mine: ~567 candidates, almost all in the prophets** (Jeremiah 69,
+Ezekiel 61). These need more care per verse than anything done so far: in the
+prophets, restoration and judgment sit side by side in the same voice and the
+same grammar, so the regex cannot separate them and every one must be read in
+context. The gospels, Psalms, Isaiah, Proverbs and the epistles are done; the
+epistles came back nearly empty, meaning they were already covered.
+
+**The false-positive classes worth remembering**, since they will recur:
+- the psalmist's *vows* (*I will praise*, *I will keep thy statutes*) are not
+  God's promises — 21 dropped on this ground alone
+- Psalm 10:6 and 30:6 (*I shall never be moved*) are the **complacent speaking**;
+  lifted out of context they read as promises and are the opposite
+- *riches* usually means the riches of grace, not provision
+- *wrath* usually means judgment, not the reader's anger
+- in Proverbs, most matches are warnings whose second clause is the threat
+
+---
+
 ## 🔴 P0 — Do this first
 
 ### [~] Audit Matthew + Mark for gloss drift — **Matthew DONE, Mark next**
