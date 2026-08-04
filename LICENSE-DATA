@@ -1,12 +1,22 @@
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 — for the TRANSLATION and BIBLICAL DATA in this repository
 
-This covers the Mak Translation and everything in data/:
-    data/chapters.js     the interlinear New Testament
-    data/lexicon.js      the assembled Strong's / Thayer's entries
-    data/abbott.js       the assembled Abbott-Smith entries
-    data/promises.js     the promises and meditations
-    data/wordcounts.js   the generated word-count table
+This covers the original writing and everything in data/:
+    data/chapters.js       the Mak Translation, the interlinear New Testament
+    data/illumination.js   the Illumination Translation, all 66 books
+    data/devotional.js     The Thirteenth Disciple, a 31-day narrative
+    data/promises.js       the promises and meditations
+    data/lexicon.js        the assembled Strong's / Thayer's entries
+    data/thayer.js         the full Thayer's entries
+    data/abbott.js         the assembled Abbott-Smith entries
+    data/wordpictures.js   the word pictures
+    data/commentary.js     the commentary notes
+    data/wordcounts.js     the generated word-count table
+
+Two files in data/ are public-domain works reproduced rather than authored, and
+this licence adds no claim over them:
+    data/kjv.js            the Authorized Version, 1769
+    data/hymns.js          The Christian Hymn Book, Cincinnati 1870
 
 The software is licensed separately under the MIT License — see LICENSE.
 

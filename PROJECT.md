@@ -1,7 +1,14 @@
 # PROJECT.md — Every Promise
 
 > Complete developer handoff. Written for an AI agent with no access to prior conversations.
-> **File:** `every_promise_site.html` — 7.5 MB, single file, zero build step, zero dependencies. Open it in a browser and it runs.
+> **App:** `index.html` — ~230 KB, no framework, no build step, no dependencies.
+> **Data:** `data/*.js` — ~27 MB across twelve files, loaded by `<script src>`.
+> Serve the directory and open it; do not double-click `index.html`, because the
+> data loads from a subdirectory and some browsers block that on `file://`.
+
+> **Last full doc refresh: 2026-08-04.** Sections below marked with a date were
+> rewritten then. If you find a claim that contradicts the code, trust the code
+> and fix the line — a handoff document that lies is worse than none.
 
 ---
 
@@ -11,7 +18,11 @@
 
 **Every Promise** is a single-file web application containing a **Greek–English interlinear New Testament**. It is not a conventional Bible app. Its defining feature is that **every English word is anchored to a specific Greek word from the SBLGNT** (SBL Greek New Testament), and clicking any word opens its Strong's/Thayer's and Abbott–Smith lexicon entries.
 
-The English is an **original paraphrase** called the **"Mak Translation"** (`tx.01` in the UI). It is grace-centered and thought-for-thought — readable modern prose, not a wooden gloss. But it is simultaneously a *strict interlinear*: no English word floats free of its Greek.
+The English is original work called the **"Mak Translation"** (`tx.01` in the UI). It is described as **word-for-word**: every English word sits on the specific Greek word it came from. It is grace-centered and reads as modern prose rather than a wooden gloss, but the anchoring is the point — no English word floats free of its Greek.
+
+> The app said "thought-for-thought" until 2026-08-04, when Chris changed it to word-for-word in both places a reader meets the claim. "Word-for-word" here means the ANCHORING, not Greek syntax: the English is still arranged in English order. Do not let the phrase tempt you into re-ordering anything toward Greek.
+
+**It is no longer only an interlinear.** Three more texts ship alongside it — see *The four texts* below.
 
 The rendering makes this visible. Each word appears as a vertical three-line stack:
 
@@ -47,70 +58,80 @@ Around the interlinear sits a devotional layer: a promises/meditations engine, a
 | Chapters | **260** |
 | Word units | **117,353** |
 | Greek tokens | **137,554** |
-| Strong's/Thayer's entries | **5,357** |
-| Abbott–Smith entries | **5,339** |
-| Promise verses | **329** (15 meditations each) |
+| Strong's/Thayer's entries | **5,367** |
+| Abbott–Smith entries | **5,340** |
+| Promise verses | **2,022** (15 meditations each, 17 moods) |
 
-Books present: **the complete New Testament — Matthew (28), Mark (16), Luke (24), John (21), Acts (28), Romans (16), 1 Corinthians (16), 2 Corinthians (13), Galatians (6), Ephesians (6), Philippians (4), Colossians (4), 1 Thessalonians (5), 2 Thessalonians (3), 1 Timothy (6), 2 Timothy (4), Titus (3), Philemon (1), Hebrews (13), James (5), 1 Peter (5), 2 Peter (3), 1 John (5), 2 John (1), 3 John (1), Jude (1), Revelation (22).** All 27 books, in canonical order. The corpus is complete.
+All 27 books, in canonical order. **The corpus is complete** and has been since
+2026-07-31.
+
+### The four texts *(rewritten 2026-08-04)*
+
+| | UI code | What it is | Scope |
+|---|---|---|---|
+| **Mak Translation** | `tx.01` | The word-for-word interlinear. Every English word anchored to its Greek. | NT — 260 chapters, 1,190 sections, 117,353 units |
+| **Illumination** | `tx.02` | Free prose paraphrase of the whole Bible, composed from the 1769 AV. Organised by subject. | 66 books, 1,189 chapters, 5,282 sections, 9,031 verse blocks, 66 synopses |
+| **King James** | `tx.03` | The Authorized Version, 1769, unedited. | 66 books, 1,189 chapters |
+| **The Thirteenth Disciple** | `dv.01` | A devotional narrative, not a translation. 31 days, Jordan to Ascension, ~32,000 words. Each day names the gospel harmony it retells. | 31 days |
+
+**The Illumination follows a different Greek text than Mak does.** It descends
+from the 1769 AV and so follows the tradition behind it; Mak follows SBLGNT. They
+differ in a handful of well-known places. This is disclosed to readers in
+Options → The Texts and in CREDITS.md. It is not a defect and must not be
+"fixed."
+
+**Only Mak has word-level Greek anchoring.** Every check in `tools/` that
+protects the Greek applies to Mak alone. The Illumination has no alignment data
+to check, and inventing some would be worse than having none.
 
 ### Greek accuracy — verified against SBLGNT
 
-Every chapter was checked word-by-word against **MorphGNT/SBLGNT** (`github.com/morphgnt/sblgnt`).
+Every chapter checked word-by-word against **MorphGNT/SBLGNT**
+(`github.com/morphgnt/sblgnt`). `tools/wordcounts.py` regenerates the proof table
+shown above Matthew 1.
 
-| Book | Discrepant words |
+**All 27 books match: 137,554 Greek tokens here, 137,554 in SBLGNT.** No word
+added, removed, or moved between chapters. The four long-standing Romans
+discrepancies were closed on 2026-07-30 — see CHANGELOG.
+
+### Readability — all books read as English
+
+Every book has had a full prose pass and a full placement audit: 260 chapters,
+1,190 sections, every unit read as a Greek/English pair. The "wooden" bands that
+earlier versions of this document listed for Luke, John and Acts are gone.
+
+That does **not** mean the prose is finished. One full pass has been made, and a
+second reading would find more — see *Honest limitations* in README.md.
+
+## What is currently being worked on *(2026-08-04)*
+
+**No translation work is outstanding.** Recent sessions have been product work:
+the Android wrapper, backup and restore, the hymnal, the options pages.
+
+## Everything once listed here as unbuilt is now built
+
+For a future session that finds an older copy of this file — these were all
+listed as placeholders or inert:
+
+| Was | Now |
 |---|---|
-| Matthew | **0** |
-| Mark | **0** |
-| Luke | **0** |
-| John | **0** |
-| Acts | **0** |
-| **Romans** | **4** |
-| 1 Corinthians | **0** |
-
-The 4 in Romans: ch3 `ὁ`→`ὄν`, ch8 `τὸν`→`τὸ`, ch13 `τὸν`→`τὸ`, ch15 `οὖν`→`οὐ`. All single-letter article/pronoun slips; none change meaning.
-
-**This started at 11 and is now 4.** The fixes were not simple substitutions — in each case a word was *absent* at one site and *spurious* at another (e.g. Matthew 7:9 was missing `ὃν` and `ἢ` entirely, while 7:28 had a duplicate `ὁ` and a spurious `ἦν`).
-
-### Readability — which books read as English
-
-| Book | Chapters | Units | State |
-|---|---|---|---|
-| **Matthew** | 1–28 | 14,699 | **done** |
-| **Mark** | 1–16 | 9,566 | **done** |
-| **Luke** | 1–5, most of 6 | ~4,100 / 17,904 | **in progress** |
-| Romans | 1–16 | 5,334 | good — was already |
-| 1 Corinthians | 1–16 | 5,664 | good — was already |
-| Acts | 13–28 | ~8,000 | good — was already |
-| **Luke** | 6 (last sec) – 24 | ~13,800 | **wooden** |
-| **John** | 1–21 | 15,094 | **wooden** |
-| **Acts** | 1–12 | ~8,000 | **wooden** |
-
-### Other completed work
-
-- **Capitalization pass** — Romans, 1 Cor, Acts, Matthew. Was 56%/97%/87%/21% lowercase sentence-starts; now ~0.
-- **Greek leaks cleared** — raw Greek was rendering *on the English line* in Matthew 6–7 (11 instances). 10 fixed; 1 remains (see Known Issues).
-- **Romans prose repair** — 16 broken sentences, including Romans 6:3–4 (baptism passage, was two fragments) and Romans 16:4 (**meaning was inverted**: "all but the churches" → "but all the churches").
-- **Romans 2 §1 voice rewrite** — 144 units re-authored.
-- **John 1:1 doctrinal fix** — read **"and God was the Word."** The Greek `καὶ θεὸς ἦν ὁ λόγος` has `ὁ λόγος` articular (subject), `θεὸς` anarthrous (predicate). The reversal makes the terms convertible = modalism. Now reads **"and the Word was God."**
-- **Luke 3:23 — restored a missing generation.** See "The Critical Bug" below.
-
-## What is currently being worked on
-
-**Luke, chapter by chapter, in canonical order.** Chapters 1–5 done; chapter 6 done through section 3 of 5. Next up: Luke 6 §4 ("The Tree and Its Fruit, the House and Its Foundation", 234 units).
+| Prayer view — placeholder | Replaced by **Hymns**: 1,323 public-domain hymns, searchable |
+| Journal view — placeholder | Calendar, six reading plans, daily reflection, sermon notes with formatting |
+| My Stuff view — placeholder | Highlights, notes, bookmarks, journal, favourites, meditations — a page each, plus backup and restore |
+| Favorites + History tabs — no logic | Working, and moved into My Stuff |
+| Search — inert | Working, indexes every translation |
+| Mood filtering — data unused | Working, 17 moods |
+| Rest of the NT — 20 books missing | Complete, all 27 |
 
 ## What still needs to be built
 
-1. **Luke 6 §4 → Luke 24** (~13,800 units)
-2. **John 1–21** (15,094 units) — roughest book remaining
-3. **Acts 1–12** (~8,000 units)
-4. **Matthew + Mark gloss audit** (see Known Issues — this may be more urgent than #1)
-5. Prayer view — placeholder only
-6. Journal view — placeholder only
-7. My Stuff view — placeholder only
-8. Search, Listen/TTS, Home buttons — rendered but inert
-9. Favorites + History tabs — hardcoded empty states, no logic
-10. Share button — inert
-11. Cross-references — built, disabled behind `SHOW_CROSSREF = false`
+1. **Listen / TTS** — button rendered, still inert
+2. **Share** — button rendered, still inert
+3. **Home button** — rendered, still inert
+4. **Cross-references** — built, disabled behind `SHOW_CROSSREF = false`. The full
+   corpus now exists, so the original blocker is gone; it needs retuning against
+   full-corpus word frequency and testing.
+5. **Play listing screenshots** — still show the retired Flutter app.
 
 ---
 
@@ -118,35 +139,56 @@ The 4 in Romans: ch3 `ὁ`→`ὄν`, ch8 `τὸν`→`τὸ`, ch13 `τὸν`→
 
 ## Top-level shape
 
-One file. No bundler, no framework, no npm, no server. **Vanilla HTML + CSS + ES6.** Data is inlined as JavaScript object literals. Open the file → it works. Any build step would be a regression.
+No bundler, no framework, no npm, no server. **Vanilla HTML + CSS + ES6.** Serve
+the directory and it works. Any build step would be a regression.
+
+**It is no longer one file.** The app was a single ~7.5 MB HTML document; the
+data now lives in `data/*.js`, each loaded by an ordinary `<script src>` before
+the application code. This is what makes 27 MB of corpus survivable: the browser
+caches each file separately, and the service worker can revalidate the small,
+often-changed `index.html` while serving the huge, rarely-changed data from cache.
 
 ```
-every_promise_site.html   (873 lines, 7.5 MB)
+index.html                (~230 KB — the entire app)
 ├── <head>
-│   ├── Google Fonts <link>          (the ONLY external request)
-│   └── <style>                       lines ~9–228
+│   ├── fonts + manifest + theme-color
+│   └── <style>                        one block, ~700 lines
 ├── <body>
-│   ├── <header>                      brand, top nav, bible toolbar
-│   ├── <main>                        #view-promises, #view-meditate
-│   ├── #view-bible                   (OUTSIDE <main> — full-width layout)
-│   ├── #view-mystuff / #view-prayer / #view-journal   (placeholders)
-│   ├── .bnav                         mobile bottom nav
-│   ├── #defOverlay                   lexicon modal
-│   ├── #noteOverlay                  note modal
-│   └── <script>                      lines ~377–871
-│       ├── PALETTE                   line 377
-│       ├── const CHAPTERS = [...]    LINE 378  ← 4 MB
-│       ├── const LEXICON  = {...}    LINE 379  ← 1 MB
-│       ├── const PROMISES = [...]    LINE 380  ← 270 KB
-│       ├── const ABBOTT   = {...}    LINE 381  ← 2.2 MB
-│       └── application code          lines 382–871
+│   ├── <header>          brand · bible toolbar · nav-stack (tabs + options mark)
+│   ├── <main>            #view-promises, #view-meditate      ← ONLY these two
+│   ├── #view-bible       outside <main>, full-width layout
+│   ├── #view-mystuff     index + a page per category
+│   ├── #view-hymns       index + reader          (was #view-prayer)
+│   ├── #view-options     index + a page per topic
+│   ├── #view-journal     calendar + panel, and the sermon-notes page
+│   ├── .bnav             mobile bottom nav — five tabs, ends on Journal
+│   ├── #defOverlay       lexicon modal
+│   └── #noteOverlay      note modal
+└── <script src="data/*.js"> ×12, then the application code
+
+data/   chapters.js 5.4 MB · illumination.js 4.8 MB · kjv.js 4.4 MB
+        thayer.js 5.0 MB · abbott.js 2.5 MB · promises.js 1.5 MB
+        wordpictures.js 1.4 MB · lexicon.js 1.2 MB · hymns.js 1.1 MB
+        devotional.js 230 KB · commentary.js 16 KB · wordcounts.js 1 KB
 ```
 
-> ⚠️ **The four data blobs are each exactly ONE LINE.** Line numbers are 1-indexed 378–381 = **0-indexed 377–380**. Every tool in this project depends on that. **Never pretty-print them.** A formatter would explode the file to millions of lines and break every script.
+> ⚠️ **Each data file's payload is exactly ONE LINE.** `const CHAPTERS = [...]`
+> and its siblings are single lines, and the Python tools rewrite them by
+> replacing that line wholesale:
+> ```python
+> lines[i] = 'const CHAPTERS = ' + json.dumps(ch, ensure_ascii=False) + ';'
+> ```
+> **Never pretty-print them.** A formatter would explode each file to millions of
+> lines and break every tool that touches it.
+
+> ⚠️ **`<main>` holds only promises and meditate.** Every other view sits outside
+> it for full-width layout — and an empty `<main>` still carries its padding, so
+> `sv()` hides it when the active view is not inside it. Removing that puts a
+> 130 px band of nothing above five of the seven views.
 
 ## Data schemas
 
-### `CHAPTERS` — array of 149
+### `CHAPTERS` — array of 260   *(the Mak Translation)*
 
 ```js
 {
@@ -206,7 +248,7 @@ Clicking shows **both** lexicon entries stacked, separated by `.def-divider`.
 ```
 Senses render as a collapsible accordion; `renderSubsenses()` recurses.
 
-### `PROMISES` — array of 329
+### `PROMISES` — array of 2,022
 
 ```js
 {
@@ -217,9 +259,90 @@ Senses render as a collapsible accordion; `renderSubsenses()` recurses.
 }
 ```
 
-**16 moods, hand-tagged:** Anxious (87), Overwhelmed (35), Stressed (30), Lonely (36), Waiting (51), Peaceful (78), Encouraged (132), Broken (67), Hopeful (112), Confused (61), Tired (31), Sick (30), Grateful (113), Joyful (32), Tempted (29), Angry (22).
+**17 moods, hand-tagged.** Mood filtering is live — the data is used, not
+waiting. Favourites and custom meditations key on `reference`, never on index:
+PROMISES has grown 329 → 1,005 → 1,522 → 2,022, and anything index-keyed
+silently re-points to a different verse on every rebuild.
 
-> **`moods` is fully populated but NOT USED by any code.** It's built and waiting. Mood-based filtering is the obvious next feature and the data is ready.
+### `ILLUMINATION` — array of 1,189   *(added 2026-08-04)*
+
+Three consts in `data/illumination.js`, all one line each:
+
+```js
+const ILLUMINATION_BOOKS  = [ { name:"Genesis", order:1, testament:"OT", chapters:50 }, ... ]  // 66
+const ILLUMINATION_INTROS = { "Genesis": <synopsis>, ... }                                     // 66
+const ILLUMINATION = [
+  {
+    ref: "Galatians 5",                  // "{Book} {chapter}"
+    title: "Freedom, the Spirit, and the Fruit",
+    sections: [
+      {
+        heading: "Keep in Step",
+        verses: [ ["5:25–26", "Since we live in the Spirit, ..."] ]   // [ref, text]
+      }
+    ]
+  }
+]
+```
+
+**A verse block is a THOUGHT, not a verse.** `"5:25–26"` is one entry holding
+both verses, because the paraphrase renders them as a single sentence. Never
+assume one block equals one verse.
+
+The KJV in `data/kjv.js` uses the **same shape** (`KJV_BOOKS`, `KJV`), which is
+why both are driven by one reader through the `CORPUS` registry. `KJV` has no
+intros; `title` and `heading` are empty strings there.
+
+### `DEVOTIONAL` — object   *(added 2026-08-04)*
+
+```js
+{
+  title: "The Thirteenth Disciple",
+  subtitle: "A Gospel Narrative in Thirty-One Days",
+  front: [ {k, t}, ... ],          // front matter, destination 0
+  days: [
+    {
+      n: 1,
+      title: "Come and See",
+      harmony: "John 1:19-51",     // the gospel passages this day retells
+      opening: [ ... ],            // the short italic block
+      body: [ {k, t}, ... ]        // k: p prose · q quote · attr · h heading
+    }
+  ]
+}
+```
+
+Destination 0 is the front matter, not a reading — `openSomewhereRandom()` draws
+from `1 + random(days.length)` for exactly that reason.
+
+### `HYMNS` — object   *(added 2026-08-03)*
+
+```js
+{
+  source: "The Christian Hymn Book, Cincinnati 1870 (Project Gutenberg 46041). Public domain.",
+  hymns: [
+    {
+      n: 261,                       // the hymnal's own number
+      title: "Rock of ages, cleft for me",   // THE FIRST LINE, not a name
+      author: "Toplady",
+      meter: "7s, 6 lines",
+      theme: "And that rock was Christ",     // the scripture heading
+      ref: "1 Cor. 10:4",
+      verses: [ ["line", "line", ...], ... ]
+    }
+  ]
+}
+```
+
+**`title` is the first line.** The hymnal heads each hymn with a scripture theme
+rather than a name — the one everyone calls "Rock of Ages" is headed *"And that
+rock was Christ."* First lines are how hymnals index and how a reader looks one
+up. Regenerate with `tools/hymns_build.py`; do not hand-edit.
+
+### Reader settings — `everypromise_settings`
+
+`{ size, font }` — the reading scale and face. Written by `optSet()`, applied by
+`applySettings()` **before first render**, and carried in the backup file.
 
 ## JavaScript
 
@@ -309,91 +432,107 @@ Only one media query: `@media(max-width:1000px)` — hides top nav, shows `.bnav
 
 # Features
 
-## Currently working
+## Currently working *(rewritten 2026-08-04)*
 
 ### Promises (landing view)
-- Verse of the day — random from 329 on load
-- **Shuffle** — new random verse (guards against repeat)
+- Verse of the day — drawn from 2,022; **2 Corinthians 1:20 is the anchor**, shown on every load rather than a random pick
+- **Shuffle** — new verse, from a shuffled deck rather than repeated random draws
 - **Meditate** — opens the meditation stepper
-- **Favorite** — heart toggle, **in-memory only, resets on reload**
-- Share button — **inert**
+- **Favourite** — heart toggle, **persisted**, keyed on the verse reference
+- **Mood filter** — 17 moods, live
 
 ### Meditate
 - 15 meditations per verse, one at a time, large type
 - Prev/Next with disabled states at bounds
-- Dot indicator — click to jump; active dot elongates; **blue dot = user-added**
-- **Add your own** — appends to session list. **Not persisted.**
-- Back to promises
+- Dot indicator — click to jump; blue dot = user-added
+- **Add your own** — **persisted**, keyed on reference, removable
 
 ### Bible (the core)
-- Chapter `<select>` — all 149, grouped by `<optgroup>` per book
-- Three-line word stacks, 36-color cycling per section
-- **Click any word → lexicon modal** with Strong's + Abbott–Smith
-- Multi-token units show all entries stacked
-- Abbott–Smith senses as recursive collapsible accordion
-- **Study/Read toggle** — Read hides Greek+tags, gives clean prose
-- **Highlight mode** — toolbar pencil; click words to highlight (yellow `#fdf0b8`); persists
-- **Section bookmark** — icon per section heading; persists
-- **Section notes** — modal textarea; persists; delete supported
-- Library side panel — six tabs; auto-opens >1000px
-- Esc closes lexicon modal
-- Click-outside closes modals
+- Four texts through one toolbar: Mak, Illumination, KJV, devotional
+- Testament filter for the two whole-Bible texts; hidden for Mak, which is NT only
+- Three-line word stacks, 36-colour cycling per section
+- **Tap any word → lexicon modal** with Strong's + Abbott–Smith
+- **Study/Read toggle** — Read hides Greek and tags for clean prose
+- **Highlight mode** — works in Study *and* Read; whole-verse highlighting in the Illumination
+- **Section bookmark and notes** — on Mak sections and on Illumination/KJV headings; visible in both modes
+- Search across every translation at once
+- Library side panel — **the library only**; auto-opens >1000px, closes on a pick at phone width
 
-### Library tabs
-| Tab | State |
-|---|---|
-| Library | Static cards: Mak Translation (tx.01), Strong's+Thayer's (ref.01), Study Notes (ref.02), Gutenberg (an.01), Luther (an.02). **Only tx.01 + ref.01 are real.** |
-| Bookmarks | **Working** — list, jump, remove |
-| Notes | **Working** — list, jump, remove |
-| Favorites | **Empty state only — no logic** |
-| Highlights | **Working** — list, jump, remove |
-| History | **Empty state only — no logic** |
+### My Stuff
+- Index of counts, each opening its own page: highlights, notes, sermon notes, bookmarks, journal entries, favourites, meditations, chapters visited, moods
+- Every item jumps to the **exact** word or verse and flashes it
+- Remove from the page
+- **Backup and restore** to a `.json` the reader keeps, with a "last backup" nudge
+- Asks the browser for persistent storage
+
+### Journal
+- Month calendar; markers for reading due and days written on
+- Six reading plans, computed from the corpus rather than hard-coded
+- Daily reflection, and **sermon notes on their own page** with a formatting bar
+
+### Hymns
+- 1,323 hymns, indexed by first line, searchable across text, author, theme and metre
+- Previous/next follow the search, not the hymnal
+
+### Options
+- Reading size and font (reading surfaces only), About, The Texts, Sources & Licences
 
 ### Responsive
-- <1000px: bottom nav, stacked layout, smaller type
+- <1000px: bottom nav (five tabs, ends on Journal), stacked layout, options mark top-right in the header, library panel above the text and capped at 58vh
 
-## Planned / stubbed
+
+## Planned / stubbed *(rewritten 2026-08-04)*
 
 | Feature | Status |
 |---|---|
-| Mood filtering | **`moods` data is complete and unused. Lowest-hanging fruit in the codebase.** |
-| Cross-references | Built, `SHOW_CROSSREF = false`, awaiting full NT |
-| Prayer view | Placeholder |
-| Journal view | Placeholder — "yearly themes and reflection" |
-| My Stuff view | Placeholder |
-| Search | Button rendered, inert |
-| Listen / TTS | Button rendered, inert |
-| Home button | Button rendered, inert |
-| Favorites persistence | Tab exists, no code |
-| History tracking | Tab exists, no code |
-| Share | Button rendered, inert |
-| Study Notes (ref.02) | Card exists; `section.notes` array exists and is empty everywhere |
+| Listen / TTS | Button rendered, **inert** |
+| Share | Button rendered, **inert** |
+| Home button | Button rendered, **inert** |
+| Cross-references | Built, `SHOW_CROSSREF = false`. The full-NT blocker is gone; needs retuning against full-corpus frequency |
+| Study Notes (`ref.02`) | Card exists; `section.notes` is present on every section and empty everywhere |
 | Antique facsimiles | Cards exist, nothing behind them |
-| Rest of NT | 20 books not yet present |
+| Play listing screenshots | Still show the retired Flutter app |
+
+Everything else this table used to list — mood filtering, Prayer, Journal, My
+Stuff, Search, favourites, history, the missing 20 books — is **built**. See
+*Everything once listed here as unbuilt is now built* above.
 
 ---
 
-# Current Priorities
+# Current Priorities *(rewritten 2026-08-04)*
 
-**In order:**
+**The translation work is done.** Every priority this section used to list —
+audit Matthew and Mark, finish Luke, John, Acts 1–12, mood filtering, favourites
+and history — is complete. The placement audit closed on 2026-07-31 across all
+27 books, and the four Romans Greek discrepancies closed on 2026-07-30.
 
-### 1. Audit Matthew + Mark for gloss drift — DO THIS FIRST
+What is worth doing next, in rough order:
 
-44 chapters were completed **before** pair-checking was adopted. Drifted glosses may be sitting there right now, invisible, because **the English reads fine**. See the next section. This is the highest-value work available and it is not optional if the product's core promise is to hold.
+### 1. A second prose reading
 
-### 2. Finish Luke
-Luke 6 §4, then 7–24. Chapter by chapter, section by section.
+One full pass has been made. README's *Honest limitations* says plainly that a
+second reading would find more, and that is still true. This is the highest-value
+work on the text itself — but it is polish now, not repair.
 
-### 3. John
-Roughest book. **265 em-dash placeholders**, heaviest postposed genitives (284). John 1:1 already had a doctrinal inversion — **John's wooden chapters need a doctrinal read, not just a style pass.**
+### 2. Retire the dead buttons
 
-### 4. Acts 1–12
+Listen, Share and Home are rendered and do nothing. Either build them or remove
+them; a control that does nothing teaches a reader not to trust the others.
 
-### 5. Mood filtering
-Data is done. Pure UI work. Very high value-to-effort.
+### 3. Cross-references
 
-### 6. Favorites + History persistence
-`loadStore`/`saveStore` already exist. Follow the bookmarks pattern exactly.
+Built and switched off. The blocker was "wait for the full NT", and the full NT
+is here.
+
+### 4. Replace the Play listing screenshots
+
+They show the Flutter app that no longer exists. A store-listing edit, no build.
+
+### 5. Nothing about the Illumination's textual basis
+
+Listed here so a future session does not "discover" it and try to fix it. The
+Illumination descends from the 1769 AV and follows a different Greek text than
+Mak. That is disclosed to readers and is **deliberate**.
 
 ---
 
@@ -426,7 +565,7 @@ But underneath:
 | Prose read-back | The prose *reads fine* — that's the whole problem |
 | Greek multiset vs SBLGNT | **Passes.** No Greek was lost or added. |
 | `splice()` assertion | **Passes.** It only guards the Greek. |
-| Token count (96,778) | **Passes.** |
+| Token count (137,554) | **Passes.** |
 
 **Only printing each Greek → English pair catches it.**
 
@@ -465,21 +604,30 @@ All 76 names were then verified. Heli was the only one dropped.
 | **Romans 16:25–27 doxology** | Textual placement question. Unresolved. |
 | **`—` placeholders** | 342 across Luke (77) + John (265). Romans already solved this by folding the article. **Chris chose chapter-by-chapter (Option B) over a bulk sweep — but the option stands.** |
 
-## 🟡 Technical debt
+## 🟡 Technical debt *(rewritten 2026-08-04)*
 
 | Item | Detail |
 |---|---|
-| **Positional keys** | Highlights key on `chapter:section:word`. **Any insert/delete/reorder silently re-points saved highlights.** Bookmarks/notes key on `chapter:section` — safer but still positional. |
-| **No verse numbers** | Blocks precise error location, verse linking, cross-refs to standard refs. |
-| **`section.notes` unused** | Present on all 149×N sections, empty everywhere. |
-| **`moods` unused** | 329 verses tagged across 16 moods. Zero code touches it. |
-| **In-memory favorites** | `let fav = false` — resets on reload. |
-| **Dead buttons** | Home, search, listen, share. |
+| **No verse numbers in Mak** | `CHAPTERS` has sections, not verses. Blocks precise error location and cross-refs to standard references. The Illumination and KJV *do* carry verse refs. |
+| **`section.notes` unused** | Present on all 1,190 Mak sections, empty everywhere. |
+| **Dead buttons** | Home, Listen, Share. Rendered, inert. |
 | **Fake library cards** | Study Notes, Gutenberg, Luther have no backing. |
-| **`innerHTML` everywhere** | Lexicon/notes/lists built by string concat. Note text is user input rendered via `innerHTML` — **XSS is theoretical (local file, single user) but real.** |
-| **Full re-render on every mutation** | `loadChapter()` after each bookmark/note/highlight change. Fine at current size. |
+| **`innerHTML` everywhere** | Lists and modals are built by string concatenation. **This stopped being theoretical when restore landed:** a backup file is user-supplied input, so saved-item labels are escaped with `ilEsc()` and sermon-note markup goes through `rtSanitize()`. Anything new that renders stored text must do the same. |
+| **`execCommand` in the sermon editor** | Deprecated, with no dependency-free replacement. Works everywhere that matters; degrades to plain typing if a command is refused. |
+| **Full re-render on mutation** | `loadChapter()` / `loadIllum()` after a bookmark or note change. Fine at current size; the Illumination reader does targeted class toggles instead so the reader does not lose their place. |
 | **Google Fonts dependency** | The only network call. Offline → fallback fonts. |
-| **7.5 MB single file** | ~2–4s parse on mobile. |
+| **27 MB of data** | Split across twelve files and cached by the service worker. First visit pulls ~21 MB; Thayer's (5 MB) waits for the first word tap. |
+
+### Resolved, kept here so nobody re-reports them
+
+| Was | Now |
+|---|---|
+| Positional highlight keys | `stableKey(chapterIdx, sectionIdx, grk, nth)` — content-addressed. Migrated on load. |
+| Positional bookmark/note keys | `translation\|reference\|section`. Migrated on load. |
+| `moods` populated but unused | Live, 17 moods. |
+| In-memory favourites | Persisted, keyed on the verse reference. |
+| Single 7.5 MB file | Split into `index.html` + `data/*.js`. |
+
 
 ## Recurring wooden patterns (measured across the corpus)
 
@@ -627,7 +775,7 @@ Weights: Space Grotesk 400/500/600/700 · JetBrains Mono 500/700 · Gentium Plus
 8. **Author the whole plan; assert every unit consumed exactly once.** Index shift after `pop()` broke Matthew 8 and Romans 2.
 9. **Folds first, capitalization LAST.** Running capitalization first capitalized leaked Greek ("Νηστεύοντες"); removing those units then exposed lowercase sentences underneath.
 10. **Never `sed` a plan file.** It produced a plan mapping `γάρ` ("For") onto "happened?".
-11. **Verify after every session:** 96,778 tokens · 4 SBLGNT discrepancies · all four blobs parse.
+11. **Verify after every session:** 137,554 Greek tokens · 117,353 units · 0 SBLGNT discrepancies · all 12 files in `data/` parse.
 
 ## The `splice` helper
 
@@ -765,7 +913,7 @@ Same class: **Romans 16:4** read *"all but the churches of the Gentiles are too"
 
 He lost track of scope once because a "Matthew is now perfect" headline (about *Greek*) buried a one-line note that only 8 of 28 chapters were *readable*. **Keep those two things separate and state both every time.**
 
-Current: **~92 of 149 chapters readable. ~57 to go.**
+**As of 2026-08-04 this is finished: 260 of 260 chapters readable, 0 to go.** The two counts this section warns about keeping separate — Greek accuracy and readability — are both complete. Keep stating them separately anyway when reporting future work.
 
 ## 11. History of what went wrong (so you don't repeat it)
 
@@ -784,11 +932,16 @@ Current: **~92 of 149 chapters readable. ~57 to go.**
 ## 12. Invariants — check all four after every session
 
 ```
-Greek tokens ......... 96,778     (if this moves, something broke)
-SBLGNT discrepancies . 4          (all Romans; if this rises, Greek was damaged)
-JSON blobs ........... all 4 parse
+Greek tokens ......... 137,554    (if this moves, something broke)
+Word units ........... 117,353
+SBLGNT discrepancies . 0          (was 4, all Romans; closed 2026-07-30)
+Data files ........... all 12 in data/ parse
 Gloss honesty ........ every English describes the Greek beneath it
 ```
+
+The token figure in earlier copies of this file was **96,778**, from before the
+last twenty books were added. If you are reading a number near that, the document
+is stale, not the corpus.
 
 ## 13. Tone in reports
 

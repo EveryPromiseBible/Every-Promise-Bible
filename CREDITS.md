@@ -120,16 +120,55 @@ rather than guessed at.
 them. *How Great Thou Art* (Hine's English text, 1949), *He Lives* (1933) and
 *Victory in Jesus* (1939) are commonly assumed to be old enough and are not.
 
-## The translation itself
+## The translations and original writing
 
-The **Mak Translation** — the English rendering, its arrangement, the section
-headings, and the promise meditations — is original work by the project owner,
+Three of the four texts in this app are original work by the project owner,
 produced with **Claude (Anthropic)** and released under CC BY-SA 4.0.
 
-**Modifications, stated plainly for CC BY:** the English is a thought-for-thought
-rendering arranged in English word order rather than Greek word order. Each
-English phrase is anchored to the specific Greek word it renders. The Greek
-underneath is unchanged.
+### The Mak Translation — `data/chapters.js`
+
+A **word-for-word** English New Testament: every English word is anchored to the
+specific Greek word it renders.
+
+**Modifications, stated plainly for CC BY:** the English is arranged in English
+word order rather than Greek word order, which is what makes it readable; the
+Greek order remains recoverable from the tags. Words supplied for the sake of
+English, carrying no Greek, are marked as such in the rendering rather than left
+to look like translation. **The Greek underneath is unchanged** — no word added,
+removed, or moved between chapters, and `tools/wordcounts.py` proves it book by
+book.
+
+### The Illumination Translation — `data/illumination.js`
+
+A loose, thought-for-thought paraphrase of the whole Bible — 66 books, 1,189
+chapters, 9,031 verse blocks — composed in original modern English **from the
+public-domain 1769 Authorized Version**, not from the Greek and Hebrew.
+
+**What that means for its text, stated plainly:** it follows the textual
+tradition the King James translators worked from, where the Mak interlinear
+follows the SBLGNT, a modern critical edition. The two differ in a handful of
+well-known places. This is a difference of underlying manuscripts and is
+disclosed in the app itself, on the Options → The Texts page.
+
+**Modifications:** the wording is original throughout — a paraphrase, not an
+edit of the AV. Structurally it adds what the source has none of: a title for
+every chapter, headings dividing 5,282 sections by subject, verses grouped into
+blocks of a single thought rather than numbered singly, and a synopsis for each
+of the 66 books.
+
+### The Thirteenth Disciple — `data/devotional.js`
+
+A devotional narrative, not a translation: *A Gospel Narrative in Thirty-One
+Days*, walking beside Jesus from the Jordan to the Ascension. Roughly 32,000
+words of original prose.
+
+Each of the 31 days records the **harmony** of gospel passages it retells, so a
+reader can go to the accounts themselves rather than taking the narrative's word
+for anything. Scripture quoted inside the narrative is drawn from the
+public-domain sources credited above.
+
+It is a retelling and is presented as one. It is not scripture and does not
+stand in for it.
 
 ## Fonts
 
