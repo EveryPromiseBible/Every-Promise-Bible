@@ -635,6 +635,44 @@
   .jr-none{font-family:var(--mono);font-size:0.72em;color:var(--gray);}
 
   /* ---- Sermon notes: its own page, with a formatting bar ---- */
+  /* ---- Hymns ---- */
+  .hy-wrap{max-width:680px;margin:0 auto;padding:34px 20px 90px;}
+  .hy-wrap h2:first-child{margin-top:0;font-size:2em;letter-spacing:-0.01em;margin-bottom:6px;}
+  .hy-sub{font-family:var(--mono);color:var(--gray);font-size:0.72em;line-height:1.7;margin-bottom:22px;}
+  .hy-search{width:100%;font-family:var(--sans);font-size:0.95em;color:var(--ink);background:var(--white);
+             border:1px solid var(--line);border-radius:999px;padding:11px 18px;margin-bottom:12px;}
+  .hy-search:focus{outline:none;border-color:var(--sword);}
+  .hy-count{font-family:var(--mono);font-size:0.66em;color:var(--gray);margin-bottom:12px;}
+  .hy-list{border:1px solid var(--line);border-radius:10px;overflow:hidden;}
+  .hy-row{padding:12px 16px;border-bottom:1px solid var(--line);cursor:pointer;display:flex;gap:12px;align-items:baseline;}
+  .hy-row:last-child{border-bottom:none;}
+  .hy-row:hover{background:var(--sword-soft);}
+  .hy-rn{font-family:var(--mono);font-size:0.62em;color:var(--gray);flex:0 0 34px;}
+  .hy-rt{flex:1;min-width:0;}
+  .hy-first{font-size:0.94em;color:var(--ink);line-height:1.4;}
+  .hy-meta{font-family:var(--mono);font-size:0.62em;color:var(--gray);margin-top:3px;}
+  .hy-credit{font-family:var(--mono);font-size:0.62em;color:var(--gray);line-height:1.7;margin-top:26px;
+             border-top:1px solid var(--line);padding-top:14px;}
+  /* the reader */
+  .hy-back{background:none;border:none;font-family:var(--mono);font-size:0.72em;color:var(--gray);cursor:pointer;padding:0;margin-bottom:20px;}
+  .hy-back:hover{color:var(--sword);}
+  .hy-num{font-family:var(--mono);font-size:0.66em;color:var(--gray);letter-spacing:0.06em;}
+  .hy-title{font-size:1.75em;font-weight:700;line-height:1.25;letter-spacing:-0.01em;margin:6px 0 12px;}
+  /* The scripture line the hymnal heads each hymn with, set as an epigraph in
+     the same serif and muted brown the section headings use. */
+  .hy-theme{font-family:var(--grk);font-style:italic;color:#6b5f4a;font-size:1em;line-height:1.6;margin-bottom:30px;}
+  .hy-theme span{font-family:var(--mono);font-style:normal;font-size:0.72em;color:var(--gray);margin-left:8px;}
+  .hy-verse{display:flex;gap:16px;margin-bottom:22px;}
+  .hy-vn{font-family:var(--mono);font-size:0.66em;color:var(--gray);flex:0 0 14px;padding-top:6px;}
+  .hy-lines{font-size:1.05em;line-height:1.9;color:var(--ink);}
+  .hy-byline{font-family:var(--mono);font-size:0.68em;color:var(--gray);border-top:1px solid var(--line);
+             padding-top:16px;margin-top:34px;display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;}
+  .hy-nav{display:flex;justify-content:space-between;gap:10px;margin-top:26px;}
+  .hy-nav button{flex:1;background:var(--white);border:1px solid var(--line);border-radius:8px;padding:11px 12px;
+                 font-family:var(--mono);font-size:0.66em;color:var(--gray);cursor:pointer;text-align:left;}
+  .hy-nav button:hover:not(:disabled){border-color:var(--sword);color:var(--sword);}
+  .hy-nav button:disabled{opacity:0.35;cursor:default;}
+  .hy-nav button.next{text-align:right;}
   .jr-sermon-page{max-width:820px;margin:0 auto;padding:28px 20px 90px;}
   .jr-sp-back{background:none;border:none;font-family:var(--mono);font-size:0.72em;color:var(--gray);cursor:pointer;padding:0;margin-bottom:18px;}
   .jr-sp-back:hover{color:var(--sword);}
@@ -742,7 +780,7 @@
     <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
     <button data-v="bible" onclick="sv('bible')">Bible</button>
     <button data-v="mystuff" onclick="sv('mystuff')">My Stuff</button>
-    <button data-v="prayer" onclick="sv('prayer')">Prayer</button>
+    <button data-v="hymns" onclick="sv('hymns')">Hymns</button>
     <button data-v="journal" onclick="sv('journal')">Journal</button>
   </nav>
   <div class="bible-toolbar" id="bibleToolbar">
@@ -888,7 +926,26 @@
   <div class="ms-detail-list" id="msDetailList"></div>
 </div>
 </section>
-<section class="view" id="view-prayer"><div style="text-align:center;padding:60px 0;max-width:900px;margin:0 auto;"><h2 style="margin-top:0;">Prayer</h2><p style="font-family:var(--mono);color:var(--gray);font-size:0.85em;">Your prayer space</p></div></section>
+<section class="view" id="view-hymns">
+<div class="hy-wrap" id="hyIndex">
+  <h2>Hymns</h2>
+  <p class="hy-sub" id="hySub"></p>
+  <input class="hy-search" id="hySearch" type="search" placeholder="Search a first line, an author, a theme&hellip;"
+         oninput="hyFilter()" autocomplete="off">
+  <div class="hy-count" id="hyCount"></div>
+  <div class="hy-list" id="hyList"></div>
+  <p class="hy-credit" id="hyCredit"></p>
+</div>
+<div class="hy-wrap" id="hyPage" style="display:none;">
+  <button class="hy-back" onclick="hyBack()">&#8249; Hymns</button>
+  <div class="hy-num" id="hyNum"></div>
+  <h2 class="hy-title" id="hyTitle"></h2>
+  <p class="hy-theme" id="hyTheme"></p>
+  <div id="hyVerses"></div>
+  <div class="hy-byline" id="hyByline"></div>
+  <div class="hy-nav" id="hyNav"></div>
+</div>
+</section>
 <section class="view" id="view-journal">
   <div class="jr-wrap" id="jrMain">
     <div class="jr-head">
@@ -1008,7 +1065,7 @@
   <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
   <button data-v="bible" onclick="sv('bible')">Bible</button>
   <button data-v="mystuff" onclick="sv('mystuff')">My Stuff</button>
-  <button data-v="prayer" onclick="sv('prayer')">Prayer</button>
+  <button data-v="hymns" onclick="sv('hymns')">Hymns</button>
   <button data-v="journal" onclick="sv('journal')">Journal</button>
 </div>
 
@@ -1043,6 +1100,7 @@
 <script src="data/abbott.js"></script>
 <script src="data/wordcounts.js"></script>
 <script src="data/wordpictures.js"></script>
+<script src="data/hymns.js"></script>
 <script>
 const PALETTE = [
 "#b5461a","#1a6fa8","#7a8c1a","#a3247a","#1a8c6f","#c47a00","#5a3fa8",
@@ -3975,8 +4033,127 @@ function msInit() {
     .catch(() => {});
 }
 
+/* ================= Hymns =================
+   A public-domain hymnal, indexed the way hymnals have always been indexed:
+   by FIRST LINE. The nineteenth-century book heads each hymn with a scripture
+   theme rather than a name -- the one everyone calls "Rock of Ages" is titled
+   "And that rock was Christ" -- so the first line is the title here and the
+   theme is set beside it as an epigraph. See tools/hymns_build.py. */
+
+const HY_CAP = 300;          /* rows drawn before asking for a narrower search */
+let hyIdx = -1;              /* which hymn is open, or -1 for the index */
+let hyMatches = [];          /* what the current search leaves */
+
+/* Referenced directly, not through window: a top-level `const` in a classic
+   script lives in the script's lexical scope and never becomes a property of
+   window, so `window.HYMNS` reads undefined however well the file loaded. */
+function hyAll() { return (typeof HYMNS !== 'undefined' && HYMNS.hymns) || []; }
+
+/* One lowercase haystack per hymn, built once. Searching 1,323 hymns across
+   every line on each keystroke is otherwise 25,000 string operations a press. */
+let HY_HAY = null;
+function hyHay() {
+  if (HY_HAY) return HY_HAY;
+  HY_HAY = hyAll().map(h => (
+    h.title + ' ' + h.author + ' ' + h.theme + ' ' + h.ref + ' ' + h.meter + ' ' +
+    h.verses.map(v => v.join(' ')).join(' ')
+  ).toLowerCase());
+  return HY_HAY;
+}
+
+function hyFilter() {
+  const q = (document.getElementById('hySearch').value || '').trim().toLowerCase();
+  const all = hyAll(), hay = hyHay();
+  hyMatches = [];
+  for (let i = 0; i < all.length; i++) if (!q || hay[i].indexOf(q) >= 0) hyMatches.push(i);
+  hyRenderList(q);
+}
+
+function hyRenderList(q) {
+  const all = hyAll();
+  const shown = hyMatches.slice(0, HY_CAP);
+  const count = document.getElementById('hyCount');
+  count.textContent = hyMatches.length === all.length
+    ? all.length + ' hymns'
+    : hyMatches.length + (hyMatches.length === 1 ? ' hymn' : ' hymns') + ' matching';
+  if (hyMatches.length > HY_CAP) {
+    count.textContent += ' · showing the first ' + HY_CAP;
+  }
+  const list = document.getElementById('hyList');
+  if (!hyMatches.length) {
+    list.innerHTML = '<div class="empty-state"><p>Nothing matches that.</p></div>';
+    return;
+  }
+  list.innerHTML = shown.map(i => {
+    const h = all[i];
+    const meta = [h.author, h.meter].filter(Boolean).join(' · ');
+    return '<div class="hy-row" onclick="hyOpen(' + i + ')">' +
+             '<span class="hy-rn">' + h.n + '</span>' +
+             '<span class="hy-rt">' +
+               '<span class="hy-first">' + ilEsc(h.title) + '</span>' +
+               (meta ? '<div class="hy-meta">' + ilEsc(meta) + '</div>' : '') +
+             '</span></div>';
+  }).join('');
+}
+
+function hyOpen(i) {
+  const h = hyAll()[i];
+  if (!h) return;
+  hyIdx = i;
+  document.getElementById('hyIndex').style.display = 'none';
+  document.getElementById('hyPage').style.display = '';
+  document.getElementById('hyNum').textContent = 'Hymn ' + h.n;
+  document.getElementById('hyTitle').textContent = h.title;
+  const theme = document.getElementById('hyTheme');
+  theme.innerHTML = h.theme
+    ? ilEsc(h.theme) + (h.ref ? '<span>' + ilEsc(h.ref) + '</span>' : '')
+    : '';
+  theme.style.display = h.theme ? '' : 'none';
+  document.getElementById('hyVerses').innerHTML = h.verses.map((v, k) =>
+    '<div class="hy-verse">' +
+      '<div class="hy-vn">' + (h.verses.length > 1 ? (k + 1) : '') + '</div>' +
+      '<div class="hy-lines">' + v.map(ilEsc).join('<br>') + '</div>' +
+    '</div>').join('');
+  const bits = [];
+  if (h.author) bits.push('<span>' + ilEsc(h.author) + '</span>');
+  if (h.meter) bits.push('<span>' + ilEsc(h.meter) + '</span>');
+  document.getElementById('hyByline').innerHTML = bits.join('');
+
+  /* Previous and next follow the SEARCH, not the hymnal, so paging through
+     "Wesley" stays inside Wesley. */
+  const at = hyMatches.indexOf(i);
+  const prev = at > 0 ? hyMatches[at - 1] : null;
+  const next = at >= 0 && at + 1 < hyMatches.length ? hyMatches[at + 1] : null;
+  const label = j => hyAll()[j].title;
+  document.getElementById('hyNav').innerHTML =
+    '<button ' + (prev === null ? 'disabled' : 'onclick="hyOpen(' + prev + ')"') + '>' +
+      (prev === null ? '&nbsp;' : '&#8249; ' + ilEsc(label(prev))) + '</button>' +
+    '<button class="next" ' + (next === null ? 'disabled' : 'onclick="hyOpen(' + next + ')"') + '>' +
+      (next === null ? '&nbsp;' : ilEsc(label(next)) + ' &#8250;') + '</button>';
+  window.scrollTo({ top: 0, behavior: 'auto' });
+}
+
+function hyBack() {
+  hyIdx = -1;
+  document.getElementById('hyPage').style.display = 'none';
+  document.getElementById('hyIndex').style.display = '';
+  window.scrollTo({ top: 0, behavior: 'auto' });
+}
+
+function hyInit() {
+  const all = hyAll();
+  if (!all.length) return;
+  const lines = all.reduce((n, h) => n + h.verses.reduce((m, v) => m + v.length, 0), 0);
+  document.getElementById('hySub').textContent =
+    all.length.toLocaleString() + ' hymns, ' + lines.toLocaleString() +
+    ' lines. Listed by first line, as hymnals are.';
+  document.getElementById('hyCredit').textContent = HYMNS.source;
+  hyFilter();
+}
+
 openSomewhereRandom();
 sv('bible');
+hyInit();
 jrInit();
 msInit();
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');

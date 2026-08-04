@@ -86,6 +86,40 @@ administered by Cambridge University Press. Devotional and scholarly quotation i
 long-established practice, but if this project is ever distributed commercially
 in the UK it is worth confirming the position.
 
+## Hymns — The Christian Hymn Book, 1870
+
+The 1,323 hymns in `data/hymns.js` are transcribed from:
+
+**The Christian Hymn Book: A Compilation of Psalms, Hymns and Spiritual Songs,
+Original and Selected: Revised and Enlarged.** Compiled by Alexander Campbell and
+others; revised by Isaac Errett, W. K. Pendleton, W. T. Moore, T. M. Allen and
+A. S. Hayden. Cincinnati: H. S. Bosworth, 1870.
+Project Gutenberg ebook 46041 — <https://www.gutenberg.org/ebooks/46041>
+
+Published 1870, so the text is **public domain in the United States**: copyright
+has expired on anything first published before 1931. Project Gutenberg's licence
+covers its transcription and is not claimed over the underlying text.
+
+**Modifications: none to the words.** `tools/hymns_build.py` extracts the hymns
+mechanically and changes no line. What it does do is presentational, and worth
+stating:
+
+- **The title shown is the hymn's FIRST LINE.** The hymnal heads each hymn with a
+  scripture theme instead of a name — the hymn everyone calls "Rock of Ages" is
+  headed *"And that rock was Christ."* First lines are how hymnals have always
+  been indexed and how a reader looks a hymn up. The scripture theme and its
+  reference are kept and shown beneath the title.
+- **Inline verse numbers are dropped**, because the app numbers the verses
+  itself. Left in, the source's `2` would read as the first word of the line.
+- Trailing full stops are trimmed from author names and metre labels.
+
+364 of the 1,323 carry no author in the source; those are shown without one
+rather than guessed at.
+
+**Hymns still in copyright are not here and cannot be**, since the source predates
+them. *How Great Thou Art* (Hine's English text, 1949), *He Lives* (1933) and
+*Victory in Jesus* (1939) are commonly assumed to be old enough and are not.
+
 ## The translation itself
 
 The **Mak Translation** — the English rendering, its arrangement, the section

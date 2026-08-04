@@ -1,0 +1,144 @@
+"""Build data/hymns.js from a public-domain hymnal.
+
+SOURCE
+------
+    The Christian Hymn Book: A Compilation of Psalms, Hymns and Spiritual
+    Songs, Original and Selected: Revised and Enlarged.
+    Compiled by Alexander Campbell and others; revised by Isaac Errett,
+    W. K. Pendleton, W. T. Moore, T. M. Allen and A. S. Hayden.
+    Cincinnati: H. S. Bosworth, 1870.
+
+    Project Gutenberg ebook 46041.
+    https://www.gutenberg.org/files/46041/46041-h/46041-h.htm
+
+Published 1870, so the text is public domain in the United States: the term for
+anything first published before 1931 has expired. Project Gutenberg's own
+licence covers its transcription and is not claimed over the underlying text.
+
+Download the source into tools/data/ (gitignored, like the MorphGNT and Strong's
+sources) and run this from the repository root:
+
+    python tools/hymns_build.py
+
+WHAT A HYMN LOOKS LIKE IN THE SOURCE
+------------------------------------
+    <div id="c261" class="hymn"><h3>261</h3>
+      <p class="meter">7s, 6 lines.</p>
+      <p class="ttl">And that rock was Christ.
+        <span class="rightish"><span class="scripRef">1 Cor. 10:4.</span></span></p>
+      <div class="verse">
+        <p class="t0">Rock of ages, cleft for me,</p>
+        ...
+      </div>
+      <div class="author">Toplady.</div>
+    </div>
+
+Two things about that are worth knowing before reading the output.
+
+The `ttl` is NOT the hymn's name. Nineteenth-century hymnals head each hymn with
+a scripture THEME and its reference -- "And that rock was Christ. 1 Cor. 10:4."
+The hymn everyone calls "Rock of Ages" is titled nothing at all. So the title
+here is the FIRST LINE, which is how hymnals have always been indexed and how a
+reader will actually look for it, and the theme is kept beside it.
+
+The `vn` span is a verse NUMBER printed inline with the first line of each verse
+after the first. It is stripped: the renderer numbers the verses itself, and
+leaving it in would show "2 Not the labor of my hands" as the line's own words.
+"""
+
+import html
+import json
+import os
+import re
+import sys
+
+SRC = os.path.join('tools', 'data', 'hymnal-46041.htm')
+OUT = os.path.join('data', 'hymns.js')
+
+SOURCE_NOTE = ('The Christian Hymn Book, Cincinnati 1870 (Project Gutenberg 46041). '
+               'Public domain.')
+
+HYMN_RE = re.compile(
+    r'<div id="c\d+" class="hymn">(.*?)(?=<div id="c\d+" class="hymn">|<div class="chapter")',
+    re.S)
+
+
+def strip_tags(s):
+    """Plain text of one line. The verse number is dropped, not rendered."""
+    s = re.sub(r'<span class="vn">.*?</span>', '', s, flags=re.S)
+    s = re.sub(r'<[^>]+>', '', s)
+    return html.unescape(s).replace('\xa0', ' ').strip()
+
+
+def parse(block):
+    num = re.search(r'<h3>(\d+)</h3>', block)
+    meter = re.search(r'<p class="meter">(.*?)</p>', block, re.S)
+    ttl = re.search(r'<p class="ttl">(.*?)</p>', block, re.S)
+    author = re.search(r'<div class="author">(.*?)</div>', block, re.S)
+
+    verses = []
+    for v in re.findall(r'<div class="verse">(.*?)</div>', block, re.S):
+        lines = [strip_tags(l) for l in re.findall(r'<p[^>]*>(.*?)</p>', v, re.S)]
+        lines = [l for l in lines if l]
+        if lines:
+            verses.append(lines)
+
+    theme, ref = '', ''
+    if ttl:
+        raw = ttl.group(1)
+        m = re.search(r'scripRef">(.*?)</span>', raw, re.S)
+        if m:
+            ref = strip_tags(m.group(1))
+        theme = strip_tags(re.sub(r'<span class="rightish">.*?</span>', '', raw, flags=re.S))
+
+    if not num or not verses:
+        return None
+
+    # Trailing full stop on an author reads as a sentence in a byline.
+    who = strip_tags(author.group(1)) if author else ''
+    who = who.rstrip('.').strip()
+
+    return {
+        'n': int(num.group(1)),
+        'title': verses[0][0].rstrip(',;:').strip(),   # first line: how hymns are indexed
+        'author': who,
+        'meter': (strip_tags(meter.group(1)) if meter else '').rstrip('.'),
+        'theme': theme.rstrip('.').strip(),
+        'ref': ref.rstrip('.').strip(),
+        'verses': verses,
+    }
+
+
+def main():
+    if not os.path.exists(SRC):
+        sys.exit('missing %s -- download the Gutenberg source first (URL in this '
+                 'file\'s header)' % SRC)
+
+    raw = open(SRC, encoding='utf-8', errors='replace').read()
+    blocks = HYMN_RE.findall(raw)
+    hymns = [h for h in (parse(b) for b in blocks) if h]
+
+    # The numbers are the hymnal's own and must be unique; a duplicate means the
+    # block regex ran past a hymn boundary and merged two entries.
+    nums = [h['n'] for h in hymns]
+    assert len(nums) == len(set(nums)), 'duplicate hymn numbers -- parse is wrong'
+    assert hymns, 'no hymns parsed'
+
+    lines = sum(len(v) for h in hymns for v in h['verses'])
+    payload = {'source': SOURCE_NOTE, 'hymns': hymns}
+
+    with open(OUT, 'w', encoding='utf-8') as f:
+        f.write('/* Hymns -- %s\n' % SOURCE_NOTE)
+        f.write('   Generated by tools/hymns_build.py; do not hand-edit.\n')
+        f.write('   %d hymns, %d lines. Titles are first lines, as hymnals index them. */\n'
+                % (len(hymns), lines))
+        f.write('const HYMNS = ' + json.dumps(payload, ensure_ascii=False) + ';\n')
+
+    print('%d hymns, %d verses, %d lines -> %s'
+          % (len(hymns), sum(len(h['verses']) for h in hymns), lines, OUT))
+    print('%.1f KB' % (os.path.getsize(OUT) / 1024))
+    print('without an author: %d' % sum(1 for h in hymns if not h['author']))
+
+
+if __name__ == '__main__':
+    main()

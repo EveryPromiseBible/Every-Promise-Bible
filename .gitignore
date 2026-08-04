@@ -42,3 +42,4 @@ dist/
 # written them into data/promises.js the file must leave promises_new/ or it
 # is re-read as a duplicate and blocks the next merge.
 tools/promises_new/
+tools/data/hymnal-*.htm
