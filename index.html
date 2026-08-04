@@ -1196,6 +1196,7 @@ function jumpToFavorite(reference) {
   }
   loadVerse(i);
   sv('promises');
+  closeLibraryOnPick();
 }
 function renderFavoritesTab() {
   const el = document.getElementById('favoritesList');
@@ -1657,6 +1658,7 @@ function jumpToSection(chapterIdx) {
   if (currentTx !== 'mak') switchTranslation('mak');
   loadChapter(chapterIdx);
   sv('bible');
+  closeLibraryOnPick();
 }
 
 /* Landing on the right chapter is not the same as landing on the thing you
@@ -1670,6 +1672,7 @@ let pendingScroll = null;
 function jumpToRef(tx, ref, target) {
   tx = tx || 'mak';
   sv('bible');
+  closeLibraryOnPick();          /* the saved lists live in that panel */
   lastRef = ref;
   pendingScroll = target || null;
   if (tx !== currentTx) {
@@ -2170,6 +2173,22 @@ function toggleMode() {
   document.getElementById('studyLabel').classList.toggle('active', !readMode);
   document.getElementById('readLabel').classList.toggle('active', readMode);
 }
+/* Once a choice is made the panel has done its job. On a phone it is stacked
+   above the text and would otherwise sit between the reader and what they just
+   asked for, so it closes and reopens only from the books button.
+
+   Desktop is deliberately exempt: there the panel is a persistent sidebar
+   beside the text rather than over it, it auto-opens above 1000px, and closing
+   it on every pick would fight the reader who wants it there. */
+function closeLibraryOnPick() {
+  if (window.innerWidth > 1000) return;
+  const lib = document.getElementById('library');
+  if (!lib || !lib.classList.contains('open')) return;
+  lib.classList.remove('open');
+  const btn = document.getElementById('libBtn');
+  if (btn) btn.classList.remove('active');
+}
+
 function toggleLibrary() {
   const lib = document.getElementById('library');
   const open = lib.classList.toggle('open');
@@ -2709,6 +2728,7 @@ function switchTranslation(tx) {
       lastRef = keep;
     }
   }
+  closeLibraryOnPick();
 }
 
 /* ================= scripture search =================
