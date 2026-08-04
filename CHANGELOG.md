@@ -1,5 +1,48 @@
 # CHANGELOG
 
+## 2026-08-04 — A standing ruling: whom a promise was spoken to does not limit it
+
+Earlier today's mining pass withheld a class of verses on the ground that they
+were spoken to a named nation or a named person — the restoration of Ammon and
+Elam, the return of Egypt, the covenant to Abraham, the deliverance sworn to
+Hezekiah. The reasoning was that they do not transfer to a reader without an
+interpretive step the collection should not take silently.
+
+**That reasoning is overruled, and the ruling is the project owner's:**
+
+> All God's promises are yes and amen. If God promises to bring His people out,
+> that's me and you, no matter who it is.
+
+The ground is 2 Corinthians 1:20 — *all the promises of God in him are yea, and
+in him Amen* — which is already in the collection. **Nineteen verses withheld on
+that basis have been added.** Ammon and Elam are restored in Jeremiah 49; Egypt
+is brought again in Ezekiel 29; Joseph prospers in a slave's house in Genesis
+39:3; Hezekiah is defended in Isaiah 38:6. If God restores them, He restores us.
+
+**Prosperity is not hedged either.** The relevant verses were already here —
+2 Corinthians 8:9, 9:8 and 9:10, 3 John 2, Deuteronomy 8:18, Proverbs 10:22,
+Malachi 3:10 and 3:11, Luke 6:38, Psalm 35:27, Psalm 112:3 — and the additions
+now include *the head, and not the tail* (Deuteronomy 28:13) and *blessings
+shall come on thee, and overtake thee* (Deuteronomy 28:2). Blessing is treated
+as blessing.
+
+**What is still excluded is unchanged: judgment.** *I will send serpents,
+cockatrices, among you* is not a promise, and no ruling about audience makes it
+one. The line the collection draws is between blessing and judgment, not
+between one people and another.
+
+This is recorded as a **standing ruling** rather than a one-off edit, because it
+governs the ~560 candidates still unmined — most of which are covenant spoken to
+Abraham, Isaac, Jacob, Moses and Joshua, and would have been withheld under the
+narrower reading.
+
+| | before | after |
+|---|---|---|
+| Promises | 2,112 | 2,131 |
+| Meditations | 31,680 | 31,965 |
+
+`tools/kjv.py --verify`: *match 2131, not found 0, differs 0*.
+
 ## 2026-08-04 — Ninety promises added
 
 With the mood tags corrected, the real gaps became visible — and some of them

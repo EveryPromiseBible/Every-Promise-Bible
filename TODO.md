@@ -27,9 +27,17 @@ Provision 153→169, Tempted 162→170, Healing 209→218, Angry 109→148. The 
 categories were a *tagging* gap, not a content gap — Matthew 11:28 was not
 tagged Stressed and Psalm 23:1 was not tagged Provision.
 
-**Added 90 promises**, 2,022 → 2,112, with 1,350 new meditations. Found by
+**Added 109 promises**, 2,022 → 2,131, with 1,635 new meditations. Found by
 searching the whole KJV for promise grammar and subtracting every verse already
-present. `tools/kjv.py --verify`: match 2112, not found 0, differs 0.
+present. `tools/kjv.py --verify`: match 2131, not found 0, differs 0.
+
+**STANDING RULING — whom a promise was spoken to does not limit it.** All God's
+promises are yes and amen (2 Cor 1:20). If God promises to bring His people out,
+that applies to us, whoever it was spoken to. Restoration promised to Ammon,
+Elam or Egypt counts; covenant spoken to Abraham or Hezekiah counts; prosperity
+is treated as blessing, not hedged. **Judgment is still excluded** — the line is
+between blessing and judgment, not between one people and another. This governs
+the remaining candidates, most of which are covenant spoken to named people.
 
 **Still to mine: ~560 candidates**, now spread across the narrative books
 (Genesis 35, Exodus 31, Leviticus 18, the histories) and second passes over
