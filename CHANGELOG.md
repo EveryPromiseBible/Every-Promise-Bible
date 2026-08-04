@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 2026-08-04 — Twenty-four promises added from the gospels
+## 2026-08-04 — Forty-seven promises added from the gospels, Psalms and Isaiah
 
 With the mood tags corrected, the real gaps became visible — and some of them
 were surprising. **Matthew 5:5 was not in the collection.** Neither was *blessed
@@ -11,8 +11,8 @@ yet have believed*.
 They were found by searching the whole KJV for promise grammar — first-person
 divine speech, beatitudes, *whosoever* and *he that* constructions — and
 subtracting every verse already present. That produced **638 candidates**, so
-the number is not the constraint; judgment is. This batch is 24, taken from the
-four gospels.
+the number is not the constraint; judgment is. Forty-seven were taken: 24 from
+the four gospels, 12 from the Psalms and 11 from Isaiah.
 
 **What was excluded, and why**, since the search is far noisier than its output:
 
@@ -25,15 +25,23 @@ four gospels.
 - **Parallel sayings.** Matthew 10:39 and 16:25 are the same saying twice, as
   are Mark 8:35, Luke 9:24 and 17:33. One was taken, not five — repeating a
   saying under five references would pad the count without adding anything.
+- **The psalmist's vows, which are not God's promises.** A large share of the
+  Psalms matches are *I will praise*, *I will keep thy statutes*, *I will
+  remember* — a man's resolution, not a word from God. Twenty-one were dropped
+  on that ground alone.
+- **The complacent speaking.** Psalm 10:6 and 30:6 both read *I shall never be
+  moved* — but the first is the wicked man's boast and the second is David
+  quoting his own false confidence in prosperity. Lifted out of context they
+  read as promises. They are the opposite.
 
 Every verse was taken from `data/kjv.js` **programmatically rather than typed**,
 so a transcription error is not possible, and `tools/kjv.py --verify` confirms
-all 2,046 against the KJV: *match 2046, not found 0, differs 0*.
+all 2,069 against the KJV: *match 2069, not found 0, differs 0*.
 
 | | before | after |
 |---|---|---|
-| Promises | 2,022 | 2,046 |
-| Meditations | 30,330 | 30,690 |
+| Promises | 2,022 | 2,069 |
+| Meditations | 30,330 | 31,035 |
 | Moods | 17 | 17 |
 
 No existing record moved or changed; the additions are appended, and every
