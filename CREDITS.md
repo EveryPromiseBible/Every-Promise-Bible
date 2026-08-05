@@ -73,7 +73,7 @@ published. One missing entry (G2057, Ἑρμᾶς) was added by hand from Strong
 
 ## Promise verses — King James Version
 
-The 2,159 promise verses in `data/promises.js` are quoted from the **King James
+The 2,185 promise verses in `data/promises.js` are quoted from the **King James
 Version (1769)**.
 
 Every verse was copied from a machine-readable KJV rather than written from

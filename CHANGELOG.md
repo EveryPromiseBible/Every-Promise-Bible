@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## 2026-08-04 — Twenty-six from the histories, Job, the minor prophets and Acts
+
+**Pentecost was missing.** Acts 2:17 — *I will pour out of my Spirit upon all
+flesh* — was not in the collection, nor was Acts 7:34, which is the clearest
+statement in scripture of God's disposition toward affliction: *I have seen, I
+have seen the affliction of my people... and am come down to deliver them.* He
+says the seeing twice.
+
+Also added: *be of good cheer, Paul* spoken in a cell at night (Acts 23:11);
+*there shall be no loss of any man's life* spoken into a shipwreck (27:22);
+*surely I will be with thee* spoken to a man hiding in a winepress (Judges
+6:16); and Zechariah 12:8, where *he that is feeble among them* is promised to
+become as David.
+
+**The human-speech class dominated the histories, as expected.** Judges returned
+13 candidates and yielded 2 — the rest are Samson posing a riddle, Micah hiring
+a priest, Jael luring Sisera, and one verse of Judges 19 that has no business
+near a devotional. 2 Kings returned 16 and yielded **none**: every match was
+Elijah saying *tarry here*, Elisha misdirecting an army, or an Assyrian field
+commander offering two thousand horses.
+
+**The duplicate-meditation guard fired twice more**, on Zechariah 2:11 and
+Daniel 12:12 — the same failure as Joshua 8:1 in the last batch, an opening line
+reused as the closing one. Three times in two batches is a pattern in how these
+are written, not an accident. Every one of the 2,185 promises is now checked for
+it, not just the new ones: no promise repeats a meditation.
+
+| | before | after |
+|---|---|---|
+| Promises | 2,159 | 2,185 |
+| Meditations | 32,385 | 32,775 |
+
+`tools/kjv.py --verify`: *match 2185, not found 0, differs 0*.
+
 ## 2026-08-04 — Twenty-eight from the Pentateuch and Joshua, under the new ruling
 
 The first pass to run under the standing ruling on audience, and it changed the
