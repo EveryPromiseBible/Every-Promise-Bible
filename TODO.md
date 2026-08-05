@@ -22,6 +22,13 @@ Build a Bible that is **two things at once**, both required:
 
 ## ✅ Recently completed — 2026-08-04, the promises pass
 
+**VERIFIED ON DEVICE 2026-08-04: "Back Up My Stuff" produces a real file on
+Android.** Tested in the installed Play Store app on a Pixel, not in the
+browser -- the browser was never in doubt; the question was whether the Trusted
+Web Activity wrapper passes the download through to Android. It does. A `.json`
+file lands in Downloads. This had been the last unproven claim in the project,
+and the data-durability promise to users rests entirely on it.
+
 **Retagged five thin moods** (+92 tags, no content changed): Stressed 143→168,
 Provision 153→169, Tempted 162→170, Healing 209→218, Angry 109→148. The thin
 categories were a *tagging* gap, not a content gap — Matthew 11:28 was not
