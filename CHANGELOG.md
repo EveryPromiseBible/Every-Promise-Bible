@@ -1,5 +1,42 @@
 # CHANGELOG
 
+## 2026-08-04 — Auditing the search itself, and thirteen well-known promises it had missed
+
+Every batch so far worked through what one regex found. That regex was never
+audited, so this pass asked a different question: **what classes of promise was
+the search never looking for?**
+
+Six patterns it had no rule for were tried — *the LORD shall bless/keep/guide*,
+*thou shalt be blessed/satisfied/safe*, *he will never leave nor forsake*, *cast
+thy burden*, *trust in the LORD*, *ye shall have/find/receive*. They returned 189
+verses the original sweep could not have seen. Most were ritual law (*ye shall
+have an holy convocation*) or the curses of Deuteronomy 28, but the exercise was
+worth running, because it proved the search had blind spots rather than assuming
+it did not.
+
+Then a direct test: **74 well-known promises checked by reference against the
+collection.** 61 were present. **Thirteen were not**, and they include verses no
+promise collection should be missing:
+
+- **Jeremiah 1:5** — *Before I formed thee in the belly I knew thee*
+- **Deuteronomy 4:29** — *thou shalt find him, if thou seek him with all thy heart*
+- **Psalm 118:8** — *it is better to trust in the LORD than to put confidence in man*
+- **Mark 14:36** — *Abba, Father, all things are possible unto thee*
+- **Genesis 48:21** — *I die: but God shall be with you*
+- **Deuteronomy 6:11** — *wells digged, which thou diggedst not*
+
+All thirteen added. **The lesson is about method, not content:** a pattern search
+returns what it was built to return, and its silence is not evidence of absence.
+Checking known answers against the collection found in one pass what the regex
+had missed across eight.
+
+| | before | after |
+|---|---|---|
+| Promises | 2,213 | 2,226 |
+| Meditations | 33,195 | 33,390 |
+
+`tools/kjv.py --verify`: *match 2226, not found 0, differs 0*.
+
 ## 2026-08-04 — Twenty-eight on a second pass, re-reading earlier judgment calls
 
 Not new ground. These are verses the earlier sweeps of these same books saw and
