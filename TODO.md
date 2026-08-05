@@ -27,9 +27,9 @@ Provision 153→169, Tempted 162→170, Healing 209→218, Angry 109→148. The 
 categories were a *tagging* gap, not a content gap — Matthew 11:28 was not
 tagged Stressed and Psalm 23:1 was not tagged Provision.
 
-**Added 163 promises**, 2,022 → 2,185, with 2,445 new meditations. Found by
+**Added 191 promises**, 2,022 → 2,213, with 2,865 new meditations. Found by
 searching the whole KJV for promise grammar and subtracting every verse already
-present. `tools/kjv.py --verify`: match 2185, not found 0, differs 0.
+present. `tools/kjv.py --verify`: match 2213, not found 0, differs 0.
 
 **STANDING RULING — whom a promise was spoken to does not limit it.** All God's
 promises are yes and amen (2 Cor 1:20). If God promises to bring His people out,

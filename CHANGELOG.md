@@ -1,5 +1,41 @@
 # CHANGELOG
 
+## 2026-08-04 — Twenty-eight on a second pass, re-reading earlier judgment calls
+
+Not new ground. These are verses the earlier sweeps of these same books saw and
+passed over, re-examined because the standing ruling on audience changed what
+qualifies — and in several cases because the first reading was simply too quick.
+
+**Matthew 20:14 is the clearest case of the second kind.** *I will give unto
+this last, even as unto thee* — the landowner paying the eleventh-hour worker a
+full day's wage — is one of the plainest statements of grace in the gospels, and
+the first pass filed it as a parable detail. It is a promise to anyone who
+thinks they came too late.
+
+Changed by the ruling: *fear not, neither be fainthearted* spoken to Ahaz with
+an army at his border (Isaiah 7:4); *I will make thee a new sharp threshing
+instrument* (41:15); *he shall not fail nor be discouraged*, said of the Servant
+and therefore of the One carrying us (42:4).
+
+Also added: **Revelation 3:9** — *I will make them to come and worship before
+thy feet, and to know that I have loved thee*, said to the church with the least
+strength — and **Revelation 2:24**, *I will put upon you none other burden*,
+which is a promise that the load will not be increased.
+
+**What stayed out, and why the ruling did not reach it.** The psalmist's vows
+are still excluded, and so is human speech, because neither is God promising
+anything — that is a different question from whom He is promising it to. Mark
+6:23, *whatsoever thou shalt ask of me, I will give it thee, unto the half of my
+kingdom*, is Herod talking to a dancing girl, and it ends with a head on a
+platter.
+
+| | before | after |
+|---|---|---|
+| Promises | 2,185 | 2,213 |
+| Meditations | 32,775 | 33,195 |
+
+`tools/kjv.py --verify`: *match 2213, not found 0, differs 0*.
+
 ## 2026-08-04 — Twenty-six from the histories, Job, the minor prophets and Acts
 
 **Pentecost was missing.** Acts 2:17 — *I will pour out of my Spirit upon all
