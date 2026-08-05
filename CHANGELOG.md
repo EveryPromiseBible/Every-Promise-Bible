@@ -1,5 +1,50 @@
 # CHANGELOG
 
+## 2026-08-05 — Hebrews 3–4 in the Illumination: "settle" restored to "rest"
+
+The Illumination rendered κατάπαυσις (G2663) as a verb phrase — *come in and
+settle with Me* — everywhere it appears in Hebrews 3–4, with the chapter titled
+*Where God Settles His People*. Nowhere else in the project did that. The
+Illumination's own **Psalm 95:11**, the verse Hebrews is quoting, reads *they
+will never enter My rest*; the Mak interlinear glosses the same word *into his
+rest* / *into my rest*, καταπαύω at 4:8 *had given them rest*, and σαββατισμός at
+4:9 *a Sabbath rest*. A reader comparing the psalm with its quotation met the
+same sentence in two different wordings.
+
+Ten renderings changed across Hebrews 3–4 and the chapter title:
+
+| | before | after |
+|---|---|---|
+| 3:11, 4:3, 4:5 | "they will never come in and settle with Me" | "they will never enter My rest" |
+| 3:18 | "would never come in and settle with Him" | "would never enter His rest" |
+| 4:1 | "coming in and settling with Him" | "entering His rest" |
+| 4:3 | "the ones who come in and settle" | "the ones who enter that rest" |
+| 4:8 | "If Joshua had settled them" | "If Joshua had given them rest" |
+| 4:9 | "a Sabbath waiting to be kept" | "a Sabbath rest waiting to be kept" |
+| 4:10 | "has come in and settled with Him" | "has entered His rest" |
+| 4:11 | "coming in and settling there" | "entering that rest" |
+| ch. title | "Where God Settles His People" | "Where God Gives His People Rest" |
+
+Two section headings in Hebrews 4 followed: **"The Promise Still Standing Open"**
+→ *"The Rest Still Standing Open"*, and **"Work Hard to Get In"** → *"Work Hard
+to Enter That Rest"*. Neither had used "settle"; they had talked around the word
+the passage is about. Hebrews 3 §4 followed as well — *"They Could Not Get In"* →
+**"They Never Entered His Rest"**, which is what 3:18 says in Greek: εἰσέρχομαι
+governing κατάπαυσιν, *enter* and *rest* in the one clause.
+
+καταπαύω of God's own resting at 4:4 and 4:10 stays **"God stopped, with all His
+work behind Him"** — the contrast between His finished work and ours is the point
+of the passage, and "stopped" carries it better than a second "rested."
+
+Two chapters changed and no others; the blob round-trips byte-identical outside
+Hebrews 3–4. 66 books · 1,189 chapters · 5,282 sections · 9,031 verse blocks,
+all unchanged.
+
+> `data/illumination.js` carries a *"generated from the source markdown; do not
+> hand-edit"* header, but no such markdown and no build script are in the
+> repository — the file is the only copy of the text there is. This edit was made
+> against it directly, with the surrounding bytes asserted untouched.
+
 ## 2026-08-04 — Auditing the search itself, and thirteen well-known promises it had missed
 
 Every batch so far worked through what one regex found. That regex was never
