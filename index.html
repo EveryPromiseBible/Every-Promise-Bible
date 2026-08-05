@@ -58,7 +58,9 @@
   header{display:flex;justify-content:space-between;align-items:center;padding:15px 26px;flex-wrap:wrap;gap:14px;border-bottom:1px solid var(--line);background:var(--sheet);}
   .wordmark{font-weight:700;font-size:0.95em;white-space:nowrap;}
   .brand{display:flex;flex-direction:column;align-items:flex-start;gap:7px;}
-  .logo-circle{width:44px;height:44px;border-radius:50%;background:var(--paper);border:1px solid var(--line);display:flex;align-items:center;justify-content:center;overflow:hidden;flex:none;}
+  /* The mark keeps a white ground of its own whatever the page does around it,
+     so the blue of the sword stays the blue it was drawn as. */
+  .logo-circle{width:44px;height:44px;border-radius:50%;background:#ffffff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;overflow:hidden;flex:none;}
   .logo-circle img{width:100%;height:100%;object-fit:contain;display:block;}
   /* The five tabs are a segmented control rather than five loose words: one
      tinted track, a white chip on the active tab. Same order, same place. */
@@ -747,6 +749,17 @@
   /* ---- Hymns ---- */
   .hy-wrap{max-width:680px;margin:22px auto 110px;padding:32px 30px 38px;
            background:var(--sheet);border-radius:var(--sheetr);box-shadow:var(--lift);}
+  /* Pager for the hymnal. Every page is reachable by number because a hymnal is
+     browsed by wandering as often as it is searched. */
+  .hy-pager{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:22px;
+            padding-top:18px;border-top:1px solid var(--line);}
+  .hy-pg{font-family:var(--mono);font-size:0.68em;color:var(--ink);cursor:pointer;
+         background:var(--sheet);border:1px solid var(--line);border-radius:999px;padding:7px 13px;}
+  .hy-pg.num{min-width:34px;text-align:center;padding:7px 9px;}
+  .hy-pg:hover:not(:disabled){border-color:var(--sword);color:var(--sword);}
+  .hy-pg.on{background:var(--sword);border-color:var(--sword);color:#fff;font-weight:700;}
+  .hy-pg:disabled{opacity:0.35;cursor:default;}
+  .hy-pg-range{font-family:var(--mono);font-size:0.66em;color:var(--gray);margin-left:auto;}
   .hy-wrap h2:first-child{margin-top:0;font-size:2em;letter-spacing:-0.01em;margin-bottom:6px;}
   .hy-sub{font-family:var(--mono);color:var(--gray);font-size:0.72em;line-height:1.7;margin-bottom:22px;}
   .hy-search{width:100%;font-family:var(--sans);font-size:0.95em;color:var(--ink);background:var(--white);
@@ -1028,6 +1041,7 @@
          oninput="hyFilter()" autocomplete="off">
   <div class="hy-count" id="hyCount"></div>
   <div class="hy-list" id="hyList"></div>
+  <div class="hy-pager" id="hyPager"></div>
   <p class="hy-credit" id="hyCredit"></p>
 </div>
 <div class="hy-wrap" id="hyPage" style="display:none;">
@@ -4452,9 +4466,10 @@ function optSourcesHtml() {
    "And that rock was Christ" -- so the first line is the title here and the
    theme is set beside it as an epigraph. See tools/hymns_build.py. */
 
-const HY_CAP = 300;          /* rows drawn before asking for a narrower search */
+const HY_CAP = 300;          /* rows on a page -- the hymnal is paged, not capped */
 let hyIdx = -1;              /* which hymn is open, or -1 for the index */
 let hyMatches = [];          /* what the current search leaves */
+let hyPageNo = 0;            /* which page of matches is showing */
 
 /* Referenced directly, not through window: a top-level `const` in a classic
    script lives in the script's lexical scope and never becomes a property of
@@ -4478,22 +4493,58 @@ function hyFilter() {
   const all = hyAll(), hay = hyHay();
   hyMatches = [];
   for (let i = 0; i < all.length; i++) if (!q || hay[i].indexOf(q) >= 0) hyMatches.push(i);
+  hyPageNo = 0;              /* a new search always starts at its first page */
   hyRenderList(q);
+}
+
+/* Pages rather than a cap. The hymnal has 1,323 entries and the old list drew
+   the first 300 and stopped, so hymn 301 onward could only be reached by
+   guessing a search term that narrowed to it -- the last thousand hymns were
+   effectively unreachable by browsing. */
+function hyGoPage(n) {
+  const pages = Math.max(1, Math.ceil(hyMatches.length / HY_CAP));
+  hyPageNo = Math.min(Math.max(0, n), pages - 1);
+  hyRenderList();
+  const top = document.getElementById('hyCount');
+  if (top) top.scrollIntoView({ block: 'start', behavior: 'smooth' });
+}
+
+function hyRenderPager() {
+  const pager = document.getElementById('hyPager');
+  if (!pager) return;
+  const pages = Math.ceil(hyMatches.length / HY_CAP);
+  if (pages <= 1) { pager.innerHTML = ''; return; }
+  const first = hyPageNo * HY_CAP + 1;
+  const last = Math.min(hyMatches.length, (hyPageNo + 1) * HY_CAP);
+  let h = '<button class="hy-pg" onclick="hyGoPage(' + (hyPageNo - 1) + ')"' +
+          (hyPageNo === 0 ? ' disabled' : '') + '>&#8249; back</button>';
+  for (let p = 0; p < pages; p++) {
+    h += '<button class="hy-pg num' + (p === hyPageNo ? ' on' : '') +
+         '" onclick="hyGoPage(' + p + ')">' + (p + 1) + '</button>';
+  }
+  h += '<button class="hy-pg" onclick="hyGoPage(' + (hyPageNo + 1) + ')"' +
+       (hyPageNo === pages - 1 ? ' disabled' : '') + '>next &#8250;</button>' +
+       '<span class="hy-pg-range">' + first + '&ndash;' + last +
+       ' of ' + hyMatches.length + '</span>';
+  pager.innerHTML = h;
 }
 
 function hyRenderList(q) {
   const all = hyAll();
-  const shown = hyMatches.slice(0, HY_CAP);
+  const pages = Math.ceil(hyMatches.length / HY_CAP);
+  if (hyPageNo > 0 && hyPageNo >= pages) hyPageNo = Math.max(0, pages - 1);
+  const shown = hyMatches.slice(hyPageNo * HY_CAP, (hyPageNo + 1) * HY_CAP);
   const count = document.getElementById('hyCount');
   count.textContent = hyMatches.length === all.length
     ? all.length + ' hymns'
     : hyMatches.length + (hyMatches.length === 1 ? ' hymn' : ' hymns') + ' matching';
-  if (hyMatches.length > HY_CAP) {
-    count.textContent += ' · showing the first ' + HY_CAP;
+  if (pages > 1) {
+    count.textContent += ' · page ' + (hyPageNo + 1) + ' of ' + pages;
   }
   const list = document.getElementById('hyList');
   if (!hyMatches.length) {
     list.innerHTML = '<div class="empty-state"><p>Nothing matches that.</p></div>';
+    hyRenderPager();
     return;
   }
   list.innerHTML = shown.map(i => {
@@ -4506,6 +4557,7 @@ function hyRenderList(q) {
                (meta ? '<div class="hy-meta">' + ilEsc(meta) + '</div>' : '') +
              '</span></div>';
   }).join('');
+  hyRenderPager();
 }
 
 function hyOpen(i) {

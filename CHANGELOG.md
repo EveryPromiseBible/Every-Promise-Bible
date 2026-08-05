@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## 2026-08-05 — A white ground for the mark, and the hymnal gets pages
+
+Two fixes to the reskin.
+
+**The emblem.** `.logo-circle` drew its ground from `--paper`, which the reskin
+moved from near-white to a cool grey — so the mark sat on a tint and the blue of
+the sword read duller than it was drawn. The circle now carries `#ffffff`
+directly rather than inheriting a token, because the mark should not change when
+the page around it does.
+
+**The hymnal.** `HY_CAP = 300` was a *cap*: the list drew the first 300 rows and
+stopped. Hymn 301 onward could only be reached by guessing a search term narrow
+enough to surface it, so **roughly a thousand hymns could not be reached by
+browsing at all** — and nothing on screen said so beyond "showing the first 300."
+
+It is now a page size. Five pages of 300, every one reachable by number, with
+back / next, the range (`1201–1323 of 1323`) beside them, and a smooth scroll
+back to the top of the list on each change. Searching resets to page one;
+opening a hymn and coming back leaves you on the page you were reading.
+
+Checked in a browser: page 5 ends on hymn 1323, *Let us sing the King Messiah*.
+
 ## 2026-08-05 — The Sheet skin: the page becomes a field, every reading surface a sheet
 
 A facelift, decided from mockups rather than from opinions. **Nothing moved.** The
