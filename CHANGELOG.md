@@ -1,5 +1,45 @@
 # CHANGELOG
 
+## 2026-08-05 — The Sheet skin: the page becomes a field, every reading surface a sheet
+
+A facelift, decided from mockups rather than from opinions. **Nothing moved.** The
+emblem is where it was, the toolbar keeps its order — chapter select, home,
+search, highlight, listen, library — the five tabs keep theirs, and the
+three-line word stack is untouched. What changed is surface.
+
+The page is now a cool field (`#EBEFF2`) with each reading surface floating on it
+as a white sheet: the promises view, the chapter, the library panel, My Stuff,
+Hymns, Journal and Options. The Bible view is the point of it — chapter and panel
+are now **two sheets side by side**, divided by a gap instead of a border, and the
+panel sticks to the top of the viewport as the chapter scrolls under it.
+
+Two groups of controls that were five loose objects each are now one object each:
+
+| | before | after |
+|---|---|---|
+| Toolbar | five bordered keys beside a bordered select | one tinted capsule, borderless keys inside |
+| Tabs | five words, active one underlined | segmented control, active one a white chip |
+| Primary button | `--ink` black fill | `--sword` navy fill |
+| Bottom bar (phone) | welded to the bottom edge | floats inset 10px, fully rounded |
+
+New tokens carry it, so the whole look retunes from one block: `--field` the
+ground, `--sheet` the surface, `--group` the tint behind grouped controls,
+`--lift` the shadow raising a sheet, `--chip` the smaller one under an active tab,
+`--sheetr` the corner radius. Neutrals moved cool to match (`--line` `#eceae3` →
+`#E0E6EA`, `--gray` → `#6B767E`, `--ink` → `#0F1519`).
+
+**The capsule is a desktop device.** Under 1000px the toolbar takes a full row and
+wraps to two lines, and a pill wrapped around two rows reads as a blob — so the
+track comes off there and the keys get their borders back.
+
+Also removed: the inline `padding:0 50px 40px` on `.bible-main`, which would have
+beaten the sheet's own padding from the stylesheet.
+
+Verified by running the site and walking every view: Promises, Bible (both sheets,
+library open), the lexicon modal with all four sources, My Stuff, Hymns, Journal.
+**The phone layout was not visually checked** — the automation could not resize the
+window — so the mobile rules are reasoned, not seen.
+
 ## 2026-08-05 — Hebrews 3–4 in the Illumination: "settle" restored to "rest"
 
 The Illumination rendered κατάπαυσις (G2663) as a verb phrase — *come in and
