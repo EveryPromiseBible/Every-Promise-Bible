@@ -3,6 +3,7 @@ key: 1 Thessalonians 5:9–11
 title: "God never marked us out for wrath"
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2019-04-14 positioned-for-his-provision
 updated: 2026-08-06
 ---
 

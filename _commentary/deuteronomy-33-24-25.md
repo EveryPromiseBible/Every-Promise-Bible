@@ -3,6 +3,8 @@ key: Deuteronomy 33:24–25
 title: "May your strength match all your days"
 sources:
   - 2018-09-23 the-key-to-robust-faith
+  - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
 updated: 2026-08-06
 ---
 

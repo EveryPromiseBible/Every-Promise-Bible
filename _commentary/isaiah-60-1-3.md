@@ -4,6 +4,7 @@ title: Arise and shine — with a light that is not yours
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2019-04-14 positioned-for-his-provision
 updated: 2026-08-06
 ---
 

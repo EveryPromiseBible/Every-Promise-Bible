@@ -3,6 +3,7 @@ key: Hebrews 12:5–11
 title: The word behind "discipline," and what it is not
 sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
+  - 2019-02-24 the-healing-power-of-the-holy-communion
 updated: 2026-08-06
 ---
 
@@ -64,3 +65,16 @@ to people who were losing their nerve, and it is meant to steady them.
 > correction, not a judge's sentence — and the writer's use of it lands on the
 > word *son*, which is the noun the whole passage keeps returning to. The
 > emphasis is on who is being addressed, not on the instrument.
+
+## Where Paul uses the same word
+
+*We are **chastened** by the Lord, so that we would not be condemned along with
+the world* — 1 Corinthians 11:32, and the verb there is **paideuo**, from this
+same root.
+
+Paul puts the chastening and the condemning on opposite sides of the sentence.
+Whatever the upbringing is, it is what keeps a son out of the world's verdict, not
+a lighter version of it.
+
+That is the same argument this passage is making at length. See the note on
+1 Corinthians 11:31–34.

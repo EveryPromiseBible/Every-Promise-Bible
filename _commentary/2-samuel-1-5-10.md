@@ -3,6 +3,7 @@ key: 2 Samuel 1:5–10
 title: The Amalekite who came to collect a reward
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
+  - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
 updated: 2026-08-06
 ---
 
@@ -43,3 +44,17 @@ who had spent years trying to kill him.
 > stood over him at the end and took the crown off his head. The narrative makes
 > no comment. It simply gives the man's nationality in the fifth verse and lets
 > the reader remember chapter 15.
+
+## What Amalek was
+
+Deuteronomy describes the nation by its method: it came at Israel's back and cut
+down the stragglers *when you were weary and worn out*. It hunts what is already
+tired.
+
+Saul was told to blot it out. He kept the king and the best of the livestock —
+what looked useful — and destroyed the rest.
+
+What is spared because it still seems worth something does not stay where it was
+put. It stands over you at the end and takes the crown off your head, and four
+hundred years later it signs a decree in Persia with a king's ring on its hand.
+See the notes on Deuteronomy 25:17–19 and Esther 3:1–4.

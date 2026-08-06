@@ -2,6 +2,7 @@
 key: Hebrews 1:1–3
 title: "He sat down"
 sources:
+  - 2018-12-30 believe-his-love-and-receive-all-blessings
   - 2018-11-18 dare-to-pray-bold-prayers
 updated: 2026-08-06
 ---

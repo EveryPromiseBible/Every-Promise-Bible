@@ -3,6 +3,7 @@ key: Romans 7:18–20
 title: The most quoted description of failure in the Bible
 sources:
   - 2018-09-23 the-key-to-robust-faith
+  - 2019-03-17 the-story-of-job-through-the-lens-of-grace
 updated: 2026-08-06
 ---
 
@@ -10,23 +11,36 @@ updated: 2026-08-06
 go on doing.* Anyone who has tried to live a good life recognises the sentence
 immediately.
 
-## The long-running question
+## The sentence it starts from
 
-Christians have argued for centuries about who is speaking here: Paul before his
-conversion, Paul as a Christian, or Paul writing in a representative voice about
-anyone under the law.
+*For I know that **nothing good lives in me — that is, in the old nature**.*
 
-The tenses are present throughout, which is the main argument for the second
-reading. The chapter's setting — a long discussion of what the law can and cannot
-do — is the main argument for the third.
+Paul says it about himself, flatly, and he had more to boast about than most:
+*circumcised the eighth day, of the tribe of Benjamin, a Hebrew of Hebrews,
+concerning the law a Pharisee… concerning the righteousness which is in the law,
+blameless.*
 
-It is not a trivial disagreement and it has not been settled. Both readings are
-held by people who read the letter carefully.
+That man says there is nothing good in his flesh.
 
-## What the passage is definitely about
+It is not despair and it is not fishing for reassurance. It is a settled verdict,
+and it is the most freeing sentence in the chapter — once it is agreed, there is
+nothing left to defend and nothing left to produce.
 
-Whatever the speaker's status, the diagnosis is unambiguous: the **wanting** is
-present and the **doing** is not.
+## Where it puts a man
+
+Job spent thirty chapters building a case for his own righteousness, and God's one
+charge out of the whirlwind was *would you condemn Me so that you could be in the
+right?* Two positions, and only one of them is habitable. See the note on
+Job 40:6–8.
+
+Paul has already taken the other one. A man who has stopped expecting good out of
+his own flesh can be handed a righteousness that is not his — which is the whole
+argument of the letter: *the gift of righteousness*, *received*, *apart from
+works*.
+
+## The diagnosis
+
+The **wanting** is present and the **doing** is not.
 
 *The wanting is right there within reach; the doing of it is not.*
 
@@ -44,7 +58,9 @@ no condemnation*.
 Romans 7 is not a resting place in Paul's argument. It is the wall he builds so
 that the door in chapter 8 has something to be a door in.
 
-> **A caution both ways.** Read as normal Christian experience, it can become an
-> excuse. Read as impossible for a believer, it can make an honest struggle feel
-> like proof of being lost. The passage itself does neither — it diagnoses a
-> mechanism, and then names a rescuer.
+> **What the chapter is not.** It is not a description of the normal Christian
+> life. It is the sound of a man trying, in his own strength, to keep something
+> holy — *I delight in the law of God according to the inward man*, and losing every
+> time. Paul writes it to bring you to the end of that, so that the first line of
+> the next chapter can land: *there is therefore now no condemnation to those who
+> are in Christ Jesus.*

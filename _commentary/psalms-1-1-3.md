@@ -4,6 +4,7 @@ title: Three verbs going downhill, and a tree that does not
 sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
 updated: 2026-08-06
 ---
 

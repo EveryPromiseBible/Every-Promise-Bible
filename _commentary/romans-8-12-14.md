@@ -2,6 +2,7 @@
 key: Romans 8:12–14
 title: A debt Paul says you do not owe
 sources:
+  - 2019-01-20 his-lavish-love-exceeds-your-expectations
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
 updated: 2026-08-06
 ---

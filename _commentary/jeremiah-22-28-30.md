@@ -2,6 +2,7 @@
 key: Jeremiah 22:28–30
 title: The curse on Jeconiah, and the line that had to get past it
 sources:
+  - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2018-10-14 boldness-to-inherit-every-blessing
 updated: 2026-08-06
 ---

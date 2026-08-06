@@ -2,6 +2,7 @@
 key: 2 Corinthians 5:20–21
 title: The great exchange
 sources:
+  - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2018-09-30 believe-he-wants-to-heal-and-provide
 updated: 2026-08-06
 ---

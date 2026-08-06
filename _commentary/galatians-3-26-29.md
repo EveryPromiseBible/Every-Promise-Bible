@@ -2,6 +2,7 @@
 key: Galatians 3:26–29
 title: "Then you are Abraham's seed"
 sources:
+  - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
   - 2018-11-11 true-prosperity-in-every-area
 updated: 2026-08-06
 ---

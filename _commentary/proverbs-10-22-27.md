@@ -3,6 +3,7 @@ key: Proverbs 10:22–27
 title: "He adds no sorrow along with it"
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2019-04-14 positioned-for-his-provision
 updated: 2026-08-06
 ---
 

@@ -2,6 +2,7 @@
 key: Deuteronomy 11:10–12
 title: Not like Egypt
 sources:
+  - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2018-11-11 true-prosperity-in-every-area
 updated: 2026-08-06
 ---

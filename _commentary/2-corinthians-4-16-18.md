@@ -3,6 +3,7 @@ key: 2 Corinthians 4:16–18
 title: The scales Paul is using
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
 updated: 2026-08-06
 ---
 

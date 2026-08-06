@@ -3,6 +3,8 @@ key: Matthew 8:14–17
 title: Matthew tells you which prophecy the healings were
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
+  - 2019-02-17 find-answers-in-your-darkest-times
+  - 2019-02-24 the-healing-power-of-the-holy-communion
 updated: 2026-08-06
 ---
 

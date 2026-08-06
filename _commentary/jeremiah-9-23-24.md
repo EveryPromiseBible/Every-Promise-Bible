@@ -3,6 +3,7 @@ key: Jeremiah 9:23–24
 title: The three things not to boast in, and the one thing to
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
 updated: 2026-08-06
 ---
 

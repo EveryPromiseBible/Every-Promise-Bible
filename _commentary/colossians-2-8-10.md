@@ -3,6 +3,7 @@ key: Colossians 2:8–10
 title: "In Him you have been made complete"
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2019-02-17 find-answers-in-your-darkest-times
 updated: 2026-08-06
 ---
 
@@ -49,3 +50,12 @@ spirits — are put under the same head the reader is joined to.
 > what Christ is and what the reader has in Him, and lets the offer collapse under
 > the comparison. It is the same move as Ephesians 1: prayer that they would see
 > what they already have, rather than instruction on getting more.
+
+## The verse before this one
+
+The warning does not stand on its own. Paul has just written *just as you received
+Christ Jesus the Lord, keep on walking in Him* — rooted, built up, made firm.
+
+That is what makes the kidnapping possible to resist. A man who is rooted can be
+approached by a persuasive teacher and stay where he is. See the note on
+Colossians 2:4–7.

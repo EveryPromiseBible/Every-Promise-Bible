@@ -3,6 +3,7 @@ key: Exodus 12:1–13
 title: "When I see the blood" — who the sign was for
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2019-04-14 positioned-for-his-provision
 updated: 2026-08-06
 ---
 
@@ -42,6 +43,22 @@ was where it could be seen.
 - **eat it dressed to travel** — sandals on, staff in hand. They were to eat the
   meal in the posture of people already leaving
 - **leave nothing until morning** — the whole lamb is consumed that night
+
+## The four days
+
+*In the tenth day of this month they shall take to them every man a lamb… and you
+shall keep it up **until the fourteenth day**.*
+
+Four days in the house before it is killed. Long enough for a family to look it
+over, and for any blemish to show.
+
+Jesus rode into Jerusalem on the tenth of Nisan, went into the temple, and turned
+over the tables. From that morning to the Passover He is examined by one
+delegation after another — the chief priests and elders, the Pharisees and
+Herodians, the Sadducees, a lawyer — and each goes away with nothing.
+
+Then Pilate: *I find no fault in Him.* Herod finds none. See the note on
+Matthew 21:23–27.
 
 ## The month starts here
 

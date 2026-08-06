@@ -2,9 +2,14 @@
 key: Isaiah 53:4–6
 title: The verbs of exchange
 sources:
+  - 2019-01-20 his-lavish-love-exceeds-your-expectations
+  - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
+  - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-09-09 give-me-this-mountain
   - 2018-08-12 live-long-live-strong
+  - 2019-02-17 find-answers-in-your-darkest-times
+  - 2019-04-14 positioned-for-his-provision
 updated: 2026-08-06
 ---
 

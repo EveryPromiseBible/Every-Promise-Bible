@@ -2,6 +2,7 @@
 key: 1 Corinthians 15:23–28
 title: The last enemy
 sources:
+  - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2018-08-12 live-long-live-strong
 updated: 2026-08-06
 ---

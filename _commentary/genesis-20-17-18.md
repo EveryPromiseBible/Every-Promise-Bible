@@ -2,6 +2,8 @@
 key: Genesis 20:17–18
 title: The first prayer for healing in the Bible
 sources:
+  - 2019-01-06 release-the-blessings-of-the-latter-rain
+  - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2018-09-23 the-key-to-robust-faith
 updated: 2026-08-06
 ---

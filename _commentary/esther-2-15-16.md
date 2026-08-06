@@ -3,6 +3,7 @@ key: Esther 2:15–16
 title: The girl who asked for nothing
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
 updated: 2026-08-06
 ---
 
@@ -34,3 +35,17 @@ card available with unusual coolness. It is judgement.
 > keep landing right. The story is told entirely at ground level — a favour here,
 > a sleepless night there — and the shape only becomes visible from the far end
 > of it.
+
+## The word the chapter keeps using
+
+*Esther **obtained favour** in the sight of all who looked at her.* The Hebrew is
+**chen** — grace, unearned favour, the same word used of Noah finding grace in the
+eyes of the LORD.
+
+The chapter uses it about her again and again. She wins the position without
+qualifications: no family, no wealth, no nation to speak for her, an orphan and a
+captive. What she has is favour, and the writer says so every time she advances.
+
+It is what carries her in chapter 2 and it is what saves her life in chapter 5,
+when a golden sceptre is held out to a woman who came in unsummoned. See the note
+on Esther 5:1–2.

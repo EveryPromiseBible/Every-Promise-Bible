@@ -5,6 +5,7 @@ sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-08-12 live-long-live-strong
+  - 2019-02-24 the-healing-power-of-the-holy-communion
 updated: 2026-08-06
 ---
 
@@ -34,6 +35,24 @@ brought in to nullify *the things that are*.
 
 And the stated purpose is entirely negative: *so that no human being might boast
 in His presence*. The selection criteria were designed to rule something out.
+
+## What God chooses to work with
+
+The principle is not confined to people. It runs through the whole Old
+Testament as a method:
+
+- a **tent peg and a hammer** against nine hundred iron chariots (Judges 4)
+- a **nursing lamb** on an altar while a Philistine army closed in (1 Samuel 7)
+- a **shepherd's sling** against a man in full armour
+- **jars and torches**, three hundred men, no swords drawn (Judges 7)
+
+Nothing in that list looks like a weapon. Every one of them is what God chose,
+and the choosing is the point — *so that no human being might boast in His
+presence.*
+
+A piece of bread and a small cup belong on that list. It is not that they are
+adequate despite being small; small is the specification. See the notes on
+Judges 4:17–24 and 1 Samuel 7:7–11.
 
 ## What Christ is said to have become
 

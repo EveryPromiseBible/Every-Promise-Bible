@@ -3,6 +3,7 @@ key: 1 Corinthians 11:27–30
 title: Discerning the body
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2019-02-24 the-healing-power-of-the-holy-communion
 updated: 2026-08-06
 ---
 
@@ -28,6 +29,38 @@ That is what was going unrecognised at Corinth — people eating in a hurry, som
 drunk, the wealthy shaming the poor, and the bread on the table treated as
 nothing in particular. Paul's whole complaint is that they were not seeing what
 they were holding.
+
+## Two things to tell apart
+
+**Diakrino** does not only mean to notice. It means to **separate** one thing
+from another — to draw a line between two items and treat them differently.
+
+There are two things on that table, and Paul has just named what each one is:
+
+- **the cup** — *the new covenant in My blood*, and Matthew adds *for the
+  forgiveness of sins*
+- **the bread** — *My body, which is broken for you*, and Matthew's own Gospel
+  says of that body, *He took our infirmities and bore our diseases*
+
+To take the cup for forgiveness and swallow the bread as though it were nothing
+in particular is to separate what He handed over together. The blood is not
+doubted; the body is passed over.
+
+That is the failure named in the verse, and Paul attaches a consequence to it in
+the next line.
+
+## The same word, on the road to Jerusalem
+
+Jesus uses **diakrino** in Mark 11, the morning after the fig tree: *whoever says
+to this mountain, be removed, and **does not doubt** in his heart…*
+
+The word rendered *doubt* is this word. Doubting, in that sentence, is being
+divided in yourself — saying one thing and holding another, split down the
+middle.
+
+The mountain and the fig tree are not two different kinds of work; a man who
+divides them will not move either. Neither are the body and the blood. See the
+note on Mark 11:20–26.
 
 ## "In an unworthy way"
 

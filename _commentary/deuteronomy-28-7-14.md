@@ -3,6 +3,7 @@ key: Deuteronomy 28:7–14
 title: "The head and never the tail"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2019-02-17 find-answers-in-your-darkest-times
 updated: 2026-08-06
 ---
 
