@@ -3,6 +3,7 @@ key: Hebrews 11:8–12
 title: "He went out without knowing where he was going"
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

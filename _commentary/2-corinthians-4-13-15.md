@@ -3,6 +3,7 @@ key: 2 Corinthians 4:13–15
 title: The same spirit of faith
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

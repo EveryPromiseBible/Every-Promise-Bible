@@ -3,6 +3,7 @@ key: Genesis 17:3–8
 title: Abram becomes Abraham
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

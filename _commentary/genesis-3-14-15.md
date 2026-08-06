@@ -3,6 +3,7 @@ key: Genesis 3:14–15
 title: The first promise, spoken to the serpent
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Numbers 14:5–10
 title: "The shade that sheltered them is gone"
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Genesis 15:6
 title: Credited as righteousness
 sources:
   - 2019-04-28 the-key-to-live-blessed
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

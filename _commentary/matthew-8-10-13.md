@@ -3,6 +3,7 @@ key: Matthew 8:10–13
 title: "As you have believed"
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

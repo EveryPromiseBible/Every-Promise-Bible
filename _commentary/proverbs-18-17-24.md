@@ -4,6 +4,7 @@ title: "Death and life are in the power of the tongue"
 sources:
   - 2018-08-12 live-long-live-strong
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

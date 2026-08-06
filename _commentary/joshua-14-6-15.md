@@ -4,6 +4,7 @@ title: Caleb at eighty-five, and the hill he asked for
 sources:
   - 2018-09-09 give-me-this-mountain
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 

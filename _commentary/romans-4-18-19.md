@@ -3,6 +3,7 @@ key: Romans 4:18–19
 title: Hoping against hope
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2019-05-12 believe-right-and-see-your-youth-renewed
 updated: 2026-08-06
 ---
 
