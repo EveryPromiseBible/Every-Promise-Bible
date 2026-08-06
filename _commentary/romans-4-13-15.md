@@ -4,6 +4,7 @@ title: Two ways to be an heir, and why they cannot both be true
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-09-23 the-key-to-robust-faith
+  - 2019-04-28 the-key-to-live-blessed
 updated: 2026-08-06
 ---
 

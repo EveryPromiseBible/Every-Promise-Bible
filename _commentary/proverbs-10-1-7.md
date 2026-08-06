@@ -3,6 +3,7 @@ key: Proverbs 10:1–7
 title: "A diligent hand quietly makes him rich"
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2019-04-21 the-best-news-youll-ever-hear
 updated: 2026-08-06
 ---
 

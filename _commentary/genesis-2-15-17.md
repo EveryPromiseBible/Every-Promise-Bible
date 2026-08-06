@@ -3,6 +3,7 @@ key: Genesis 2:15–17
 title: How much of the garden was permitted
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2019-04-21 the-best-news-youll-ever-hear
 updated: 2026-08-06
 ---
 

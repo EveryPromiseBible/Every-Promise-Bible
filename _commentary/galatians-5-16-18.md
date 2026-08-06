@@ -3,6 +3,7 @@ key: Galatians 5:16–18
 title: "If the Spirit is leading you" — what Paul concludes from it
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2019-04-28 the-key-to-live-blessed
 updated: 2026-08-06
 ---
 

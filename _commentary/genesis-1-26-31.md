@@ -3,6 +3,7 @@ key: Genesis 1:26–31
 title: "Let us make human beings in our own image"
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2019-04-21 the-best-news-youll-ever-hear
 updated: 2026-08-06
 ---
 

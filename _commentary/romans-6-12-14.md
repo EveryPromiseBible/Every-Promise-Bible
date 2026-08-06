@@ -3,6 +3,7 @@ key: Romans 6:12–14
 title: "Sin shall not be your master" — a promise, not a warning
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2019-04-28 the-key-to-live-blessed
 updated: 2026-08-06
 ---
 

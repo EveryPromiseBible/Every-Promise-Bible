@@ -3,6 +3,7 @@ key: Matthew 8:1–4
 title: "If You are willing" — and the answer that settles it
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
+  - 2019-04-21 the-best-news-youll-ever-hear
 updated: 2026-08-06
 ---
 
