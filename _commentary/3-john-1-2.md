@@ -3,6 +3,7 @@ key: 3 John 1:2
 title: "The way your soul is already doing well"
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
+  - 2019-05-05 believe-right-and-see-good
 updated: 2026-08-06
 ---
 

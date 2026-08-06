@@ -4,6 +4,7 @@ title: The scales Paul is using
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
+  - 2019-05-05 believe-right-and-see-good
 updated: 2026-08-06
 ---
 
