@@ -3,6 +3,7 @@ key: Colossians 1:15–20
 title: "In Him all of it holds together"
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
+  - 2019-05-08 practical-marriage-and-relationship-truths
 updated: 2026-08-06
 ---
 

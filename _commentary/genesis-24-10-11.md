@@ -3,6 +3,7 @@ key: Genesis 24:10–11
 title: Ten camels, loaded
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
+  - 2019-05-08 practical-marriage-and-relationship-truths
 updated: 2026-08-06
 ---
 
