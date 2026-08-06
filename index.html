@@ -346,14 +346,22 @@
   body.highlight-mode .illum-v.il-hl:hover{background:var(--hl-hover);box-shadow:0 0 0 5px var(--hl-hover);}
   .illum-ref{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-right:8px;vertical-align:2px;letter-spacing:0.02em;}
 
-  /* Verse commentary. A verse carrying a note gets a small marker after its
+  /* Verse commentary. A verse carrying a note gets a small bulb after its
      text; everything else is left alone, so the reading page stays clean and
      the notes are there only for whoever wants them. */
-  .cmt-dot{display:inline-block;width:11px;height:11px;margin-left:7px;padding:0;
-    border:none;border-radius:50%;background:#e8a800;cursor:pointer;vertical-align:1px;
-    box-shadow:0 0 0 0 rgba(232,168,0,0.55);transition:box-shadow 0.2s,background 0.2s;}
-  .cmt-dot:hover{background:#c98f00;box-shadow:0 0 0 4px rgba(232,168,0,0.22);}
-  .cmt-dot.open{background:#c98f00;box-shadow:0 0 0 4px rgba(232,168,0,0.3);}
+  /* The marker is a bulb rather than a plain dot: it says "there is something
+     to see here" on its own, where a dot had to be learned. Masked SVG rather
+     than an emoji so it takes its colour from CSS and looks the same on every
+     platform, and drop-shadow rather than box-shadow so the glow follows the
+     bulb's outline instead of a square box -- it lights up when opened. */
+  .cmt-bulb{display:inline-block;width:13px;height:15px;margin-left:6px;padding:0;
+    border:none;background-color:#e8a800;cursor:pointer;vertical-align:-2px;
+    -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2.2a6.6 6.6 0 0 0-3.8 12c.5.35.8.92.8 1.53V17h6v-1.27c0-.61.3-1.18.8-1.53A6.6 6.6 0 0 0 12 2.2z'/%3E%3Crect x='8.9' y='18.5' width='6.2' height='1.7' rx='.85'/%3E%3Crect x='10.1' y='21.3' width='3.8' height='1.7' rx='.85'/%3E%3C/svg%3E") center/contain no-repeat;
+    mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2.2a6.6 6.6 0 0 0-3.8 12c.5.35.8.92.8 1.53V17h6v-1.27c0-.61.3-1.18.8-1.53A6.6 6.6 0 0 0 12 2.2z'/%3E%3Crect x='8.9' y='18.5' width='6.2' height='1.7' rx='.85'/%3E%3Crect x='10.1' y='21.3' width='3.8' height='1.7' rx='.85'/%3E%3C/svg%3E") center/contain no-repeat;
+    transition:background-color 0.2s,filter 0.2s;}
+  .cmt-bulb:hover{background-color:#c98f00;filter:drop-shadow(0 0 3px rgba(232,168,0,0.75));}
+  .cmt-bulb.open{background-color:#c98f00;filter:drop-shadow(0 0 5px rgba(232,168,0,0.95));}
+  @media (prefers-reduced-motion:reduce){.cmt-bulb{transition:none;}}
   .cmt-panel{display:none;margin:14px 0 22px;padding:18px 20px;max-width:34em;
     background:#fffaf0;border:1px solid #f0dfae;border-left:3px solid #e8a800;
     border-radius:8px;}
@@ -367,6 +375,16 @@
   .cmt-panel li{font-size:0.92em;line-height:1.65;margin:0 0 6px;color:var(--ink);}
   .cmt-note{background:#fff3d6;border-radius:6px;padding:12px 14px;margin-top:12px;}
   .cmt-note p{margin:0;font-size:0.9em;}
+  /* Paging for a long note. Rendered up front, shown one at a time. */
+  .cmt-page{display:none;}
+  .cmt-page.on{display:block;}
+  .cmt-pager{display:flex;align-items:center;gap:5px;margin-top:16px;padding-top:12px;
+    border-top:1px solid rgba(232,168,0,0.35);}
+  .cmt-pg{font-family:var(--mono);font-size:0.66em;min-width:26px;padding:5px 8px;cursor:pointer;
+    border:1px solid rgba(232,168,0,0.5);border-radius:999px;background:transparent;color:#8a6300;}
+  .cmt-pg:hover{border-color:#c98f00;color:#7a5600;}
+  .cmt-pg.on{background:#e8a800;border-color:#e8a800;color:#fff;font-weight:700;}
+  .cmt-pg-of{font-family:var(--mono);font-size:0.62em;color:#a08a4a;margin-left:auto;}
   .cmt-close{display:block;margin-top:14px;background:none;border:none;padding:0;
     font-family:var(--mono);font-size:0.68em;letter-spacing:0.08em;text-transform:uppercase;
     color:#8a6300;cursor:pointer;}
@@ -2652,31 +2670,75 @@ function cmtId(key) { return 'cmt-' + key.replace(/[^A-Za-z0-9]+/g, '-'); }
    rather than showing its asterisks. Escaping happens FIRST and the markers are
    converted after, so nothing in the source can inject markup -- only the two
    asterisk pairs this line looks for ever become a tag. */
+/* Bold first, then italic -- the other order would let the italic rule eat one
+   asterisk from each side of a **bold** run and leave the markers showing. The
+   commentary quotes the verse it sits under constantly, and a quotation wants
+   italics, so single asterisks have to mean something rather than render raw. */
 function cmtText(s) {
-  return ilEsc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  return ilEsc(s)
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, '$1<em>$2</em>');
 }
 
+/* A long note is paged rather than scrolled. A commentary that runs past a
+   screen and a half stops being something a reader dips into mid-chapter, so a
+   'pg' block (a --- rule in the markdown source) starts a new page, and the
+   pages are turned in place without rebuilding the chapter around them. Every
+   page is rendered up front and hidden with CSS: the note is a few kilobytes,
+   and building them lazily would cost more code than it saves. */
 function buildCommentaryPanel(key) {
   const c = commentaryFor(key);
   if (!c) return '';
+  const pages = [[]];
+  c.blocks.forEach(b => {
+    if (b.k === 'pg') pages.push([]);
+    else pages[pages.length - 1].push(b);
+  });
+
   let h = '<div class="cmt-panel" id="' + cmtId(key) + '">' +
           '<div class="cmt-title">' + ilEsc(key) + ' &middot; ' + ilEsc(c.title) + '</div>';
-  c.blocks.forEach(b => {
-    if (b.k === 'h') h += '<h4>' + cmtText(b.t) + '</h4>';
-    else if (b.k === 'ul')
-      h += '<ul>' + b.items.map(i => '<li>' + cmtText(i) + '</li>').join('') + '</ul>';
-    else if (b.k === 'note') h += '<div class="cmt-note"><p>' + cmtText(b.t) + '</p></div>';
-    else h += '<p>' + cmtText(b.t) + '</p>';
+
+  pages.forEach((blocks, i) => {
+    h += '<div class="cmt-page' + (i === 0 ? ' on' : '') + '" data-pg="' + i + '">';
+    blocks.forEach(b => {
+      if (b.k === 'h') h += '<h4>' + cmtText(b.t) + '</h4>';
+      else if (b.k === 'ul')
+        h += '<ul>' + b.items.map(x => '<li>' + cmtText(x) + '</li>').join('') + '</ul>';
+      else if (b.k === 'note') h += '<div class="cmt-note"><p>' + cmtText(b.t) + '</p></div>';
+      else h += '<p>' + cmtText(b.t) + '</p>';
+    });
+    h += '</div>';
   });
+
+  if (pages.length > 1) {
+    h += '<div class="cmt-pager">';
+    for (let i = 0; i < pages.length; i++) {
+      h += '<button class="cmt-pg' + (i === 0 ? ' on' : '') +
+           '" onclick="cmtPage(\'' + key + '\',' + i + ')">' + (i + 1) + '</button>';
+    }
+    h += '<span class="cmt-pg-of">' + pages.length + ' pages</span></div>';
+  }
+
   return h + '<button class="cmt-close" onclick="toggleCommentary(\'' + key +
          '\')">close</button></div>';
+}
+
+function cmtPage(key, n) {
+  const p = document.getElementById(cmtId(key));
+  if (!p) return;
+  p.querySelectorAll('.cmt-page').forEach(el =>
+    el.classList.toggle('on', Number(el.dataset.pg) === n));
+  p.querySelectorAll('.cmt-pg').forEach((el, i) => el.classList.toggle('on', i === n));
+  /* Back to the top of the note, not the top of the page -- a reader turning to
+     page 2 wants its first line, and the panel may be taller than the screen. */
+  p.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function toggleCommentary(key) {
   const p = document.getElementById(cmtId(key));
   if (!p) return;
   const open = p.classList.toggle('open');
-  const dot = document.querySelector('.cmt-dot[data-cmt="' + key + '"]');
+  const dot = document.querySelector('.cmt-bulb[data-cmt="' + key + '"]');
   if (dot) dot.classList.toggle('open', open);
   if (open) p.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
@@ -2721,7 +2783,7 @@ function buildIllumChapter(ch) {
            '<span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
            ilText(v[1]);
       if (note) {
-        h += '<button class="cmt-dot" data-cmt="' + ilEsc(key) + '" title="commentary"' +
+        h += '<button class="cmt-bulb" data-cmt="' + ilEsc(key) + '" title="commentary"' +
              ' aria-label="Commentary on ' + ilEsc(key) + '"' +
              ' onclick="toggleCommentary(\'' + key + '\')"></button>';
       }
@@ -2753,7 +2815,7 @@ function ilHighlightVerse(el, si, vi, ev) {
   /* Only while the highlighter is on, so ordinary reading and the commentary
      dots are untouched. */
   if (!highlightMode || !ilChapter) return;
-  if (ev && ev.target && ev.target.closest && ev.target.closest('.cmt-dot')) return;
+  if (ev && ev.target && ev.target.closest && ev.target.closest('.cmt-bulb')) return;
   const s = ilChapter.sections[si], v = s.verses[vi];
   const key = ilVerseKey(currentTx, ilChapter.ref, v[0]);
   const at = highlights.findIndex(x => x.key === key);
@@ -4449,6 +4511,11 @@ function optSourcesHtml() {
   return '<div class="opt-about">' +
          '<p>This is built on freely licensed scholarly work. The Greek is reproduced ' +
          'word for word and checked mechanically against its source rather than asserted.</p>' +
+         '<div class="opt-facts">' +
+         '<b>Credit</b><span>The Grace Commentary was developed with study of publicly ' +
+         'available sermon notes from Joseph Prince Ministries. Every note is original ' +
+         'writing; none of their wording is quoted.</span>' +
+         '</div>' +
          '<div class="opt-facts">' +
          rows.map(r => '<b>' + r[0] + '</b><span>' + r[1] + ' &mdash; ' + r[2] + '</span>').join('') +
          '</div>' +

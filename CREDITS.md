@@ -9,6 +9,30 @@ was used, under what terms, and — as CC BY requires — **what was changed.**
 |---|---|
 | Code (`tools/`, the app code in `index.html`) | MIT — see [LICENSE](LICENSE) |
 | Translation and data (`data/*.js`) | CC BY-SA 4.0 — see [LICENSE-DATA](LICENSE-DATA) |
+| **`data/commentary.js` — The Grace Commentary** | **All rights reserved. Used by permission of Joseph Prince Ministries for non-commercial use only.** |
+
+> **The commentary is the one exception to the open licence.** It is original
+> writing and quotes nobody, but it was developed with study of publicly
+> available sermon notes from Joseph Prince Ministries, under a permission
+> granted 6 August 2026 that covers this free app and website only. A fork may
+> use every other file in `data/` freely; that one needs its own permission from
+> info@josephprince.org.
+
+## The Grace Commentary
+
+The verse commentary in the Illumination Translation — the lightbulb at the end
+of a verse. Every note is written from the Greek text and public-domain sources.
+
+**The credit, in the wording Joseph Prince Ministries asked for:**
+
+> The Grace Commentary was developed with study of publicly available sermon
+> notes from Joseph Prince Ministries.
+
+**Modifications:** none, in the sense that matters — no sentence, phrase or turn
+of wording from their notes appears here. The permission is to draw on the
+substance of the teaching as study, and every note was then written fresh. Which
+sermon informed which note is recorded in `_commentary/ledger.json`, which holds
+titles, dates, links and scripture references only, never their text.
 
 The two differ because the data builds on a ShareAlike source. See LICENSE-DATA.
 

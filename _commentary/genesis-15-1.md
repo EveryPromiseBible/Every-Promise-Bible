@@ -1,0 +1,40 @@
+---
+key: Genesis 15:1
+title: "I Myself am your shield" — what Abram had just turned down
+sources:
+  - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
+updated: 2026-08-06
+---
+
+*After all this* — three words that make the verse. To feel it you have to know
+what just happened.
+
+## What Abram had just done
+
+Chapter 14: he rescues Lot by attacking a coalition of kings at night with 318
+men. On the way back he meets Melchizedek, gives him a tenth of everything, and
+then the king of Sodom offers him all the recovered goods.
+
+Abram refuses. He will not take *a thread or a sandal strap*, so that no one can
+ever say the king of Sodom made him rich.
+
+So he has just fought a war, given away a tenth, and declined a fortune. Then
+night falls.
+
+## What God says
+
+*Don't be afraid, Abram. I Myself am your shield, your protector. And your reward
+will be very great.*
+
+Both halves answer something specific:
+
+- **shield** — he has just made permanent enemies of four kings
+- **reward** — he has just refused payment
+
+The word for reward is a plain one for wages or spoils. God uses the vocabulary
+of the thing Abram walked away from and applies it to Himself.
+
+> **What Abram says next.** He does not thank God. He says: what can You give me,
+> since I remain childless? The great promise lands on a man whose actual
+> complaint is elsewhere entirely — and God takes him outside to look at the
+> stars rather than rebuking him for it.

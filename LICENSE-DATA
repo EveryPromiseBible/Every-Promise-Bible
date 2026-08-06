@@ -10,8 +10,24 @@ This covers the original writing and everything in data/:
     data/thayer.js         the full Thayer's entries
     data/abbott.js         the assembled Abbott-Smith entries
     data/wordpictures.js   the word pictures
-    data/commentary.js     the commentary notes
     data/wordcounts.js     the generated word-count table
+
+ONE FILE IN data/ IS NOT COVERED BY THIS LICENCE AT ALL:
+
+    data/commentary.js     The Grace Commentary
+
+    All rights reserved. Used by permission of Joseph Prince Ministries for
+    non-commercial use only.
+
+    It is original writing — none of their wording is quoted or reproduced —
+    but it was developed with study of their publicly available sermon notes,
+    and the permission granted on 6 August 2026 is limited to the free,
+    non-commercial Every Promise app and website. It expressly does NOT permit
+    redistribution under CC BY-SA, commercial use, or print publication.
+
+    If you have forked this repository: every other file in data/ is yours to
+    use under the terms below. This one is not. Delete it, or write to
+    info@josephprince.org for your own permission.
 
 Two files in data/ are public-domain works reproduced rather than authored, and
 this licence adds no claim over them:
