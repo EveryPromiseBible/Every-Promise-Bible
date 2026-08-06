@@ -3,6 +3,7 @@ key: Isaiah 54:9–10
 title: The oath God swears about His own anger
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2014-04-13 noah-the-real-story
 updated: 2026-08-06
 ---
 

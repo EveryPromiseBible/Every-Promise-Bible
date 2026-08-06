@@ -3,6 +3,7 @@ key: Genesis 6:9–12
 title: "Noah walked with God"
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2014-04-13 noah-the-real-story
 updated: 2026-08-06
 ---
 
