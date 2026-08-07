@@ -3,6 +3,7 @@ key: Exodus 21:1
 title: Rules set before them
 sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2023-04-16 unveiling-jesus-heart-to-serve-you
 updated: 2026-08-06
 ---
 

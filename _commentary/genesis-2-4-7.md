@@ -7,6 +7,7 @@ sources:
   - 2021-07-11 unleash-his-resurrection-life
   - 2021-07-18 christ-consciousness-brings-life
   - 2022-05-01 guard-the-imaginations-of-your-heart
+  - 2023-04-16 unveiling-jesus-heart-to-serve-you
 updated: 2026-08-06
 ---
 
