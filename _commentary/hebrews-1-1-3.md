@@ -4,6 +4,7 @@ title: "He sat down"
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
 updated: 2026-08-06
 ---
 

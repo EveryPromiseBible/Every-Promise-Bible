@@ -5,6 +5,8 @@ sources:
   - 2018-11-04 how-to-pray-and-see-results
   - 2019-12-29 you-have-a-destiny
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
+  - 2020-03-08 find-security-in-times-of-anxiety
+  - 2020-03-15 dwell-safely-in-the-secret-place
 updated: 2026-08-06
 ---
 

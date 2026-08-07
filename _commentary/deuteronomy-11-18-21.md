@@ -3,6 +3,7 @@ key: Deuteronomy 11:18–21
 title: "As many as the days the heavens are above the earth"
 sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
+  - 2020-03-15 dwell-safely-in-the-secret-place
 updated: 2026-08-06
 ---
 

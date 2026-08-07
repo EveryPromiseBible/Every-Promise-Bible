@@ -3,6 +3,7 @@ key: Matthew 24:36–41
 title: "As it was in the days of Noah"
 sources:
   - 2014-04-13 noah-the-real-story
+  - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
 updated: 2026-08-06
 ---
 

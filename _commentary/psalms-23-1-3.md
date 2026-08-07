@@ -6,6 +6,7 @@ sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-05-05 believe-right-and-see-good
   - 2019-12-22 the-stars-tell-the-story-of-jesus
+  - 2020-03-15 dwell-safely-in-the-secret-place
 updated: 2026-08-06
 ---
 

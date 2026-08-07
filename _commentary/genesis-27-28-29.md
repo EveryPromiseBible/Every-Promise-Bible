@@ -3,6 +3,7 @@ key: Genesis 27:28–29
 title: The blessing spoken over the wrong son
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
+  - 2020-03-15 dwell-safely-in-the-secret-place
 updated: 2026-08-06
 ---
 

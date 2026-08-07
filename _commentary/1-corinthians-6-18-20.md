@@ -3,6 +3,7 @@ key: 1 Corinthians 6:18–20
 title: "You are not your own"
 sources:
   - 2020-01-12 the-lord-of-time-and-space-part-2
+  - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
 updated: 2026-08-06
 ---
 
