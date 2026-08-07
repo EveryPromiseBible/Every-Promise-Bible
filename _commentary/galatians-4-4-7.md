@@ -10,6 +10,7 @@ sources:
   - 2021-10-03 leadership-keys
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-03-13 pillars-for-our-church-and-life
+  - 2022-05-22 how-to-be-strong-in-grace
 updated: 2026-08-06
 ---
 

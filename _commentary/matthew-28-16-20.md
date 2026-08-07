@@ -3,7 +3,8 @@ key: Matthew 28:16–20
 title: Some of them were still unsure
 sources:
   - 2022-03-13 pillars-for-our-church-and-life
-updated: 2026-08-07
+  - 2022-05-22 how-to-be-strong-in-grace
+updated: 2026-08-06
 ---
 
 The last five verses of Matthew, and there is a clause in the middle nobody quotes.

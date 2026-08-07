@@ -3,7 +3,8 @@ key: Galatians 3:23–25
 title: Kept until faith came
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2022-05-22 how-to-be-strong-in-grace
+updated: 2026-08-06
 ---
 
 Paul's word for what the law was, and it is a job title from a Greek household.
