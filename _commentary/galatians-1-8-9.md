@@ -3,7 +3,8 @@ key: Galatians 1:8–9
 title: "Let him be accursed"
 sources:
   - 2020-11-22 what-it-means-to-fall-from-grace
-updated: 2026-08-07
+  - 2021-05-09 made-right-in-his-sight
+updated: 2026-08-06
 ---
 
 Paul says the hardest thing in his letters, and then says it a second time in case it read

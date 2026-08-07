@@ -3,6 +3,7 @@ key: 1 Corinthians 3:16–17
 title: "That temple is what you are"
 sources:
   - 2020-01-05 the-lord-of-time-and-space
+  - 2021-05-09 made-right-in-his-sight
 updated: 2026-08-06
 ---
 

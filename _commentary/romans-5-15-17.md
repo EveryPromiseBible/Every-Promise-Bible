@@ -12,6 +12,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2020-11-22 what-it-means-to-fall-from-grace
   - 2021-04-25 your-failure-isnt-final
+  - 2021-05-09 made-right-in-his-sight
 updated: 2026-08-06
 ---
 

@@ -8,6 +8,7 @@ sources:
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-05-02 inside-out-transformation
+  - 2021-05-09 made-right-in-his-sight
 updated: 2026-08-06
 ---
 

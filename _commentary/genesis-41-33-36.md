@@ -3,6 +3,7 @@ key: Genesis 41:33–36
 title: Joseph's counsel
 sources:
   - 2019-11-17 wisdom-for-financial-success
+  - 2021-05-09 made-right-in-his-sight
 updated: 2026-08-06
 ---
 

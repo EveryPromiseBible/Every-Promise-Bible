@@ -3,7 +3,8 @@ key: Leviticus 6:1–7
 title: Full value, plus a fifth
 sources:
   - 2021-04-25 your-failure-isnt-final
-updated: 2026-08-07
+  - 2021-05-09 made-right-in-his-sight
+updated: 2026-08-06
 ---
 
 A law about property, and it starts by calling the offence something else.

@@ -11,6 +11,7 @@ sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-04-25 your-failure-isnt-final
+  - 2021-05-09 made-right-in-his-sight
 updated: 2026-08-06
 ---
 

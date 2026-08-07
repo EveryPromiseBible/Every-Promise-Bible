@@ -3,7 +3,8 @@ key: Psalms 69:1–4
 title: What I never stole
 sources:
   - 2021-04-25 your-failure-isnt-final
-updated: 2026-08-07
+  - 2021-05-09 made-right-in-his-sight
+updated: 2026-08-06
 ---
 
 The psalm quoted at the cross more than any other except the twenty-second.

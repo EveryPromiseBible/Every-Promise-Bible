@@ -7,6 +7,7 @@ sources:
   - 2019-04-28 the-key-to-live-blessed
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2021-04-25 your-failure-isnt-final
+  - 2021-05-09 made-right-in-his-sight
 updated: 2026-08-06
 ---
 

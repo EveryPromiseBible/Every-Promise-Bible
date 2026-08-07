@@ -3,7 +3,8 @@ key: Ephesians 4:20–24
 title: Take it off like a worn-out coat
 sources:
   - 2021-05-02 inside-out-transformation
-updated: 2026-08-07
+  - 2021-05-09 made-right-in-his-sight
+updated: 2026-08-06
 ---
 
 Three infinitives, and they are all about clothing.

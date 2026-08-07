@@ -5,6 +5,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+  - 2021-05-09 made-right-in-his-sight
 updated: 2026-08-06
 ---
 
