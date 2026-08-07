@@ -5,6 +5,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

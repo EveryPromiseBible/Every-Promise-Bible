@@ -11,6 +11,7 @@ sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-09-05 answers-for-a-hurried-life
   - 2021-11-07 win-the-battle-over-bitterness
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

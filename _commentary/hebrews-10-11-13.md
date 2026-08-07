@@ -11,6 +11,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

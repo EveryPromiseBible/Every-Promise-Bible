@@ -9,6 +9,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-08-29 secrets-of-the-peace-offering
   - 2021-09-26 now-is-the-time-of-favor
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

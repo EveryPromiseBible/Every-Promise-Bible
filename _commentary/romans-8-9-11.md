@@ -7,6 +7,7 @@ sources:
   - 2021-07-11 unleash-his-resurrection-life
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-07-25 speak-life-not-death
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

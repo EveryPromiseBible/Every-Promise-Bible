@@ -14,6 +14,7 @@ sources:
   - 2022-06-19 own-the-spirit-of-sonship
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

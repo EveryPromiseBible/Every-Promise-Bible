@@ -3,7 +3,8 @@ key: Hebrews 9:11–12
 title: He brought His own
 sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
-updated: 2026-08-07
+  - 2022-10-30 take-back-your-identity-in-christ
+updated: 2026-08-06
 ---
 
 Two verses, and every clause is a comparison with what the high priest used to do.

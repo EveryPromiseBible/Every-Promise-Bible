@@ -10,6 +10,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2021-04-25 your-failure-isnt-final
   - 2021-08-22 greater-shalom-and-security
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

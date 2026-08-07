@@ -7,6 +7,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

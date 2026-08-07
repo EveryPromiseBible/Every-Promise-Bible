@@ -5,6 +5,7 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2022-04-03 when-the-odds-are-against-you
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

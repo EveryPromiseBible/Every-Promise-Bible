@@ -5,6 +5,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-05-09 made-right-in-his-sight
   - 2022-05-08 own-your-new-creation-identity
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

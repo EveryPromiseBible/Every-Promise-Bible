@@ -13,6 +13,7 @@ sources:
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-05-08 own-your-new-creation-identity
   - 2022-05-22 how-to-be-strong-in-grace
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

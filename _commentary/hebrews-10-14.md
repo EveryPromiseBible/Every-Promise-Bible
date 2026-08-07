@@ -3,7 +3,8 @@ key: Hebrews 10:14
 title: Perfected forever, being made holy
 sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
-updated: 2026-08-07
+  - 2022-10-30 take-back-your-identity-in-christ
+updated: 2026-08-06
 ---
 
 One sentence, and it holds two tenses that most people would not put together.

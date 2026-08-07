@@ -6,6 +6,7 @@ sources:
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

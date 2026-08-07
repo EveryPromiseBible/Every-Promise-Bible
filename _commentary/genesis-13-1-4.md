@@ -4,6 +4,7 @@ title: Back to the altar he had built
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

@@ -18,6 +18,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 

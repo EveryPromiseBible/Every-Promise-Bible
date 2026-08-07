@@ -3,7 +3,8 @@ key: Romans 4:1–3
 title: What did Abraham find
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+  - 2022-10-30 take-back-your-identity-in-christ
+updated: 2026-08-06
 ---
 
 Paul argues his case from the one man his readers could not dismiss.

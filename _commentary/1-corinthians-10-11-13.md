@@ -13,6 +13,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
+  - 2022-10-30 take-back-your-identity-in-christ
 updated: 2026-08-06
 ---
 
