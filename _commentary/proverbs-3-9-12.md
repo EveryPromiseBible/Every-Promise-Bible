@@ -3,6 +3,7 @@ key: Proverbs 3:9–12
 title: "The first and best of everything"
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2022-03-13 pillars-for-our-church-and-life
 updated: 2026-08-06
 ---
 

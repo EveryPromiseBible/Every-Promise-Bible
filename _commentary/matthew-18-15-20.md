@@ -7,6 +7,7 @@ sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2021-10-03 leadership-keys
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-03-13 pillars-for-our-church-and-life
 updated: 2026-08-06
 ---
 

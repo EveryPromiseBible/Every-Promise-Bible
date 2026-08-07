@@ -4,6 +4,7 @@ title: The one place God says "test Me"
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2022-03-13 pillars-for-our-church-and-life
 updated: 2026-08-06
 ---
 

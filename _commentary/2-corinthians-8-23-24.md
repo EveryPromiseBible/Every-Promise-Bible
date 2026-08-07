@@ -3,7 +3,8 @@ key: 2 Corinthians 8:23–24
 title: The glory of Christ
 sources:
   - 2022-03-06 keys-to-counter-the-four-horsemen
-updated: 2026-08-07
+  - 2022-03-13 pillars-for-our-church-and-life
+updated: 2026-08-06
 ---
 
 The end of Paul's letter of introduction for the men carrying the collection.

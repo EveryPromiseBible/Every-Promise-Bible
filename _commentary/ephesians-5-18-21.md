@@ -3,7 +3,8 @@ key: Ephesians 5:18–21
 title: Keep being filled
 sources:
   - 2021-10-24 baptism-of-the-holy-spirit
-updated: 2026-08-07
+  - 2022-03-13 pillars-for-our-church-and-life
+updated: 2026-08-06
 ---
 
 One command, and four participles hanging off it.

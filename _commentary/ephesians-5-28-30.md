@@ -7,6 +7,7 @@ sources:
   - 2021-04-11 all-things-work-for-your-good
   - 2021-05-16 ask-big-ask-bold
   - 2021-05-30 the-key-to-victorious-living
+  - 2022-03-13 pillars-for-our-church-and-life
 updated: 2026-08-06
 ---
 

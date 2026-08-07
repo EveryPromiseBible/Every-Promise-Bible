@@ -9,6 +9,7 @@ sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2021-06-27 his-word-brings-life-and-healing
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-03-13 pillars-for-our-church-and-life
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-05-02 inside-out-transformation
+  - 2022-03-13 pillars-for-our-church-and-life
 updated: 2026-08-06
 ---
 
