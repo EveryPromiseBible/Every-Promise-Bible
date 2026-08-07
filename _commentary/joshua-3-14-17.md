@@ -3,7 +3,8 @@ key: Joshua 3:14–17
 title: The waters stand in a heap
 sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
-updated: 2026-08-07
+  - 2021-06-13 he-goes-ahead-of-you
+updated: 2026-08-06
 ---
 
 The crossing into the land, and the detail that matters is when the water stopped.

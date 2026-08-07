@@ -6,6 +6,7 @@ sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-05-30 the-key-to-victorious-living
+  - 2021-06-13 he-goes-ahead-of-you
 updated: 2026-08-06
 ---
 

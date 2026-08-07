@@ -3,7 +3,8 @@ key: Hebrews 3:16–19
 title: "Unbelief was what kept them out"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2021-06-13 he-goes-ahead-of-you
+updated: 2026-08-06
 ---
 
 Three questions and an answer, and the writer makes the reader do the work.

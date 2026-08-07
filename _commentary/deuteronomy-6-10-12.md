@@ -3,6 +3,7 @@ key: Deuteronomy 6:10–12
 title: "Wells you did not dig"
 sources:
   - 2020-03-08 find-security-in-times-of-anxiety
+  - 2021-06-13 he-goes-ahead-of-you
 updated: 2026-08-06
 ---
 

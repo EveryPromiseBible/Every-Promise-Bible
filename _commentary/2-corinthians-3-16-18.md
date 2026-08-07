@@ -14,6 +14,7 @@ sources:
   - 2021-04-11 all-things-work-for-your-good
   - 2021-05-16 ask-big-ask-bold
   - 2021-06-06 set-apart-for-lasting-success
+  - 2021-06-13 he-goes-ahead-of-you
 updated: 2026-08-06
 ---
 

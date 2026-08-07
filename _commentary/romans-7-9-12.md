@@ -3,6 +3,7 @@ key: Romans 7:9–12
 title: When the commandment came
 sources:
   - 2020-09-27 actively-own-your-double-portion
+  - 2021-06-13 he-goes-ahead-of-you
 updated: 2026-08-06
 ---
 

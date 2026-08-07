@@ -3,7 +3,8 @@ key: Romans 7:7–8
 title: What the commandment uncovered
 sources:
   - 2020-11-01 no-longer-a-slave-to-fear
-updated: 2026-08-07
+  - 2021-06-13 he-goes-ahead-of-you
+updated: 2026-08-06
 ---
 
 Paul asks the question his argument invites, and defends the law in the same breath as

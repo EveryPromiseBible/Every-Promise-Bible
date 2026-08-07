@@ -8,6 +8,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-01 no-longer-a-slave-to-fear
+  - 2021-06-13 he-goes-ahead-of-you
 updated: 2026-08-06
 ---
 
