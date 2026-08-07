@@ -3,6 +3,7 @@ key: Proverbs 3:1–4
 title: "Tie them around your neck"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2022-08-07 encounter-true-grace-and-experience-success
 updated: 2026-08-06
 ---
 

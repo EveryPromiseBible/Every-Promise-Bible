@@ -3,6 +3,7 @@ key: Genesis 24:12–14
 title: The prayer at the well
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2022-08-07 encounter-true-grace-and-experience-success
 updated: 2026-08-06
 ---
 

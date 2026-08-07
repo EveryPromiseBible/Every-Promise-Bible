@@ -4,6 +4,7 @@ title: Out into the deep
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2022-07-03 fresh-supply-for-todays-needs
+  - 2022-08-07 encounter-true-grace-and-experience-success
 updated: 2026-08-06
 ---
 
