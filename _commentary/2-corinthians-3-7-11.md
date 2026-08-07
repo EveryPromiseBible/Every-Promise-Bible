@@ -5,6 +5,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2020-09-27 actively-own-your-double-portion
 updated: 2026-08-06
 ---
 

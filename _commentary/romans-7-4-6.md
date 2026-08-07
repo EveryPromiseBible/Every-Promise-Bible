@@ -5,6 +5,7 @@ sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2020-09-27 actively-own-your-double-portion
 updated: 2026-08-06
 ---
 

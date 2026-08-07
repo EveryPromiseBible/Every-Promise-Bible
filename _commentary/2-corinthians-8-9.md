@@ -8,6 +8,7 @@ sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2020-09-27 actively-own-your-double-portion
 updated: 2026-08-06
 ---
 

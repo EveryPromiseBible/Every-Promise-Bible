@@ -8,6 +8,7 @@ sources:
   - 2020-01-19 god-can-reverse-time-for-you
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-03-22 fear-not-christ-is-in-the-crisis
+  - 2020-09-27 actively-own-your-double-portion
 updated: 2026-08-06
 ---
 

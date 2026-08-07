@@ -4,6 +4,7 @@ title: "Washing her clean with water through the word"
 sources:
   - 2020-01-19 god-can-reverse-time-for-you
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2020-09-27 actively-own-your-double-portion
 updated: 2026-08-06
 ---
 
