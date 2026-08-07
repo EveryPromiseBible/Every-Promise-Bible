@@ -3,6 +3,7 @@ key: 2 Corinthians 9:6–7
 title: "A cheerful giver"
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2020-05-03 experience-abundance-in-times-of-famine
 updated: 2026-08-06
 ---
 

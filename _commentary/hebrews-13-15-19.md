@@ -3,6 +3,7 @@ key: Hebrews 13:15–19
 title: A sacrifice made of words
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2020-05-03 experience-abundance-in-times-of-famine
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2019-12-29 you-have-a-destiny
   - 2020-01-05 the-lord-of-time-and-space
   - 2020-02-02 can-you-see-the-angels-protecting-you
+  - 2020-05-03 experience-abundance-in-times-of-famine
 updated: 2026-08-06
 ---
 

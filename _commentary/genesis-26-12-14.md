@@ -4,6 +4,7 @@ title: A hundredfold in a famine year
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
+  - 2020-05-03 experience-abundance-in-times-of-famine
 updated: 2026-08-06
 ---
 
@@ -47,6 +48,21 @@ herds and servants that the Philistines grew envious of him.*
 The chapter does not stop there, and it is worth reading on: the envy leads to
 his wells being stopped up, and to Abimelech asking him to leave. The blessing
 brought friction with the neighbours almost immediately.
+
+## The three famines in Genesis
+
+Moses puts the same test in front of three generations, and the chapter itself makes
+the comparison — *besides the one in Abraham's time*.
+
+- **Abram** went down to Egypt, and came back up heavy with livestock, silver and
+  gold. See the notes on Genesis 12:10–20 and Genesis 13:1–4.
+- **Isaac** was told not to go down, stayed in Gerar, and reaped a hundredfold in the
+  famine year.
+- **Jacob** heard there was grain in Egypt and sent his sons, and the man selling it
+  was the son he had buried in his mind twenty years earlier. See the note on
+  Genesis 41:53–57.
+
+Three famines, three different routes, and provision in every one.
 
 > **What Isaac does about the wells.** He digs them again, is driven off, digs
 > again, is driven off again, and digs a third — and names it Rehoboth, *room*,

@@ -6,6 +6,7 @@ sources:
   - 2019-07-28 live-out-your-high-calling
   - 2019-09-01 present-help-in-times-of-trouble
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
+  - 2020-05-03 experience-abundance-in-times-of-famine
 updated: 2026-08-06
 ---
 
@@ -69,6 +70,20 @@ The first tithe in Scripture, and everything about the setting matters:
 
 He had just been blessed, and he gave a tenth of the spoils to the man who blessed
 him.
+
+## The word
+
+The Hebrew for tithe is **maaser**, and inside it sits **asar** — the root behind
+**osher**, wealth, and **ashir**, rich.
+
+The tenth and the riches are built on the same three letters.
+
+## The order in the passage
+
+Bread and wine first. Then the blessing. Then the tenth.
+
+Nothing is asked for and nothing is negotiated. Melchizedek arrives carrying something,
+says two blessings, and Abram responds.
 
 ## What Hebrews does with it
 

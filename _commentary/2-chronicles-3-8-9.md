@@ -3,6 +3,7 @@ key: 2 Chronicles 3:8–9
 title: Six hundred talents of gold
 sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
+  - 2020-05-03 experience-abundance-in-times-of-famine
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Genesis 12:10–20
 title: Abram goes down
 sources:
   - 2019-02-17 find-answers-in-your-darkest-times
+  - 2020-05-03 experience-abundance-in-times-of-famine
 updated: 2026-08-06
 ---
 
