@@ -11,6 +11,7 @@ sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-08-01 release-his-glory-in-your-life
+  - 2021-09-26 now-is-the-time-of-favor
 updated: 2026-08-06
 ---
 

@@ -12,6 +12,7 @@ sources:
   - 2017-03-19 win-over-discouragement-depression-and-burnout
   - 2021-04-04 stand-on-favor-ground
   - 2021-05-16 ask-big-ask-bold
+  - 2021-09-26 now-is-the-time-of-favor
 updated: 2026-08-06
 ---
 

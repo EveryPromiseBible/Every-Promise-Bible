@@ -4,6 +4,7 @@ title: "Right now is the day of rescue"
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2021-09-05 answers-for-a-hurried-life
+  - 2021-09-26 now-is-the-time-of-favor
 updated: 2026-08-06
 ---
 

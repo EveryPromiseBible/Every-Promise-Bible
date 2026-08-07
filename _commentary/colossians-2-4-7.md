@@ -8,6 +8,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2021-09-05 answers-for-a-hurried-life
+  - 2021-09-26 now-is-the-time-of-favor
 updated: 2026-08-06
 ---
 

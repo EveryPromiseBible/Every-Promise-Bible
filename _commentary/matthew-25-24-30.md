@@ -3,6 +3,7 @@ key: Matthew 25:24–30
 title: "I knew you to be a hard man"
 sources:
   - 2019-07-21 see-his-love-and-receive-his-power
+  - 2021-09-26 now-is-the-time-of-favor
 updated: 2026-08-06
 ---
 

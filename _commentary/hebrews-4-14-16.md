@@ -8,6 +8,7 @@ sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
   - 2021-05-02 inside-out-transformation
   - 2021-08-29 secrets-of-the-peace-offering
+  - 2021-09-26 now-is-the-time-of-favor
 updated: 2026-08-06
 ---
 

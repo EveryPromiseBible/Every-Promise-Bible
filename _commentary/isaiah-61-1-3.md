@@ -6,6 +6,7 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2021-01-17 learn-how-to-receive-visions
+  - 2021-09-26 now-is-the-time-of-favor
 updated: 2026-08-06
 ---
 
