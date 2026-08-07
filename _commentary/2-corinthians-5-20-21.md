@@ -10,6 +10,7 @@ sources:
   - 2017-09-10 the-prayer-that-repairs-your-body
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2020-12-06 follow-the-promptings-of-the-spirit
+  - 2021-01-03 the-year-of-hazon-vision
 updated: 2026-08-06
 ---
 

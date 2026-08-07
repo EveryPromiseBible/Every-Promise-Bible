@@ -3,6 +3,7 @@ key: 1 Samuel 3:1–3
 title: "The lamp of God had not yet gone out"
 sources:
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2021-01-03 the-year-of-hazon-vision
 updated: 2026-08-06
 ---
 

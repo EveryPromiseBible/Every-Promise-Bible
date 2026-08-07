@@ -3,6 +3,7 @@ key: 1 John 4:4
 title: "The One in you is bigger"
 sources:
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2021-01-03 the-year-of-hazon-vision
 updated: 2026-08-06
 ---
 

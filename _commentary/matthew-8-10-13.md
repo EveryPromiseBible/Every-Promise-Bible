@@ -7,6 +7,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-09-27 actively-own-your-double-portion
   - 2020-10-11 he-confirms-his-word-with-miracles
+  - 2021-01-03 the-year-of-hazon-vision
 updated: 2026-08-06
 ---
 

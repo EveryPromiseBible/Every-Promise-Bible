@@ -6,6 +6,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-09-01 present-help-in-times-of-trouble
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2021-01-03 the-year-of-hazon-vision
 updated: 2026-08-06
 ---
 
