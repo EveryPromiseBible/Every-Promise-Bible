@@ -8,6 +8,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-05-10 can-i-ask-god-to-prosper-me
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 

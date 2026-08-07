@@ -3,6 +3,7 @@ key: Psalms 129:3–4
 title: "The plowmen plowed across my back"
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 

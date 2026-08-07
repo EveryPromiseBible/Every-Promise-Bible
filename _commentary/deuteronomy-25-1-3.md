@@ -3,6 +3,7 @@ key: Deuteronomy 25:1–3
 title: Forty, but no more
 sources:
   - 2020-09-27 actively-own-your-double-portion
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 

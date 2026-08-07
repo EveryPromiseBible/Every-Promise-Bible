@@ -22,6 +22,7 @@ sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-02-21 your-provision-is-in-the-vision
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 

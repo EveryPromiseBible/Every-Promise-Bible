@@ -3,7 +3,8 @@ key: Ecclesiastes 9:7–9
 title: "God has already approved"
 sources:
   - 2020-12-13 declare-you-are-highly-favored
-updated: 2026-08-07
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
+updated: 2026-08-06
 ---
 
 The bleakest book in the Bible stops to tell somebody to enjoy their dinner.

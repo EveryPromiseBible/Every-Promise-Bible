@@ -12,6 +12,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 

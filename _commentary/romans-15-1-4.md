@@ -4,6 +4,7 @@ title: What strength is for
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 

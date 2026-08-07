@@ -4,6 +4,7 @@ title: "He hauled our sins up onto the wood"
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
   - 2021-02-07 answers-for-a-distracted-world
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 

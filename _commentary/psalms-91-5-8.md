@@ -10,6 +10,7 @@ sources:
   - 2020-02-16 anointing-oil-for-healing-and-protection
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2017-08-06 the-healing-power-of-a-joyful-heart
 updated: 2026-08-06
 ---
 
