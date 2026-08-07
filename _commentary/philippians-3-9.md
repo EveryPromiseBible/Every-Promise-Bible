@@ -3,6 +3,7 @@ key: Philippians 3:9
 title: Which righteousness a man is wearing
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 

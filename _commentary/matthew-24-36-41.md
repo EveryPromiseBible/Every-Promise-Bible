@@ -5,6 +5,7 @@ sources:
   - 2014-04-13 noah-the-real-story
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 

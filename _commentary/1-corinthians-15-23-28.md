@@ -4,6 +4,7 @@ title: The last enemy
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2018-08-12 live-long-live-strong
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 
@@ -33,6 +34,27 @@ crop.
 
 That is the argument of the whole chapter compressed into a phrase: what happened
 to Him is what happens to His.
+
+## "He must reign until"
+
+*For **He must reign until** He has put all enemies under His feet.*
+
+The reign is present tense and the subduing is in progress. Paul is not describing a
+future coronation — he is describing what is happening now, between the resurrection
+and the last enemy.
+
+This is Psalm 110 again: *sit at My right hand **until** I make Your enemies Your
+footstool.* Both verses put the reigning and the subduing in the same window, and in
+both the one reigning is seated.
+
+## Who does the putting
+
+*For **He has put** all things under His feet.*
+
+Paul quotes Psalm 8 and then stops to clarify the grammar: *when He says all things
+are put under Him, it is evident that He who put all things under Him is excepted.*
+
+He interrupts his own argument to make sure nobody misreads a pronoun.
 
 > **The strange ending.** Paul says that when everything has been put under
 > Christ, the Son Himself will be subject to the Father, *so that God may be all

@@ -4,6 +4,7 @@ title: "Raised so that we could be put right"
 sources:
   - 2019-04-21 the-best-news-youll-ever-hear
   - 2019-05-05 believe-right-and-see-good
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 

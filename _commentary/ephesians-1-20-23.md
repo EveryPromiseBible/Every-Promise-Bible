@@ -9,6 +9,7 @@ sources:
   - 2020-03-08 find-security-in-times-of-anxiety
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 
@@ -48,6 +49,28 @@ head and a body are not in two locations. Paul will say it outright two chapters
 on: seated together with Him in the heavenly places.
 
 Where the head is seated is where the body is.
+
+## Under His feet
+
+*And He put **everything under His feet**.*
+
+The phrase is quoted from Psalm 8 — *You have put all things under his feet* — which
+was written about man, not about the Messiah. Adam's commission, given back.
+
+And it is the posture Psalm 110 describes from the other side: *sit at My right hand
+until I make Your enemies **a footstool** under Your feet.* See the note on
+Mark 12:35–37.
+
+A footstool is what a seated man rests on. The picture is not a struggle in progress.
+
+## Where the feet are
+
+If the head is seated and the enemies are under His feet, then the part of the body
+that touches them is the part furthest from the head — and it is still His body.
+
+Paul's closing line in the letter says the same thing from the ground: *the God of
+peace will crush Satan **under your feet** shortly* is Romans, and Ephesians 6 has the
+church standing, not advancing. See the note on Ephesians 6:13–15.
 
 > **"The fullness of the One who fills everything."** Paul calls the church that,
 > which is an extraordinary thing to call a scattered collection of first-century

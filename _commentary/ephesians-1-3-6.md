@@ -4,6 +4,7 @@ title: Everything already given, and where it is kept
 sources:
   - 2018-10-14 boldness-to-inherit-every-blessing
   - 2018-09-09 give-me-this-mountain
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 

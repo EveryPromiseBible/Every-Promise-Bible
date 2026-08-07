@@ -6,6 +6,7 @@ sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 

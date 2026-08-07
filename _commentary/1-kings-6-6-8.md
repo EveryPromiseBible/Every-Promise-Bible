@@ -7,6 +7,7 @@ sources:
   - 2020-01-12 the-lord-of-time-and-space-part-2
   - 2020-01-19 god-can-reverse-time-for-you
   - 2020-02-16 anointing-oil-for-healing-and-protection
+  - 2020-04-12 rise-up-and-reign-over-your-enemies
 updated: 2026-08-06
 ---
 
