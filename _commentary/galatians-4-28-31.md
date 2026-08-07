@@ -3,7 +3,8 @@ key: Galatians 4:28–31
 title: Children of the free woman
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2020-11-15 five-times-more-favor-and-provision
+updated: 2026-08-06
 ---
 
 Paul applies the allegory, and the application has a hard edge on it.

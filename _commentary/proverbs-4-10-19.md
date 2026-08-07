@@ -3,7 +3,8 @@ key: Proverbs 4:10–19
 title: Two paths
 sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
-updated: 2026-08-07
+  - 2020-11-15 five-times-more-favor-and-provision
+updated: 2026-08-06
 ---
 
 A father's instruction, and it ends by comparing two roads by how much you can see on

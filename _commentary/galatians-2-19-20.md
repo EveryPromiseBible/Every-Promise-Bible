@@ -4,6 +4,7 @@ title: The faith of the Son of God
 sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2020-11-15 five-times-more-favor-and-provision
 updated: 2026-08-06
 ---
 

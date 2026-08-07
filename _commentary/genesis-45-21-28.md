@@ -4,6 +4,7 @@ title: "Don't quarrel on the way"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2020-11-15 five-times-more-favor-and-provision
 updated: 2026-08-06
 ---
 

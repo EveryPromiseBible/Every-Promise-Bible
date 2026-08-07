@@ -4,6 +4,7 @@ title: "Everything is against me"
 sources:
   - 2019-09-01 present-help-in-times-of-trouble
   - 2020-05-24 find-power-in-his-presence
+  - 2020-11-15 five-times-more-favor-and-provision
 updated: 2026-08-06
 ---
 

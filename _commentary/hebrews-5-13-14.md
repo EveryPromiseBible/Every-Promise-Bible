@@ -3,7 +3,8 @@ key: Hebrews 5:13–14
 title: Food you have to chew
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2020-11-15 five-times-more-favor-and-provision
+updated: 2026-08-06
 ---
 
 The writer explains the difference between the two diets, and the test he gives is not

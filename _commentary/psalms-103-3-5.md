@@ -4,6 +4,7 @@ title: "Your youth is renewed like the eagle's"
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2020-11-15 five-times-more-favor-and-provision
 updated: 2026-08-06
 ---
 

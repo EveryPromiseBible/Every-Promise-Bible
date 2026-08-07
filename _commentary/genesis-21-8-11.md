@@ -3,7 +3,8 @@ key: Genesis 21:8–11
 title: The feast and the demand
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2020-11-15 five-times-more-favor-and-provision
+updated: 2026-08-06
 ---
 
 A party for a small boy, and it ends a household.
