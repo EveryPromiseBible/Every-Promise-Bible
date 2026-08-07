@@ -8,6 +8,7 @@ sources:
   - 2022-01-09 gods-way-of-acceleration
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-05-01 guard-the-imaginations-of-your-heart
+  - 2022-05-15 perceive-gods-wisdom-in-your-heart
 updated: 2026-08-06
 ---
 

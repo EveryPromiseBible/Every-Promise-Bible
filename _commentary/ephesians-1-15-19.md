@@ -15,6 +15,7 @@ sources:
   - 2021-05-30 the-key-to-victorious-living
   - 2021-07-18 christ-consciousness-brings-life
   - 2022-05-01 guard-the-imaginations-of-your-heart
+  - 2022-05-15 perceive-gods-wisdom-in-your-heart
 updated: 2026-08-06
 ---
 

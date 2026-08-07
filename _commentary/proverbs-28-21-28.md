@@ -3,6 +3,7 @@ key: Proverbs 28:21–28
 title: "The stingy man hurries after wealth"
 sources:
   - 2019-04-14 positioned-for-his-provision
+  - 2022-05-15 perceive-gods-wisdom-in-your-heart
 updated: 2026-08-06
 ---
 
