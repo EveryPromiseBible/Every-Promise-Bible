@@ -5,6 +5,7 @@ sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-08-29 secrets-of-the-peace-offering
+  - 2023-04-23 be-healed-by-the-washing-of-the-word
 updated: 2026-08-06
 ---
 

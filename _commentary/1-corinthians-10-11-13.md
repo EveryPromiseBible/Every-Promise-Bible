@@ -16,6 +16,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2022-12-13 prosperity-with-a-purpose
+  - 2023-04-23 be-healed-by-the-washing-of-the-word
 updated: 2026-08-06
 ---
 

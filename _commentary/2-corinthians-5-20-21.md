@@ -29,6 +29,7 @@ sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2023-04-16 unveiling-jesus-heart-to-serve-you
+  - 2023-04-23 be-healed-by-the-washing-of-the-word
 updated: 2026-08-06
 ---
 
