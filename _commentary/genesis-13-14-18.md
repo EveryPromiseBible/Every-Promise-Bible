@@ -3,7 +3,8 @@ key: Genesis 13:14–18
 title: "Look around you, from where you are"
 sources:
   - 2021-01-03 the-year-of-hazon-vision
-updated: 2026-08-07
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
+updated: 2026-08-06
 ---
 
 God speaks to Abram at the moment he has just given away the best land.

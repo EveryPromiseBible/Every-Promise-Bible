@@ -13,6 +13,7 @@ sources:
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-07-26 the-power-of-positive-expectations
   - 2020-12-27 how-to-see-many-beautiful-days
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 

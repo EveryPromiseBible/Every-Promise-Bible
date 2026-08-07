@@ -3,7 +3,8 @@ key: Exodus 31:1–5
 title: Bezalel, chosen by name
 sources:
   - 2021-01-03 the-year-of-hazon-vision
-updated: 2026-08-07
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
+updated: 2026-08-06
 ---
 
 The first man in Scripture said to be filled with the Spirit of God is a craftsman.

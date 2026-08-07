@@ -5,6 +5,7 @@ sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
   - 2021-01-03 the-year-of-hazon-vision
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Proverbs 29:14–18
 title: "Where there is no vision"
 sources:
   - 2021-01-03 the-year-of-hazon-vision
-updated: 2026-08-07
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
+updated: 2026-08-06
 ---
 
 Five proverbs, and the last one is the famous one.

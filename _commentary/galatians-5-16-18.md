@@ -9,6 +9,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-09-27 actively-own-your-double-portion
   - 2020-12-06 follow-the-promptings-of-the-spirit
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-11-01 no-longer-a-slave-to-fear
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 

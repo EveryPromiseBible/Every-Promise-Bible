@@ -3,6 +3,7 @@ key: Ecclesiastes 3:11
 title: "Eternity in the human heart"
 sources:
   - 2019-08-04 the-overflow-life-for-you
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 

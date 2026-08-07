@@ -3,6 +3,7 @@ key: Isaiah 11:1–3
 title: A shoot from the stump
 sources:
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 

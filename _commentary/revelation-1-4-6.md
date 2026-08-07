@@ -6,6 +6,7 @@ sources:
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2019-07-28 live-out-your-high-calling
   - 2020-05-31 activate-the-gifts-of-the-spirit
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 

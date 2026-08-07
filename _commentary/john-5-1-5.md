@@ -3,6 +3,7 @@ key: John 5:1–5
 title: Thirty-eight years by the pool
 sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
+  - 2021-01-10 position-yourself-to-see-his-hazon-vision
 updated: 2026-08-06
 ---
 
