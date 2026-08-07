@@ -3,7 +3,8 @@ key: Genesis 24:66–67
 title: Isaac was comforted
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
+updated: 2026-08-06
 ---
 
 The last two verses of the longest chapter in Genesis.

@@ -4,6 +4,7 @@ title: Ten camels, loaded
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
 updated: 2026-08-06
 ---
 

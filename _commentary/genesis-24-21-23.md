@@ -3,7 +3,8 @@ key: Genesis 24:21–23
 title: He watched her in silence
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-07
+  - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
+updated: 2026-08-06
 ---
 
 The most economical verse in the chapter, and it is a man doing nothing.

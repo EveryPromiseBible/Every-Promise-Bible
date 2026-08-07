@@ -4,6 +4,7 @@ title: "Come, buy with no money"
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
+  - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
 updated: 2026-08-06
 ---
 

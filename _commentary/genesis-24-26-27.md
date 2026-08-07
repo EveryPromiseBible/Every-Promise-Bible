@@ -3,7 +3,8 @@ key: Genesis 24:26–27
 title: On the very road
 sources:
   - 2022-08-07 encounter-true-grace-and-experience-success
-updated: 2026-08-07
+  - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
+updated: 2026-08-06
 ---
 
 A servant bows in the dirt beside a well because a girl mentioned her grandfather.

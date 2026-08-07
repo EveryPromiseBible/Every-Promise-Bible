@@ -5,6 +5,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
 updated: 2026-08-06
 ---
 
