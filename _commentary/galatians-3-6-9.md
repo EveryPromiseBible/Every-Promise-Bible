@@ -5,6 +5,7 @@ sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2023-06-11 blessed-with-father-abrahams-blessings
 updated: 2026-08-06
 ---
 

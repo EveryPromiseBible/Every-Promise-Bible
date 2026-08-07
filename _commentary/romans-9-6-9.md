@@ -3,7 +3,8 @@ key: Romans 9:6–9
 title: The promise has not failed
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-07
+  - 2023-06-11 blessed-with-father-abrahams-blessings
+updated: 2026-08-06
 ---
 
 The question underneath chapters 9 to 11, stated in the first sentence.

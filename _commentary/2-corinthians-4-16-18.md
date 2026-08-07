@@ -13,6 +13,7 @@ sources:
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2023-06-11 blessed-with-father-abrahams-blessings
 updated: 2026-08-06
 ---
 

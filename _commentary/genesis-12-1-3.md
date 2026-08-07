@@ -6,6 +6,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2022-11-06 prosper-gods-way-during-recession
   - 2022-12-13 prosperity-with-a-purpose
+  - 2023-06-11 blessed-with-father-abrahams-blessings
 updated: 2026-08-06
 ---
 

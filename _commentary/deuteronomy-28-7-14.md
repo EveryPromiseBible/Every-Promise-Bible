@@ -10,6 +10,7 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2022-06-26 hope-for-the-third-day-generation
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2023-06-11 blessed-with-father-abrahams-blessings
 updated: 2026-08-06
 ---
 

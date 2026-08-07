@@ -12,6 +12,7 @@ sources:
   - 2021-05-30 the-key-to-victorious-living
   - 2021-10-31 where-is-holiness-in-grace
   - 2022-04-03 when-the-odds-are-against-you
+  - 2023-06-11 blessed-with-father-abrahams-blessings
 updated: 2026-08-06
 ---
 

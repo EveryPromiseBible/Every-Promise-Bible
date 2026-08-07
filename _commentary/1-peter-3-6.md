@@ -3,7 +3,8 @@ key: 1 Peter 3:6
 title: "Will not let any scare rattle you"
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2023-06-11 blessed-with-father-abrahams-blessings
+updated: 2026-08-06
 ---
 
 Peter reaches back to Genesis for an example, and the sentence he ends on is about fear.
