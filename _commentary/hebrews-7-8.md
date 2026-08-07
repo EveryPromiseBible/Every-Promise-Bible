@@ -7,6 +7,7 @@ sources:
   - 2019-08-04 the-overflow-life-for-you
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-05-03 experience-abundance-in-times-of-famine
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

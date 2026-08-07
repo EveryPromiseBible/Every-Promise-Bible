@@ -3,6 +3,7 @@ key: Hebrews 7:4–5
 title: "Think how big a figure this must be"
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

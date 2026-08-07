@@ -3,6 +3,7 @@ key: Genesis 45:21–28
 title: "Don't quarrel on the way"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

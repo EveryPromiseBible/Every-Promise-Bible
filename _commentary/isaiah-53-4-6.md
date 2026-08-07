@@ -19,6 +19,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-07-26 the-power-of-positive-expectations
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

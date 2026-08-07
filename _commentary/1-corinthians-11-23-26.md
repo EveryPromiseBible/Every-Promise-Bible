@@ -6,6 +6,7 @@ sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

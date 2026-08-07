@@ -3,6 +3,7 @@ key: Genesis 14:21–24
 title: "Not even a thread"
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

@@ -9,6 +9,7 @@ sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-05-24 find-power-in-his-presence
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

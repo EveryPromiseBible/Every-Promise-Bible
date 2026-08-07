@@ -7,6 +7,7 @@ sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 

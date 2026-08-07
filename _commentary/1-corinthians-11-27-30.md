@@ -6,6 +6,7 @@ sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
 updated: 2026-08-06
 ---
 
