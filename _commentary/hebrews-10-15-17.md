@@ -4,6 +4,7 @@ title: "I will remember no more"
 sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2020-07-12 his-blessings-over-you-are-irreversible
 updated: 2026-08-06
 ---
 

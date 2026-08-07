@@ -4,6 +4,7 @@ title: Two things that cannot shift
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2020-07-12 his-blessings-over-you-are-irreversible
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2020-05-24 find-power-in-his-presence
+  - 2020-07-12 his-blessings-over-you-are-irreversible
 updated: 2026-08-06
 ---
 

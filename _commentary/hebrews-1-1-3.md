@@ -6,6 +6,7 @@ sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2020-07-12 his-blessings-over-you-are-irreversible
 updated: 2026-08-06
 ---
 

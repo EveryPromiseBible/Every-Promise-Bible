@@ -3,6 +3,7 @@ key: Hebrews 10:8–9
 title: "He cancels the first to put the second in its place"
 sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2020-07-12 his-blessings-over-you-are-irreversible
 updated: 2026-08-06
 ---
 

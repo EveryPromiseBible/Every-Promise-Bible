@@ -4,6 +4,7 @@ title: The priest who sat down
 sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2020-07-12 his-blessings-over-you-are-irreversible
 updated: 2026-08-06
 ---
 
