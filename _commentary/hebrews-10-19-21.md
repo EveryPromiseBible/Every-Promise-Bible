@@ -5,6 +5,7 @@ sources:
   - 2019-01-27 be-led-by-his-anointing-and-win
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
+  - 2020-05-24 find-power-in-his-presence
 updated: 2026-08-06
 ---
 
@@ -56,6 +57,23 @@ See the note on Matthew 27:51–53.
 Three things are now in place — an open way, a road that lives, and a priest
 already inside. The next verse begins *let us draw near*, and the rest of the
 chapter is what to do about it.
+
+## What stood in front of the curtain
+
+The golden altar of incense, immediately outside the veil, with smoke going over the
+top of it into the room beyond.
+
+The high priest carried a censer through on the Day of Atonement precisely so the cloud
+would cover the mercy seat *lest he die*.
+
+The incense was what made the approach survivable. See the note on Exodus 30:34–38.
+
+## What is in the room now
+
+*And we have **a great Priest set over God's household**.*
+
+Not waiting outside once a year. Inside, permanently, and the way to Him is described as
+open.
 
 > **Why "flinch" is the right word.** Everything in the old arrangement taught
 > people to hesitate: the curtain, the once-a-year, the incense so the priest

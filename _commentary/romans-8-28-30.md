@@ -5,6 +5,7 @@ sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2018-07-29 practical-leadership-keys-to-living-holy
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2020-05-24 find-power-in-his-presence
 updated: 2026-08-06
 ---
 

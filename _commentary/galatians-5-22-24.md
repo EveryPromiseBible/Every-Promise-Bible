@@ -3,6 +3,7 @@ key: Galatians 5:22–24
 title: The fruit the Spirit grows
 sources:
   - 2019-04-28 the-key-to-live-blessed
+  - 2020-05-24 find-power-in-his-presence
 updated: 2026-08-06
 ---
 

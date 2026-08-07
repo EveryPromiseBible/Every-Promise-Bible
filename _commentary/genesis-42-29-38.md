@@ -3,6 +3,7 @@ key: Genesis 42:29–38
 title: "Everything is against me"
 sources:
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2020-05-24 find-power-in-his-presence
 updated: 2026-08-06
 ---
 

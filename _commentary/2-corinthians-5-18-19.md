@@ -3,6 +3,7 @@ key: 2 Corinthians 5:18–19
 title: "Refusing to hold their sins against them"
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
+  - 2020-05-24 find-power-in-his-presence
 updated: 2026-08-06
 ---
 

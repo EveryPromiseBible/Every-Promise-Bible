@@ -3,6 +3,7 @@ key: Hebrews 7:20–22
 title: The oath
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
+  - 2020-05-24 find-power-in-his-presence
 updated: 2026-08-06
 ---
 
