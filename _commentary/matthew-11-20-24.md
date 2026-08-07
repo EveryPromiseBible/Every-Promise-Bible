@@ -5,6 +5,7 @@ sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2020-10-11 he-confirms-his-word-with-miracles
+  - 2022-10-16 be-occupied-with-the-word-not-the-enemy
 updated: 2026-08-06
 ---
 

@@ -7,6 +7,7 @@ sources:
   - 2021-08-29 secrets-of-the-peace-offering
   - 2021-11-28 faith-to-possess-the-land
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2022-10-16 be-occupied-with-the-word-not-the-enemy
 updated: 2026-08-06
 ---
 

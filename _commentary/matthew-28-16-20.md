@@ -6,6 +6,7 @@ sources:
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
   - 2022-10-09 hope-for-the-end-times
+  - 2022-10-16 be-occupied-with-the-word-not-the-enemy
 updated: 2026-08-06
 ---
 

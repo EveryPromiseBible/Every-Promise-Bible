@@ -12,6 +12,7 @@ sources:
   - 2022-03-13 pillars-for-our-church-and-life
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-06-19 own-the-spirit-of-sonship
+  - 2022-10-16 be-occupied-with-the-word-not-the-enemy
 updated: 2026-08-06
 ---
 

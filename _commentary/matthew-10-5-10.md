@@ -3,7 +3,8 @@ key: Matthew 10:5–10
 title: You received it as a gift
 sources:
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
-updated: 2026-08-07
+  - 2022-10-16 be-occupied-with-the-word-not-the-enemy
+updated: 2026-08-06
 ---
 
 The first sending, and it has a boundary on it that will not survive the resurrection.

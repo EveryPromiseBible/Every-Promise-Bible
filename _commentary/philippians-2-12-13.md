@@ -9,6 +9,7 @@ sources:
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-07 win-the-battle-over-bitterness
+  - 2022-10-16 be-occupied-with-the-word-not-the-enemy
 updated: 2026-08-06
 ---
 
