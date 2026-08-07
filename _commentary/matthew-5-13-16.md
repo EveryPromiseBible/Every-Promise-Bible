@@ -4,6 +4,7 @@ title: "You are" — before anyone has done anything
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2019-02-17 find-answers-in-your-darkest-times
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

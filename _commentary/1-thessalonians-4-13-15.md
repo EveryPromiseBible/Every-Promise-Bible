@@ -7,6 +7,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-08-01 release-his-glory-in-your-life
   - 2021-10-10 understand-the-times
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

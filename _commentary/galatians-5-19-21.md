@@ -3,7 +3,8 @@ key: Galatians 5:19–21
 title: The works of the flesh
 sources:
   - 2020-11-22 what-it-means-to-fall-from-grace
-updated: 2026-08-07
+  - 2021-10-17 gods-heart-for-your-family
+updated: 2026-08-06
 ---
 
 Paul lists them, and the list is longer and more ordinary than people expect.

@@ -3,6 +3,7 @@ key: Psalms 128:1–2
 title: "You will eat the fruit of your labour"
 sources:
   - 2019-04-28 the-key-to-live-blessed
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

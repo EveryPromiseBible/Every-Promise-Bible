@@ -4,6 +4,7 @@ title: "Train up a child in the way he should go"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

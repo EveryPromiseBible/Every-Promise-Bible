@@ -4,6 +4,7 @@ title: "Nothing to look at but this manna"
 sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2020-12-06 follow-the-promptings-of-the-spirit
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

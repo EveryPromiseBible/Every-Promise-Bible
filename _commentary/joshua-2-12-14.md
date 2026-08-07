@@ -3,6 +3,7 @@ key: Joshua 2:12–14
 title: "Kindness and truth" — the two words she is given
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

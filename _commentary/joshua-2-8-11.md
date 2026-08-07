@@ -4,6 +4,7 @@ title: What the whole city knew, and what one person did about it
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

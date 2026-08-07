@@ -4,6 +4,7 @@ title: The scarlet cord, and the terms she agreed to
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Genesis 22:15–18
 title: "I swear by myself"
 sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

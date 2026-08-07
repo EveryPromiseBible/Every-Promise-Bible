@@ -20,6 +20,7 @@ sources:
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-10 understand-the-times
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

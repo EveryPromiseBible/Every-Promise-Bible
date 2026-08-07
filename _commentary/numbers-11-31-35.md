@@ -3,6 +3,7 @@ key: Numbers 11:31–35
 title: The graves of craving
 sources:
   - 2019-09-22 eat-the-communion-fresh
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 

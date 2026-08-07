@@ -5,6 +5,7 @@ sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2014-04-13 noah-the-real-story
   - 2021-06-06 set-apart-for-lasting-success
+  - 2021-10-17 gods-heart-for-your-family
 updated: 2026-08-06
 ---
 
