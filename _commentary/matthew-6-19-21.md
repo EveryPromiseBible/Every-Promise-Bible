@@ -4,6 +4,7 @@ title: "Where your treasure is" — the direction of the sentence
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

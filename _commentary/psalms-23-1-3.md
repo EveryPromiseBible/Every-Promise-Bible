@@ -18,6 +18,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

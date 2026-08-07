@@ -3,6 +3,7 @@ key: Ecclesiastes 2:24–26
 title: "The task of gathering and piling up"
 sources:
   - 2019-04-14 positioned-for-his-provision
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

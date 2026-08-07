@@ -7,6 +7,7 @@ sources:
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

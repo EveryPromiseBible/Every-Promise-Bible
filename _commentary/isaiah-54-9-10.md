@@ -7,6 +7,7 @@ sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-02-27 jesus-saves-heals-and-renews
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

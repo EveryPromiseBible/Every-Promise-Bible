@@ -7,6 +7,7 @@ sources:
   - 2021-02-07 answers-for-a-distracted-world
   - 2022-01-09 gods-way-of-acceleration
   - 2022-04-03 when-the-odds-are-against-you
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

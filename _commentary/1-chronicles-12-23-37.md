@@ -4,6 +4,7 @@ title: "Men who understood the times"
 sources:
   - 2020-01-12 the-lord-of-time-and-space-part-2
   - 2022-02-20 stay-strong-and-healthy-gods-way
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

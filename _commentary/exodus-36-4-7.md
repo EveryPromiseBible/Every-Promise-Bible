@@ -3,7 +3,8 @@ key: Exodus 36:4–7
 title: More than enough
 sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
-updated: 2026-08-07
+  - 2022-12-13 prosperity-with-a-purpose
+updated: 2026-08-06
 ---
 
 The only time in the Bible that people have to be told to stop giving.

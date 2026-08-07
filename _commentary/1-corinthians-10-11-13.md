@@ -15,6 +15,7 @@ sources:
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

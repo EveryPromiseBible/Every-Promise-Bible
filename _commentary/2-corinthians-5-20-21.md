@@ -24,6 +24,7 @@ sources:
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-05-08 own-your-new-creation-identity
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

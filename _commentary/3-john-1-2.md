@@ -22,6 +22,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-11-28 faith-to-possess-the-land
   - 2022-02-27 jesus-saves-heals-and-renews
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

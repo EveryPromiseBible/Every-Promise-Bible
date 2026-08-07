@@ -3,6 +3,7 @@ key: Romans 2:1–5
 title: "It is God's kindness that is leading you to a change of mind"
 sources:
   - 2018-11-04 how-to-pray-and-see-results
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

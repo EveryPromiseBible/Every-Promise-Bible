@@ -3,7 +3,8 @@ key: Exodus 3:11–12
 title: Who am I
 sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
-updated: 2026-08-07
+  - 2022-12-13 prosperity-with-a-purpose
+updated: 2026-08-06
 ---
 
 He asks the wrong question and gets an answer to a different one.

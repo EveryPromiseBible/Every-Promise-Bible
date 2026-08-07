@@ -4,6 +4,7 @@ title: "Walk with the wise and grow wise"
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-04-14 positioned-for-his-provision
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

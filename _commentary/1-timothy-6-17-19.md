@@ -8,6 +8,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 

@@ -17,6 +17,7 @@ sources:
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2022-12-13 prosperity-with-a-purpose
 updated: 2026-08-06
 ---
 
