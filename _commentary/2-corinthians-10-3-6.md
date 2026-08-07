@@ -4,6 +4,7 @@ title: The fortresses are arguments
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2021-04-25 your-failure-isnt-final
 updated: 2026-08-06
 ---
 

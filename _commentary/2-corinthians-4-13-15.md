@@ -7,6 +7,7 @@ sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-04-04 stand-on-favor-ground
+  - 2021-04-25 your-failure-isnt-final
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Romans 4:6–8
 title: The blessing David sang
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2021-04-25 your-failure-isnt-final
 updated: 2026-08-06
 ---
 
