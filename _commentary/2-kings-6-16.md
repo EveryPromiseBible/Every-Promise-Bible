@@ -3,6 +3,7 @@ key: 2 Kings 6:16
 title: "More than those with them"
 sources:
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2020-02-02 can-you-see-the-angels-protecting-you
 updated: 2026-08-06
 ---
 

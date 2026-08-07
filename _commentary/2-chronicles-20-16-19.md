@@ -3,6 +3,7 @@ key: 2 Chronicles 20:16–19
 title: Singers in front of the army
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
+  - 2020-02-02 can-you-see-the-angels-protecting-you
 updated: 2026-08-06
 ---
 

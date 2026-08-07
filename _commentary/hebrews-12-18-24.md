@@ -4,6 +4,7 @@ title: Two mountains, and which one you are standing on
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2018-07-29 practical-leadership-keys-to-living-holy
+  - 2020-02-02 can-you-see-the-angels-protecting-you
 updated: 2026-08-06
 ---
 
@@ -27,6 +28,29 @@ Nothing in the description is about the law being wrong. Everything in it is
 about what happens to people who come to God that way. It is unbearable — and
 the one man in the story who had God's own attention is the one who says he is
 shaking.
+
+## The rule at the foot of it
+
+*If even an animal so much as touches the mountain, **it is to be stoned**, or run
+through with a spear.*
+
+Exodus records the boundary: a line drawn round the base, and a death penalty for
+crossing it — applying to livestock, which cannot read a warning.
+
+That is the detail the writer picks to show what the approach was like. Not the fire
+or the trumpet. A cow that wandered.
+
+## The angels
+
+*Angels in numbers no one can count.*
+
+The Greek is **muriasin** — myriads, tens of thousands, and the word behind
+*myriad*. It is the largest number the language had, used as a plural.
+
+At Sinai they were there too — Deuteronomy says *the LORD came from Sinai… He came
+with ten thousands of saints* — but the mountain the readers were kept off.
+
+Here they are listed among the things the reader has already come to.
 
 ## The second mountain
 
