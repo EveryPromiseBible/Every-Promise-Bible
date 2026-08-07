@@ -4,6 +4,7 @@ title: The prayer at the well
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2022-08-07 encounter-true-grace-and-experience-success
+  - 2023-01-08 the-kairos-year-of-right-time-right-place
 updated: 2026-08-06
 ---
 

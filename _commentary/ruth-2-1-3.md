@@ -3,7 +3,8 @@ key: Ruth 2:1–3
 title: "Though it looked like plain chance"
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-07
+  - 2023-01-08 the-kairos-year-of-right-time-right-place
+updated: 2026-08-06
 ---
 
 Three verses of setup, and the narrator interrupts himself in the last one.

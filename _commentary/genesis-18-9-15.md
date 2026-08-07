@@ -4,6 +4,7 @@ title: Sarah laughed
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2021-11-28 faith-to-possess-the-land
+  - 2023-01-08 the-kairos-year-of-right-time-right-place
 updated: 2026-08-06
 ---
 

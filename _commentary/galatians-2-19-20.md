@@ -7,6 +7,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-05-30 the-key-to-victorious-living
   - 2021-06-13 he-goes-ahead-of-you
+  - 2023-01-08 the-kairos-year-of-right-time-right-place
 updated: 2026-08-06
 ---
 

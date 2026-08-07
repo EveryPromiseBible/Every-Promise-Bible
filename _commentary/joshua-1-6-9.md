@@ -11,6 +11,7 @@ sources:
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2023-01-08 the-kairos-year-of-right-time-right-place
 updated: 2026-08-06
 ---
 

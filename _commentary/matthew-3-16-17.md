@@ -8,6 +8,7 @@ sources:
   - 2021-08-01 release-his-glory-in-your-life
   - 2021-08-15 the-significance-of-this-generation
   - 2013-12-08 understanding-grace-and-discipleship
+  - 2023-01-08 the-kairos-year-of-right-time-right-place
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: "Time and chance meet them all"
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2020-01-12 the-lord-of-time-and-space-part-2
+  - 2023-01-08 the-kairos-year-of-right-time-right-place
 updated: 2026-08-06
 ---
 
