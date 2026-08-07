@@ -3,6 +3,7 @@ key: Genesis 7:11–16
 title: "Then the LORD shut him in"
 sources:
   - 2014-04-13 noah-the-real-story
+  - 2022-07-31 rest-for-your-soul-in-restless-times
 updated: 2026-08-06
 ---
 

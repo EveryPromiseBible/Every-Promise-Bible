@@ -5,6 +5,7 @@ sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2019-07-28 live-out-your-high-calling
   - 2021-05-16 ask-big-ask-bold
+  - 2022-07-31 rest-for-your-soul-in-restless-times
 updated: 2026-08-06
 ---
 

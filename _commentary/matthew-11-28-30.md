@@ -18,6 +18,7 @@ sources:
   - 2022-01-09 gods-way-of-acceleration
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-02-27 jesus-saves-heals-and-renews
+  - 2022-07-31 rest-for-your-soul-in-restless-times
 updated: 2026-08-06
 ---
 

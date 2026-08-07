@@ -3,7 +3,8 @@ key: Matthew 7:15–20
 title: Wool on the outside
 sources:
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-07
+  - 2022-07-31 rest-for-your-soul-in-restless-times
+updated: 2026-08-06
 ---
 
 Near the end of the Sermon on the Mount, and it is a test for the audience rather than an

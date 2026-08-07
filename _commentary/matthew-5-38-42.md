@@ -3,7 +3,8 @@ key: Matthew 5:38–42
 title: The other cheek
 sources:
   - 2022-05-08 own-your-new-creation-identity
-updated: 2026-08-07
+  - 2022-07-31 rest-for-your-soul-in-restless-times
+updated: 2026-08-06
 ---
 
 The fifth of the six *you have heard it said* sayings, and every example in it is a small,

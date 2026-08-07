@@ -3,6 +3,7 @@ key: 2 Chronicles 26:1–5
 title: "As long as he sought the LORD"
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2022-07-31 rest-for-your-soul-in-restless-times
 updated: 2026-08-06
 ---
 
