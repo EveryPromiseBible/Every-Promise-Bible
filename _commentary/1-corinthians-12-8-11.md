@@ -3,6 +3,7 @@ key: 1 Corinthians 12:8–11
 title: "Just as He wills"
 sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
+  - 2021-02-07 answers-for-a-distracted-world
 updated: 2026-08-06
 ---
 

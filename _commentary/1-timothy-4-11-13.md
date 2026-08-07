@@ -3,7 +3,8 @@ key: 1 Timothy 4:11–13
 title: "Do not let anyone dismiss you"
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2021-02-07 answers-for-a-distracted-world
+updated: 2026-08-06
 ---
 
 Paul's instruction to a young man left running a difficult church.

@@ -3,6 +3,7 @@ key: 1 Timothy 4:14–16
 title: What "meditate" meant, and what "saved" covers
 sources:
   - 2021-01-31 keys-to-good-success
+  - 2021-02-07 answers-for-a-distracted-world
 updated: 2026-08-06
 ---
 

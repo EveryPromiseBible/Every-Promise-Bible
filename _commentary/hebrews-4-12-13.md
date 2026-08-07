@@ -3,6 +3,7 @@ key: Hebrews 4:12–13
 title: Alive, and cutting
 sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2021-02-07 answers-for-a-distracted-world
 updated: 2026-08-06
 ---
 

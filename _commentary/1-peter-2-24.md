@@ -3,6 +3,7 @@ key: 1 Peter 2:24
 title: "He hauled our sins up onto the wood"
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
+  - 2021-02-07 answers-for-a-distracted-world
 updated: 2026-08-06
 ---
 
