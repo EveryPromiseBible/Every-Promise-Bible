@@ -4,6 +4,7 @@ title: What did Abraham find
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

@@ -14,6 +14,7 @@ sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

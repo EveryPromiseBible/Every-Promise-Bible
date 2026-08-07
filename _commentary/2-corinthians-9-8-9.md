@@ -4,6 +4,7 @@ title: All you need, and plenty over
 sources:
   - 2022-08-07 encounter-true-grace-and-experience-success
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

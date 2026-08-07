@@ -9,6 +9,7 @@ sources:
   - 2022-03-13 pillars-for-our-church-and-life
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

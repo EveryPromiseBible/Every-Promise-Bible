@@ -11,6 +11,7 @@ sources:
   - 2020-09-27 actively-own-your-double-portion
   - 2021-11-28 faith-to-possess-the-land
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

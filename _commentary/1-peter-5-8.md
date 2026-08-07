@@ -6,6 +6,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-10-17 gods-heart-for-your-family
   - 2017-09-17 under-attack-put-on-the-armor-of-god
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

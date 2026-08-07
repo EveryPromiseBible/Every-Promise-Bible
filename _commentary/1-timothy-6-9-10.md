@@ -5,6 +5,7 @@ sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2021-01-31 keys-to-good-success
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

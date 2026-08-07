@@ -4,6 +4,7 @@ title: "Calls things that do not exist as though they already do"
 sources:
   - 2019-05-05 believe-right-and-see-good
   - 2021-07-25 speak-life-not-death
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

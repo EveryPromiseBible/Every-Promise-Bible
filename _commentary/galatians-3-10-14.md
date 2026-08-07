@@ -13,6 +13,7 @@ sources:
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-10-24 baptism-of-the-holy-spirit
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

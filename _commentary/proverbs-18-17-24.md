@@ -12,6 +12,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2022-05-08 own-your-new-creation-identity
   - 2022-07-10 supernatural-supply-in-difficult-times
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

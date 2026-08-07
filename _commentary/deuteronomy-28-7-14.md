@@ -9,6 +9,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2021-01-31 keys-to-good-success
   - 2022-06-26 hope-for-the-third-day-generation
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 

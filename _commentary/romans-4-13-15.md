@@ -8,6 +8,7 @@ sources:
   - 2020-02-23 run-toward-your-giants-without-fear
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2020-11-01 no-longer-a-slave-to-fear
+  - 2022-11-06 prosper-gods-way-during-recession
 updated: 2026-08-06
 ---
 
