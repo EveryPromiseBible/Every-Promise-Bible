@@ -4,6 +4,7 @@ title: The waters stand in a heap
 sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2021-06-13 he-goes-ahead-of-you
+  - 2022-04-17 healed-and-whole-by-his-resurrection-life
 updated: 2026-08-06
 ---
 

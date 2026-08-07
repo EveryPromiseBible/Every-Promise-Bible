@@ -3,7 +3,8 @@ key: Joshua 3:1–4
 title: You have never come this way before
 sources:
   - 2021-06-13 he-goes-ahead-of-you
-updated: 2026-08-07
+  - 2022-04-17 healed-and-whole-by-his-resurrection-life
+updated: 2026-08-06
 ---
 
 Marching orders, and the reason given for them is a gap.
