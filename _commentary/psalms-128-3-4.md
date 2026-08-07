@@ -3,7 +3,8 @@ key: Psalms 128:3–4
 title: A vine and young olive shoots
 sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
-updated: 2026-08-07
+  - 2021-01-17 learn-how-to-receive-visions
+updated: 2026-08-06
 ---
 
 Two images from a smallholding, applied to a household.

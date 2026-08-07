@@ -3,6 +3,7 @@ key: Genesis 3:6–7
 title: "Their eyes were opened — but not the way the serpent said"
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

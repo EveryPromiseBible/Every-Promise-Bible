@@ -7,6 +7,7 @@ sources:
   - 2019-07-28 live-out-your-high-calling
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-09-27 actively-own-your-double-portion
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

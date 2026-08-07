@@ -10,6 +10,7 @@ sources:
   - 2020-09-27 actively-own-your-double-portion
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

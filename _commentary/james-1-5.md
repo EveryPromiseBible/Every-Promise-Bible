@@ -4,6 +4,7 @@ title: The two words that take the sting out of asking
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

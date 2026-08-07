@@ -3,6 +3,7 @@ key: Jeremiah 17:5–6
 title: The bush in the desert
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

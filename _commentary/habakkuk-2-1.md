@@ -3,7 +3,8 @@ key: Habakkuk 2:1
 title: "I will take my stand"
 sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
-updated: 2026-08-07
+  - 2021-01-17 learn-how-to-receive-visions
+updated: 2026-08-06
 ---
 
 One verse, and it is a decision about where to stand.

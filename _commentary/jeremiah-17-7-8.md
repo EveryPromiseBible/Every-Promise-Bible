@@ -3,6 +3,7 @@ key: Jeremiah 17:7–8
 title: The tree that never fails
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

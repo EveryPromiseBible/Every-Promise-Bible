@@ -6,6 +6,7 @@ sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

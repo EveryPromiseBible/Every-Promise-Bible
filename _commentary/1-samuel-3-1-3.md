@@ -5,6 +5,7 @@ sources:
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

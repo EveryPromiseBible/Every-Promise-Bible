@@ -7,6 +7,7 @@ sources:
   - 2017-09-10 the-prayer-that-repairs-your-body
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2021-01-17 learn-how-to-receive-visions
 updated: 2026-08-06
 ---
 

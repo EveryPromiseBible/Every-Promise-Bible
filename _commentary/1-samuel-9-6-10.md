@@ -3,7 +3,8 @@ key: 1 Samuel 9:6–10
 title: A quarter shekel and some lost donkeys
 sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
-updated: 2026-08-07
+  - 2021-01-17 learn-how-to-receive-visions
+updated: 2026-08-06
 ---
 
 The first king of Israel is out looking for livestock when he stumbles into the

@@ -3,7 +3,8 @@ key: Habakkuk 2:2–3
 title: "Write it plain"
 sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
-updated: 2026-08-07
+  - 2021-01-17 learn-how-to-receive-visions
+updated: 2026-08-06
 ---
 
 The answer to a man standing on a wall, and it begins with an instruction about
