@@ -10,6 +10,7 @@ sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2021-02-07 answers-for-a-distracted-world
   - 2021-08-15 the-significance-of-this-generation
+  - 2021-09-05 answers-for-a-hurried-life
 updated: 2026-08-06
 ---
 

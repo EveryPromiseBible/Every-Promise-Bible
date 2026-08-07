@@ -4,6 +4,7 @@ title: "Worth every bit as much as ours"
 sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2021-07-25 speak-life-not-death
+  - 2021-09-05 answers-for-a-hurried-life
 updated: 2026-08-06
 ---
 

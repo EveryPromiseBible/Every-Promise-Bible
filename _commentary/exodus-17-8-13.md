@@ -3,6 +3,7 @@ key: Exodus 17:8–13
 title: Hands held up until sundown
 sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
+  - 2021-09-05 answers-for-a-hurried-life
 updated: 2026-08-06
 ---
 

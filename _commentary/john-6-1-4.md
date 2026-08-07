@@ -3,7 +3,8 @@ key: John 6:1–4
 title: Across the Sea of Galilee
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2021-09-05 answers-for-a-hurried-life
+updated: 2026-08-06
 ---
 
 Four verses of setting, and every detail in them is doing something.

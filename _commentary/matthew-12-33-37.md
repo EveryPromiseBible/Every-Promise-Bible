@@ -3,6 +3,7 @@ key: Matthew 12:33–37
 title: "The mouth speaks out of whatever fills the heart"
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2021-09-05 answers-for-a-hurried-life
 updated: 2026-08-06
 ---
 

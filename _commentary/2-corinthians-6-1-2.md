@@ -3,6 +3,7 @@ key: 2 Corinthians 6:1–2
 title: "Right now is the day of rescue"
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2021-09-05 answers-for-a-hurried-life
 updated: 2026-08-06
 ---
 
