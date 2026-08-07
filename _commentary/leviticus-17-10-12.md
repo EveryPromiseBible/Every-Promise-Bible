@@ -5,6 +5,7 @@ sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

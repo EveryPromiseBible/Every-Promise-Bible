@@ -10,6 +10,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-05-09 made-right-in-his-sight
   - 2017-09-17 under-attack-put-on-the-armor-of-god
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

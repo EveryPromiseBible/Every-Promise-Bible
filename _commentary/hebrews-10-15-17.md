@@ -6,6 +6,7 @@ sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-12-06 follow-the-promptings-of-the-spirit
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

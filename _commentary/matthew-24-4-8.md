@@ -8,6 +8,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-01-09 gods-way-of-acceleration
   - 2022-03-06 keys-to-counter-the-four-horsemen
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

@@ -21,6 +21,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-05-08 own-your-new-creation-identity
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

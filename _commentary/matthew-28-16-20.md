@@ -4,6 +4,7 @@ title: Some of them were still unsure
 sources:
   - 2022-03-13 pillars-for-our-church-and-life
   - 2022-05-22 how-to-be-strong-in-grace
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

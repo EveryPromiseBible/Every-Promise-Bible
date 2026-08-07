@@ -7,6 +7,7 @@ sources:
   - 2021-04-11 all-things-work-for-your-good
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-10-10 understand-the-times
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

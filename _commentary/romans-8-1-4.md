@@ -17,6 +17,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

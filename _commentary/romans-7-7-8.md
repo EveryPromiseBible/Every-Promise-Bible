@@ -5,6 +5,7 @@ sources:
   - 2020-11-01 no-longer-a-slave-to-fear
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-07-18 christ-consciousness-brings-life
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

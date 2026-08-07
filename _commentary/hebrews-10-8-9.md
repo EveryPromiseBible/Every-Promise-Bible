@@ -4,6 +4,7 @@ title: "He cancels the first to put the second in its place"
 sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 

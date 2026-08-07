@@ -3,7 +3,8 @@ key: Hebrews 10:10
 title: One time and never again
 sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
-updated: 2026-08-07
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+updated: 2026-08-06
 ---
 
 One sentence, and every phrase in it is load-bearing.

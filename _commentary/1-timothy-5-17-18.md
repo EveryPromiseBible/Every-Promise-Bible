@@ -6,6 +6,7 @@ sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2020-01-19 god-can-reverse-time-for-you
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
 updated: 2026-08-06
 ---
 
