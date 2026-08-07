@@ -13,6 +13,7 @@ sources:
   - 2014-04-13 noah-the-real-story
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2019-07-21 see-his-love-and-receive-his-power
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 

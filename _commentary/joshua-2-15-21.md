@@ -3,6 +3,7 @@ key: Joshua 2:15–21
 title: The scarlet cord, and the terms she agreed to
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 

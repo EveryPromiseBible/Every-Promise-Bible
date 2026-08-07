@@ -5,6 +5,7 @@ sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2019-05-05 believe-right-and-see-good
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 

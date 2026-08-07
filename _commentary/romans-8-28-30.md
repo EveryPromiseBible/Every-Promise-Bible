@@ -4,6 +4,7 @@ title: What the "good" in "works together for good" is
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2018-07-29 practical-leadership-keys-to-living-holy
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 

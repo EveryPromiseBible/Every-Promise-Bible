@@ -4,6 +4,7 @@ title: Melchizedek brings out bread and wine
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-07-28 live-out-your-high-calling
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 

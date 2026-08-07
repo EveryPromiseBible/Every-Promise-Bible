@@ -3,6 +3,7 @@ key: Hebrews 11:1–3
 title: The shape of faith
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 

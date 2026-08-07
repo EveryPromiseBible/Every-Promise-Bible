@@ -5,6 +5,7 @@ sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-04-28 the-key-to-live-blessed
   - 2019-05-05 believe-right-and-see-good
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 

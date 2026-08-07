@@ -5,6 +5,7 @@ sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2014-04-13 noah-the-real-story
+  - 2019-09-01 present-help-in-times-of-trouble
 updated: 2026-08-06
 ---
 
