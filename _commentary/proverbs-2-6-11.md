@@ -4,6 +4,7 @@ title: "From His mouth come knowledge and understanding"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

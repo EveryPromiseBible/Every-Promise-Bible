@@ -3,6 +3,7 @@ key: Judges 14:5–7
 title: "He told no one, not even his parents"
 sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

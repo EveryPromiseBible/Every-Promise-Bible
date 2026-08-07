@@ -3,7 +3,8 @@ key: Joshua 1:1–5
 title: "Now it's your turn"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2021-05-16 ask-big-ask-bold
+updated: 2026-08-06
 ---
 
 The book opens with a funeral and a promotion in the same sentence.

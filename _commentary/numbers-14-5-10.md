@@ -6,6 +6,7 @@ sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2020-12-13 declare-you-are-highly-favored
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

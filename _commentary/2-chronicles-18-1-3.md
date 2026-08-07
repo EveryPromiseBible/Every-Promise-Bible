@@ -4,6 +4,7 @@ title: "I am as you are"
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2019-07-28 live-out-your-high-calling
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: Slaves to a fear, and what was actually broken
 sources:
   - 2018-08-12 live-long-live-strong
   - 2020-11-22 what-it-means-to-fall-from-grace
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

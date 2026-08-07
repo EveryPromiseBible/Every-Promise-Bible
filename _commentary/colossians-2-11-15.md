@@ -3,6 +3,7 @@ key: Colossians 2:11–15
 title: Nailed to the cross
 sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Matthew 10:16–20
 title: Snakes and doves
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

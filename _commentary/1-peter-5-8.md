@@ -3,6 +3,7 @@ key: 1 Peter 5:8
 title: A lion's roar in his throat
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 

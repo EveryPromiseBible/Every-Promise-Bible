@@ -6,6 +6,7 @@ sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-02-23 run-toward-your-giants-without-fear
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
+  - 2021-05-16 ask-big-ask-bold
 updated: 2026-08-06
 ---
 
