@@ -6,6 +6,7 @@ sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2017-09-10 the-prayer-that-repairs-your-body
+  - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
 updated: 2026-08-06
 ---
 

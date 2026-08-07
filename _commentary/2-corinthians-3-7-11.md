@@ -3,6 +3,7 @@ key: 2 Corinthians 3:7–11
 title: Glory that was fading
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
 updated: 2026-08-06
 ---
 
