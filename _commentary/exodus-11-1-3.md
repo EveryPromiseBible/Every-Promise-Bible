@@ -4,6 +4,7 @@ title: The wages paid on the way out
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-04-14 positioned-for-his-provision
+  - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
 updated: 2026-08-06
 ---
 

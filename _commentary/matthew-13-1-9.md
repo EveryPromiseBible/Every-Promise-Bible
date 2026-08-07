@@ -3,6 +3,7 @@ key: Matthew 13:1–9
 title: The sower goes out
 sources:
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
+  - 2020-03-29 what-to-focus-on-in-dark-times
 updated: 2026-08-06
 ---
 

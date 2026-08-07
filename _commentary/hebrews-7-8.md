@@ -5,6 +5,7 @@ sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-08-04 the-overflow-life-for-you
+  - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Genesis 4:8–12
 title: Blood that cries out
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
 updated: 2026-08-06
 ---
 

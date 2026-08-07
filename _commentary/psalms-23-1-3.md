@@ -7,6 +7,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-12-22 the-stars-tell-the-story-of-jesus
   - 2020-03-15 dwell-safely-in-the-secret-place
+  - 2020-03-29 what-to-focus-on-in-dark-times
 updated: 2026-08-06
 ---
 

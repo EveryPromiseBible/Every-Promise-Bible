@@ -3,6 +3,7 @@ key: Hebrews 12:25–29
 title: What the shaking is for
 sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
+  - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
 updated: 2026-08-06
 ---
 

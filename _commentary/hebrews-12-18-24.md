@@ -5,6 +5,7 @@ sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2018-07-29 practical-leadership-keys-to-living-holy
   - 2020-02-02 can-you-see-the-angels-protecting-you
+  - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,8 @@ title: Whose yoke it is, and what "easy" actually says
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
+  - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
 updated: 2026-08-06
 ---
 

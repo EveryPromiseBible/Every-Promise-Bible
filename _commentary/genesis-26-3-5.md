@@ -3,6 +3,7 @@ key: Genesis 26:3–5
 title: The promise repeated to the second generation
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
 updated: 2026-08-06
 ---
 

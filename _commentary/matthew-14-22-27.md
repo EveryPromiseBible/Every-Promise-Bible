@@ -3,6 +3,7 @@ key: Matthew 14:22–27
 title: The fourth watch
 sources:
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
+  - 2020-03-29 what-to-focus-on-in-dark-times
 updated: 2026-08-06
 ---
 
