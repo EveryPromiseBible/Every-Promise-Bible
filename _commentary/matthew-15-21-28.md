@@ -11,6 +11,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-03-28 your-healing-is-his-priority
   - 2022-06-19 own-the-spirit-of-sonship
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

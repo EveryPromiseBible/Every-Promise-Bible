@@ -5,6 +5,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-09-22 eat-the-communion-fresh
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

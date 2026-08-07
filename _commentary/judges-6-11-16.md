@@ -5,6 +5,7 @@ sources:
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2019-07-28 live-out-your-high-calling
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

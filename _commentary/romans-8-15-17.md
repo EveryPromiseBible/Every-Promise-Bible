@@ -15,6 +15,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-06-19 own-the-spirit-of-sonship
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: 2 Timothy 3:14–15
 title: "Ever since you were a small child"
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
+updated: 2026-08-06
 ---
 
 Paul's last letter, and this is what he tells a young man to do when everything else is

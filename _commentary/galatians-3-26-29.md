@@ -12,6 +12,7 @@ sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-06-19 own-the-spirit-of-sonship
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

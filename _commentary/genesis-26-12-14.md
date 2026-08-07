@@ -8,6 +8,7 @@ sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2022-04-03 when-the-odds-are-against-you
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

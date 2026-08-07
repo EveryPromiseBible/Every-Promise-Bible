@@ -3,6 +3,7 @@ key: Matthew 22:23–33
 title: An argument on a present tense
 sources:
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

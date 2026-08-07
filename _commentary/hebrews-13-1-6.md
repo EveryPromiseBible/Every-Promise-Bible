@@ -5,6 +5,7 @@ sources:
   - 2018-09-09 give-me-this-mountain
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 

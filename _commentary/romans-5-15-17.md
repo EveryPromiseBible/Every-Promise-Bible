@@ -16,6 +16,7 @@ sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-07-25 speak-life-not-death
   - 2021-10-31 where-is-holiness-in-grace
+  - 2022-09-04 powerful-keys-to-unlocking-gods-word
 updated: 2026-08-06
 ---
 
