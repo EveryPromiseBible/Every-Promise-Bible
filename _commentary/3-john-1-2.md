@@ -15,6 +15,7 @@ sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
 updated: 2026-08-06
 ---
 

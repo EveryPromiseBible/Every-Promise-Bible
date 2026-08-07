@@ -5,6 +5,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
 updated: 2026-08-06
 ---
 

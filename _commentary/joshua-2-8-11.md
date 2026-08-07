@@ -3,6 +3,7 @@ key: Joshua 2:8–11
 title: What the whole city knew, and what one person did about it
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
 updated: 2026-08-06
 ---
 

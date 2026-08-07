@@ -20,6 +20,7 @@ sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-07-26 the-power-of-positive-expectations
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
 updated: 2026-08-06
 ---
 

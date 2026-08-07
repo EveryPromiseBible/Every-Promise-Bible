@@ -5,6 +5,7 @@ sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-12-13 declare-you-are-highly-favored
+  - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
 updated: 2026-08-06
 ---
 

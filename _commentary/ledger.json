@@ -27,7 +27,8 @@
     24,
     23,
     22,
-    21
+    21,
+    20
   ],
   "sermons": [
     {
@@ -5070,6 +5071,61 @@
       "deepened": [
         "Numbers 13:26–33"
       ]
+    },
+    {
+      "date": "2016-01-10",
+      "title": "Five Words To Live By—The Battle Is The Lord's",
+      "url": "https://www.josephprince.com/sermon-notes/five-words-to-live-bythe-battle-is-the-lords",
+      "refs": [
+        "Ephesians 6:13",
+        "Isaiah 60:2",
+        "Philippians 4:19",
+        "Matthew 24:7",
+        "Luke 21:28",
+        "Joshua 1:3",
+        "Joshua 24:13",
+        "Numbers 13:33",
+        "Numbers 14:7-9",
+        "Numbers 14:10",
+        "Numbers 14:23",
+        "Numbers 14:24",
+        "2 Corinthians 4:13",
+        "Joshua 2:9-11",
+        "2 Corinthians 4:17-18",
+        "Ephesians 1",
+        "Hebrews 3:7-11",
+        "Hebrews 3:12-13",
+        "Hebrews 3:17-4:1",
+        "Hebrews 4:1-2",
+        "Hebrews 4:3",
+        "Psalm 23:5",
+        "1 Timothy 6:12",
+        "1 Samuel 17:42-47",
+        "2 Chronicles 20:15",
+        "2 Chronicles 20:12",
+        "2 Chronicles 20:17",
+        "Exodus 14:13-14",
+        "John 21:15",
+        "John 21:1-17",
+        "John 6:1-20",
+        "Hebrews 4:11",
+        "Isaiah 53:5",
+        "3 John 2"
+      ],
+      "written": [
+        "2 Chronicles 20:10–12",
+        "2 Chronicles 20:13–15",
+        "1 Samuel 17:41–44",
+        "Joshua 1:1–5",
+        "Hebrews 3:7–11",
+        "Hebrews 3:12–15",
+        "Hebrews 3:16–19",
+        "John 21:15–17",
+        "1 Timothy 6:11–12",
+        "Matthew 24:4–8",
+        "John 6:1–4"
+      ],
+      "deepened": []
     }
   ],
   "gap_policy": "Blocks referenced by a sermon without a note are left alone until all ~280 sermons are studied. Do not detour to fill them mid-run; sweep at the end."

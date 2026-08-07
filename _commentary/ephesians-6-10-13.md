@@ -5,6 +5,7 @@ sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-02-23 run-toward-your-giants-without-fear
+  - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
 updated: 2026-08-06
 ---
 

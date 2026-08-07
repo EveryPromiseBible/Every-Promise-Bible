@@ -8,6 +8,7 @@ sources:
   - 2020-02-23 run-toward-your-giants-without-fear
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
 updated: 2026-08-06
 ---
 
