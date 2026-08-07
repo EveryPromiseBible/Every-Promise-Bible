@@ -11,6 +11,7 @@ sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2020-11-01 no-longer-a-slave-to-fear
 updated: 2026-08-06
 ---
 

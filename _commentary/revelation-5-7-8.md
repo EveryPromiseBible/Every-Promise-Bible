@@ -3,6 +3,7 @@ key: Revelation 5:7–8
 title: "The incense is the prayers of God's people"
 sources:
   - 2020-05-24 find-power-in-his-presence
+  - 2020-11-01 no-longer-a-slave-to-fear
 updated: 2026-08-06
 ---
 

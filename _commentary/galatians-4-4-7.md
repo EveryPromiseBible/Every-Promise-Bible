@@ -4,6 +4,7 @@ title: "Born under the law" — and the four steps out
 sources:
   - 2018-09-09 give-me-this-mountain
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2020-11-01 no-longer-a-slave-to-fear
 updated: 2026-08-06
 ---
 

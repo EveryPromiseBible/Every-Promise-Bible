@@ -3,6 +3,7 @@ key: Genesis 22:11–12
 title: The knife never fell
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2020-11-01 no-longer-a-slave-to-fear
 updated: 2026-08-06
 ---
 

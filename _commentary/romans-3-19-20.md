@@ -7,6 +7,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-09-27 actively-own-your-double-portion
+  - 2020-11-01 no-longer-a-slave-to-fear
 updated: 2026-08-06
 ---
 

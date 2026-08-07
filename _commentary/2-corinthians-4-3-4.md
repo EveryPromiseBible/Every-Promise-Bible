@@ -3,7 +3,8 @@ key: 2 Corinthians 4:3–4
 title: Veiled to those perishing
 sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
-updated: 2026-08-07
+  - 2020-11-01 no-longer-a-slave-to-fear
+updated: 2026-08-06
 ---
 
 Paul picks the veil back up, and this time it is over somebody else.
