@@ -4,6 +4,7 @@ title: The men who came the wrong way
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2021-07-18 christ-consciousness-brings-life
+  - 2023-07-16 redefine-success-gods-way
 updated: 2026-08-06
 ---
 

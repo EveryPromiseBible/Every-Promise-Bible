@@ -3,7 +3,8 @@ key: Proverbs 29:23–27
 title: The fear of man lays a snare
 sources:
   - 2021-04-11 all-things-work-for-your-good
-updated: 2026-08-07
+  - 2023-07-16 redefine-success-gods-way
+updated: 2026-08-06
 ---
 
 Five proverbs near the end of the book, and three of them are about other people's opinions.

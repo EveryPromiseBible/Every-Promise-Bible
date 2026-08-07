@@ -3,7 +3,8 @@ key: 1 Kings 3:15
 title: Then Solomon woke up
 sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
-updated: 2026-08-07
+  - 2023-07-16 redefine-success-gods-way
+updated: 2026-08-06
 ---
 
 The dream ends, and what he does next is the whole verse.

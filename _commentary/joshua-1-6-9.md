@@ -12,6 +12,7 @@ sources:
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2023-01-08 the-kairos-year-of-right-time-right-place
+  - 2023-07-16 redefine-success-gods-way
 updated: 2026-08-06
 ---
 

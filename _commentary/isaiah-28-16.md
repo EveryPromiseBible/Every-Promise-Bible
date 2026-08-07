@@ -3,7 +3,8 @@ key: Isaiah 28:16
 title: The one who trusts will not be in a hurry
 sources:
   - 2021-09-05 answers-for-a-hurried-life
-updated: 2026-08-07
+  - 2023-07-16 redefine-success-gods-way
+updated: 2026-08-06
 ---
 
 One verse dropped into a chapter about drunk officials and a bad treaty.

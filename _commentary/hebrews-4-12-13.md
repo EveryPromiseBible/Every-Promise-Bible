@@ -4,6 +4,7 @@ title: Alive, and cutting
 sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2021-02-07 answers-for-a-distracted-world
+  - 2023-07-16 redefine-success-gods-way
 updated: 2026-08-06
 ---
 

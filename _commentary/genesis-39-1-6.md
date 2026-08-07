@@ -11,6 +11,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2023-07-16 redefine-success-gods-way
 updated: 2026-08-06
 ---
 
