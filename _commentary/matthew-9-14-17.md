@@ -3,7 +3,8 @@ key: Matthew 9:14–17
 title: New wine, new skins
 sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
-updated: 2026-08-07
+  - 2023-03-26 hear-your-way-out-of-every-weakness
+updated: 2026-08-06
 ---
 
 A question about fasting, answered with a wedding and then two pieces of household advice.

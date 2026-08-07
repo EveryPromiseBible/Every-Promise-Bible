@@ -3,7 +3,8 @@ key: Exodus 32:1–4
 title: The golden calf
 sources:
   - 2022-12-13 prosperity-with-a-purpose
-updated: 2026-08-07
+  - 2023-03-26 hear-your-way-out-of-every-weakness
+updated: 2026-08-06
 ---
 
 Forty days is too long, and the gold comes off.

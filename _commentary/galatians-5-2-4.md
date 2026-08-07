@@ -12,6 +12,7 @@ sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2023-03-26 hear-your-way-out-of-every-weakness
 updated: 2026-08-06
 ---
 

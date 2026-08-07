@@ -6,6 +6,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2022-05-08 own-your-new-creation-identity
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2023-03-26 hear-your-way-out-of-every-weakness
 updated: 2026-08-06
 ---
 

@@ -22,6 +22,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-05-08 own-your-new-creation-identity
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2023-03-26 hear-your-way-out-of-every-weakness
 updated: 2026-08-06
 ---
 

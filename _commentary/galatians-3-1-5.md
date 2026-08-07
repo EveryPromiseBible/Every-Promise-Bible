@@ -7,6 +7,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
+  - 2023-03-26 hear-your-way-out-of-every-weakness
 updated: 2026-08-06
 ---
 
