@@ -6,6 +6,7 @@ sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: 2 Peter 2:4–6
 title: "He did not let the ancient world off either"
 sources:
   - 2014-04-13 noah-the-real-story
+  - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
 updated: 2026-08-06
 ---
 

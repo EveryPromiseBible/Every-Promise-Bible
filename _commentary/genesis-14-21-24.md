@@ -4,6 +4,7 @@ title: "Not even a thread"
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
 updated: 2026-08-06
 ---
 

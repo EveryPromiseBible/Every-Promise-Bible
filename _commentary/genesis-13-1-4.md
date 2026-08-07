@@ -3,6 +3,7 @@ key: Genesis 13:1–4
 title: Back to the altar he had built
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
+  - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
 updated: 2026-08-06
 ---
 

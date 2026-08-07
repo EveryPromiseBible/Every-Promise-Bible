@@ -8,6 +8,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-10-03 leadership-keys
+  - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
 updated: 2026-08-06
 ---
 
