@@ -4,6 +4,7 @@ title: "He never swings around to throw a shadow"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2020-07-19 god-is-good-even-when-times-are-bad
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2019-04-28 the-key-to-live-blessed
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2020-07-19 god-is-good-even-when-times-are-bad
 updated: 2026-08-06
 ---
 

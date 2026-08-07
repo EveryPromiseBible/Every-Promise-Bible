@@ -3,6 +3,7 @@ key: 2 Chronicles 20:20–21
 title: Singers out in front
 sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
+  - 2020-07-19 god-is-good-even-when-times-are-bad
 updated: 2026-08-06
 ---
 

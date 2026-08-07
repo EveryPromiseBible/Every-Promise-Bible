@@ -3,6 +3,7 @@ key: Numbers 16:41–50
 title: Between the dead and the living
 sources:
   - 2020-05-24 find-power-in-his-presence
+  - 2020-07-19 god-is-good-even-when-times-are-bad
 updated: 2026-08-06
 ---
 
