@@ -3,6 +3,7 @@ key: Genesis 27:24–27
 title: "The smell of a field the LORD has blessed"
 sources:
   - 2020-03-15 dwell-safely-in-the-secret-place
+  - 2021-08-22 greater-shalom-and-security
 updated: 2026-08-06
 ---
 

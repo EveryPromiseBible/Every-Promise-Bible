@@ -7,6 +7,7 @@ sources:
   - 2019-07-28 live-out-your-high-calling
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
+  - 2021-08-22 greater-shalom-and-security
 updated: 2026-08-06
 ---
 

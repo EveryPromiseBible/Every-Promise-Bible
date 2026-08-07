@@ -3,7 +3,8 @@ key: Proverbs 17:22–28
 title: Good medicine, and the value of shutting up
 sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
-updated: 2026-08-07
+  - 2021-08-22 greater-shalom-and-security
+updated: 2026-08-06
 ---
 
 Seven proverbs, and the last three are all about keeping quiet.

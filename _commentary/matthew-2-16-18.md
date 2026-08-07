@@ -3,6 +3,7 @@ key: Matthew 2:16–18
 title: Rachel crying for her children
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2021-08-22 greater-shalom-and-security
 updated: 2026-08-06
 ---
 

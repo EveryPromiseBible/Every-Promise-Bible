@@ -26,6 +26,7 @@ sources:
   - 2021-04-11 all-things-work-for-your-good
   - 2021-05-16 ask-big-ask-bold
   - 2021-06-27 his-word-brings-life-and-healing
+  - 2021-08-22 greater-shalom-and-security
 updated: 2026-08-06
 ---
 

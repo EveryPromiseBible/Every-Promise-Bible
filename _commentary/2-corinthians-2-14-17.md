@@ -3,6 +3,7 @@ key: 2 Corinthians 2:14–17
 title: Led in His victory parade
 sources:
   - 2020-05-24 find-power-in-his-presence
+  - 2021-08-22 greater-shalom-and-security
 updated: 2026-08-06
 ---
 
