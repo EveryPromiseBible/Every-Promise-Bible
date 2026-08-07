@@ -11,6 +11,7 @@ sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
   - 2021-04-11 all-things-work-for-your-good
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-02-20 stay-strong-and-healthy-gods-way
 updated: 2026-08-06
 ---
 

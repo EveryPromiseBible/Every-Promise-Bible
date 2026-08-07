@@ -9,6 +9,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-05-16 ask-big-ask-bold
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-02-20 stay-strong-and-healthy-gods-way
 updated: 2026-08-06
 ---
 

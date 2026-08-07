@@ -31,6 +31,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-01-09 gods-way-of-acceleration
+  - 2022-02-20 stay-strong-and-healthy-gods-way
 updated: 2026-08-06
 ---
 

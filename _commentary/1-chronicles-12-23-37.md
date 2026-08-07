@@ -3,6 +3,7 @@ key: 1 Chronicles 12:23–37
 title: "Men who understood the times"
 sources:
   - 2020-01-12 the-lord-of-time-and-space-part-2
+  - 2022-02-20 stay-strong-and-healthy-gods-way
 updated: 2026-08-06
 ---
 

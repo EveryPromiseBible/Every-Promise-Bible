@@ -3,7 +3,8 @@ key: Genesis 18:1–5
 title: Three men at noon
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+  - 2022-02-20 stay-strong-and-healthy-gods-way
+updated: 2026-08-06
 ---
 
 The narrator tells you who it is in the first line, and then describes three men.

@@ -3,6 +3,7 @@ key: Matthew 24:9–14
 title: "The love of most people will grow cold"
 sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2022-02-20 stay-strong-and-healthy-gods-way
 updated: 2026-08-06
 ---
 

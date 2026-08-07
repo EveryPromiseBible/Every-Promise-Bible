@@ -4,6 +4,7 @@ title: "Seventy or eighty years" — spoken from inside the wrath
 sources:
   - 2018-08-12 live-long-live-strong
   - 2021-08-01 release-his-glory-in-your-life
+  - 2022-02-20 stay-strong-and-healthy-gods-way
 updated: 2026-08-06
 ---
 
