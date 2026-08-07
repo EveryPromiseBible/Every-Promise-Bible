@@ -3,7 +3,8 @@ key: Jeremiah 1:4–5
 title: Before I formed you
 sources:
   - 2022-06-19 own-the-spirit-of-sonship
-updated: 2026-08-07
+  - 2022-06-26 hope-for-the-third-day-generation
+updated: 2026-08-06
 ---
 
 The call of a prophet, and every verb in it is in the past.

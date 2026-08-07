@@ -3,7 +3,8 @@ key: Hosea 6:1–3
 title: On the third day
 sources:
   - 2021-08-01 release-his-glory-in-your-life
-updated: 2026-08-07
+  - 2022-06-26 hope-for-the-third-day-generation
+updated: 2026-08-06
 ---
 
 Three verses that sound like a revival hymn, and the chapter turns on them a line later.

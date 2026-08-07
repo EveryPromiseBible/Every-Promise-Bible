@@ -4,6 +4,7 @@ title: You have never come this way before
 sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
+  - 2022-06-26 hope-for-the-third-day-generation
 updated: 2026-08-06
 ---
 

@@ -11,6 +11,7 @@ sources:
   - 2020-09-27 actively-own-your-double-portion
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-08-01 release-his-glory-in-your-life
+  - 2022-06-26 hope-for-the-third-day-generation
 updated: 2026-08-06
 ---
 

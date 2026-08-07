@@ -5,6 +5,7 @@ sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2021-04-04 stand-on-favor-ground
   - 2022-04-03 when-the-odds-are-against-you
+  - 2022-06-26 hope-for-the-third-day-generation
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: "A single day is the same size as a thousand years"
 sources:
   - 2020-01-19 god-can-reverse-time-for-you
   - 2021-08-01 release-his-glory-in-your-life
+  - 2022-06-26 hope-for-the-third-day-generation
 updated: 2026-08-06
 ---
 

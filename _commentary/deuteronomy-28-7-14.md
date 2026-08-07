@@ -8,6 +8,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2021-01-31 keys-to-good-success
+  - 2022-06-26 hope-for-the-third-day-generation
 updated: 2026-08-06
 ---
 
