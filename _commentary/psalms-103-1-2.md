@@ -3,6 +3,7 @@ key: Psalms 103:1–2
 title: "O my soul"
 sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
 updated: 2026-08-06
 ---
 

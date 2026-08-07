@@ -7,6 +7,7 @@ sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: The most quoted description of failure in the Bible
 sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2019-03-17 the-story-of-job-through-the-lens-of-grace
+  - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
 updated: 2026-08-06
 ---
 
@@ -57,6 +58,17 @@ no condemnation*.
 
 Romans 7 is not a resting place in Paul's argument. It is the wall he builds so
 that the door in chapter 8 has something to be a door in.
+
+## What chapter 8 says about the same man
+
+*But **you are not living out of the old nature; you are living in the Spirit**.*
+
+Paul writes it eight verses into the next chapter, about the same people who have just
+read chapter 7. It is a statement of location, not a description of how the week has
+gone. See the note on Romans 8:9–11.
+
+The flesh is still there — Paul never says otherwise — and he says it is not where they
+are.
 
 > **What the chapter is not.** It is not a description of the normal Christian
 > life. It is the sound of a man trying, in his own strength, to keep something

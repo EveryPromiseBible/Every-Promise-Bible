@@ -6,6 +6,7 @@ sources:
   - 2019-04-28 the-key-to-live-blessed
   - 2019-05-05 believe-right-and-see-good
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
 updated: 2026-08-06
 ---
 

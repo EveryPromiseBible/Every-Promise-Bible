@@ -4,6 +4,7 @@ title: The fruit the Spirit grows
 sources:
   - 2019-04-28 the-key-to-live-blessed
   - 2020-05-24 find-power-in-his-presence
+  - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
 updated: 2026-08-06
 ---
 

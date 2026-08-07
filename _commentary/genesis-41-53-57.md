@@ -3,6 +3,7 @@ key: Genesis 41:53–57
 title: "Go to Joseph"
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
+  - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
 updated: 2026-08-06
 ---
 

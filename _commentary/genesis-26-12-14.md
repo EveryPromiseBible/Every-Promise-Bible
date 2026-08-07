@@ -5,6 +5,7 @@ sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-05-03 experience-abundance-in-times-of-famine
+  - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
 updated: 2026-08-06
 ---
 
