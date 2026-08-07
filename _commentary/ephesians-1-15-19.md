@@ -10,6 +10,7 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-03-07 come-to-the-feast-of-healing
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

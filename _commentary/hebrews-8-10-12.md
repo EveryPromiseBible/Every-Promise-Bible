@@ -10,6 +10,7 @@ sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-03-07 come-to-the-feast-of-healing
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

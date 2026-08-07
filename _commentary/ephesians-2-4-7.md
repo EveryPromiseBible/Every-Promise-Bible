@@ -10,6 +10,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2017-03-19 win-over-discouragement-depression-and-burnout
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

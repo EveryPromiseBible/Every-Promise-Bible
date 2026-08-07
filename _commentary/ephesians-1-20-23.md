@@ -14,6 +14,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2018-11-04 how-to-pray-and-see-results
   - 2020-01-19 god-can-reverse-time-for-you
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-09-27 actively-own-your-double-portion
   - 2021-01-31 keys-to-good-success
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

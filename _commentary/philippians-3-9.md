@@ -4,6 +4,7 @@ title: Which righteousness a man is wearing
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

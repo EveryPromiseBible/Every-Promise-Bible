@@ -8,6 +8,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-09-27 actively-own-your-double-portion
   - 2021-01-17 learn-how-to-receive-visions
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

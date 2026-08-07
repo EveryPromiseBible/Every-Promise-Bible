@@ -6,6 +6,7 @@ sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

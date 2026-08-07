@@ -12,6 +12,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-02-21 your-provision-is-in-the-vision
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

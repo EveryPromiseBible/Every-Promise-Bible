@@ -7,6 +7,7 @@ sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-07-26 the-power-of-positive-expectations
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 

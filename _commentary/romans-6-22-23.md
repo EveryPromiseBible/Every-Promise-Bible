@@ -6,6 +6,7 @@ sources:
   - 2019-12-22 the-stars-tell-the-story-of-jesus
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
+  - 2021-04-04 stand-on-favor-ground
 updated: 2026-08-06
 ---
 
