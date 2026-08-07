@@ -3,7 +3,8 @@ key: Genesis 15:2–3
 title: Abram's honest ache
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
-updated: 2026-08-07
+  - 2021-11-07 win-the-battle-over-bitterness
+updated: 2026-08-06
 ---
 
 God has just said something enormous, and Abram answers with the one thing he does not

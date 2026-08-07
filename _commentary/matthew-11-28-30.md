@@ -13,6 +13,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-01-31 keys-to-good-success
   - 2017-08-06 the-healing-power-of-a-joyful-heart
+  - 2021-11-07 win-the-battle-over-bitterness
 updated: 2026-08-06
 ---
 

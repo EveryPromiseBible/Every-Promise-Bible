@@ -3,6 +3,7 @@ key: Genesis 25:27–28
 title: Two boys, two parents
 sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
+  - 2021-11-07 win-the-battle-over-bitterness
 updated: 2026-08-06
 ---
 

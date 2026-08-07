@@ -17,6 +17,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-10 understand-the-times
   - 2021-10-31 where-is-holiness-in-grace
+  - 2021-11-07 win-the-battle-over-bitterness
 updated: 2026-08-06
 ---
 
