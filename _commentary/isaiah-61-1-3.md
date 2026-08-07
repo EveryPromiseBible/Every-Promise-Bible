@@ -4,6 +4,7 @@ title: Where He stopped reading
 sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

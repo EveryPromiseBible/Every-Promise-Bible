@@ -5,6 +5,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-07-28 live-out-your-high-calling
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

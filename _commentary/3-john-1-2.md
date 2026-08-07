@@ -14,6 +14,7 @@ sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

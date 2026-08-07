@@ -8,6 +8,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2017-09-10 the-prayer-that-repairs-your-body
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

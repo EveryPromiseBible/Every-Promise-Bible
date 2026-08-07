@@ -3,6 +3,7 @@ key: Psalms 40:6–8
 title: "My ears You have opened"
 sources:
   - 2019-11-24 the-beauty-of-our-servant-king
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Galatians 1:6–7
 title: Astonished so soon
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

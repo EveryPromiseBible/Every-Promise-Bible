@@ -3,6 +3,7 @@ key: Hebrews 4:1–3
 title: The rest still standing open
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

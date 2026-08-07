@@ -3,6 +3,7 @@ key: Hebrews 10:5–7
 title: "You shaped a body for Me instead"
 sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

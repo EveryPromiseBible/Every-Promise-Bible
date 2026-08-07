@@ -5,6 +5,7 @@ sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

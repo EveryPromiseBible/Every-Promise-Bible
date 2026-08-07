@@ -3,6 +3,7 @@ key: Exodus 22:7–9
 title: The one God declares guilty repays double
 sources:
   - 2020-09-27 actively-own-your-double-portion
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

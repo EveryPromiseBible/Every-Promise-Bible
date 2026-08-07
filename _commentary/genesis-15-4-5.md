@@ -5,6 +5,7 @@ sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
   - 2019-12-22 the-stars-tell-the-story-of-jesus
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

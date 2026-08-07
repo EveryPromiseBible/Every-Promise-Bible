@@ -8,6 +8,7 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2017-03-19 win-over-discouragement-depression-and-burnout
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

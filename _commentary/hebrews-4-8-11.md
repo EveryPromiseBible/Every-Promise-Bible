@@ -4,6 +4,7 @@ title: "Work hard at entering that rest"
 sources:
   - 2017-09-10 the-prayer-that-repairs-your-body
   - 2020-07-19 god-is-good-even-when-times-are-bad
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

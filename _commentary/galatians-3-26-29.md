@@ -6,6 +6,7 @@ sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2019-04-28 the-key-to-live-blessed
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

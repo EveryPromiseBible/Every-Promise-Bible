@@ -5,6 +5,7 @@ sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
   - 2020-05-24 find-power-in-his-presence
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

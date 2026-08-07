@@ -11,6 +11,7 @@ sources:
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 

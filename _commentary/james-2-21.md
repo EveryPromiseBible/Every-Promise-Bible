@@ -1,6 +1,9 @@
 ---
 key: James 2:21
 title: Shown to be right, or made righteous?
+sources:
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
+updated: 2026-08-06
 ---
 
 This verse has been argued over for five hundred years. Here is why our text reads shown to be right rather than justified or made righteous.

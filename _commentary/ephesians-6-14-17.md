@@ -5,6 +5,7 @@ sources:
   - 2020-02-23 run-toward-your-giants-without-fear
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2020-10-04 the-secret-to-health-and-healing-revealed
 updated: 2026-08-06
 ---
 
