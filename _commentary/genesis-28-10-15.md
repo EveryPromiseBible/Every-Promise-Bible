@@ -3,6 +3,7 @@ key: Genesis 28:10–15
 title: Jacob's stairway
 sources:
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
+  - 2020-02-16 anointing-oil-for-healing-and-protection
 updated: 2026-08-06
 ---
 

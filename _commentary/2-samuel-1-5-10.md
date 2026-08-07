@@ -4,6 +4,7 @@ title: The Amalekite who came to collect a reward
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2020-02-23 run-toward-your-giants-without-fear
 updated: 2026-08-06
 ---
 

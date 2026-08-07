@@ -3,6 +3,7 @@ key: Psalms 91:3–4
 title: "Under His wings"
 sources:
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
+  - 2020-02-16 anointing-oil-for-healing-and-protection
 updated: 2026-08-06
 ---
 

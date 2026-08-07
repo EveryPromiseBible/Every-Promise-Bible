@@ -8,6 +8,7 @@ sources:
   - 2019-09-01 present-help-in-times-of-trouble
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2019-11-17 wisdom-for-financial-success
+  - 2020-02-16 anointing-oil-for-healing-and-protection
 updated: 2026-08-06
 ---
 

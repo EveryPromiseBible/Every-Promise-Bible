@@ -7,6 +7,7 @@ sources:
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
   - 2020-02-02 can-you-see-the-angels-protecting-you
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
+  - 2020-02-16 anointing-oil-for-healing-and-protection
 updated: 2026-08-06
 ---
 

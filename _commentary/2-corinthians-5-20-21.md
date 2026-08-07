@@ -4,6 +4,7 @@ title: The great exchange
 sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2018-09-30 believe-he-wants-to-heal-and-provide
+  - 2020-02-23 run-toward-your-giants-without-fear
 updated: 2026-08-06
 ---
 
