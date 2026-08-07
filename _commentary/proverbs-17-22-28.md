@@ -4,6 +4,7 @@ title: Good medicine, and the value of shutting up
 sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
   - 2021-08-22 greater-shalom-and-security
+  - 2023-07-23 your-best-days-are-ahead
 updated: 2026-08-06
 ---
 

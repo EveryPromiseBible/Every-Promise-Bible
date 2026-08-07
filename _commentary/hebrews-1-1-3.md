@@ -11,6 +11,7 @@ sources:
   - 2021-04-25 your-failure-isnt-final
   - 2021-08-22 greater-shalom-and-security
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2023-07-23 your-best-days-are-ahead
 updated: 2026-08-06
 ---
 

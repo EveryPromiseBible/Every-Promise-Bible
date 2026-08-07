@@ -3,7 +3,8 @@ key: 2 Corinthians 7:10–11
 title: Two kinds of sorrow
 sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
-updated: 2026-08-07
+  - 2023-07-23 your-best-days-are-ahead
+updated: 2026-08-06
 ---
 
 Paul distinguishes two griefs that look identical from outside.

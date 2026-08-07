@@ -3,7 +3,8 @@ key: Mark 5:1–5
 title: Across the water to the tombs
 sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
-updated: 2026-08-07
+  - 2023-07-23 your-best-days-are-ahead
+updated: 2026-08-06
 ---
 
 They cross a lake in a storm to reach one man, and he is the first thing on the shore.

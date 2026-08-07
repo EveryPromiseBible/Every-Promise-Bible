@@ -3,6 +3,7 @@ key: Genesis 49:20
 title: Asher — bread fit for a king
 sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
+  - 2023-07-23 your-best-days-are-ahead
 updated: 2026-08-06
 ---
 
