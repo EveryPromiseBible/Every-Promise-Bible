@@ -25,6 +25,7 @@ sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2022-12-13 prosperity-with-a-purpose
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

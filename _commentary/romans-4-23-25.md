@@ -10,6 +10,7 @@ sources:
   - 2021-04-04 stand-on-favor-ground
   - 2021-04-11 all-things-work-for-your-good
   - 2021-04-25 your-failure-isnt-final
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

@@ -20,6 +20,7 @@ sources:
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

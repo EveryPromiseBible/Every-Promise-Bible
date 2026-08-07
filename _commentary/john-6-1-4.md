@@ -4,6 +4,7 @@ title: Across the Sea of Galilee
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-09-05 answers-for-a-hurried-life
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

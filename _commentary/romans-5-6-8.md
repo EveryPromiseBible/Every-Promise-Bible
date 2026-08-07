@@ -9,6 +9,7 @@ sources:
   - 2021-03-28 your-healing-is-his-priority
   - 2021-08-29 secrets-of-the-peace-offering
   - 2022-01-23 his-strength-flows-in-our-weaknesses
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

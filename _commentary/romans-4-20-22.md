@@ -4,6 +4,7 @@ title: "He grew strong in faith"
 sources:
   - 2019-05-05 believe-right-and-see-good
   - 2021-02-21 your-provision-is-in-the-vision
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

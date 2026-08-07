@@ -13,6 +13,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-10-31 where-is-holiness-in-grace
   - 2017-09-17 under-attack-put-on-the-armor-of-god
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

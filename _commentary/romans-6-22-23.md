@@ -11,6 +11,7 @@ sources:
   - 2021-07-11 unleash-his-resurrection-life
   - 2021-07-18 christ-consciousness-brings-life
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 

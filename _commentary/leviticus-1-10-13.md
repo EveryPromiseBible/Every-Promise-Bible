@@ -3,6 +3,7 @@ key: Leviticus 1:10–13
 title: On the north side of the altar
 sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2022-12-25 indisputable-proof-that-god-is-for-you
 updated: 2026-08-06
 ---
 
