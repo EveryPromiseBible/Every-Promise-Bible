@@ -15,6 +15,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-06-13 he-goes-ahead-of-you
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

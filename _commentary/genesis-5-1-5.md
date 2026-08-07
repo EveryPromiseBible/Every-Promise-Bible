@@ -3,6 +3,7 @@ key: Genesis 5:1–5
 title: "And then he died"
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

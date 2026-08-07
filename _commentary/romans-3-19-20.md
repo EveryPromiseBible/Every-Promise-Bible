@@ -11,6 +11,7 @@ sources:
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-03-28 your-healing-is-his-priority
   - 2021-06-13 he-goes-ahead-of-you
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

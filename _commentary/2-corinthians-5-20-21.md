@@ -15,6 +15,7 @@ sources:
   - 2021-04-04 stand-on-favor-ground
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-09 made-right-in-his-sight
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

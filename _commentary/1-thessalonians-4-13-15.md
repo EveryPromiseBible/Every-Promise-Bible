@@ -4,6 +4,7 @@ title: Grief with something left in it
 sources:
   - 2018-08-12 live-long-live-strong
   - 2021-07-11 unleash-his-resurrection-life
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

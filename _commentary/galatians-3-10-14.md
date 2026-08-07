@@ -11,6 +11,7 @@ sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-01-17 learn-how-to-receive-visions
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

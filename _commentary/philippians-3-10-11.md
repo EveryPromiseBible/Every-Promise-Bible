@@ -3,7 +3,8 @@ key: Philippians 3:10–11
 title: That I may know Him
 sources:
   - 2021-07-11 unleash-his-resurrection-life
-updated: 2026-08-07
+  - 2021-07-18 christ-consciousness-brings-life
+updated: 2026-08-06
 ---
 
 Paul, thirty years in, states what he is still after.

@@ -3,6 +3,7 @@ key: Genesis 3:8–13
 title: "Where are you?"
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

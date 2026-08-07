@@ -19,6 +19,7 @@ sources:
   - 2021-02-07 answers-for-a-distracted-world
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-07-11 unleash-his-resurrection-life
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 

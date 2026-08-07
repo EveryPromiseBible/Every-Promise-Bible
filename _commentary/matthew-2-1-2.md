@@ -3,6 +3,7 @@ key: Matthew 2:1–2
 title: The men who came the wrong way
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2021-07-18 christ-consciousness-brings-life
 updated: 2026-08-06
 ---
 
