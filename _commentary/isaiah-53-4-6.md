@@ -37,6 +37,7 @@ sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-04-23 be-healed-by-the-washing-of-the-word
+  - 2023-05-21 walk-where-jesus-walked-tbn-special
 updated: 2026-08-06
 ---
 

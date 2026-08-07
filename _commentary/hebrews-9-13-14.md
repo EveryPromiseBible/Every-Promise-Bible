@@ -3,7 +3,8 @@ key: Hebrews 9:13–14
 title: How much more
 sources:
   - 2023-04-23 be-healed-by-the-washing-of-the-word
-updated: 2026-08-07
+  - 2023-05-21 walk-where-jesus-walked-tbn-special
+updated: 2026-08-06
 ---
 
 The argument of the whole letter in two sentences, and it runs from the lesser to the greater.

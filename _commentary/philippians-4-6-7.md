@@ -3,7 +3,8 @@ key: Philippians 4:6–7
 title: Peace on guard
 sources:
   - 2023-02-05 pray-for-good-success-today
-updated: 2026-08-07
+  - 2023-05-21 walk-where-jesus-walked-tbn-special
+updated: 2026-08-06
 ---
 
 An instruction not to worry, written from a prison cell.

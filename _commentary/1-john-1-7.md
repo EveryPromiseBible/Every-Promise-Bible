@@ -3,7 +3,8 @@ key: 1 John 1:7
 title: Walking in the light
 sources:
   - 2021-05-30 the-key-to-victorious-living
-updated: 2026-08-07
+  - 2023-05-21 walk-where-jesus-walked-tbn-special
+updated: 2026-08-06
 ---
 
 One verse, and it contains a comparison people usually skip past.
