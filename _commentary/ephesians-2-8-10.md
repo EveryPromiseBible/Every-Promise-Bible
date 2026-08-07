@@ -7,6 +7,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-05-09 made-right-in-his-sight
   - 2021-07-25 speak-life-not-death
+  - 2021-10-31 where-is-holiness-in-grace
 updated: 2026-08-06
 ---
 

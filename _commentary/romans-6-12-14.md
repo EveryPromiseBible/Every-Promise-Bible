@@ -16,6 +16,7 @@ sources:
   - 2021-08-01 release-his-glory-in-your-life
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-10 understand-the-times
+  - 2021-10-31 where-is-holiness-in-grace
 updated: 2026-08-06
 ---
 

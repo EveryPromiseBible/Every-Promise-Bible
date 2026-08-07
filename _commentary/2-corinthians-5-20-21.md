@@ -19,6 +19,7 @@ sources:
   - 2021-08-15 the-significance-of-this-generation
   - 2021-08-22 greater-shalom-and-security
   - 2021-10-10 understand-the-times
+  - 2021-10-31 where-is-holiness-in-grace
 updated: 2026-08-06
 ---
 

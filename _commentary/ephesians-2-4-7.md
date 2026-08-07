@@ -14,6 +14,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-24 baptism-of-the-holy-spirit
+  - 2021-10-31 where-is-holiness-in-grace
 updated: 2026-08-06
 ---
 

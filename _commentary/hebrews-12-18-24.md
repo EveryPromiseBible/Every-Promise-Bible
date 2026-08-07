@@ -11,6 +11,7 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-08-15 the-significance-of-this-generation
+  - 2021-10-31 where-is-holiness-in-grace
 updated: 2026-08-06
 ---
 

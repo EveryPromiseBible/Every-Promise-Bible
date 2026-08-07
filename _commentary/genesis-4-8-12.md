@@ -5,6 +5,7 @@ sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2021-10-31 where-is-holiness-in-grace
 updated: 2026-08-06
 ---
 
