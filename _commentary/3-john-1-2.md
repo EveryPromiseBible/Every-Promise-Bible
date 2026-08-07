@@ -12,6 +12,7 @@ sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-05-31 activate-the-gifts-of-the-spirit
+  - 2020-06-21 the-power-of-forgiveness-brings-freedom
 updated: 2026-08-06
 ---
 

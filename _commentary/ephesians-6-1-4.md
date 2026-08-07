@@ -3,6 +3,7 @@ key: Ephesians 6:1–4
 title: The first commandment with a promise attached
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2020-06-21 the-power-of-forgiveness-brings-freedom
 updated: 2026-08-06
 ---
 

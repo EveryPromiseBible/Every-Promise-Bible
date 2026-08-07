@@ -5,6 +5,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-09-01 present-help-in-times-of-trouble
   - 2017-09-10 the-prayer-that-repairs-your-body
+  - 2020-06-21 the-power-of-forgiveness-brings-freedom
 updated: 2026-08-06
 ---
 

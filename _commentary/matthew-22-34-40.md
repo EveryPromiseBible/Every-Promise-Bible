@@ -3,6 +3,7 @@ key: Matthew 22:34–40
 title: "Everything hangs on these two"
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
+  - 2020-06-21 the-power-of-forgiveness-brings-freedom
 updated: 2026-08-06
 ---
 

@@ -10,6 +10,7 @@ sources:
   - 2020-01-12 the-lord-of-time-and-space-part-2
   - 2020-02-02 can-you-see-the-angels-protecting-you
   - 2020-03-22 fear-not-christ-is-in-the-crisis
+  - 2020-06-21 the-power-of-forgiveness-brings-freedom
 updated: 2026-08-06
 ---
 
