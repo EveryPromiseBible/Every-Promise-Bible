@@ -4,6 +4,7 @@ title: "But God" — and three verbs with "together" in them
 sources:
   - 2018-11-04 how-to-pray-and-see-results
   - 2019-12-29 you-have-a-destiny
+  - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
 updated: 2026-08-06
 ---
 

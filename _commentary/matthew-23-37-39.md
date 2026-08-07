@@ -4,6 +4,7 @@ title: "How often I have longed"
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-04-14 positioned-for-his-provision
+  - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
 updated: 2026-08-06
 ---
 
