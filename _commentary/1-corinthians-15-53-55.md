@@ -3,7 +3,8 @@ key: 1 Corinthians 15:53–55
 title: Death swallowed up in victory
 sources:
   - 2021-02-28 prophetic-hope-for-the-future
-updated: 2026-08-07
+  - 2021-03-07 come-to-the-feast-of-healing
+updated: 2026-08-06
 ---
 
 Paul is describing a change of clothes.

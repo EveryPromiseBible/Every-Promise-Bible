@@ -4,6 +4,7 @@ title: What the shaking is for
 sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
+  - 2021-03-07 come-to-the-feast-of-healing
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Romans 11:1–4
 title: "He pleads with God against Israel"
 sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
+  - 2021-03-07 come-to-the-feast-of-healing
 updated: 2026-08-06
 ---
 

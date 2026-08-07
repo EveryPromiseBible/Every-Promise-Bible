@@ -3,6 +3,7 @@ key: Matthew 17:1–8
 title: "Listen to Him"
 sources:
   - 2017-09-10 the-prayer-that-repairs-your-body
+  - 2021-03-07 come-to-the-feast-of-healing
 updated: 2026-08-06
 ---
 

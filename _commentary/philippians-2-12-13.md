@@ -6,6 +6,7 @@ sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2021-03-07 come-to-the-feast-of-healing
 updated: 2026-08-06
 ---
 

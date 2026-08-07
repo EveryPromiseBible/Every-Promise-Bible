@@ -3,7 +3,8 @@ key: 2 Peter 3:18
 title: Keep growing
 sources:
   - 2020-11-22 what-it-means-to-fall-from-grace
-updated: 2026-08-07
+  - 2021-03-07 come-to-the-feast-of-healing
+updated: 2026-08-06
 ---
 
 The last sentence Peter wrote.

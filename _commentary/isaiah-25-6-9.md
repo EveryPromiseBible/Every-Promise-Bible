@@ -3,7 +3,8 @@ key: Isaiah 25:6–9
 title: The feast on the mountain
 sources:
   - 2021-02-28 prophetic-hope-for-the-future
-updated: 2026-08-07
+  - 2021-03-07 come-to-the-feast-of-healing
+updated: 2026-08-06
 ---
 
 Four verses, and everything in them happens on one hill.
@@ -29,6 +30,19 @@ The Hebrew for *rich food* is **shemanim** — fat things. For *well-aged wine*,
 
 Two pairs, and each pair says the same thing twice: the best of it, and then the best of
 the best.
+
+## The two words under the menu
+
+The Hebrew behind *rich food* is **shemanim**, from **shemen** — oil. The word for the
+anointing oil, and the root behind Gethsemane, the olive press.
+
+And the older translations render the next phrase *fat things full of marrow*. The Hebrew is
+**memuchayim**, from **machah** — to wipe out, to blot out, to erase.
+
+It is the verb of Psalm 51: *blot out my transgressions*. And of Colossians, in Greek:
+*having wiped out the handwriting of requirements that was against us*.
+
+The menu is oil and erasure.
 
 ## Who is invited
 

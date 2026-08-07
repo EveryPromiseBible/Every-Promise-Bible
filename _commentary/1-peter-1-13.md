@@ -3,6 +3,7 @@ key: 1 Peter 1:13
 title: Where Peter tells them to put their hope
 sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
+  - 2021-03-07 come-to-the-feast-of-healing
 updated: 2026-08-06
 ---
 
