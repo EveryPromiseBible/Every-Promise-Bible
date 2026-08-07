@@ -6,6 +6,7 @@ sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

@@ -9,6 +9,7 @@ sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2017-09-10 the-prayer-that-repairs-your-body
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

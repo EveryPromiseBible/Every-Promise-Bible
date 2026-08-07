@@ -14,6 +14,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

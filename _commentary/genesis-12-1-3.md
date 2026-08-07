@@ -3,6 +3,7 @@ key: Genesis 12:1–3
 title: The call built on promise
 sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

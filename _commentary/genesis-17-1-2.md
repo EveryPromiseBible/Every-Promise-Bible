@@ -3,7 +3,8 @@ key: Genesis 17:1–2
 title: "I am God Almighty"
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2020-12-06 follow-the-promptings-of-the-spirit
+updated: 2026-08-06
 ---
 
 Thirteen years of silence end with a new name for God.

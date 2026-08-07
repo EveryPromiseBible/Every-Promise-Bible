@@ -3,6 +3,7 @@ key: Proverbs 3:13–20
 title: What is in wisdom's two hands
 sources:
   - 2020-01-05 the-lord-of-time-and-space
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

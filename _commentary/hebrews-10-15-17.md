@@ -5,6 +5,7 @@ sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

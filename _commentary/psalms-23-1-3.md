@@ -12,6 +12,7 @@ sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-01 no-longer-a-slave-to-fear
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

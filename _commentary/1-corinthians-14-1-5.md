@@ -9,6 +9,7 @@ sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

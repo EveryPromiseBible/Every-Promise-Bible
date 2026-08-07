@@ -6,6 +6,7 @@ sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-11-22 what-it-means-to-fall-from-grace
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

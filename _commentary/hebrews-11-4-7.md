@@ -3,6 +3,7 @@ key: Hebrews 11:4–7
 title: Abel, Enoch, Noah
 sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

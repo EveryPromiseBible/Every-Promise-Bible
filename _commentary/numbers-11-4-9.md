@@ -3,6 +3,7 @@ key: Numbers 11:4–9
 title: "Nothing to look at but this manna"
 sources:
   - 2019-09-22 eat-the-communion-fresh
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

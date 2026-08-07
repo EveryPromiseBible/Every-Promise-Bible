@@ -3,6 +3,7 @@ key: Galatians 5:25–26
 title: Keep in step
 sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

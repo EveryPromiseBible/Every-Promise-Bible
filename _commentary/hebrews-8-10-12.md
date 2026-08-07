@@ -8,6 +8,7 @@ sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

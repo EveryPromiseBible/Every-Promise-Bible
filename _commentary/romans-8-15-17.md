@@ -6,6 +6,7 @@ sources:
   - 2019-07-28 live-out-your-high-calling
   - 2020-11-01 no-longer-a-slave-to-fear
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 

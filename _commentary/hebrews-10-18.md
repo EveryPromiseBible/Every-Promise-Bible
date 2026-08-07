@@ -3,6 +3,7 @@ key: Hebrews 10:18
 title: "No offering left to make"
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2020-12-06 follow-the-promptings-of-the-spirit
 updated: 2026-08-06
 ---
 
