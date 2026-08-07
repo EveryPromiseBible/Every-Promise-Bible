@@ -4,6 +4,7 @@ title: The wage and the gift
 sources:
   - 2019-04-21 the-best-news-youll-ever-hear
   - 2019-12-22 the-stars-tell-the-story-of-jesus
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 

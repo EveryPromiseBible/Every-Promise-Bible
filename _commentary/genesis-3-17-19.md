@@ -3,6 +3,7 @@ key: Genesis 3:17–19
 title: Thorns, sweat, and the ground
 sources:
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 

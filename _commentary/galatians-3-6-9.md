@@ -3,6 +3,7 @@ key: Galatians 3:6–9
 title: Blessed together with Abraham
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 

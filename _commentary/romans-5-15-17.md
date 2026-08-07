@@ -8,6 +8,7 @@ sources:
   - 2020-03-08 find-security-in-times-of-anxiety
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-07-26 the-power-of-positive-expectations
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 

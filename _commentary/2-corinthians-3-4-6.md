@@ -3,6 +3,7 @@ key: 2 Corinthians 3:4–6
 title: "The letter kills"
 sources:
   - 2019-04-28 the-key-to-live-blessed
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 
@@ -51,7 +52,11 @@ it:
 
 He never says the first was bad. He says it had glory — Moses' face shone from it.
 And then he says the glory was *passing away*, and that Moses veiled his face so
-nobody would watch it fade.
+nobody would watch it fade. See the note on 2 Corinthians 3:7–11.
+
+The two Greek words he sets against each other are **katargoumenon**, being abolished,
+and **menon**, remaining. Temporary and permanent — and the temporary one is the one
+that came with a face too bright to look at.
 
 ## The day it was given
 

@@ -7,6 +7,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2020-02-23 run-toward-your-giants-without-fear
   - 2020-03-22 fear-not-christ-is-in-the-crisis
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 

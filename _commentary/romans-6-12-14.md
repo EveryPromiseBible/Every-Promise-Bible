@@ -8,6 +8,7 @@ sources:
   - 2019-09-01 present-help-in-times-of-trouble
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-07-26 the-power-of-positive-expectations
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 

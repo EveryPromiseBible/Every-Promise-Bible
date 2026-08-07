@@ -7,6 +7,7 @@ sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2019-04-14 positioned-for-his-provision
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
+  - 2020-08-09 break-free-from-the-chains-of-condemnation
 updated: 2026-08-06
 ---
 
