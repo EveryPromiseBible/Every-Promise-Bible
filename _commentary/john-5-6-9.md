@@ -4,6 +4,7 @@ title: Get up, pick it up, walk
 sources:
   - 2021-03-28 your-healing-is-his-priority
   - 2023-02-26 power-to-renew-your-youth
+  - 2023-07-02 the-art-of-slowing-down
 updated: 2026-08-06
 ---
 

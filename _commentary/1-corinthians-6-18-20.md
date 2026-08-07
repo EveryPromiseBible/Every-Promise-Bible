@@ -10,6 +10,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-05-08 own-your-new-creation-identity
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2023-07-02 the-art-of-slowing-down
 updated: 2026-08-06
 ---
 

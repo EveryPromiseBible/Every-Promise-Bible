@@ -3,7 +3,8 @@ key: 1 Thessalonians 5:23–24
 title: He will do it
 sources:
   - 2021-05-02 inside-out-transformation
-updated: 2026-08-07
+  - 2023-07-02 the-art-of-slowing-down
+updated: 2026-08-06
 ---
 
 Paul closes his earliest letter with a prayer and then answers it.

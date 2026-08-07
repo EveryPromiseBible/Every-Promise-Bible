@@ -12,6 +12,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2023-07-02 the-art-of-slowing-down
 updated: 2026-08-06
 ---
 
