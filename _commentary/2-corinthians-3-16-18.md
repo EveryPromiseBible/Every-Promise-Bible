@@ -4,6 +4,7 @@ title: From glory to glory
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
   - 2019-07-28 live-out-your-high-calling
+  - 2019-09-29 is-the-bible-still-relevant-today
 updated: 2026-08-06
 ---
 

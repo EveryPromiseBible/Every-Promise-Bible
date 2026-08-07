@@ -4,6 +4,7 @@ title: Soldier, vineyard, flock
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-09-22 eat-the-communion-fresh
+  - 2019-09-29 is-the-bible-still-relevant-today
 updated: 2026-08-06
 ---
 

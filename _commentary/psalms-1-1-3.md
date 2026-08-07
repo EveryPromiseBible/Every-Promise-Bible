@@ -6,6 +6,7 @@ sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2019-09-29 is-the-bible-still-relevant-today
 updated: 2026-08-06
 ---
 

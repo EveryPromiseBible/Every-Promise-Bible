@@ -5,6 +5,7 @@ sources:
   - 2019-03-17 the-story-of-job-through-the-lens-of-grace
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2019-09-29 is-the-bible-still-relevant-today
 updated: 2026-08-06
 ---
 

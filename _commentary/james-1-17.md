@@ -3,6 +3,7 @@ key: James 1:17
 title: "He never swings around to throw a shadow"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2019-09-29 is-the-bible-still-relevant-today
 updated: 2026-08-06
 ---
 

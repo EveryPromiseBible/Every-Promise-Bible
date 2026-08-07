@@ -3,6 +3,7 @@ key: Numbers 21:8–9
 title: "He only had to look"
 sources:
   - 2019-09-22 eat-the-communion-fresh
+  - 2019-09-29 is-the-bible-still-relevant-today
 updated: 2026-08-06
 ---
 
