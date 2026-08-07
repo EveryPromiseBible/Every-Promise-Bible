@@ -3,6 +3,7 @@ key: Leviticus 17:13–14
 title: "The life of every creature is its blood"
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
+  - 2019-09-22 eat-the-communion-fresh
 updated: 2026-08-06
 ---
 

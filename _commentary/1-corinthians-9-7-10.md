@@ -3,6 +3,7 @@ key: 1 Corinthians 9:7–10
 title: Soldier, vineyard, flock
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2019-09-22 eat-the-communion-fresh
 updated: 2026-08-06
 ---
 

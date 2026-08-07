@@ -3,6 +3,7 @@ key: 1 Corinthians 11:23–26
 title: Received from the Lord
 sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
+  - 2019-09-22 eat-the-communion-fresh
 updated: 2026-08-06
 ---
 
