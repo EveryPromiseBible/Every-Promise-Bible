@@ -3,6 +3,7 @@ key: Exodus 19:7–9
 title: "We will do everything the LORD has said"
 sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2020-08-23 win-the-battle-over-sin-consciousness
 updated: 2026-08-06
 ---
 

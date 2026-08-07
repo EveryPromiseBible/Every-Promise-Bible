@@ -1,6 +1,9 @@
 ---
 key: James 1:21
 title: What "saved" actually covers
+sources:
+  - 2020-08-23 win-the-battle-over-sin-consciousness
+updated: 2026-08-06
 ---
 
 Our text says the message has power to save your souls. Both of those words — saved and souls — are wider in Greek than they have become in English.

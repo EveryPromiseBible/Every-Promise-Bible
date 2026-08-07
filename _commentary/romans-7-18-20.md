@@ -5,6 +5,7 @@ sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2019-03-17 the-story-of-job-through-the-lens-of-grace
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2020-08-23 win-the-battle-over-sin-consciousness
 updated: 2026-08-06
 ---
 

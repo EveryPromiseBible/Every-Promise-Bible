@@ -6,6 +6,7 @@ sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-08-12 live-long-live-strong
   - 2019-02-24 the-healing-power-of-the-holy-communion
+  - 2020-08-23 win-the-battle-over-sin-consciousness
 updated: 2026-08-06
 ---
 

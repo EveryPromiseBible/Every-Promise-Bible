@@ -3,6 +3,7 @@ key: Romans 5:12–14
 title: Two men and two acts
 sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
+  - 2020-08-23 win-the-battle-over-sin-consciousness
 updated: 2026-08-06
 ---
 

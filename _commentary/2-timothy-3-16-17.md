@@ -3,6 +3,7 @@ key: 2 Timothy 3:16–17
 title: Breathed out by God
 sources:
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2020-08-23 win-the-battle-over-sin-consciousness
 updated: 2026-08-06
 ---
 
