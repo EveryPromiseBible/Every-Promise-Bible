@@ -3,7 +3,8 @@ key: Hebrews 9:21–22
 title: Nearly everything
 sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
-updated: 2026-08-07
+  - 2023-04-09 his-resurrection-my-victory-over-death
+updated: 2026-08-06
 ---
 
 Two verses summarising an entire system, and the qualifier in the middle is deliberate.

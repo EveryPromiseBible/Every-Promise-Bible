@@ -4,6 +4,7 @@ title: What he handed on
 sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2021-10-03 leadership-keys
+  - 2023-04-09 his-resurrection-my-victory-over-death
 updated: 2026-08-06
 ---
 

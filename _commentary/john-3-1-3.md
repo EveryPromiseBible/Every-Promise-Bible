@@ -5,6 +5,7 @@ sources:
   - 2013-12-08 understanding-grace-and-discipleship
   - 2022-06-19 own-the-spirit-of-sonship
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2023-04-09 his-resurrection-my-victory-over-death
 updated: 2026-08-06
 ---
 

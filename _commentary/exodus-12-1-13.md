@@ -12,6 +12,7 @@ sources:
   - 2021-03-28 your-healing-is-his-priority
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2013-12-08 understanding-grace-and-discipleship
+  - 2023-04-09 his-resurrection-my-victory-over-death
 updated: 2026-08-06
 ---
 

@@ -8,6 +8,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-10-10 understand-the-times
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2023-04-09 his-resurrection-my-victory-over-death
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: John 3:4–8
 title: The wind blows where it pleases
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-07
+  - 2023-04-09 his-resurrection-my-victory-over-death
+updated: 2026-08-06
 ---
 
 A member of the Sanhedrin comes at night and takes a metaphor literally.

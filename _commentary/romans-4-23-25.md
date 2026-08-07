@@ -11,6 +11,7 @@ sources:
   - 2021-04-11 all-things-work-for-your-good
   - 2021-04-25 your-failure-isnt-final
   - 2022-12-25 indisputable-proof-that-god-is-for-you
+  - 2023-04-09 his-resurrection-my-victory-over-death
 updated: 2026-08-06
 ---
 

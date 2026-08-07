@@ -3,7 +3,8 @@ key: Leviticus 4:3–12
 title: When the anointed priest sins
 sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
-updated: 2026-08-07
+  - 2023-04-09 his-resurrection-my-victory-over-death
+updated: 2026-08-06
 ---
 
 The heaviest offering in the chapter is for the man who performs the offerings.

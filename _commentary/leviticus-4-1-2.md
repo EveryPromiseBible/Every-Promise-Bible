@@ -3,7 +3,8 @@ key: Leviticus 4:1–2
 title: Here is the way home
 sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
-updated: 2026-08-07
+  - 2023-04-09 his-resurrection-my-victory-over-death
+updated: 2026-08-06
 ---
 
 A new offering is introduced, and the case it covers is the one nobody planned.
