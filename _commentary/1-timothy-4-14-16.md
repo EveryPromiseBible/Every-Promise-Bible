@@ -1,6 +1,9 @@
 ---
 key: 1 Timothy 4:14–16
 title: What "meditate" meant, and what "saved" covers
+sources:
+  - 2021-01-31 keys-to-good-success
+updated: 2026-08-06
 ---
 
 Take these things to heart, our text says — and that is the right feel for it. Underneath sits a Greek word with more packed into it than any one English phrase can carry, so here is what is in there.

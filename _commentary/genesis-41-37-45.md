@@ -3,7 +3,8 @@ key: Genesis 41:37–45
 title: "One in whom the Spirit of God lives"
 sources:
   - 2021-01-17 learn-how-to-receive-visions
-updated: 2026-08-07
+  - 2021-01-31 keys-to-good-success
+updated: 2026-08-06
 ---
 
 A man goes from a prison cell to second in Egypt inside one morning.

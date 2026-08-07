@@ -3,6 +3,7 @@ key: 1 Timothy 6:9–10
 title: "A root, and every kind of evil grows up out of it"
 sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
+  - 2021-01-31 keys-to-good-success
 updated: 2026-08-06
 ---
 

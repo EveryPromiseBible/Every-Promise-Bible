@@ -3,6 +3,7 @@ key: Genesis 39:1–6
 title: "But the LORD was with Joseph"
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2021-01-31 keys-to-good-success
 updated: 2026-08-06
 ---
 
