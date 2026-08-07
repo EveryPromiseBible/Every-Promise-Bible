@@ -6,6 +6,7 @@ sources:
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2019-11-17 wisdom-for-financial-success
   - 2019-11-24 the-beauty-of-our-servant-king
+  - 2023-06-25 the-cure-to-a-dissatisfied-life
 updated: 2026-08-06
 ---
 

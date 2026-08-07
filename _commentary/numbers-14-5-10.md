@@ -8,6 +8,7 @@ sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-05-16 ask-big-ask-bold
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2023-06-25 the-cure-to-a-dissatisfied-life
 updated: 2026-08-06
 ---
 

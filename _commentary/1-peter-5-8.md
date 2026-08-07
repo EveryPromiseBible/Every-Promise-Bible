@@ -7,6 +7,7 @@ sources:
   - 2021-10-17 gods-heart-for-your-family
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2023-06-25 the-cure-to-a-dissatisfied-life
 updated: 2026-08-06
 ---
 

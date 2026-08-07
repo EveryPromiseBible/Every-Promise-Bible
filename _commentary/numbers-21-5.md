@@ -3,6 +3,7 @@ key: Numbers 21:5
 title: "We loathe this miserable food"
 sources:
   - 2019-09-22 eat-the-communion-fresh
+  - 2023-06-25 the-cure-to-a-dissatisfied-life
 updated: 2026-08-06
 ---
 

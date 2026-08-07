@@ -10,6 +10,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2023-06-25 the-cure-to-a-dissatisfied-life
 updated: 2026-08-06
 ---
 

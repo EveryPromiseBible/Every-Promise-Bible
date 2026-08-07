@@ -6,6 +6,7 @@ sources:
   - 2021-09-05 answers-for-a-hurried-life
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-02-19 much-more-restoration-is-coming
+  - 2023-06-25 the-cure-to-a-dissatisfied-life
 updated: 2026-08-06
 ---
 

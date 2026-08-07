@@ -4,6 +4,7 @@ title: He already knew what He was about to do
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2023-02-19 much-more-restoration-is-coming
+  - 2023-06-25 the-cure-to-a-dissatisfied-life
 updated: 2026-08-06
 ---
 
