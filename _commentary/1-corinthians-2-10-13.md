@@ -3,7 +3,8 @@ key: 1 Corinthians 2:10–13
 title: The Spirit searches
 sources:
   - 2021-12-05 benefits-of-praying-in-tongues
-updated: 2026-08-07
+  - 2022-01-09 gods-way-of-acceleration
+updated: 2026-08-06
 ---
 
 Paul has just said no eye has seen it. This is the next sentence.

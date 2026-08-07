@@ -6,6 +6,7 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-09-05 answers-for-a-hurried-life
   - 2021-09-26 now-is-the-time-of-favor
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 

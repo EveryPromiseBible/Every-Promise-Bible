@@ -6,6 +6,7 @@ sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-09-27 actively-own-your-double-portion
   - 2021-07-25 speak-life-not-death
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 

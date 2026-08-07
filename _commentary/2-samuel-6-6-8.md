@@ -3,7 +3,8 @@ key: 2 Samuel 6:6–8
 title: The breaking-out against Uzzah
 sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
-updated: 2026-08-07
+  - 2022-01-09 gods-way-of-acceleration
+updated: 2026-08-06
 ---
 
 The hardest paragraph in the David narrative, and the trouble started with a cart.

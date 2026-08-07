@@ -9,6 +9,7 @@ sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2022-01-02 the-year-of-rest-and-acceleration
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 

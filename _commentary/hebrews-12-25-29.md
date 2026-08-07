@@ -6,6 +6,7 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-11-07 win-the-battle-over-bitterness
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 

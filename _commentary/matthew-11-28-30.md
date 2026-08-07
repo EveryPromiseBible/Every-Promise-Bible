@@ -15,6 +15,7 @@ sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-01-02 the-year-of-rest-and-acceleration
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 

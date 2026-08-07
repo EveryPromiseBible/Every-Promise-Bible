@@ -5,6 +5,7 @@ sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2021-02-07 answers-for-a-distracted-world
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 

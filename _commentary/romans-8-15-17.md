@@ -11,6 +11,7 @@ sources:
   - 2021-04-04 stand-on-favor-ground
   - 2021-05-02 inside-out-transformation
   - 2021-09-26 now-is-the-time-of-favor
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 

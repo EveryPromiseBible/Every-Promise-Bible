@@ -9,6 +9,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-05-02 inside-out-transformation
   - 2021-05-09 made-right-in-his-sight
+  - 2022-01-09 gods-way-of-acceleration
 updated: 2026-08-06
 ---
 
