@@ -8,6 +8,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2021-05-30 the-key-to-victorious-living
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
+  - 2021-06-06 set-apart-for-lasting-success
 updated: 2026-08-06
 ---
 

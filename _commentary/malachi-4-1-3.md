@@ -3,6 +3,7 @@ key: Malachi 4:1–3
 title: Healing in His rays
 sources:
   - 2019-02-17 find-answers-in-your-darkest-times
+  - 2021-06-06 set-apart-for-lasting-success
 updated: 2026-08-06
 ---
 

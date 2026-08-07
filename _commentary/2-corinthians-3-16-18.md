@@ -13,6 +13,7 @@ sources:
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-04-11 all-things-work-for-your-good
   - 2021-05-16 ask-big-ask-bold
+  - 2021-06-06 set-apart-for-lasting-success
 updated: 2026-08-06
 ---
 

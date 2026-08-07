@@ -8,6 +8,7 @@ sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-03-28 your-healing-is-his-priority
+  - 2021-06-06 set-apart-for-lasting-success
 updated: 2026-08-06
 ---
 

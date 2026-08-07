@@ -12,6 +12,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2021-03-28 your-healing-is-his-priority
+  - 2021-06-06 set-apart-for-lasting-success
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: 1 Corinthians 1:18–25
 title: The message of the cross
 sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2021-06-06 set-apart-for-lasting-success
 updated: 2026-08-06
 ---
 

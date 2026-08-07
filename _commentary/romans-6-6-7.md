@@ -3,7 +3,8 @@ key: Romans 6:6–7
 title: The old self crucified
 sources:
   - 2021-05-30 the-key-to-victorious-living
-updated: 2026-08-07
+  - 2021-06-06 set-apart-for-lasting-success
+updated: 2026-08-06
 ---
 
 Paul says it is something they already know.
