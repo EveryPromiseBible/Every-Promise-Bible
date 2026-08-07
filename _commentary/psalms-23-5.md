@@ -3,6 +3,7 @@ key: Psalms 23:5
 title: A table in front of them
 sources:
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2020-03-22 fear-not-christ-is-in-the-crisis
 updated: 2026-08-06
 ---
 

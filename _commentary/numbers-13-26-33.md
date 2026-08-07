@@ -3,6 +3,7 @@ key: Numbers 13:26–33
 title: "In our own sight, and so we looked to them"
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2020-03-22 fear-not-christ-is-in-the-crisis
 updated: 2026-08-06
 ---
 

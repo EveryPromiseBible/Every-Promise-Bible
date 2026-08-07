@@ -3,6 +3,7 @@ key: Psalms 46:1–3
 title: "A help always near"
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2020-03-22 fear-not-christ-is-in-the-crisis
 updated: 2026-08-06
 ---
 
