@@ -7,6 +7,7 @@ sources:
   - 2020-11-22 what-it-means-to-fall-from-grace
   - 2021-08-01 release-his-glory-in-your-life
   - 2021-08-15 the-significance-of-this-generation
+  - 2013-12-08 understanding-grace-and-discipleship
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2019-08-04 the-overflow-life-for-you
   - 2019-11-24 the-beauty-of-our-servant-king
   - 2022-05-08 own-your-new-creation-identity
+  - 2013-12-08 understanding-grace-and-discipleship
 updated: 2026-08-06
 ---
 

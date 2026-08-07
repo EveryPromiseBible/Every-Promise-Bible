@@ -3,6 +3,7 @@ key: Ephesians 5:1–2
 title: The way dearly loved children copy their father
 sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2013-12-08 understanding-grace-and-discipleship
 updated: 2026-08-06
 ---
 

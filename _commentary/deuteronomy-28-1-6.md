@@ -8,6 +8,7 @@ sources:
   - 2021-01-03 the-year-of-hazon-vision
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-05-01 guard-the-imaginations-of-your-heart
+  - 2013-12-08 understanding-grace-and-discipleship
 updated: 2026-08-06
 ---
 

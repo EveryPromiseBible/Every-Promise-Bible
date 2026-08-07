@@ -5,6 +5,7 @@ sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
   - 2021-08-29 secrets-of-the-peace-offering
   - 2022-05-08 own-your-new-creation-identity
+  - 2013-12-08 understanding-grace-and-discipleship
 updated: 2026-08-06
 ---
 

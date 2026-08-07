@@ -11,6 +11,7 @@ sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2021-03-28 your-healing-is-his-priority
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2013-12-08 understanding-grace-and-discipleship
 updated: 2026-08-06
 ---
 
