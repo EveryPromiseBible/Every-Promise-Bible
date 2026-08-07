@@ -3,6 +3,7 @@ key: Leviticus 7:28–34
 title: The breast and the thigh
 sources:
   - 2019-09-22 eat-the-communion-fresh
+  - 2021-02-21 your-provision-is-in-the-vision
 updated: 2026-08-06
 ---
 

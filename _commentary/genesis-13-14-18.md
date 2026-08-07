@@ -4,6 +4,7 @@ title: "Look around you, from where you are"
 sources:
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
+  - 2021-02-21 your-provision-is-in-the-vision
 updated: 2026-08-06
 ---
 

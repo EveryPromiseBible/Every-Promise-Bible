@@ -3,6 +3,7 @@ key: Psalms 19:1–4
 title: The speech with no words
 sources:
   - 2019-12-22 the-stars-tell-the-story-of-jesus
+  - 2021-02-21 your-provision-is-in-the-vision
 updated: 2026-08-06
 ---
 

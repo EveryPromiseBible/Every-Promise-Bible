@@ -7,6 +7,7 @@ sources:
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
   - 2019-12-22 the-stars-tell-the-story-of-jesus
   - 2020-12-13 declare-you-are-highly-favored
+  - 2021-02-21 your-provision-is-in-the-vision
 updated: 2026-08-06
 ---
 

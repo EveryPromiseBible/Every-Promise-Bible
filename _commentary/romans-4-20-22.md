@@ -3,6 +3,7 @@ key: Romans 4:20–22
 title: "He grew strong in faith"
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2021-02-21 your-provision-is-in-the-vision
 updated: 2026-08-06
 ---
 
