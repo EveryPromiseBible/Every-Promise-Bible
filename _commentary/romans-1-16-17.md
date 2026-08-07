@@ -8,6 +8,7 @@ sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 

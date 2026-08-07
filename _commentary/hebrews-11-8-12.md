@@ -4,6 +4,7 @@ title: "He went out without knowing where he was going"
 sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 

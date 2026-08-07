@@ -9,6 +9,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-09-27 actively-own-your-double-portion
   - 2020-10-11 he-confirms-his-word-with-miracles
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 

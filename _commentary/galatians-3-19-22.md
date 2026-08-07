@@ -3,7 +3,8 @@ key: Galatians 3:19–22
 title: Why the law was given
 sources:
   - 2020-11-01 no-longer-a-slave-to-fear
-updated: 2026-08-07
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+updated: 2026-08-06
 ---
 
 Paul asks the question his own argument forces, and answers it in four parts.

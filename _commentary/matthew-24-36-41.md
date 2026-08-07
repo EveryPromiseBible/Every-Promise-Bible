@@ -6,6 +6,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 

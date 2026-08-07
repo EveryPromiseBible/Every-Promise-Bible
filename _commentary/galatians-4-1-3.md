@@ -3,7 +3,8 @@ key: Galatians 4:1–3
 title: The heir and the slave
 sources:
   - 2020-11-01 no-longer-a-slave-to-fear
-updated: 2026-08-07
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+updated: 2026-08-06
 ---
 
 Paul draws a picture from a wealthy household and says it is a picture of the reader's

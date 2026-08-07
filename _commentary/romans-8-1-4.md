@@ -5,6 +5,7 @@ sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 

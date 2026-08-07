@@ -3,6 +3,7 @@ key: James 2:10
 title: Trip over one
 sources:
   - 2020-09-27 actively-own-your-double-portion
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 

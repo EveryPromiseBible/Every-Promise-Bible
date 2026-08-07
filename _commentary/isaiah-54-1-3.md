@@ -3,6 +3,7 @@ key: Isaiah 54:1–3
 title: "Make the tent wider"
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 

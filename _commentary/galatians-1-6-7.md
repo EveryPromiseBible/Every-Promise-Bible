@@ -5,6 +5,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2020-10-11 he-confirms-his-word-with-miracles
+  - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
 updated: 2026-08-06
 ---
 
