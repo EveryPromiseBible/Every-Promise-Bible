@@ -10,6 +10,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2021-07-11 unleash-his-resurrection-life
   - 2021-07-25 speak-life-not-death
+  - 2021-10-10 understand-the-times
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-07-25 speak-life-not-death
   - 2021-08-29 secrets-of-the-peace-offering
+  - 2021-10-10 understand-the-times
 updated: 2026-08-06
 ---
 

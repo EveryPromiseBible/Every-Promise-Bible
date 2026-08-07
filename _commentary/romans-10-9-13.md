@@ -8,6 +8,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-07-25 speak-life-not-death
   - 2021-09-26 now-is-the-time-of-favor
+  - 2021-10-10 understand-the-times
 updated: 2026-08-06
 ---
 

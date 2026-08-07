@@ -7,6 +7,7 @@ sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2021-01-17 learn-how-to-receive-visions
+  - 2021-10-10 understand-the-times
 updated: 2026-08-06
 ---
 

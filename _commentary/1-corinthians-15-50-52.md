@@ -6,6 +6,7 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-04-11 all-things-work-for-your-good
   - 2021-07-18 christ-consciousness-brings-life
+  - 2021-10-10 understand-the-times
 updated: 2026-08-06
 ---
 
