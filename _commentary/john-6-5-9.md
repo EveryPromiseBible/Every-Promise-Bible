@@ -3,7 +3,8 @@ key: John 6:5–9
 title: He already knew what He was about to do
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
-updated: 2026-08-07
+  - 2023-02-19 much-more-restoration-is-coming
+updated: 2026-08-06
 ---
 
 A question is asked by someone who is not asking for information.

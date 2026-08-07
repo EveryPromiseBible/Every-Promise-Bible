@@ -7,6 +7,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2023-02-05 pray-for-good-success-today
+  - 2023-02-19 much-more-restoration-is-coming
 updated: 2026-08-06
 ---
 

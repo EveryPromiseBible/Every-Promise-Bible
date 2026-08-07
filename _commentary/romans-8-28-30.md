@@ -12,6 +12,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-04-11 all-things-work-for-your-good
   - 2022-07-10 supernatural-supply-in-difficult-times
+  - 2023-02-19 much-more-restoration-is-coming
 updated: 2026-08-06
 ---
 
