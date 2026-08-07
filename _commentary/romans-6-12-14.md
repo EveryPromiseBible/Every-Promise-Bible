@@ -18,6 +18,7 @@ sources:
   - 2021-10-10 understand-the-times
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-07 win-the-battle-over-bitterness
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

@@ -8,6 +8,7 @@ sources:
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2022-01-09 gods-way-of-acceleration
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

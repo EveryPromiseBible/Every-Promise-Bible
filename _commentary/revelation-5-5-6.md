@@ -4,6 +4,7 @@ title: The Lion, and the Lamb
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2019-12-22 the-stars-tell-the-story-of-jesus
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

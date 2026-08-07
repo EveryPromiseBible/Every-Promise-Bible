@@ -3,7 +3,8 @@ key: Psalms 132:6–7
 title: We found it in the fields
 sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
-updated: 2026-08-07
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
+updated: 2026-08-06
 ---
 
 Two verses, and they are the search party talking.

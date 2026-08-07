@@ -8,6 +8,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-05-16 ask-big-ask-bold
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

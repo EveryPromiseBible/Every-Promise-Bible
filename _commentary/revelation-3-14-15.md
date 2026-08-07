@@ -4,6 +4,7 @@ title: "The Amen"
 sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-08-15 the-significance-of-this-generation
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

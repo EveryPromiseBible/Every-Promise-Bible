@@ -6,6 +6,7 @@ sources:
   - 2018-08-12 live-long-live-strong
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-12-13 declare-you-are-highly-favored
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

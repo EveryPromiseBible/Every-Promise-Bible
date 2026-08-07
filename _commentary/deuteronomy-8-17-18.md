@@ -5,6 +5,7 @@ sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-11-17 wisdom-for-financial-success
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

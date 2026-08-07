@@ -3,7 +3,8 @@ key: Deuteronomy 6:13–15
 title: A God who will not share
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-07
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
+updated: 2026-08-06
 ---
 
 Three verses immediately after the warning about a full house.

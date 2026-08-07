@@ -10,6 +10,7 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-01-02 the-year-of-rest-and-acceleration
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

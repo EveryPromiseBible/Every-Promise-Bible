@@ -5,6 +5,7 @@ sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

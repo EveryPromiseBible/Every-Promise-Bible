@@ -14,6 +14,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

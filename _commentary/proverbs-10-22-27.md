@@ -5,6 +5,7 @@ sources:
   - 2018-08-12 live-long-live-strong
   - 2019-04-14 positioned-for-his-provision
   - 2019-07-21 see-his-love-and-receive-his-power
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 

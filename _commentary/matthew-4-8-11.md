@@ -3,7 +3,8 @@ key: Matthew 4:8–11
 title: All of this I will give You
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-07
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
+updated: 2026-08-06
 ---
 
 The third temptation, and it is the only one that does not begin *if You are the Son of God*.

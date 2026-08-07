@@ -3,7 +3,8 @@ key: 2 Samuel 6:9–11
 title: Three months at Obed-edom's
 sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
-updated: 2026-08-07
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
+updated: 2026-08-06
 ---
 
 The procession stops, and the ark spends three months in somebody's house.

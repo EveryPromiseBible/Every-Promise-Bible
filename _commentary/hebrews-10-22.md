@@ -3,7 +3,8 @@ key: Hebrews 10:22
 title: Let us come close
 sources:
   - 2021-07-18 christ-consciousness-brings-life
-updated: 2026-08-07
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
+updated: 2026-08-06
 ---
 
 The first of three *let us* sentences, and everything the letter has argued for nine

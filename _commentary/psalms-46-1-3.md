@@ -5,6 +5,7 @@ sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2021-09-26 now-is-the-time-of-favor
+  - 2022-01-16 the-secret-of-obed-edoms-blessings
 updated: 2026-08-06
 ---
 
