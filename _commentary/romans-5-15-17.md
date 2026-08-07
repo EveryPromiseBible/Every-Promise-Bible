@@ -10,6 +10,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+  - 2020-11-22 what-it-means-to-fall-from-grace
 updated: 2026-08-06
 ---
 

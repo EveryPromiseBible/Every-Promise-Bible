@@ -4,6 +4,7 @@ title: The first commandment with a promise attached
 sources:
   - 2018-08-12 live-long-live-strong
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2020-11-22 what-it-means-to-fall-from-grace
 updated: 2026-08-06
 ---
 

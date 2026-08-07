@@ -6,6 +6,7 @@ sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-09-27 actively-own-your-double-portion
+  - 2020-11-22 what-it-means-to-fall-from-grace
 updated: 2026-08-06
 ---
 

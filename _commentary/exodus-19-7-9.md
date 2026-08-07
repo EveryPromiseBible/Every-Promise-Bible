@@ -4,6 +4,7 @@ title: "We will do everything the LORD has said"
 sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2020-11-22 what-it-means-to-fall-from-grace
 updated: 2026-08-06
 ---
 
