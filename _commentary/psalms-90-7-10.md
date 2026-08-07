@@ -3,6 +3,7 @@ key: Psalms 90:7–10
 title: "Seventy or eighty years" — spoken from inside the wrath
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

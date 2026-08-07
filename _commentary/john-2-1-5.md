@@ -10,6 +10,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-09-27 actively-own-your-double-portion
   - 2021-06-06 set-apart-for-lasting-success
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: The blessing David sang
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2021-04-25 your-failure-isnt-final
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

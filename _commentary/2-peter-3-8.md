@@ -3,6 +3,7 @@ key: 2 Peter 3:8
 title: "A single day is the same size as a thousand years"
 sources:
   - 2020-01-19 god-can-reverse-time-for-you
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

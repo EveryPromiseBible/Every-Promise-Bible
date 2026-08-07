@@ -3,6 +3,7 @@ key: 2 Peter 3:3–4
 title: "Where is the promise of His coming?"
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

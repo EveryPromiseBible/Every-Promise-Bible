@@ -13,6 +13,7 @@ sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2021-03-28 your-healing-is-his-priority
   - 2021-06-06 set-apart-for-lasting-success
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2021-07-18 christ-consciousness-brings-life
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

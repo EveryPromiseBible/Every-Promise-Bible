@@ -13,6 +13,7 @@ sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2017-08-06 the-healing-power-of-a-joyful-heart
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 

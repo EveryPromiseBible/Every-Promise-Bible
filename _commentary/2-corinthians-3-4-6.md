@@ -8,6 +8,7 @@ sources:
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-07-18 christ-consciousness-brings-life
+  - 2021-08-01 release-his-glory-in-your-life
 updated: 2026-08-06
 ---
 
