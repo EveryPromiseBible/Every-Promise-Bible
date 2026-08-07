@@ -9,6 +9,7 @@ sources:
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2019-11-17 wisdom-for-financial-success
   - 2020-02-16 anointing-oil-for-healing-and-protection
+  - 2020-05-10 can-i-ask-god-to-prosper-me
 updated: 2026-08-06
 ---
 
@@ -43,6 +44,21 @@ his own cost.
 
 Gaius was a generous man, and John prays for his health and his road in the same
 breath as praising it.
+
+## "In all things"
+
+The Greek is **peri panton** — concerning all things, in every respect.
+
+John does not narrow it. He prays it over the whole of the man's life and then names
+health separately, so the health is not the whole of what *all things* means.
+
+## Who is writing it
+
+The apostle who leaned on His chest at the supper, writing in old age to a private
+individual. It is a personal letter — the shortest book in the New Testament — and this
+is the sentence he opens with.
+
+He calls it what he wishes *above all things*.
 
 > **What kind of sentence it is.** It sits where a first-century letter always put
 > a wish for the reader's health — the standard opening courtesy of the era. John

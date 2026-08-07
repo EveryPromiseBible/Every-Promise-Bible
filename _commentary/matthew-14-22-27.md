@@ -4,6 +4,7 @@ title: The fourth watch
 sources:
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2020-05-10 can-i-ask-god-to-prosper-me
 updated: 2026-08-06
 ---
 
