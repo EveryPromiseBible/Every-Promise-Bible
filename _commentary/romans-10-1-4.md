@@ -3,6 +3,7 @@ key: Romans 10:1–4
 title: A zeal that runs ahead of knowledge
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2020-08-30 distracted-and-depressed-help-is-on-the-way
 updated: 2026-08-06
 ---
 

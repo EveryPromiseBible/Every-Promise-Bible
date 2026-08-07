@@ -4,6 +4,7 @@ title: "For it is God who is at work in you"
 sources:
   - 2019-01-20 his-lavish-love-exceeds-your-expectations
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2020-08-30 distracted-and-depressed-help-is-on-the-way
 updated: 2026-08-06
 ---
 

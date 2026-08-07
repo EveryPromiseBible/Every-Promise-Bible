@@ -5,6 +5,7 @@ sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2020-08-30 distracted-and-depressed-help-is-on-the-way
 updated: 2026-08-06
 ---
 

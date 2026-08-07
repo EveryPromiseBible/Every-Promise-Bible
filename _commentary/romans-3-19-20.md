@@ -5,6 +5,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2020-08-30 distracted-and-depressed-help-is-on-the-way
 updated: 2026-08-06
 ---
 

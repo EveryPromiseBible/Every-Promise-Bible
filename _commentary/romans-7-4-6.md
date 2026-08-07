@@ -3,6 +3,7 @@ key: Romans 7:4–6
 title: Released to belong to Another
 sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
+  - 2020-08-30 distracted-and-depressed-help-is-on-the-way
 updated: 2026-08-06
 ---
 
@@ -43,6 +44,21 @@ like a lit match.
 
 *And what they produced was death.* That is the fruit of the first marriage. The
 second one bears fruit *for God*.
+
+## The two fruits
+
+Paul uses the same verb for both — **karpophoreo**, to bear fruit — and the difference is
+in the preposition:
+
+- *fruit **to death*** (verse 5)
+- *fruit **to God*** (verse 4)
+
+Neither marriage is barren. The question in the passage is not whether there will be
+fruit but who it goes to.
+
+And the fruit-bearing in verse 4 is stated as the purpose of the union, not as a
+condition of it: *that you should be married to another… **that** we should bear fruit to
+God*.
 
 ## "That which once held us fast has been put to death"
 
