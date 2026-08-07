@@ -3,6 +3,7 @@ key: Hebrews 11:23–29
 title: Moses, and the accounting he did
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2017-03-19 win-over-discouragement-depression-and-burnout
 updated: 2026-08-06
 ---
 

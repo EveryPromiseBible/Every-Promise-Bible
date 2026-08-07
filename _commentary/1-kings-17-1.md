@@ -3,6 +3,7 @@ key: 1 Kings 17:1
 title: "The One I stand before"
 sources:
   - 2018-11-04 how-to-pray-and-see-results
+  - 2017-03-19 win-over-discouragement-depression-and-burnout
 updated: 2026-08-06
 ---
 
