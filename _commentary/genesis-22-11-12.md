@@ -4,6 +4,7 @@ title: The knife never fell
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-11-01 no-longer-a-slave-to-fear
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

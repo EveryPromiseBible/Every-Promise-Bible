@@ -3,7 +3,8 @@ key: Genesis 22:1–2
 title: "Every word landed heavier than the last"
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2021-02-28 prophetic-hope-for-the-future
+updated: 2026-08-06
 ---
 
 The opening of the hardest chapter in Genesis, and the reader is told at the start what

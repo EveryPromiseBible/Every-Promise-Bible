@@ -8,6 +8,7 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2020-11-15 five-times-more-favor-and-provision
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

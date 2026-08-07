@@ -4,6 +4,7 @@ title: Veiled to those perishing
 sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-01 no-longer-a-slave-to-fear
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

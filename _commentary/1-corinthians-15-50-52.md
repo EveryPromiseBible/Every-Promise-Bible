@@ -3,6 +3,7 @@ key: 1 Corinthians 15:50–52
 title: A mystery and a trumpet
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

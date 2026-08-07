@@ -3,6 +3,7 @@ key: 2 Corinthians 3:12–15
 title: The veil at the reading
 sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Hebrews 3:12–15
 title: "While there is still a Today"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2021-02-28 prophetic-hope-for-the-future
+updated: 2026-08-06
 ---
 
 The application of the psalm, and the instruction in it is about each other.

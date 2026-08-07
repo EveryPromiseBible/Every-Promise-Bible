@@ -3,6 +3,7 @@ key: Philippians 3:20–21
 title: "Our citizenship is registered in heaven"
 sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

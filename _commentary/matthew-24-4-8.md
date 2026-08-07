@@ -3,7 +3,8 @@ key: Matthew 24:4–8
 title: The beginning of birth pains
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2021-02-28 prophetic-hope-for-the-future
+updated: 2026-08-06
 ---
 
 The first thing He says in answer to the disciples' question is a warning about being

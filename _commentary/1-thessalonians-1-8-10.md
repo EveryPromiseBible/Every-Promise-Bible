@@ -4,6 +4,7 @@ title: The word that travelled out
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
   - 2020-12-27 how-to-see-many-beautiful-days
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

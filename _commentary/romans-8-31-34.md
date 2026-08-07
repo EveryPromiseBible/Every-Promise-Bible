@@ -6,6 +6,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-02-21 your-provision-is-in-the-vision
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

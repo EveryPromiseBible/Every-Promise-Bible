@@ -4,6 +4,7 @@ title: Hold on to each other
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-07-26 the-power-of-positive-expectations
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

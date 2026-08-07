@@ -7,6 +7,7 @@ sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-01 no-longer-a-slave-to-fear
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 

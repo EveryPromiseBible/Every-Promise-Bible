@@ -5,6 +5,7 @@ sources:
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-02-21 your-provision-is-in-the-vision
+  - 2021-02-28 prophetic-hope-for-the-future
 updated: 2026-08-06
 ---
 
@@ -22,6 +23,16 @@ Abram is left with the hill country, and the narrator adds a note about where Lo
 men of Sodom were exceedingly wicked and sinful against the LORD.*
 
 God speaks after the choice has been made and cannot be revisited.
+
+## The name that had to go
+
+**Lot** — in Hebrew, **lot**: a covering, a wrapping, a veil.
+
+It is the word Isaiah uses for the thing spread over the faces of the nations — *the
+covering that is cast over all peoples*. See the note on Isaiah 25:6–9.
+
+The sight comes to Abram after the covering has separated from him, and Genesis dates it
+exactly that way: *after Lot had gone*.
 
 ## The instruction
 
