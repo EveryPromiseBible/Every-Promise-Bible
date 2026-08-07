@@ -7,6 +7,7 @@ sources:
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2021-01-03 the-year-of-hazon-vision
   - 2022-04-03 when-the-odds-are-against-you
+  - 2022-05-01 guard-the-imaginations-of-your-heart
 updated: 2026-08-06
 ---
 

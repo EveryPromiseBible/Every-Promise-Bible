@@ -9,6 +9,7 @@ sources:
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2021-09-05 answers-for-a-hurried-life
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
+  - 2022-05-01 guard-the-imaginations-of-your-heart
 updated: 2026-08-06
 ---
 

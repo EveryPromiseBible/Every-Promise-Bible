@@ -18,6 +18,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-02-27 jesus-saves-heals-and-renews
+  - 2022-05-01 guard-the-imaginations-of-your-heart
 updated: 2026-08-06
 ---
 

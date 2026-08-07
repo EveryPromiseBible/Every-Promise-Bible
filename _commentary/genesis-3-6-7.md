@@ -6,6 +6,7 @@ sources:
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-01-31 keys-to-good-success
   - 2021-03-28 your-healing-is-his-priority
+  - 2022-05-01 guard-the-imaginations-of-your-heart
 updated: 2026-08-06
 ---
 

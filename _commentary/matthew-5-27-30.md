@@ -3,6 +3,7 @@ key: Matthew 5:27–30
 title: "Already, in his heart"
 sources:
   - 2019-04-21 the-best-news-youll-ever-hear
+  - 2022-05-01 guard-the-imaginations-of-your-heart
 updated: 2026-08-06
 ---
 

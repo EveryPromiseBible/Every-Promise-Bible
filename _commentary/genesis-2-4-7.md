@@ -6,6 +6,7 @@ sources:
   - 2021-06-27 his-word-brings-life-and-healing
   - 2021-07-11 unleash-his-resurrection-life
   - 2021-07-18 christ-consciousness-brings-life
+  - 2022-05-01 guard-the-imaginations-of-your-heart
 updated: 2026-08-06
 ---
 
