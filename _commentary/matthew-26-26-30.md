@@ -5,6 +5,7 @@ sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2021-08-29 secrets-of-the-peace-offering
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

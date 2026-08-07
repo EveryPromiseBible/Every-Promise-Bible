@@ -4,6 +4,7 @@ title: "Now it's your turn"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-05-16 ask-big-ask-bold
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

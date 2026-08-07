@@ -8,6 +8,7 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-09-05 answers-for-a-hurried-life
   - 2021-10-31 where-is-holiness-in-grace
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

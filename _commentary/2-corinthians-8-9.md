@@ -9,6 +9,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2020-09-27 actively-own-your-double-portion
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

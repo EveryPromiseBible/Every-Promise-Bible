@@ -7,6 +7,7 @@ sources:
   - 2020-01-19 god-can-reverse-time-for-you
   - 2021-04-04 stand-on-favor-ground
   - 2021-08-01 release-his-glory-in-your-life
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

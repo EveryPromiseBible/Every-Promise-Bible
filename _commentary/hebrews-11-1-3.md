@@ -6,6 +6,7 @@ sources:
   - 2019-09-01 present-help-in-times-of-trouble
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-09-26 now-is-the-time-of-favor
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

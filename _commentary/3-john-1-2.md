@@ -20,6 +20,7 @@ sources:
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-07-11 unleash-his-resurrection-life
   - 2021-07-18 christ-consciousness-brings-life
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

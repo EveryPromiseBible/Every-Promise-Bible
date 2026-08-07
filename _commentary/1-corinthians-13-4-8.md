@@ -3,6 +3,7 @@ key: 1 Corinthians 13:4–8
 title: The way of love
 sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

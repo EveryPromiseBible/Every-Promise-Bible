@@ -3,7 +3,8 @@ key: Genesis 18:9–15
 title: Sarah laughed
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+  - 2021-11-28 faith-to-possess-the-land
+updated: 2026-08-06
 ---
 
 A question, an announcement, a laugh behind a curtain, and a denial.

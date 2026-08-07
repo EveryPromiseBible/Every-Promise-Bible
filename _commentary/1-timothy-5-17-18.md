@@ -5,6 +5,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-09-22 eat-the-communion-fresh
   - 2020-01-19 god-can-reverse-time-for-you
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

@@ -7,6 +7,7 @@ sources:
   - 2021-02-07 answers-for-a-distracted-world
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-10-17 gods-heart-for-your-family
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

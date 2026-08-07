@@ -7,6 +7,7 @@ sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

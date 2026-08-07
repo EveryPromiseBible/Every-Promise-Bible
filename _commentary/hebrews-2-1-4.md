@@ -3,7 +3,8 @@ key: Hebrews 2:1–4
 title: Swept past it
 sources:
   - 2021-10-31 where-is-holiness-in-grace
-updated: 2026-08-07
+  - 2021-11-28 faith-to-possess-the-land
+updated: 2026-08-06
 ---
 
 The first of the letter's warnings, and the danger it names is drifting rather than rebelling.

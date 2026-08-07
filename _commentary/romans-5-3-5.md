@@ -4,6 +4,7 @@ title: The chain that ends in hope
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2021-04-11 all-things-work-for-your-good
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

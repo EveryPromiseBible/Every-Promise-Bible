@@ -14,6 +14,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-10-31 where-is-holiness-in-grace
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

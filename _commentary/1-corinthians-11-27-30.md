@@ -8,6 +8,7 @@ sources:
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2021-06-27 his-word-brings-life-and-healing
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 

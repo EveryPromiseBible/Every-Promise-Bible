@@ -5,6 +5,7 @@ sources:
   - 2018-09-09 give-me-this-mountain
   - 2021-05-16 ask-big-ask-bold
   - 2021-05-30 the-key-to-victorious-living
+  - 2021-11-28 faith-to-possess-the-land
 updated: 2026-08-06
 ---
 
