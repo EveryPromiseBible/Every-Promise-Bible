@@ -4,6 +4,7 @@ title: The sower goes out
 sources:
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2021-06-27 his-word-brings-life-and-healing
 updated: 2026-08-06
 ---
 

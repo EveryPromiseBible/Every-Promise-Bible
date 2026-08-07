@@ -3,7 +3,8 @@ key: Matthew 13:18–23
 title: The four kinds of soil
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2021-06-27 his-word-brings-life-and-healing
+updated: 2026-08-06
 ---
 
 Matthew's version of the explanation, and one word in it is not in Mark's.
