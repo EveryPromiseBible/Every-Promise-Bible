@@ -3,6 +3,7 @@ key: John 4:7–9
 title: "Would you give Me a drink?"
 sources:
   - 2019-08-04 the-overflow-life-for-you
+  - 2019-11-24 the-beauty-of-our-servant-king
 updated: 2026-08-06
 ---
 

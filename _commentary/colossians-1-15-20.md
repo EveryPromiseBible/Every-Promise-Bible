@@ -4,6 +4,7 @@ title: "In Him all of it holds together"
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2019-12-22 the-stars-tell-the-story-of-jesus
 updated: 2026-08-06
 ---
 

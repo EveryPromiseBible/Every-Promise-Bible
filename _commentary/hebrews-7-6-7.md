@@ -3,6 +3,7 @@ key: Hebrews 7:6–7
 title: "The lesser is blessed by the greater"
 sources:
   - 2019-08-04 the-overflow-life-for-you
+  - 2019-12-29 you-have-a-destiny
 updated: 2026-08-06
 ---
 

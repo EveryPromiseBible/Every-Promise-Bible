@@ -3,6 +3,7 @@ key: Romans 6:22–23
 title: The wage and the gift
 sources:
   - 2019-04-21 the-best-news-youll-ever-hear
+  - 2019-12-22 the-stars-tell-the-story-of-jesus
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,8 @@ key: 1 Peter 2:4–5
 title: A house made out of people
 sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
+  - 2019-12-29 you-have-a-destiny
+  - 2020-01-05 the-lord-of-time-and-space
 updated: 2026-08-06
 ---
 

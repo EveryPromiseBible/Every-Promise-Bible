@@ -5,6 +5,7 @@ sources:
   - 2019-01-27 be-led-by-his-anointing-and-win
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-05-05 believe-right-and-see-good
+  - 2019-12-22 the-stars-tell-the-story-of-jesus
 updated: 2026-08-06
 ---
 

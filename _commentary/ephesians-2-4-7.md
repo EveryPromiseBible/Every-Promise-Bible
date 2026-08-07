@@ -3,6 +3,7 @@ key: Ephesians 2:4–7
 title: "But God" — and three verbs with "together" in them
 sources:
   - 2018-11-04 how-to-pray-and-see-results
+  - 2019-12-29 you-have-a-destiny
 updated: 2026-08-06
 ---
 

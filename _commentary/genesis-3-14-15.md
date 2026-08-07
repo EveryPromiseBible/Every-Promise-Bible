@@ -6,6 +6,7 @@ sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2014-04-13 noah-the-real-story
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2019-12-22 the-stars-tell-the-story-of-jesus
 updated: 2026-08-06
 ---
 

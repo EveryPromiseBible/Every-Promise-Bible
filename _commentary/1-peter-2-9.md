@@ -3,6 +3,8 @@ key: 1 Peter 2:9
 title: "But look at you"
 sources:
   - 2019-07-28 live-out-your-high-calling
+  - 2019-12-29 you-have-a-destiny
+  - 2020-01-05 the-lord-of-time-and-space
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2019-11-17 wisdom-for-financial-success
+  - 2019-11-24 the-beauty-of-our-servant-king
 updated: 2026-08-06
 ---
 
