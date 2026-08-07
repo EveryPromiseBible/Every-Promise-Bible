@@ -3,6 +3,7 @@ key: Zechariah 4:6–10
 title: "Grace, grace to it"
 sources:
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

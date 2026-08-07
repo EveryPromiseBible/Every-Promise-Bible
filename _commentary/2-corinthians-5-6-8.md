@@ -3,7 +3,8 @@ key: 2 Corinthians 5:6–8
 title: Away from and at home
 sources:
   - 2021-05-30 the-key-to-victorious-living
-updated: 2026-08-07
+  - 2022-04-03 when-the-odds-are-against-you
+updated: 2026-08-06
 ---
 
 Paul says he is confident, twice, and both times it is about dying.

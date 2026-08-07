@@ -15,6 +15,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-10-31 where-is-holiness-in-grace
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

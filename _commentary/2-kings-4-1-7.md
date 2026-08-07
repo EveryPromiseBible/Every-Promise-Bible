@@ -4,6 +4,7 @@ title: The widow's oil
 sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2021-04-04 stand-on-favor-ground
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

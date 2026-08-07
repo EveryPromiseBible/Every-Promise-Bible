@@ -7,6 +7,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2021-08-29 secrets-of-the-peace-offering
   - 2021-10-10 understand-the-times
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

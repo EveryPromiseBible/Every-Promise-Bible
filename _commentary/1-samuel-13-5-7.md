@@ -3,7 +3,8 @@ key: 1 Samuel 13:5–7
 title: Trembling at Gilgal
 sources:
   - 2021-10-03 leadership-keys
-updated: 2026-08-07
+  - 2022-04-03 when-the-odds-are-against-you
+updated: 2026-08-06
 ---
 
 The army before the battle, and the account is entirely about where people went to hide.

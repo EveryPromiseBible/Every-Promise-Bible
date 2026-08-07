@@ -8,6 +8,7 @@ sources:
   - 2021-10-03 leadership-keys
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-03-13 pillars-for-our-church-and-life
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

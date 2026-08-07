@@ -7,6 +7,7 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-05-02 inside-out-transformation
   - 2022-03-13 pillars-for-our-church-and-life
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

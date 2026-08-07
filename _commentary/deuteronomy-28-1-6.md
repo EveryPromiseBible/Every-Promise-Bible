@@ -6,6 +6,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2021-01-03 the-year-of-hazon-vision
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

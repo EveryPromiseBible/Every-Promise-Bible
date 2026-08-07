@@ -4,6 +4,7 @@ title: "Do not go down to Egypt"
 sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 

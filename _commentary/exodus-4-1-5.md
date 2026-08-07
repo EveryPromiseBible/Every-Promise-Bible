@@ -3,7 +3,8 @@ key: Exodus 4:1–5
 title: What is that in your hand
 sources:
   - 2021-04-04 stand-on-favor-ground
-updated: 2026-08-07
+  - 2022-04-03 when-the-odds-are-against-you
+updated: 2026-08-06
 ---
 
 God answers an objection by asking about an object.

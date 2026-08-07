@@ -6,6 +6,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-11-17 wisdom-for-financial-success
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-04-03 when-the-odds-are-against-you
 updated: 2026-08-06
 ---
 
