@@ -3,6 +3,7 @@ key: Matthew 20:24–28
 title: "Not to be served, but to serve"
 sources:
   - 2018-10-14 boldness-to-inherit-every-blessing
+  - 2019-08-04 the-overflow-life-for-you
 updated: 2026-08-06
 ---
 

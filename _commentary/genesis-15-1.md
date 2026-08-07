@@ -3,6 +3,7 @@ key: Genesis 15:1
 title: "I Myself am your shield" — what Abram had just turned down
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
+  - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: "God never marked us out for wrath"
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2019-04-14 positioned-for-his-provision
+  - 2019-08-25 win-the-battle-over-hopelessness
 updated: 2026-08-06
 ---
 

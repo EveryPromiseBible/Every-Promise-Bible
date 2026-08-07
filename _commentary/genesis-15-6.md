@@ -4,6 +4,7 @@ title: Credited as righteousness
 sources:
   - 2019-04-28 the-key-to-live-blessed
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
 updated: 2026-08-06
 ---
 

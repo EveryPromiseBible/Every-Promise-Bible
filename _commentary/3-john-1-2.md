@@ -4,6 +4,7 @@ title: "The way your soul is already doing well"
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2019-05-05 believe-right-and-see-good
+  - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
 updated: 2026-08-06
 ---
 

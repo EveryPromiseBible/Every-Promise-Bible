@@ -3,6 +3,7 @@ key: Philippians 2:12–13
 title: "For it is God who is at work in you"
 sources:
   - 2019-01-20 his-lavish-love-exceeds-your-expectations
+  - 2019-08-25 win-the-battle-over-hopelessness
 updated: 2026-08-06
 ---
 

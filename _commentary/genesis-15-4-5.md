@@ -3,6 +3,7 @@ key: Genesis 15:4–5
 title: Count the stars
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: Two sentences, and the word between them
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
   - 2019-04-28 the-key-to-live-blessed
+  - 2019-07-28 live-out-your-high-calling
 updated: 2026-08-06
 ---
 

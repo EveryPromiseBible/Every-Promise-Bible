@@ -3,6 +3,7 @@ key: Judges 6:11–16
 title: "Mighty man of valour"
 sources:
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2019-07-28 live-out-your-high-calling
 updated: 2026-08-06
 ---
 

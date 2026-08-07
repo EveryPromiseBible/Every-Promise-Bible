@@ -3,6 +3,7 @@ key: Genesis 14:17–20
 title: Melchizedek brings out bread and wine
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2019-07-28 live-out-your-high-calling
 updated: 2026-08-06
 ---
 

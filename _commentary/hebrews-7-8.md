@@ -4,6 +4,7 @@ title: The one receiving it now is alive
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2019-08-04 the-overflow-life-for-you
 updated: 2026-08-06
 ---
 

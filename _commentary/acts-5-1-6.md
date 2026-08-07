@@ -3,6 +3,7 @@ key: Acts 5:1–6
 title: A gift and a lie
 sources:
   - 2019-02-17 find-answers-in-your-darkest-times
+  - 2019-08-25 win-the-battle-over-hopelessness
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Matthew 11:28–30
 title: Whose yoke it is, and what "easy" actually says
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
 updated: 2026-08-06
 ---
 

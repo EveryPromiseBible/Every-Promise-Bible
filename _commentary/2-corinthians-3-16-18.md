@@ -3,6 +3,7 @@ key: 2 Corinthians 3:16–18
 title: From glory to glory
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
+  - 2019-07-28 live-out-your-high-calling
 updated: 2026-08-06
 ---
 

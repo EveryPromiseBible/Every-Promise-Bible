@@ -3,6 +3,7 @@ key: Romans 1:16–17
 title: The power of God for everyone
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2019-07-28 live-out-your-high-calling
 updated: 2026-08-06
 ---
 

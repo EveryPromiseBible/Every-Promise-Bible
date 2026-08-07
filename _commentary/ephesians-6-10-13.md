@@ -3,6 +3,7 @@ key: Ephesians 6:10–13
 title: "Having done everything, to stand"
 sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
+  - 2019-08-25 win-the-battle-over-hopelessness
 updated: 2026-08-06
 ---
 

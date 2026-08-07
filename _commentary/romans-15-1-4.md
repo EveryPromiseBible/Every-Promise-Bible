@@ -3,6 +3,7 @@ key: Romans 15:1–4
 title: What strength is for
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
+  - 2019-08-25 win-the-battle-over-hopelessness
 updated: 2026-08-06
 ---
 

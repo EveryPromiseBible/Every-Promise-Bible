@@ -3,6 +3,7 @@ key: Matthew 11:20–24
 title: The towns that saw the most
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2019-07-21 see-his-love-and-receive-his-power
 updated: 2026-08-06
 ---
 

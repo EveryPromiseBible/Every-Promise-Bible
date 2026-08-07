@@ -4,6 +4,7 @@ title: The oath God swears about His own anger
 sources:
   - 2018-08-12 live-long-live-strong
   - 2014-04-13 noah-the-real-story
+  - 2019-07-21 see-his-love-and-receive-his-power
 updated: 2026-08-06
 ---
 

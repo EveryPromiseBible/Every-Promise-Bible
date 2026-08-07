@@ -1,0 +1,80 @@
+---
+key: 1 Peter 2:9
+title: "But look at you"
+sources:
+  - 2019-07-28 live-out-your-high-calling
+updated: 2026-08-06
+---
+
+Four titles handed out in one verse, and every one of them was Israel's.
+
+## Who is being addressed
+
+Peter's readers are *pilgrims of the Dispersion* — refugees scattered across five
+provinces of Asia Minor, most of them poor, some of them slaves, and under
+pressure.
+
+To those people: *God picked you out.*
+
+## The four
+
+- **God picked you out** — a chosen generation, **eklektos**
+- **priests in a King's house** — a royal priesthood
+- **a nation set apart** — a holy nation
+- **a people He keeps for Himself** — a people for His own possession
+
+Every phrase comes from Exodus 19, spoken at Sinai: *you shall be to Me a kingdom of
+priests and a holy nation.* See the note on Exodus 19:7–9.
+
+Peter takes the sentence God said to Israel at the mountain and says it to Gentile
+believers in Pontus and Cappadocia.
+
+## King and priest together
+
+**A royal priesthood** — the two offices in one phrase.
+
+In Israel they were kept strictly apart. Uzziah was a king who walked into the
+sanctuary with a censer and came out a leper. See the note on
+2 Chronicles 26:16–18.
+
+Only Melchizedek held both — *king of Salem, priest of God Most High* — and
+Zechariah was told to put a crown on a high priest's head and say *He shall be a
+priest on his throne.* See the notes on Genesis 14:17–20 and Zechariah 6:9–15.
+
+That combination, forbidden to everybody in the old covenant, is what Peter calls his
+readers.
+
+## The job
+
+*And there is a job in it: **say out loud how good He is**.*
+
+The Greek is **aretas** — excellencies, virtues, the qualities that make something
+what it is. The verb is to publish abroad, to tell out.
+
+The priestly work named here is not sacrifice or mediation. It is speech about what
+He is like.
+
+## The two states
+
+*You were **in the dark**, and He called you, and **the light you walked into is more
+than you can take in**.*
+
+The Greek is *His marvellous light* — wonderful, astonishing.
+
+And the movement is His: *He called you.* Nobody in the verse found their own way
+out.
+
+## The verse before, and after
+
+Before: *a stone of stumbling and a rock of offence* — the same stone that is precious
+to those who believe.
+
+After: *who once were not a people but are now the people of God, who had not
+obtained mercy but now have obtained mercy.*
+
+Peter is quoting Hosea. *Lo-Ammi*, not My people, reversed — the same passage Paul
+uses in Romans 9. See the notes on Hosea 1:8–9 and Romans 9:25–26.
+
+> **What Peter had called them a few verses earlier.** *Living stones, being built up
+> a spiritual house, a holy priesthood.* The house and the priests are the same
+> people, and the stones were not quarried square. See the note on 1 Peter 2:4–5.

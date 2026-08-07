@@ -3,6 +3,7 @@ key: Nehemiah 7:4–5
 title: "My God put it into my heart"
 sources:
   - 2019-04-14 positioned-for-his-provision
+  - 2019-08-25 win-the-battle-over-hopelessness
 updated: 2026-08-06
 ---
 

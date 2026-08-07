@@ -4,6 +4,7 @@ title: "When I see the blood" — who the sign was for
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2019-04-14 positioned-for-his-provision
+  - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
 updated: 2026-08-06
 ---
 

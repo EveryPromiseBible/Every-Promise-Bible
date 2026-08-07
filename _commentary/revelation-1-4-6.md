@@ -4,6 +4,7 @@ title: "He made us kings and priests"
 sources:
   - 2018-11-04 how-to-pray-and-see-results
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2019-07-28 live-out-your-high-calling
 updated: 2026-08-06
 ---
 

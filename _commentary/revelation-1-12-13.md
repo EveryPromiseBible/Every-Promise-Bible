@@ -4,6 +4,7 @@ title: Among the lampstands
 sources:
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2019-08-04 the-overflow-life-for-you
 updated: 2026-08-06
 ---
 

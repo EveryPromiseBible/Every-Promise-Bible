@@ -3,6 +3,7 @@ key: 2 Chronicles 26:16–18
 title: Strength turned to pride
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2019-07-28 live-out-your-high-calling
 updated: 2026-08-06
 ---
 

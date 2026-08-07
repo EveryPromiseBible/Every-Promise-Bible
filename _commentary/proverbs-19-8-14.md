@@ -3,6 +3,7 @@ key: Proverbs 19:8–14
 title: "A sensible wife comes from the LORD"
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2019-07-21 see-his-love-and-receive-his-power
 updated: 2026-08-06
 ---
 

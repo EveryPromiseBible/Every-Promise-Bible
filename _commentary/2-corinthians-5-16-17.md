@@ -3,6 +3,7 @@ key: 2 Corinthians 5:16–17
 title: A whole new creation
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2019-08-25 win-the-battle-over-hopelessness
 updated: 2026-08-06
 ---
 
