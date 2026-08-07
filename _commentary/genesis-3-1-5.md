@@ -3,7 +3,8 @@ key: Genesis 3:1–5
 title: The serpent's question
 sources:
   - 2020-12-13 declare-you-are-highly-favored
-updated: 2026-08-07
+  - 2021-03-28 your-healing-is-his-priority
+updated: 2026-08-06
 ---
 
 Five verses, and every move in them is about what God is like.

@@ -3,6 +3,7 @@ key: Mark 2:1–5
 title: A roof torn open
 sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2021-03-28 your-healing-is-his-priority
 updated: 2026-08-06
 ---
 
