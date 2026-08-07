@@ -4,6 +4,7 @@ title: "You are living in the Spirit"
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2021-05-02 inside-out-transformation
+  - 2021-07-11 unleash-his-resurrection-life
 updated: 2026-08-06
 ---
 

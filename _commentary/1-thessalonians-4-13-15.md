@@ -3,6 +3,7 @@ key: 1 Thessalonians 4:13–15
 title: Grief with something left in it
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2021-07-11 unleash-his-resurrection-life
 updated: 2026-08-06
 ---
 
