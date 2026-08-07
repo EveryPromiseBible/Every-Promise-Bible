@@ -7,6 +7,7 @@ sources:
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2022-06-19 own-the-spirit-of-sonship
 updated: 2026-08-06
 ---
 

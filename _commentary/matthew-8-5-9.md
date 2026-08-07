@@ -3,6 +3,7 @@ key: Matthew 8:5–9
 title: The centurion's argument
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2022-06-19 own-the-spirit-of-sonship
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Matthew 15:29–31
 title: They laid them at His feet
 sources:
   - 2021-03-07 come-to-the-feast-of-healing
-updated: 2026-08-07
+  - 2022-06-19 own-the-spirit-of-sonship
+updated: 2026-08-06
 ---
 
 A summary paragraph, and it is one of the largest healing scenes in the Gospels.

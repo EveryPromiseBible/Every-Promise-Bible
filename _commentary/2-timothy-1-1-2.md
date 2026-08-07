@@ -3,7 +3,8 @@ key: 2 Timothy 1:1–2
 title: A son I love dearly
 sources:
   - 2022-05-22 how-to-be-strong-in-grace
-updated: 2026-08-07
+  - 2022-06-19 own-the-spirit-of-sonship
+updated: 2026-08-06
 ---
 
 The last letter Paul wrote opens with a promise of life, from a man about to lose his.

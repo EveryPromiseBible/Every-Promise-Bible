@@ -7,6 +7,7 @@ sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-10-03 leadership-keys
   - 2022-05-22 how-to-be-strong-in-grace
+  - 2022-06-19 own-the-spirit-of-sonship
 updated: 2026-08-06
 ---
 

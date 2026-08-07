@@ -4,6 +4,7 @@ title: The Spirit searches
 sources:
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-01-09 gods-way-of-acceleration
+  - 2022-06-19 own-the-spirit-of-sonship
 updated: 2026-08-06
 ---
 

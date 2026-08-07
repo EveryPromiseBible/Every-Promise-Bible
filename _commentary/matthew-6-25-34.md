@@ -12,6 +12,7 @@ sources:
   - 2021-08-15 the-significance-of-this-generation
   - 2021-09-05 answers-for-a-hurried-life
   - 2021-09-26 now-is-the-time-of-favor
+  - 2022-06-19 own-the-spirit-of-sonship
 updated: 2026-08-06
 ---
 

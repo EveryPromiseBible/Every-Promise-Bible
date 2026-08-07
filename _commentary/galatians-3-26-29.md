@@ -11,6 +11,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-05-22 how-to-be-strong-in-grace
+  - 2022-06-19 own-the-spirit-of-sonship
 updated: 2026-08-06
 ---
 

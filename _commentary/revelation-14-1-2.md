@@ -3,7 +3,8 @@ key: Revelation 14:1–2
 title: The Lamb on Mount Sion
 sources:
   - 2020-11-01 no-longer-a-slave-to-fear
-updated: 2026-08-07
+  - 2022-06-19 own-the-spirit-of-sonship
+updated: 2026-08-06
 ---
 
 After the darkest chapter in the book, John looks and sees somebody standing.

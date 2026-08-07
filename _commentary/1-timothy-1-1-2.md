@@ -3,7 +3,8 @@ key: 1 Timothy 1:1–2
 title: My own true son
 sources:
   - 2022-05-22 how-to-be-strong-in-grace
-updated: 2026-08-07
+  - 2022-06-19 own-the-spirit-of-sonship
+updated: 2026-08-06
 ---
 
 Two verses of address, and both halves are unusual.

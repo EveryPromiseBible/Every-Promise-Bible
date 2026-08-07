@@ -3,7 +3,8 @@ key: Jeremiah 3:19–20
 title: "I thought you would call Me 'My Father'"
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-07
+  - 2022-06-19 own-the-spirit-of-sonship
+updated: 2026-08-06
 ---
 
 God quotes His own private thought, and it is about a name He hoped to be called.

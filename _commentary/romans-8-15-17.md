@@ -13,6 +13,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-01-09 gods-way-of-acceleration
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-06-19 own-the-spirit-of-sonship
 updated: 2026-08-06
 ---
 

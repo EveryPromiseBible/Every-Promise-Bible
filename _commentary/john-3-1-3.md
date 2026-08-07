@@ -3,7 +3,8 @@ key: John 3:1–3
 title: We know
 sources:
   - 2013-12-08 understanding-grace-and-discipleship
-updated: 2026-08-07
+  - 2022-06-19 own-the-spirit-of-sonship
+updated: 2026-08-06
 ---
 
 A man arrives with a compliment and gets an answer to a question he did not ask.
