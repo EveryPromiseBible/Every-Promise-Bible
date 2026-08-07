@@ -3,7 +3,8 @@ key: Psalms 34:8–10
 title: Taste and see
 sources:
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-07
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
+updated: 2026-08-06
 ---
 
 The most physical invitation in the Psalter.

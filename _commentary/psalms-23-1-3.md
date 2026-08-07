@@ -17,6 +17,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

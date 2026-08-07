@@ -6,6 +6,7 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

@@ -9,6 +9,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-10 understand-the-times
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Ecclesiastes 1:4–11
 title: Nothing new under the sun
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
-updated: 2026-08-07
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
+updated: 2026-08-06
 ---
 
 Four things that keep moving and never arrive anywhere.

@@ -7,6 +7,7 @@ sources:
   - 2019-11-17 wisdom-for-financial-success
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-04-03 when-the-odds-are-against-you
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

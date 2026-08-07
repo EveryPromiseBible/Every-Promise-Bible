@@ -19,6 +19,7 @@ sources:
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

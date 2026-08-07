@@ -4,6 +4,7 @@ title: "The stingy man hurries after wealth"
 sources:
   - 2019-04-14 positioned-for-his-provision
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

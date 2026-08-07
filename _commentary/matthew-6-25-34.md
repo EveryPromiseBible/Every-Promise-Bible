@@ -16,6 +16,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

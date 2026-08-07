@@ -7,6 +7,7 @@ sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 

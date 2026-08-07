@@ -10,6 +10,7 @@ sources:
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
+  - 2022-11-13 you-are-blessed-to-be-a-blessing
 updated: 2026-08-06
 ---
 
