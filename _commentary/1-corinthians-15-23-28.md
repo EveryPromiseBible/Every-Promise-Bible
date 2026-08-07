@@ -5,6 +5,7 @@ sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2018-08-12 live-long-live-strong
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-07-26 the-power-of-positive-expectations
 updated: 2026-08-06
 ---
 

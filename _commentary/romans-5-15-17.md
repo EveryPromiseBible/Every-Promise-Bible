@@ -7,6 +7,7 @@ sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
   - 2020-03-08 find-security-in-times-of-anxiety
   - 2020-03-22 fear-not-christ-is-in-the-crisis
+  - 2020-07-26 the-power-of-positive-expectations
 updated: 2026-08-06
 ---
 

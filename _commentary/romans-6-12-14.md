@@ -7,6 +7,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-09-01 present-help-in-times-of-trouble
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2020-07-26 the-power-of-positive-expectations
 updated: 2026-08-06
 ---
 

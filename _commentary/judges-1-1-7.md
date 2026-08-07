@@ -4,6 +4,7 @@ title: "Who should go up first?"
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-09-23 the-key-to-robust-faith
+  - 2020-07-26 the-power-of-positive-expectations
 updated: 2026-08-06
 ---
 
@@ -42,6 +43,25 @@ once gathered scraps under my table. Now God has paid me back for what I did.*
 The verdict is in the mouth of the man it falls on. Judges is a violent book and
 it rarely comments; here it lets the victim of the reprisal describe it as exactly
 what he had done to others.
+
+## The seventy under the table
+
+*Seventy kings with their thumbs and big toes cut off once **gathered scraps under my
+table**.*
+
+Seventy men who had once ruled cities, kept alive, maimed, and fed on what fell.
+
+He had spent his reign collecting them, and he describes the arrangement without shame.
+It is the boast in the middle of the confession.
+
+## The other kings under a table
+
+Five Amorite kings brought out of a cave, and Joshua's commanders told to put their feet
+on their necks — with the promise attached: *this is what the LORD will do to every enemy
+you fight.* See the note on Joshua 10:22–27.
+
+Two pictures of kings on the floor, one chapter of Scripture apart, and the second one is
+the model.
 
 > **Why the name matters.** *Judah* means praise, and the tribe is sent up first.
 > Genesis had already said the sceptre would not depart from Judah, and the line

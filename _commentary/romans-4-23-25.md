@@ -6,6 +6,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2020-07-26 the-power-of-positive-expectations
 updated: 2026-08-06
 ---
 

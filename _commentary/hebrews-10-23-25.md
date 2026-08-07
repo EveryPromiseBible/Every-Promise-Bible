@@ -3,6 +3,7 @@ key: Hebrews 10:23–25
 title: Hold on to each other
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2020-07-26 the-power-of-positive-expectations
 updated: 2026-08-06
 ---
 
