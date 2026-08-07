@@ -4,6 +4,7 @@ title: Healing in His rays
 sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2021-06-06 set-apart-for-lasting-success
+  - 2022-07-10 supernatural-supply-in-difficult-times
 updated: 2026-08-06
 ---
 

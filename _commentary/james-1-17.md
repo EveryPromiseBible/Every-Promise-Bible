@@ -6,6 +6,7 @@ sources:
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2020-07-19 god-is-good-even-when-times-are-bad
   - 2021-09-26 now-is-the-time-of-favor
+  - 2022-07-10 supernatural-supply-in-difficult-times
 updated: 2026-08-06
 ---
 

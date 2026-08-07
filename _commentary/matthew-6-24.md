@@ -3,7 +3,8 @@ key: Matthew 6:24
 title: You cannot serve two
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
-updated: 2026-08-07
+  - 2022-07-10 supernatural-supply-in-difficult-times
+updated: 2026-08-06
 ---
 
 One verse, and the impossibility is stated before any reason is given.

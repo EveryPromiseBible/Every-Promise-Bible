@@ -14,6 +14,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-06-19 own-the-spirit-of-sonship
   - 2022-07-03 fresh-supply-for-todays-needs
+  - 2022-07-10 supernatural-supply-in-difficult-times
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Haggai 1:9–11
 title: Each of you hurries home
 sources:
   - 2022-03-13 pillars-for-our-church-and-life
-updated: 2026-08-07
+  - 2022-07-10 supernatural-supply-in-difficult-times
+updated: 2026-08-06
 ---
 
 The diagnosis, and God states it in the first person without softening.

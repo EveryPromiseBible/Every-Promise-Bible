@@ -3,7 +3,8 @@ key: Haggai 1:6
 title: A purse full of holes
 sources:
   - 2022-03-13 pillars-for-our-church-and-life
-updated: 2026-08-07
+  - 2022-07-10 supernatural-supply-in-difficult-times
+updated: 2026-08-06
 ---
 
 Five clauses, and every one of them is about effort that does not arrive anywhere.

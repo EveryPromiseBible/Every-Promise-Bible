@@ -3,6 +3,7 @@ key: Ecclesiastes 8:2–4
 title: "His word carries power"
 sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
+  - 2022-07-10 supernatural-supply-in-difficult-times
 updated: 2026-08-06
 ---
 

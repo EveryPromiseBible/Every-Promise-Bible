@@ -11,6 +11,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-04-11 all-things-work-for-your-good
+  - 2022-07-10 supernatural-supply-in-difficult-times
 updated: 2026-08-06
 ---
 
