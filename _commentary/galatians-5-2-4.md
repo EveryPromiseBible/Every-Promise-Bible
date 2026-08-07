@@ -3,6 +3,7 @@ key: Galatians 5:2–4
 title: What "fallen away from grace" is actually describing
 sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
+  - 2020-04-19 gods-way-to-good-fortune-in-all-areas
 updated: 2026-08-06
 ---
 

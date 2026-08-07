@@ -6,6 +6,7 @@ sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
+  - 2020-04-19 gods-way-to-good-fortune-in-all-areas
 updated: 2026-08-06
 ---
 

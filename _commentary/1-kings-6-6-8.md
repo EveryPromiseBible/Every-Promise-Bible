@@ -8,6 +8,7 @@ sources:
   - 2020-01-19 god-can-reverse-time-for-you
   - 2020-02-16 anointing-oil-for-healing-and-protection
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-04-19 gods-way-to-good-fortune-in-all-areas
 updated: 2026-08-06
 ---
 
@@ -68,7 +69,25 @@ is not pierced to carry the additions.
 
 *A **stairway wound up** to the middle story, and from the middle to the third.*
 
-The Hebrew is a winding stair. You could not see the top from the bottom.
+The Hebrew is **lulim** — a spiral, a winding stair. You could not see the top from the
+bottom.
+
+Nobody on it climbs in a straight line. The way up is round the outside of the house,
+and at every point on it the wall is between the climber and where he is going.
+
+## Where the door was
+
+*The doorway to the lowest side chamber was **on the south side** of the house.*
+
+One entrance, at the bottom, on one side. You did not choose your route into the
+chambers — there was a single door and a single stair, and it went the way it went.
+
+## The three storeys
+
+Five cubits, six cubits, seven cubits — each floor wider than the one below it,
+because the beams rested on ledges cut further back in the wall as it rose.
+
+The higher you went, the more room there was.
 
 ## Where Peter takes this
 

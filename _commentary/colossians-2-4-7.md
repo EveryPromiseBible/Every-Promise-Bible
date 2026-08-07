@@ -3,6 +3,7 @@ key: Colossians 2:4–7
 title: Keep on walking in Him
 sources:
   - 2019-02-17 find-answers-in-your-darkest-times
+  - 2020-04-19 gods-way-to-good-fortune-in-all-areas
 updated: 2026-08-06
 ---
 
