@@ -3,7 +3,8 @@ key: 1 Corinthians 1:4–9
 title: Not behind in a single gift
 sources:
   - 2021-05-09 made-right-in-his-sight
-updated: 2026-08-07
+  - 2017-09-17 under-attack-put-on-the-armor-of-god
+updated: 2026-08-06
 ---
 
 Six verses of thanksgiving, written to the church that gave him the most trouble.

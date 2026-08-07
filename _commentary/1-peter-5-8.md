@@ -5,6 +5,7 @@ sources:
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2021-05-16 ask-big-ask-bold
   - 2021-10-17 gods-heart-for-your-family
+  - 2017-09-17 under-attack-put-on-the-armor-of-god
 updated: 2026-08-06
 ---
 

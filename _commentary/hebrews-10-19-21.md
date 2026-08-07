@@ -7,6 +7,7 @@ sources:
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2020-05-24 find-power-in-his-presence
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2017-09-17 under-attack-put-on-the-armor-of-god
 updated: 2026-08-06
 ---
 

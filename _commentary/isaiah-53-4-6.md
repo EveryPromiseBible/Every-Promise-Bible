@@ -27,6 +27,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-06-27 his-word-brings-life-and-healing
   - 2021-08-22 greater-shalom-and-security
+  - 2017-09-17 under-attack-put-on-the-armor-of-god
 updated: 2026-08-06
 ---
 

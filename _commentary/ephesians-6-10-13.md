@@ -8,6 +8,7 @@ sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-05-16 ask-big-ask-bold
   - 2021-05-30 the-key-to-victorious-living
+  - 2017-09-17 under-attack-put-on-the-armor-of-god
 updated: 2026-08-06
 ---
 
