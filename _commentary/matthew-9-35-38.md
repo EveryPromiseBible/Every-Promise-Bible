@@ -7,6 +7,7 @@ sources:
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-03-28 your-healing-is-his-priority
   - 2021-04-11 all-things-work-for-your-good
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

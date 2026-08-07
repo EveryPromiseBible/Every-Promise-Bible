@@ -32,6 +32,7 @@ sources:
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-01-09 gods-way-of-acceleration
   - 2022-02-20 stay-strong-and-healthy-gods-way
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

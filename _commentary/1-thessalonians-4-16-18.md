@@ -13,6 +13,7 @@ sources:
   - 2021-10-10 understand-the-times
   - 2021-10-17 gods-heart-for-your-family
   - 2022-02-20 stay-strong-and-healthy-gods-way
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

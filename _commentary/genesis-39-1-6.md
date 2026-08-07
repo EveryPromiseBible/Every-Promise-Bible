@@ -9,6 +9,7 @@ sources:
   - 2021-10-17 gods-heart-for-your-family
   - 2021-11-28 faith-to-possess-the-land
   - 2022-01-23 his-strength-flows-in-our-weaknesses
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

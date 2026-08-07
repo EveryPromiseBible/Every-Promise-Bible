@@ -3,6 +3,7 @@ key: Hebrews 9:27–28
 title: Once, and once
 sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

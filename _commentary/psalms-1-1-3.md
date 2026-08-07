@@ -17,6 +17,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-11-28 faith-to-possess-the-land
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

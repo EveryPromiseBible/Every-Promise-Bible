@@ -18,6 +18,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-08-29 secrets-of-the-peace-offering
   - 2022-02-20 stay-strong-and-healthy-gods-way
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

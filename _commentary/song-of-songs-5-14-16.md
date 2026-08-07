@@ -3,7 +3,8 @@ key: Song of Songs 5:14–16
 title: Altogether lovely
 sources:
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-07
+  - 2022-02-27 jesus-saves-heals-and-renews
+updated: 2026-08-06
 ---
 
 The bride is asked a question and answers it at length.

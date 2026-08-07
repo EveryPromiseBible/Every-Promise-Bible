@@ -14,6 +14,7 @@ sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2017-08-06 the-healing-power-of-a-joyful-heart
   - 2021-08-01 release-his-glory-in-your-life
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 

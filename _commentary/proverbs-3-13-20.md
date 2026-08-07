@@ -6,6 +6,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-01-31 keys-to-good-success
   - 2022-01-09 gods-way-of-acceleration
+  - 2022-02-27 jesus-saves-heals-and-renews
 updated: 2026-08-06
 ---
 
