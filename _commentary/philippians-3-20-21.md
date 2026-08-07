@@ -4,6 +4,7 @@ title: "Our citizenship is registered in heaven"
 sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2021-04-11 all-things-work-for-your-good
 updated: 2026-08-06
 ---
 

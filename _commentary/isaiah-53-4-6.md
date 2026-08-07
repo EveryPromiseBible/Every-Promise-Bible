@@ -23,6 +23,7 @@ sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-02-21 your-provision-is-in-the-vision
   - 2017-08-06 the-healing-power-of-a-joyful-heart
+  - 2021-04-11 all-things-work-for-your-good
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Genesis 50:15–21
 title: "You meant it for evil"
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2021-04-11 all-things-work-for-your-good
 updated: 2026-08-06
 ---
 

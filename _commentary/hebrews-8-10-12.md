@@ -11,6 +11,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-04-04 stand-on-favor-ground
+  - 2021-04-11 all-things-work-for-your-good
 updated: 2026-08-06
 ---
 

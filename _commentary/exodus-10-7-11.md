@@ -3,6 +3,7 @@ key: Exodus 10:7–11
 title: The negotiation over the children
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2021-04-11 all-things-work-for-your-good
 updated: 2026-08-06
 ---
 

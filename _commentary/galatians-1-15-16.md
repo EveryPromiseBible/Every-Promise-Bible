@@ -3,6 +3,7 @@ key: Galatians 1:15–16
 title: "Set me apart from my mother's womb"
 sources:
   - 2019-04-14 positioned-for-his-provision
+  - 2021-04-11 all-things-work-for-your-good
 updated: 2026-08-06
 ---
 

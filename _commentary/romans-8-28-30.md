@@ -10,6 +10,7 @@ sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-15 five-times-more-favor-and-provision
   - 2020-12-13 declare-you-are-highly-favored
+  - 2021-04-11 all-things-work-for-your-good
 updated: 2026-08-06
 ---
 
