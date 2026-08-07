@@ -3,6 +3,7 @@ key: 1 Corinthians 12:29–31
 title: Seven questions expecting no
 sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
+  - 2020-05-31 activate-the-gifts-of-the-spirit
 updated: 2026-08-06
 ---
 

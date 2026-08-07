@@ -5,6 +5,7 @@ sources:
   - 2018-11-04 how-to-pray-and-see-results
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2019-07-28 live-out-your-high-calling
+  - 2020-05-31 activate-the-gifts-of-the-spirit
 updated: 2026-08-06
 ---
 

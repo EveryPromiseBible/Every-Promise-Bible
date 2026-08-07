@@ -4,6 +4,7 @@ title: "Pursue love" — the verb, and what it is set against
 sources:
   - 2018-09-09 give-me-this-mountain
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2020-05-31 activate-the-gifts-of-the-spirit
 updated: 2026-08-06
 ---
 

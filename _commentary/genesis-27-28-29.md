@@ -6,6 +6,7 @@ sources:
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-05-31 activate-the-gifts-of-the-spirit
 updated: 2026-08-06
 ---
 
@@ -22,6 +23,22 @@ crops alive through the dry months — moisture arriving overnight from nowhere
 anyone could arrange.
 
 Then grain and wine, the staples of the covenant blessing.
+
+## Where the two elements come from
+
+The same two things Melchizedek carried out to Abram after the battle of the kings. See
+the note on Genesis 14:17–20.
+
+They run through the Old Testament as the sign of a land under blessing — *grain, new
+wine and oil* — and they are what Isaac says he has already given when Esau comes in
+too late: *I have **sustained him with grain and new wine**.* See the note on
+Genesis 27:34–37.
+
+## What the words did
+
+A spoken blessing in that culture was an act rather than a wish. Once it left the mouth
+it stood — which is why the entire chapter is a race to get an old blind man to say
+something, and why nothing can be done afterward.
 
 ## And then rule
 
