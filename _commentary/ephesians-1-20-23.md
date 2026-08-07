@@ -10,6 +10,7 @@ sources:
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 

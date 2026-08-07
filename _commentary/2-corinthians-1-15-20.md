@@ -4,6 +4,7 @@ title: Where the Amen actually goes
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
   - 2018-08-12 live-long-live-strong
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 

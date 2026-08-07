@@ -10,6 +10,7 @@ sources:
   - 2019-11-17 wisdom-for-financial-success
   - 2020-02-16 anointing-oil-for-healing-and-protection
   - 2020-05-10 can-i-ask-god-to-prosper-me
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 

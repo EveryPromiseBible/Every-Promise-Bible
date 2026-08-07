@@ -4,6 +4,7 @@ title: A man weighing up his own death, in a letter about joy
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-08-12 live-long-live-strong
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 
@@ -51,14 +52,27 @@ is better, and that is why he cannot choose.
 ## How he settles it
 
 He settles it on somebody else's account: *for your sake, staying on in the body
-is what is needed more.* Then he says he is convinced he will remain, for their
-progress and joy in the faith.
+is what is needed more.*
 
-It is worth being careful here. Paul is not claiming a private power over the
-timing of his own death — he had already written that he was under sentence and
-had learned not to rely on himself. What he does is weigh the two outcomes as a
-man who has stopped being afraid of either, and land on the one that serves the
-people he loves.
+## What he says next
+
+*And **being confident of this, I know that I shall remain and continue with you all**
+for your progress and joy of faith.*
+
+The Greek for *I know* is **oida** — settled knowledge, not a hope. He states the
+outcome of a capital case as a fact, and the reason he gives is their progress.
+
+And it happened. He was released, travelled again, and wrote to Timothy years later
+from a second imprisonment — where the language changes: *the time of my departure is
+at hand.* See the note on 2 Timothy 4:6–8.
+
+The same nautical word, **analuo**, in both letters. Here he weighs it and stays. There
+he says it has come.
+
+## What decided it
+
+Not the tribunal, and not the charge. He weighs two goods, and lands on the one that
+serves the people he loves.
 
 > **Where this sits in the letter.** Philippians is the joy letter — the word
 > runs through all four chapters — and it was written from prison by a man

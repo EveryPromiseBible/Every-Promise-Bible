@@ -6,6 +6,7 @@ sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-08-12 live-long-live-strong
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 

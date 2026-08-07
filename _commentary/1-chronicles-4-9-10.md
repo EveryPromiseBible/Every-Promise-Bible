@@ -3,6 +3,7 @@ key: 1 Chronicles 4:9–10
 title: The prayer of Jabez
 sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 

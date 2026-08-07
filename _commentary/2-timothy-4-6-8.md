@@ -3,6 +3,7 @@ key: 2 Timothy 4:6–8
 title: Three finished things, and a crown that is not only his
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 

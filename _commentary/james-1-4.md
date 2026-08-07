@@ -3,6 +3,7 @@ key: James 1:4
 title: "No piece of you left unfinished"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2020-05-17 expect-good-in-times-of-trouble
 updated: 2026-08-06
 ---
 
