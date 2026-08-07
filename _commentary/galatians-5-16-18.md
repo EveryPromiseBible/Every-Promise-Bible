@@ -11,6 +11,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-08-29 secrets-of-the-peace-offering
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 

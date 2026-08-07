@@ -3,6 +3,7 @@ key: Ezekiel 47:1–2
 title: Water from under the threshold
 sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2017-09-10 the-prayer-that-repairs-your-body
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 

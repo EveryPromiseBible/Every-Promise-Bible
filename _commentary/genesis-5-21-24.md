@@ -5,6 +5,7 @@ sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2021-07-25 speak-life-not-death
   - 2021-10-10 understand-the-times
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 

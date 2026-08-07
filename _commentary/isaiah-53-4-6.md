@@ -29,6 +29,7 @@ sources:
   - 2021-08-22 greater-shalom-and-security
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2021-11-28 faith-to-possess-the-land
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 

@@ -10,6 +10,7 @@ sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2020-09-27 actively-own-your-double-portion
   - 2021-11-28 faith-to-possess-the-land
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 

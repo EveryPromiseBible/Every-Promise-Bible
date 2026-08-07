@@ -5,6 +5,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-02-21 your-provision-is-in-the-vision
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 

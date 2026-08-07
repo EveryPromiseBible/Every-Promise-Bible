@@ -5,6 +5,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2017-09-17 under-attack-put-on-the-armor-of-god
+  - 2021-12-05 benefits-of-praying-in-tongues
 updated: 2026-08-06
 ---
 
