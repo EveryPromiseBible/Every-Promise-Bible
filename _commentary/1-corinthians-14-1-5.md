@@ -5,6 +5,7 @@ sources:
   - 2018-09-09 give-me-this-mountain
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2020-05-31 activate-the-gifts-of-the-spirit
+  - 2017-09-10 the-prayer-that-repairs-your-body
 updated: 2026-08-06
 ---
 
@@ -35,6 +36,21 @@ Paul is not dismissive — he says he wishes they all spoke in tongues, and
 elsewhere that he does so more than any of them. His argument is about the
 gathering: in a room full of people, the thing that everyone can understand does
 more good than the thing only one person understands.
+
+## The word for "builds up"
+
+**Oikodomeo** — from **oikos**, house, and **demo**, to build. To construct a house, or
+to repair one.
+
+Paul uses it in this chapter more than anywhere else in his letters. It governs
+everything he says about a meeting: *let all things be done for edification.*
+
+## Who the speaking is to
+
+*He who speaks in a tongue **does not speak to men but to God**, for no one understands
+him; however, in the spirit he speaks mysteries.*
+
+Paul states the direction before he states the ranking. The addressee is God.
 
 > **What "prophesy" means here.** Paul defines it in the passage rather than
 > leaving it to be assumed: speaking *to build them up, to urge them on, and to

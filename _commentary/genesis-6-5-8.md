@@ -3,6 +3,7 @@ key: Genesis 6:5–8
 title: Noah found grace
 sources:
   - 2014-04-13 noah-the-real-story
+  - 2017-09-10 the-prayer-that-repairs-your-body
 updated: 2026-08-06
 ---
 

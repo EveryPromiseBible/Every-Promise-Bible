@@ -3,6 +3,7 @@ key: Matthew 3:16–17
 title: What was said before He had done anything
 sources:
   - 2018-09-23 the-key-to-robust-faith
+  - 2017-09-10 the-prayer-that-repairs-your-body
 updated: 2026-08-06
 ---
 
