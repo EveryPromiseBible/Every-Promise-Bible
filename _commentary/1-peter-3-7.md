@@ -3,6 +3,7 @@ key: 1 Peter 3:7
 title: "So that nothing gets in the way of your prayers"
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

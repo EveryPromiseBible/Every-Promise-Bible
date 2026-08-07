@@ -6,6 +6,7 @@ sources:
   - 2018-09-09 give-me-this-mountain
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

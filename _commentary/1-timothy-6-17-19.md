@@ -4,6 +4,7 @@ title: What to tell the rich
 sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-05-03 experience-abundance-in-times-of-famine
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

@@ -9,6 +9,7 @@ sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-15 five-times-more-favor-and-provision
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

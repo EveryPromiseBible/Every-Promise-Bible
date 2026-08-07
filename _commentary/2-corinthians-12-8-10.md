@@ -3,6 +3,7 @@ key: 2 Corinthians 12:8–10
 title: "My grace is enough for you"
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

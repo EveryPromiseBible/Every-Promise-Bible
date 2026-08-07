@@ -5,6 +5,7 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

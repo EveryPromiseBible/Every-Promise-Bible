@@ -4,6 +4,7 @@ title: "The shade that sheltered them is gone"
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

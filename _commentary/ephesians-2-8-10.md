@@ -3,7 +3,8 @@ key: Ephesians 2:8–10
 title: "We are what He has made"
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2020-12-13 declare-you-are-highly-favored
+updated: 2026-08-06
 ---
 
 Three verses, and the third one is the reason the first two are not the end of the

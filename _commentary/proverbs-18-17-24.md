@@ -7,6 +7,7 @@ sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

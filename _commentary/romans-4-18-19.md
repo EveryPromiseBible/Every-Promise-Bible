@@ -4,6 +4,7 @@ title: Hoping against hope
 sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: The mouth and the heart
 sources:
   - 2018-11-04 how-to-pray-and-see-results
   - 2020-10-18 gods-answer-for-spiritual-warfare
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

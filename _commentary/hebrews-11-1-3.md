@@ -4,6 +4,7 @@ title: The shape of faith
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

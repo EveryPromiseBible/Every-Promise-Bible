@@ -4,6 +4,7 @@ title: Abel, Enoch, Noah
 sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-12-06 follow-the-promptings-of-the-spirit
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

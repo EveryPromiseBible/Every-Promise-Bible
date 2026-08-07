@@ -3,6 +3,7 @@ key: Romans 8:31–34
 title: Four questions, and nobody answers them
 sources:
   - 2018-09-23 the-key-to-robust-faith
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2019-04-21 the-best-news-youll-ever-hear
   - 2019-08-04 the-overflow-life-for-you
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2020-12-13 declare-you-are-highly-favored
 updated: 2026-08-06
 ---
 
