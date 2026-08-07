@@ -3,6 +3,7 @@ key: Colossians 3:22–25
 title: The wages nobody expected
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2019-05-26 the-truth-about-tithing-under-grace
 updated: 2026-08-06
 ---
 

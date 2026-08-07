@@ -3,6 +3,7 @@ key: Deuteronomy 8:17–18
 title: "He gives you the power to gain wealth"
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2019-05-26 the-truth-about-tithing-under-grace
 updated: 2026-08-06
 ---
 

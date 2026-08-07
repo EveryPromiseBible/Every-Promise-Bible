@@ -4,6 +4,7 @@ title: The girl who asked for nothing
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2019-05-26 the-truth-about-tithing-under-grace
 updated: 2026-08-06
 ---
 

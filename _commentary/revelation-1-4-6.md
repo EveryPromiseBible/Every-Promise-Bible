@@ -3,6 +3,7 @@ key: Revelation 1:4–6
 title: "He made us kings and priests"
 sources:
   - 2018-11-04 how-to-pray-and-see-results
+  - 2019-06-30 prosper-through-prophetic-preaching
 updated: 2026-08-06
 ---
 

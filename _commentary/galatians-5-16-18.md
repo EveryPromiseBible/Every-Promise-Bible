@@ -4,6 +4,7 @@ title: "If the Spirit is leading you" — what Paul concludes from it
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-04-28 the-key-to-live-blessed
+  - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
 updated: 2026-08-06
 ---
 

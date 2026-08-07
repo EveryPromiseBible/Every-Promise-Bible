@@ -3,6 +3,7 @@ key: Hebrews 7:9–10
 title: Levi paid it through Abraham
 sources:
   - 2019-04-14 positioned-for-his-provision
+  - 2019-05-26 the-truth-about-tithing-under-grace
 updated: 2026-08-06
 ---
 

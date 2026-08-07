@@ -3,6 +3,7 @@ key: Matthew 18:15–20
 title: "Where two or three come together" — the setting of a much-loved verse
 sources:
   - 2018-09-09 give-me-this-mountain
+  - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
 updated: 2026-08-06
 ---
 

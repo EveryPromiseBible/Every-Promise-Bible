@@ -3,6 +3,7 @@ key: Hebrews 7:8
 title: The one receiving it now is alive
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
+  - 2019-05-26 the-truth-about-tithing-under-grace
 updated: 2026-08-06
 ---
 

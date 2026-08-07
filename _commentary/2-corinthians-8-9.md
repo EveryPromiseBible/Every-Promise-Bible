@@ -3,6 +3,8 @@ key: 2 Corinthians 8:9
 title: The exchange, in one sentence
 sources:
   - 2018-10-14 boldness-to-inherit-every-blessing
+  - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
 updated: 2026-08-06
 ---
 

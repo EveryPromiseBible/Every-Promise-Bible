@@ -3,6 +3,7 @@ key: Colossians 1:9–12
 title: The chain of a prayer
 sources:
   - 2018-11-11 true-prosperity-in-every-area
+  - 2019-06-30 prosper-through-prophetic-preaching
 updated: 2026-08-06
 ---
 

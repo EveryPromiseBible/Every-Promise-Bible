@@ -4,6 +4,7 @@ title: "As you have believed"
 sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2019-05-26 the-truth-about-tithing-under-grace
 updated: 2026-08-06
 ---
 
