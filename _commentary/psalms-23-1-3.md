@@ -16,6 +16,7 @@ sources:
   - 2021-03-28 your-healing-is-his-priority
   - 2021-11-28 faith-to-possess-the-land
   - 2022-07-03 fresh-supply-for-todays-needs
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 

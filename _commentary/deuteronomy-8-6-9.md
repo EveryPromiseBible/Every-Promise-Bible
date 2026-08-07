@@ -4,6 +4,7 @@ title: "A land where you will lack nothing"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2021-10-17 gods-heart-for-your-family
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 

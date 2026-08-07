@@ -8,6 +8,7 @@ sources:
   - 2021-06-27 his-word-brings-life-and-healing
   - 2021-07-25 speak-life-not-death
   - 2021-08-01 release-his-glory-in-your-life
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 

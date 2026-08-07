@@ -3,7 +3,8 @@ key: 2 Corinthians 9:8–9
 title: All you need, and plenty over
 sources:
   - 2022-08-07 encounter-true-grace-and-experience-success
-updated: 2026-08-07
+  - 2022-08-21 the-powerful-benefits-of-gods-word
+updated: 2026-08-06
 ---
 
 One sentence with the word *all* in it four times.

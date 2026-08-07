@@ -3,6 +3,7 @@ key: Hebrews 6:4–6
 title: The impossible thing
 sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 

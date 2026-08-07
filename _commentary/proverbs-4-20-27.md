@@ -17,6 +17,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2022-05-22 how-to-be-strong-in-grace
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 

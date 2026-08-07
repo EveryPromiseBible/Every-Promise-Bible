@@ -7,6 +7,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-05-16 ask-big-ask-bold
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 

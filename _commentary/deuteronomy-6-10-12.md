@@ -5,6 +5,7 @@ sources:
   - 2020-03-08 find-security-in-times-of-anxiety
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 

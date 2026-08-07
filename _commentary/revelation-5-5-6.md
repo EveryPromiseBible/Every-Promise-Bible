@@ -5,6 +5,7 @@ sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2019-12-22 the-stars-tell-the-story-of-jesus
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-08-21 the-powerful-benefits-of-gods-word
 updated: 2026-08-06
 ---
 
