@@ -3,7 +3,8 @@ key: 1 Corinthians 2:14–16
 title: We have the mind of Christ
 sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
-updated: 2026-08-07
+  - 2023-02-26 power-to-renew-your-youth
+updated: 2026-08-06
 ---
 
 Three verses on why an argument fails to land, and the reason is not intelligence.

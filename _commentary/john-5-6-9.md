@@ -3,7 +3,8 @@ key: John 5:6–9
 title: Get up, pick it up, walk
 sources:
   - 2021-03-28 your-healing-is-his-priority
-updated: 2026-08-07
+  - 2023-02-26 power-to-renew-your-youth
+updated: 2026-08-06
 ---
 
 He picks one man out of a colonnade full of them and asks a question nobody would need to

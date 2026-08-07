@@ -3,6 +3,7 @@ key: Romans 10:5–8
 title: "The word is near you"
 sources:
   - 2019-04-28 the-key-to-live-blessed
+  - 2023-02-26 power-to-renew-your-youth
 updated: 2026-08-06
 ---
 

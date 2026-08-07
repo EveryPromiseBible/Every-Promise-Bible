@@ -3,6 +3,7 @@ key: Matthew 12:9–14
 title: Stretch out your hand
 sources:
   - 2019-02-17 find-answers-in-your-darkest-times
+  - 2023-02-26 power-to-renew-your-youth
 updated: 2026-08-06
 ---
 

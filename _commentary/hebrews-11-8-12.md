@@ -8,6 +8,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-11-28 faith-to-possess-the-land
   - 2022-02-20 stay-strong-and-healthy-gods-way
+  - 2023-02-26 power-to-renew-your-youth
 updated: 2026-08-06
 ---
 
