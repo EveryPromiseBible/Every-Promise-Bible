@@ -8,6 +8,7 @@ sources:
   - 2020-03-08 find-security-in-times-of-anxiety
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2020-12-27 how-to-see-many-beautiful-days
 updated: 2026-08-06
 ---
 

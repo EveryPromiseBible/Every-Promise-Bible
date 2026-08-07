@@ -7,6 +7,7 @@ sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2020-12-13 declare-you-are-highly-favored
+  - 2020-12-27 how-to-see-many-beautiful-days
 updated: 2026-08-06
 ---
 

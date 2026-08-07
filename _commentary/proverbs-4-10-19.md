@@ -4,6 +4,7 @@ title: Two paths
 sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-15 five-times-more-favor-and-provision
+  - 2020-12-27 how-to-see-many-beautiful-days
 updated: 2026-08-06
 ---
 

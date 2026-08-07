@@ -8,6 +8,7 @@ sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-09-27 actively-own-your-double-portion
+  - 2020-12-27 how-to-see-many-beautiful-days
 updated: 2026-08-06
 ---
 

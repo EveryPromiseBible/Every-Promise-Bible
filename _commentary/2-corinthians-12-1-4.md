@@ -3,6 +3,7 @@ key: 2 Corinthians 12:1–4
 title: Visions and revelations
 sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
+  - 2020-12-27 how-to-see-many-beautiful-days
 updated: 2026-08-06
 ---
 

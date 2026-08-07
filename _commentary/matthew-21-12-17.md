@@ -3,6 +3,7 @@ key: Matthew 21:12–17
 title: The temple cleared
 sources:
   - 2019-04-14 positioned-for-his-provision
+  - 2020-12-27 how-to-see-many-beautiful-days
 updated: 2026-08-06
 ---
 

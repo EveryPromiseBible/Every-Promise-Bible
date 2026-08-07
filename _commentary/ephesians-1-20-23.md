@@ -12,6 +12,7 @@ sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-07-26 the-power-of-positive-expectations
+  - 2020-12-27 how-to-see-many-beautiful-days
 updated: 2026-08-06
 ---
 
