@@ -3,6 +3,7 @@ key: Romans 8:26–27
 title: The Spirit prays within us
 sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
 updated: 2026-08-06
 ---
 

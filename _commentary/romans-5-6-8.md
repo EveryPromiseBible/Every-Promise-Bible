@@ -5,6 +5,7 @@ sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2019-07-28 live-out-your-high-calling
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
 updated: 2026-08-06
 ---
 

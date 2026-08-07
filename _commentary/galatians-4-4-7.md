@@ -3,6 +3,7 @@ key: Galatians 4:4–7
 title: "Born under the law" — and the four steps out
 sources:
   - 2018-09-09 give-me-this-mountain
+  - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
 updated: 2026-08-06
 ---
 

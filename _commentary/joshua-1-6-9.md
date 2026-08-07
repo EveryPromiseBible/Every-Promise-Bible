@@ -5,6 +5,7 @@ sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
 updated: 2026-08-06
 ---
 

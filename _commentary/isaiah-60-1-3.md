@@ -11,6 +11,7 @@ sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
 updated: 2026-08-06
 ---
 

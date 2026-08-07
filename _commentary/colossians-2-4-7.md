@@ -5,6 +5,7 @@ sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
+  - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
 updated: 2026-08-06
 ---
 
