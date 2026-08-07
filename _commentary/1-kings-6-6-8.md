@@ -4,6 +4,7 @@ title: "No hammer, no chisel, no iron tool"
 sources:
   - 2019-12-29 you-have-a-destiny
   - 2020-01-05 the-lord-of-time-and-space
+  - 2020-01-12 the-lord-of-time-and-space-part-2
 updated: 2026-08-06
 ---
 
