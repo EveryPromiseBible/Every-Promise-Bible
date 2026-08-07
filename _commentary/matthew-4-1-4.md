@@ -4,6 +4,7 @@ title: "If You are the Son of God" — the word the tempter starts with
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2017-09-03 find-freedom-from-every-bondage-and-addiction
 updated: 2026-08-06
 ---
 

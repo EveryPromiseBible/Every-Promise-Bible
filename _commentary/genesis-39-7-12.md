@@ -3,6 +3,7 @@ key: Genesis 39:7–12
 title: "And sin against God"
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2017-09-03 find-freedom-from-every-bondage-and-addiction
 updated: 2026-08-06
 ---
 

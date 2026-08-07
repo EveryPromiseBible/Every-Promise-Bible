@@ -3,7 +3,8 @@ key: Exodus 3:4–6
 title: Do not come any nearer
 sources:
   - 2021-03-07 come-to-the-feast-of-healing
-updated: 2026-08-07
+  - 2017-09-03 find-freedom-from-every-bondage-and-addiction
+updated: 2026-08-06
 ---
 
 The first thing God says to Moses is his name twice, and the second thing is stop.

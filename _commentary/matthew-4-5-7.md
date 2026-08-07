@@ -3,6 +3,7 @@ key: Matthew 4:5–7
 title: The temptation that quotes Scripture
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2017-09-03 find-freedom-from-every-bondage-and-addiction
 updated: 2026-08-06
 ---
 
