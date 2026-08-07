@@ -4,6 +4,7 @@ title: What looks like slowness
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2018-11-04 how-to-pray-and-see-results
+  - 2020-01-19 god-can-reverse-time-for-you
 updated: 2026-08-06
 ---
 
