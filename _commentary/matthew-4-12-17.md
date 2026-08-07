@@ -3,6 +3,7 @@ key: Matthew 4:12–17
 title: Light in Galilee
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
+  - 2022-03-06 keys-to-counter-the-four-horsemen
 updated: 2026-08-06
 ---
 

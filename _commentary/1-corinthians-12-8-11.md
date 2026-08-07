@@ -5,6 +5,7 @@ sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2021-02-07 answers-for-a-distracted-world
   - 2021-10-24 baptism-of-the-holy-spirit
+  - 2022-03-06 keys-to-counter-the-four-horsemen
 updated: 2026-08-06
 ---
 

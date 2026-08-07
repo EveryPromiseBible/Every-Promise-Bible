@@ -5,6 +5,7 @@ sources:
   - 2019-12-22 the-stars-tell-the-story-of-jesus
   - 2022-01-02 the-year-of-rest-and-acceleration
   - 2022-01-23 his-strength-flows-in-our-weaknesses
+  - 2022-03-06 keys-to-counter-the-four-horsemen
 updated: 2026-08-06
 ---
 

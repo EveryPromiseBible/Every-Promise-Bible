@@ -4,6 +4,7 @@ title: The way of love
 sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-03-06 keys-to-counter-the-four-horsemen
 updated: 2026-08-06
 ---
 
