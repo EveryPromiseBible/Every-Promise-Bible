@@ -3,6 +3,7 @@ key: Deuteronomy 28:58–68
 title: Struck down and scattered
 sources:
   - 2020-09-27 actively-own-your-double-portion
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 

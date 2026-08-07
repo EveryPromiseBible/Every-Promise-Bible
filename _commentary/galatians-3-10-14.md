@@ -8,6 +8,7 @@ sources:
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2020-09-27 actively-own-your-double-portion
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 

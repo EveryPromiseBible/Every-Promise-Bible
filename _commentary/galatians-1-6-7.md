@@ -4,6 +4,7 @@ title: Astonished so soon
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2019-04-28 the-key-to-live-blessed
   - 2020-02-23 run-toward-your-giants-without-fear
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 

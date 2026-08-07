@@ -6,6 +6,7 @@ sources:
   - 2019-07-28 live-out-your-high-calling
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 

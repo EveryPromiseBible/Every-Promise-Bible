@@ -6,6 +6,7 @@ sources:
   - 2019-03-17 the-story-of-job-through-the-lens-of-grace
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Matthew 9:35–38
 title: Sheep without a shepherd
 sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 

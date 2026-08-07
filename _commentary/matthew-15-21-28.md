@@ -7,6 +7,7 @@ sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
+  - 2020-10-11 he-confirms-his-word-with-miracles
 updated: 2026-08-06
 ---
 
