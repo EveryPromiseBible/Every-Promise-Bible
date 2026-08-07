@@ -13,6 +13,7 @@ sources:
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-02-07 answers-for-a-distracted-world
   - 2021-08-01 release-his-glory-in-your-life
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

@@ -21,6 +21,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-10 understand-the-times
   - 2021-10-17 gods-heart-for-your-family
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

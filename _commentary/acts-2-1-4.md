@@ -8,6 +8,7 @@ sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2021-01-17 learn-how-to-receive-visions
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

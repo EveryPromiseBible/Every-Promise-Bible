@@ -7,6 +7,7 @@ sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-11-22 what-it-means-to-fall-from-grace
   - 2021-05-09 made-right-in-his-sight
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

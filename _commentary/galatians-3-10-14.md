@@ -12,6 +12,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-07-18 christ-consciousness-brings-life
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

@@ -14,6 +14,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-05-16 ask-big-ask-bold
   - 2021-06-27 his-word-brings-life-and-healing
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

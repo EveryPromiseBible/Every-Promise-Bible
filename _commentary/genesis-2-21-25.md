@@ -3,6 +3,7 @@ key: Genesis 2:21–25
 title: The first marriage
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

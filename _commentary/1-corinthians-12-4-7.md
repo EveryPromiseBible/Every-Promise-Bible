@@ -4,6 +4,7 @@ title: "The same Spirit"
 sources:
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

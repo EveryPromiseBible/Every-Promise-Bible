@@ -10,6 +10,7 @@ sources:
   - 2020-09-27 actively-own-your-double-portion
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2021-03-28 your-healing-is-his-priority
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

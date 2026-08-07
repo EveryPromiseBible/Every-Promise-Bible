@@ -5,6 +5,7 @@ sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
   - 2021-06-06 set-apart-for-lasting-success
+  - 2021-10-24 baptism-of-the-holy-spirit
 updated: 2026-08-06
 ---
 
