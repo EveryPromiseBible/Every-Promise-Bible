@@ -9,6 +9,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-04-11 all-things-work-for-your-good
   - 2021-04-25 your-failure-isnt-final
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

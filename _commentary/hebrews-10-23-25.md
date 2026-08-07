@@ -5,6 +5,7 @@ sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-07-26 the-power-of-positive-expectations
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

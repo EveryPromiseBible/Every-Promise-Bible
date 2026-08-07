@@ -3,7 +3,8 @@ key: Romans 8:5–8
 title: The mind set on the old nature
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2021-05-02 inside-out-transformation
+updated: 2026-08-06
 ---
 
 Paul describes two kinds of people by what their minds are set on.

@@ -7,6 +7,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-12-06 follow-the-promptings-of-the-spirit
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: The accuser thrown down, and the three things that beat him
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2020-05-24 find-power-in-his-presence
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

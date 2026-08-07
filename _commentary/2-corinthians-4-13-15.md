@@ -8,6 +8,7 @@ sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-04-04 stand-on-favor-ground
   - 2021-04-25 your-failure-isnt-final
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

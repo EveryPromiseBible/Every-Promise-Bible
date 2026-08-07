@@ -3,6 +3,7 @@ key: Hebrews 10:3–4
 title: A reminder of sins
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

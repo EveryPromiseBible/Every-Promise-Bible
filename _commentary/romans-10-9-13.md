@@ -5,6 +5,7 @@ sources:
   - 2018-11-04 how-to-pray-and-see-results
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-12-13 declare-you-are-highly-favored
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

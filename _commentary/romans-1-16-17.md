@@ -10,6 +10,7 @@ sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-04-25 your-failure-isnt-final
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

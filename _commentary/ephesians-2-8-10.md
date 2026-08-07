@@ -4,6 +4,7 @@ title: "We are what He has made"
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2020-12-13 declare-you-are-highly-favored
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 

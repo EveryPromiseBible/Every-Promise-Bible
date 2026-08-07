@@ -3,6 +3,7 @@ key: Romans 8:9–11
 title: "You are living in the Spirit"
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
+  - 2021-05-02 inside-out-transformation
 updated: 2026-08-06
 ---
 
