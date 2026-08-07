@@ -5,6 +5,7 @@ sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-04-28 the-key-to-live-blessed
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
 updated: 2026-08-06
 ---
 

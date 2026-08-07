@@ -3,6 +3,7 @@ key: Ephesians 6:14–17
 title: The whole armour
 sources:
   - 2020-02-23 run-toward-your-giants-without-fear
+  - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
 updated: 2026-08-06
 ---
 

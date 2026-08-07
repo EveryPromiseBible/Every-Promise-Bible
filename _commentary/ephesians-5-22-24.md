@@ -6,6 +6,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Colossians 4:5–6
 title: "With salt in them"
 sources:
   - 2020-05-24 find-power-in-his-presence
+  - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
 updated: 2026-08-06
 ---
 

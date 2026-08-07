@@ -8,6 +8,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-05-24 find-power-in-his-presence
+  - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
 updated: 2026-08-06
 ---
 

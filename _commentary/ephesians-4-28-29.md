@@ -3,6 +3,7 @@ key: Ephesians 4:28–29
 title: "Leaves grace behind in them"
 sources:
   - 2019-07-21 see-his-love-and-receive-his-power
+  - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
 updated: 2026-08-06
 ---
 

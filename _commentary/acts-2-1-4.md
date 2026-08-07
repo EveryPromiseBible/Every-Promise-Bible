@@ -5,6 +5,7 @@ sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2017-09-10 the-prayer-that-repairs-your-body
+  - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
 updated: 2026-08-06
 ---
 
