@@ -4,6 +4,7 @@ title: In Your light we see light
 sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2022-01-02 the-year-of-rest-and-acceleration
 updated: 2026-08-06
 ---
 

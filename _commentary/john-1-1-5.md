@@ -3,6 +3,7 @@ key: John 1:1–5
 title: "Before anything at all began"
 sources:
   - 2019-12-22 the-stars-tell-the-story-of-jesus
+  - 2022-01-02 the-year-of-rest-and-acceleration
 updated: 2026-08-06
 ---
 

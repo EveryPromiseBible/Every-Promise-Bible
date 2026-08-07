@@ -9,6 +9,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-11-07 win-the-battle-over-bitterness
+  - 2022-01-02 the-year-of-rest-and-acceleration
 updated: 2026-08-06
 ---
 

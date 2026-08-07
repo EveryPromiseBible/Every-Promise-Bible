@@ -4,6 +4,7 @@ title: "My ears You have opened"
 sources:
   - 2019-11-24 the-beauty-of-our-servant-king
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2022-01-02 the-year-of-rest-and-acceleration
 updated: 2026-08-06
 ---
 

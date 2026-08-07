@@ -14,6 +14,7 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2017-08-06 the-healing-power-of-a-joyful-heart
   - 2021-11-07 win-the-battle-over-bitterness
+  - 2022-01-02 the-year-of-rest-and-acceleration
 updated: 2026-08-06
 ---
 

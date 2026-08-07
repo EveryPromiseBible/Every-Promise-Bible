@@ -3,7 +3,8 @@ key: Romans 3:25–26
 title: Just, and the justifier
 sources:
   - 2021-10-31 where-is-holiness-in-grace
-updated: 2026-08-07
+  - 2022-01-02 the-year-of-rest-and-acceleration
+updated: 2026-08-06
 ---
 
 The densest two verses Paul wrote, and the whole letter turns on them.

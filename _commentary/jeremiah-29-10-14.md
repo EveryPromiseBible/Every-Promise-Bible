@@ -3,6 +3,7 @@ key: Jeremiah 29:10–14
 title: "Plans to give you a future and a hope" — and the seventy years in front of it
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2022-01-02 the-year-of-rest-and-acceleration
 updated: 2026-08-06
 ---
 
