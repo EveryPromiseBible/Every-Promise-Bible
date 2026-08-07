@@ -3,6 +3,7 @@ key: Matthew 27:51–53
 title: Torn from the top
 sources:
   - 2019-01-20 his-lavish-love-exceeds-your-expectations
+  - 2020-07-05 strong-encouragement-in-times-of-famine
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Romans 5:1–2
 title: Peace with God
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2020-07-05 strong-encouragement-in-times-of-famine
 updated: 2026-08-06
 ---
 

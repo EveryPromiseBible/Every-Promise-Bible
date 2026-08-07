@@ -3,6 +3,7 @@ key: Isaiah 54:17
 title: "This is the inheritance"
 sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2020-07-05 strong-encouragement-in-times-of-famine
 updated: 2026-08-06
 ---
 

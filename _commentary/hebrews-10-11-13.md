@@ -3,6 +3,7 @@ key: Hebrews 10:11–13
 title: The priest who sat down
 sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2020-07-05 strong-encouragement-in-times-of-famine
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Genesis 26:1–2
 title: "Do not go down to Egypt"
 sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
+  - 2020-07-05 strong-encouragement-in-times-of-famine
 updated: 2026-08-06
 ---
 

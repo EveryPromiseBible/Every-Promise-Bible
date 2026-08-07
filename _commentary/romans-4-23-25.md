@@ -5,6 +5,7 @@ sources:
   - 2019-04-21 the-best-news-youll-ever-hear
   - 2019-05-05 believe-right-and-see-good
   - 2020-04-12 rise-up-and-reign-over-your-enemies
+  - 2020-07-05 strong-encouragement-in-times-of-famine
 updated: 2026-08-06
 ---
 
