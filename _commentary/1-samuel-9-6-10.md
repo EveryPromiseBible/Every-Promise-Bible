@@ -4,6 +4,7 @@ title: A quarter shekel and some lost donkeys
 sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-01-17 learn-how-to-receive-visions
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

@@ -20,6 +20,7 @@ sources:
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-01-23 his-strength-flows-in-our-weaknesses
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

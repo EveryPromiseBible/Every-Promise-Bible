@@ -8,6 +8,7 @@ sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-02-27 jesus-saves-heals-and-renews
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

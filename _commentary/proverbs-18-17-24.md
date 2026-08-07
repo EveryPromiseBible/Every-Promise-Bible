@@ -10,6 +10,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-05-16 ask-big-ask-bold
   - 2021-07-25 speak-life-not-death
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

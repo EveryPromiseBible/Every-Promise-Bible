@@ -6,6 +6,7 @@ sources:
   - 2017-09-10 the-prayer-that-repairs-your-body
   - 2020-11-15 five-times-more-favor-and-provision
   - 2022-05-01 guard-the-imaginations-of-your-heart
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

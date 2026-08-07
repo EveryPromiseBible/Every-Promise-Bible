@@ -3,7 +3,8 @@ key: Psalms 128:5–6
 title: Your children's children
 sources:
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-07
+  - 2022-05-08 own-your-new-creation-identity
+updated: 2026-08-06
 ---
 
 The last two verses widen from a table to a nation.

@@ -22,6 +22,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

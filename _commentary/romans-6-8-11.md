@@ -11,6 +11,7 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-08-29 secrets-of-the-peace-offering
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

@@ -34,6 +34,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-03-13 pillars-for-our-church-and-life
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

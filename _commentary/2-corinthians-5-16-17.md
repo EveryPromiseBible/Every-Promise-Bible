@@ -11,6 +11,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-06-06 set-apart-for-lasting-success
   - 2022-04-03 when-the-odds-are-against-you
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 

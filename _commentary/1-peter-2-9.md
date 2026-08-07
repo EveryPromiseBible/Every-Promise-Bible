@@ -9,6 +9,7 @@ sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-08-29 secrets-of-the-peace-offering
+  - 2022-05-08 own-your-new-creation-identity
 updated: 2026-08-06
 ---
 
