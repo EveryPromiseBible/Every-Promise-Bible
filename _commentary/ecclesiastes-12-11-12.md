@@ -3,7 +3,8 @@ key: Ecclesiastes 12:11–12
 title: Goads and nails
 sources:
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-07
+  - 2023-02-05 pray-for-good-success-today
+updated: 2026-08-06
 ---
 
 The Preacher's sign-off, and the two images he chooses for words are both about pressure.

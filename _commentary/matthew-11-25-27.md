@@ -3,7 +3,8 @@ key: Matthew 11:25–27
 title: Hidden from the clever
 sources:
   - 2021-08-22 greater-shalom-and-security
-updated: 2026-08-07
+  - 2023-02-05 pray-for-good-success-today
+updated: 2026-08-06
 ---
 
 A prayer said out loud, and it is the most striking thing Jesus says about Himself outside

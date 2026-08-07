@@ -18,6 +18,7 @@ sources:
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-01-08 the-kairos-year-of-right-time-right-place
+  - 2023-02-05 pray-for-good-success-today
 updated: 2026-08-06
 ---
 

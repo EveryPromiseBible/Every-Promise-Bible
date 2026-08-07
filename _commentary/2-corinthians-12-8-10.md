@@ -6,6 +6,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-05-09 made-right-in-his-sight
   - 2022-01-23 his-strength-flows-in-our-weaknesses
+  - 2023-02-05 pray-for-good-success-today
 updated: 2026-08-06
 ---
 

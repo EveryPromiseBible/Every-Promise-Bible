@@ -11,6 +11,7 @@ sources:
   - 2021-04-04 stand-on-favor-ground
   - 2022-01-02 the-year-of-rest-and-acceleration
   - 2022-12-25 indisputable-proof-that-god-is-for-you
+  - 2023-02-05 pray-for-good-success-today
 updated: 2026-08-06
 ---
 

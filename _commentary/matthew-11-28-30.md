@@ -19,6 +19,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-07-31 rest-for-your-soul-in-restless-times
+  - 2023-02-05 pray-for-good-success-today
 updated: 2026-08-06
 ---
 

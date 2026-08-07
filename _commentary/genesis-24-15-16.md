@@ -3,7 +3,8 @@ key: Genesis 24:15–16
 title: Before he had finished praying
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-07
+  - 2023-02-05 pray-for-good-success-today
+updated: 2026-08-06
 ---
 
 The answer arrives while the request is still being made.

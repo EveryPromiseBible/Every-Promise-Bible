@@ -6,6 +6,7 @@ sources:
   - 2022-08-07 encounter-true-grace-and-experience-success
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
+  - 2023-02-05 pray-for-good-success-today
 updated: 2026-08-06
 ---
 

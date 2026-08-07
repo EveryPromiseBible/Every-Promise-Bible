@@ -6,6 +6,7 @@ sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
+  - 2023-02-05 pray-for-good-success-today
 updated: 2026-08-06
 ---
 

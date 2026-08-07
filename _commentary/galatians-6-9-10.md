@@ -3,7 +3,8 @@ key: Galatians 6:9–10
 title: At the right season
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-07
+  - 2023-02-05 pray-for-good-success-today
+updated: 2026-08-06
 ---
 
 Two verses near the end of an angry letter, and they are about not stopping.
