@@ -6,6 +6,7 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
   - 2022-06-26 hope-for-the-third-day-generation
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

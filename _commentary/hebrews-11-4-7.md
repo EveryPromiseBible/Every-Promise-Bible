@@ -7,6 +7,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-07-25 speak-life-not-death
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

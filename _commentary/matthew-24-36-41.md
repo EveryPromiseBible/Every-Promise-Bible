@@ -8,6 +8,7 @@ sources:
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

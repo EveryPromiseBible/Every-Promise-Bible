@@ -3,6 +3,7 @@ key: Isaiah 38:1–3
 title: A word from God that did not turn out to be the last word
 sources:
   - 2018-08-12 live-long-live-strong
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

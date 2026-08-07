@@ -7,6 +7,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2022-05-08 own-your-new-creation-identity
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Genesis 41:25–32
 title: "God is showing Pharaoh what He is about to do"
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2022-07-03 fresh-supply-for-todays-needs
+updated: 2026-08-06
 ---
 
 A prisoner tells the king of Egypt what his dreams meant, and the first word out of his

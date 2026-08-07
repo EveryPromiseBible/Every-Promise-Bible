@@ -4,6 +4,7 @@ title: On the third day
 sources:
   - 2021-08-01 release-his-glory-in-your-life
   - 2022-06-26 hope-for-the-third-day-generation
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

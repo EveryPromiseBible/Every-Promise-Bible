@@ -3,7 +3,8 @@ key: Joshua 3:9–13
 title: This is how you will know
 sources:
   - 2022-06-26 hope-for-the-third-day-generation
-updated: 2026-08-07
+  - 2022-07-03 fresh-supply-for-todays-needs
+updated: 2026-08-06
 ---
 
 Joshua tells them what is about to happen, and why it is being done this way.

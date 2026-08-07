@@ -3,6 +3,7 @@ key: Luke 5:1–3
 title: Two boats at the shore
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

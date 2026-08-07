@@ -13,6 +13,7 @@ sources:
   - 2021-09-05 answers-for-a-hurried-life
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-06-19 own-the-spirit-of-sonship
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

@@ -15,6 +15,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-03-28 your-healing-is-his-priority
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 

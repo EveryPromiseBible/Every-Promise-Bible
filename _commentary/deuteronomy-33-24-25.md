@@ -6,6 +6,7 @@ sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-07-03 fresh-supply-for-todays-needs
 updated: 2026-08-06
 ---
 
