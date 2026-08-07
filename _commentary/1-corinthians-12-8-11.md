@@ -6,6 +6,7 @@ sources:
   - 2021-02-07 answers-for-a-distracted-world
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2022-03-06 keys-to-counter-the-four-horsemen
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

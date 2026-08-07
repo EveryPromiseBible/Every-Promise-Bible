@@ -9,6 +9,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2021-08-01 release-his-glory-in-your-life
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

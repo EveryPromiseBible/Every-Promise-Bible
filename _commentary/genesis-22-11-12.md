@@ -6,6 +6,7 @@ sources:
   - 2020-11-01 no-longer-a-slave-to-fear
   - 2021-02-28 prophetic-hope-for-the-future
   - 2013-12-08 understanding-grace-and-discipleship
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

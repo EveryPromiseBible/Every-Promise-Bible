@@ -3,7 +3,8 @@ key: 1 Samuel 22:1–2
 title: Everyone in distress
 sources:
   - 2022-02-27 jesus-saves-heals-and-renews
-updated: 2026-08-07
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+updated: 2026-08-06
 ---
 
 David's army assembles itself, and the recruitment criteria are three kinds of trouble.

@@ -11,6 +11,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-03-13 pillars-for-our-church-and-life
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

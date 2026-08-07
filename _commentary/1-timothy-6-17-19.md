@@ -7,6 +7,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

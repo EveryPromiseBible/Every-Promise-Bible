@@ -3,7 +3,8 @@ key: Genesis 22:13–14
 title: Caught by its horns
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
-updated: 2026-08-07
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+updated: 2026-08-06
 ---
 
 He looks up expecting nothing and finds an animal that has been stuck there for some time.

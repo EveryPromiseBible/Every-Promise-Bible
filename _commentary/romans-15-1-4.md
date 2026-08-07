@@ -5,6 +5,7 @@ sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2017-08-06 the-healing-power-of-a-joyful-heart
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

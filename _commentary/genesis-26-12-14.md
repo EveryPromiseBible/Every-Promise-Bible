@@ -9,6 +9,7 @@ sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

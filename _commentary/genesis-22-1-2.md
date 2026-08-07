@@ -4,6 +4,7 @@ title: "Every word landed heavier than the last"
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 

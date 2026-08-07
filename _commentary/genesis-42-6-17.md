@@ -3,7 +3,8 @@ key: Genesis 42:6–17
 title: He knew them, and they did not know him
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-07
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+updated: 2026-08-06
 ---
 
 The dream comes true in an Egyptian granary and only one man in the room knows it.

@@ -15,6 +15,7 @@ sources:
   - 2022-06-19 own-the-spirit-of-sonship
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-07-10 supernatural-supply-in-difficult-times
+  - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
 updated: 2026-08-06
 ---
 
