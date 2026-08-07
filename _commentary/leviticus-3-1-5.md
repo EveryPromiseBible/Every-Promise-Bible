@@ -3,7 +3,8 @@ key: Leviticus 3:1–5
 title: The offering everybody eats
 sources:
   - 2021-08-22 greater-shalom-and-security
-updated: 2026-08-07
+  - 2021-08-29 secrets-of-the-peace-offering
+updated: 2026-08-06
 ---
 
 The third of the offerings, and the only one shared three ways.

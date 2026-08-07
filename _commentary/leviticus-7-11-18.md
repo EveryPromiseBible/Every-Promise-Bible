@@ -3,6 +3,7 @@ key: Leviticus 7:11–18
 title: "None may be left until morning"
 sources:
   - 2019-09-22 eat-the-communion-fresh
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

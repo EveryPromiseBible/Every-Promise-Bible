@@ -7,6 +7,7 @@ sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2021-03-28 your-healing-is-his-priority
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

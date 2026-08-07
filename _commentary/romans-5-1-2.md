@@ -10,6 +10,7 @@ sources:
   - 2021-04-11 all-things-work-for-your-good
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-30 the-key-to-victorious-living
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

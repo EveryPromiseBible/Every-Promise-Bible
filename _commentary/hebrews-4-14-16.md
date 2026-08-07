@@ -7,6 +7,7 @@ sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2020-07-19 god-is-good-even-when-times-are-bad
   - 2021-05-02 inside-out-transformation
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: "This is My body, this is My blood"
 sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

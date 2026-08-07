@@ -4,6 +4,7 @@ title: Led in His victory parade
 sources:
   - 2020-05-24 find-power-in-his-presence
   - 2021-08-22 greater-shalom-and-security
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

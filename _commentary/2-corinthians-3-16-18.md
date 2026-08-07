@@ -16,6 +16,7 @@ sources:
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-07-18 christ-consciousness-brings-life
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

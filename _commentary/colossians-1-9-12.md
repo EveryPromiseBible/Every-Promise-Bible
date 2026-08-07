@@ -4,6 +4,7 @@ title: The chain of a prayer
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2019-06-30 prosper-through-prophetic-preaching
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

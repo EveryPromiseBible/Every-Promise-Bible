@@ -3,6 +3,7 @@ key: John 4:1–6
 title: Through Samaria
 sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

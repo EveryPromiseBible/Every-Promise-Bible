@@ -3,7 +3,8 @@ key: Matthew 14:13–14
 title: His heart went out
 sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
-updated: 2026-08-07
+  - 2021-08-29 secrets-of-the-peace-offering
+updated: 2026-08-06
 ---
 
 Two verses between a murder and a miracle.

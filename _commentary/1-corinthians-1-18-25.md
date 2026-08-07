@@ -5,6 +5,7 @@ sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-07-25 speak-life-not-death
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2019-11-24 the-beauty-of-our-servant-king
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
+  - 2021-08-29 secrets-of-the-peace-offering
 updated: 2026-08-06
 ---
 
