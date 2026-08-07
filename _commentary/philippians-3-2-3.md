@@ -3,7 +3,8 @@ key: Philippians 3:2–3
 title: Watch for the three
 sources:
   - 2020-11-22 what-it-means-to-fall-from-grace
-updated: 2026-08-07
+  - 2021-05-30 the-key-to-victorious-living
+updated: 2026-08-06
 ---
 
 Three warnings in a row, and then a definition that takes the other side's word away from

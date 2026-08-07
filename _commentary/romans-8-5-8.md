@@ -4,6 +4,7 @@ title: The mind set on the old nature
 sources:
   - 2021-01-31 keys-to-good-success
   - 2021-05-02 inside-out-transformation
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 

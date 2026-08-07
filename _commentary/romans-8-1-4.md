@@ -11,6 +11,7 @@ sources:
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-02 inside-out-transformation
   - 2021-05-16 ask-big-ask-bold
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 

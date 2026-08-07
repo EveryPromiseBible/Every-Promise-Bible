@@ -6,6 +6,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2020-11-01 no-longer-a-slave-to-fear
   - 2021-04-25 your-failure-isnt-final
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 

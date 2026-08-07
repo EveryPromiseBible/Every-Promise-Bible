@@ -8,6 +8,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2021-02-28 prophetic-hope-for-the-future
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 

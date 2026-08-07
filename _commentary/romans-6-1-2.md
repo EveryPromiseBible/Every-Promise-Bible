@@ -6,6 +6,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-09 made-right-in-his-sight
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 

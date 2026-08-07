@@ -3,7 +3,8 @@ key: Colossians 3:1–4
 title: Where your life is
 sources:
   - 2021-04-04 stand-on-favor-ground
-updated: 2026-08-07
+  - 2021-05-30 the-key-to-victorious-living
+updated: 2026-08-06
 ---
 
 The whole ethical half of Colossians hangs off the word *if*.

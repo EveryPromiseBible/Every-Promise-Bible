@@ -12,6 +12,7 @@ sources:
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-04-04 stand-on-favor-ground
   - 2021-04-11 all-things-work-for-your-good
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 

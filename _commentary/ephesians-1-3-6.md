@@ -9,6 +9,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2021-05-16 ask-big-ask-bold
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 

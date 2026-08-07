@@ -5,6 +5,7 @@ sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2020-11-15 five-times-more-favor-and-provision
+  - 2021-05-30 the-key-to-victorious-living
 updated: 2026-08-06
 ---
 
