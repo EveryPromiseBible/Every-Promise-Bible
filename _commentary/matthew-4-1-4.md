@@ -6,6 +6,7 @@ sources:
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-06-27 his-word-brings-life-and-healing
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 

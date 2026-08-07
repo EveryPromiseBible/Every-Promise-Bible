@@ -3,6 +3,7 @@ key: Proverbs 12:22–28
 title: "The lazy man never roasts what he caught"
 sources:
   - 2018-09-09 give-me-this-mountain
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: 2 Peter 1:1–2
 title: "Worth every bit as much as ours"
 sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 

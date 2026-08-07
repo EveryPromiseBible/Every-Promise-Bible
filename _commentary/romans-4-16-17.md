@@ -3,6 +3,7 @@ key: Romans 4:16–17
 title: "Calls things that do not exist as though they already do"
 sources:
   - 2019-05-05 believe-right-and-see-good
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 

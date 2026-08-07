@@ -6,6 +6,7 @@ sources:
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-04-11 all-things-work-for-your-good
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2018-08-12 live-long-live-strong
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2021-04-11 all-things-work-for-your-good
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 

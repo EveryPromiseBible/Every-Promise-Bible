@@ -4,6 +4,7 @@ title: Garments of skin, and the sword at the gate
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 

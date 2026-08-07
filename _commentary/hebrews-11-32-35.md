@@ -6,6 +6,7 @@ sources:
   - 2018-09-23 the-key-to-robust-faith
   - 2018-08-12 live-long-live-strong
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2021-07-25 speak-life-not-death
 updated: 2026-08-06
 ---
 
