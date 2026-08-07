@@ -8,6 +8,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2021-03-28 your-healing-is-his-priority
   - 2021-08-29 secrets-of-the-peace-offering
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: 1 Chronicles 15:25–28
 title: Because God had helped them
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-07
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
+updated: 2026-08-06
 ---
 
 The ark finally moves, and Chronicles records one detail Samuel leaves out.

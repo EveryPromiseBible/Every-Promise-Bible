@@ -3,6 +3,7 @@ key: Proverbs 13:9–16
 title: "Money gathered slowly grows"
 sources:
   - 2019-04-14 positioned-for-his-provision
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 

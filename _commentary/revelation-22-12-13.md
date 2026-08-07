@@ -3,7 +3,8 @@ key: Revelation 22:12–13
 title: The first letter and the last
 sources:
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-07
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
+updated: 2026-08-06
 ---
 
 Near the last words of the Bible, and He is doing the talking.

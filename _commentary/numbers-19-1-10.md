@@ -3,6 +3,7 @@ key: Numbers 19:1–10
 title: The red heifer
 sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 

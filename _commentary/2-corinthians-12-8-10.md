@@ -5,6 +5,7 @@ sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-05-09 made-right-in-his-sight
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 

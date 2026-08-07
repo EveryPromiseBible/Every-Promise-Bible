@@ -8,6 +8,7 @@ sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-10-17 gods-heart-for-your-family
   - 2021-11-28 faith-to-possess-the-land
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 

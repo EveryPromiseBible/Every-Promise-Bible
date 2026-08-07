@@ -19,6 +19,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 

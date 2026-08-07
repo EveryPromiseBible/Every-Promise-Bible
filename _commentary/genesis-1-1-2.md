@@ -3,7 +3,8 @@ key: Genesis 1:1–2
 title: Hovering over the water
 sources:
   - 2021-07-18 christ-consciousness-brings-life
-updated: 2026-08-07
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
+updated: 2026-08-06
 ---
 
 Two verses, and everything the Bible says afterwards assumes them.

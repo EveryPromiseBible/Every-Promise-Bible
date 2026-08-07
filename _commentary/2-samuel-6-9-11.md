@@ -4,6 +4,7 @@ title: Three months at Obed-edom's
 sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 

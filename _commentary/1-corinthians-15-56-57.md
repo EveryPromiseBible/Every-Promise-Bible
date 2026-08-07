@@ -13,6 +13,7 @@ sources:
   - 2021-08-01 release-his-glory-in-your-life
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2022-01-23 his-strength-flows-in-our-weaknesses
 updated: 2026-08-06
 ---
 
