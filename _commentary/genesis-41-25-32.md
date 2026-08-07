@@ -6,6 +6,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-08-07 encounter-true-grace-and-experience-success
   - 2022-12-13 prosperity-with-a-purpose
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

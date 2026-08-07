@@ -4,6 +4,7 @@ title: The four kinds of soil
 sources:
   - 2021-01-31 keys-to-good-success
   - 2021-06-27 his-word-brings-life-and-healing
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

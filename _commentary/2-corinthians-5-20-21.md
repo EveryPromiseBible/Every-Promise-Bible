@@ -26,6 +26,7 @@ sources:
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2022-12-13 prosperity-with-a-purpose
   - 2022-12-25 indisputable-proof-that-god-is-for-you
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

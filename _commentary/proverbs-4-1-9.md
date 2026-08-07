@@ -3,7 +3,8 @@ key: Proverbs 4:1–9
 title: What his father told him
 sources:
   - 2022-02-27 jesus-saves-heals-and-renews
-updated: 2026-08-07
+  - 2023-01-01 healing-and-restoration-for-your-mind
+updated: 2026-08-06
 ---
 
 A father quoting his own father, which is the only place in Proverbs this happens.

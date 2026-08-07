@@ -8,6 +8,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-07-18 christ-consciousness-brings-life
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

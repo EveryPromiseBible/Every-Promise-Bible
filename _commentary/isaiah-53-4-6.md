@@ -35,6 +35,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-03-13 pillars-for-our-church-and-life
   - 2022-05-08 own-your-new-creation-identity
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

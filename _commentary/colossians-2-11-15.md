@@ -5,6 +5,7 @@ sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2021-05-16 ask-big-ask-bold
   - 2017-09-17 under-attack-put-on-the-armor-of-god
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

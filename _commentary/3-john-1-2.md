@@ -23,6 +23,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-12-13 prosperity-with-a-purpose
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

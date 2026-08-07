@@ -18,6 +18,7 @@ sources:
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

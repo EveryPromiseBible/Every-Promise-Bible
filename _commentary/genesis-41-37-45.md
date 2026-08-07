@@ -4,6 +4,7 @@ title: "One in whom the Spirit of God lives"
 sources:
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-01-31 keys-to-good-success
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

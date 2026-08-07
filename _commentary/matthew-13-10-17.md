@@ -3,7 +3,8 @@ key: Matthew 13:10–17
 title: Why He speaks in stories
 sources:
   - 2021-06-27 his-word-brings-life-and-healing
-updated: 2026-08-07
+  - 2023-01-01 healing-and-restoration-for-your-mind
+updated: 2026-08-06
 ---
 
 The disciples ask a question about method and get an answer about hearts.

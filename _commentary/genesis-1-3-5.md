@@ -6,6 +6,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2021-05-02 inside-out-transformation
   - 2021-07-25 speak-life-not-death
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

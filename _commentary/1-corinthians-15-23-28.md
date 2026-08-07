@@ -13,6 +13,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-07-25 speak-life-not-death
   - 2021-10-10 understand-the-times
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 

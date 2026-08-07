@@ -3,7 +3,8 @@ key: Matthew 5:17–20
 title: Not torn down, but filled full
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-07
+  - 2023-01-01 healing-and-restoration-for-your-mind
+updated: 2026-08-06
 ---
 
 Early in the Sermon on the Mount, He answers a charge nobody has made yet.

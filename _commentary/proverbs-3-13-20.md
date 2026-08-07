@@ -9,6 +9,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
+  - 2023-01-01 healing-and-restoration-for-your-mind
 updated: 2026-08-06
 ---
 
