@@ -5,6 +5,7 @@ sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
   - 2019-07-28 live-out-your-high-calling
   - 2019-09-29 is-the-bible-still-relevant-today
+  - 2019-11-17 wisdom-for-financial-success
 updated: 2026-08-06
 ---
 

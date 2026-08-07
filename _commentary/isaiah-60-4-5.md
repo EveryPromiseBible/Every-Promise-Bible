@@ -3,6 +3,7 @@ key: Isaiah 60:4–5
 title: "Your heart will race and swell"
 sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
+  - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
 updated: 2026-08-06
 ---
 

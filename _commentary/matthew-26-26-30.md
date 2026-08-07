@@ -3,6 +3,7 @@ key: Matthew 26:26–30
 title: "This is My body, this is My blood"
 sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
+  - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
 updated: 2026-08-06
 ---
 

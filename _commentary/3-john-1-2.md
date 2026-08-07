@@ -6,6 +6,8 @@ sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2019-11-03 divine-health-and-ageing-backwards-live-at-lakewood-church
+  - 2019-11-17 wisdom-for-financial-success
 updated: 2026-08-06
 ---
 

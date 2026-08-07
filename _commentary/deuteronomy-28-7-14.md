@@ -4,6 +4,7 @@ title: "The head and never the tail"
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2019-02-17 find-answers-in-your-darkest-times
+  - 2019-11-17 wisdom-for-financial-success
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: "He gives you the power to gain wealth"
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2019-05-26 the-truth-about-tithing-under-grace
+  - 2019-11-17 wisdom-for-financial-success
 updated: 2026-08-06
 ---
 
