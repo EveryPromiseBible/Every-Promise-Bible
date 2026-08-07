@@ -8,6 +8,7 @@ sources:
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2022-05-08 own-your-new-creation-identity
   - 2022-07-03 fresh-supply-for-todays-needs
+  - 2022-10-09 hope-for-the-end-times
 updated: 2026-08-06
 ---
 

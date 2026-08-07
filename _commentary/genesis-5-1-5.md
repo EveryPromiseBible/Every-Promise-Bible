@@ -5,6 +5,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-07-25 speak-life-not-death
+  - 2022-10-09 hope-for-the-end-times
 updated: 2026-08-06
 ---
 

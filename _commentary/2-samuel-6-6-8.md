@@ -5,6 +5,7 @@ sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
   - 2022-01-09 gods-way-of-acceleration
   - 2022-01-23 his-strength-flows-in-our-weaknesses
+  - 2022-10-09 hope-for-the-end-times
 updated: 2026-08-06
 ---
 

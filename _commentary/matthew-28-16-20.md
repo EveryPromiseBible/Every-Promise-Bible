@@ -5,6 +5,7 @@ sources:
   - 2022-03-13 pillars-for-our-church-and-life
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2022-10-09 hope-for-the-end-times
 updated: 2026-08-06
 ---
 

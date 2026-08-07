@@ -4,6 +4,7 @@ title: "Noah walked with God"
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2014-04-13 noah-the-real-story
+  - 2022-10-09 hope-for-the-end-times
 updated: 2026-08-06
 ---
 

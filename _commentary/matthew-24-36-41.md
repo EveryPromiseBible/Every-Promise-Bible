@@ -9,6 +9,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-02-28 prophetic-hope-for-the-future
   - 2022-07-03 fresh-supply-for-todays-needs
+  - 2022-10-09 hope-for-the-end-times
 updated: 2026-08-06
 ---
 
