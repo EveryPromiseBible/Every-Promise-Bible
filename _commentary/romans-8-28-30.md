@@ -7,6 +7,7 @@ sources:
   - 2019-09-01 present-help-in-times-of-trouble
   - 2020-05-24 find-power-in-his-presence
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

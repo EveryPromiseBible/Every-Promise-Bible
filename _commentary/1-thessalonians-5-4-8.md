@@ -3,6 +3,7 @@ key: 1 Thessalonians 5:4–8
 title: The helmet, and what it is made of
 sources:
   - 2019-08-25 win-the-battle-over-hopelessness
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

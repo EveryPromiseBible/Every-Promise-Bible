@@ -5,6 +5,7 @@ sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-05-05 believe-right-and-see-good
   - 2019-09-01 present-help-in-times-of-trouble
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

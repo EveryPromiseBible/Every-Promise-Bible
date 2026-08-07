@@ -3,6 +3,7 @@ key: 2 Corinthians 10:3–6
 title: The fortresses are arguments
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

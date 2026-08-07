@@ -3,6 +3,7 @@ key: Romans 10:9–13
 title: The mouth and the heart
 sources:
   - 2018-11-04 how-to-pray-and-see-results
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

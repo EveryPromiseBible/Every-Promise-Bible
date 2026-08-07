@@ -7,6 +7,7 @@ sources:
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

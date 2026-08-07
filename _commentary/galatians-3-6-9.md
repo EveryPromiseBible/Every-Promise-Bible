@@ -4,6 +4,7 @@ title: Blessed together with Abraham
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-08-09 break-free-from-the-chains-of-condemnation
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

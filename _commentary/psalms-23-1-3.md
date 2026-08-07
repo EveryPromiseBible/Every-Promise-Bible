@@ -10,6 +10,7 @@ sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: The same spirit of faith
 sources:
   - 2019-05-05 believe-right-and-see-good
   - 2019-05-12 believe-right-and-see-your-youth-renewed
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 

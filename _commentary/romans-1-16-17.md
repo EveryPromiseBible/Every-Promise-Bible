@@ -7,6 +7,7 @@ sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2020-10-11 he-confirms-his-word-with-miracles
+  - 2020-10-18 gods-answer-for-spiritual-warfare
 updated: 2026-08-06
 ---
 
