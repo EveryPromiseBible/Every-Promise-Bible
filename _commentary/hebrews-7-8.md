@@ -8,6 +8,7 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

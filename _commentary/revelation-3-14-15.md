@@ -3,7 +3,8 @@ key: Revelation 3:14–15
 title: "The Amen"
 sources:
   - 2020-12-13 declare-you-are-highly-favored
-updated: 2026-08-07
+  - 2021-08-15 the-significance-of-this-generation
+updated: 2026-08-06
 ---
 
 The last of the seven letters, and the speaker names Himself with a word nobody had used

@@ -5,6 +5,7 @@ sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2020-11-15 five-times-more-favor-and-provision
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

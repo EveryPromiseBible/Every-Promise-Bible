@@ -3,7 +3,8 @@ key: Genesis 35:16–20
 title: Ben-oni and Benjamin
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-07
+  - 2021-08-15 the-significance-of-this-generation
+updated: 2026-08-06
 ---
 
 A woman dies naming her son, and her husband changes the name before she is buried.

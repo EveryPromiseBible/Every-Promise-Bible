@@ -4,6 +4,7 @@ title: Five times as much, and a man who had to leave the room
 sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2020-11-15 five-times-more-favor-and-provision
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2019-04-14 positioned-for-his-provision
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

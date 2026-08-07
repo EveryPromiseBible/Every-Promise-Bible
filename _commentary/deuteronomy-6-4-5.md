@@ -3,7 +3,8 @@ key: Deuteronomy 6:4–5
 title: Hear, O Israel
 sources:
   - 2021-07-25 speak-life-not-death
-updated: 2026-08-07
+  - 2021-08-15 the-significance-of-this-generation
+updated: 2026-08-06
 ---
 
 The sentence a Jewish child learns first and a dying Jew says last.

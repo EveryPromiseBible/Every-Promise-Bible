@@ -9,6 +9,7 @@ sources:
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2021-02-07 answers-for-a-distracted-world
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

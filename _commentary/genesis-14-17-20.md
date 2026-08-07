@@ -10,6 +10,7 @@ sources:
   - 2020-05-24 find-power-in-his-presence
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

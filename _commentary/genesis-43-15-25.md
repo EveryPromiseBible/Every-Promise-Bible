@@ -3,7 +3,8 @@ key: Genesis 43:15–25
 title: Received at Joseph's house
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-07
+  - 2021-08-15 the-significance-of-this-generation
+updated: 2026-08-06
 ---
 
 They arrive expecting arrest and are shown to a dining room.

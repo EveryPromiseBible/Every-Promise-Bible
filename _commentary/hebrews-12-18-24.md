@@ -10,6 +10,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-03-07 come-to-the-feast-of-healing
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

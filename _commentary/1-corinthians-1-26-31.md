@@ -9,6 +9,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2021-05-02 inside-out-transformation
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 

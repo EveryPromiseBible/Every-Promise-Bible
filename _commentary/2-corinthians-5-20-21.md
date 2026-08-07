@@ -16,6 +16,7 @@ sources:
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-09 made-right-in-his-sight
   - 2021-07-18 christ-consciousness-brings-life
+  - 2021-08-15 the-significance-of-this-generation
 updated: 2026-08-06
 ---
 
