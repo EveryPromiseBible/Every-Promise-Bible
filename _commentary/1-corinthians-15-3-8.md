@@ -3,7 +3,8 @@ key: 1 Corinthians 15:3–8
 title: What he handed on
 sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
-updated: 2026-08-07
+  - 2021-10-03 leadership-keys
+updated: 2026-08-06
 ---
 
 The oldest summary of the Christian message in existence, and Paul says he did not write

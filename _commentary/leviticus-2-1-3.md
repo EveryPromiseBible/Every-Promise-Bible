@@ -3,6 +3,7 @@ key: Leviticus 2:1–3
 title: Fine flour, oil, and frankincense
 sources:
   - 2019-01-27 be-led-by-his-anointing-and-win
+  - 2021-10-03 leadership-keys
 updated: 2026-08-06
 ---
 

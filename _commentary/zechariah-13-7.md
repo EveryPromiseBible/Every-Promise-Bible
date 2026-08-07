@@ -3,6 +3,7 @@ key: Zechariah 13:7
 title: "Strike the shepherd"
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
+  - 2021-10-03 leadership-keys
 updated: 2026-08-06
 ---
 
