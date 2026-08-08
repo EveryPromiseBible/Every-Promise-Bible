@@ -22,6 +22,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2024-03-31 death-has-been-defeated
+  - 2024-05-12 busy-outside-restful-inside
 updated: 2026-08-06
 ---
 

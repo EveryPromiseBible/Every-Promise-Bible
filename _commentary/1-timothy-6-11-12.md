@@ -3,7 +3,8 @@ key: 1 Timothy 6:11–12
 title: Run away, chase after, take hold
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2024-05-12 busy-outside-restful-inside
+updated: 2026-08-06
 ---
 
 Paul gives a young man three verbs and one title.

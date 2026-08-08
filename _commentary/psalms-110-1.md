@@ -6,6 +6,7 @@ sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2021-02-28 prophetic-hope-for-the-future
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2024-05-12 busy-outside-restful-inside
 updated: 2026-08-06
 ---
 
