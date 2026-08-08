@@ -3411,19 +3411,18 @@ function openSomewhereRandom() {
   RANDOM_POOL.forEach(s => { for (let i = 0; i < s.weight; i++) draw.push(s.tx); });
   let tx = draw[Math.floor(Math.random() * draw.length)];
 
-  /* A hymn is not a translation of the bible reader -- it has its own view --
-     so this branch lands the reader somewhere else entirely and returns. If the
-     hymnal has not loaded, fall through to scripture rather than showing an
-     empty page. */
-  if (tx === 'hymn') {
-    const hymns = hyAll();
-    if (hymns.length) {
-      sv('hymns');
-      hyOpen(Math.floor(Math.random() * hymns.length));
-      return;
-    }
-    tx = 'illum';
-  }
+  /* A hymn is not a translation of the bible reader -- it has its own view. It
+     used to be handled by landing there and returning, which left the bible
+     view exactly as index.html ships it: no chapter, no navigation, and a
+     chapter select sitting on its first option, which is the Introduction. The
+     reader saw a hymn, tapped Bible, and got an empty page claiming to be the
+     introduction. A quarter of all visits, so it kept coming back.
+     So the scripture landing always happens and the hymn is opened on top of
+     it. The bible view is then ready behind the hymn, which is what tapping
+     Bible expects to find. */
+  const hymns = hyAll();
+  const landOnHymn = tx === 'hymn' && hymns.length > 0;
+  if (tx === 'hymn') tx = 'illum';     // the bible still needs a destination
 
   sv('bible');
   switchTranslation(tx);
@@ -3441,6 +3440,12 @@ function openSomewhereRandom() {
     loadIllum(chapters[Math.floor(Math.random() * chapters.length)]);
   }
   syncModeUI();
+
+  /* Last, so the hymn is what the reader actually arrives on. */
+  if (landOnHymn) {
+    sv('hymns');
+    hyOpen(Math.floor(Math.random() * hymns.length));
+  }
 }
 
 /* ================= Journal: calendar, reading plans, notes =================
