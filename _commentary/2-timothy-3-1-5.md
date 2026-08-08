@@ -3,7 +3,8 @@ key: 2 Timothy 3:1–5
 title: The hard days ahead
 sources:
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
-updated: 2026-08-07
+  - 2024-11-24 stay-near-the-scent-of-water
+updated: 2026-08-06
 ---
 
 Eighteen descriptions in a row, and the first and last are the same thing.

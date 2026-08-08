@@ -24,6 +24,7 @@ sources:
   - 2024-09-22 claim-what-is-yours
   - 2024-10-13 the-key-to-prospering-in-all-things
   - 2024-10-20 the-healing-power-of-gods-word
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

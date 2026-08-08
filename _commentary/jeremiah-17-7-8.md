@@ -4,6 +4,7 @@ title: The tree that never fails
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2021-01-17 learn-how-to-receive-visions
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

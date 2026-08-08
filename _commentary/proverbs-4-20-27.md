@@ -24,6 +24,7 @@ sources:
   - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
   - 2024-09-22 claim-what-is-yours
   - 2024-10-20 the-healing-power-of-gods-word
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

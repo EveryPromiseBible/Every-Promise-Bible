@@ -10,6 +10,7 @@ sources:
   - 2021-08-22 greater-shalom-and-security
   - 2023-04-16 unveiling-jesus-heart-to-serve-you
   - 2024-01-21 live-with-a-heavenly-perspective
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

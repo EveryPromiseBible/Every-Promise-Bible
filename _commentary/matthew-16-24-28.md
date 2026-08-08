@@ -5,6 +5,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2024-03-03 fresh-truths-for-parenting-today
   - 2024-06-30 own-your-calling-and-portion
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

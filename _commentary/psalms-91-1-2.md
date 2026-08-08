@@ -18,6 +18,7 @@ sources:
   - 2022-07-31 rest-for-your-soul-in-restless-times
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2024-09-22 claim-what-is-yours
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

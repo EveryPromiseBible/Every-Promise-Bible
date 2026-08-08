@@ -5,6 +5,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2023-04-23 be-healed-by-the-washing-of-the-word
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

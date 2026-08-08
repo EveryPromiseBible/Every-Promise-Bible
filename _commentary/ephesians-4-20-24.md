@@ -10,6 +10,7 @@ sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2023-10-15 put-on-gods-armor-in-the-evil-day
   - 2024-08-04 win-the-battle-over-temptation
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 

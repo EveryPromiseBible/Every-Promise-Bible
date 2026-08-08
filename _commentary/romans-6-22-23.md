@@ -16,6 +16,7 @@ sources:
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2023-12-24 make-room-for-christ
   - 2024-03-31 death-has-been-defeated
+  - 2024-11-24 stay-near-the-scent-of-water
 updated: 2026-08-06
 ---
 
