@@ -25,6 +25,7 @@ sources:
   - 2024-01-28 be-washed-and-refreshed-by-his-word
   - 2024-03-31 death-has-been-defeated
   - 2025-04-20 raised-with-christ-to-reign
+  - 2025-11-09 live-the-heavenly-life-on-earth
 updated: 2026-08-06
 ---
 

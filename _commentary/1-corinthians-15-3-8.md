@@ -6,6 +6,7 @@ sources:
   - 2021-10-03 leadership-keys
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2025-01-12 the-third-day
+  - 2025-11-02 his-way-is-to-abundantly-pardon
 updated: 2026-08-06
 ---
 

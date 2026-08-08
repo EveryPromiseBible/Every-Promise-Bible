@@ -6,6 +6,7 @@ sources:
   - 2021-05-30 the-key-to-victorious-living
   - 2021-06-06 set-apart-for-lasting-success
   - 2025-06-22 no-more-fear-of-death
+  - 2025-11-09 live-the-heavenly-life-on-earth
 updated: 2026-08-06
 ---
 

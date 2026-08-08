@@ -23,6 +23,7 @@ sources:
   - 2024-12-22 when-god-stooped-down
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-08-24 the-power-of-a-cleansed-conscience
+  - 2025-10-19 prioritize-character-success
 updated: 2026-08-06
 ---
 

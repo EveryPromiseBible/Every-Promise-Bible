@@ -5,6 +5,7 @@ sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2024-01-07 break-the-cycle-of-misfortune
   - 2025-01-12 the-third-day
+  - 2025-10-19 prioritize-character-success
 updated: 2026-08-06
 ---
 

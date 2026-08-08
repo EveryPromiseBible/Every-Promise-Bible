@@ -9,6 +9,7 @@ sources:
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2020-12-27 how-to-see-many-beautiful-days
+  - 2025-11-09 live-the-heavenly-life-on-earth
 updated: 2026-08-06
 ---
 

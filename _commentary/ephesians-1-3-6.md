@@ -17,6 +17,7 @@ sources:
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
   - 2024-11-17 goodness-and-grace-beyond-compare
   - 2025-09-21 transformed-by-beholding-jesus
+  - 2025-11-09 live-the-heavenly-life-on-earth
 updated: 2026-08-06
 ---
 

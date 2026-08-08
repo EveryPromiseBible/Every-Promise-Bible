@@ -6,6 +6,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
+  - 2025-11-09 live-the-heavenly-life-on-earth
 updated: 2026-08-06
 ---
 

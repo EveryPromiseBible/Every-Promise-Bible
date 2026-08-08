@@ -14,6 +14,8 @@ sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2024-05-12 busy-outside-restful-inside
   - 2024-08-04 win-the-battle-over-temptation
+  - 2025-10-19 prioritize-character-success
+  - 2025-11-02 his-way-is-to-abundantly-pardon
 updated: 2026-08-06
 ---
 

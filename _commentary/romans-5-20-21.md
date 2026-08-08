@@ -17,6 +17,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2025-10-19 prioritize-character-success
 updated: 2026-08-06
 ---
 

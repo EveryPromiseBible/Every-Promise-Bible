@@ -6,6 +6,7 @@ sources:
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-06-19 own-the-spirit-of-sonship
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+  - 2025-10-19 prioritize-character-success
 updated: 2026-08-06
 ---
 

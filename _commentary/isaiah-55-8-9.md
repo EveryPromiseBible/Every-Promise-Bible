@@ -5,6 +5,7 @@ sources:
   - 2019-01-20 his-lavish-love-exceeds-your-expectations
   - 2021-06-27 his-word-brings-life-and-healing
   - 2024-11-17 goodness-and-grace-beyond-compare
+  - 2025-11-02 his-way-is-to-abundantly-pardon
 updated: 2026-08-06
 ---
 

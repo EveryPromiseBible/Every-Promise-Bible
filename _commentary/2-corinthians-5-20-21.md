@@ -39,6 +39,7 @@ sources:
   - 2025-03-09 boldness-to-enter-the-holiest
   - 2025-03-30 freedom-from-failure-consciousness
   - 2025-09-21 transformed-by-beholding-jesus
+  - 2025-11-02 his-way-is-to-abundantly-pardon
 updated: 2026-08-06
 ---
 

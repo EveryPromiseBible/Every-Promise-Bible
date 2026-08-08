@@ -8,6 +8,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2025-05-11 speak-it-by-faith-before-you-see-it
+  - 2025-11-09 live-the-heavenly-life-on-earth
 updated: 2026-08-06
 ---
 

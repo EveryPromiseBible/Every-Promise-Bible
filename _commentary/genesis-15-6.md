@@ -10,6 +10,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2025-09-14 trust-the-way-of-grace
+  - 2025-10-19 prioritize-character-success
 updated: 2026-08-06
 ---
 

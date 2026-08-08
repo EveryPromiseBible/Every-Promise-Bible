@@ -12,6 +12,7 @@ sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2022-11-06 prosper-gods-way-during-recession
   - 2022-12-13 prosperity-with-a-purpose
+  - 2025-10-19 prioritize-character-success
 updated: 2026-08-06
 ---
 

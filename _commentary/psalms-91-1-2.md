@@ -19,6 +19,7 @@ sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2024-09-22 claim-what-is-yours
   - 2024-11-24 stay-near-the-scent-of-water
+  - 2025-11-09 live-the-heavenly-life-on-earth
 updated: 2026-08-06
 ---
 
