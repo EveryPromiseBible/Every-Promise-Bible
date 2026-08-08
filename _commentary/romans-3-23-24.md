@@ -13,6 +13,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-02-05 pray-for-good-success-today
   - 2023-12-24 make-room-for-christ
+  - 2024-11-17 goodness-and-grace-beyond-compare
 updated: 2026-08-06
 ---
 

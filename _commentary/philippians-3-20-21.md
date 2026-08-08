@@ -15,6 +15,7 @@ sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2024-07-07 boldness-on-the-day-of-judgment
+  - 2024-11-17 goodness-and-grace-beyond-compare
 updated: 2026-08-06
 ---
 

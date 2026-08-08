@@ -41,6 +41,7 @@ sources:
   - 2024-03-31 death-has-been-defeated
   - 2024-07-21 freedom-from-the-spirit-of-depression
   - 2024-08-04 win-the-battle-over-temptation
+  - 2024-11-17 goodness-and-grace-beyond-compare
 updated: 2026-08-06
 ---
 

@@ -8,6 +8,7 @@ sources:
   - 2013-12-08 understanding-grace-and-discipleship
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2024-08-18 live-by-the-power-of-the-gospel
+  - 2024-11-17 goodness-and-grace-beyond-compare
 updated: 2026-08-06
 ---
 
