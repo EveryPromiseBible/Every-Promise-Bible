@@ -33,9 +33,13 @@ The verb for receiving is present. The writer does not say tithes *were*
 received; he says they are, and that the one receiving them is testified to be
 living.
 
-That is a striking thing to leave standing in a letter written decades after the
-cross. Whatever a reader concludes about how much or how often, the picture the
-sentence gives is of a living Priest still receiving what is brought to Him.
+The letter was written decades after the cross, to Hebrew believers, and the
+writer does not put the receiving in the past. He puts it in the present and
+attaches it to the one who is alive.
+
+So the tenth did not lapse when the Levites did. It changed hands. The men who
+collected it died; the Priest who collects it now does not, and He is receiving
+it today.
 
 ## Why the argument needed Abraham
 

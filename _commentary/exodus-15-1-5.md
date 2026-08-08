@@ -109,5 +109,5 @@ Standing on a sea of glass mingled with fire.
 
 Two seas, and the same song named at both.
 
-> **The first song in Scripture.** Four hundred and thirty years in Egypt produce no hymn. The
-> singing starts on the far side of water nobody opened for themselves.
+> **Where the singing starts.** On the far side of water nobody opened for themselves, and not one
+> step before it.
