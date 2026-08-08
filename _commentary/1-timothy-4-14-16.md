@@ -5,6 +5,7 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2021-02-07 answers-for-a-distracted-world
   - 2021-02-21 your-provision-is-in-the-vision
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

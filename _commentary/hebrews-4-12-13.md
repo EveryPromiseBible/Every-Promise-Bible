@@ -6,6 +6,7 @@ sources:
   - 2021-02-07 answers-for-a-distracted-world
   - 2023-07-16 redefine-success-gods-way
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

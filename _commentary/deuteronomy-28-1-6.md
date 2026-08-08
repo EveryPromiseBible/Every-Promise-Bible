@@ -11,6 +11,7 @@ sources:
   - 2013-12-08 understanding-grace-and-discipleship
   - 2023-06-11 blessed-with-father-abrahams-blessings
   - 2024-05-12 busy-outside-restful-inside
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

@@ -7,6 +7,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-02-21 your-provision-is-in-the-vision
   - 2023-02-26 power-to-renew-your-youth
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

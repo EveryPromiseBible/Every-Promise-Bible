@@ -9,6 +9,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2023-06-25 the-cure-to-a-dissatisfied-life
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

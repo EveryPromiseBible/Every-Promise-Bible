@@ -14,6 +14,7 @@ sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2024-01-28 be-washed-and-refreshed-by-his-word
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

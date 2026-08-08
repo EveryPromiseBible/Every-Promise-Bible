@@ -3,7 +3,8 @@ key: Romans 2:6–11
 title: No favoritism
 sources:
   - 2023-04-23 be-healed-by-the-washing-of-the-word
-updated: 2026-08-07
+  - 2024-10-20 the-healing-power-of-gods-word
+updated: 2026-08-06
 ---
 
 Paul is building a case, and this paragraph is the part where nobody is exempt.

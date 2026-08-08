@@ -6,6 +6,7 @@ sources:
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

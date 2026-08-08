@@ -9,6 +9,7 @@ sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-09-05 answers-for-a-hurried-life
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 

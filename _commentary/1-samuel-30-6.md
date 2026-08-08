@@ -3,7 +3,8 @@ key: 1 Samuel 30:6
 title: He strengthened himself
 sources:
   - 2024-02-18 how-to-be-led-by-the-lord
-updated: 2026-08-07
+  - 2024-10-20 the-healing-power-of-gods-word
+updated: 2026-08-06
 ---
 
 The worst day of David's life, in one verse.

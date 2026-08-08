@@ -6,6 +6,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-02-26 power-to-renew-your-youth
+  - 2024-10-20 the-healing-power-of-gods-word
 updated: 2026-08-06
 ---
 
