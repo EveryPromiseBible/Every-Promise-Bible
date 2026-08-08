@@ -4233,9 +4233,12 @@ const TOUR = [
   { title: 'Study and Read',
     tint: 'var(--orange)',
     spot: '.mode-toggle',
-    /* This step is about how the words themselves look. Blurring them out
-       while describing them defeats the step. */
-    show: '#sectionsContainer',
+    /* This step is about how the words themselves look, so blurring them out
+       while describing them defeats it. The whole SHEET comes out of the blur,
+       not just the words: lifting the text alone leaves it floating on the
+       dimmed page behind, which reads as a rendering fault rather than as a
+       page being shown. */
+    show: '.bible-main',
     body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through. Watch the switch.',
     /* Flips it, both ways, while the reader is looking at it. Reading that the
        Greek "drops away" is not the same as seeing a page of it go. It ends
