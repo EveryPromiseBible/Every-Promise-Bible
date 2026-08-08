@@ -15,6 +15,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
+  - 2024-07-07 boldness-on-the-day-of-judgment
 updated: 2026-08-06
 ---
 

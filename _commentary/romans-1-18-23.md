@@ -3,7 +3,8 @@ key: Romans 1:18–23
 title: They would not thank Him
 sources:
   - 2023-06-25 the-cure-to-a-dissatisfied-life
-updated: 2026-08-07
+  - 2024-07-07 boldness-on-the-day-of-judgment
+updated: 2026-08-06
 ---
 
 Paul's account of how a civilisation ends up worshipping animals, and it starts with a failure to say thank you.

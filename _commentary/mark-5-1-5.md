@@ -4,6 +4,7 @@ title: Across the water to the tombs
 sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2023-07-23 your-best-days-are-ahead
+  - 2024-07-07 boldness-on-the-day-of-judgment
 updated: 2026-08-06
 ---
 

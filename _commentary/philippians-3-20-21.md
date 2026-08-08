@@ -14,6 +14,7 @@ sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2024-01-21 live-with-a-heavenly-perspective
+  - 2024-07-07 boldness-on-the-day-of-judgment
 updated: 2026-08-06
 ---
 

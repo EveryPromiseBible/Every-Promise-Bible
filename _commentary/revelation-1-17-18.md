@@ -3,7 +3,8 @@ key: Revelation 1:17–18
 title: His right hand on me
 sources:
   - 2024-03-31 death-has-been-defeated
-updated: 2026-08-07
+  - 2024-07-07 boldness-on-the-day-of-judgment
+updated: 2026-08-06
 ---
 
 The apostle who leaned on His chest at supper falls down like a corpse.

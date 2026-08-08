@@ -3,7 +3,8 @@ key: Isaiah 45:1–4
 title: Though you did not know Me
 sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
-updated: 2026-08-07
+  - 2024-07-07 boldness-on-the-day-of-judgment
+updated: 2026-08-06
 ---
 
 A Persian king is addressed by name a century and a half before he is born.
