@@ -4147,6 +4147,13 @@ const TOUR = [
     body: 'A devotional that walks through the Gospels as if you were there — told by a disciple who is never named. Each day gathers the accounts of one event from all four Gospels into a single telling.',
     go: () => { switchTranslation('dev'); } },
 
+  { title: 'Your own books',
+    spot: '#libBooksGroup',
+    body: 'Under the translations there is a shelf of your own. Add any book you have as an <b>EPUB</b> and it opens here like the rest — and you can highlight and bookmark and make notes inside it exactly the way you do in the Bible. The file stays on your device; nothing is uploaded.',
+    go: () => { sv('bible');
+      const lib = document.getElementById('library');
+      if (!lib.classList.contains('open')) toggleLibrary(); } },
+
   { title: 'Search everything at once',
     spot: '#searchBtn',
     body: 'One search covers all three translations, the devotional and the hymnal. Every result says which source it came from, and following one takes you straight to that verse.',
