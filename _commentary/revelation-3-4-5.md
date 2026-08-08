@@ -8,38 +8,40 @@ updated: 2026-08-08
 
 The church is told it is dead, and then told how many people in it are not.
 
-## What has just been said
-
-*"I know your works, that **you have a name that you are alive, but you are dead**."* See the note on
-Revelation 3:1–3.
-
-A reputation and a pulse, and the letter says they are not the same thing.
-
 ## The exception
 
 *"Even in Sardis you have **a handful of names**."*
 
-The Greek is **oliga onomata** — a few names.
+The Greek is **oliga onomata** — a few names, meaning a few persons.
 
-## The word
+The city has *a name* that it is alive. Inside it are *a few names* that are. See the note on
+Revelation 3:1–2.
 
-**Onomata** — names, used here to mean persons.
+## Why names
 
-The city has *a name* that it is alive, and inside it are *a few names* that are. The letter turns
-the same noun over twice.
+Because names are what the High Priest carried in.
 
-## What is said of them
+*And Aaron shall bear the names of the sons of Israel on the breastplate of judgment **over his
+heart**, when he goes into the holy place, **as a memorial before the LORD continually**.* See the
+note on Exodus 28:22–29.
+
+Twelve names cut into twelve stones and set in gold. See the note on Exodus 28:15–21.
+
+Not one of those tribes engraved itself. The names went in on somebody else's chest.
+
+## The garments
 
 *"People who **never let their clothes get dirty**."*
 
-The Greek is **ouk emolunan ta himatia autōn** — who did not soil their garments.
+The Greek is **ouk emolunan ta himatia autōn** — who did not soil their garments. **Molunō** — to
+smear, to defile.
 
-**Molunō** — to smear, to defile. Used of the conscience and of moral compromise.
+## Whose clothes they are
 
-## The city that made cloth
+*He has **clothed me with garments of salvation** and **wrapped me in a robe of righteousness**.* See
+the note on Isaiah 61:10–11.
 
-Sardis was a wool and dyeing town. Its trade was garments, and the letter's whole vocabulary of
-soiled and white clothing is the local industry.
+Both verbs there are His, and the robe is **tzedaqah** — righteousness.
 
 ## The promise
 
@@ -47,67 +49,51 @@ soiled and white clothing is the local industry.
 
 The Greek is **hoti axioi eisin** — because they are worthy.
 
-## That word
+## What the word weighs
 
-**Axios** — of matching weight, worth the price. The one place in the seven letters where the word
-is used of people.
+**Axios** — of matching weight. A scale, with something set against a price and found to balance
+it.
 
-It is not the letter's ground for the promise; it is a description of the few. The ground comes in
-the next line, where the same white is given to anyone who overcomes.
+What balances it is not their record; the letter has just called the church around them dead.
 
-## The extension
+*Not having my own righteousness, which is from the law, but that which is **through faith in
+Christ**.* See the note on Philippians 3:9.
+
+The weight on the other pan is His.
+
+## Which is why the offer widens
 
 *"**Whoever wins will be dressed in white the same way**."*
 
-The Greek is **ho nikōn houtōs peribaleitai en himatiois leukois**.
+The Greek is **peribaleitai** — he shall be clothed. Passive, like Isaiah's.
 
-The clothing given to the worthy few is offered on the same terms to anybody who overcomes.
+And the white is stated elsewhere to be a gift: *it was **granted to her** to be arrayed in fine
+linen* — **edothē autē**. See the note on Revelation 19:8.
 
-## The three promises
+## Who overcomes
 
-*"I will **never scratch his name out of the book of life**; I will **say his name out loud** in front
-of **My Father** and in front of **His angels**."*
+*Who is he who overcomes the world, but **he who believes** that Jesus is the Son of God?* See the
+note on 1 John 5:4.
 
-## The first
+## The name
 
-The Greek is **ou mē exaleipsō** — the emphatic double negative. By no means will I blot out.
+*"I will **never scratch his name out of the book of life**."*
 
-**Exaleiphō** — to wipe out, to erase. A city register was kept on a scroll and a name was struck
-from it at death or on conviction.
+The Greek is **ou mē exaleipsō** — the emphatic double negative, the strongest denial the language
+has. **Exaleiphō** — to wipe out. A city register was a scroll, and a name was struck from it at
+death or on conviction.
 
-## What the form of it is
+It is often preached as a warning that a name could be erased. The sentence puts the strongest
+negative in Greek in front of that possibility.
 
-A promise, not a threat.
+## And He says it aloud
 
-The sentence is often read as implying names can be erased. What it says is that this one will not
-be — the strongest negative the language has.
+*"I will **say his name out loud** in front of **My Father** and in front of **His angels**."*
 
-## The second
+The Greek is **homologēsō** — I will confess. The same verb as *whoever confesses Me before men,
+him I will also confess before My Father*. See the note on Matthew 10:32–39.
 
-*I will say his name out loud.*
-
-The Greek is **homologēsō to onoma autou** — I will confess his name.
-
-## Where that comes from
-
-*"Therefore whoever confesses Me before men, him I will also confess before My Father who is in
-heaven."* See the note on Matthew 10:32–33.
-
-The same verb, in both directions.
-
-## The audience
-
-*In front of My Father and in front of His angels.*
-
-Named separately, as in Luke's version.
-
-## The book
-
-*And anyone not found written in the Book of Life was cast into the lake of fire.* See the note on
-Revelation 20:11–15.
-
-And *the Lamb's Book of Life* — the register named for the one who was killed. See the note on
-Revelation 21:26–27.
+Aaron carried the names in and said nothing. Here the High Priest speaks them.
 
 ## What the letter told them to do
 
@@ -115,5 +101,5 @@ Revelation 21:26–27.
 
 Not start again. Strengthen what is left — which is what a handful of names is.
 
-> **The same noun twice.** The city has *a name* that it is alive. Inside it are *a few names* that
-> are. The letter puts the two against each other and lets the difference stand.
+> **Whose chest they travel on.** Not one tribe engraved its own name, and no one in Sardis wove his
+> own white. The garment is granted, and the name is spoken by Him.

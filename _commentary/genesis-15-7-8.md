@@ -96,7 +96,7 @@ years.
 silence.
 
 *"How can this be?"* asked in Nazareth by a girl, and answered with an explanation. See the note on
-Luke 1:34–35.
+Luke 1:34–38.
 
 The same interrogative, three times in Scripture, and the answers are not alike.
 
@@ -107,5 +107,25 @@ confirmed before by God in Christ.* See the note on Galatians 3:15–18.
 
 A later agreement does not cancel an earlier grant.
 
-> **The answer he gets.** He asks how he can know, and is handed a knife and a list of animals. The
-> certainty is real, and he sleeps through the part that secures it.
+## What a covenant can be replaced by
+
+Only a better one.
+
+*But now He has obtained a more excellent ministry, inasmuch as **He is also Mediator of a better
+covenant**, which was established on better promises.* See the note on Hebrews 8:6–7.
+
+## Who walks the aisle now
+
+*This cup is **the new covenant in My blood**, which is shed for you.* See the note on
+Luke 22:19–20.
+
+The same arrangement, and the same asymmetry. One party swears and one party is asleep on the
+ground — and at Calvary the party who swore is the one the penalty falls on.
+
+## What that settles
+
+*How can I know* is still answered the same way. A cross and a cup rather than a heifer and a
+torch, and still nothing asked of the man but that he be there for it.
+
+> **The answer he gets.** He asks how he can know, and is handed a knife and a list of animals —
+> then sleeps through the part that secures it.

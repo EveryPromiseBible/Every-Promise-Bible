@@ -66,6 +66,21 @@ Both are true in the sentence and neither cancels the other.
 The Hebrew is **ufaru veravu** — the words spoken over the first man and over Noah. See the note on
 Genesis 1:26–31.
 
+The flock does not come back the size it left. There is a growth verb on the far side of the
+scattering.
+
+## What the law required of a thief
+
+*He shall restore its full value, **add one-fifth more to it**, and give it to whomever it belongs.*
+See the note on Leviticus 6:1–7.
+
+Restitution under that law was never the bare amount. It was the sum plus a fifth, and the man who
+was robbed ended up holding more than was taken from him.
+
+## Who pays it here
+
+Not the shepherds. The owner, out of His own hand.
+
 ## Then the replacements
 
 *I will **raise up shepherds** over them who will **truly shepherd them**.*
@@ -101,7 +116,8 @@ The hireling in that parable is doing what Jeremiah's shepherds did.
 
 ## And the counting
 
-*"Of those whom You gave Me **I have lost none**."* See the note on John 18:8–9.
+*"Of those whom You gave Me **I have lost none**."* See the note on John 18:4–9.
 
-> **One verb, three times.** They did not *visit* the flock; He will *visit* them; and not one sheep
-> will be found missing at the *visitation*. The Hebrew closes it like a trap.
+> **Who does the gathering.** The shepherds scattered them, and the repair is not better management
+> — *I Myself will gather them*. The pronoun is doubled in the Hebrew where the verb already carried
+> it, and when the count is taken, not one is missing.

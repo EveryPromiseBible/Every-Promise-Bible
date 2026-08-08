@@ -111,5 +111,6 @@ The same four verbs, said back to Moses in the first person.
 
 **Yada'ti et-mak'ovav** — I know his pains.
 
-> **The open verb.** *And God knew.* The Hebrew gives it no object, and every translation has to
-> put one in.
+> **What reached Him.** Not a prayer, not a petition, not one recorded word — a groan. It went up,
+> and four verbs came back down. The Hebrew leaves the last of them without an object, because what
+> He knew was them.
