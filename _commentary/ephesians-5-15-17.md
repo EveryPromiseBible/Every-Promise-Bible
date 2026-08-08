@@ -6,6 +6,7 @@ sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2023-08-27 speak-your-way-to-a-long-happy-life
   - 2023-11-12 the-prayer-that-removes-anxiety
+  - 2024-06-30 own-your-calling-and-portion
 updated: 2026-08-06
 ---
 

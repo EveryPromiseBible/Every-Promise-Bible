@@ -4,6 +4,7 @@ title: Let go of yourself
 sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2024-03-03 fresh-truths-for-parenting-today
+  - 2024-06-30 own-your-calling-and-portion
 updated: 2026-08-06
 ---
 

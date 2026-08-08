@@ -3,6 +3,7 @@ key: Exodus 2:1–10
 title: Drawn from the water
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2024-06-30 own-your-calling-and-portion
 updated: 2026-08-06
 ---
 
