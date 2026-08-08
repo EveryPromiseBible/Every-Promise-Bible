@@ -3,7 +3,8 @@ key: Exodus 28:30
 title: Lights and perfections
 sources:
   - 2022-03-06 keys-to-counter-the-four-horsemen
-updated: 2026-08-07
+  - 2024-02-18 how-to-be-led-by-the-lord
+updated: 2026-08-06
 ---
 
 One verse, and the two objects in it are never described.
