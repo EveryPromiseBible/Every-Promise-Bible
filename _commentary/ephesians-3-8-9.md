@@ -3,7 +3,8 @@ key: Ephesians 3:8–9
 title: Less than the least
 sources:
   - 2024-01-07 break-the-cycle-of-misfortune
-updated: 2026-08-07
+  - 2024-01-28 be-washed-and-refreshed-by-his-word
+updated: 2026-08-06
 ---
 
 Paul invents a word to describe himself, and it is a comparative built on a superlative.

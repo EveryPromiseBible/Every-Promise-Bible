@@ -3,6 +3,7 @@ key: Numbers 23:21–24
 title: "He sees no wrong in Jacob"
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
+  - 2024-01-28 be-washed-and-refreshed-by-his-word
 updated: 2026-08-06
 ---
 

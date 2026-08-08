@@ -4,6 +4,7 @@ title: Rules set before them
 sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2023-04-16 unveiling-jesus-heart-to-serve-you
+  - 2024-01-28 be-washed-and-refreshed-by-his-word
 updated: 2026-08-06
 ---
 

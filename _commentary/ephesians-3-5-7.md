@@ -3,7 +3,8 @@ key: Ephesians 3:5–7
 title: Heirs right along with us
 sources:
   - 2024-01-07 break-the-cycle-of-misfortune
-updated: 2026-08-07
+  - 2024-01-28 be-washed-and-refreshed-by-his-word
+updated: 2026-08-06
 ---
 
 The content of the secret, and it is three words with the same prefix.

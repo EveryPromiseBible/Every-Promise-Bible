@@ -22,6 +22,7 @@ sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2024-01-14 the-year-of-living-in-the-upper-room
   - 2024-01-21 live-with-a-heavenly-perspective
+  - 2024-01-28 be-washed-and-refreshed-by-his-word
 updated: 2026-08-06
 ---
 

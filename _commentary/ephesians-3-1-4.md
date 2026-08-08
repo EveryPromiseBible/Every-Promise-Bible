@@ -3,7 +3,8 @@ key: Ephesians 3:1–4
 title: A prisoner for the nations
 sources:
   - 2024-01-07 break-the-cycle-of-misfortune
-updated: 2026-08-07
+  - 2024-01-28 be-washed-and-refreshed-by-his-word
+updated: 2026-08-06
 ---
 
 Paul starts a sentence, breaks off for thirteen verses, and comes back to it.

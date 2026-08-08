@@ -7,6 +7,7 @@ sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
   - 2023-02-05 pray-for-good-success-today
+  - 2024-01-28 be-washed-and-refreshed-by-his-word
 updated: 2026-08-06
 ---
 
