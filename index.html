@@ -4349,8 +4349,17 @@ const TOUR = [
 
   { title: 'Anything You Mark Is Kept',
     spot: '#view-mystuff .ms-wrap',
-    body: 'Highlight a verse, bookmark a section, write a note, keep a journal with a reading plan. It is all saved on your own device — <b>nothing is uploaded</b>, and you can back it up to a file from here.',
+    body: '<p>Highlight a verse, bookmark a section, write a note, keep a journal. Every one of them is gathered here, and each goes back to the exact place you made it.</p>' +
+          '<p><b>No account. Nothing to register. No connection needed.</b> There is nobody to sign in as, because it is all saved on this device and nowhere else — and you can back the whole lot up to a file from this page whenever you like.</p>',
     go: () => { sv('mystuff'); } },
+
+  { title: 'The Journal',
+    /* Walks the page in parts, so the spotlight follows the class the demo
+       moves rather than one fixed selector. */
+    spot: '.tour-focus',
+    body: '<p>A reading plan and somewhere to write. Six plans to choose from — the New Testament in a year or in ninety days, the Gospels in thirty, Paul&rsquo;s letters in sixty, a psalm a day. Start one, finish it, and try another.</p>' +
+          '<p>The calendar marks the days a reading is due and the days you wrote something. Behind the tab are <b>sermon notes</b> — title, speaker, passage and the notes themselves — kept by the day you heard it.</p>',
+    go: () => { tourJournalDemo(); } },
 
   { title: 'That Is the Tour',
     body: 'The app opens somewhere different every visit. You can run this again any time from <b>☰ &rarr; Take the tour</b>.',
@@ -4527,6 +4536,37 @@ function tourHymnDemo() {
   tourAfter(TOUR_HY_TYPE + TOUR_HY_QUERY.length * TOUR_HY_CHAR + TOUR_HY_REVEAL, () => {
     if (box) box.classList.remove('tour-tapped');
     tourFocus(document.getElementById('hyIndex'));  // the answer, in the clear
+  });
+}
+
+/* The journal step walks the three parts of the page in turn: the plan bar, the
+   calendar, and the sermon notes behind their tab.
+
+   Nothing here CHANGES anything. The plan select is pointed at and not touched
+   -- picking a plan writes the reader's own choice to storage, and a tour has
+   no business setting that. Coming back from the sermon page goes through
+   jrShowMain rather than jrCloseSermon for the same reason: close flushes the
+   fields, and this step never typed in them. */
+const TOUR_JR_PLAN = 1400, TOUR_JR_CAL = 3600, TOUR_JR_SERMON = 5800,
+      TOUR_JR_BACK = 8600;
+
+function tourJournalDemo() {
+  sv('journal');
+  if (typeof jrShowMain === 'function') jrShowMain();
+  tourFocus(document.getElementById('view-journal'));
+
+  tourAfter(TOUR_JR_PLAN, () => tourFocus(document.querySelector('.jr-planbar')));
+  tourAfter(TOUR_JR_CAL,  () => tourFocus(document.querySelector('.jr-cal')));
+
+  tourAfter(TOUR_JR_SERMON, () => {
+    const tab = document.getElementById('jrTabS');
+    if (tab) { tourMark(tab); tab.click(); tab.classList.remove('tour-tapped'); }
+    tourFocus(document.getElementById('jrSermonPage'));
+  });
+
+  tourAfter(TOUR_JR_BACK, () => {
+    if (typeof jrShowMain === 'function') jrShowMain();
+    tourFocus(document.querySelector('.jr-panel'));
   });
 }
 
