@@ -22,6 +22,7 @@ sources:
   - 2024-11-03 the-transformative-power-of-gods-word
   - 2024-12-22 when-god-stooped-down
   - 2025-02-23 live-by-faith-not-by-your-feelings
+  - 2025-08-24 the-power-of-a-cleansed-conscience
 updated: 2026-08-06
 ---
 

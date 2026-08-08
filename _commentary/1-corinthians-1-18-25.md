@@ -11,6 +11,8 @@ sources:
   - 2024-08-25 activate-your-grace-gifts
   - 2025-05-25 jesus-your-storehouse-of-wisdom
   - 2025-07-06 radiant-with-his-glory
+  - 2025-08-17 access-his-power-and-wisdom
+  - 2025-08-24 the-power-of-a-cleansed-conscience
 updated: 2026-08-06
 ---
 

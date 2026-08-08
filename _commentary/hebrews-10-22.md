@@ -6,6 +6,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2025-03-09 boldness-to-enter-the-holiest
   - 2025-07-13 freedom-from-a-guilty-conscience
+  - 2025-08-24 the-power-of-a-cleansed-conscience
 updated: 2026-08-06
 ---
 

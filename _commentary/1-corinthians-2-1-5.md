@@ -4,6 +4,7 @@ title: "In weakness, and in fear"
 sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2025-08-24 the-power-of-a-cleansed-conscience
 updated: 2026-08-06
 ---
 
