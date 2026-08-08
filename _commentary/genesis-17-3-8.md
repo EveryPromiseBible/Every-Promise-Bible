@@ -7,6 +7,7 @@ sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2021-02-21 your-provision-is-in-the-vision
   - 2023-02-26 power-to-renew-your-youth
+  - 2026-05-31 speak-by-faith-not-by-sight
 updated: 2026-08-06
 ---
 

@@ -9,6 +9,7 @@ sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2023-03-26 hear-your-way-out-of-every-weakness
   - 2024-09-15 step-out-and-possess-the-land
+  - 2026-05-24 how-to-hear-gods-voice
 updated: 2026-08-06
 ---
 

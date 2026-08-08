@@ -7,6 +7,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-02-19 much-more-restoration-is-coming
   - 2023-06-25 the-cure-to-a-dissatisfied-life
+  - 2026-05-31 speak-by-faith-not-by-sight
 updated: 2026-08-06
 ---
 

@@ -26,6 +26,7 @@ sources:
   - 2025-09-21 transformed-by-beholding-jesus
   - 2025-10-05 renew-your-strength-gods-way
   - 2025-10-19 prioritize-character-success
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 

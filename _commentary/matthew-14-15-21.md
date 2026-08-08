@@ -4,6 +4,7 @@ title: Five loaves and two fish
 sources:
   - 2025-09-07 walk-in-gods-gifts-for-you
   - 2026-01-25 reign-with-much-more
+  - 2026-05-31 speak-by-faith-not-by-sight
 updated: 2026-08-06
 ---
 

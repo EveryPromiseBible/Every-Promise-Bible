@@ -17,6 +17,7 @@ sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2025-04-06 good-happens-when-you-sense-his-love
   - 2026-01-25 reign-with-much-more
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 

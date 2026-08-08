@@ -14,6 +14,7 @@ sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2025-04-27 divine-provision-in-every-season
   - 2025-08-24 the-power-of-a-cleansed-conscience
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 

@@ -11,6 +11,7 @@ sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2024-03-17 live-led-by-the-power-of-the-spirit
   - 2024-07-28 provision-in-the-place-of-nearness
+  - 2026-05-24 how-to-hear-gods-voice
 updated: 2026-08-06
 ---
 

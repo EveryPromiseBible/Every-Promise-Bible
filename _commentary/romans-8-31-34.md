@@ -15,6 +15,7 @@ sources:
   - 2025-04-06 good-happens-when-you-sense-his-love
   - 2026-01-11 the-year-of-much-more
   - 2026-03-01 silence-the-enemys-accusations
+  - 2026-05-31 speak-by-faith-not-by-sight
 updated: 2026-08-06
 ---
 

@@ -14,6 +14,7 @@ sources:
   - 2013-12-08 understanding-grace-and-discipleship
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2025-09-21 transformed-by-beholding-jesus
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 

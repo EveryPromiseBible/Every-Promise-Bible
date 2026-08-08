@@ -14,6 +14,7 @@ sources:
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-11-23 break-the-power-of-sinful-habits
   - 2026-04-05 proof-of-your-righteousness-in-christ
+  - 2026-05-31 speak-by-faith-not-by-sight
 updated: 2026-08-06
 ---
 

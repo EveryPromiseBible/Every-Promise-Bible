@@ -3,7 +3,8 @@ key: 1 John 2:1
 title: Someone speaking for us
 sources:
   - 2025-03-30 freedom-from-failure-consciousness
-updated: 2026-08-07
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
+updated: 2026-08-06
 ---
 
 The aim is that they will not sin. The provision is for the case where they do.

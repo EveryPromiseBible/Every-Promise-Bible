@@ -30,6 +30,7 @@ sources:
   - 2025-04-20 raised-with-christ-to-reign
   - 2026-01-04 hope-that-anchors-your-soul
   - 2026-04-05 proof-of-your-righteousness-in-christ
+  - 2026-05-31 speak-by-faith-not-by-sight
 updated: 2026-08-06
 ---
 

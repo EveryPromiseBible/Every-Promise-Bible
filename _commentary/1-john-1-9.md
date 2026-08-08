@@ -3,7 +3,8 @@ key: 1 John 1:9
 title: He does the just thing
 sources:
   - 2025-03-30 freedom-from-failure-consciousness
-updated: 2026-08-07
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
+updated: 2026-08-06
 ---
 
 The surprising word in the verse is not *forgives*. It is *just*.

@@ -6,6 +6,7 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-07-18 christ-consciousness-brings-life
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 

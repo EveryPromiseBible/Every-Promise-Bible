@@ -15,6 +15,7 @@ sources:
   - 2025-03-30 freedom-from-failure-consciousness
   - 2025-07-13 freedom-from-a-guilty-conscience
   - 2025-09-14 trust-the-way-of-grace
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 

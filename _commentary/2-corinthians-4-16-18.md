@@ -17,6 +17,7 @@ sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-08-17 access-his-power-and-wisdom
+  - 2026-05-31 speak-by-faith-not-by-sight
 updated: 2026-08-06
 ---
 

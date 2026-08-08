@@ -12,6 +12,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-02-19 much-more-restoration-is-coming
   - 2024-11-17 goodness-and-grace-beyond-compare
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 

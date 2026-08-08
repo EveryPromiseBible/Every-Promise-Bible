@@ -5,6 +5,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-03-28 your-healing-is-his-priority
   - 2025-09-07 walk-in-gods-gifts-for-you
+  - 2026-05-24 how-to-hear-gods-voice
 updated: 2026-08-06
 ---
 

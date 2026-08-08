@@ -4,6 +4,7 @@ title: Eight things to think on
 sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2026-05-17 license-to-live-holy-versus-license-to-sin
 updated: 2026-08-06
 ---
 
