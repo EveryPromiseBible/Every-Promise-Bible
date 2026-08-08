@@ -4329,12 +4329,16 @@ const TOUR = [
     go: () => { sv('bible'); } },
 
   { title: 'The Promises',
-    spot: '#view-promises',
-    /* This page is short and sits at the top, so a centred card lands right on
-       the buttons the step is describing. */
-    place: 'low',
-    body: 'Over two thousand promises, each one a verse and a set of meditations written on it. A different one opens the app every day, and you can filter the whole collection by <b>how you actually feel</b> — waiting, anxious, grateful, broken — and read only what speaks to that. The heart keeps one; <b>meditate</b> opens what has been written on it, and you can add your own.',
-    go: () => { sv('promises'); } },
+    /* Three different things are pointed at over this step's run, so the
+       spotlight follows a class the demo moves rather than a fixed selector,
+       and the card rides under whichever one is current. */
+    spot: '.tour-focus',
+    /* Only follows the two PANELS, not the tab: riding up to a button in the
+       corner and back down again is three jumps for one step. While the tab is
+       the thing being pressed the card stays where it was. */
+    below: 'section.view.tour-focus',
+    body: 'Over two thousand promises, each one a verse with <b>fifteen meditations</b> written on it — more than thirty thousand in all. A different verse opens the app every day, and you can filter the whole collection by <b>how you actually feel</b> — waiting, anxious, grateful, broken — and read only what speaks to that. The heart keeps one; <b>meditate</b> opens what has been written on it, and you can add your own.',
+    go: () => { tourPromisesDemo(); } },
 
   { title: 'The Hymnal',
     spot: '#hyIndex',
@@ -4429,6 +4433,10 @@ const TOUR_TAP_MARK = 1000, TOUR_TAP_OPEN = 3500,
    only version of this that stays put. */
 let tourWordTop = null;
 
+/* Which step owns the marks currently on screen. */
+let tourMarkStep = -1;
+function tourMark(el) { if (el) { el.classList.add('tour-tapped'); tourMarkStep = tourAt; } }
+
 function tourWordHold(smooth) {
   const w = document.querySelector('.tour-tapped');
   if (!w) return;
@@ -4439,6 +4447,53 @@ function tourWordHold(smooth) {
     tourWordTop = Math.max(0, scrollY + w.getBoundingClientRect().top - innerHeight * 0.84);
   }
   window.scrollTo({ top: tourWordTop, behavior: smooth ? 'smooth' : 'auto' });
+}
+
+/* The promises step, walked the same way the word step is: the tab is picked
+   out and pressed, the verse comes up, meditate is pressed, and the meditations
+   are paged through. The spotlight follows by class rather than by a fixed
+   selector -- the step points at three different things over its run, and
+   `spot: '.tour-focus'` simply resolves to whichever one is current. */
+const TOUR_PR_MARK = 1000, TOUR_PR_TAB = 2600, TOUR_PR_MEDMARK = 4600,
+      TOUR_PR_MED = 6200, TOUR_PR_STEP1 = 8000, TOUR_PR_STEP2 = 9600,
+      TOUR_PR_STEP3 = 11200;
+
+function tourFocus(el) {
+  document.querySelectorAll('.tour-focus').forEach(e => e.classList.remove('tour-focus'));
+  if (el) { el.classList.add('tour-focus'); tourMarkStep = tourAt; }
+}
+
+function tourPromisesDemo() {
+  /* Start off the page, so pressing the tab is something that happens rather
+     than something that already has. */
+  sv('bible');
+  const tab = [...document.querySelectorAll('[data-v="promises"]')]
+                .find(e => e.offsetParent !== null);
+  tourFocus(tab);
+
+  tourAfter(TOUR_PR_MARK, () => { if (tab) tourMark(tab); });
+
+  tourAfter(TOUR_PR_TAB, () => {
+    if (tab) { tab.click(); tab.classList.remove('tour-tapped'); }
+    else sv('promises');
+    tourFocus(document.getElementById('view-promises'));
+  });
+
+  tourAfter(TOUR_PR_MEDMARK, () => {
+    const b = document.querySelector('#view-promises .abtn.primary');
+    if (b) tourMark(b);
+  });
+
+  tourAfter(TOUR_PR_MED, () => {
+    const b = document.querySelector('#view-promises .abtn.primary');
+    if (b) { b.click(); b.classList.remove('tour-tapped'); } else openMeditate();
+    tourFocus(document.getElementById('view-meditate'));
+  });
+
+  /* Three of them, so the reader sees it is a set being paged through and not
+     a single line under the verse. */
+  [TOUR_PR_STEP1, TOUR_PR_STEP2, TOUR_PR_STEP3].forEach(t =>
+    tourAfter(t, () => { const n = document.getElementById('medNext'); if (n) n.click(); }));
 }
 
 function tourWordDemo() {
@@ -4460,7 +4515,7 @@ function tourWordDemo() {
     const units = [...document.querySelectorAll('#sectionsContainer .unit.clickable')];
     if (!units.length) return;
     const pick = units.find(u => /χάρι/.test(u.dataset.wordKey || '')) || units[0];
-    pick.classList.add('tour-tapped');
+    tourMark(pick);
     tourWordHold(true);
   });
 
@@ -4506,9 +4561,13 @@ function tourLift(n) {
    that describes what the words look like is not much use with the words
    blurred out. */
 function tourSpot(sel, show) {
-  /* Only the step that tapped a word keeps its mark on that word. */
-  if (!TOUR[tourAt] || TOUR[tourAt].spot !== '.def-card')
+  /* A mark belongs to the step that made it and is cleared the moment the tour
+     moves on -- tracked by which step made it rather than by naming the steps
+     that use marks, so a step added later needs no change here. */
+  if (tourMarkStep !== tourAt) {
     document.querySelectorAll('.tour-tapped').forEach(e => e.classList.remove('tour-tapped'));
+    document.querySelectorAll('.tour-focus').forEach(e => e.classList.remove('tour-focus'));
+  }
   document.querySelectorAll('.tour-spot').forEach(e => e.classList.remove('tour-spot'));
   document.querySelectorAll('.tour-lift').forEach(e =>
     e.classList.remove('tour-lift', 'tour-lift-rel'));
@@ -4615,7 +4674,9 @@ function tourEnd() {
   document.getElementById('tourBackdrop').classList.remove('on');
   const ov = document.getElementById('defOverlay');
   if (ov) ov.classList.remove('open', 'tour-shift');
-  document.querySelectorAll('.tour-tapped').forEach(e => e.classList.remove('tour-tapped'));
+  document.querySelectorAll('.tour-tapped, .tour-focus')
+    .forEach(e => e.classList.remove('tour-tapped', 'tour-focus'));
+  tourMarkStep = -1;
   tourAt = -1;                                  // so tourSpot clears everything
   tourSpot(null);
   try { localStorage.setItem(TOUR_SEEN, '1'); } catch (e) {}
