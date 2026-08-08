@@ -8,6 +8,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2023-04-23 be-healed-by-the-washing-of-the-word
   - 2023-08-27 speak-your-way-to-a-long-happy-life
+  - 2024-03-17 live-led-by-the-power-of-the-spirit
 updated: 2026-08-06
 ---
 

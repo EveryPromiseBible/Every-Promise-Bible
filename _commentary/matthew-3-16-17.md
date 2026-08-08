@@ -9,6 +9,7 @@ sources:
   - 2021-08-15 the-significance-of-this-generation
   - 2013-12-08 understanding-grace-and-discipleship
   - 2023-01-08 the-kairos-year-of-right-time-right-place
+  - 2024-03-17 live-led-by-the-power-of-the-spirit
 updated: 2026-08-06
 ---
 

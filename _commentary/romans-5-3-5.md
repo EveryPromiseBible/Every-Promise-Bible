@@ -5,6 +5,7 @@ sources:
   - 2019-08-25 win-the-battle-over-hopelessness
   - 2021-04-11 all-things-work-for-your-good
   - 2021-11-28 faith-to-possess-the-land
+  - 2024-03-17 live-led-by-the-power-of-the-spirit
 updated: 2026-08-06
 ---
 

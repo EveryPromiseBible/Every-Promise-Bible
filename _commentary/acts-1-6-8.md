@@ -3,7 +3,8 @@ key: Acts 1:6–8
 title: Not the timetable, the assignment
 sources:
   - 2021-10-24 baptism-of-the-holy-spirit
-updated: 2026-08-07
+  - 2024-03-17 live-led-by-the-power-of-the-spirit
+updated: 2026-08-06
 ---
 
 They ask about a date and are handed a map.
