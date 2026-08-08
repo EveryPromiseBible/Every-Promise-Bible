@@ -17,6 +17,7 @@ sources:
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
   - 2024-04-14 follow-the-anointing-within
+  - 2026-03-01 silence-the-enemys-accusations
 updated: 2026-08-06
 ---
 
