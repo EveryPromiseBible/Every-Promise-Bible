@@ -15,6 +15,7 @@ sources:
   - 2024-01-07 break-the-cycle-of-misfortune
   - 2024-09-15 step-out-and-possess-the-land
   - 2024-11-24 stay-near-the-scent-of-water
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
 updated: 2026-08-06
 ---
 

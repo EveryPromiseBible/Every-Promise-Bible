@@ -15,6 +15,7 @@ sources:
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2025-04-20 raised-with-christ-to-reign
   - 2025-09-07 walk-in-gods-gifts-for-you
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

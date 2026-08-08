@@ -13,6 +13,7 @@ sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-11-23 break-the-power-of-sinful-habits
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

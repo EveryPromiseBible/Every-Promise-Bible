@@ -31,6 +31,7 @@ sources:
   - 2025-04-20 raised-with-christ-to-reign
   - 2025-07-06 radiant-with-his-glory
   - 2026-01-18 pray-for-the-much-more
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
 updated: 2026-08-06
 ---
 

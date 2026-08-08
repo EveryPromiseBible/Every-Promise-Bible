@@ -15,6 +15,7 @@ sources:
   - 2023-12-24 make-room-for-christ
   - 2024-11-17 goodness-and-grace-beyond-compare
   - 2025-06-22 no-more-fear-of-death
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

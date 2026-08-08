@@ -6,6 +6,7 @@ sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2021-07-25 speak-life-not-death
   - 2022-12-25 indisputable-proof-that-god-is-for-you
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

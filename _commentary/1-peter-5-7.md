@@ -3,7 +3,8 @@ key: 1 Peter 5:7
 title: You are on His mind
 sources:
   - 2025-05-11 speak-it-by-faith-before-you-see-it
-updated: 2026-08-07
+  - 2026-04-05 proof-of-your-righteousness-in-christ
+updated: 2026-08-06
 ---
 
 Not a separate instruction. In the Greek it is the tail end of the sentence before it.

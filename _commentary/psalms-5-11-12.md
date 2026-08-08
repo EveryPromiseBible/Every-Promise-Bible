@@ -3,7 +3,8 @@ key: Psalms 5:11–12
 title: Surrounded like a shield
 sources:
   - 2025-09-07 walk-in-gods-gifts-for-you
-updated: 2026-08-07
+  - 2026-04-05 proof-of-your-righteousness-in-christ
+updated: 2026-08-06
 ---
 
 The last image in the psalm is a shield that has been enlarged until it goes all the way round.

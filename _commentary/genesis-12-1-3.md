@@ -7,6 +7,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-06-11 blessed-with-father-abrahams-blessings
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
 updated: 2026-08-06
 ---
 

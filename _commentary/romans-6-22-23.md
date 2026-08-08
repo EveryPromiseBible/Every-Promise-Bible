@@ -20,6 +20,7 @@ sources:
   - 2025-02-16 count-on-your-forgiveness
   - 2025-04-20 raised-with-christ-to-reign
   - 2026-02-08 superabounding-grace-for-unresolved-guilt
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2021-01-17 learn-how-to-receive-visions
   - 2024-01-14 the-year-of-living-in-the-upper-room
   - 2024-03-03 fresh-truths-for-parenting-today
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
 updated: 2026-08-06
 ---
 

@@ -12,6 +12,7 @@ sources:
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2023-06-25 the-cure-to-a-dissatisfied-life
   - 2024-03-31 death-has-been-defeated
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

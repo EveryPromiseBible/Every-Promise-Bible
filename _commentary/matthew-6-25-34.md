@@ -29,6 +29,7 @@ sources:
   - 2024-10-13 the-key-to-prospering-in-all-things
   - 2025-04-20 raised-with-christ-to-reign
   - 2026-01-04 hope-that-anchors-your-soul
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

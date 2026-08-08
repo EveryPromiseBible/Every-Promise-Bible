@@ -7,6 +7,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-06 prosper-gods-way-during-recession
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2019-04-21 the-best-news-youll-ever-hear
   - 2022-12-13 prosperity-with-a-purpose
   - 2025-02-16 count-on-your-forgiveness
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

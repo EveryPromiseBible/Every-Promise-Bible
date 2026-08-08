@@ -3,7 +3,8 @@ key: Genesis 33:8–11
 title: "I have all I need"
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
-updated: 2026-08-07
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
+updated: 2026-08-06
 ---
 
 Two brothers meet after twenty years, and the argument is about a gift.

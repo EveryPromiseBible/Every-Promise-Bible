@@ -10,6 +10,7 @@ sources:
   - 2024-04-14 follow-the-anointing-within
   - 2024-09-22 claim-what-is-yours
   - 2025-05-25 jesus-your-storehouse-of-wisdom
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
 updated: 2026-08-06
 ---
 

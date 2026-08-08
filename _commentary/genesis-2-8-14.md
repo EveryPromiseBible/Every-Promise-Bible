@@ -3,7 +3,8 @@ key: Genesis 2:8–14
 title: The garden of Eden
 sources:
   - 2022-11-06 prosper-gods-way-during-recession
-updated: 2026-08-07
+  - 2026-04-05 proof-of-your-righteousness-in-christ
+updated: 2026-08-06
 ---
 
 A garden planted for one man, and the text gives the map.

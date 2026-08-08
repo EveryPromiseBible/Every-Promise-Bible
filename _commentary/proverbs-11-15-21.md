@@ -3,7 +3,8 @@ key: Proverbs 11:15–21
 title: Kindness done to your own soul
 sources:
   - 2022-12-13 prosperity-with-a-purpose
-updated: 2026-08-07
+  - 2026-04-05 proof-of-your-righteousness-in-christ
+updated: 2026-08-06
 ---
 
 Seven proverbs, and most of them are about what an action does to the person doing it.

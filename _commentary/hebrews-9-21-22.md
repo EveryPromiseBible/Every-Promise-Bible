@@ -4,6 +4,7 @@ title: Nearly everything
 sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2018-11-11 true-prosperity-in-every-area
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
 updated: 2026-08-06
 ---
 

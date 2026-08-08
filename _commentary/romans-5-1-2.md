@@ -15,6 +15,7 @@ sources:
   - 2021-11-07 win-the-battle-over-bitterness
   - 2024-05-12 busy-outside-restful-inside
   - 2025-07-13 freedom-from-a-guilty-conscience
+  - 2026-04-05 proof-of-your-righteousness-in-christ
 updated: 2026-08-06
 ---
 
