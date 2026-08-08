@@ -13,6 +13,7 @@ sources:
   - 2021-08-15 the-significance-of-this-generation
   - 2021-08-22 greater-shalom-and-security
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

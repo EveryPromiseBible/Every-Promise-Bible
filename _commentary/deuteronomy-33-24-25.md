@@ -9,6 +9,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2023-07-23 your-best-days-are-ahead
   - 2023-08-13 keys-to-a-spirit-filled-life
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

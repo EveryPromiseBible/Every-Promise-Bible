@@ -14,6 +14,7 @@ sources:
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2023-07-23 your-best-days-are-ahead
   - 2024-01-14 the-year-of-living-in-the-upper-room
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

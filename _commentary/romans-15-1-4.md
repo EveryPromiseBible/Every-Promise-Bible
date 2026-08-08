@@ -7,6 +7,7 @@ sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

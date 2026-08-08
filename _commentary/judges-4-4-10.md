@@ -4,6 +4,7 @@ title: Deborah, Barak, and the honour that went elsewhere
 sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-09-23 the-key-to-robust-faith
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

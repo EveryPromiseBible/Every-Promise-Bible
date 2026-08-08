@@ -6,6 +6,7 @@ sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2024-04-07 the-language-of-the-holy-spirit
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

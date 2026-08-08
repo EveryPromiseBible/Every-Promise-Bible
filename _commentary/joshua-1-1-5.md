@@ -7,6 +7,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

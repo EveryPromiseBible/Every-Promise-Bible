@@ -3,6 +3,7 @@ key: Matthew 9:27–31
 title: "According to your faith" — and what the question was
 sources:
   - 2018-09-23 the-key-to-robust-faith
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

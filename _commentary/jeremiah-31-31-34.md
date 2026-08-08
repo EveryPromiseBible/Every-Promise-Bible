@@ -3,7 +3,8 @@ key: Jeremiah 31:31–34
 title: A new covenant
 sources:
   - 2024-05-19 believe-right-and-live-right
-updated: 2026-08-07
+  - 2024-09-15 step-out-and-possess-the-land
+updated: 2026-08-06
 ---
 
 The longest Old Testament passage quoted in the New Testament, and it is four verses long.

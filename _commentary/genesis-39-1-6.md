@@ -13,6 +13,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2023-07-16 redefine-success-gods-way
   - 2024-01-07 break-the-cycle-of-misfortune
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

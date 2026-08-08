@@ -4,6 +4,7 @@ title: Everything already handed over
 sources:
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
   - 2024-09-01 answers-for-lifes-demands
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 

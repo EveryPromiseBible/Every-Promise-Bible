@@ -10,6 +10,7 @@ sources:
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2023-12-24 make-room-for-christ
+  - 2024-09-15 step-out-and-possess-the-land
 updated: 2026-08-06
 ---
 
