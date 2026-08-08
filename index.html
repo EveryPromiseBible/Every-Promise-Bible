@@ -4470,6 +4470,11 @@ function tourWordDemo() {
     if (ov) ov.classList.add('tour-shift');        // out from under the card
   });
 
+  /* The entry rises in from 16px above, so measuring it the instant it opens
+     places the card 16px too high -- against the ring rather than clear of it.
+     Measured again once the animation has settled. */
+  tourAfter(TOUR_TAP_OPEN + 520, () => tourPlaceBelow('.def-card'));
+
   tourAfter(TOUR_TAP_FOLD,  () => tourOpenSource(/strong/i));
   tourAfter(TOUR_TAP_FOLD2, () => tourOpenSource(/thayer/i));
 }
@@ -4523,13 +4528,21 @@ function tourSpot(sel, show) {
    Clamped so the card can never be pushed off the bottom -- if the entry is
    long enough to leave no room, the card takes the room it needs and the entry
    scrolls, which is the way round that keeps the buttons reachable. */
+/* Kept next to the .tour-spot rule they describe: outline-offset 5 + outline 3.
+   If that ring ever changes width, this changes with it. */
+const TOUR_RING = 8, TOUR_GAP = 16;
+
 function tourPlaceBelow(sel) {
   const card = document.getElementById('tour');
   const target = document.querySelector(sel);
   if (!target) { card.style.top = ''; return; }
   const t = target.getBoundingClientRect();
   const h = card.getBoundingClientRect().height;
-  const want = t.bottom + 14;
+  /* The spotlight is an outline sitting 5px clear of the box with a 3px line,
+     so what the reader sees ends 8px BELOW the rect -- measuring to the rect
+     alone put the card's top edge on the ring and the two read as one
+     overlapping thing. Clear the ring, then leave a real gap. */
+  const want = t.bottom + TOUR_RING + TOUR_GAP;
   card.style.top = Math.max(12, Math.min(want, window.innerHeight - h - 14)) + 'px';
 }
 
