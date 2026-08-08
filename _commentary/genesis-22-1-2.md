@@ -8,6 +8,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-09-01 answers-for-lifes-demands
+  - 2025-09-14 trust-the-way-of-grace
 updated: 2026-08-06
 ---
 

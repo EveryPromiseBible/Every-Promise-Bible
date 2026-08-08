@@ -9,6 +9,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-10-31 where-is-holiness-in-grace
+  - 2025-09-14 trust-the-way-of-grace
 updated: 2026-08-06
 ---
 

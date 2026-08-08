@@ -28,6 +28,7 @@ sources:
   - 2024-11-03 the-transformative-power-of-gods-word
   - 2025-03-09 boldness-to-enter-the-holiest
   - 2025-08-24 the-power-of-a-cleansed-conscience
+  - 2025-09-14 trust-the-way-of-grace
 updated: 2026-08-06
 ---
 

@@ -9,6 +9,7 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2021-02-21 your-provision-is-in-the-vision
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2025-09-14 trust-the-way-of-grace
 updated: 2026-08-06
 ---
 

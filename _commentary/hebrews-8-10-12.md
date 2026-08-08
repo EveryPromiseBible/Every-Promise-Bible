@@ -19,6 +19,7 @@ sources:
   - 2025-03-30 freedom-from-failure-consciousness
   - 2025-04-20 raised-with-christ-to-reign
   - 2025-07-06 radiant-with-his-glory
+  - 2025-09-14 trust-the-way-of-grace
 updated: 2026-08-06
 ---
 

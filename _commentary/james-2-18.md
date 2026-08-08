@@ -3,7 +3,8 @@ key: James 2:18
 title: Go on, then — show me
 sources:
   - 2025-09-07 walk-in-gods-gifts-for-you
-updated: 2026-08-07
+  - 2025-09-14 trust-the-way-of-grace
+updated: 2026-08-06
 ---
 
 A challenge is issued, and the answer takes it: one of the two is invisible, and it is not works.

@@ -7,6 +7,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2024-02-18 how-to-be-led-by-the-lord
   - 2025-09-07 walk-in-gods-gifts-for-you
+  - 2025-09-14 trust-the-way-of-grace
 updated: 2026-08-06
 ---
 

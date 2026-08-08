@@ -3,7 +3,8 @@ key: Isaiah 64:6–7
 title: Filthy rags
 sources:
   - 2021-10-03 leadership-keys
-updated: 2026-08-07
+  - 2025-09-14 trust-the-way-of-grace
+updated: 2026-08-06
 ---
 
 Two verses of the bleakest self-assessment in the Old Testament, and they are a prayer.

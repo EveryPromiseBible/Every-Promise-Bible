@@ -21,6 +21,7 @@ sources:
   - 2024-08-25 activate-your-grace-gifts
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-09-07 walk-in-gods-gifts-for-you
+  - 2025-09-14 trust-the-way-of-grace
 updated: 2026-08-06
 ---
 

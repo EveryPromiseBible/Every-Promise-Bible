@@ -3,7 +3,8 @@ key: Genesis 22:9–10
 title: He took the knife
 sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
-updated: 2026-08-07
+  - 2025-09-14 trust-the-way-of-grace
+updated: 2026-08-06
 ---
 
 Two verses, six verbs, and no speech at all.
