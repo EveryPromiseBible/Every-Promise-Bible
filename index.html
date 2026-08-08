@@ -515,9 +515,22 @@
        with the Next button somewhere below the fold. */
     max-height:calc(100vh - 24px);overflow-y:auto;}
   .tour.on{display:block;}
+  /* Each step carries the colour of the thing it is pointing at -- the same
+     swatch that card wears in the library. Where the app assigns no colour
+     (search, promises, the hymnal) it stays the house blue rather than have a
+     colour invented for it: the tint means "this is that one", not "decorate
+     me". Set per step by tourPaint. */
+  .tour{--tint:var(--sword);}
   .tour-step{font-family:var(--mono);font-size:0.66em;letter-spacing:0.1em;
-    text-transform:uppercase;color:var(--gray);}
-  .tour-title{font-size:1.18em;font-weight:700;margin:5px 0 7px;color:var(--ink);}
+    text-transform:uppercase;color:var(--gray);display:flex;align-items:center;gap:7px;}
+  .tour-step::before{content:"";width:7px;height:7px;border-radius:50%;
+    background:var(--tint);flex:none;}
+  .tour-title{font-size:1.18em;font-weight:700;margin:5px 0 0;color:var(--ink);}
+  /* The rule the opening card has, kept short and left-aligned on the working
+     cards, so every step is set the same way rather than one being designed
+     and twelve being typed. */
+  .tour-title::after{content:"";display:block;width:38px;height:2px;
+    background:var(--tint);opacity:0.75;margin:9px 0 11px;border-radius:2px;}
   .tour-body{font-size:0.94em;line-height:1.5;color:var(--ink);margin:0;}
   .tour-body b{font-weight:700;}
   .tour-body p{margin:0 0 11px;}
@@ -537,12 +550,12 @@
   .tour.intro .tour-crest img{width:40px;height:40px;object-fit:contain;display:block;
     padding:11px;box-sizing:content-box;border-radius:50%;
     background:var(--sword-soft);border:1px solid var(--line);}
-  .tour.intro .tour-step,.tour.intro .tour-title{text-align:center;}
-  .tour.intro .tour-title{font-size:1.5em;letter-spacing:0.01em;margin:7px 0 0;}
-  /* A short rule under the name, the width of a few words, so the title reads
-     as a masthead rather than as a heading that ran out. */
-  .tour.intro .tour-title::after{content:"";display:block;width:64px;height:2px;
-    background:var(--sword);opacity:0.5;margin:13px auto 17px;border-radius:2px;}
+  .tour.intro .tour-step{justify-content:center;}
+  .tour.intro .tour-step::before{display:none;}   /* the crest is the mark here */
+  .tour.intro .tour-title{font-size:1.5em;letter-spacing:0.01em;margin:7px 0 0;text-align:center;}
+  /* Wider and centred on the opening card, so the title reads as a masthead
+     rather than as a heading that ran out. */
+  .tour.intro .tour-title::after{width:64px;opacity:0.5;margin:13px auto 17px;}
   .tour.intro .tour-body{font-size:0.95em;line-height:1.62;}
   /* The two names are about to become two coloured cards in the library. Tying
      them to those colours here means the reader recognises them on sight when
@@ -555,6 +568,13 @@
      hands the reader to the Next button instead of stopping dead. */
   .tour-lead{text-align:center;font-style:italic;color:var(--gray);
     margin:16px 0 0;padding-top:14px;border-top:1px solid var(--line);}
+
+  /* One step opens the dictionary popup, and that popup is centred on the
+     screen -- exactly where this card sits. So the card drops to the bottom and
+     the popup is pushed to the top, and the reader can see both at once. */
+  .tour.low{top:auto;bottom:14px;transform:translateX(-50%);max-height:44vh;}
+  .overlay.tour-shift{align-items:flex-start;padding-top:18px;}
+  .overlay.tour-shift .def-card{max-height:48vh;}
   .tour-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:15px;}
   .tour-dots{display:flex;gap:5px;flex:1 1 auto;justify-content:center;}
   .tour-dots i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block;}
@@ -4168,11 +4188,13 @@ const TOUR = [
       if (!lib.classList.contains('open')) toggleLibrary(); } },
 
   { title: 'tx.01 — the Mak Translation',
+    tint: 'var(--orange)',
     spot: '#txcard-mak',
     body: 'The word-for-word New Testament. Each word is a small stack: the English, the Greek word it came from, and that word&rsquo;s Strong&rsquo;s number with its grammar. Words in italic were added for English and have no Greek behind them, so you can always see what came from the text and what did not.',
     go: () => { switchTranslation('mak'); loadChapter(0, true); } },
 
   { title: 'Study and read',
+    tint: 'var(--orange)',
     spot: '.mode-toggle',
     /* This step is about how the words themselves look. Blurring them out
        while describing them defeats the step. */
@@ -4180,12 +4202,21 @@ const TOUR = [
     body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through.',
     go: () => { if (currentTx !== 'mak') switchTranslation('mak'); if (readMode) toggleMode(); } },
 
+  { title: 'Tap a word',
+    tint: 'var(--orange)',
+    spot: '.def-card',
+    place: 'low',
+    body: 'Here is what a word opens. <b>Charis</b> — grace — as the dictionaries have it: Strong&rsquo;s, Thayer&rsquo;s and Abbott&ndash;Smith, each on its own, with where the word comes from, how the King James renders it, and where else it turns up. Any word in Mak does this.',
+    go: () => { tourWordDemo(); } },
+
   { title: 'tx.02 — the Illumination',
+    tint: 'var(--yellow)',
     spot: '#txcard-illum',
     body: 'The whole Bible, all 66 books, retold thought by thought. Every chapter has a title, every section a heading, and each book opens with a synopsis of its own — so you can find your way by subject rather than by verse number.',
     go: () => { switchTranslation('illum'); loadIllum(navIndexForRef('illum', 'John 15')); } },
 
   { title: 'The Grace Commentary 💡',
+    tint: 'var(--yellow)',
     spot: '.cmt-panel.open',
     body: 'Verse blocks in the Illumination carry a bulb. Tap it and a note opens on that passage — the Hebrew or Greek behind it, and where the same thing turns up elsewhere in Scripture. There are over 1,900 of them.',
     go: () => {
@@ -4198,16 +4229,19 @@ const TOUR = [
     } },
 
   { title: 'tx.03 — the King James Version',
+    tint: '#1a6fa8',
     spot: '#txcard-kjv',
     body: 'The Authorized Version of 1769, unedited. It is here so the older wording is always one tap away — and so the Illumination can be read against the text it was made from.',
     go: () => { switchTranslation('kjv'); } },
 
   { title: 'dv.01 — The Thirteenth Disciple',
+    tint: '#7a5c2e',
     spot: '#txcard-dev',
     body: 'A devotional that walks through the Gospels as if you were there — told by a disciple who is never named. Each day gathers the accounts of one event from all four Gospels into a single telling.',
     go: () => { switchTranslation('dev'); } },
 
   { title: 'Your own books',
+    tint: '#1a8c6f',
     spot: '#libBooksGroup',
     body: 'Under the translations there is a shelf of your own. Add any book you have as an <b>EPUB</b> and it opens here like the rest — and you can highlight and bookmark and make notes inside it exactly the way you do in the Bible. The file stays on your device; nothing is uploaded.',
     go: () => { sv('bible');
@@ -4218,6 +4252,19 @@ const TOUR = [
     spot: '#searchBtn',
     body: 'One search covers all three translations, the devotional and the hymnal. Every result says which source it came from, and following one takes you straight to that verse.',
     go: () => { sv('bible'); } },
+
+  { title: 'The promises',
+    spot: '#view-promises',
+    /* This page is short and sits at the top, so a centred card lands right on
+       the buttons the step is describing. */
+    place: 'low',
+    body: 'Over two thousand promises, each one a verse and a set of meditations written on it. A different one opens the app every day, and you can filter the whole collection by <b>how you actually feel</b> — waiting, anxious, grateful, broken — and read only what speaks to that. The heart keeps one; <b>meditate</b> opens what has been written on it, and you can add your own.',
+    go: () => { sv('promises'); } },
+
+  { title: 'The hymnal',
+    spot: '#hyIndex',
+    body: 'Thirteen hundred hymns and twenty-five thousand lines, from <i>The Christian Hymn Book</i> of 1870 — whole texts, not the two or three verses that usually survive. Listed by first line, the way a hymnal is, and searchable by line, author or theme. It is public domain, so all of it is here rather than a selection.',
+    go: () => { sv('hymns'); if (typeof hyBack === 'function') hyBack(); } },
 
   { title: 'Anything you mark is kept',
     spot: '#view-mystuff .ms-wrap',
@@ -4264,6 +4311,34 @@ function tourTraps(el) {
   return out;
 }
 
+/* The step that shows what a word opens. It does the whole thing for real --
+   finds an actual word in an actual chapter, opens the popup the same way a tap
+   would, and opens the first dictionary inside it, because a popup with three
+   closed folds does not show anybody what a definition looks like.
+
+   charis is the word chosen: it is in John 1, it is the word the whole
+   translation is built around, and every source has a full entry for it. If it
+   cannot be found the step falls back to the first word on the page rather than
+   opening an empty popup. */
+function tourWordDemo() {
+  if (currentTx !== 'mak') switchTranslation('mak');
+  if (readMode) toggleMode();
+  const at = (typeof makIndexForRef === 'function') ? makIndexForRef('John 1') : -1;
+  if (at >= 0) loadChapter(at, true);
+  setTimeout(() => {
+    const units = [...document.querySelectorAll('#sectionsContainer .unit.clickable')];
+    if (!units.length) return;
+    const pick = units.find(u => /χάρι/.test(u.dataset.wordKey || '')) || units[0];
+    pick.click();                                  // the reader's own gesture
+    /* Open the first source, and let the popup sit where it can be seen next
+       to the tour card rather than underneath it. */
+    const ov = document.getElementById('defOverlay');
+    if (ov) ov.classList.add('tour-shift');
+    const first = document.querySelector('#defCard details.def-fold');
+    if (first) first.open = true;
+  }, 260);
+}
+
 function tourLift(n) {
   n.classList.add('tour-lift');
   /* A statically positioned element needs a position before z-index means
@@ -4291,8 +4366,19 @@ function tourSpot(sel, show) {
   tourTraps(el).forEach(tourLift);
 }
 
+/* The dictionary popup belongs to one step. Leaving it open behind the next
+   one, or leaving the shift on the overlay for the next thing that uses it,
+   are both the kind of mess a reader notices and nobody can explain. */
+function tourClearModal() {
+  const ov = document.getElementById('defOverlay');
+  if (!ov) return;
+  ov.classList.remove('tour-shift');
+  if (TOUR[tourAt] && TOUR[tourAt].place !== 'low') ov.classList.remove('open');
+}
+
 function tourPaint() {
   const s = TOUR[tourAt];
+  tourClearModal();
   tourSpot(s.spot, s.show);
   setTimeout(() => { if (TOUR[tourAt] === s) tourSpot(s.spot, s.show); }, 600);
   document.getElementById('tourStep').textContent = 'Step ' + (tourAt + 1) + ' of ' + TOUR.length;
@@ -4304,6 +4390,8 @@ function tourPaint() {
   const card = document.getElementById('tour');
   const crest = document.getElementById('tourCrest');
   card.classList.toggle('intro', tourAt === 0);
+  card.classList.toggle('low', s.place === 'low');
+  card.style.setProperty('--tint', s.tint || 'var(--sword)');
   if (tourAt === 0 && !crest.firstChild) {
     const logo = document.querySelector('.logo-circle img');
     if (logo) {
@@ -4335,6 +4423,8 @@ function tourNext() {
 function tourEnd() {
   document.getElementById('tour').classList.remove('on');
   document.getElementById('tourBackdrop').classList.remove('on');
+  const ov = document.getElementById('defOverlay');
+  if (ov) ov.classList.remove('open', 'tour-shift');
   tourSpot(null);
   try { localStorage.setItem(TOUR_SEEN, '1'); } catch (e) {}
 }
