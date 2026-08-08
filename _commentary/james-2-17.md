@@ -1,6 +1,7 @@
 ---
 key: James 2:17
 title: Does James contradict Paul?
+updated: 2026-08-07
 ---
 
 This is the verse people set against Paul. Paul says a person is put right with God through faith and not by works. James says faith without works is dead. Here are seven reasons they are not fighting each other.

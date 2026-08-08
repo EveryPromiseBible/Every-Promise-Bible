@@ -228,6 +228,14 @@
   body.read-mode #view-bible .grk, body.read-mode #view-bible .tag{display:none;}
   body.read-mode #view-bible .word-row{display:block;line-height:1.75;}
   body.read-mode #view-bible .unit{display:inline;margin:0 0.25em 0 0;padding:0;border-radius:0;}
+  /* The units are emitted back-to-back with no whitespace between them -- in
+     study mode they are flex items, so the gap is the margin and nothing needs
+     to wrap. Going inline for read mode, that margin still draws the space but
+     gives the line no place to break: a run of single-word units becomes one
+     unbreakable string, and the prose ran off the right edge on a phone. A
+     zero-width space is a break opportunity that paints nothing, so the
+     spacing stays exactly as the margin sets it. */
+  body.read-mode #view-bible .unit::after{content:"\200B";}
   body.read-mode #view-bible .eng{color:var(--ink)!important;font-weight:400;font-size:1.02em;white-space:normal;}
   body.read-mode #view-bible .unit.clickable{cursor:default;}
   body.read-mode #view-bible .unit.clickable:hover{background:none;}
@@ -604,7 +612,12 @@
     main{margin:12px 12px 104px;padding:20px 18px 26px;}
     .ms-wrap,.hy-wrap,.jr-wrap,.opt-wrap{margin:12px 12px 104px;padding:20px 18px 26px;}
     #verseText{font-size:1.7em;}
-    .bible-layout{flex-direction:column;gap:12px;padding:12px 12px 104px;}
+    /* Stacking flips the cross axis to horizontal, so the align-items:flex-start
+       set for the side-by-side layout stops meaning "top" and starts meaning
+       "shrink to your own content width". The chapter column then sized itself
+       to its widest line -- about twice the phone viewport -- and Mak read mode
+       ran off the right edge. Stretch is what the stacked layout wants. */
+    .bible-layout{flex-direction:column;align-items:stretch;gap:12px;padding:12px 12px 104px;}
     .bible-main{padding:20px 18px 26px;}
     /* The panel is the last child of .bible-layout, so once the layout stacks
        it lands below the whole chapter -- thousands of words down. Ordering it
@@ -3067,6 +3080,13 @@ function switchTranslation(tx) {
       loadIllum(first >= 0 ? first : 0);
     }
   } else {
+    /* Mak is the only translation with Greek alignment, and that alignment is
+       the reason to open it. Arriving from any other source leaves read mode
+       switched on -- forced there, since nothing else has anything to align --
+       which lands the reader in the one view that hides what they came for.
+       Study is this translation's home state, so it is set rather than
+       inherited. */
+    if (readMode) toggleMode();
     populateSelect();
     const at = makIndexForRef(lastRef);
     if (at >= 0) {
