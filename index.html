@@ -473,6 +473,39 @@
   .sw-toast button:hover{background:var(--paper);}
   .sw-toast .sw-toast-x{background:none;color:var(--white);opacity:0.7;padding:6px 8px;font-size:1.15em;}
   .sw-toast .sw-toast-x:hover{background:rgba(255,255,255,0.15);opacity:1;}
+
+  /* ---- the tour ----
+     Deliberately NOT an overlay. Each step moves the app underneath -- opens a
+     translation, lights a commentary bulb, flips study mode -- and a scrim over
+     the top would hide the one thing the step is trying to show. So the card
+     sits at the bottom edge and leaves the whole page visible behind it. */
+  .tour{display:none;position:fixed;left:50%;transform:translateX(-50%);bottom:20px;
+    z-index:150;width:min(460px, calc(100vw - 28px));background:var(--sheet);
+    border:1px solid var(--line);border-radius:16px;box-shadow:0 18px 48px rgba(0,0,0,0.28);
+    padding:18px 20px 14px;font-family:var(--sans);}
+  .tour.on{display:block;}
+  .tour-step{font-family:var(--mono);font-size:0.66em;letter-spacing:0.1em;
+    text-transform:uppercase;color:var(--gray);}
+  .tour-title{font-size:1.18em;font-weight:700;margin:5px 0 7px;color:var(--ink);}
+  .tour-body{font-size:0.94em;line-height:1.5;color:var(--ink);margin:0;}
+  .tour-body b{font-weight:700;}
+  .tour-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:15px;}
+  .tour-dots{display:flex;gap:5px;flex:1 1 auto;justify-content:center;}
+  .tour-dots i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block;}
+  .tour-dots i.on{background:var(--sword);}
+  .tour-btn{font-family:var(--sans);font-size:0.88em;font-weight:600;cursor:pointer;
+    border-radius:999px;padding:8px 17px;border:1.5px solid var(--line);
+    background:var(--sheet);color:var(--ink);}
+  .tour-btn:hover{background:var(--paper);}
+  .tour-btn.primary{background:var(--sword);border-color:var(--sword);color:var(--white);}
+  .tour-btn.primary:hover{filter:brightness(1.1);}
+  .tour-skip{background:none;border:none;color:var(--gray);font-size:0.85em;cursor:pointer;padding:8px 2px;}
+  .tour-skip:hover{color:var(--ink);text-decoration:underline;}
+  @media(max-width:1000px){
+    /* Clear of .bnav, which is fixed at bottom:10px and about 35px tall. */
+    .tour{bottom:58px;}
+  }
+  @media (prefers-reduced-motion:reduce){.tour{transition:none;}}
   /* ---- scripture search ---- */
   .search-card{background:var(--white);border-radius:16px;max-width:640px;width:100%;
     box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;display:flex;flex-direction:column;
@@ -1255,6 +1288,19 @@
   <button type="button" onclick="location.reload()">Reload</button>
   <button type="button" class="sw-toast-x" aria-label="Dismiss"
           onclick="document.getElementById('swToast').classList.remove('on')">&times;</button>
+</div>
+
+<!-- Guided tour. Sits over the app rather than replacing it, because each step
+     drives the real interface underneath. -->
+<div class="tour" id="tour" role="dialog" aria-live="polite" aria-label="Guided tour">
+  <div class="tour-step" id="tourStep"></div>
+  <div class="tour-title" id="tourTitle"></div>
+  <p class="tour-body" id="tourBody"></p>
+  <div class="tour-foot">
+    <button type="button" class="tour-skip" onclick="tourEnd()">Skip</button>
+    <div class="tour-dots" id="tourDots"></div>
+    <button type="button" class="tour-btn primary" id="tourNext" onclick="tourNext()">Next</button>
+  </div>
 </div>
 
 <div class="overlay" id="defOverlay" onclick="if(event.target===this) closeDef()">
@@ -3372,6 +3418,105 @@ function goToHit(n) {
 
 document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeDef(); closeSearch(); } });
 
+/* ================= the guided tour =================
+   Shown once, on a first visit, and available afterwards from Options. Each
+   step performs the thing it describes -- switching translation, opening a
+   commentary note, flipping study mode -- so a new reader watches the feature
+   work instead of reading a description of it.
+
+   Every step's action is wrapped: a step that throws (a chapter that will not
+   resolve, a hymnal that has not loaded) must not strand the reader inside a
+   half-finished tour. It logs and carries on to the next step.
+
+   The only thing written to storage is the seen-flag. Nothing here touches
+   bookmarks, notes, highlights or the journal. */
+const TOUR_SEEN = 'ep-tour-seen';
+
+function tourGo(fn) { try { fn(); } catch (e) { console.warn('[tour]', e); } }
+
+const TOUR = [
+  { title: 'Welcome to Every Promise',
+    body: 'Three translations of the Bible, a commentary, a devotional, a hymnal and a journal — in one place, free, and working offline once loaded. Here is the quick version.',
+    go: () => { sv('bible'); } },
+
+  { title: 'Your library',
+    body: 'Everything lives in the panel on the right: three translations and the devotional. Tap any card to switch — your place is carried across.',
+    go: () => { sv('bible'); document.getElementById('library').classList.add('open'); } },
+
+  { title: 'tx.01 — the Mak Translation',
+    body: 'A word-for-word New Testament laid over the Greek. <b>Every English word sits on the Greek word it came from</b>, so you can see the sentence being built.',
+    go: () => { switchTranslation('mak'); loadChapter(0, true); } },
+
+  { title: 'Study mode, and tapping a word',
+    body: 'In <b>study</b> the Greek and its parsing sit under each word — tap any word for the lexicon entry. Flip to <b>read</b> and the scaffolding drops away, leaving plain prose.',
+    go: () => { if (currentTx !== 'mak') switchTranslation('mak'); if (readMode) toggleMode(); } },
+
+  { title: 'tx.02 — the Illumination',
+    body: 'The whole Bible, 66 books, rendered thought-for-thought so it reads the way it would have sounded. This is the one most people read in.',
+    go: () => { switchTranslation('illum'); loadIllum(navIndexForRef('illum', 'John 15')); } },
+
+  { title: 'The Grace Commentary 💡',
+    body: 'Verse blocks in the Illumination carry a bulb. Tap it for a note on that passage — the Hebrew or Greek behind it, and where it turns up elsewhere. There are over 1,900.',
+    go: () => {
+      if (currentTx !== 'illum') switchTranslation('illum');
+      loadIllum(navIndexForRef('illum', 'John 15'));
+      setTimeout(() => {
+        const b = document.querySelector('.cmt-bulb');
+        if (b && !b.classList.contains('open')) { b.click(); b.scrollIntoView({ block: 'center' }); }
+      }, 320);
+    } },
+
+  { title: 'Search everything at once',
+    body: 'One search covers all three translations, the devotional and the hymnal. Results say which source each came from, and following one takes you straight to the verse.',
+    go: () => { sv('bible'); } },
+
+  { title: 'Anything you mark is kept',
+    body: 'Highlight a verse, bookmark a section, write a note, keep a journal with a reading plan. It is all saved on your own device — <b>nothing is uploaded, and clearing the app cache never touches it</b>.',
+    go: () => { sv('mystuff'); } },
+
+  { title: 'That is the tour',
+    body: 'The app opens somewhere different every visit. You can run this again any time from <b>☰ → Take the tour</b>.',
+    go: () => { sv('bible'); if (currentTx !== 'illum') switchTranslation('illum'); } }
+];
+
+let tourAt = -1;
+
+function tourPaint() {
+  const s = TOUR[tourAt];
+  document.getElementById('tourStep').textContent = 'Step ' + (tourAt + 1) + ' of ' + TOUR.length;
+  document.getElementById('tourTitle').textContent = s.title;
+  document.getElementById('tourBody').innerHTML = s.body;
+  document.getElementById('tourNext').textContent = tourAt === TOUR.length - 1 ? 'Done' : 'Next';
+  document.getElementById('tourDots').innerHTML =
+    TOUR.map((_, i) => '<i class="' + (i <= tourAt ? 'on' : '') + '"></i>').join('');
+}
+
+function tourStart() {
+  tourAt = -1;
+  document.getElementById('tour').classList.add('on');
+  tourNext();
+}
+
+function tourNext() {
+  if (tourAt >= TOUR.length - 1) return tourEnd();
+  tourAt++;
+  tourGo(TOUR[tourAt].go);
+  tourPaint();
+}
+
+function tourEnd() {
+  document.getElementById('tour').classList.remove('on');
+  try { localStorage.setItem(TOUR_SEEN, '1'); } catch (e) {}
+}
+
+/* A first visit is one with no seen-flag. Delayed so the landing has finished
+   drawing -- the first step should open onto a page that is already there. */
+function tourMaybeAutoStart() {
+  let seen = '1';
+  try { seen = localStorage.getItem(TOUR_SEEN); } catch (e) {}
+  if (!seen) setTimeout(tourStart, 900);
+}
+
 populateSelect();
 migrateHighlightKeys();        // must run before any section is built
 migrateSectionKeys();          // likewise: bookmark/note keys are read at build time
@@ -4368,6 +4513,10 @@ const OPT_PAGES = [
   ['sources',      'Sources & Licences', 'Where the text comes from and under what terms']
 ];
 
+/* Not one of OPT_PAGES: those open a sub-page, and this runs the tour and
+   leaves the options view entirely. */
+const OPT_TOUR = ['Take the tour', 'A guided walk through the translations and what else is here'];
+
 function optShow() {
   const index = document.getElementById('optIndex');
   const page = document.getElementById('optPage');
@@ -4388,7 +4537,12 @@ function optShow() {
         '<span><span class="opt-rname">' + p[1] + '</span>' +
         '<div class="opt-rwhat">' + p[2] + '</div></span>' +
         '<span class="opt-rgo">&#8250;</span>' +
-      '</div>').join('');
+      '</div>').join('') +
+      '<div class="opt-r" onclick="tourStart()">' +
+        '<span><span class="opt-rname">' + OPT_TOUR[0] + '</span>' +
+        '<div class="opt-rwhat">' + OPT_TOUR[1] + '</div></span>' +
+        '<span class="opt-rgo">&#8250;</span>' +
+      '</div>';
   }
   window.scrollTo({ top: 0, behavior: 'auto' });
 }
@@ -4753,6 +4907,8 @@ openSomewhereRandom();
 jrInit();
 msInit();
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
+/* Last, and only ever on a first visit. */
+tourMaybeAutoStart();
 </script>
 
 <script>
