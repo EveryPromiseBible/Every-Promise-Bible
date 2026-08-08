@@ -208,7 +208,13 @@
     display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:0.85em;color:var(--gray);
   }
   .sec-action-btn:hover{background:var(--hover);border-color:var(--line);}
-  .sec-action-btn.active{color:var(--orange);}
+  /* These marks are emoji, and an emoji ignores `color` -- so an active
+     bookmark looked exactly like an inactive one everywhere they appear. The
+     commentary bulb already solved this: greyed and faded when off, its own
+     colour when on. Same treatment, same reason. */
+  .sec-action-btn{filter:grayscale(1);opacity:0.42;transition:filter .12s ease,opacity .12s ease;}
+  .sec-action-btn:hover{filter:grayscale(1);opacity:0.75;}
+  .sec-action-btn.active,.sec-action-btn.active:hover{filter:none;opacity:1;color:var(--orange);}
   .word-row{display:flex;flex-wrap:wrap;align-items:flex-start;row-gap:0.9em;}
   .unit{display:inline-flex;flex-direction:column;align-items:center;margin:0 0.4em 0 0;text-align:center;border-radius:5px;padding:2px 3px;}
   .unit.clickable{cursor:pointer;transition:background .12s ease;}
@@ -516,9 +522,9 @@
   @media (prefers-reduced-motion:reduce){.tour{transition:none;}}
 
   /* ---- your books ----
-     A reader's own EPUB or PDF, kept in IndexedDB rather than localStorage:
-     these are megabytes, and localStorage is a string store measured in a
-     handful of them. Nothing is uploaded; the file never leaves the device. */
+     A reader's own EPUB, kept in IndexedDB rather than localStorage: a book is
+     megabytes and localStorage is a string store measured in a handful of
+     them. Nothing is uploaded; the file never leaves the device. */
   .lib-card.bk-add{border-style:dashed;text-align:center;color:var(--gray);}
   .lib-card.bk-add:hover{border-color:var(--sword);color:var(--ink);}
   .lib-card.bk-add .lname{font-weight:600;}
@@ -529,17 +535,39 @@
   .bk-titles{flex:1 1 220px;}
   .bk-head h2{margin:6px 0 2px;font-size:1.7em;}
   .bk-sub{margin:0;color:var(--gray);font-size:0.85em;font-family:var(--mono);}
-  /* A PDF is handed to the browser's own viewer -- it already has one, and it
-     will always beat anything hand-rolled here. */
-  .bk-pdf{width:100%;height:78vh;border:1px solid var(--line);border-radius:10px;margin-top:18px;}
-  .bk-epub{margin-top:20px;max-width:38em;font-size:1.02em;line-height:1.7;}
+  /* The markup here was written by somebody else for a different reader, and it
+     can hold anything: a table sized for a desktop, a preformatted block, a URL
+     with no break in it. None of that is allowed to push the page sideways. */
+  .bk-epub{margin-top:20px;max-width:38em;font-size:1.02em;line-height:1.7;overflow-wrap:break-word;}
   .bk-epub img{max-width:100%;height:auto;}
+  .bk-epub table,.bk-epub pre{display:block;max-width:100%;overflow-x:auto;}
   .bk-epub h1,.bk-epub h2,.bk-epub h3{line-height:1.25;margin:1.4em 0 0.5em;}
   .bk-epub hr.bk-ch{border:none;border-top:1px solid var(--line);margin:2.4em 0;}
   .bk-note{color:var(--gray);font-size:0.9em;margin-top:18px;}
+  /* A paragraph of an uploaded book is the same kind of thing an Illumination
+     verse is: the smallest piece somebody would want to mark. It gets the same
+     highlight treatment, down to the colour, so a marked line looks marked
+     wherever the reader made it. */
+  .bk-block.il-hl{background:var(--hl);border-radius:4px;box-shadow:0 0 0 5px var(--hl);}
+  body.highlight-mode .bk-block{cursor:cell;}
+  body.highlight-mode .bk-block:hover{background:var(--hl);box-shadow:0 0 0 5px var(--hl);border-radius:4px;}
+  body.highlight-mode .bk-block.il-hl:hover{background:var(--hl-hover);box-shadow:0 0 0 5px var(--hl-hover);}
+  /* The book's own headings sit inside the chapter; this is the app's heading
+     for the chapter itself, carrying the bookmark and note pair. */
+  .bk-epub .illum-head-row{max-width:38em;border-top:1px solid var(--line);padding-top:22px;
+    align-items:center;margin-bottom:0;}
+  .bk-epub .illum-head-row:first-of-type{border-top:none;padding-top:0;}
+  /* The book's own heading follows immediately, and it carries its own top
+     margin; the row must not add a second gap. */
+  .bk-epub .illum-head-row + h1,.bk-epub .illum-head-row + h2,
+  .bk-epub .illum-head-row + h3{margin-top:0.5em;}
+  .bk-chapno{font-family:var(--mono);font-size:0.62em;color:var(--gray);letter-spacing:0.04em;
+    display:block;margin-bottom:3px;text-transform:uppercase;}
+  /* The highlighter switch reads as on the way the toolbar's does. */
+  #bkHl.active{background:var(--hl);border-color:var(--orange);color:var(--ink);}
+  #bkHl.active::before{content:"✓ ";}
   @media(max-width:1000px){
     .bk-wrap{margin:12px 12px 104px;padding:20px 18px 26px;}
-    .bk-pdf{height:70vh;}
   }
   /* ---- scripture search ---- */
   .search-card{background:var(--white);border-radius:16px;max-width:640px;width:100%;
@@ -1120,7 +1148,7 @@
         </div>
         <div class="lib-group" id="libBooksGroup"><div class="glabel">your books</div>
           <div class="lib-grid lib-grid-tx" id="libBooks"></div>
-          <input type="file" id="bookFile" accept=".epub,.pdf,application/epub+zip,application/pdf"
+          <input type="file" id="bookFile" accept=".epub,application/epub+zip"
                  style="display:none" onchange="bookAdd(this)">
         </div>
       </div>
@@ -1134,6 +1162,10 @@
     <div class="bk-head">
       <button class="opt-back" onclick="sv('bible')">&#8249; Library</button>
       <div class="bk-titles"><h2 id="bkTitle"></h2><p class="bk-sub" id="bkSub"></p></div>
+      <!-- The highlighter lives in the bible toolbar, which this page does not
+           carry, so it gets its own switch. Same mode, same body class: turning
+           it on here turns it on everywhere. -->
+      <button class="abtn" id="bkHl" onclick="toggleHighlightMode()">highlight</button>
       <button class="abtn" id="bkDelete" onclick="bookDelete()">remove</button>
     </div>
     <div id="bkBody"></div>
@@ -1657,6 +1689,16 @@ function recordHistory(chapterIdx) {
   if (history.length > HISTORY_MAX) history.length = HISTORY_MAX;
   saveStore('history', history);
 }
+/* A book that was opened belongs in the same trail. It carries no chapter index
+   -- the whole book is one entry -- so it dedupes on its own id, and goSaved
+   sends it to the book rather than to Mak. */
+function recordBookHistory(rec) {
+  const at = history.findIndex(h => h.bookId === rec.id);
+  if (at >= 0) history.splice(at, 1);
+  history.unshift({ tx: 'book', bookId: rec.id, ref: rec.name });
+  if (history.length > HISTORY_MAX) history.length = HISTORY_MAX;
+  saveStore('history', history);
+}
 function renderHistoryTab() {
   const el = document.getElementById('historyList');
   if (!el) return;
@@ -2009,7 +2051,10 @@ function jsq(s) {
 
 /* Saved items from different translations sit in one list, so each says where
    it came from. Mak is unlabelled: it is the house translation and the default. */
-const TX_LABEL = { illum: 'Illumination', kjv: 'KJV', dev: 'Devotional' };
+/* 'book' is not a translation, but it is what a saved mark carries in the same
+   field, and the badge is the thing that tells a reader which text they were in
+   when they made it. */
+const TX_LABEL = { illum: 'Illumination', kjv: 'KJV', dev: 'Devotional', book: 'Your book' };
 function txBadge(tx) {
   return TX_LABEL[tx] ? ' <span class="si-tx">' + TX_LABEL[tx] + '</span>' : '';
 }
@@ -2019,6 +2064,10 @@ function txBadge(tx) {
    index. Called after a saved item is removed from the library panel, so the
    icon in the text stops claiming the item still exists. */
 function refreshReader() {
+  /* An open book is a reader too, and it can be standing behind My Stuff while
+     a mark made in it is removed. Repainting its marks is cheap and does not
+     touch the bible, so both are kept current. */
+  if (typeof bkRefreshMarks === 'function') bkRefreshMarks();
   if (isDevTx(currentTx)) return;                       // the devotional has no sections
   if (isVerseTx(currentTx)) {
     const sel = document.getElementById('chapterSelect');
@@ -2119,6 +2168,12 @@ function jumpToRef(tx, ref, target) {
 function goSaved(store, i) {
   const rec = msList(store)[i];
   if (!rec) return;
+  /* A mark made in an uploaded book goes back to the book, not the bible. It is
+     caught before the switch because all three stores land in the same place. */
+  if (rec.tx === 'book' && rec.bookId) {
+    jumpToBook(rec.bookId, { vref: rec.vref, sec: rec.sectionIdx });
+    return;
+  }
   switch (store) {
     case 'highlights':
       jumpToRef(rec.tx, rec.ref,
@@ -2207,8 +2262,11 @@ function removeBookmark(i) {
 /* ---- Notes ---- */
 /* Takes a translation and a reference rather than an index, so the same modal
    serves the Mak sections, the Illumination and the KJV. */
-function openNoteModal(tx, ref, sectionIdx, heading) {
-  pendingNoteKey = secKey(tx, ref, sectionIdx);
+/* bookId is passed only by an uploaded book, which has to key on its id (stable)
+   while reading as its name (what the reader recognises). Everywhere else the
+   reference is both, and it stays undefined. */
+function openNoteModal(tx, ref, sectionIdx, heading, bookId) {
+  pendingNoteKey = secKey(tx, bookId || ref, sectionIdx);
   const existing = notes.find(n => n.key === pendingNoteKey);
   const card = document.getElementById('noteCard');
   card.innerHTML = `
@@ -2218,20 +2276,22 @@ function openNoteModal(tx, ref, sectionIdx, heading) {
     <textarea id="noteTextarea" placeholder="write a note on this section...">${existing ? ilEsc(existing.text) : ''}</textarea>
     <div class="note-actions">
       ${existing ? '<button onclick="deleteNote()">delete</button>' : ''}
-      <button class="primary" onclick="saveNote('${jsq(tx)}', '${jsq(ref)}', ${sectionIdx}, '${jsq(heading)}')">save</button>
+      <button class="primary" onclick="saveNote('${jsq(tx)}', '${jsq(ref)}', ${sectionIdx}, '${jsq(heading)}', '${jsq(bookId || '')}')">save</button>
     </div>`;
   document.getElementById('noteOverlay').classList.add('open');
 }
-function saveNote(tx, ref, sectionIdx, heading) {
+function saveNote(tx, ref, sectionIdx, heading, bookId) {
   const text = document.getElementById('noteTextarea').value.trim();
-  const key = secKey(tx, ref, sectionIdx);
+  const key = secKey(tx, bookId || ref, sectionIdx);
   const existingIdx = notes.findIndex(n => n.key === key);
   if (!text) {
     if (existingIdx >= 0) notes.splice(existingIdx, 1);
   } else if (existingIdx >= 0) {
     notes[existingIdx].text = text;
   } else {
-    notes.unshift({ key, tx, ref, sectionIdx, heading, text });   // newest first
+    const rec = { key, tx, ref, sectionIdx, heading, text };      // newest first
+    if (bookId) rec.bookId = bookId;
+    notes.unshift(rec);
   }
   saveStore('notes', notes);
   closeNoteModal();
@@ -2319,6 +2379,8 @@ function toggleHighlightMode() {
   highlightMode = !highlightMode;
   document.body.classList.toggle('highlight-mode', highlightMode);
   document.getElementById('hlBtn').classList.toggle('active', highlightMode);
+  const bh = document.getElementById('bkHl');
+  if (bh) bh.classList.toggle('active', highlightMode);
 }
 function toggleHighlight(wordKey, chapterIdx, sectionIdx, heading, eng, grk) {
   const existingIdx = highlights.findIndex(h => h.key === wordKey);
@@ -3471,18 +3533,26 @@ function goToHit(n) {
 document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeDef(); closeSearch(); } });
 
 /* ================= your books =================
-   A reader can add their own EPUB or PDF. Two decisions worth stating:
+   A reader can add their own EPUB. Three decisions worth stating:
 
    Stored in IndexedDB, not localStorage. Everything else the reader makes is
    text and lives in localStorage, but a book is megabytes and localStorage is
    a string store with a few megabytes in total. IndexedDB takes blobs and is
    measured in gigabytes.
 
-   Read with no library. A PDF goes to the browser's own viewer, which is
-   better than anything that could be hand-rolled here. An EPUB is a ZIP of
-   XHTML, and DecompressionStream('deflate-raw') can inflate its entries, so
-   the whole reader is about a hundred lines and adds no dependency. That
-   matters for a site whose point is that it is auditable and works offline. */
+   Read with no library. An EPUB is a ZIP of XHTML, and
+   DecompressionStream('deflate-raw') can inflate its entries, so the whole
+   reader is about a hundred lines and adds no dependency. That matters for a
+   site whose point is that it is auditable and works offline.
+
+   EPUB only, deliberately. PDFs were supported briefly and then dropped: a PDF
+   can only be shown by handing it to the browser's own viewer in an iframe,
+   and that viewer's insides are closed. Highlights, bookmarks and notes could
+   never reach inside it, so a PDF would have sat in the library looking like
+   the other texts while behaving quite differently. Rendering PDFs properly
+   means vendoring pdf.js, which is a megabyte of dependency this site does not
+   otherwise need. Because the EPUB is rendered here, it gets the whole of My
+   Stuff. */
 const BOOKS_DB = 'ep-books', BOOKS_STORE = 'books';
 
 function booksDB() {
@@ -3519,14 +3589,19 @@ async function bookAdd(input) {
   const file = input.files && input.files[0];
   input.value = '';                         /* so the same file can be picked twice */
   if (!file) return;
-  const isPdf  = /\.pdf$/i.test(file.name)  || file.type === 'application/pdf';
   const isEpub = /\.epub$/i.test(file.name) || file.type === 'application/epub+zip';
-  if (!isPdf && !isEpub) { alert('Only EPUB and PDF files can be added.'); return; }
+  if (!isEpub) {
+    alert('Only EPUB files can be added.\n\n' +
+          'EPUB is the format this app can read properly: it renders the book itself, ' +
+          'which is what lets highlights, bookmarks and notes work inside it the same ' +
+          'way they do in the Bible.');
+    return;
+  }
   try {
     const rec = {
       id: 'bk-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8),
-      name: file.name.replace(/\.(epub|pdf)$/i, ''),
-      kind: isPdf ? 'pdf' : 'epub',
+      name: file.name.replace(/\.epub$/i, ''),
+      kind: 'epub',
       size: file.size,
       addedAt: new Date().toISOString(),
       blob: file
@@ -3543,59 +3618,279 @@ async function booksRender() {
   if (!host) return;
   let list = [];
   try { list = await booksAll(); } catch (e) { /* private mode, no IndexedDB */ }
+  /* A device that used the app while PDFs were still accepted can be holding
+     one. Nothing here can render it, so it is not offered -- a card that opens
+     to an error is worse than no card. */
+  list = list.filter(b => !b.kind || b.kind === 'epub');
   list.sort((a, b) => a.name.localeCompare(b.name));
   host.innerHTML = list.map(b =>
     '<div class="lib-card" onclick="bookOpen(\'' + b.id + '\')">' +
-      '<div class="lswatch" style="background:' + (b.kind === 'pdf' ? '#8c3f1a' : '#1a8c6f') + ';"></div>' +
-      '<div class="lcode">' + b.kind + '</div>' +
+      '<div class="lswatch" style="background:#1a8c6f;"></div>' +
+      '<div class="lcode">epub</div>' +
       '<div class="lname">' + ilEsc(b.name) + '</div>' +
       '<div class="bk-size">' + bookSize(b.size) + '</div>' +
     '</div>').join('') +
     '<div class="lib-card bk-add" onclick="document.getElementById(\'bookFile\').click()">' +
       '<div class="lname">+ Add a book</div>' +
-      '<div class="bk-size">EPUB or PDF</div>' +
+      '<div class="bk-size">EPUB</div>' +
     '</div>';
 }
 
-/* ---- reading ---- */
-let bkCurrent = null, bkUrls = [];
+/* ---- reading ----
+   An uploaded book is a place in the app like any chapter is, so everything in
+   My Stuff has to reach into it. That needs two anchors the marks can be tied
+   to, and both have to survive a reload:
+
+     - the SECTION is the spine index -- which file of the EPUB this is. The
+       spine is fixed inside the file, and the file sits untouched in IndexedDB,
+       so index 7 is the same chapter every time it is opened. Bookmarks and
+       notes hang here, exactly as they hang on a section heading in scripture.
+     - the BLOCK is the paragraph's position within that section. Highlights
+       hang here.
+
+   Scripture highlights are deliberately NOT positional -- the text gets edited
+   and position 47 becomes a different word. A reader's own EPUB is the opposite
+   case: nobody is revising it, and there is no reference number to key on, so
+   position is both stable and all there is. */
+let bkCurrent = null, bkUrls = [], bkSecs = [];
 
 function bkRevoke() {
   bkUrls.forEach(u => { try { URL.revokeObjectURL(u); } catch (e) {} });
   bkUrls = [];
 }
 
+/* The two keys, kept in one place so the reader and the saved lists cannot
+   drift apart. Both are built from the book's id, never its name: a book can be
+   removed and re-added under a different name, and two books can share one. */
+const bkSecKey = (si)     => secKey('book', bkCurrent.id, si);
+const bkBlockKey = (si, bi) => ilVerseKey('book', bkCurrent.id, si + ':' + bi);
+
 async function bookOpen(id) {
   const rec = await booksGet(id);
-  if (!rec) return;
+  if (!rec) return false;
   bkRevoke();
   bkCurrent = rec;
+  bkSecs = [];
   sv('book');
   document.getElementById('bkTitle').textContent = rec.name;
   document.getElementById('bkSub').textContent =
-    rec.kind.toUpperCase() + ' · ' + bookSize(rec.size) + ' · added ' +
+    'EPUB · ' + bookSize(rec.size) + ' · added ' +
     new Date(rec.addedAt).toLocaleDateString();
+  document.getElementById('bkHl').classList.toggle('active', highlightMode);
   const body = document.getElementById('bkBody');
   body.innerHTML = '<p class="bk-note">Opening…</p>';
 
-  if (rec.kind === 'pdf') {
-    const url = URL.createObjectURL(rec.blob);
-    bkUrls.push(url);
-    body.innerHTML = '<iframe class="bk-pdf" src="' + url + '" title="' + ilEsc(rec.name) + '"></iframe>';
-    return;
-  }
   try {
-    body.innerHTML = '<div class="bk-epub">' + await epubHtml(rec.blob) + '</div>';
+    bkSecs = await epubSections(rec.blob);
+    bkPaint();
+    recordBookHistory(rec);
   } catch (e) {
     body.innerHTML = '<p class="bk-note">This EPUB could not be opened. ' + ilEsc(String(e)) + '</p>';
+    return false;
   }
+  return true;
+}
+
+/* Build the reading page: a heading row per spine item carrying the bookmark
+   and note pair, then the chapter's own markup with every block tagged so a
+   highlight has something to sit on. */
+function bkPaint() {
+  const body = document.getElementById('bkBody');
+  body.innerHTML = '';
+  const wrap = document.createElement('div');
+  wrap.className = 'bk-epub';
+
+  bkSecs.forEach((sec, si) => {
+    const bmOn = bookmarks.some(b => b.key === bkSecKey(si));
+    const ntOn = notes.some(n => n.key === bkSecKey(si));
+
+    const row = document.createElement('div');
+    row.className = 'illum-head-row';
+    row.dataset.sec = si;
+    row.innerHTML =
+      '<div class="illum-head"><span class="bk-chapno">' + (si + 1) + ' of ' + bkSecs.length +
+        '</span>' + (sec.fromHead ? '' : ilEsc(sec.title)) + '</div>' +
+      '<div class="sec-actions">' +
+        '<button class="sec-action-btn' + (bmOn ? ' active' : '') + '"' +
+          ' title="bookmark this chapter" onclick="bkBookmark(this,' + si + ')">&#128278;</button>' +
+        '<button class="sec-action-btn' + (ntOn ? ' active' : '') + '"' +
+          ' title="add a note" onclick="bkNote(' + si + ')">&#128221;</button>' +
+      '</div>';
+    wrap.appendChild(row);
+
+    const holder = document.createElement('div');
+    holder.innerHTML = sec.html;
+    /* Numbered here rather than at parse time so the count is whatever the DOM
+       actually produced -- the browser's own parser repairs the markup, and a
+       block index has to mean the same thing on every open. */
+    bkBlocks(holder).forEach((el, bi) => {
+      el.classList.add('bk-block');
+      el.dataset.sec = si;
+      el.dataset.vref = si + ':' + bi;
+      if (highlights.some(h => h.key === bkBlockKey(si, bi))) el.classList.add('il-hl');
+    });
+    while (holder.firstChild) wrap.appendChild(holder.firstChild);
+  });
+
+  body.appendChild(wrap);
+}
+
+/* Which elements a reader would call "a paragraph". Anything on this list is
+   taken whole; anything else is a container to look inside, because EPUBs
+   routinely wrap a whole chapter in one <div> and taking that as a block would
+   make the entire chapter a single highlight. */
+const BK_LEAF = { P:1, H1:1, H2:1, H3:1, H4:1, H5:1, H6:1, LI:1, BLOCKQUOTE:1,
+                  PRE:1, TABLE:1, FIGURE:1, IMG:1, HR:1, DL:1 };
+
+function bkBlocks(root, out) {
+  out = out || [];
+  [...root.children].forEach(el => {
+    if (BK_LEAF[el.tagName]) { out.push(el); return; }
+    if (el.children.length) { bkBlocks(el, out); return; }
+    if (el.textContent.trim()) out.push(el);       // a bare div holding text
+  });
+  return out;
+}
+
+/* One listener rather than an onclick per paragraph: the markup comes from
+   somebody else's file, and the fewer handlers written into it the better. */
+document.addEventListener('click', ev => {
+  if (!bkCurrent) return;
+  const body = document.getElementById('bkBody');
+  if (!body || !body.contains(ev.target)) return;
+
+  /* A link inside the book points at a file in the zip, which is not a URL this
+     page can go to -- following it would leave the app on a 404. Internal links
+     are dead; a real web address opens in its own tab. */
+  const a = ev.target.closest('a');
+  if (a) {
+    const href = a.getAttribute('href') || '';
+    ev.preventDefault();
+    if (/^https?:/i.test(href)) window.open(href, '_blank', 'noopener');
+    return;
+  }
+
+  if (!highlightMode) return;
+  const el = ev.target.closest('.bk-block');
+  if (el) bkHighlight(el);
+});
+
+function bkHighlight(el) {
+  const [si, bi] = el.dataset.vref.split(':').map(Number);
+  const key = bkBlockKey(si, bi);
+  const at = highlights.findIndex(h => h.key === key);
+  if (at >= 0) {
+    highlights.splice(at, 1);
+  } else {
+    const txt = el.textContent.replace(/\s+/g, ' ').trim();
+    highlights.unshift({
+      key, tx: 'book', ref: bkCurrent.name, bookId: bkCurrent.id,
+      vref: si + ':' + bi, sectionIdx: si, heading: bkSecs[si].title,
+      eng: txt.length > 110 ? txt.slice(0, 110) + '…' : txt, grk: ''
+    });
+  }
+  saveStore('highlights', highlights);
+  el.classList.toggle('il-hl', at < 0);
+  renderHighlightsTab();
+}
+
+function bkBookmark(btn, si) {
+  if (!bkCurrent) return;
+  const key = bkSecKey(si);
+  const at = bookmarks.findIndex(b => b.key === key);
+  if (at >= 0) {
+    bookmarks.splice(at, 1);
+  } else {
+    bookmarks.unshift({ key, tx: 'book', ref: bkCurrent.name, bookId: bkCurrent.id,
+                        sectionIdx: si, heading: bkSecs[si].title });
+  }
+  saveStore('bookmarks', bookmarks);
+  renderBookmarksTab();
+  btn.classList.toggle('active', at < 0);
+}
+
+function bkNote(si) {
+  if (!bkCurrent) return;
+  /* The note modal keys on the reference it is given. A book has to key on its
+     id but read as its name, so the two are passed separately. */
+  openNoteModal('book', bkCurrent.name, si, bkSecs[si].title, bkCurrent.id);
+}
+
+/* Repaint the marks without rebuilding the book: called when something is
+   removed from My Stuff while the page is still standing. */
+function bkRefreshMarks() {
+  const body = document.getElementById('bkBody');
+  if (!body || !bkCurrent || !bkSecs.length) return;
+  body.querySelectorAll('.bk-block').forEach(el => {
+    const [si, bi] = el.dataset.vref.split(':').map(Number);
+    el.classList.toggle('il-hl', highlights.some(h => h.key === bkBlockKey(si, bi)));
+  });
+  body.querySelectorAll('.illum-head-row').forEach(row => {
+    const si = +row.dataset.sec;
+    const btns = row.querySelectorAll('.sec-action-btn');
+    if (btns[0]) btns[0].classList.toggle('active', bookmarks.some(b => b.key === bkSecKey(si)));
+    if (btns[1]) btns[1].classList.toggle('active', notes.some(n => n.key === bkSecKey(si)));
+  });
+}
+
+/* Getting back to a saved mark. The book may have to be opened first, and may
+   not be here at all -- a backup carries the marks in localStorage and the
+   books as separate files, so the two can arrive apart. */
+async function jumpToBook(id, target) {
+  closeLibraryOnPick();
+  if (!bkCurrent || bkCurrent.id !== id) {
+    const ok = await bookOpen(id);
+    if (!ok) {
+      alert('That book is not on this device any more.\n\n' +
+            'The mark is still saved. Add the book again and it will open where you left it.');
+      return;
+    }
+  } else {
+    sv('book');
+    bkRefreshMarks();
+  }
+  setTimeout(() => bkScrollTo(target), 60);
+}
+
+function bkScrollTo(t) {
+  if (!t) return;
+  const body = document.getElementById('bkBody');
+  let el = null;
+  if (t.vref) el = body.querySelector('.bk-block[data-vref="' + t.vref + '"]');
+  if (!el && t.sec != null) el = body.querySelector('.illum-head-row[data-sec="' + t.sec + '"]');
+  if (!el) return;
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  el.classList.add('ms-flash');
+  setTimeout(() => el.classList.remove('ms-flash'), 1800);
 }
 
 async function bookDelete() {
   if (!bkCurrent) return;
-  if (!confirm('Remove "' + bkCurrent.name + '" from this device?')) return;
-  await booksRemove(bkCurrent.id);
-  bkRevoke(); bkCurrent = null;
+  const id = bkCurrent.id;
+  const mine = highlights.filter(h => h.bookId === id).length +
+               bookmarks.filter(b => b.bookId === id).length +
+               notes.filter(n => n.bookId === id).length;
+  /* Say what else goes. Marks that outlive their book are rows in My Stuff that
+     lead nowhere, so they go with it -- but not silently. */
+  if (!confirm('Remove "' + bkCurrent.name + '" from this device?' +
+               (mine ? '\n\nThis also removes ' + mine +
+                       (mine === 1 ? ' mark you made' : ' marks you made') + ' in it.' : ''))) return;
+  await booksRemove(id);
+  if (mine) {
+    highlights = highlights.filter(h => h.bookId !== id);
+    bookmarks  = bookmarks.filter(b => b.bookId !== id);
+    notes      = notes.filter(n => n.bookId !== id);
+    saveStore('highlights', highlights);
+    saveStore('bookmarks', bookmarks);
+    saveStore('notes', notes);
+  }
+  /* The visit record goes quietly: it is not something the reader made, and a
+     row pointing at a book that is gone is just a dead end. */
+  if (history.some(h => h.bookId === id)) {
+    history = history.filter(h => h.bookId !== id);
+    saveStore('history', history);
+  }
+  bkRevoke(); bkCurrent = null; bkSecs = [];
   await booksRender();
   sv('bible');
 }
@@ -3660,7 +3955,47 @@ function epubResolve(base, rel) {
   return stack.join('/');
 }
 
-async function epubHtml(blob) {
+/* Chapter names, so a bookmark reads "Chapter 4 · The Wager" and not
+   "Section 12". Taken from the book's own table of contents: the EPUB 3 nav
+   document if there is one, the EPUB 2 toc.ncx otherwise. Both map a file to a
+   label, which is exactly what is needed. Neither is required to exist. */
+function epubToc(navHtml, navPath) {
+  const map = {};
+  if (!navHtml) return map;
+  const anchors = navHtml.match(/<a\b[^>]*href="[^"]+"[^>]*>[\s\S]*?<\/a>/gi) || [];
+  anchors.forEach(a => {
+    const href = (a.match(/href="([^"]+)"/) || [])[1];
+    const text = a.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    if (!href || !text) return;
+    const file = epubResolve(navPath, href.split('#')[0]);
+    if (!map[file]) map[file] = text;              // first mention wins
+  });
+  return map;
+}
+
+function ncxToc(ncx, ncxPath) {
+  const map = {};
+  if (!ncx) return map;
+  (ncx.match(/<navPoint\b[\s\S]*?<\/navPoint>/gi) || []).forEach(pt => {
+    const text = ((pt.match(/<text>([\s\S]*?)<\/text>/i) || [])[1] || '')
+                   .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    const src  = (pt.match(/<content\b[^>]*src="([^"]+)"/i) || [])[1];
+    if (!text || !src) return;
+    const file = epubResolve(ncxPath, src.split('#')[0]);
+    if (!map[file]) map[file] = text;
+  });
+  return map;
+}
+
+/* Entity handling is deliberately small: these four are what a stripped tag
+   leaves behind in a title, and the title is going through ilEsc afterwards. */
+function epubUnent(s) {
+  return s.replace(/&amp;/g, '&').replace(/&lt;/g, '<')
+          .replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+          .replace(/&nbsp;/g, ' ');
+}
+
+async function epubSections(blob) {
   const entries = await zipEntries(await blob.arrayBuffer());
   const container = await zipText(entries, 'META-INF/container.xml');
   if (!container) throw new Error('no container.xml — is this really an EPUB?');
@@ -3674,13 +4009,23 @@ async function epubHtml(blob) {
     const id   = (tag.match(/\bid="([^"]+)"/) || [])[1];
     const href = (tag.match(/\bhref="([^"]+)"/) || [])[1];
     const type = (tag.match(/\bmedia-type="([^"]+)"/) || [])[1] || '';
-    if (id && href) manifest[id] = { href: epubResolve(opfPath, href), type };
+    const prop = (tag.match(/\bproperties="([^"]+)"/) || [])[1] || '';
+    if (id && href) manifest[id] = { href: epubResolve(opfPath, href), type, prop };
   });
 
   const spine = (opf.match(/<itemref\b[^>]*>/g) || [])
     .map(t => (t.match(/\bidref="([^"]+)"/) || [])[1])
     .filter(id => manifest[id]);
   if (!spine.length) throw new Error('the package lists no reading order');
+
+  /* Titles, best source first. */
+  let toc = {};
+  const navId = Object.keys(manifest).find(id => /\bnav\b/.test(manifest[id].prop));
+  if (navId) toc = epubToc(await zipText(entries, manifest[navId].href), manifest[navId].href);
+  if (!Object.keys(toc).length) {
+    const ncxId = Object.keys(manifest).find(id => /ncx/.test(manifest[id].type));
+    if (ncxId) toc = ncxToc(await zipText(entries, manifest[ncxId].href), manifest[ncxId].href);
+  }
 
   /* Images have to become blob URLs: the markup points at paths inside the
      zip, which the page cannot fetch. */
@@ -3709,9 +4054,23 @@ async function epubHtml(blob) {
       const u = imgUrl[epubResolve(href, src)];
       return u ? a + u + c : m;
     });
-    parts.push(inner);
+    /* A chapter with nothing in it is still a spine entry -- a blank page, a
+       stray divider. Dropping it here keeps the block indexes meaningful and
+       stops the contents list filling with empty rows. */
+    if (!inner.replace(/<[^>]+>/g, '').trim() && !/<img\b/i.test(inner)) continue;
+
+    /* The book's own heading is the best title going; the table of contents is
+       the fallback, and a number the last resort. */
+    const head = (inner.match(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/i) || [])[1];
+    const own = epubUnent((head || '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
+    const title = own || toc[href] || 'Section ' + (parts.length + 1);
+    /* Whether the book prints this title itself decides whether the app does.
+       Printing it twice is how a reader can tell a page was assembled rather
+       than laid out. */
+    parts.push({ href, title, html: inner, fromHead: !!own });
   }
-  return parts.join('<hr class="bk-ch">');
+  if (!parts.length) throw new Error('there is no readable text in this EPUB');
+  return parts;
 }
 
 /* ================= the guided tour =================
@@ -4646,14 +5005,14 @@ async function msRestoreBooks(books) {
       const bin = atob(b.data);
       const buf = new Uint8Array(bin.length);
       for (let i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
-      const type = b.kind === 'pdf' ? 'application/pdf' : 'application/epub+zip';
+      if (b.kind && b.kind !== 'epub') continue;   /* older backups may hold PDFs */
       await booksTx('readwrite', s => s.put({
         id: b.id || ('bk-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8)),
         name: String(b.name || 'Untitled'),
-        kind: b.kind === 'pdf' ? 'pdf' : 'epub',
+        kind: 'epub',
         size: b.size || buf.length,
         addedAt: b.addedAt || new Date().toISOString(),
-        blob: new Blob([buf], { type })
+        blob: new Blob([buf], { type: 'application/epub+zip' })
       }));
     } catch (e) { console.warn('[books] could not restore', b && b.name, e); }
   }
@@ -4663,6 +5022,13 @@ async function msRestoreBooks(books) {
    a reader actually has. Each row opens its own page of items, and each item
    goes back to the exact place it was made. */
 function msLabelFor(store, rec) {
+  /* A book's vref is a position, not a reference -- "12:4" said after the title
+     would read as a chapter and verse it does not have. The chapter name says
+     the same thing in words the reader will recognise. */
+  if (rec && rec.tx === 'book') {
+    return { title: ilEsc(rec.ref || '') + (rec.heading ? ' · ' + ilEsc(rec.heading) : '') + txBadge('book'),
+             sub: ilEsc(store === 'notes' ? (rec.text || '') : (rec.eng || '')) };
+  }
   switch (store) {
     case 'highlights':
       /* "Galatians 5" + "5:25-26" reads as "Galatians 5:25-26": the verse ref
