@@ -570,11 +570,17 @@
     margin:16px 0 0;padding-top:14px;border-top:1px solid var(--line);}
 
   /* One step opens the dictionary popup, and that popup is centred on the
-     screen -- exactly where this card sits. So the card drops to the bottom and
-     the popup is pushed to the top, and the reader can see both at once. */
-  .tour.low{top:auto;bottom:14px;transform:translateX(-50%);max-height:44vh;}
+     screen -- exactly where this card sits. So the popup is pushed to the top
+     and the card sits directly under it, still centred across, so the two read
+     as one thing: the word, and then what is being said about it. The top is
+     measured and set by tourPlaceBelow, because it depends on how tall that
+     particular word's entry turned out. */
+  .tour.below{bottom:auto;transform:translateX(-50%);}
   .overlay.tour-shift{align-items:flex-start;padding-top:18px;}
-  .overlay.tour-shift .def-card{max-height:48vh;}
+  .overlay.tour-shift .def-card{max-height:42vh;}
+  /* A short page with its content at the top: the card goes to the bottom
+     rather than land on the buttons the step is describing. */
+  .tour.low{top:auto;bottom:14px;transform:translateX(-50%);max-height:44vh;}
   .tour-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:15px;}
   .tour-dots{display:flex;gap:5px;flex:1 1 auto;justify-content:center;}
   .tour-dots i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block;}
@@ -4205,7 +4211,7 @@ const TOUR = [
   { title: 'Tap a Word',
     tint: 'var(--orange)',
     spot: '.def-card',
-    place: 'low',
+    below: '.def-card',
     body: 'Here is what a word opens. <b>Charis</b> — grace — as the dictionaries have it: Strong&rsquo;s, Thayer&rsquo;s and Abbott&ndash;Smith, each on its own, with where the word comes from, how the King James renders it, and where else it turns up. Any word in Mak does this.',
     go: () => { tourWordDemo(); } },
 
@@ -4336,6 +4342,9 @@ function tourWordDemo() {
     if (ov) ov.classList.add('tour-shift');
     const first = document.querySelector('#defCard details.def-fold');
     if (first) first.open = true;
+    /* Place the card the moment the entry has its real height, rather than
+       leave it centred over the popup until the next tick. */
+    tourPlaceBelow('.def-card');
   }, 260);
 }
 
@@ -4369,18 +4378,40 @@ function tourSpot(sel, show) {
 /* The dictionary popup belongs to one step. Leaving it open behind the next
    one, or leaving the shift on the overlay for the next thing that uses it,
    are both the kind of mess a reader notices and nobody can explain. */
+/* Sit the card under whatever the step just opened, rather than at a fixed
+   place: the dictionary entry is as tall as that word's entry happens to be.
+   Clamped so the card can never be pushed off the bottom -- if the entry is
+   long enough to leave no room, the card takes the room it needs and the entry
+   scrolls, which is the way round that keeps the buttons reachable. */
+function tourPlaceBelow(sel) {
+  const card = document.getElementById('tour');
+  const target = document.querySelector(sel);
+  if (!target) { card.style.top = ''; return; }
+  const t = target.getBoundingClientRect();
+  const h = card.getBoundingClientRect().height;
+  const want = t.bottom + 14;
+  card.style.top = Math.max(12, Math.min(want, window.innerHeight - h - 14)) + 'px';
+}
+
 function tourClearModal() {
   const ov = document.getElementById('defOverlay');
   if (!ov) return;
+  /* tour-shift always comes off; the one step that wants it puts it back when
+     it opens the popup. The popup itself only closes if the step arriving is
+     not the step that owns it. */
   ov.classList.remove('tour-shift');
-  if (TOUR[tourAt] && TOUR[tourAt].place !== 'low') ov.classList.remove('open');
+  if (!TOUR[tourAt] || TOUR[tourAt].spot !== '.def-card') ov.classList.remove('open');
 }
 
 function tourPaint() {
   const s = TOUR[tourAt];
   tourClearModal();
   tourSpot(s.spot, s.show);
-  setTimeout(() => { if (TOUR[tourAt] === s) tourSpot(s.spot, s.show); }, 600);
+  setTimeout(() => {
+    if (TOUR[tourAt] !== s) return;
+    tourSpot(s.spot, s.show);
+    if (s.below) tourPlaceBelow(s.below);       // the popup has rendered by now
+  }, 600);
   document.getElementById('tourStep').textContent = 'Step ' + (tourAt + 1) + ' of ' + TOUR.length;
   document.getElementById('tourTitle').textContent = s.title;
   document.getElementById('tourBody').innerHTML = s.body;
@@ -4391,6 +4422,8 @@ function tourPaint() {
   const crest = document.getElementById('tourCrest');
   card.classList.toggle('intro', tourAt === 0);
   card.classList.toggle('low', s.place === 'low');
+  card.classList.toggle('below', !!s.below);
+  if (!s.below) card.style.top = '';            // back to the centred default
   card.style.setProperty('--tint', s.tint || 'var(--sword)');
   if (tourAt === 0 && !crest.firstChild) {
     const logo = document.querySelector('.logo-circle img');
