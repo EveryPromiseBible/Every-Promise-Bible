@@ -80,7 +80,7 @@ last line brings the sequence back to the palace.
 ## What Joseph was
 
 *"**Can we find such a one as this, a man in whom is the Spirit of God?**"… "There is no one as
-discerning and wise as you."* See the note on Genesis 41:37–40.
+discerning and wise as you."* See the note on Genesis 41:37–45.
 
 A servant who acted with insight, in front of a king, during a famine.
 

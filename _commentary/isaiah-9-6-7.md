@@ -3,7 +3,8 @@ key: Isaiah 9:6–7
 title: A child is born
 sources:
   - 2023-12-24 make-room-for-christ
-updated: 2026-08-07
+  - 2025-05-25 jesus-your-storehouse-of-wisdom
+updated: 2026-08-06
 ---
 
 Four names for one person, and the second one is the problem.

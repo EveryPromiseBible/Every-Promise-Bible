@@ -3,7 +3,8 @@ key: Psalms 34:4–5
 title: Those who look to Him light up
 sources:
   - 2024-11-03 the-transformative-power-of-gods-word
-updated: 2026-08-07
+  - 2025-06-22 no-more-fear-of-death
+updated: 2026-08-06
 ---
 
 Two verses, and the second one changes from *I* to *they*.

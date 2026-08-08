@@ -3,7 +3,8 @@ key: Colossians 2:1–3
 title: For people who have never met him
 sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
-updated: 2026-08-07
+  - 2025-05-25 jesus-your-storehouse-of-wisdom
+updated: 2026-08-06
 ---
 
 Paul describes what he is doing for strangers, and the word he uses is athletic.

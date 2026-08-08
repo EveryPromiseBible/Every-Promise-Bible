@@ -3,6 +3,7 @@ key: Exodus 3:7–10
 title: "I have seen. I have heard. I know. I have come down."
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
+  - 2025-06-22 no-more-fear-of-death
 updated: 2026-08-06
 ---
 

@@ -17,6 +17,7 @@ sources:
   - 2024-10-13 the-key-to-prospering-in-all-things
   - 2024-10-20 the-healing-power-of-gods-word
   - 2025-04-27 divine-provision-in-every-season
+  - 2025-05-25 jesus-your-storehouse-of-wisdom
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2024-09-22 claim-what-is-yours
+  - 2025-05-25 jesus-your-storehouse-of-wisdom
 updated: 2026-08-06
 ---
 

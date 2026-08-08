@@ -9,6 +9,7 @@ sources:
   - 2024-04-07 the-language-of-the-holy-spirit
   - 2024-04-14 follow-the-anointing-within
   - 2024-09-22 claim-what-is-yours
+  - 2025-05-25 jesus-your-storehouse-of-wisdom
 updated: 2026-08-06
 ---
 
