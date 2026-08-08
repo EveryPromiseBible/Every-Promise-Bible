@@ -3,7 +3,8 @@ key: 1 Corinthians 15:45–49
 title: The first man and the last
 sources:
   - 2022-10-30 take-back-your-identity-in-christ
-updated: 2026-08-07
+  - 2024-03-31 death-has-been-defeated
+updated: 2026-08-06
 ---
 
 Two men, and everybody who has ever lived belongs to one of them.

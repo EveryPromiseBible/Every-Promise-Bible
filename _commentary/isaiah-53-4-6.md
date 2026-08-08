@@ -38,6 +38,7 @@ sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-04-23 be-healed-by-the-washing-of-the-word
   - 2023-05-21 walk-where-jesus-walked-tbn-special
+  - 2024-03-31 death-has-been-defeated
 updated: 2026-08-06
 ---
 

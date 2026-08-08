@@ -3,6 +3,7 @@ key: Deuteronomy 32:1–4
 title: "Let my teaching fall like rain"
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
+  - 2024-03-31 death-has-been-defeated
 updated: 2026-08-06
 ---
 

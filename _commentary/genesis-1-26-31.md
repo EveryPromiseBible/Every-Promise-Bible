@@ -8,6 +8,7 @@ sources:
   - 2021-07-11 unleash-his-resurrection-life
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2024-03-31 death-has-been-defeated
 updated: 2026-08-06
 ---
 

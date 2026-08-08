@@ -15,6 +15,7 @@ sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2023-12-24 make-room-for-christ
+  - 2024-03-31 death-has-been-defeated
 updated: 2026-08-06
 ---
 
