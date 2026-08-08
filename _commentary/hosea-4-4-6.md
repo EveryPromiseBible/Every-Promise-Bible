@@ -3,7 +3,8 @@ key: Hosea 4:4–6
 title: For lack of knowledge
 sources:
   - 2022-05-22 how-to-be-strong-in-grace
-updated: 2026-08-07
+  - 2025-02-02 the-power-of-his-resurrection
+updated: 2026-08-06
 ---
 
 The most quoted line in Hosea, and the verse names who was supposed to supply what was missing.

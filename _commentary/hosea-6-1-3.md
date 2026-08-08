@@ -7,6 +7,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2025-01-12 the-third-day
   - 2025-01-19 discern-the-times-we-live-in
+  - 2025-02-02 the-power-of-his-resurrection
 updated: 2026-08-06
 ---
 

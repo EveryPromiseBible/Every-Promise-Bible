@@ -4,6 +4,7 @@ title: If Christ is not risen
 sources:
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2021-04-04 stand-on-favor-ground
+  - 2025-02-16 count-on-your-forgiveness
 updated: 2026-08-06
 ---
 

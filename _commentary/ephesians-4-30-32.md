@@ -3,6 +3,7 @@ key: Ephesians 4:30–32
 title: "Just as God, in Christ, forgave you"
 sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2025-02-16 count-on-your-forgiveness
 updated: 2026-08-06
 ---
 

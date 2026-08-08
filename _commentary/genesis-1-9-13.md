@@ -5,6 +5,8 @@ sources:
   - 2021-06-27 his-word-brings-life-and-healing
   - 2023-08-27 speak-your-way-to-a-long-happy-life
   - 2024-03-31 death-has-been-defeated
+  - 2025-02-02 the-power-of-his-resurrection
+  - 2025-02-16 count-on-your-forgiveness
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-05-30 the-key-to-victorious-living
   - 2021-07-11 unleash-his-resurrection-life
+  - 2025-02-02 the-power-of-his-resurrection
 updated: 2026-08-06
 ---
 

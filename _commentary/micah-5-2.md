@@ -4,6 +4,7 @@ title: "But you, Bethlehem"
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
   - 2023-12-24 make-room-for-christ
+  - 2025-02-02 the-power-of-his-resurrection
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: What grows and what goes blind
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2021-08-15 the-significance-of-this-generation
+  - 2025-02-16 count-on-your-forgiveness
 updated: 2026-08-06
 ---
 

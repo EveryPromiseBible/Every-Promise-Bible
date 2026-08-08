@@ -7,6 +7,7 @@ sources:
   - 2021-04-04 stand-on-favor-ground
   - 2021-07-11 unleash-his-resurrection-life
   - 2021-07-18 christ-consciousness-brings-life
+  - 2025-02-02 the-power-of-his-resurrection
 updated: 2026-08-06
 ---
 

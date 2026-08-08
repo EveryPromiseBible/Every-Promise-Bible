@@ -6,6 +6,7 @@ sources:
   - 2021-03-28 your-healing-is-his-priority
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
   - 2024-05-19 believe-right-and-live-right
+  - 2025-02-16 count-on-your-forgiveness
 updated: 2026-08-06
 ---
 
