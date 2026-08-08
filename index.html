@@ -4341,9 +4341,11 @@ const TOUR = [
     go: () => { tourPromisesDemo(); } },
 
   { title: 'The Hymnal',
-    spot: '#hyIndex',
+    /* Follows the demo: nothing at first, then the search box, then the page
+       with its answer on it. */
+    spot: '.tour-focus',
     body: 'Thirteen hundred hymns and twenty-five thousand lines, from <i>The Christian Hymn Book</i> of 1870 — whole texts, not the two or three verses that usually survive. Listed by first line, the way a hymnal is, and searchable by line, author or theme. It is public domain, so all of it is here rather than a selection.',
-    go: () => { sv('hymns'); if (typeof hyBack === 'function') hyBack(); } },
+    go: () => { tourHymnDemo(); } },
 
   { title: 'Anything You Mark Is Kept',
     spot: '#view-mystuff .ms-wrap',
@@ -4494,6 +4496,38 @@ function tourPromisesDemo() {
      a single line under the verse. */
   [TOUR_PR_STEP1, TOUR_PR_STEP2, TOUR_PR_STEP3].forEach(t =>
     tourAfter(t, () => { const n = document.getElementById('medNext'); if (n) n.click(); }));
+}
+
+/* The hymnal step reads through the blur to begin with, deliberately: thirteen
+   hundred first lines is a wall until you ask it something. Then the search box
+   is pressed, a hymn is typed into it a letter at a time, and the page comes
+   out of the blur with the answer on it. */
+const TOUR_HY_BOX = 1500, TOUR_HY_TYPE = 2800, TOUR_HY_CHAR = 95, TOUR_HY_REVEAL = 900;
+const TOUR_HY_QUERY = 'Amazing Grace';
+
+function tourHymnDemo() {
+  sv('hymns');
+  if (typeof hyBack === 'function') hyBack();
+  const box = document.getElementById('hySearch');
+  if (box) { box.value = ''; if (typeof hyFilter === 'function') hyFilter(); }
+  tourFocus(null);                                 // nothing lifted: all blurred
+
+  tourAfter(TOUR_HY_BOX, () => { tourMark(box); tourFocus(box); });
+
+  /* A letter at a time, because a query that simply appears has not been
+     typed by anybody. */
+  for (let i = 1; i <= TOUR_HY_QUERY.length; i++) {
+    tourAfter(TOUR_HY_TYPE + i * TOUR_HY_CHAR, () => {
+      if (!box) return;
+      box.value = TOUR_HY_QUERY.slice(0, i);
+      if (typeof hyFilter === 'function') hyFilter();
+    });
+  }
+
+  tourAfter(TOUR_HY_TYPE + TOUR_HY_QUERY.length * TOUR_HY_CHAR + TOUR_HY_REVEAL, () => {
+    if (box) box.classList.remove('tour-tapped');
+    tourFocus(document.getElementById('hyIndex'));  // the answer, in the clear
+  });
 }
 
 function tourWordDemo() {
