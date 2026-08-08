@@ -3,7 +3,8 @@ key: 1 Peter 1:8–9
 title: You have never seen Him
 sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
-updated: 2026-08-07
+  - 2023-09-10 living-heavenly-minded-in-tough-times
+updated: 2026-08-06
 ---
 
 Written by a man who had seen Him, to people who had not.

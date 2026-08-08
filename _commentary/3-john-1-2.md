@@ -26,6 +26,7 @@ sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-02-05 pray-for-good-success-today
   - 2023-07-16 redefine-success-gods-way
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

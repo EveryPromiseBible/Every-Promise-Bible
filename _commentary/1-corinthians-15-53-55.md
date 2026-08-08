@@ -7,6 +7,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-10-10 understand-the-times
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

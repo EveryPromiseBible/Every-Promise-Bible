@@ -15,6 +15,7 @@ sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-01-09 gods-way-of-acceleration
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

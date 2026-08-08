@@ -4,6 +4,7 @@ title: A fortune with your name on it
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2020-03-15 dwell-safely-in-the-secret-place
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

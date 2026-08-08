@@ -11,6 +11,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-10-30 take-back-your-identity-in-christ
   - 2023-05-21 walk-where-jesus-walked-tbn-special
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

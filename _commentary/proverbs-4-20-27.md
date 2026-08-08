@@ -20,6 +20,7 @@ sources:
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-07-23 your-best-days-are-ahead
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

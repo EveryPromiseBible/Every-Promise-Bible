@@ -9,6 +9,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2022-10-30 take-back-your-identity-in-christ
   - 2023-03-26 hear-your-way-out-of-every-weakness
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

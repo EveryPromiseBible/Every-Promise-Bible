@@ -19,6 +19,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2023-02-05 pray-for-good-success-today
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

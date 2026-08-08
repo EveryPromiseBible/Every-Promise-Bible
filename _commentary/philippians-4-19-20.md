@@ -8,6 +8,7 @@ sources:
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-05-16 ask-big-ask-bold
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

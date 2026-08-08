@@ -12,6 +12,7 @@ sources:
   - 2021-10-10 understand-the-times
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

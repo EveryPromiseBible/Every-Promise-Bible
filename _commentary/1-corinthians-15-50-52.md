@@ -9,6 +9,7 @@ sources:
   - 2021-10-10 understand-the-times
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2023-09-10 living-heavenly-minded-in-tough-times
 updated: 2026-08-06
 ---
 

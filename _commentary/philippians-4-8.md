@@ -3,7 +3,8 @@ key: Philippians 4:8
 title: Eight things to think on
 sources:
   - 2022-05-08 own-your-new-creation-identity
-updated: 2026-08-07
+  - 2023-09-10 living-heavenly-minded-in-tough-times
+updated: 2026-08-06
 ---
 
 A list of eight, and the verb at the end is the whole instruction.
