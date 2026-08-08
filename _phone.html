@@ -1,0 +1,87 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Every Promise — phone test rig</title>
+<meta name="robots" content="noindex">
+<!--
+  A test rig, not part of the site. Untracked by git on purpose, so it is never
+  deployed. Delete it whenever: it holds nothing the app needs.
+
+  It puts the real index.html inside an iframe at phone dimensions. Media
+  queries inside an iframe measure the iframe, not the window, so this is the
+  actual mobile layout rather than a squashed desktop one -- and it is
+  clickable, so the tour can be walked by hand.
+-->
+<style>
+  :root{ --ink:#0f1519; --line:#39424a; }
+  *{box-sizing:border-box}
+  body{margin:0;min-height:100vh;background:#20262b;color:#e8edf1;
+    font:14px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;
+    display:flex;flex-direction:column;align-items:center;gap:16px;padding:18px;}
+  h1{font-size:15px;font-weight:600;margin:0;letter-spacing:.02em;}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;align-items:center;}
+  button{font:inherit;font-weight:600;padding:8px 14px;border-radius:999px;cursor:pointer;
+    border:1px solid var(--line);background:#2b333a;color:#e8edf1;}
+  button:hover{background:#39434c;}
+  button.on{background:#e8edf1;color:#12181d;border-color:#e8edf1;}
+  .note{color:#94a2ad;font-size:12px;max-width:640px;text-align:center;margin:0;}
+  .phone{border:8px solid #0d1114;border-radius:34px;background:#000;flex:none;
+    box-shadow:0 24px 70px rgba(0,0,0,.55);overflow:hidden;}
+  iframe{display:block;border:0;background:#fff;}
+</style>
+
+<h1>Every Promise — phone test rig</h1>
+
+<div class="bar" id="sizes"></div>
+<div class="bar">
+  <button onclick="restart()">Start the tour from step 1</button>
+  <button onclick="reload()">Reload the app</button>
+</div>
+<p class="note" id="note"></p>
+
+<div class="phone" id="phone">
+  <iframe id="app" src="index.html"></iframe>
+</div>
+
+<script>
+  /* Widths and heights are CSS pixels -- what the page actually lays out
+     against -- not the marketing "device pixels" a phone is sold with. */
+  var SIZES = [
+    ['iPhone SE',        375, 667],
+    ['iPhone 14',        390, 844],
+    ['iPhone 14 Pro Max',430, 932],
+    ['Pixel 7',          412, 915],
+    ['Galaxy S8',        360, 740]
+  ];
+  var pick = 1;
+
+  function paint() {
+    var host = document.getElementById('sizes');
+    host.innerHTML = '';
+    SIZES.forEach(function (s, i) {
+      var b = document.createElement('button');
+      b.textContent = s[0] + '  ' + s[1] + '×' + s[2];
+      if (i === pick) b.className = 'on';
+      b.onclick = function () { pick = i; paint(); };
+      host.appendChild(b);
+    });
+    var f = document.getElementById('app');
+    f.style.width = SIZES[pick][1] + 'px';
+    f.style.height = SIZES[pick][2] + 'px';
+    document.getElementById('note').textContent =
+      'The frame is a real ' + SIZES[pick][1] + '×' + SIZES[pick][2] +
+      ' viewport, so the app is running its phone layout. Click inside it as you would tap.';
+  }
+
+  function reload() { document.getElementById('app').src = 'index.html?t=' + Date.now(); }
+
+  /* Clears the "already seen" flag and starts the tour from the top. Same
+     origin, so the frame's own functions are callable from here. */
+  function restart() {
+    var w = document.getElementById('app').contentWindow;
+    try { w.localStorage.removeItem('ep-tour-seen'); } catch (e) {}
+    if (typeof w.tourStart === 'function') w.tourStart();
+    else reload();
+  }
+
+  paint();
+</script>
