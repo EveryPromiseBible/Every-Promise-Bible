@@ -6,6 +6,7 @@ sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
   - 2020-07-26 the-power-of-positive-expectations
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

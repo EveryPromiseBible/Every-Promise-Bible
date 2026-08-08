@@ -30,6 +30,7 @@ sources:
   - 2023-12-24 make-room-for-christ
   - 2025-04-20 raised-with-christ-to-reign
   - 2025-07-06 radiant-with-his-glory
+  - 2026-01-18 pray-for-the-much-more
 updated: 2026-08-06
 ---
 

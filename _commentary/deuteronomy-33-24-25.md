@@ -12,6 +12,7 @@ sources:
   - 2024-09-15 step-out-and-possess-the-land
   - 2024-09-22 claim-what-is-yours
   - 2024-10-13 the-key-to-prospering-in-all-things
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

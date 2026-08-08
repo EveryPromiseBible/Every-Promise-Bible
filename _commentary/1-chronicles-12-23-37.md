@@ -5,6 +5,7 @@ sources:
   - 2020-01-12 the-lord-of-time-and-space-part-2
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-12-13 prosperity-with-a-purpose
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

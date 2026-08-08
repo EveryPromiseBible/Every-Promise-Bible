@@ -4,6 +4,7 @@ title: He found it in the books
 sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2022-07-10 supernatural-supply-in-difficult-times
+  - 2026-01-18 pray-for-the-much-more
 updated: 2026-08-06
 ---
 

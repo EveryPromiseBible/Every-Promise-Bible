@@ -26,7 +26,7 @@ multitude… **nor do we know what to do, but our eyes are upon You***. See the 
 2 Chronicles 20:12.
 
 And the answer through Jahaziel: *the battle is not yours, but God's… **you will not need to fight
-in this battle***. See the note on 2 Chronicles 20:15–17.
+in this battle***. See the note on 2 Chronicles 20:16–19.
 
 ## The formation
 

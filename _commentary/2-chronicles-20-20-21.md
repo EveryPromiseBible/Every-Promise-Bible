@@ -6,6 +6,7 @@ sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
   - 2020-07-26 the-power-of-positive-expectations
   - 2025-07-06 radiant-with-his-glory
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

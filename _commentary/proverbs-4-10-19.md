@@ -7,6 +7,7 @@ sources:
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2025-01-05 live-in-the-now
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

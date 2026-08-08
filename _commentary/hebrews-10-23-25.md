@@ -12,6 +12,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2024-11-03 the-transformative-power-of-gods-word
   - 2025-07-13 freedom-from-a-guilty-conscience
+  - 2026-01-18 pray-for-the-much-more
 updated: 2026-08-06
 ---
 

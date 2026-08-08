@@ -3,7 +3,8 @@ key: James 4:1–3
 title: Where the fighting comes from
 sources:
   - 2023-02-05 pray-for-good-success-today
-updated: 2026-08-07
+  - 2026-01-11 the-year-of-much-more
+updated: 2026-08-06
 ---
 
 He asks where conflict comes from and answers his own question in three words.

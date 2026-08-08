@@ -7,6 +7,7 @@ sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
   - 2026-01-04 hope-that-anchors-your-soul
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: 2 Chronicles 20:13–15
 title: "The battle is not yours"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2026-01-11 the-year-of-much-more
+updated: 2026-08-06
 ---
 
 The answer arrives while everybody is still standing there.

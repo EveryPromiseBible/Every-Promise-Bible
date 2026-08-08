@@ -6,6 +6,7 @@ sources:
   - 2024-01-07 break-the-cycle-of-misfortune
   - 2025-01-12 the-third-day
   - 2025-10-19 prioritize-character-success
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

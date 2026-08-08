@@ -10,6 +10,7 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-09-05 answers-for-a-hurried-life
   - 2024-10-20 the-healing-power-of-gods-word
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

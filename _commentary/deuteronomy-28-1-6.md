@@ -13,6 +13,7 @@ sources:
   - 2024-05-12 busy-outside-restful-inside
   - 2024-10-20 the-healing-power-of-gods-word
   - 2025-11-09 live-the-heavenly-life-on-earth
+  - 2026-01-18 pray-for-the-much-more
 updated: 2026-08-06
 ---
 

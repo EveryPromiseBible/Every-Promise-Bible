@@ -19,6 +19,7 @@ sources:
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
   - 2025-10-19 prioritize-character-success
   - 2025-11-23 break-the-power-of-sinful-habits
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

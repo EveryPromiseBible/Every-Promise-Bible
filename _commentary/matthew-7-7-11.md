@@ -7,6 +7,7 @@ sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2024-10-13 the-key-to-prospering-in-all-things
   - 2026-01-04 hope-that-anchors-your-soul
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

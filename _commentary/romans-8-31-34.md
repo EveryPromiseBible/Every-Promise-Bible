@@ -13,6 +13,7 @@ sources:
   - 2024-06-30 own-your-calling-and-portion
   - 2024-11-17 goodness-and-grace-beyond-compare
   - 2025-04-06 good-happens-when-you-sense-his-love
+  - 2026-01-11 the-year-of-much-more
 updated: 2026-08-06
 ---
 

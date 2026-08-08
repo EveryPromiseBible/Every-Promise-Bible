@@ -3,7 +3,8 @@ key: 2 Chronicles 20:10–12
 title: "We do not know what to do"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+  - 2026-01-11 the-year-of-much-more
+updated: 2026-08-06
 ---
 
 A king finishes a public prayer with an admission.

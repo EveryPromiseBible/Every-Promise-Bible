@@ -25,6 +25,8 @@ sources:
   - 2024-03-03 fresh-truths-for-parenting-today
   - 2025-04-20 raised-with-christ-to-reign
   - 2025-09-07 walk-in-gods-gifts-for-you
+  - 2026-01-11 the-year-of-much-more
+  - 2026-01-18 pray-for-the-much-more
 updated: 2026-08-06
 ---
 
