@@ -10,6 +10,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-05-12 busy-outside-restful-inside
+  - 2024-05-19 believe-right-and-live-right
 updated: 2026-08-06
 ---
 

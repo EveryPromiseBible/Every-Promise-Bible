@@ -3,7 +3,8 @@ key: Hebrews 8:6–7
 title: If there had been nothing wrong with the first
 sources:
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
-updated: 2026-08-07
+  - 2024-05-19 believe-right-and-live-right
+updated: 2026-08-06
 ---
 
 Two verses, and the second is an argument from the existence of a second covenant.

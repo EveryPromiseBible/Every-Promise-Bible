@@ -6,6 +6,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-07-18 christ-consciousness-brings-life
+  - 2024-05-19 believe-right-and-live-right
 updated: 2026-08-06
 ---
 

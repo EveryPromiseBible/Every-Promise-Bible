@@ -5,6 +5,7 @@ sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2021-04-25 your-failure-isnt-final
   - 2021-08-01 release-his-glory-in-your-life
+  - 2024-05-19 believe-right-and-live-right
 updated: 2026-08-06
 ---
 

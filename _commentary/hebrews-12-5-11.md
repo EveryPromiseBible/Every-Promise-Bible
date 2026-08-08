@@ -4,6 +4,7 @@ title: The word behind "discipline," and what it is not
 sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
   - 2019-02-24 the-healing-power-of-the-holy-communion
+  - 2024-05-19 believe-right-and-live-right
 updated: 2026-08-06
 ---
 

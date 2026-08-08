@@ -5,6 +5,7 @@ sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2021-03-28 your-healing-is-his-priority
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
+  - 2024-05-19 believe-right-and-live-right
 updated: 2026-08-06
 ---
 
