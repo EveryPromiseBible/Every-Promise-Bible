@@ -27,6 +27,8 @@ sources:
   - 2025-09-07 walk-in-gods-gifts-for-you
   - 2026-01-11 the-year-of-much-more
   - 2026-01-18 pray-for-the-much-more
+  - 2026-01-25 reign-with-much-more
+  - 2026-02-08 superabounding-grace-for-unresolved-guilt
 updated: 2026-08-06
 ---
 

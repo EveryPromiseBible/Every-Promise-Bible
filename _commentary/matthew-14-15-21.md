@@ -3,7 +3,8 @@ key: Matthew 14:15–21
 title: Five loaves and two fish
 sources:
   - 2025-09-07 walk-in-gods-gifts-for-you
-updated: 2026-08-07
+  - 2026-01-25 reign-with-much-more
+updated: 2026-08-06
 ---
 
 The disciples propose sending the crowd away. He tells them to feed it.

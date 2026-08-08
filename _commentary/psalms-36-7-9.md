@@ -6,6 +6,7 @@ sources:
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2022-01-02 the-year-of-rest-and-acceleration
   - 2024-07-28 provision-in-the-place-of-nearness
+  - 2026-01-25 reign-with-much-more
 updated: 2026-08-06
 ---
 

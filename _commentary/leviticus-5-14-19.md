@@ -3,7 +3,8 @@ key: Leviticus 5:14–19
 title: Guilty without knowing it
 sources:
   - 2021-05-09 made-right-in-his-sight
-updated: 2026-08-07
+  - 2026-01-25 reign-with-much-more
+updated: 2026-08-06
 ---
 
 An offering for the sins nobody noticed committing.

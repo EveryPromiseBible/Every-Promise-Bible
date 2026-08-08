@@ -12,6 +12,7 @@ sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2023-02-26 power-to-renew-your-youth
   - 2023-05-21 walk-where-jesus-walked-tbn-special
+  - 2026-01-25 reign-with-much-more
 updated: 2026-08-06
 ---
 

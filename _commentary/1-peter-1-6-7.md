@@ -4,6 +4,7 @@ title: Gold goes into the fire
 sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2023-09-17 live-life-above-the-sun
+  - 2026-01-25 reign-with-much-more
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: Hear, O Israel
 sources:
   - 2021-07-25 speak-life-not-death
   - 2021-08-15 the-significance-of-this-generation
+  - 2026-02-08 superabounding-grace-for-unresolved-guilt
 updated: 2026-08-06
 ---
 

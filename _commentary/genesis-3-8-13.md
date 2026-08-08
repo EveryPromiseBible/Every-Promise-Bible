@@ -5,6 +5,7 @@ sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2021-07-18 christ-consciousness-brings-life
   - 2025-07-13 freedom-from-a-guilty-conscience
+  - 2026-02-08 superabounding-grace-for-unresolved-guilt
 updated: 2026-08-06
 ---
 

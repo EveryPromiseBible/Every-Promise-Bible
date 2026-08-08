@@ -7,6 +7,7 @@ sources:
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-06-26 hope-for-the-third-day-generation
   - 2022-12-25 indisputable-proof-that-god-is-for-you
+  - 2026-01-25 reign-with-much-more
 updated: 2026-08-06
 ---
 

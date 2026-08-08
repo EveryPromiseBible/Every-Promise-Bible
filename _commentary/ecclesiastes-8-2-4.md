@@ -6,6 +6,7 @@ sources:
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2025-05-11 speak-it-by-faith-before-you-see-it
+  - 2026-01-25 reign-with-much-more
 updated: 2026-08-06
 ---
 

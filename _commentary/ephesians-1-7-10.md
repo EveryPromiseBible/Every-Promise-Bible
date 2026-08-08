@@ -16,6 +16,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2025-04-06 good-happens-when-you-sense-his-love
+  - 2026-01-25 reign-with-much-more
 updated: 2026-08-06
 ---
 

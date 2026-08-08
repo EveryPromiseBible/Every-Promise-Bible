@@ -4,6 +4,7 @@ title: "I have seen. I have heard. I know. I have come down."
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2025-06-22 no-more-fear-of-death
+  - 2026-01-25 reign-with-much-more
 updated: 2026-08-06
 ---
 
