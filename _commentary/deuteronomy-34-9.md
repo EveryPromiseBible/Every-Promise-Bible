@@ -4,6 +4,7 @@ title: The hands that were laid on him
 sources:
   - 2021-01-31 keys-to-good-success
   - 2024-09-22 claim-what-is-yours
+  - 2024-10-13 the-key-to-prospering-in-all-things
 updated: 2026-08-06
 ---
 

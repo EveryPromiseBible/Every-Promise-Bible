@@ -5,6 +5,7 @@ sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2024-10-13 the-key-to-prospering-in-all-things
 updated: 2026-08-06
 ---
 

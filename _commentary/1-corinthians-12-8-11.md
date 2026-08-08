@@ -10,6 +10,7 @@ sources:
   - 2024-04-07 the-language-of-the-holy-spirit
   - 2024-04-14 follow-the-anointing-within
   - 2024-08-25 activate-your-grace-gifts
+  - 2024-10-13 the-key-to-prospering-in-all-things
 updated: 2026-08-06
 ---
 

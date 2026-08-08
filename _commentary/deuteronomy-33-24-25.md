@@ -11,6 +11,7 @@ sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2024-09-15 step-out-and-possess-the-land
   - 2024-09-22 claim-what-is-yours
+  - 2024-10-13 the-key-to-prospering-in-all-things
 updated: 2026-08-06
 ---
 

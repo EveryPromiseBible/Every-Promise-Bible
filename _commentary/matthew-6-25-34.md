@@ -26,6 +26,7 @@ sources:
   - 2024-07-28 provision-in-the-place-of-nearness
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-09-01 answers-for-lifes-demands
+  - 2024-10-13 the-key-to-prospering-in-all-things
 updated: 2026-08-06
 ---
 

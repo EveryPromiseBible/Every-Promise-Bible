@@ -10,6 +10,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
+  - 2024-10-13 the-key-to-prospering-in-all-things
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: What his father told him
 sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2024-10-13 the-key-to-prospering-in-all-things
 updated: 2026-08-06
 ---
 

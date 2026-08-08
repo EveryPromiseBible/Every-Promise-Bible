@@ -3,7 +3,8 @@ key: Joshua 18:1–10
 title: How long will you hold back
 sources:
   - 2024-09-15 step-out-and-possess-the-land
-updated: 2026-08-07
+  - 2024-10-13 the-key-to-prospering-in-all-things
+updated: 2026-08-06
 ---
 
 The fighting is over, and seven tribes have not moved in.
