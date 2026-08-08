@@ -4869,6 +4869,11 @@ function tourEnd() {
 /* A first visit is one with no seen-flag. Delayed so the landing has finished
    drawing -- the first step should open onto a page that is already there. */
 function tourMaybeAutoStart() {
+  /* ?tour on the address runs it whatever this device has already seen. That
+     is the link you send somebody: without it the tour only ever opens on a
+     first visit, so anyone who had looked at the site before would get the app
+     and wonder what they were supposed to be looking at. */
+  if (/[?&]tour(=|&|$)/.test(location.search)) { setTimeout(tourStart, 900); return; }
   let seen = '1';
   try { seen = localStorage.getItem(TOUR_SEEN); } catch (e) {}
   if (!seen) setTimeout(tourStart, 900);
