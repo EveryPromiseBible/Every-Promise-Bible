@@ -4,6 +4,7 @@ title: Do not weep, this day is holy
 sources:
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2024-07-21 freedom-from-the-spirit-of-depression
+  - 2024-07-28 provision-in-the-place-of-nearness
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
+  - 2024-07-28 provision-in-the-place-of-nearness
 updated: 2026-08-06
 ---
 

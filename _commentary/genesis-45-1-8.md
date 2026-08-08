@@ -3,7 +3,8 @@ key: Genesis 45:1–8
 title: I am Joseph
 sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
-updated: 2026-08-07
+  - 2024-07-28 provision-in-the-place-of-nearness
+updated: 2026-08-06
 ---
 
 He clears the room before he says who he is.

@@ -10,6 +10,7 @@ sources:
   - 2021-10-10 understand-the-times
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
   - 2022-11-13 you-are-blessed-to-be-a-blessing
+  - 2024-07-28 provision-in-the-place-of-nearness
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Genesis 45:9–15
 title: Hurry back to my father
 sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
-updated: 2026-08-07
+  - 2024-07-28 provision-in-the-place-of-nearness
+updated: 2026-08-06
 ---
 
 He has just told them who he is, and the next thing he says is about the old man at home.

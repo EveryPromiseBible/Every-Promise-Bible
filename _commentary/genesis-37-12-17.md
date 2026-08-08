@@ -3,7 +3,8 @@ key: Genesis 37:12–17
 title: I am looking for my brothers
 sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
-updated: 2026-08-07
+  - 2024-07-28 provision-in-the-place-of-nearness
+updated: 2026-08-06
 ---
 
 A father sends a son to check on brothers who hate him, and the son says yes.

@@ -7,6 +7,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2023-02-26 power-to-renew-your-youth
+  - 2024-07-28 provision-in-the-place-of-nearness
 updated: 2026-08-06
 ---
 

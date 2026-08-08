@@ -3,7 +3,8 @@ key: Proverbs 15:8–15
 title: A feast that keeps going
 sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
-updated: 2026-08-07
+  - 2024-07-28 provision-in-the-place-of-nearness
+updated: 2026-08-06
 ---
 
 Eight proverbs, and the last one ends the run on a table.

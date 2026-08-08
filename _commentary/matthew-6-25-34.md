@@ -23,6 +23,7 @@ sources:
   - 2023-07-16 redefine-success-gods-way
   - 2024-01-07 break-the-cycle-of-misfortune
   - 2024-01-14 the-year-of-living-in-the-upper-room
+  - 2024-07-28 provision-in-the-place-of-nearness
 updated: 2026-08-06
 ---
 
