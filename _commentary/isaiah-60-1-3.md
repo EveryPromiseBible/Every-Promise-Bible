@@ -24,6 +24,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2024-04-14 follow-the-anointing-within
+  - 2024-07-21 freedom-from-the-spirit-of-depression
 updated: 2026-08-06
 ---
 

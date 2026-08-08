@@ -5,6 +5,7 @@ sources:
   - 2017-08-06 the-healing-power-of-a-joyful-heart
   - 2021-08-22 greater-shalom-and-security
   - 2023-07-23 your-best-days-are-ahead
+  - 2024-07-21 freedom-from-the-spirit-of-depression
 updated: 2026-08-06
 ---
 

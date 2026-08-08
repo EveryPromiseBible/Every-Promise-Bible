@@ -3,7 +3,8 @@ key: Isaiah 53:1–3
 title: Nothing to look at
 sources:
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-07
+  - 2024-07-21 freedom-from-the-spirit-of-depression
+updated: 2026-08-06
 ---
 
 The chapter opens with a question about belief, not about suffering.

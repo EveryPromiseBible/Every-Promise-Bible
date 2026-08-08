@@ -3,7 +3,8 @@ key: Nehemiah 8:9–10
 title: Do not weep, this day is holy
 sources:
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
-updated: 2026-08-07
+  - 2024-07-21 freedom-from-the-spirit-of-depression
+updated: 2026-08-06
 ---
 
 The reading goes well, the response is tears, and three sets of leaders tell them to stop.

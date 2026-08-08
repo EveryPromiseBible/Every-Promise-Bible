@@ -39,6 +39,7 @@ sources:
   - 2023-04-23 be-healed-by-the-washing-of-the-word
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-03-31 death-has-been-defeated
+  - 2024-07-21 freedom-from-the-spirit-of-depression
 updated: 2026-08-06
 ---
 

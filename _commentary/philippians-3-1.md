@@ -3,7 +3,8 @@ key: Philippians 3:1
 title: Solid ground to stand on
 sources:
   - 2023-07-23 your-best-days-are-ahead
-updated: 2026-08-07
+  - 2024-07-21 freedom-from-the-spirit-of-depression
+updated: 2026-08-06
 ---
 
 A transition verse, and it explains why the letter repeats itself.

@@ -3,6 +3,7 @@ key: 1 Peter 5:9
 title: "Plant your feet in the faith"
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2024-07-21 freedom-from-the-spirit-of-depression
 updated: 2026-08-06
 ---
 

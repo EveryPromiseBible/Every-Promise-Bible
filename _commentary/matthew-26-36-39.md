@@ -3,7 +3,8 @@ key: Matthew 26:36–39
 title: Gethsemane
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-07
+  - 2024-07-21 freedom-from-the-spirit-of-depression
+updated: 2026-08-06
 ---
 
 The garden, and Matthew does not hide any of it.
