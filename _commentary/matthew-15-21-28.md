@@ -13,6 +13,7 @@ sources:
   - 2022-06-19 own-the-spirit-of-sonship
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2023-07-23 your-best-days-are-ahead
+  - 2024-01-14 the-year-of-living-in-the-upper-room
 updated: 2026-08-06
 ---
 

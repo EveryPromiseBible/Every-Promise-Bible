@@ -6,6 +6,7 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2021-11-28 faith-to-possess-the-land
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2024-01-14 the-year-of-living-in-the-upper-room
 updated: 2026-08-06
 ---
 

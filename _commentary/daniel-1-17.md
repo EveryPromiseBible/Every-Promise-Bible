@@ -3,7 +3,8 @@ key: Daniel 1:17
 title: "And to Daniel He gave more still"
 sources:
   - 2021-01-17 learn-how-to-receive-visions
-updated: 2026-08-07
+  - 2024-01-14 the-year-of-living-in-the-upper-room
+updated: 2026-08-06
 ---
 
 One verse, and it is the hinge of the whole book.
