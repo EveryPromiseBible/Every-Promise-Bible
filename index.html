@@ -4240,14 +4240,15 @@ const TOUR = [
        page being shown. */
     show: '.bible-main',
     body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through. Watch the switch.',
-    /* Flips it, both ways, while the reader is looking at it. Reading that the
-       Greek "drops away" is not the same as seeing a page of it go. It ends
-       back in study, which is where the next step needs to be. */
+    /* Flips it back and forth while the reader is looking at it. Reading that
+       the Greek "drops away" is not the same as seeing a page of it go, and one
+       flip is easy to miss if you happened to be reading the card at the time.
+       Slow on purpose: the point is to see the page in each state, not to watch
+       a switch blink. */
     go: () => {
       if (currentTx !== 'mak') switchTranslation('mak');
       if (readMode) toggleMode();               // start in study, whatever came before
-      tourAfter(1500, () => { if (!readMode) toggleMode(); });   // study -> read
-      tourAfter(4200, () => { if (readMode) toggleMode(); });    // read -> study
+      tourModeCycle(0);
     } },
 
   { title: 'Tap a Word',
@@ -4368,6 +4369,25 @@ function tourTraps(el) {
    translation is built around, and every source has a full entry for it. If it
    cannot be found the step falls back to the first word on the page rather than
    opening an empty popup. */
+/* Three round trips between study and read, then it settles. An even count
+   starting from study ends in study, which is where the next step needs it.
+   Each flip re-schedules the next one rather than all six being queued at
+   once, so the chain simply stops the moment the reader moves on -- tourAfter
+   drops a pending action once the step has changed, and nothing after it is
+   ever queued. */
+const TOUR_MODE_FLIPS = 6, TOUR_MODE_FIRST = 1800, TOUR_MODE_GAP = 2500;
+
+function tourModeCycle(n) {
+  if (n >= TOUR_MODE_FLIPS) {
+    if (readMode) tourAfter(TOUR_MODE_GAP, () => toggleMode());   // never leave it in read
+    return;
+  }
+  tourAfter(n === 0 ? TOUR_MODE_FIRST : TOUR_MODE_GAP, () => {
+    toggleMode();
+    tourModeCycle(n + 1);
+  });
+}
+
 function tourWordDemo() {
   if (currentTx !== 'mak') switchTranslation('mak');
   if (readMode) toggleMode();                      // the words have to be tappable
