@@ -3,7 +3,8 @@ key: Ecclesiastes 1:1–3
 title: Breath on a cold morning
 sources:
   - 2022-06-26 hope-for-the-third-day-generation
-updated: 2026-08-07
+  - 2023-09-17 live-life-above-the-sun
+updated: 2026-08-06
 ---
 
 The book opens with the thesis, and then spends twelve chapters testing it.

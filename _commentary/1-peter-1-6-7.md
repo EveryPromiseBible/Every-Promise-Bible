@@ -3,7 +3,8 @@ key: 1 Peter 1:6–7
 title: Gold goes into the fire
 sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
-updated: 2026-08-07
+  - 2023-09-17 live-life-above-the-sun
+updated: 2026-08-06
 ---
 
 The reason for the joy is named, and then the trials are named, and Peter does not soften either.

@@ -3,7 +3,8 @@ key: Song of Songs 1:2–4
 title: Your name a fragrance
 sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
-updated: 2026-08-07
+  - 2023-09-17 live-life-above-the-sun
+updated: 2026-08-06
 ---
 
 The book opens in the middle of a sentence, and the first voice is hers.

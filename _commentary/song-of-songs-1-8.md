@@ -3,7 +3,8 @@ key: Song of Songs 1:8
 title: Follow the tracks of the flock
 sources:
   - 2021-03-28 your-healing-is-his-priority
-updated: 2026-08-07
+  - 2023-09-17 live-life-above-the-sun
+updated: 2026-08-06
 ---
 
 She asked where he was. The answer she gets is: look at the ground.

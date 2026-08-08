@@ -3,7 +3,8 @@ key: Ecclesiastes 2:9–11
 title: Then I turned and looked
 sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
-updated: 2026-08-07
+  - 2023-09-17 live-life-above-the-sun
+updated: 2026-08-06
 ---
 
 He built everything a man could build, and then walked round it.

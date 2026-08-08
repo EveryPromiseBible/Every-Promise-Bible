@@ -5,6 +5,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2022-12-13 prosperity-with-a-purpose
+  - 2023-09-17 live-life-above-the-sun
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Song of Songs 1:7
 title: Where do you rest them at noon
 sources:
   - 2021-03-28 your-healing-is-his-priority
-updated: 2026-08-07
+  - 2023-09-17 live-life-above-the-sun
+updated: 2026-08-06
 ---
 
 Her first direct question, and it is about where to find Him in the middle of the day.
