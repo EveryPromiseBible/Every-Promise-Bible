@@ -459,6 +459,20 @@
 
   .overlay{display:none;position:fixed;inset:0;background:rgba(17,17,17,0.35);z-index:100;align-items:center;justify-content:center;padding:20px;}
   .overlay.open{display:flex;}
+  /* "New content is ready." One line, dismissible, above the bottom bar on a
+     phone so it never covers the navigation. Deliberately not an overlay: it
+     must not block the text, because the text is still perfectly readable --
+     the only thing wrong with it is that something newer exists. */
+  .sw-toast{display:none;position:fixed;left:50%;transform:translateX(-50%);bottom:22px;
+    z-index:120;align-items:center;gap:12px;background:var(--ink);color:var(--white);
+    border-radius:999px;padding:10px 12px 10px 18px;box-shadow:0 8px 28px rgba(0,0,0,0.28);
+    font-family:var(--sans);font-size:0.84em;max-width:calc(100vw - 24px);}
+  .sw-toast.on{display:flex;}
+  .sw-toast button{font-family:var(--sans);font-size:1em;font-weight:600;cursor:pointer;
+    border:none;border-radius:999px;padding:6px 14px;background:var(--white);color:var(--ink);}
+  .sw-toast button:hover{background:var(--paper);}
+  .sw-toast .sw-toast-x{background:none;color:var(--white);opacity:0.7;padding:6px 8px;font-size:1.15em;}
+  .sw-toast .sw-toast-x:hover{background:rgba(255,255,255,0.15);opacity:1;}
   /* ---- scripture search ---- */
   .search-card{background:var(--white);border-radius:16px;max-width:640px;width:100%;
     box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;display:flex;flex-direction:column;
@@ -640,6 +654,8 @@
     .side-panel-content{padding:14px 14px 18px;}
     .lib-group{margin-bottom:16px;}
     .lib-card{padding:9px 11px;border-radius:8px;}
+    /* Clear of .bnav, which is fixed at bottom:10px and about 35px tall. */
+    .sw-toast{bottom:62px;}
     .lswatch{width:14px;height:14px;border-radius:4px;margin-bottom:6px;}
     .lcode{font-size:0.55em;margin-bottom:2px;}
     .lname{font-size:0.78em;line-height:1.3;}
@@ -1228,6 +1244,17 @@
   <button data-v="mystuff" onclick="sv('mystuff')">My Stuff</button>
   <button data-v="hymns" onclick="sv('hymns')">Hymns</button>
   <button data-v="journal" onclick="sv('journal')">Journal</button>
+</div>
+
+<!-- Raised by the service worker when a background refresh found a newer
+     corpus than the cached one being read right now. Not an error and not
+     urgent: the page is perfectly usable as it stands, so this asks rather
+     than reloading underneath someone mid-verse. -->
+<div class="sw-toast" id="swToast" role="status" aria-live="polite">
+  <span>New content is ready.</span>
+  <button type="button" onclick="location.reload()">Reload</button>
+  <button type="button" class="sw-toast-x" aria-label="Dismiss"
+          onclick="document.getElementById('swToast').classList.remove('on')">&times;</button>
 </div>
 
 <div class="overlay" id="defOverlay" onclick="if(event.target===this) closeDef()">
@@ -4737,6 +4764,26 @@ if ('serviceWorker' in navigator && swOK) {
     navigator.serviceWorker.register('sw.js').catch(err => {
       console.warn('[sw] registration failed:', err);
     });
+  });
+
+  /* The corpus is served from cache first, so a reader opening the app the day
+   * after a new set of notes goes up is reading last week's copy while the new
+   * one downloads behind them. That used to be silent, and silence is
+   * indistinguishable from a deploy that never landed. The worker now says so,
+   * and this turns it into one dismissible line.
+   *
+   * Shown once per page load: several data files can change in the same
+   * deploy, and being told three times is worse than not being told at all.
+   *
+   * Reloading only re-reads files. Everything the reader has made -- notes,
+   * bookmarks, highlights, the journal -- lives in localStorage, which the
+   * cache layer cannot reach and a reload does not touch. */
+  let updateShown = false;
+  navigator.serviceWorker.addEventListener('message', ev => {
+    if (!ev.data || ev.data.type !== 'content-updated' || updateShown) return;
+    updateShown = true;
+    const toast = document.getElementById('swToast');
+    if (toast) toast.classList.add('on');
   });
 }
 </script>

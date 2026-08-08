@@ -18,13 +18,45 @@
  * on a plane. It is the right trade for this site, but it is a real trade and
  * worth knowing about before wondering why an edit "did not show up."
  *
+ * The lag used to be silent, which made it indistinguishable from a deploy
+ * that had not landed: the only way to tell was to clear the cache by hand.
+ * So the background refresh now compares what it fetched against what it had
+ * -- ETag first, then Last-Modified, then length -- and when the corpus has
+ * genuinely changed it posts a message to the open pages. index.html turns
+ * that into a small "new content -- reload" prompt. The reader still gets the
+ * instant cached copy; they are simply told that a fresher one is ready,
+ * instead of having to guess.
+ *
+ * Only /data/ triggers that message. An icon or a font quietly updating is
+ * not worth interrupting anyone for.
+ *
  * Bump CACHE_VERSION to evict every cached file at once. You do not need to do
  * this for ordinary content edits -- the strategies above already pick those
  * up. Bump it when the shell changes in a way that must not be served stale,
  * or when you want a clean slate.
  */
 
-const CACHE_VERSION = 'every-promise-v6';
+const CACHE_VERSION = 'every-promise-v7';
+
+/* Cheapest reliable "is this a different file?" signal the host gives us.
+ * GitHub Pages sends a strong ETag, so that is the usual answer; the other two
+ * are fallbacks for hosts that do not. An empty stamp on either side means we
+ * cannot tell, and we say nothing rather than nagging on every request. */
+function stampOf(res) {
+  return (res && (res.headers.get('etag') ||
+                  res.headers.get('last-modified') ||
+                  res.headers.get('content-length'))) || '';
+}
+
+function contentChanged(cached, fresh) {
+  const a = stampOf(cached), b = stampOf(fresh);
+  return !!a && !!b && a !== b;
+}
+
+function announceUpdate(url) {
+  self.clients.matchAll({ includeUncontrolled: true })
+    .then(cs => cs.forEach(c => c.postMessage({ type: 'content-updated', url })));
+}
 
 /* The shell only. data/*.js is deliberately NOT precached: those files total
  * ~15 MB raw (Thayer's alone is ~5 MB), and precaching them would make the very
@@ -104,12 +136,31 @@ self.addEventListener('fetch', event => {
       const network = fetch(req)
         .then(res => {
           if (res && res.status === 200) {
+            /* Compare before overwriting: once the fresh copy is in the cache
+             * the old stamp is gone and there is nothing left to compare. Only
+             * worth announcing when there WAS a cached copy -- on a first visit
+             * the reader is already getting the current file. */
+            const changed = hit && url.pathname.startsWith('/data/') &&
+                            contentChanged(hit, res);
             const copy = res.clone();
-            caches.open(CACHE_VERSION).then(c => c.put(req, copy));
+            return caches.open(CACHE_VERSION)
+              .then(c => c.put(req, copy))
+              .then(() => { if (changed) announceUpdate(url.pathname); })
+              .then(() => res);
           }
           return res;
         })
         .catch(() => hit);
+
+      /* The whole point of "revalidate" is the half that happens after the
+       * reader already has their answer -- and that half only runs if the
+       * worker is still alive to run it. Returning the cached hit ends the
+       * fetch event, and without waitUntil the browser is free to shut the
+       * worker down immediately, cancelling the refresh mid-flight. The cache
+       * then never updates and the corpus is frozen at whatever was first
+       * downloaded. Holding the event open until the refresh settles is what
+       * makes "lands on the next visit" actually true. */
+      event.waitUntil(network.catch(() => {}));
 
       return hit || network;
     })
