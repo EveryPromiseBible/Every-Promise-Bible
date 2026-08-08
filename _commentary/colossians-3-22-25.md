@@ -8,6 +8,7 @@ sources:
   - 2022-01-09 gods-way-of-acceleration
   - 2022-04-03 when-the-odds-are-against-you
   - 2022-12-13 prosperity-with-a-purpose
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,7 @@ sources:
   - 2019-01-27 be-led-by-his-anointing-and-win
   - 2021-10-03 leadership-keys
   - 2022-02-27 jesus-saves-heals-and-renews
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

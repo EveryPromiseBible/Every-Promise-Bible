@@ -3,7 +3,8 @@ key: 2 Corinthians 5:9–10
 title: Our one ambition
 sources:
   - 2024-08-25 activate-your-grace-gifts
-updated: 2026-08-07
+  - 2025-09-21 transformed-by-beholding-jesus
+updated: 2026-08-06
 ---
 
 Paul names his single aim, and then the reason for it.

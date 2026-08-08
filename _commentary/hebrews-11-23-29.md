@@ -7,6 +7,7 @@ sources:
   - 2021-05-30 the-key-to-victorious-living
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-02-20 stay-strong-and-healthy-gods-way
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

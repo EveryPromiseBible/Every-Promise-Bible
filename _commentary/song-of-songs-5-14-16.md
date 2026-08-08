@@ -5,6 +5,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2024-11-17 goodness-and-grace-beyond-compare
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

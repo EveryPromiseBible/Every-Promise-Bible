@@ -11,6 +11,7 @@ sources:
   - 2023-02-26 power-to-renew-your-youth
   - 2025-05-11 speak-it-by-faith-before-you-see-it
   - 2025-09-07 walk-in-gods-gifts-for-you
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

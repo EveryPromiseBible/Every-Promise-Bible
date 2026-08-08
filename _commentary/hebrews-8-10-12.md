@@ -20,6 +20,7 @@ sources:
   - 2025-04-20 raised-with-christ-to-reign
   - 2025-07-06 radiant-with-his-glory
   - 2025-09-14 trust-the-way-of-grace
+  - 2025-10-05 renew-your-strength-gods-way
 updated: 2026-08-06
 ---
 

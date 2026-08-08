@@ -11,6 +11,7 @@ sources:
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2023-05-21 walk-where-jesus-walked-tbn-special
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

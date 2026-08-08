@@ -13,6 +13,7 @@ sources:
   - 2025-07-06 radiant-with-his-glory
   - 2025-08-17 access-his-power-and-wisdom
   - 2025-08-24 the-power-of-a-cleansed-conscience
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

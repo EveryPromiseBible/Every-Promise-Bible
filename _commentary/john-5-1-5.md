@@ -5,6 +5,7 @@ sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-03-28 your-healing-is-his-priority
+  - 2025-10-05 renew-your-strength-gods-way
 updated: 2026-08-06
 ---
 

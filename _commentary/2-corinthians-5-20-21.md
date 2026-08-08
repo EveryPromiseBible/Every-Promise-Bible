@@ -38,6 +38,7 @@ sources:
   - 2025-01-05 live-in-the-now
   - 2025-03-09 boldness-to-enter-the-holiest
   - 2025-03-30 freedom-from-failure-consciousness
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 

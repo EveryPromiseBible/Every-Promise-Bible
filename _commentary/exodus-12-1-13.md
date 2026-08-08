@@ -13,6 +13,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2013-12-08 understanding-grace-and-discipleship
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2025-09-21 transformed-by-beholding-jesus
 updated: 2026-08-06
 ---
 
