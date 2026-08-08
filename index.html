@@ -626,7 +626,10 @@
      this the Skip and Next buttons scroll away with the text, leaving a reader
      on a 667px screen with no visible way forward. */
   .tour-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;
-    margin-top:15px;position:sticky;bottom:0;background:var(--sheet);padding:6px 0 2px;}
+    margin-top:15px;position:sticky;bottom:0;background:var(--sheet);
+    /* Reaches down over the card's own bottom padding, otherwise the text
+       scrolling underneath shows in that strip below the buttons. */
+    padding:8px 0 14px;margin-bottom:-14px;}
   .tour-dots{display:flex;gap:5px;flex:1 1 auto;justify-content:center;}
   .tour-dots i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block;}
   .tour-dots i.on{background:var(--sword);}
@@ -4713,18 +4716,44 @@ function tourAvoid() {
   const spot = document.querySelector('.tour-spot');
   if (!spot) { card.classList.remove('below'); card.style.top = ''; return; }
 
+  /* Below 1000px the layout stacks, so the library sits under the reading
+     column rather than beside it -- and a step pointing at a card in it was
+     ringing something correctly sized, correctly lit, and completely off the
+     bottom of the screen. Brought into view first, and instantly rather than
+     smoothly: this runs while the card is faded out between steps, so the
+     scroll is never seen, and the measurements below need the final position. */
+  const VH0 = window.innerHeight;
+  const t0 = spot.getBoundingClientRect();
+  if (t0.height <= VH0 - 24) {
+    /* Small enough to show whole: centre it unless it already sits clear of
+       both edges. Half a card poking past the top is not "on screen". */
+    if (t0.top < 8 || t0.bottom > VH0 - 8) spot.scrollIntoView({ behavior: 'auto', block: 'center' });
+  } else if (t0.bottom < 8 || t0.top > VH0 - 8) {
+    /* Taller than the screen -- a chapter, a commentary note. It cannot be
+       shown whole, so only rescue it when none of it is visible at all. */
+    spot.scrollIntoView({ behavior: 'auto', block: 'start' });
+  }
+
   const t = spot.getBoundingClientRect(), c = card.getBoundingClientRect();
   const VH = window.innerHeight, h = c.height, pad = TOUR_RING + TOUR_GAP;
   if (c.bottom < t.top || c.top > t.bottom) return;     // already clear of it
 
-  const below = t.bottom + pad, above = t.top - pad - h;
+  let below = t.bottom + pad, above = t.top - pad - h;
   let top = null;
   if (below + h <= VH - 12) top = below;                // room under the spot
   else if (above >= 12) top = above;                    // room over it
-  else top = (t.top > VH - t.bottom) ? 12 : VH - h - 12; // neither: take the bigger half
+  else if (t.height + pad + h <= VH - 24) {
+    /* Neither, only because of where it happens to be sitting -- the two would
+       fit on the screen together. Push the spotlight up to the top and take the
+       room underneath it. */
+    spot.scrollIntoView({ behavior: 'auto', block: 'start' });
+    top = spot.getBoundingClientRect().bottom + pad;
+  } else {
+    top = (t.top > VH - t.bottom) ? 12 : VH - h - 12;   // genuinely no room: bigger half
+  }
 
   card.classList.add('below');
-  card.style.top = Math.round(top) + 'px';
+  card.style.top = Math.round(Math.max(12, Math.min(top, VH - h - 12))) + 'px';
 }
 
 function tourPlaceBelow(sel) {
