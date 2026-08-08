@@ -10,6 +10,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-06-06 set-apart-for-lasting-success
+  - 2024-08-18 live-by-the-power-of-the-gospel
 updated: 2026-08-06
 ---
 

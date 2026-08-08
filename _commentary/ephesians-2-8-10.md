@@ -11,6 +11,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2023-04-23 be-healed-by-the-washing-of-the-word
   - 2023-08-27 speak-your-way-to-a-long-happy-life
+  - 2024-08-18 live-by-the-power-of-the-gospel
 updated: 2026-08-06
 ---
 

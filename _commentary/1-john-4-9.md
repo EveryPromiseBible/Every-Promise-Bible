@@ -3,7 +3,8 @@ key: 1 John 4:9
 title: Out into the open
 sources:
   - 2024-02-18 how-to-be-led-by-the-lord
-updated: 2026-08-07
+  - 2024-08-18 live-by-the-power-of-the-gospel
+updated: 2026-08-06
 ---
 
 One sentence, and it locates the evidence outside the reader.

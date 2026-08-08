@@ -6,6 +6,7 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2023-05-21 walk-where-jesus-walked-tbn-special
+  - 2024-08-18 live-by-the-power-of-the-gospel
 updated: 2026-08-06
 ---
 

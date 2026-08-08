@@ -4,6 +4,7 @@ title: Caught by its horns
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2024-08-18 live-by-the-power-of-the-gospel
 updated: 2026-08-06
 ---
 

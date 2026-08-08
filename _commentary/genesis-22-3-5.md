@@ -3,7 +3,8 @@ key: Genesis 22:3–5
 title: We will come back
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
-updated: 2026-08-07
+  - 2024-08-18 live-by-the-power-of-the-gospel
+updated: 2026-08-06
 ---
 
 Three days of walking, and one sentence at the end of it that the narrator repeats.

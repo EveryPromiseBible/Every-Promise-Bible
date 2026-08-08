@@ -3,6 +3,7 @@ key: Romans 11:5–6
 title: "Otherwise grace would not be grace at all"
 sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
+  - 2024-08-18 live-by-the-power-of-the-gospel
 updated: 2026-08-06
 ---
 

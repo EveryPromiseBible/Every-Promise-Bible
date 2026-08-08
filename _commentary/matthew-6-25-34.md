@@ -24,6 +24,7 @@ sources:
   - 2024-01-07 break-the-cycle-of-misfortune
   - 2024-01-14 the-year-of-living-in-the-upper-room
   - 2024-07-28 provision-in-the-place-of-nearness
+  - 2024-08-18 live-by-the-power-of-the-gospel
 updated: 2026-08-06
 ---
 

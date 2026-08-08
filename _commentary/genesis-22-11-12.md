@@ -7,6 +7,7 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2013-12-08 understanding-grace-and-discipleship
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2024-08-18 live-by-the-power-of-the-gospel
 updated: 2026-08-06
 ---
 
