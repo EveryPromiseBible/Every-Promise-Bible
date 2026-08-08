@@ -35,6 +35,7 @@ sources:
   - 2024-11-17 goodness-and-grace-beyond-compare
   - 2024-11-24 stay-near-the-scent-of-water
   - 2024-12-22 when-god-stooped-down
+  - 2025-01-05 live-in-the-now
 updated: 2026-08-06
 ---
 

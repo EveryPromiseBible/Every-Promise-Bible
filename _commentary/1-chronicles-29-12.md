@@ -3,6 +3,7 @@ key: 1 Chronicles 29:12
 title: "Wealth and honor come from You"
 sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

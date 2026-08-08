@@ -3,6 +3,7 @@ key: Esther 5:1–2
 title: The golden sceptre
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
+  - 2025-01-12 the-third-day
 updated: 2026-08-06
 ---
 

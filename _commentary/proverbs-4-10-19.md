@@ -6,6 +6,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2020-12-27 how-to-see-many-beautiful-days
   - 2022-08-21 the-powerful-benefits-of-gods-word
+  - 2025-01-05 live-in-the-now
 updated: 2026-08-06
 ---
 

@@ -8,6 +8,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2021-11-28 faith-to-possess-the-land
   - 2022-07-03 fresh-supply-for-todays-needs
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

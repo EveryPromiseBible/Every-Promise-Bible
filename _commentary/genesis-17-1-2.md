@@ -6,6 +6,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2025-01-12 the-third-day
 updated: 2026-08-06
 ---
 

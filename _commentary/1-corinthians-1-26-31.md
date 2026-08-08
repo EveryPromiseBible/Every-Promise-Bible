@@ -16,6 +16,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2023-07-16 redefine-success-gods-way
   - 2024-10-13 the-key-to-prospering-in-all-things
+  - 2025-01-05 live-in-the-now
 updated: 2026-08-06
 ---
 

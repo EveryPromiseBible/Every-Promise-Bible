@@ -5,6 +5,7 @@ sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2021-10-03 leadership-keys
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2025-01-12 the-third-day
 updated: 2026-08-06
 ---
 

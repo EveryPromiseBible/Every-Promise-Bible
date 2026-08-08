@@ -4,6 +4,7 @@ title: They would not thank Him
 sources:
   - 2023-06-25 the-cure-to-a-dissatisfied-life
   - 2024-07-07 boldness-on-the-day-of-judgment
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

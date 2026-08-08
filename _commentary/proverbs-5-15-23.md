@@ -3,7 +3,8 @@ key: Proverbs 5:15–23
 title: "Drink water from your own cistern"
 sources:
   - 2021-01-17 learn-how-to-receive-visions
-updated: 2026-08-07
+  - 2025-01-12 the-third-day
+updated: 2026-08-06
 ---
 
 A father's warning to a son, and the middle of it turns into something warmer than a

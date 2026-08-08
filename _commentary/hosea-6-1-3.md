@@ -5,6 +5,8 @@ sources:
   - 2021-08-01 release-his-glory-in-your-life
   - 2022-06-26 hope-for-the-third-day-generation
   - 2022-07-03 fresh-supply-for-todays-needs
+  - 2025-01-12 the-third-day
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2023-11-12 the-prayer-that-removes-anxiety
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: We will come back
 sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2024-08-18 live-by-the-power-of-the-gospel
+  - 2025-01-12 the-third-day
 updated: 2026-08-06
 ---
 

@@ -8,6 +8,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2023-02-19 much-more-restoration-is-coming
   - 2023-04-23 be-healed-by-the-washing-of-the-word
+  - 2025-01-05 live-in-the-now
 updated: 2026-08-06
 ---
 

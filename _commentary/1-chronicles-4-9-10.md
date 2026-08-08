@@ -4,6 +4,7 @@ title: The prayer of Jabez
 sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2025-01-12 the-third-day
 updated: 2026-08-06
 ---
 

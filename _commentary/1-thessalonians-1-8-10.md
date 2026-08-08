@@ -8,6 +8,7 @@ sources:
   - 2021-04-11 all-things-work-for-your-good
   - 2021-07-25 speak-life-not-death
   - 2021-10-10 understand-the-times
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

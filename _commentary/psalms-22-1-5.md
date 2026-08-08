@@ -5,6 +5,7 @@ sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
   - 2020-03-29 what-to-focus-on-in-dark-times
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

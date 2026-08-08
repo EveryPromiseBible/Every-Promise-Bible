@@ -43,6 +43,7 @@ sources:
   - 2024-08-04 win-the-battle-over-temptation
   - 2024-11-17 goodness-and-grace-beyond-compare
   - 2024-12-22 when-god-stooped-down
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

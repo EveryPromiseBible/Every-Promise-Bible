@@ -11,6 +11,7 @@ sources:
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2024-07-07 boldness-on-the-day-of-judgment
+  - 2025-01-19 discern-the-times-we-live-in
 updated: 2026-08-06
 ---
 

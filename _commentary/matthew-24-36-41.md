@@ -11,6 +11,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-10-09 hope-for-the-end-times
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2025-01-12 the-third-day
 updated: 2026-08-06
 ---
 
