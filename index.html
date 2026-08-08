@@ -543,6 +543,9 @@
     background:var(--tint);opacity:0.75;margin:9px 0 11px;border-radius:2px;}
   .tour-body{font-size:0.94em;line-height:1.5;color:var(--ink);margin:0;}
   .tour-body b{font-weight:700;}
+  .tour-body a{color:var(--sword);font-weight:600;text-decoration:none;
+    border-bottom:1px solid var(--sword);padding-bottom:1px;}
+  .tour-body a:hover{background:var(--sword-soft);}
   .tour-body p{margin:0 0 11px;}
   .tour-body p:last-child{margin-bottom:0;}
 
@@ -4381,7 +4384,9 @@ const TOUR = [
     go: () => { tourJournalDemo(); } },
 
   { title: 'That Is the Tour',
-    body: 'The app opens somewhere random every visit — it keeps things fresh, and it helps if you do not know where to start. You can run this again any time from <b>☰ &rarr; Take the tour</b>.',
+    body: '<p>The app opens somewhere random every visit — it keeps things fresh, and it helps if you do not know where to start. You can run this again any time from <b>☰ &rarr; Take the tour</b>.</p>' +
+          '<p class="tour-lead">Anything broken, anything missing, anything you would like added:<br>' +
+          '<a href="mailto:everypromiseapp@gmail.com">everypromiseapp@gmail.com</a></p>',
     go: () => { sv('bible'); if (currentTx !== 'illum') switchTranslation('illum'); } }
 ];
 
