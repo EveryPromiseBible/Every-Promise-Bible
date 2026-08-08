@@ -3,7 +3,8 @@ key: Matthew 18:23–35
 title: Ten thousand bags of gold
 sources:
   - 2025-02-16 count-on-your-forgiveness
-updated: 2026-08-07
+  - 2025-04-06 good-happens-when-you-sense-his-love
+updated: 2026-08-06
 ---
 
 The two debts in the story are not comparable, and the whole parable turns on the gap.

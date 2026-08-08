@@ -3,6 +3,7 @@ key: Hebrews 9:6–7
 title: "Only one day a year, and never without blood"
 sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

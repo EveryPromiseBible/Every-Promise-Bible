@@ -5,6 +5,7 @@ sources:
   - 2018-11-04 how-to-pray-and-see-results
   - 2022-12-13 prosperity-with-a-purpose
   - 2024-11-17 goodness-and-grace-beyond-compare
+  - 2025-03-30 freedom-from-failure-consciousness
 updated: 2026-08-06
 ---
 

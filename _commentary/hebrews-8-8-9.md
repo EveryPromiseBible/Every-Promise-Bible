@@ -3,7 +3,8 @@ key: Hebrews 8:8–9
 title: "The days are coming"
 sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
-updated: 2026-08-07
+  - 2025-03-30 freedom-from-failure-consciousness
+updated: 2026-08-06
 ---
 
 The writer begins the longest Old Testament quotation in the New Testament, and the first

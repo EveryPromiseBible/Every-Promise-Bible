@@ -16,6 +16,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-06 prosper-gods-way-during-recession
   - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2025-02-23 live-by-faith-not-by-your-feelings
 updated: 2026-08-06
 ---
 

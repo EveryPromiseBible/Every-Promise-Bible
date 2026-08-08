@@ -26,6 +26,7 @@ sources:
   - 2024-05-19 believe-right-and-live-right
   - 2024-09-01 answers-for-lifes-demands
   - 2024-11-03 the-transformative-power-of-gods-word
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

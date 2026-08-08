@@ -3,6 +3,7 @@ key: Deuteronomy 11:26–28
 title: "Today I am setting before you"
 sources:
   - 2018-11-04 how-to-pray-and-see-results
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

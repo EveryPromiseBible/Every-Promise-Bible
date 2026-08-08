@@ -15,6 +15,7 @@ sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2023-06-11 blessed-with-father-abrahams-blessings
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2025-02-23 live-by-faith-not-by-your-feelings
 updated: 2026-08-06
 ---
 

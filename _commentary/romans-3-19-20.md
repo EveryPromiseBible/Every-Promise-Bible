@@ -16,6 +16,8 @@ sources:
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2023-03-26 hear-your-way-out-of-every-weakness
+  - 2025-02-23 live-by-faith-not-by-your-feelings
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

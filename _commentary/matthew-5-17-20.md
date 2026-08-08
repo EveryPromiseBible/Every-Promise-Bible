@@ -4,6 +4,7 @@ title: Not torn down, but filled full
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: If there had been nothing wrong with the first
 sources:
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
   - 2024-05-19 believe-right-and-live-right
+  - 2025-03-30 freedom-from-failure-consciousness
 updated: 2026-08-06
 ---
 

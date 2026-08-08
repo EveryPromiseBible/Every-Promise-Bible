@@ -16,6 +16,7 @@ sources:
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-09-01 answers-for-lifes-demands
+  - 2025-03-30 freedom-from-failure-consciousness
 updated: 2026-08-06
 ---
 

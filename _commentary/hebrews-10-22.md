@@ -4,6 +4,7 @@ title: Let us come close
 sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

@@ -36,6 +36,8 @@ sources:
   - 2024-11-24 stay-near-the-scent-of-water
   - 2024-12-22 when-god-stooped-down
   - 2025-01-05 live-in-the-now
+  - 2025-03-09 boldness-to-enter-the-holiest
+  - 2025-03-30 freedom-from-failure-consciousness
 updated: 2026-08-06
 ---
 

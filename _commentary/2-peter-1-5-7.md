@@ -4,6 +4,7 @@ title: Set one thing next to another
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2025-02-16 count-on-your-forgiveness
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

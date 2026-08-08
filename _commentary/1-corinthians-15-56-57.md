@@ -21,6 +21,7 @@ sources:
   - 2024-09-22 claim-what-is-yours
   - 2024-11-03 the-transformative-power-of-gods-word
   - 2024-12-22 when-god-stooped-down
+  - 2025-02-23 live-by-faith-not-by-your-feelings
 updated: 2026-08-06
 ---
 

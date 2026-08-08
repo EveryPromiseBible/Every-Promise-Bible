@@ -10,6 +10,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-05-09 made-right-in-his-sight
   - 2022-01-09 gods-way-of-acceleration
+  - 2025-03-09 boldness-to-enter-the-holiest
 updated: 2026-08-06
 ---
 

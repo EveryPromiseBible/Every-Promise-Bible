@@ -15,6 +15,7 @@ sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2025-04-06 good-happens-when-you-sense-his-love
 updated: 2026-08-06
 ---
 

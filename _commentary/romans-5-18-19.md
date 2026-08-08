@@ -11,6 +11,7 @@ sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2021-06-06 set-apart-for-lasting-success
   - 2024-08-18 live-by-the-power-of-the-gospel
+  - 2025-02-23 live-by-faith-not-by-your-feelings
 updated: 2026-08-06
 ---
 
