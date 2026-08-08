@@ -3,7 +3,8 @@ key: 2 Peter 1:3–4
 title: Everything already handed over
 sources:
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
-updated: 2026-08-07
+  - 2024-09-01 answers-for-lifes-demands
+updated: 2026-08-06
 ---
 
 Two verses at the front of Peter's last letter, and both of the main verbs are past tense.

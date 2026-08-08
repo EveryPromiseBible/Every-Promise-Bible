@@ -4,6 +4,7 @@ title: Received as the word of God
 sources:
   - 2024-01-14 the-year-of-living-in-the-upper-room
   - 2024-03-03 fresh-truths-for-parenting-today
+  - 2024-09-01 answers-for-lifes-demands
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: 1 Corinthians 15:9–11
 title: By the grace of God
 sources:
   - 2024-08-25 activate-your-grace-gifts
-updated: 2026-08-07
+  - 2024-09-01 answers-for-lifes-demands
+updated: 2026-08-06
 ---
 
 Paul says three things about himself in a row, and two of them cancel.

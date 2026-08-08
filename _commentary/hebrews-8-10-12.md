@@ -15,6 +15,7 @@ sources:
   - 2021-07-11 unleash-his-resurrection-life
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
   - 2023-05-21 walk-where-jesus-walked-tbn-special
+  - 2024-09-01 answers-for-lifes-demands
 updated: 2026-08-06
 ---
 

@@ -6,6 +6,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2021-09-05 answers-for-a-hurried-life
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2024-09-01 answers-for-lifes-demands
 updated: 2026-08-06
 ---
 

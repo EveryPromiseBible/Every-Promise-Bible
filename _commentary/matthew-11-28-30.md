@@ -21,6 +21,7 @@ sources:
   - 2022-07-31 rest-for-your-soul-in-restless-times
   - 2023-02-05 pray-for-good-success-today
   - 2024-08-25 activate-your-grace-gifts
+  - 2024-09-01 answers-for-lifes-demands
 updated: 2026-08-06
 ---
 

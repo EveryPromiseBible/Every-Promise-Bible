@@ -6,6 +6,7 @@ sources:
   - 2020-06-21 the-power-of-forgiveness-brings-freedom
   - 2020-08-30 distracted-and-depressed-help-is-on-the-way
   - 2024-02-18 how-to-be-led-by-the-lord
+  - 2024-09-01 answers-for-lifes-demands
 updated: 2026-08-06
 ---
 
