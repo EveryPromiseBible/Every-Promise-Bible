@@ -8,6 +8,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2023-07-23 your-best-days-are-ahead
+  - 2023-08-13 keys-to-a-spirit-filled-life
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Romans 12:1–2
 title: By the mercies of God
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-07
+  - 2023-08-13 keys-to-a-spirit-filled-life
+updated: 2026-08-06
 ---
 
 The turn in the letter, and it is one word wide.

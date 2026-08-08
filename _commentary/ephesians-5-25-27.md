@@ -11,6 +11,7 @@ sources:
   - 2022-03-06 keys-to-counter-the-four-horsemen
   - 2022-03-13 pillars-for-our-church-and-life
   - 2023-04-16 unveiling-jesus-heart-to-serve-you
+  - 2023-08-13 keys-to-a-spirit-filled-life
 updated: 2026-08-06
 ---
 

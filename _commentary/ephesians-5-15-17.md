@@ -3,7 +3,8 @@ key: Ephesians 5:15–17
 title: Buying back the time
 sources:
   - 2021-01-03 the-year-of-hazon-vision
-updated: 2026-08-07
+  - 2023-08-13 keys-to-a-spirit-filled-life
+updated: 2026-08-06
 ---
 
 Three short clauses, and the middle one is a market transaction.
