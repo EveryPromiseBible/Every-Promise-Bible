@@ -1,5 +1,35 @@
 # Cache rules for Netlify / Cloudflare Pages.
 #
+# ---------------------------------------------------------------------------
+# NOT IN EFFECT ON THE CURRENT HOST. This site is served by GitHub Pages,
+# which has no mechanism for setting response headers and ignores this file
+# entirely. It sends a flat `Cache-Control: max-age=600` on everything.
+#
+# The consequence, measured rather than assumed: for those ten minutes the
+# browser answers a /data/ request out of its own HTTP cache WITHOUT CONSULTING
+# THE SERVICE WORKER AT ALL -- resource timing reports workerStart 0 and
+# deliveryType "cache". So no amount of cleverness in sw.js can shorten that
+# window; the worker is not running during it. An attempt to force the issue
+# there with `cache: 'no-cache'` was written, tested against a local server
+# reproducing these exact headers, found to change nothing, and removed.
+#
+# What actually happens: once the entry goes stale the worker is consulted
+# again, its stale-while-revalidate path sees the new ETag, refreshes the
+# corpus and prompts the reader. Verified end to end. So the practical cost is
+# a ten-minute delay for someone who reloads immediately after a deploy, and
+# none at all for a reader returning later -- their entry is long expired.
+# Mostly it confuses whoever just deployed. To check a deploy landed, request
+# a cache-busted URL (`/index.html?cb=123`); the plain URL may answer from
+# cache and look like a deploy that never happened.
+#
+# Removing the window for real is a hosting change, not a code change: move to
+# Netlify or Cloudflare Pages, both of which read this file, or put Cloudflare
+# in front of Pages and set the rule there.
+#
+# Keep this file. It is correct, and it starts working the day the site moves
+# to a host that reads it. Just do not trust it to be doing anything today.
+# ---------------------------------------------------------------------------
+#
 # The four data files are large and change rarely, but they MUST NOT be cached
 # blindly -- when a promise is added or a verse corrected, readers have to get
 # it. So they revalidate on every visit, and the host answers an unchanged file
