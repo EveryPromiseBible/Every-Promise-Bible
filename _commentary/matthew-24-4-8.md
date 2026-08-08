@@ -12,6 +12,8 @@ sources:
   - 2022-10-09 hope-for-the-end-times
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
 updated: 2026-08-06
 ---
 

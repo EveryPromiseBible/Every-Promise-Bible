@@ -11,6 +11,7 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2023-08-13 keys-to-a-spirit-filled-life
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
 updated: 2026-08-06
 ---
 

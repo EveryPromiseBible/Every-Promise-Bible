@@ -6,6 +6,7 @@ sources:
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-09 made-right-in-his-sight
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

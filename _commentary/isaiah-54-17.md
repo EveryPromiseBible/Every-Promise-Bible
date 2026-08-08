@@ -7,6 +7,7 @@ sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
   - 2020-10-18 gods-answer-for-spiritual-warfare
   - 2021-05-02 inside-out-transformation
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
 updated: 2026-08-06
 ---
 

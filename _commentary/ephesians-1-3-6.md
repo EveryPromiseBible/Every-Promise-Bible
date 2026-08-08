@@ -14,6 +14,7 @@ sources:
   - 2022-04-03 when-the-odds-are-against-you
   - 2023-06-11 blessed-with-father-abrahams-blessings
   - 2023-06-25 the-cure-to-a-dissatisfied-life
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

@@ -11,6 +11,9 @@ sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2023-02-05 pray-for-good-success-today
   - 2023-08-13 keys-to-a-spirit-filled-life
+  - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

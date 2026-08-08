@@ -9,6 +9,9 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-05-30 the-key-to-victorious-living
   - 2017-09-17 under-attack-put-on-the-armor-of-god
+  - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

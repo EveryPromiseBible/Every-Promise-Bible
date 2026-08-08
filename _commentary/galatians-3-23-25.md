@@ -5,6 +5,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-06-19 own-the-spirit-of-sonship
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

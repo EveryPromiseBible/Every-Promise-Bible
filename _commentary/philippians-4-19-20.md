@@ -9,6 +9,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-05-16 ask-big-ask-bold
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

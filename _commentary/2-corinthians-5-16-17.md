@@ -15,6 +15,7 @@ sources:
   - 2022-05-22 how-to-be-strong-in-grace
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2023-10-15 put-on-gods-armor-in-the-evil-day
 updated: 2026-08-06
 ---
 

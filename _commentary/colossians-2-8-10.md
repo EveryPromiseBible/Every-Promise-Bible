@@ -6,6 +6,7 @@ sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2021-09-26 now-is-the-time-of-favor
   - 2021-10-31 where-is-holiness-in-grace
+  - 2023-10-15 put-on-gods-armor-in-the-evil-day
 updated: 2026-08-06
 ---
 

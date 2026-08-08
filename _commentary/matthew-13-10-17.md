@@ -4,6 +4,7 @@ title: Why He speaks in stories
 sources:
   - 2021-06-27 his-word-brings-life-and-healing
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

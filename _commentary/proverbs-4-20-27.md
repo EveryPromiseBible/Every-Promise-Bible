@@ -21,6 +21,7 @@ sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-07-23 your-best-days-are-ahead
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
 updated: 2026-08-06
 ---
 

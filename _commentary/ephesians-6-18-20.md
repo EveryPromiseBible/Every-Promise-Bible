@@ -3,7 +3,10 @@ key: Ephesians 6:18–20
 title: An ambassador in chains
 sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
-updated: 2026-08-07
+  - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+updated: 2026-08-06
 ---
 
 The armour passage ends, and there is no seventh piece — there is a posture.

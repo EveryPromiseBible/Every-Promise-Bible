@@ -6,6 +6,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 

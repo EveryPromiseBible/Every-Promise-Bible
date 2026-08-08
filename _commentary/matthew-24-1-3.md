@@ -5,6 +5,8 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-03-08 find-security-in-times-of-anxiety
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
 updated: 2026-08-06
 ---
 

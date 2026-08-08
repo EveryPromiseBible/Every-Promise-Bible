@@ -6,6 +6,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
 updated: 2026-08-06
 ---
 
