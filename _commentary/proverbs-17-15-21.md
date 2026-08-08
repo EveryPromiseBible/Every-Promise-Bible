@@ -3,6 +3,7 @@ key: Proverbs 17:15–21
 title: Both alike
 sources:
   - 2020-09-27 actively-own-your-double-portion
+  - 2026-07-19 weapons-in-times-of-adversity
 updated: 2026-08-06
 ---
 

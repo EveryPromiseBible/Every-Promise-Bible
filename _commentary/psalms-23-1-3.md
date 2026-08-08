@@ -22,6 +22,7 @@ sources:
   - 2023-12-24 make-room-for-christ
   - 2024-11-24 stay-near-the-scent-of-water
   - 2024-12-22 when-god-stooped-down
+  - 2026-07-26 the-beauty-of-beholding-jesus-together
 updated: 2026-08-06
 ---
 

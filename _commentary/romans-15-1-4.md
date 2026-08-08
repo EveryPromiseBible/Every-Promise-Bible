@@ -9,6 +9,7 @@ sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2024-09-15 step-out-and-possess-the-land
   - 2025-04-27 divine-provision-in-every-season
+  - 2026-07-19 weapons-in-times-of-adversity
 updated: 2026-08-06
 ---
 

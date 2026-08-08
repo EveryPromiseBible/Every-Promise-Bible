@@ -3,7 +3,8 @@ key: Deuteronomy 32:10–14
 title: The eagle stirring up its nest
 sources:
   - 2025-11-09 live-the-heavenly-life-on-earth
-updated: 2026-08-07
+  - 2026-08-02 live-loved-by-the-father
+updated: 2026-08-06
 ---
 
 The finding happens in the emptiest place named in the song.

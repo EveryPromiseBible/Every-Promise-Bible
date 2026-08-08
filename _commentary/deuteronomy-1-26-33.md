@@ -3,6 +3,7 @@ key: Deuteronomy 1:26–33
 title: "The LORD hates us"
 sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
+  - 2026-08-02 live-loved-by-the-father
 updated: 2026-08-06
 ---
 

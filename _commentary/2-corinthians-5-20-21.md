@@ -42,6 +42,7 @@ sources:
   - 2025-11-02 his-way-is-to-abundantly-pardon
   - 2026-03-01 silence-the-enemys-accusations
   - 2026-04-05 proof-of-your-righteousness-in-christ
+  - 2026-07-26 the-beauty-of-beholding-jesus-together
 updated: 2026-08-06
 ---
 

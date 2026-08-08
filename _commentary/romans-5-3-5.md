@@ -8,6 +8,7 @@ sources:
   - 2024-03-17 live-led-by-the-power-of-the-spirit
   - 2024-08-04 win-the-battle-over-temptation
   - 2026-01-04 hope-that-anchors-your-soul
+  - 2026-07-19 weapons-in-times-of-adversity
 updated: 2026-08-06
 ---
 

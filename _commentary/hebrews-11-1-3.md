@@ -9,6 +9,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-10-30 take-back-your-identity-in-christ
   - 2026-01-04 hope-that-anchors-your-soul
+  - 2026-07-19 weapons-in-times-of-adversity
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: 2 Chronicles 20:25–26
 title: Three days of plunder
 sources:
   - 2026-01-11 the-year-of-much-more
-updated: 2026-08-07
+  - 2026-07-19 weapons-in-times-of-adversity
+updated: 2026-08-06
 ---
 
 The gathering takes three times as long as the battle, and they were not in the battle.

@@ -4,6 +4,7 @@ title: The dew of Hermon
 sources:
   - 2023-09-17 live-life-above-the-sun
   - 2024-11-03 the-transformative-power-of-gods-word
+  - 2026-07-26 the-beauty-of-beholding-jesus-together
 updated: 2026-08-06
 ---
 

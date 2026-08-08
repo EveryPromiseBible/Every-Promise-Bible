@@ -3,7 +3,8 @@ key: Psalms 27:4–6
 title: One thing I ask
 sources:
   - 2021-02-07 answers-for-a-distracted-world
-updated: 2026-08-07
+  - 2026-07-26 the-beauty-of-beholding-jesus-together
+updated: 2026-08-06
 ---
 
 A soldier's psalm, and the request in the middle of it is not for what you would expect.

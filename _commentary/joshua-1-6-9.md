@@ -19,6 +19,7 @@ sources:
   - 2025-04-27 divine-provision-in-every-season
   - 2025-05-25 jesus-your-storehouse-of-wisdom
   - 2025-07-06 radiant-with-his-glory
+  - 2026-07-19 weapons-in-times-of-adversity
 updated: 2026-08-06
 ---
 

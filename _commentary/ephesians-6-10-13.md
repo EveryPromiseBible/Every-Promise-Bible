@@ -16,6 +16,7 @@ sources:
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
   - 2025-02-02 the-power-of-his-resurrection
   - 2026-01-18 pray-for-the-much-more
+  - 2026-07-19 weapons-in-times-of-adversity
 updated: 2026-08-06
 ---
 

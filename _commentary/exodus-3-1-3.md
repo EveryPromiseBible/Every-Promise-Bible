@@ -3,7 +3,8 @@ key: Exodus 3:1–3
 title: The bush that would not burn up
 sources:
   - 2021-03-07 come-to-the-feast-of-healing
-updated: 2026-08-07
+  - 2026-07-19 weapons-in-times-of-adversity
+updated: 2026-08-06
 ---
 
 Forty years of sheep, and then a shrub.

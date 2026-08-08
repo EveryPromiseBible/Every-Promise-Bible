@@ -9,6 +9,7 @@ sources:
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
   - 2025-06-29 arise-and-shine-by-praying-in-the-spirit
   - 2026-05-31 speak-by-faith-not-by-sight
+  - 2026-07-19 weapons-in-times-of-adversity
 updated: 2026-08-06
 ---
 

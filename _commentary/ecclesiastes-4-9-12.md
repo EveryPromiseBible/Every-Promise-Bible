@@ -3,7 +3,8 @@ key: Ecclesiastes 4:9–12
 title: A cord of three strands
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2026-07-19 weapons-in-times-of-adversity
+updated: 2026-08-06
 ---
 
 Four short arguments for company, from the book that spends most of its time on futility.

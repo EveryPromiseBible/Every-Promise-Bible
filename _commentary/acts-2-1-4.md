@@ -17,6 +17,8 @@ sources:
   - 2024-01-14 the-year-of-living-in-the-upper-room
   - 2024-05-12 busy-outside-restful-inside
   - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
+  - 2026-07-19 weapons-in-times-of-adversity
+  - 2026-07-26 the-beauty-of-beholding-jesus-together
 updated: 2026-08-06
 ---
 

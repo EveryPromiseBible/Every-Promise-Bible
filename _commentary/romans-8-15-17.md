@@ -23,6 +23,7 @@ sources:
   - 2024-04-07 the-language-of-the-holy-spirit
   - 2024-09-22 claim-what-is-yours
   - 2026-04-05 proof-of-your-righteousness-in-christ
+  - 2026-08-02 live-loved-by-the-father
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: 2 Chronicles 20:22–24
 title: The moment they began to sing
 sources:
   - 2025-07-06 radiant-with-his-glory
-updated: 2026-08-07
+  - 2026-07-19 weapons-in-times-of-adversity
+updated: 2026-08-06
 ---
 
 The army arrives at the battlefield and finds it already over.

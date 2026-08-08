@@ -7,6 +7,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-10-31 where-is-holiness-in-grace
   - 2022-08-07 encounter-true-grace-and-experience-success
+  - 2026-07-26 the-beauty-of-beholding-jesus-together
 updated: 2026-08-06
 ---
 
