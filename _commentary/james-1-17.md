@@ -8,6 +8,7 @@ sources:
   - 2021-09-26 now-is-the-time-of-favor
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2024-08-25 activate-your-grace-gifts
+  - 2026-07-05 dont-lose-heart-keep-on-praying
 updated: 2026-08-06
 ---
 

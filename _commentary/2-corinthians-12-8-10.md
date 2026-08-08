@@ -8,6 +8,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2023-02-05 pray-for-good-success-today
   - 2023-02-19 much-more-restoration-is-coming
+  - 2026-07-05 dont-lose-heart-keep-on-praying
 updated: 2026-08-06
 ---
 

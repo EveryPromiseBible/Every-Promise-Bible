@@ -3,7 +3,8 @@ key: Hebrews 6:11–12
 title: Copy the people who held on
 sources:
   - 2026-01-04 hope-that-anchors-your-soul
-updated: 2026-08-07
+  - 2026-07-05 dont-lose-heart-keep-on-praying
+updated: 2026-08-06
 ---
 
 The remedy for going soft is not effort. It is imitation.

@@ -3,6 +3,7 @@ key: Genesis 32:22–26
 title: "I will not let You go unless You bless me"
 sources:
   - 2018-11-04 how-to-pray-and-see-results
+  - 2026-07-05 dont-lose-heart-keep-on-praying
 updated: 2026-08-06
 ---
 
