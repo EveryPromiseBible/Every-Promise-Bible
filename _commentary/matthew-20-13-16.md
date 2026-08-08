@@ -114,7 +114,7 @@ condemn Him to death."*
 And then the mother of James and John, asking for the two seats.
 
 *"Whoever desires to become great among you, let him be your servant."* See the note on
-Matthew 20:25–28.
+Matthew 20:24–28.
 
 The men in the parable wanted proportionate reward. The next scene is two of the twelve asking
 for the best places.

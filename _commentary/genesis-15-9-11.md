@@ -102,7 +102,7 @@ The man it is made with is asleep, and never walks.
 ## What he had been promised
 
 *"**Look now toward heaven, and count the stars** if you are able to number them… **So shall your
-descendants be**."* See the note on Genesis 15:1–5.
+descendants be**."* See the note on Genesis 15:1.
 
 ## Where the same fire turns up
 

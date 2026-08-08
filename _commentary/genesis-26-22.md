@@ -48,7 +48,7 @@ The room is stated to be a gift, after two rounds of giving ground.
 ## The root elsewhere
 
 *You have **set my feet in a wide place**.* And *He brought me out into a broad place; He delivered
-me, because He delighted in me*. See the note on Psalms 18:18–19.
+me, because He delighted in me*. See the note on Psalms 18:16–24.
 
 The same word. Deliverance in the psalms is often described as space.
 
@@ -90,7 +90,7 @@ gets the land.
 
 ## Where the pattern is stated
 
-*Blessed are the meek, for they shall inherit the earth.* See the note on Matthew 5:5–6.
+*Blessed are the meek, for they shall inherit the earth.* See the note on Matthew 5:3–12.
 
 The Greek is **praeis** — the Septuagint's word in Psalm 37: *the meek shall inherit the earth, and
 shall delight themselves in the abundance of peace*.

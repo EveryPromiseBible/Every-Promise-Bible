@@ -34,7 +34,7 @@ The word is about welcoming a guest. Not *cannot hear*. Does not take in.
 *For to him **they are foolishness**.*
 
 **Moria** — folly. The word Paul used two chapters earlier: *the message of the cross is
-foolishness to those who are perishing*. See the note on 1 Corinthians 1:18–19.
+foolishness to those who are perishing*. See the note on 1 Corinthians 1:18–25.
 
 ## The reason
 

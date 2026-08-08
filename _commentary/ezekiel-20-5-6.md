@@ -62,7 +62,7 @@ Before Moses sent twelve men to survey it, God says He had already surveyed it �
 for them.
 
 Ten of the twelve came back and said *we are not able*. See the note on
-Numbers 13:30–33.
+Numbers 13:26–33.
 
 ## The description
 

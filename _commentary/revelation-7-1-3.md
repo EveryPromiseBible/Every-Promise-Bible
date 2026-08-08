@@ -14,7 +14,7 @@ Between the sixth seal and the seventh.
 
 The sixth has just been opened — the sun black as sackcloth, the moon like blood, and men hiding
 in the caves saying *hide us from the face of Him who sits on the throne*, and the question that
-ends the chapter: *who is able to stand?* See the note on Revelation 6:12–17.
+ends the chapter: *who is able to stand?* See the note on Revelation 6:12–14.
 
 Chapter 7 is the answer, and it arrives as an interruption.
 
@@ -97,12 +97,12 @@ Two marks, both on foreheads, and Revelation makes the sealing the earlier of th
 ## What Paul calls it
 
 *In whom also, having believed, **you were sealed with the Holy Spirit of promise**, who is the
-guarantee of our inheritance.* See the note on Ephesians 1:13–14.
+guarantee of our inheritance.* See the note on Ephesians 1:11–14.
 
 ## Who is standing at the end of the chapter
 
 *A great multitude which no one could number, of all nations, tribes, peoples, and tongues,
-standing before the throne.* See the note on Revelation 7:9–12.
+standing before the throne.* See the note on Revelation 7:9–10.
 
 The chapter that begins with judgment held ends with a crowd nobody can count.
 

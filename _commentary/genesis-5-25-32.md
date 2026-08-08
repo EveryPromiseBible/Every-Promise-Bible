@@ -46,7 +46,7 @@ The reading is disputed and cannot be pressed. The arithmetic stands on its own.
 The longest life in the book sits in the generation before the judgment.
 
 Peter's word for it: *the Divine longsuffering waited in the days of Noah, while the ark was being
-prepared*. See the note on 1 Peter 3:18–20.
+prepared*. See the note on 1 Peter 3:18.
 
 ## Lamech's line
 
@@ -78,7 +78,7 @@ The comfort comes, and not in the shape the father had in mind.
 ## The other Lamech
 
 Five verses earlier, in Cain's line, a different Lamech: *I have killed a man for wounding me… if
-Cain shall be avenged sevenfold, then Lamech seventy-sevenfold*. See the note on Genesis 4:23–24.
+Cain shall be avenged sevenfold, then Lamech seventy-sevenfold*. See the note on Genesis 4:17–24.
 
 Two men with the same name in two lines. One boasts about a killing. One names a son for comfort.
 

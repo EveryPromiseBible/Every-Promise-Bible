@@ -50,7 +50,7 @@ Gilead came by night and took it.
 
 *Therefore, because it was the Preparation Day, that the bodies **should not remain on the cross on
 the Sabbath**… the Jews asked Pilate that their legs might be broken.* See the note on
-John 19:31–33.
+John 19:31–34.
 
 The request to break the legs and hasten death comes from this verse. So does the burial before
 sundown.

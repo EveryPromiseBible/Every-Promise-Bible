@@ -86,7 +86,7 @@ The system is described as temporary in its own terms.
 ## What happens to the curtain
 
 *Then, behold, **the veil of the temple was torn in two from top to bottom**.* See the note on
-Matthew 27:50–51.
+Matthew 27:48–50.
 
 From the top. Nobody reached that high.
 

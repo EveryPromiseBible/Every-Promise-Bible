@@ -105,7 +105,7 @@ Not the groan of a dying thing. The noise made at the point where something is a
 ## The three groans of the chapter
 
 Creation groans. *We ourselves groan within ourselves.* And *the Spirit makes intercession for us
-with groanings which cannot be uttered*. See the note on Romans 8:23–27.
+with groanings which cannot be uttered*. See the note on Romans 8:23–25.
 
 Three, in the same passage, with the Spirit's at the bottom of it.
 

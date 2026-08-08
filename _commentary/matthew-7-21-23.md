@@ -99,13 +99,13 @@ Matthew 11:28–30.
 ## The other side of the verb
 
 *"I am the good shepherd; and **I know My sheep, and am known by My own**."* See the note on
-John 10:14–15.
+John 10:11–15.
 
 The same verb, in the positive. *He calls His own sheep by name.*
 
 ## And Paul
 
-*But now after you have known God, or rather **are known by God**.* See the note on Galatians 4:8–9.
+*But now after you have known God, or rather **are known by God**.* See the note on Galatians 4:8–11.
 
 He corrects himself mid-sentence and puts the knowing on the other side.
 

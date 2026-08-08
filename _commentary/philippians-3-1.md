@@ -78,7 +78,7 @@ Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a 
 Hebrews, a Pharisee, blameless concerning the law.
 
 *But what things were gain to me, these **I have counted loss for Christ**.* See the note on
-Philippians 3:7–9.
+Philippians 3:7–8.
 
 **Skubala** — refuse, dung.
 
@@ -86,7 +86,7 @@ Philippians 3:7–9.
 
 *That I may know Him and the power of His resurrection… **forgetting those things which are behind
 and reaching forward** to those things which are ahead.* See the note on
-Philippians 3:12–14.
+Philippians 3:12.
 
 ## And where it lands
 

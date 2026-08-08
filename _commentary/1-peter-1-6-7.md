@@ -110,7 +110,7 @@ inexpressible and full of glory**.* See the note on 1 Peter 1:8–9.
 ## What James says with the same vocabulary
 
 *My brethren, count it all joy when you fall into **various trials**, knowing that **the testing of
-your faith produces patience**.* See the note on James 1:2–4.
+your faith produces patience**.* See the note on James 1:2.
 
 The same two words — **poikilois peirasmois** and **dokimion**.
 

@@ -45,7 +45,7 @@ The morning star rises last, in the dark, just before the sun.
 
 *And so we have the prophetic word confirmed, which you do well to heed as a light that shines in
 a dark place, **until the day dawns and the morning star rises in your hearts**.* See the note on
-2 Peter 1:19–21.
+2 Peter 1:19.
 
 ## The first voice
 

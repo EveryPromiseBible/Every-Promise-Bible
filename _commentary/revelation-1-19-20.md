@@ -54,7 +54,7 @@ The Greek is **musterion** — mystery. In the New Testament, not something unkn
 something previously hidden and now disclosed.
 
 Paul uses it the same way: *the mystery which has been hidden from ages and from generations, but
-now has been revealed*. See the note on Colossians 1:26–27.
+now has been revealed*. See the note on Colossians 1:24–27.
 
 ## The first explanation
 

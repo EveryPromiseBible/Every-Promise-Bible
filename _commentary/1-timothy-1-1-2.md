@@ -34,7 +34,7 @@ the Father repeatedly — six times across the three letters.
 Not *who gives us hope*. The hope is a person, in apposition.
 
 The same construction as *Christ in you, the hope of glory*. See the note on
-Colossians 1:26–27.
+Colossians 1:24–27.
 
 ## The address
 

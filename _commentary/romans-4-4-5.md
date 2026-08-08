@@ -85,7 +85,7 @@ Paul makes it in the same chapter: Abraham was counted righteous in Genesis 15, 
 Genesis 17.
 
 *How then was it accounted? While he was circumcised, or uncircumcised? **Not while circumcised,
-but while uncircumcised**.* See the note on Romans 4:9–12.
+but while uncircumcised**.* See the note on Romans 4:9–10.
 
 The order of the chapters is the argument.
 

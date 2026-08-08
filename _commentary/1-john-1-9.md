@@ -94,7 +94,7 @@ The Advocate is stated as a present possession, before any confession is mention
 *"God, be merciful to me a sinner."*
 
 The Greek is **hilasthēti** — the verb of the same root as **hilasmos**. See the note on
-Luke 18:9–14.
+Luke 18:9–12.
 
 *I tell you, this man went down to his house justified.*
 

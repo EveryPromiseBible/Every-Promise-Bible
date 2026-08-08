@@ -86,7 +86,7 @@ when I found the one I love.*
 Psalms 23:1–3.
 
 And Peter, of the sufferings of Christ: *leaving us an example, that you should **follow
-His steps**.* See the note on 1 Peter 2:21–23.
+His steps**.* See the note on 1 Peter 2:21–22.
 
 The Greek there is **ichnesin** — footprints. The same image, the same instruction.
 

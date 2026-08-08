@@ -83,7 +83,7 @@ that touches them is the part furthest from the head — and it is still His bod
 
 Paul's closing line in the letter says the same thing from the ground: *the God of
 peace will crush Satan **under your feet** shortly* is Romans, and Ephesians 6 has the
-church standing, not advancing. See the note on Ephesians 6:13–15.
+church standing, not advancing. See the note on Ephesians 6:10–13.
 
 > **"The fullness of the One who fills everything."** Paul calls the church that,
 > which is an extraordinary thing to call a scattered collection of first-century

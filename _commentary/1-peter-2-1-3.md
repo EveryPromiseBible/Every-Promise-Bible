@@ -82,10 +82,10 @@ not the immature one.
 ## Where it goes next
 
 *Coming to Him as to a living stone… **you also, as living stones, are being built up a spiritual
-house**.* See the note on 1 Peter 2:4–6.
+house**.* See the note on 1 Peter 2:4–5.
 
 And then the priesthood: *a chosen generation, a royal priesthood*. See the note on
-1 Peter 2:9–10.
+1 Peter 2:9.
 
 The newborn in verse 2 is a priest by verse 9.
 

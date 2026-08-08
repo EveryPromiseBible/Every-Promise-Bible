@@ -89,7 +89,7 @@ The prayer opens with a promise and closes with a promise, and the fear is in th
 *Then Jacob was left alone; and a Man wrestled with him until the breaking of day.*
 
 *And He said, "**Your name shall no longer be called Jacob, but Israel**; for you have struggled
-with God and with men, and have prevailed."* See the note on Genesis 32:24–28.
+with God and with men, and have prevailed."* See the note on Genesis 32:22–26.
 
 He asked to be delivered from his brother and got a wrestling match with someone else, and a
 limp.

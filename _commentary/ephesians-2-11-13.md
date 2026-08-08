@@ -111,7 +111,7 @@ The letter is written by a man in chains for the doctrine in this paragraph.
 ## What they become
 
 *Now, therefore, you are **no longer strangers and foreigners, but fellow citizens with the saints
-and members of the household of God**.* See the note on Ephesians 2:19–22.
+and members of the household of God**.* See the note on Ephesians 2:17–19.
 
 Every item on the deficit list is answered.
 

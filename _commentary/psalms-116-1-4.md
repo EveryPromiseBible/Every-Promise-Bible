@@ -99,11 +99,11 @@ Gethsemane.
 The Hebrew is **kos-yeshu'ot**. **Yeshu'ot** — salvations, plural.
 
 And in the garden a few hours later: *O My Father, if it is possible, let this cup pass from Me*.
-See the note on Matthew 26:39.
+See the note on Matthew 26:36–39.
 
 ## What the psalm says about the death
 
-*Precious in the sight of the LORD is the death of His saints.* See the note on Psalms 116:15.
+*Precious in the sight of the LORD is the death of His saints.* See the note on Psalms 116:15–19.
 
 The Hebrew is **yaqar** — costly, weighty, rare.
 

@@ -16,7 +16,7 @@ Two activities, two rules, and both rules are about the source.
 grumbling**.*
 
 *As each one has received a gift, minister it to one another, **as good stewards of the manifold
-grace of God**.* See the note on 1 Peter 4:7–10.
+grace of God**.* See the note on 1 Peter 4:7.
 
 Then this verse divides the gifts into two kinds.
 
@@ -77,7 +77,7 @@ Peter breaks into doxology in the middle of the letter. He does it again at the 
 strange thing happened to you.*
 
 *But rejoice to the extent that you partake of Christ's sufferings.* See the note on
-1 Peter 4:12–14.
+1 Peter 4:12.
 
 The instruction on speaking and serving is followed straight into a paragraph about suffering.
 

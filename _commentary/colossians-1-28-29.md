@@ -20,7 +20,7 @@ The pronoun is emphatic and comes first: not a system, a person.
 
 *The mystery which has been hidden from ages and from generations, but now has been revealed to
 His saints… which is **Christ in you, the hope of glory**.* See the note on
-Colossians 1:26–27.
+Colossians 1:24–27.
 
 ## The two activities
 
@@ -98,7 +98,7 @@ The Greek is **en dunamei**.
 me**.* See the note on 1 Corinthians 15:9–11.
 
 *I can do all things through Christ **who strengthens me**.* See the note on
-Philippians 4:11–13.
+Philippians 4:11–12.
 
 Three statements, all with the same structure: real work, and a named source that is not the
 worker.

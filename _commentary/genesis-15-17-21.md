@@ -92,7 +92,7 @@ The delay is explained as patience toward the people currently living there.
 
 ## The other covenant, and its condition
 
-Sinai. *"**All that the LORD has spoken we will do**."* See the note on Exodus 19:7–8.
+Sinai. *"**All that the LORD has spoken we will do**."* See the note on Exodus 19:7–9.
 
 That one is bilateral, and both parties speak.
 

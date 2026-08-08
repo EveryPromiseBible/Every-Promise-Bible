@@ -112,7 +112,7 @@ And then: *catch us the foxes, the little foxes that spoil the vines*.
 
 ## The other winters
 
-*He has made everything beautiful **in its time**.* See the note on Ecclesiastes 3:9–15.
+*He has made everything beautiful **in its time**.* See the note on Ecclesiastes 3:9–10.
 
 *To everything there is a season.*
 

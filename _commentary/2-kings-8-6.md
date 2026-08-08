@@ -98,7 +98,7 @@ The whole story runs from a promise she did not want to believe.
 *"**It is well**."*
 
 Twice — to her husband, and to Gehazi on the road — while riding to Carmel with the body on the
-prophet's bed. See the note on 2 Kings 4:25–30.
+prophet's bed. See the note on 2 Kings 4:18–25.
 
 > **What the king adds.** She petitioned for the house and the field. The ruling covers seven
 > harvests off land she was not on.

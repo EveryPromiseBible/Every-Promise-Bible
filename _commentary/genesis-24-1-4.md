@@ -79,7 +79,7 @@ must not leave the land.
 *"**What if the woman is not willing** to follow me?"*
 
 And the answer: *the LORD, before whom I walk, **will send His angel before you***. See the note on
-Genesis 24:5–9.
+Genesis 24:5–6.
 
 If she refuses, the servant is released from the oath. The plan has a stated failure clause.
 
@@ -93,12 +93,12 @@ The first recorded prayer in Scripture for guidance in a specific decision.
 ## What happens while he is still praying
 
 *And it happened, **before he had finished speaking**, that Rebekah came out.* See the note on
-Genesis 24:15–21.
+Genesis 24:15–16.
 
 ## Where the chapter ends
 
 *Then Isaac brought her into his mother Sarah's tent… and **Isaac was comforted after his mother's
-death**.* See the note on Genesis 24:62–67.
+death**.* See the note on Genesis 24:62–65.
 
 The chapter that opens with a burial ends with a comfort.
 
@@ -112,7 +112,7 @@ Bride.
 ## The last word about him
 
 *And Abraham died in a good old age, an old man and full of years.* See the note on
-Genesis 25:7–8.
+Genesis 25:7–10.
 
 The Hebrew is **save'a** — satisfied, full.
 

@@ -99,7 +99,7 @@ for sin, are burned outside the camp**.*
 gate**.*
 
 *Therefore let us go forth to Him, outside the camp, bearing His reproach.* See the note on
-Hebrews 13:11–13.
+Hebrews 13:7–14.
 
 The whole argument rests on the geography of this paragraph.
 

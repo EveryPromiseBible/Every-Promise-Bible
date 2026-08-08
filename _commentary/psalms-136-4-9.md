@@ -50,7 +50,7 @@ The word for wonders is the one used of the plagues and of the crossing.
 The Hebrew is **bitvunah** — with understanding.
 
 Proverbs 3: *the LORD by wisdom founded the earth; by understanding He established the heavens*.
-See the note on Proverbs 3:19–20.
+See the note on Proverbs 3:13–20.
 
 ## The earth
 

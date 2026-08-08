@@ -26,7 +26,7 @@ The Aramaic is **od millta befum malka** — the word yet in the king's mouth.
 A year.
 
 Daniel interpreted the dream twelve months earlier and told him: *break off your sins by
-righteousness*. See the note on Daniel 4:24–27.
+righteousness*. See the note on Daniel 4:24–25.
 
 Nothing happened for twelve months. The narrative records the gap.
 
@@ -82,7 +82,7 @@ The sentence in chapter 4 is the same clause enforced: God *gives them to whomev
 ## The stump
 
 *"**Leave the stump and roots in the earth, bound with a band of iron and bronze**."* See the note on
-Daniel 4:13–17.
+Daniel 4:13–14.
 
 The tree comes down. The root is deliberately left.
 

@@ -42,7 +42,7 @@ the road into the holiest place had not yet been opened.* See the note on Hebrew
 ## What changed
 
 *Then, behold, the veil of the temple was torn in two **from top to bottom**.* See the note on
-Matthew 27:50–51.
+Matthew 27:48–50.
 
 ## Who is in there
 
@@ -68,12 +68,12 @@ The Greek is **kata tēn taxin Melchisedek** — according to the order of Melch
 ## Why it matters
 
 Aaron's priests died and were replaced. *Because He continues forever, He has an unchangeable
-priesthood.* See the note on Hebrews 7:24–25.
+priesthood.* See the note on Hebrews 7:23–25.
 
 ## The subject he keeps returning to
 
 He raised Melchizedek in chapter 5 and broke off — *of whom we have much to say, and hard to
-explain*. See the note on Hebrews 5:9–11.
+explain*. See the note on Hebrews 5:9–10.
 
 Then the warning, then the encouragement, then the oath, then the anchor — and the sentence ends by
 naming Melchizedek again.

@@ -88,7 +88,7 @@ That is who *everyone* includes first.
 ## Where Paul learned it
 
 *I have learned, in whatever state I am, **to be content**… I know how to be abased, and I
-know how to abound.* See the note on Philippians 4:11–13.
+know how to abound.* See the note on Philippians 4:11–12.
 
 The Greek for *learned* is **emathon** — he was taught it, over time, by going through both.
 

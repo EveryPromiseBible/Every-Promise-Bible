@@ -45,7 +45,7 @@ Both words come out of a courtroom rather than a battlefield.
 
 The Greek is **peripateo** — going about. It is what the accuser says he has been doing
 in Job: *from going to and fro on the earth, and from walking back and forth on it.*
-See the note on Job 1:6–12.
+See the note on Job 1:6–8.
 
 ## The roar
 

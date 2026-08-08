@@ -99,7 +99,7 @@ the way.*
 *And the LORD said, "**Shall I hide from Abraham what I am doing?**"*
 
 And then the negotiation: fifty, forty-five, forty, thirty, twenty, ten. See the note on
-Genesis 18:22–33.
+Genesis 18:20–22.
 
 ## What Hebrews says
 

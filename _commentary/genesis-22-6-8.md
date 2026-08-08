@@ -91,7 +91,7 @@ Plural. See the note on Genesis 22:3–5.
 ## What he was reasoning
 
 *Concluding that **God was able to raise him up, even from the dead**.* See the note on
-Hebrews 11:17–19.
+Hebrews 11:17–22.
 
 The Greek is **logisamenos** — having calculated.
 
@@ -111,7 +111,7 @@ A ram. Not the lamb he named.
 ## Where the word is answered
 
 *"Behold! **The Lamb of God** who takes away the sin of the world!"* See the note on
-John 1:29–31.
+John 1:29–34.
 
 Isaac asked where the lamb was. The answer given on the mountain was a ram, and the word Abraham
 used stayed open for two thousand years.

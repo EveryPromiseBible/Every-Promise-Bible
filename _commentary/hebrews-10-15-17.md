@@ -80,7 +80,7 @@ Both are God speaking about Himself, three books and one covenant apart.
 let us draw near with a true heart in full assurance of faith.*
 
 The word for boldness is **parrhesia** — freedom of speech, the right to say anything
-in a place you belong. See the note on Hebrews 10:19–22.
+in a place you belong. See the note on Hebrews 10:19–21.
 
 > **Where the quotation comes from.** Jeremiah 31, written while Jerusalem was falling
 > to Babylon for exactly the sins in question. The promise not to remember was made in

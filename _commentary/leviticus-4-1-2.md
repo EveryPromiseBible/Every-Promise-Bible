@@ -102,7 +102,7 @@ The priest's bull is burned entirely outside the camp, *in a clean place, where 
 poured out*.
 
 *Therefore Jesus also, that He might sanctify the people with His own blood, **suffered outside the
-gate**.* See the note on Hebrews 13:11–13.
+gate**.* See the note on Hebrews 13:7–14.
 
 Hebrews builds an argument on where the carcass was taken.
 

@@ -95,7 +95,7 @@ Rebuilt by Herod, and standing when a boy of twelve was found in it asking quest
 man overturned tables in it.
 
 *"**The glory of this latter temple shall be greater than the former**."* See the note on
-Haggai 2:6–9.
+Haggai 2:6–7.
 
 ## Where the glory ended up
 

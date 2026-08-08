@@ -69,10 +69,10 @@ Took, blessed, broke, gave.
 ## Where the four appear again
 
 *And as they were eating, Jesus **took** bread, **blessed** and **broke** it, and **gave** it to the
-disciples.* See the note on Matthew 26:26–28.
+disciples.* See the note on Matthew 26:26–30.
 
 And on the road to Emmaus: *He **took** bread, **blessed** and **broke** it, and **gave** it to them*.
-*Then their eyes were opened and they knew Him.* See the note on Luke 24:30–32.
+*Then their eyes were opened and they knew Him.* See the note on Luke 24:28–32.
 
 The same four verbs, three times, and the third time they are what identifies Him.
 

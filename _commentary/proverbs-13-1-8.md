@@ -106,7 +106,7 @@ Same instruction, in answer to a question about long life.
 ## What James says
 
 *If anyone does not stumble in word, he is a perfect man, **able also to bridle the whole body**.*
-See the note on James 3:1–5.
+See the note on James 3:1–2.
 
 > **The pairing.** *Guard your mouth and guard your life* — two different Hebrew verbs for guarding
 > in one clause, and eight verses that use the root three times.

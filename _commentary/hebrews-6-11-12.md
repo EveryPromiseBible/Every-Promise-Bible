@@ -46,7 +46,7 @@ The Greek is **nōthroi** — sluggish, dull, slow-moving.
 
 ## Where the word appeared before
 
-*Seeing you have become **dull of hearing**.* See the note on Hebrews 5:12–14.
+*Seeing you have become **dull of hearing**.* See the note on Hebrews 5:11–12.
 
 Same adjective. They went dull in the ears first; the danger now is going dull all over.
 

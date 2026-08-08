@@ -98,7 +98,7 @@ himself.
 *Therefore, if anyone is in Christ, **he is a new creation**; old things have passed away.* See
 the note on 2 Corinthians 5:16–17.
 
-*Behold, **I make all things new**.* See the note on Revelation 21:5–8.
+*Behold, **I make all things new**.* See the note on Revelation 21:5–7.
 
 The word Qoheleth searched the world for and could not find, spoken from the throne.
 
@@ -107,7 +107,7 @@ The word Qoheleth searched the world for and could not find, spoken from the thr
 *The righteous will be **in everlasting remembrance***.
 
 *I will write on him **the name of My God**… and **My new name***. See the note on
-Revelation 3:12–13.
+Revelation 3:12.
 
 Qoheleth's last complaint is that nobody is remembered, and the answer offered is a name written
 down.
@@ -115,7 +115,7 @@ down.
 ## What he does with the observation
 
 Not despair. Three chapters later: *there is a time for everything*, and *He has made everything
-beautiful in its time*. See the note on Ecclesiastes 3:9–15.
+beautiful in its time*. See the note on Ecclesiastes 3:9–10.
 
 The circling is not denied. It is put under someone's hand.
 

@@ -86,7 +86,7 @@ somebody else's hand.
 
 Numbered, numbered, weighed, divided. Three of the four are commercial weights.
 
-*You have been **weighed in the balances and found wanting**.* See the note on Daniel 5:24–28.
+*You have been **weighed in the balances and found wanting**.* See the note on Daniel 5:24–25.
 
 ## That same night
 
@@ -99,7 +99,7 @@ The breath in the hand, and the hand closed before morning.
 *In Him we live and move and have our being.* Paul, on the Areopagus, to a city of statues. See
 the note on Acts 17:26–28.
 
-And *He is before all things, and in Him all things consist*. See the note on Colossians 1:16–17.
+And *He is before all things, and in Him all things consist*. See the note on Colossians 1:15–20.
 
 > **The inventory.** He praised gods that cannot see, hear or know — while the God who was holding
 > his breath went unmentioned all evening.

@@ -132,7 +132,7 @@ Three offices, all held by a man who arrived as a slave and spent years in a pri
 ## What he says at the end of the book
 
 *"You meant evil against me; **but God meant it for good**, in order to bring it about as it is this
-day, to save many people alive."* See the note on Genesis 50:19–21.
+day, to save many people alive."* See the note on Genesis 50:15–21.
 
 Said again, after Jacob dies and the brothers panic that he has been waiting.
 

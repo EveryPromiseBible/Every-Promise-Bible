@@ -68,7 +68,7 @@ The book opens with a father-and-son question, and it closes with fathers and ch
 
 *He will also go before Him **in the spirit and power of Elijah**, "to turn the hearts of the
 fathers to the children"… to make ready a people prepared for the Lord.* See the note on
-Luke 1:16–17.
+Luke 1:13–17.
 
 Gabriel quotes this verse to Zacharias, in the temple, about the son he is about to have.
 

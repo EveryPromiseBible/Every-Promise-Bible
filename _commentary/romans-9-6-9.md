@@ -15,7 +15,7 @@ The question underneath chapters 9 to 11, stated in the first sentence.
 heart**.*
 
 *For I could wish that I myself were accursed from Christ **for my brethren, my countrymen
-according to the flesh**.* See the note on Romans 9:1–5.
+according to the flesh**.* See the note on Romans 9:1–3.
 
 Paul has just finished eight chapters ending *nothing shall be able to separate us from the love
 of God*, and immediately says he would give up his own place for his people.
@@ -105,7 +105,7 @@ Same womb, same father, same day. Paul picks the case where every variable is co
 *And so **all Israel will be saved**, as it is written: "The Deliverer will come out of Zion."*
 
 *For **the gifts and the calling of God are irrevocable**.* See the note on
-Romans 11:28–29.
+Romans 11:28–32.
 
 The Greek is **ametameleta** — not to be repented of, not withdrawn.
 

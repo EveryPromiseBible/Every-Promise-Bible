@@ -12,7 +12,7 @@ The last clause of a difficult paragraph, and it is where the whole argument was
 
 *For Christ also suffered once for sins, **the just for the unjust**, that He might bring us to
 God, being put to death in the flesh but made alive by the Spirit.* See the note on
-1 Peter 3:18–20.
+1 Peter 3:18.
 
 Then the spirits in prison, the days of Noah, the eight souls saved through water, and baptism as
 the antitype.
@@ -89,7 +89,7 @@ The same three-part list, the same verb, the same psalm.
 him, He left nothing that is not put under him. **But now we do not yet see all things put under
 him**.*
 
-*But we see Jesus.* See the note on Hebrews 2:8–9.
+*But we see Jesus.* See the note on Hebrews 2:5–8.
 
 Hebrews states the tension the New Testament does not resolve: it is done, and it is not yet
 visible.

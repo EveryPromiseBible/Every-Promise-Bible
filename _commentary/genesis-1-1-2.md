@@ -108,7 +108,7 @@ which are seen were not made of things which are visible**.*
 
 And Paul: *God, who commanded light to shine out of darkness, has shone in our hearts to give
 the light of the knowledge of the glory of God in the face of Jesus Christ*. See the note on
-2 Corinthians 4:6–9.
+2 Corinthians 4:5–6.
 
 He treats a man's conversion as day one happening again.
 

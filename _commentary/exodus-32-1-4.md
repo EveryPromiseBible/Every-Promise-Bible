@@ -117,7 +117,7 @@ The same metal, from the same ears, going two directions in one book.
 great nation**."*
 
 *Then Moses pleaded with the LORD his God… "**Yet now, if You will forgive their sin — but if not,
-I pray, blot me out of Your book**."* See the note on Exodus 32:30–34.
+I pray, blot me out of Your book**."* See the note on Exodus 32:30–35.
 
 He is offered what Abraham was promised, and asks to be erased instead.
 

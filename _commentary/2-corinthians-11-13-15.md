@@ -97,7 +97,7 @@ includes in the list.
 ## The test he gives elsewhere
 
 *Beloved, do not believe every spirit, but **test the spirits, whether they are of God**; because
-many false prophets have gone out into the world.* See the note on 1 John 4:1–3.
+many false prophets have gone out into the world.* See the note on 1 John 4:1.
 
 ## What he fears
 

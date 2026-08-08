@@ -28,7 +28,7 @@ And of the psalm: *Cast your burden on the LORD, and He shall sustain you*.
 A participle, not an imperative.
 
 It attaches to the verb in the previous line — *humble yourselves under the mighty hand of God*.
-See the note on 1 Peter 5:5–6.
+See the note on 1 Peter 5:5.
 
 ## What that means
 
@@ -78,7 +78,7 @@ The same subject matter — being on somebody's mind — moving in one direction
 *"Teacher, **do You not care** that we are perishing?"*
 
 The Greek is **ou melei soi** — the same verb, in the boat, in the storm. See the note on
-Mark 4:37–39.
+Mark 4:35–41.
 
 Peter was in that boat.
 

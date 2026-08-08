@@ -41,7 +41,7 @@ buried, and his tomb is with us to this day**."*
 
 *"Therefore, being a prophet… **he foresaw this and spoke concerning the resurrection of the Christ,
 that His soul was not left in Hades, nor did His flesh see corruption**."* See the note on
-Acts 2:29–33.
+Acts 2:29–31.
 
 The argument is empirical: the tomb is down the road, and it has somebody in it.
 
@@ -49,7 +49,7 @@ The argument is empirical: the tomb is down the road, and it has somebody in it.
 
 Preaching at Antioch in Pisidia: *"For David, after he had served his own generation by the will
 of God, fell asleep, was buried with his fathers, and saw corruption; **but He whom God raised up
-saw no corruption**."* See the note on Acts 13:35–37.
+saw no corruption**."* See the note on Acts 13:34–37.
 
 Two apostles, two cities, same verse, same argument.
 

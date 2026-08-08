@@ -100,7 +100,7 @@ This is one line of it that is not.
 ## Where new names appear elsewhere
 
 *"He who overcomes… I will write on him the name of My God, and the name of the city of My God…
-**and My new name**."* See the note on Revelation 3:12–13.
+**and My new name**."* See the note on Revelation 3:12.
 
 And the renamings: Abram to Abraham, Jacob to Israel, Simon to Peter.
 

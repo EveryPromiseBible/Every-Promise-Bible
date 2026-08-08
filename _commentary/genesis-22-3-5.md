@@ -17,7 +17,7 @@ Three days of walking, and one sentence at the end of it that the narrator repea
 The Hebrew is **vayashkem** — he rose early.
 
 No argument is recorded. He had argued with God over Sodom, at length, down from fifty to ten.
-See the note on Genesis 18:22–33.
+See the note on Genesis 18:20–22.
 
 For Sodom he bargained. For this he saddles the donkey.
 
@@ -60,7 +60,7 @@ a lie told to keep servants calm.
 ## What Hebrews says he was thinking
 
 *By faith Abraham, when he was tested, offered up Isaac… **concluding that God was able to raise
-him up, even from the dead***. See the note on Hebrews 11:17–19.
+him up, even from the dead***. See the note on Hebrews 11:17–22.
 
 The Greek is **logisamenos** — having reasoned it out, an accounting word.
 

@@ -95,7 +95,7 @@ Three sources named, all lost.
 
 *"**And your house and your kingdom shall be established forever** before you."*
 
-Nathan's promise, in 2 Samuel 7. See the note on 2 Samuel 7:12–16.
+Nathan's promise, in 2 Samuel 7. See the note on 2 Samuel 7:12–17.
 
 The lamp that keeps burning through Kings, named at every low point. See the note on
 1 Kings 11:41–43.

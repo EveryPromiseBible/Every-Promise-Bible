@@ -64,7 +64,7 @@ Both facts are stated in one verse: the garment was handed to her, and the garme
 ## The other white robes in the book
 
 *They washed their robes and **made them white in the blood of the Lamb**.* See the note on
-Revelation 7:13–17.
+Revelation 7:13–14.
 
 Which is the only way a robe gets whiter for being washed in blood.
 

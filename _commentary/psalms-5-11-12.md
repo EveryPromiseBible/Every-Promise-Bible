@@ -85,7 +85,7 @@ The verb **arak** is a sacrificial word — to lay the pieces in order on the al
 ## What he asked for on the way
 
 *Lead me, O LORD, in Your righteousness because of my enemies; **make Your way straight before my
-face**.* See the note on Psalms 5:8–10.
+face**.* See the note on Psalms 5:7–8.
 
 ## The two halves of the psalm
 

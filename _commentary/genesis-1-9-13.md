@@ -93,7 +93,7 @@ live in His sight.* Hosea.
 ## Where the seed image goes
 
 *Unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it
-produces much grain.* See the note on John 12:23–26.
+produces much grain.* See the note on John 12:20–23.
 
 And *the seed is the word of God*. See the note on Matthew 13:18–23.
 

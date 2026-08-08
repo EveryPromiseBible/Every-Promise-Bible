@@ -96,7 +96,7 @@ Ezekiel 18:30–32.
 ## The answer to that command
 
 *"I will give you **a new heart** and put **a new spirit** within you."* See the note on
-Ezekiel 36:26–27.
+Ezekiel 36:26.
 
 The thing they are told to get is later promised as a gift.
 

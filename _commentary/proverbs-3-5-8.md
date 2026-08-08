@@ -88,7 +88,7 @@ The Hebrew is **rif'ut leshorreka** — healing to your navel, or sinew. And **s
 Bones going dry is the book's picture of what worry does.
 
 *A sound heart is life to the body, but **envy is rottenness to the bones**.* And *a broken spirit
-dries the bones*. See the note on Proverbs 17:22.
+dries the bones*. See the note on Proverbs 17:22–28.
 
 The promise here is the reverse: irrigation.
 
@@ -98,7 +98,7 @@ The promise here is the reverse: irrigation.
 note on Proverbs 3:9–10.
 
 And then: *my son, **do not despise the chastening of the LORD**… for whom the LORD loves He
-corrects*. See the note on Proverbs 3:11–12.
+corrects*. See the note on Proverbs 3:9–12.
 
 Quoted in full in Hebrews 12, immediately after *looking unto Jesus*.
 

@@ -91,7 +91,7 @@ eyes.*
 *"**Who is left among you who saw this temple in its former glory? And how do you see it now?**"*
 
 And then: *"The glory of this latter temple shall be greater than the former."* See the note on
-Haggai 2:6–9.
+Haggai 2:6–7.
 
 The question is granted and answered in the other direction.
 
@@ -103,7 +103,7 @@ thing**."* See the note on Isaiah 43:18–19.
 ## What Paul says he does
 
 *Forgetting those things which are behind and reaching forward to those things which are ahead, **I
-press toward the goal**.* See the note on Philippians 3:12–14.
+press toward the goal**.* See the note on Philippians 3:12.
 
 > **The verdict.** *Not a wise question.* It looks like analysis and is grief, and it assumes a
 > premise the book has already dismantled.

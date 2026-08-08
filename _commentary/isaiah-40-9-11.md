@@ -38,7 +38,7 @@ The whole content of the good news, in the passage's own account of it, is a poi
 *Comfort, yes, comfort My people, says your God.*
 
 *The voice of one crying in the wilderness: prepare the way of the LORD.* See the note on
-Isaiah 40:1–5.
+Isaiah 40:1–2.
 
 All four Gospels apply that verse to John the Baptist, which puts this chapter at the front of
 every account of Jesus.
@@ -90,14 +90,14 @@ The pace of the whole flock is set by the slowest members in it.
 ## What the shepherd says about Himself
 
 *I am the good shepherd. **The good shepherd gives His life for the sheep**.* See the note on
-John 10:11–13.
+John 10:11–15.
 
 And *He calls His own sheep by name and leads them out*.
 
 ## Where the chapter ends
 
 *He gives power to the weak… **they shall mount up with wings like eagles**, they shall run and
-not be weary.* See the note on Isaiah 40:28–31.
+not be weary.* See the note on Isaiah 40:27–28.
 
 The chapter that starts with comfort and ends with eagles has this in the middle: lambs carried,
 and the nursing ewes led slowly.

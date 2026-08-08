@@ -76,7 +76,7 @@ The filling and the overflowing are both attributed to Him.
 Holy Spirit.* See the note on Romans 5:3–5.
 
 *For we were saved in this hope, but **hope that is seen is not hope**; for why does one still hope
-for what he sees?* See the note on Romans 8:24–25.
+for what he sees?* See the note on Romans 8:23–25.
 
 *But if we hope for what we do not see, **we eagerly wait for it with perseverance**.*
 

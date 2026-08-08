@@ -97,7 +97,7 @@ Not outside. He is in the fire with them, and the deliverance happens inside it.
 ## What Isaiah says with the same picture
 
 *"When you pass **through the waters**, I will be with you… **when you walk through the fire**, you
-shall not be burned, nor shall the flame scorch you."* See the note on Isaiah 43:1–3.
+shall not be burned, nor shall the flame scorch you."* See the note on Isaiah 43:1–4.
 
 Through, both times.
 

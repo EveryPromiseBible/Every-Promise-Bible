@@ -14,7 +14,7 @@ sufficient.
 *When they came back to the crowd.*
 
 Down from the mountain, six days after Peter's confession, having been transfigured in front of
-three of them. See the note on Matthew 17:1–5.
+three of them. See the note on Matthew 17:1–8.
 
 Nine disciples stayed at the bottom, and this is what they were doing.
 

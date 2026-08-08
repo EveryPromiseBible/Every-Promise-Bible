@@ -14,7 +14,7 @@ Five wilderness incidents, listed as warnings, to a church that thought it was d
 food, and all drank the same spiritual drink.*
 
 *But with **most of them God was not well pleased**, for their bodies were scattered in the
-wilderness.* See the note on 1 Corinthians 10:1–4.
+wilderness.* See the note on 1 Corinthians 10:1–5.
 
 Five *alls*, and then the reversal.
 

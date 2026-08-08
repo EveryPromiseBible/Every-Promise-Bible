@@ -75,7 +75,7 @@ Earthenware is porous and cannot be purged, so it is destroyed. Bronze can be sc
 it is kept.
 
 Paul: *we have this treasure in **earthen vessels**, that the excellence of the power may be
-of God and not of us*. See the note on 2 Corinthians 4:6–9.
+of God and not of us*. See the note on 2 Corinthians 4:5–6.
 
 ## Who may eat
 

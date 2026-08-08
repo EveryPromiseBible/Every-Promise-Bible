@@ -88,7 +88,7 @@ adultery.
 ## What Proverbs says elsewhere about the same person
 
 *A perverse man sows strife, and **a whisperer separates the best of friends**.* See the note on
-Proverbs 16:27–30.
+Proverbs 16:24–33.
 
 And *the words of a talebearer are like tasty trifles, and they **go down into the inmost body**.* See
 the note on Proverbs 18:8.

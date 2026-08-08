@@ -72,7 +72,7 @@ He has been speaking to them through an interpreter for two chapters. Now they h
 ## Benjamin
 
 Named separately. His only full brother, and the boy Judah had just offered to be enslaved for.
-See the note on Genesis 44:30–34.
+See the note on Genesis 44:18–34.
 
 ## The report
 

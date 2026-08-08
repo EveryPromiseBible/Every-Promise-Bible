@@ -102,7 +102,7 @@ His imprisonment, described as their honour.
 
 *For this reason **I bow my knees to the Father** of our Lord Jesus Christ… that He would grant you,
 according to the riches of His glory, **to be strengthened with might through His Spirit in the
-inner man**.* See the note on Ephesians 3:14–17.
+inner man**.* See the note on Ephesians 3:14–16.
 
 The sentence broken off at verse 1 finally arrives.
 

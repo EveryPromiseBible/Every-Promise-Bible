@@ -24,7 +24,7 @@ The formula runs through the book more than fifty times.
 The Hebrew for *formed* is **etzorcha**, from **yatsar** — the potter's word.
 
 The same verb as *the LORD God formed man of the dust of the ground*, and the same root behind
-the potter's house Jeremiah is later sent to watch. See the note on Jeremiah 18:1–6.
+the potter's house Jeremiah is later sent to watch. See the note on Jeremiah 18:1–4.
 
 ## The word for knew
 
@@ -91,7 +91,7 @@ The call promised he was known, not that he would be heard.
 servant in Isaiah.
 
 *He who separated me from my mother's womb and called me through His grace.* Paul, of himself.
-See the note on Galatians 1:15–17.
+See the note on Galatians 1:15–16.
 
 Both take Jeremiah's construction and apply it elsewhere.
 

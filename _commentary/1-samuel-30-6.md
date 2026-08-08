@@ -107,7 +107,7 @@ spoil or anything which they had taken**.* See the note on 1 Samuel 30:16–20.
 *Out of the depths I have cried to You, O LORD.*
 
 *Why are you cast down, O my soul? And why are you disquieted within me? **Hope in God, for I shall
-yet praise Him**.* See the note on Psalms 42:9–11.
+yet praise Him**.* See the note on Psalms 42:9–10.
 
 A man talking to himself, which is what the reflexive verb describes.
 

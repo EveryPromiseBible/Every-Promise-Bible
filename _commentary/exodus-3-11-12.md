@@ -108,7 +108,7 @@ Every one of them is about Moses. God's answers are almost never about Moses.
 
 *By faith Moses, when he became of age, refused to be called the son of Pharaoh's daughter…
 esteeming the reproach of Christ greater riches than the treasures in Egypt.* See the note on
-Hebrews 11:24–26.
+Hebrews 11:23–29.
 
 > **The question and the answer.** He asks *who am I*, and gets *I will be*. The subject of the
 > sentence is changed, and the same verb turns up three verses later as the name.

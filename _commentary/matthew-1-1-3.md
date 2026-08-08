@@ -106,7 +106,7 @@ note on Matthew 1:20–21.
 ## What Luke does instead
 
 A different genealogy, running the other direction, back past Abraham to *Adam, the son of God*.
-See the note on Luke 3:23–38.
+See the note on Luke 3:23–27.
 
 Matthew stops at Abraham. Luke does not stop.
 

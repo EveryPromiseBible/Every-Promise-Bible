@@ -56,7 +56,7 @@ The same metallurgical picture, at the top of the letter.
 ## The reason he gives next
 
 *But **rejoice to the extent that you partake of Christ's sufferings**, that when His glory is
-revealed, you may also be glad with exceeding joy.* See the note on 1 Peter 4:13–14.
+revealed, you may also be glad with exceeding joy.* See the note on 1 Peter 4:13.
 
 The Greek is **koinōneite** — you share, you have fellowship in.
 

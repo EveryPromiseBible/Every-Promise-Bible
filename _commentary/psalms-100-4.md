@@ -23,7 +23,7 @@ was brought.
 presence with singing.*
 
 *Know that the LORD, He is God; **it is He who has made us, and not we ourselves**.* See the note on
-Psalms 100:1–3.
+Psalms 100:1–2.
 
 ## The gates
 

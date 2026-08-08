@@ -95,7 +95,7 @@ Two voices before the Father. They are not making the same kind of case.
 
 ## Where He is while doing it
 
-*He always lives to make intercession for them.* See the note on Hebrews 7:24–25.
+*He always lives to make intercession for them.* See the note on Hebrews 7:23–25.
 
 The Greek is **pantote zōn** — always living.
 

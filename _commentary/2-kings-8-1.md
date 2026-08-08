@@ -26,7 +26,7 @@ The boy was born. Years later he collapsed in the harvest field — *my head, my
 her knees at noon.
 
 She laid him on the prophet's bed, saddled a donkey, rode to Carmel and would not say what was
-wrong. *It is well*, she kept saying. See the note on 2 Kings 4:25–30.
+wrong. *It is well*, she kept saying. See the note on 2 Kings 4:18–25.
 
 ## The warning
 

@@ -19,7 +19,7 @@ The Hebrew is **kol hanneshamah tehallel Yah**.
 **Neshamah** — breath.
 
 It is the word in Genesis: *the LORD God formed man of the dust of the ground, and **breathed into
-his nostrils the breath of life***. See the note on Genesis 2:7–9.
+his nostrils the breath of life***. See the note on Genesis 2:4–7.
 
 Not the general word for spirit or wind. The specific noun for the breath God put in.
 

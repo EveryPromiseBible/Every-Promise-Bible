@@ -60,7 +60,7 @@ John states the direction twice: not ours toward Him.
 ## The conclusion drawn
 
 *Beloved, **if God so loved us, we also ought to love one another**.* See the note on
-1 John 4:11–12.
+1 John 4:11.
 
 The Greek is **opheilomen** — we owe it.
 

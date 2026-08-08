@@ -55,7 +55,7 @@ Achan takes a Babylonian garment, two hundred shekels of silver and a wedge of g
 Jericho, and hides them under his tent.
 
 *So the anger of the LORD burned against the children of Israel*, and thirty-six men die at Ai.
-See the note on Joshua 7:19–21.
+See the note on Joshua 7:16–21.
 
 The ban was not a formality.
 

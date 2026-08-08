@@ -98,7 +98,7 @@ Philippians 4:4–5.
 ## What comes after
 
 *I have learned, in whatever state I am, to be content.* See the note on
-Philippians 4:11–13.
+Philippians 4:11–12.
 
 And *my God shall supply all your need according to His riches in glory by Christ Jesus*.
 

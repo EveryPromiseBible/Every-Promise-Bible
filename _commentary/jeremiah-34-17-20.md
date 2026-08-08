@@ -94,7 +94,7 @@ If the Abrahamic covenant fails, the penalty falls where the oath was sworn.
 ## What was at stake in the law they broke
 
 *And if your brother… is sold to you and serves you six years, then **in the seventh year you shall
-let him go free from you**.* See the note on Deuteronomy 15:12–15.
+let him go free from you**.* See the note on Deuteronomy 15:12–18.
 
 *You shall remember that you were a slave in the land of Egypt.*
 

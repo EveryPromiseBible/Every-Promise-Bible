@@ -94,7 +94,7 @@ toward the reset.
 And at the gate, with ten elders sitting, the nearer kinsman who declines: *I cannot redeem it for
 myself, lest I ruin my own inheritance*.
 
-*So Boaz took Ruth and she became his wife.* See the note on Ruth 4:9–12.
+*So Boaz took Ruth and she became his wife.* See the note on Ruth 4:9–10.
 
 The book of Ruth is this law, worked out in a story.
 

@@ -85,7 +85,7 @@ offered on the mountain named for a ram in a bush.
 ## What was seen there
 
 *Behold! **The Lamb of God** who takes away the sin of the world!* See the note on
-John 1:29–31.
+John 1:29–34.
 
 Abraham said *lamb* and got a ram. The word he used stayed open.
 
@@ -100,7 +100,7 @@ on that oath.
 ## Where the horns end up
 
 *And I looked, and behold, in the midst of the throne… **stood a Lamb as though it had been
-slain***. See the note on Revelation 5:6–8.
+slain***. See the note on Revelation 5:5–6.
 
 > **The timing.** The ram was in the thicket before Abraham looked up — caught by its horns,
 > which is a way of being stuck that takes a while to happen.

@@ -93,7 +93,7 @@ A patriarch and a prostitute, chosen as the two illustrations.
 ## The line either side of it
 
 *What does it profit, my brethren, if someone says he has faith but does not have works? **Can faith
-save him**?* See the note on James 2:14–17.
+save him**?* See the note on James 2:14.
 
 And *faith without works is dead*.
 

@@ -39,7 +39,7 @@ The arm is God's own strength. Isaiah has used it: *the LORD has made bare His h
 eyes of all the nations*.
 
 And a few chapters later, when nobody would intervene: *therefore His own arm brought
-salvation for Him*. See the note on Isaiah 59:15b–17.
+salvation for Him*. See the note on Isaiah 59:12–15ab–17.
 
 ## The growing
 

@@ -38,7 +38,7 @@ The Hebrew equivalent would be **aleph** and **tav**, and the rabbis used that p
 *The place everything starts and the place everything ends.*
 
 The full form appears later in the book: *I am the Alpha and the Omega, the Beginning and the
-End, the First and the Last*. See the note on Revelation 22:12–15.
+End, the First and the Last*. See the note on Revelation 22:12–13.
 
 ## The three tenses
 
@@ -86,7 +86,7 @@ And then this verse, in the first person.
 ## Who is writing
 
 *I, John, both your brother and companion in the tribulation… was on the island that is called
-Patmos.* See the note on Revelation 1:9–11.
+Patmos.* See the note on Revelation 1:9–10.
 
 A prisoner on a rock in the Aegean, writing to seven congregations under pressure.
 

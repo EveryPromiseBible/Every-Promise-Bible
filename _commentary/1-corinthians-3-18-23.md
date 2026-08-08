@@ -49,7 +49,7 @@ Psalm 94:11, with *the wise* substituted for *man*.
 The Greek is **meden kauchastho en anthropois**.
 
 This is the answer to the whole problem of the letter's first chapters: *I am of Paul, I am of
-Apollos, I am of Cephas*. See the note on 1 Corinthians 1:10–13.
+Apollos, I am of Cephas*. See the note on 1 Corinthians 1:10–17.
 
 ## The reversal
 

@@ -93,14 +93,14 @@ They are not answering the same question, and each says which one he is answerin
 
 *If a brother or sister is naked and destitute of daily food, and one of you says to them, "**Depart
 in peace, be warmed and filled**," but you do not give them the things which are needed, what does
-it profit?* See the note on James 2:14–17.
+it profit?* See the note on James 2:14.
 
 That is the faith the letter calls dead: a man with a warm coat, saying a blessing.
 
 ## What the letter says at the start
 
 *Every good gift and every perfect gift is from above, and comes down from the Father of lights.*
-See the note on James 1:16–18.
+See the note on James 1:16.
 
 *Of His own will He brought us forth by the word of truth.*
 

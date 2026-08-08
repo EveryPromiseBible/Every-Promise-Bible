@@ -87,7 +87,7 @@ Most of it does not go on the men.
 
 *This shall be the law of the leper for the day of his cleansing… the priest shall put it **on the tip
 of the right ear of him who is to be cleansed, on the thumb of his right hand, and on the big toe of
-his right foot***. See the note on Leviticus 14:14–18.
+his right foot***. See the note on Leviticus 14:10–20.
 
 The identical procedure, on a man being brought back from outside the camp.
 
@@ -102,7 +102,7 @@ A priest being installed and a leper being restored are marked the same way.
 *You shall not go outside the door of the tabernacle of meeting for seven days.*
 
 The ordination takes a week, and on the eighth day the glory appears and fire comes out from before
-the LORD. See the note on Leviticus 9:23–24.
+the LORD. See the note on Leviticus 9:22–24.
 
 ## Where the priesthood goes
 

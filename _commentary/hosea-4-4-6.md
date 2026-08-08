@@ -80,7 +80,7 @@ shall say, "You are my God."* See the note on Hosea 2:21–23.
 ## Where Paul takes it
 
 *As He says also in Hosea: "**I will call them My people, who were not My people**, and her
-beloved, who was not beloved."* See the note on Romans 9:22–26.
+beloved, who was not beloved."* See the note on Romans 9:22–24.
 
 The book that names the destruction is the same book Paul uses for the inclusion of the
 Gentiles.

@@ -113,7 +113,7 @@ Ecclesiastes 12:13–14.
 ## What Paul says
 
 *Yet indeed **I also count all things loss** for the excellence of the knowledge of Christ Jesus my
-Lord.* See the note on Philippians 3:7–9.
+Lord.* See the note on Philippians 3:7–8.
 
 A man who had the religious equivalent, and did the same arithmetic.
 

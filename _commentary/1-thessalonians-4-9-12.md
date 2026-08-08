@@ -32,7 +32,7 @@ Paul appears to have coined it.
 
 And Jeremiah's new covenant: *no more shall every man teach his neighbour… **for they all shall
 know Me**, from the least of them to the greatest*. See the note on
-Jeremiah 31:33–34.
+Jeremiah 31:31–34.
 
 Paul is saying the promise has landed on a Gentile congregation in Macedonia.
 

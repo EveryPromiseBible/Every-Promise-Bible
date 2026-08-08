@@ -15,7 +15,7 @@ fine apparel**.*
 
 *Rather let it be **the hidden person of the heart**, with the incorruptible beauty of a gentle and
 quiet spirit, **which is very precious in the sight of God**.* See the note on
-1 Peter 3:3–4.
+1 Peter 3:3.
 
 The Greek is **ho kruptos tes kardias anthropos** — the hidden person of the heart.
 

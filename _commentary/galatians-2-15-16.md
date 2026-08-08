@@ -17,7 +17,7 @@ and separated himself, fearing those who were of the circumcision*.
 away**.*
 
 *I said to Peter before them all, "**If you, being a Jew, live in the manner of Gentiles… why do
-you compel Gentiles to live as Jews?**"* See the note on Galatians 2:11–14.
+you compel Gentiles to live as Jews?**"* See the note on Galatians 2:11–13.
 
 This paragraph is what Paul said next, and it is not clear where the speech to Peter ends and the
 letter resumes.
@@ -89,7 +89,7 @@ thirty years later, the tutor, the sons, the two covenants, the fruit of the Spi
 
 *"I have been crucified with Christ; it is no longer I who live, but Christ lives in me… **and I do
 not set aside the grace of God; for if righteousness comes through the law, then Christ died in
-vain**."* See the note on Galatians 2:20–21.
+vain**."* See the note on Galatians 2:19–20.
 
 The Greek is **dorean** — for nothing, gratuitously. The same word as *freely*.
 

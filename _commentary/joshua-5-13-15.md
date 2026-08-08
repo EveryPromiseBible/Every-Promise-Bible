@@ -77,7 +77,7 @@ servant*.
 
 *"**Take off your sandals from your feet, for the place where you are standing is holy**."*
 
-Almost word for word what Moses was told at the bush. See the note on Exodus 3:1–6.
+Almost word for word what Moses was told at the bush. See the note on Exodus 3:1–3.
 
 The Hebrew there is **shal-ne'aleicha me'al ragleicha**. Here it is nearly identical.
 
@@ -109,7 +109,7 @@ its form.
 *Then the LORD will go forth and fight against those nations, as He fights in the day of battle.*
 
 And the rider on the white horse, *out of whose mouth goes a sharp sword*. See the note on
-Revelation 19:11–16.
+Revelation 19:11.
 
 > **The refusal.** *Are You for us or for our enemies?* — *Neither.* He does not take sides in
 > Joshua's war. He arrives with an army of His own and takes the command.

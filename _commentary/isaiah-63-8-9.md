@@ -58,9 +58,9 @@ The Hebrew is **umal'ak panav** — the messenger of His face.
 
 ## Who that is
 
-*Behold, I send an Angel before you… **My name is in Him**.* See the note on Exodus 23:20–21.
+*Behold, I send an Angel before you… **My name is in Him**.* See the note on Exodus 23:20–23.
 
-And *My Presence will go with you, and I will give you rest*. See the note on Exodus 33:14–15.
+And *My Presence will go with you, and I will give you rest*. See the note on Exodus 33:14–17.
 
 The Hebrew there is **panai**, My face.
 
@@ -96,7 +96,7 @@ The Greek is **lupeite** — the Septuagint's word for the Hebrew here.
 ## The chapter's opening
 
 *Who is this who comes from Edom, with dyed garments from Bozrah… **I have trodden the winepress
-alone**.* See the note on Isaiah 63:1–3.
+alone**.* See the note on Isaiah 63:1–6.
 
 The chapter opens with a solitary figure in bloodied clothes and turns immediately to a God who
 shares the affliction of His people.

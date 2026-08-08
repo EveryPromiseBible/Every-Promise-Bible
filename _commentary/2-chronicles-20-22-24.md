@@ -24,7 +24,7 @@ The verse marks the start, not the finish. Nothing had been accomplished yet by 
 
 Three nations marching on Judah. Jehoshaphat's prayer ends: *we have no power against this great
 multitude… **nor do we know what to do, but our eyes are upon You***. See the note on
-2 Chronicles 20:12.
+2 Chronicles 20:10–12.
 
 And the answer through Jahaziel: *the battle is not yours, but God's… **you will not need to fight
 in this battle***. See the note on 2 Chronicles 20:16–19.

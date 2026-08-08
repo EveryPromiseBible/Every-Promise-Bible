@@ -95,12 +95,12 @@ and the butler forgot him for all of them.
 ## What he says about it later
 
 *"You meant evil against me; **but God meant it for good**, in order to bring it about as it is this
-day, to save many people alive."* See the note on Genesis 50:19–21.
+day, to save many people alive."* See the note on Genesis 50:15–21.
 
 ## The psalm's summary
 
 *They **hurt his feet with fetters**, he was laid in irons. **Until the time that his word came to
-pass**, the word of the LORD tested him.* See the note on Psalms 105:17–22.
+pass**, the word of the LORD tested him.* See the note on Psalms 105:16–19.
 
 The Hebrew there is **tzerafathu** — refined him. The metallurgy word.
 

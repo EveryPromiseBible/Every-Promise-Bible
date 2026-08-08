@@ -19,7 +19,7 @@ They asked to be excused the king's food and wine, and were tested on vegetables
 days.
 
 *And at the end of ten days their features appeared better and fatter in flesh than all the young
-men who ate the portion of the king's delicacies.* See the note on Daniel 1:12–16.
+men who ate the portion of the king's delicacies.* See the note on Daniel 1:11–13.
 
 ## The gift
 
@@ -89,7 +89,7 @@ except the gods, whose dwelling is not with flesh**."*
 
 The whole class is sentenced to death, and Daniel asks for time.
 
-*"But **there is a God in heaven who reveals secrets**."* See the note on Daniel 2:27–30.
+*"But **there is a God in heaven who reveals secrets**."* See the note on Daniel 2:27–28.
 
 ## What is happening in the background
 

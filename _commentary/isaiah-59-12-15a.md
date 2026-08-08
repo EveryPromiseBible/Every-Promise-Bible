@@ -83,7 +83,7 @@ is the cost of stepping out.
 ## What comes next
 
 *The LORD saw it, and it grieved Him… **and He was astonished that no one stepped in**. So His
-own arm brought salvation.* See the note on Isaiah 59:15b–17.
+own arm brought salvation.* See the note on Isaiah 59:12–15ab–17.
 
 The confession ends and God's response begins in the middle of verse 15.
 

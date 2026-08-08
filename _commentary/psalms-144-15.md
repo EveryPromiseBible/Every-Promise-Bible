@@ -74,7 +74,7 @@ Habakkuk lists the same agricultural items and removes them one by one.
 
 *Not that I speak in regard to need, for **I have learned in whatever state I am, to be
 content**… I know how to be abased, and I know how to abound.* See the note on
-Philippians 4:11–13.
+Philippians 4:11–12.
 
 ## The psalm before it
 

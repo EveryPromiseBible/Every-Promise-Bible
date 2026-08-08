@@ -104,7 +104,7 @@ rose again the third day** according to the Scriptures.* See the note on
 ## What he says elsewhere about the same thing
 
 *I can do all things through Christ **who strengthens me**.* See the note on
-Philippians 4:11–13.
+Philippians 4:11–12.
 
 *Not that we are sufficient of ourselves… but **our sufficiency is from God**.*
 

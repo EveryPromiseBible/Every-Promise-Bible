@@ -73,7 +73,7 @@ a one in a spirit of gentleness**.*
 The Greek for *restore* is **katartizo** — the word for setting a broken bone.
 
 That is the first thing Paul asks of people who are keeping in step. See the note on
-Galatians 6:1–2.
+Galatians 6:1–3.
 
 > **What the marching image gives you.** In a line, nobody sets their own pace and
 > nobody is out in front. Conceit and rivalry are simply what breaking rank looks

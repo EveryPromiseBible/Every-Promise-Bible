@@ -24,7 +24,7 @@ At Meribah, told to speak to the rock, he struck it twice and said *must we brin
 out of this rock?*
 
 *Because you did not believe Me, to hallow Me in the eyes of the children of Israel, therefore you
-shall not bring this assembly into the land.* See the note on Numbers 20:9–12.
+shall not bring this assembly into the land.* See the note on Numbers 20:7–9.
 
 He had asked to be let off: *I pray, let me cross over and see the good land*. The answer was
 *enough of that! Speak no more to Me of this matter*.
@@ -97,7 +97,7 @@ face**.*
 
 *And behold, two men talked with Him, who were **Moses and Elijah**, who appeared in glory and
 spoke of His decease which He was about to accomplish at Jerusalem.* See the note on
-Luke 9:28–31.
+Luke 9:28–36.
 
 On a mountain, inside the land, talking about an exodus.
 

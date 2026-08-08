@@ -26,7 +26,7 @@ Not *let us press on*. The verb puts the readers on the receiving end of the mov
 ## Why he says it
 
 *You have come to need milk and not solid food. **For everyone who partakes only of milk is unskilled
-in the word of righteousness**, for he is a babe.* See the note on Hebrews 5:12–14.
+in the word of righteousness**, for he is a babe.* See the note on Hebrews 5:11–12.
 
 The rebuke is that they are still on the first lesson years later.
 
@@ -82,7 +82,7 @@ to *the foundation*, and says the foundation is not the building.
 
 The subject he keeps interrupting himself to reach: *called by God as High Priest **according to the
 order of Melchizedek** — of whom we have much to say, and hard to explain*. See the note on
-Hebrews 5:9–11.
+Hebrews 5:9–10.
 
 He returns to it in chapter 7 and does not leave it again.
 

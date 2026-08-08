@@ -82,7 +82,7 @@ from dead works.
 **Suneidesis** — conscience. What the old system could not reach.
 
 *For then would they not have ceased to be offered? For the worshippers, once purified, would have
-had **no more consciousness of sins**.* See the note on Hebrews 10:1–4.
+had **no more consciousness of sins**.* See the note on Hebrews 10:1–2.
 
 ## Dead works
 

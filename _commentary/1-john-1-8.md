@@ -53,7 +53,7 @@ The letter's usual formula. Truth in John is something you can be *in*, and some
 ## What the paragraph has just said
 
 *If we **walk in the light** as He is in the light, we **have fellowship with one another**, and **the
-blood of Jesus Christ His Son cleanses us from all sin**.* See the note on 1 John 1:5–7.
+blood of Jesus Christ His Son cleanses us from all sin**.* See the note on 1 John 1:5.
 
 Walking in the light is not the absence of sin — the same sentence has blood cleansing in it.
 
@@ -87,7 +87,7 @@ To the church, the verb is in the perfect: **apheōntai** — they stand forgive
 ## The other man who said it
 
 *"God, I thank You that I am not like other men."* And the one who *would not so much as raise his
-eyes to heaven*. See the note on Luke 18:9–14.
+eyes to heaven*. See the note on Luke 18:9–12.
 
 One of them went home justified.
 

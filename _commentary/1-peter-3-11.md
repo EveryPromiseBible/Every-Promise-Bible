@@ -87,7 +87,7 @@ Peter asks the rhetorical question and then answers it honestly. Usually nobody.
 somebody.
 
 *And do not be afraid of their threats, nor be troubled.* See the note on
-1 Peter 3:14–15.
+1 Peter 3:14.
 
 ## The instruction that follows
 

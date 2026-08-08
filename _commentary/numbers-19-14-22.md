@@ -101,7 +101,7 @@ from dead works?* See the note on Hebrews 9:13–14.
 *Outside the camp.*
 
 *Therefore Jesus also, that He might sanctify the people with His own blood, **suffered outside the
-gate**.* See the note on Hebrews 13:11–13.
+gate**.* See the note on Hebrews 13:7–14.
 
 ## What the last clause names
 

@@ -113,7 +113,7 @@ Genesis 39:19–23.
 ## What he says at the end
 
 *"**You meant evil against me; but God meant it for good**, in order to bring it about as it is this
-day, to save many people alive."* See the note on Genesis 50:19–21.
+day, to save many people alive."* See the note on Genesis 50:15–21.
 
 > **The clause.** *There was no water in it.* Without it he drowns; with it he is sold. The
 > narrator supplies the detail and lets it carry the whole story.

@@ -103,7 +103,7 @@ same chapter deliberately.
 
 *And they sing **the song of Moses**, the servant of God, and the song of the Lamb, saying: "Great and
 marvellous are Your works, Lord God Almighty!"* See the note on
-Revelation 15:2–4.
+Revelation 15:2.
 
 Standing on a sea of glass mingled with fire.
 

@@ -69,7 +69,7 @@ Mark applies it to Jesus, and changes *before Me* to *before You*.
 Him**."*
 
 Isaiah 40, the chapter that opens *comfort, yes, comfort My people*. See the note on
-Isaiah 40:1–5.
+Isaiah 40:1–2.
 
 Written to exiles in Babylon about a road home across the desert.
 

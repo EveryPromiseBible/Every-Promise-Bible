@@ -35,7 +35,7 @@ He is young, in charge of a difficult church, and Paul is in prison and not comi
 
 The previous chapter has just named two men who deserted — *all those in Asia have turned away
 from me* — and one who did not: *Onesiphorus often refreshed me, and was not ashamed of my
-chain*. See the note on 2 Timothy 1:15–18.
+chain*. See the note on 2 Timothy 1:15.
 
 ## The second instruction
 

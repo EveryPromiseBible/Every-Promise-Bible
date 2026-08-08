@@ -124,7 +124,7 @@ The exchange is stated twice, before and after the reason.
 ## What the chapter goes on to say
 
 *"I, even I, am He who **blots out your transgressions** for My own sake; and I will not remember
-your sins."* See the note on Isaiah 43:25.
+your sins."* See the note on Isaiah 43:25–28.
 
 And *"behold, I will do a new thing… **I will even make a road in the wilderness and rivers in the
 desert**."* See the note on Isaiah 43:18–19.

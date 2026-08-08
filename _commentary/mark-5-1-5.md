@@ -95,7 +95,7 @@ been trying to help him.
 The man who could not be approached runs toward Him.
 
 And then: *what have I to do with You, Jesus, Son of the Most High God? I implore You by God that
-You do not torment me.* See the note on Mark 5:6–13.
+You do not torment me.* See the note on Mark 5:6–10.
 
 ## The name
 

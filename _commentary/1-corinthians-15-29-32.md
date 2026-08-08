@@ -50,7 +50,7 @@ The context is danger. He is saying his life is at risk every day, and swearing 
 
 The catalogue is in 2 Corinthians: five times thirty-nine lashes, three beatings with rods, once
 stoned, three shipwrecks, a night and a day in the deep. See the note on
-2 Corinthians 11:24–28.
+2 Corinthians 11:24–25.
 
 ## The beasts
 

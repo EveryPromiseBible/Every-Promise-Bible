@@ -88,7 +88,7 @@ The rabbis noticed it and argued about it for centuries.
 justice and righteousness**.*
 
 The promise to David: *your throne shall be established forever*. See the note on
-2 Samuel 7:12–16.
+2 Samuel 7:12–17.
 
 ## The duration
 

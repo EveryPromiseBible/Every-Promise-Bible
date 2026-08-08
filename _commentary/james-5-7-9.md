@@ -78,7 +78,7 @@ Pressure applied from outside tends to come out sideways, on the people nearest.
 
 James has spent the letter on this: *who is wise among you? Let him show by good conduct*, and
 *where envy and self-seeking exist, confusion and every evil thing are there*. See the note on
-James 3:13–18.
+James 3:13–16.
 
 ## The last line
 

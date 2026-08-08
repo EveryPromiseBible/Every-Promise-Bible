@@ -76,7 +76,7 @@ The Greek is **tuptontes** — striking, beating.
 Against the brother, therefore against Christ.
 
 The same logic as *inasmuch as you did it to one of the least of these My brethren, you did it to
-Me*. See the note on Matthew 25:37–40.
+Me*. See the note on Matthew 25:34–40.
 
 ## The conclusion
 
@@ -105,7 +105,7 @@ Air against masonry, in the opening line of the chapter.
 ## What comes next
 
 A whole chapter on rights Paul had and did not use — payment, marriage, support. See the note on
-1 Corinthians 9:1–6.
+1 Corinthians 9:1–2.
 
 *Nevertheless we have not used this right, but endure all things lest we hinder the gospel of
 Christ.*

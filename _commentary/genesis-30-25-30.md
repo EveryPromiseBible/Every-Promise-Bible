@@ -94,7 +94,7 @@ changed ten times. See the note on Genesis 30:31–36.
 me**."*
 
 And *"thus God has taken away the livestock of your father and given them to me."* See the note on
-Genesis 31:6–9.
+Genesis 31:4–13.
 
 The rods are in the story; the explanation Jacob gives is a dream and an angel.
 

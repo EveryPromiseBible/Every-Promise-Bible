@@ -120,7 +120,7 @@ stands over.
 ## What follows
 
 *Finally, brethren, whatever things are true, whatever things are noble, whatever things are just…
-**meditate on these things**.* See the note on Philippians 4:8–9.
+**meditate on these things**.* See the note on Philippians 4:8.
 
 Six categories, and then *the God of peace will be with you*.
 
@@ -133,7 +133,7 @@ Verse 7 gives the peace of God; verse 9 gives the God of peace.
 The Greek is **autarkes** — self-sufficient, the Stoics' word.
 
 *I can do all things through Christ who strengthens me.* See the note on
-Philippians 4:11–13.
+Philippians 4:11–12.
 
 > **The verb.** **Phroureo** — to garrison, to hold a post. Written by a man under guard, about
 > what stands over the mind that could not take it in.

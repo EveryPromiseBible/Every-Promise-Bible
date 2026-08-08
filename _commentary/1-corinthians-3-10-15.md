@@ -117,7 +117,7 @@ The materials that survive are the ones a sanctuary is made of.
 ## The conclusion of the chapter
 
 *Therefore **let no one boast in men**. For all things are yours… **and you are Christ's, and Christ is
-God's**.* See the note on 1 Corinthians 3:21–23.
+God's**.* See the note on 1 Corinthians 3:18–23.
 
 The argument that started with party slogans ends by giving them everything they were fighting over.
 

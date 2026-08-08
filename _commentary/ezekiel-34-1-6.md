@@ -95,7 +95,7 @@ David has been dead four hundred years when Ezekiel writes this.
 
 *"**I am the good shepherd**. The good shepherd gives His life for the sheep. But a hireling
 — he sees the wolf coming and leaves the sheep and flees."* See the note on
-John 10:11–13.
+John 10:11–15.
 
 He takes Ezekiel's contrast and stands on the right side of it.
 

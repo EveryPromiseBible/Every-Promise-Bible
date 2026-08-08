@@ -67,7 +67,7 @@ The psalm does not say the enemy did these things while God looked away. It puts
 Both. Not one or the other.
 
 Isaiah pairs them the same way: *when you pass through the waters, I will be with you… when you
-walk through the fire, you shall not be burned*. See the note on Isaiah 43:1–3.
+walk through the fire, you shall not be burned*. See the note on Isaiah 43:1–4.
 
 ## The word
 

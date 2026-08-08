@@ -93,7 +93,7 @@ The Greek is **eis apolutrosin tes peripoieseos** — unto the redemption of the
 The body.
 
 *Even we ourselves groan within ourselves, eagerly waiting for the adoption, **the redemption of our
-body**.* See the note on Romans 8:22–23.
+body**.* See the note on Romans 8:18–22.
 
 The deposit is the Spirit; the balance is a resurrection.
 

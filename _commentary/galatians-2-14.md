@@ -75,7 +75,7 @@ Pulling back from it preaches a different gospel more effectively than an argume
 the note on Galatians 2:15–16.
 
 And *I do not set aside the grace of God; for if righteousness comes through the law, **then Christ
-died in vain**.* See the note on Galatians 2:20–21.
+died in vain**.* See the note on Galatians 2:19–20.
 
 The most concentrated statement of justification in the letter is the continuation of a rebuke
 about dinner.
@@ -92,7 +92,7 @@ Peter's reply.
 ## What Peter wrote later
 
 *Our beloved brother Paul, according to the wisdom given to him, has written to you… **in which are
-some things hard to understand**.* See the note on 2 Peter 3:15–16.
+some things hard to understand**.* See the note on 2 Peter 3:15.
 
 He calls him beloved.
 

@@ -13,7 +13,7 @@ Before he says a word, he has to swallow one.
 By the river Chebar in Babylon, among the exiles. The visions of the first chapter — the living
 creatures, the wheels, the throne above the firmament — have flattened him.
 
-*So when I saw it, I fell on my face.* See the note on Ezekiel 1:26–28.
+*So when I saw it, I fell on my face.* See the note on Ezekiel 1:25–27.
 
 Then a voice, and *the Spirit entered me and set me on my feet*.
 
@@ -90,7 +90,7 @@ His name, **Yechezqel**, means *God strengthens*.
 
 *Then I took the little book out of the angel's hand and ate it, and **it was as sweet as honey in
 my mouth. But when I had eaten it, my stomach became bitter**.* See the note on
-Revelation 10:9–11.
+Revelation 10:8–9.
 
 John spells out the second half that Ezekiel's account leaves implicit.
 

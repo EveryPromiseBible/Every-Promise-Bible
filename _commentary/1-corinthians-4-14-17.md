@@ -83,7 +83,7 @@ so Corinth cannot claim a private version.
 ## What the factions were
 
 *Each of you says, "I am of Paul," or "I am of Apollos," or "I am of Cephas," or "I am of
-Christ."* See the note on 1 Corinthians 1:10–13.
+Christ."* See the note on 1 Corinthians 1:10–17.
 
 A church sorting itself by teacher. Paul's answer, four chapters later, is that they are sorting
 by the wrong category.

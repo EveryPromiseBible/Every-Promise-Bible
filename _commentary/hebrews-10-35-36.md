@@ -38,7 +38,7 @@ The Greek is **megalēn misthapodosian** — great recompense.
 ## What they had already borne
 
 *You endured a great struggle with sufferings… you had compassion on me in my chains, and **joyfully
-accepted the plundering of your goods**.* See the note on Hebrews 10:32–34.
+accepted the plundering of your goods**.* See the note on Hebrews 10:32–33.
 
 The Greek is **meta charas prosedexasthe** — with joy you received it.
 
@@ -77,7 +77,7 @@ Evidence that the promise failed.
 ## The quotation that follows
 
 *"For yet a little while, and **He who is coming will come and will not tarry**. Now the just shall
-live by faith."* See the note on Hebrews 10:37–38.
+live by faith."* See the note on Hebrews 10:37–39.
 
 From Habakkuk, who was told to write the vision and wait: *though it tarries, wait for it*.
 

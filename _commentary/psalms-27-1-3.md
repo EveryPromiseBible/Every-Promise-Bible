@@ -92,10 +92,10 @@ Both are in it, and the editor did not smooth them out.
 ## Where the light goes
 
 *"**I am the light of the world**. He who follows Me shall not walk in darkness, but have the light of
-life."* See the note on John 8:12.
+life."* See the note on John 8:12–14.
 
 And *the city had no need of the sun or of the moon to shine in it, for **the glory of God
-illuminated it**, and the Lamb is its light*. See the note on Revelation 21:22–24.
+illuminated it**, and the Lamb is its light*. See the note on Revelation 21:22–23.
 
 > **The form of the question.** *Whom* shall I fear — not *what*. The psalm's threats are all
 > people, and it asks about them by name.

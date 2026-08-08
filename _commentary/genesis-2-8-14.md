@@ -98,7 +98,7 @@ Work exists before the fall. What the curse adds is thorns and sweat.
 
 *So He drove out the man; and He placed cherubim at the east of the garden of Eden, and a flaming
 sword which turned every way, **to guard the way to the tree of life**.* See the note on
-Genesis 3:22–24.
+Genesis 3:20–24.
 
 The same verb — **lishmor**, to guard. The man was put there to guard it; afterwards something
 else guards it against him.

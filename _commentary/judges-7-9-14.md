@@ -67,7 +67,7 @@ The Hebrew is **tzelil lechem se'orim** — a cake, or a round, of barley bread.
 The poor man's grain. Wheat was the bread of those who could afford it.
 
 Gideon has already described himself: *my clan is the weakest in Manasseh, and I am the least in
-my father's house*. See the note on Judges 6:14–16.
+my father's house*. See the note on Judges 6:11–16.
 
 The Midianite dreams of the cheapest loaf there is, rolling downhill into a tent.
 
@@ -107,7 +107,7 @@ Not a battle cry. He bows down in the dark, at the edge of a hostile camp.
 
 Three hundred trumpets, three hundred jars, three hundred torches inside them.
 
-*And they cried, "The sword of the LORD and of Gideon!"* See the note on Judges 7:19–22.
+*And they cried, "The sword of the LORD and of Gideon!"* See the note on Judges 7:19–25.
 
 They break the jars, and the light is out. Nobody in the three hundred draws a sword; the camp
 turns on itself.

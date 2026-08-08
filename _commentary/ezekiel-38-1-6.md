@@ -112,7 +112,7 @@ Chapters 40 to 48: a temple measured in detail, the glory returning through the 
 river running from under the threshold and getting deeper, and the city's new name.
 
 *And the name of the city from that day shall be: **THE LORD IS THERE**.* See the note on
-Ezekiel 48:34–35.
+Ezekiel 48:30–34.
 
 > **The hooks.** The invader is described as being led out by the jaw. The chapter opens with an
 > army massing and says immediately whose hand is on it.

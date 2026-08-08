@@ -114,7 +114,7 @@ Paul is stating the rule, not abolishing the cases.
 ## What follows
 
 *Render therefore to all their due: taxes to whom taxes are due… **Owe no one anything except to
-love one another**.* See the note on Romans 13:6–8.
+love one another**.* See the note on Romans 13:6–7.
 
 The chapter about submission to Rome ends by saying the only permanent debt is love.
 

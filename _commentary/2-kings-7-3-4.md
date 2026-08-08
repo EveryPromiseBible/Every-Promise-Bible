@@ -23,7 +23,7 @@ barley for a shekel**, at the gate of Samaria."*
 Ordinary market prices, promised for the next day, in a city eating its children.
 
 And the officer on whose arm the king leaned: *if the LORD would make windows in heaven, could
-this thing be?* See the note on 2 Kings 7:1–2.
+this thing be?* See the note on 2 Kings 7:1.
 
 ## Who is at the gate
 

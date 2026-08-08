@@ -114,7 +114,7 @@ The word **love** appears throughout; the word **God** does not appear once in t
 *"**No one can come to Me unless the Father who sent Me draws him**."*
 
 *"And I, if I am lifted up from the earth, **will draw all peoples to Myself**."* See the note on
-John 12:32–33.
+John 12:31–33.
 
 > **The pun.** **Shemen** and **shem** — oil and name. A name like oil poured out, which is a way
 > of saying it does not stay in the jar.

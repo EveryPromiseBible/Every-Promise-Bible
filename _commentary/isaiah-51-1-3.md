@@ -65,7 +65,7 @@ The answer is not encouragement about their prospects. It is a fact about where 
 The Hebrew is **nicham** — to comfort, to console.
 
 The verb that opens chapter 40: *comfort, yes, comfort My people*. See the note on
-Isaiah 40:1–5.
+Isaiah 40:1–2.
 
 ## The reversal
 
@@ -108,7 +108,7 @@ Hebrews 11:8–12.
 ## The other rock
 
 *And all drank the same spiritual drink. For **they drank of that spiritual Rock that followed them,
-and that Rock was Christ**.* See the note on 1 Corinthians 10:1–4.
+and that Rock was Christ**.* See the note on 1 Corinthians 10:1–5.
 
 > **The argument.** Not encouragement about their numbers — a fact about their origin. *When I
 > called him, he was only one man*, and both verbs in the next clause are first person.

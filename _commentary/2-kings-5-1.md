@@ -96,7 +96,7 @@ Does not come out.
 Sends a messenger: *go and wash in the Jordan seven times*.
 
 *But Naaman **became furious**, and went away and said, "Indeed, I said to myself, He will surely
-come out to me… and wave his hand over the place."* See the note on 2 Kings 5:10–12.
+come out to me… and wave his hand over the place."* See the note on 2 Kings 5:9–10.
 
 ## Who talks him into it
 

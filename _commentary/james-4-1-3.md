@@ -34,7 +34,7 @@ The Greek is **ton strateuomenon en tois melesin humon** — campaigning in your
 **Strateuomai** — to serve as a soldier, to wage a campaign. Not a skirmish; an occupation.
 
 Paul uses the same picture: *I see another law in my members, warring against the law of my mind*.
-See the note on Romans 7:22–25.
+See the note on Romans 7:21–23.
 
 ## The chain
 

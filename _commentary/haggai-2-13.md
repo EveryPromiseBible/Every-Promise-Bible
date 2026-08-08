@@ -98,7 +98,7 @@ Something went out. Nothing came in.
 
 *For if the blood of bulls and goats and **the ashes of a heifer**, sprinkling the unclean,
 sanctifies for the purifying of the flesh, **how much more shall the blood of Christ**… cleanse
-your conscience.* See the note on Hebrews 9:11–14.
+your conscience.* See the note on Hebrews 9:11–12.
 
 The remedy for corpse defilement is the one Hebrews argues from.
 

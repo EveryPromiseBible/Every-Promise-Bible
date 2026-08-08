@@ -74,7 +74,7 @@ The Hebrew is **merchav** — a wide space, room to move.
 ## The stone
 
 *The stone which the builders rejected **has become the chief cornerstone**. This was the LORD's
-doing; it is marvellous in our eyes.* See the note on Psalms 118:22–24.
+doing; it is marvellous in our eyes.* See the note on Psalms 118:20–23.
 
 Quoted by Jesus at the end of the parable of the vineyard, by Peter before the Sanhedrin, and by
 Peter again in his letter.

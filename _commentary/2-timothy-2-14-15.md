@@ -105,7 +105,7 @@ message will spread like cancer.*
 The Greek is **gangraina** — gangrene. Paul names two men who have done it.
 
 *Nevertheless **the solid foundation of God stands**, having this seal: "The Lord knows those who
-are His."* See the note on 2 Timothy 2:19–21.
+are His."* See the note on 2 Timothy 2:19.
 
 ## The last word on how to handle opponents
 

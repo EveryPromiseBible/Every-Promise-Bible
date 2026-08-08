@@ -14,8 +14,7 @@ One verse, and it is an instruction about timing.
 *Ask the LORD for rain **in the springtime**.*
 
 The Hebrew word is the one for the **latter** rain — the spring rain that comes
-just before harvest and fills out the grain. See the note on Deuteronomy
-11:13–15.
+just before harvest and fills out the grain. See the note on Deuteronomy 11:13–15.
 
 So this is not a general encouragement to pray about weather. It is: when the
 season for the last rain arrives, ask for it.

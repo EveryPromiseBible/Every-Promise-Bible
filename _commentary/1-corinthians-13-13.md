@@ -21,7 +21,7 @@ three are treated as one standing thing.
 
 *Love never fails. **But whether there are prophecies, they will fail; whether there are tongues,
 they will cease; whether there is knowledge, it will vanish away**.* See the note on
-1 Corinthians 13:8–10.
+1 Corinthians 13:4–8.
 
 Three things named as temporary, immediately before three named as remaining.
 
@@ -37,7 +37,7 @@ The Greek is **to teleion** — the complete, the whole.
 *When I was a child, I spoke as a child… **but when I became a man, I put away childish things**.*
 
 And *now we see **in a mirror, dimly**, but then face to face*. See the note on
-1 Corinthians 13:11–12.
+1 Corinthians 13:9–12.
 
 Corinth manufactured bronze mirrors. The image would have been local.
 
@@ -87,7 +87,7 @@ God does not have faith or hope. *God is love.*
 **Agapē** — the word Paul has spent the chapter defining by verbs, not adjectives.
 
 *Love suffers long and is kind; love does not envy; love does not parade itself.* See the note on
-1 Corinthians 13:4–7.
+1 Corinthians 13:4–8.
 
 Fifteen verbs, and not one feeling among them.
 

@@ -21,7 +21,7 @@ The high priest went in on the Day of Atonement with the blood of a bull and a g
 
 *But into the second part the high priest went alone once a year, not without blood, which he
 offered for himself and for the people's sins committed in ignorance.* See the note on
-Hebrews 9:6–10.
+Hebrews 9:6–7.
 
 *Which cannot make him who performed the service perfect in regard to the conscience.*
 

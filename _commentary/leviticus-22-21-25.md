@@ -92,7 +92,7 @@ The Greek is **amōmou kai aspilou** — the Septuagint's word for **tamim**.
 ## What Malachi says about the rule being broken
 
 *"You offer **defiled food** on My altar… and when you offer the blind as a sacrifice, is it not evil?
-**Offer it then to your governor!**"* See the note on Malachi 1:6–8.
+**Offer it then to your governor!**"* See the note on Malachi 1:6–9.
 
 Try giving it to the local official and see whether he takes it.
 

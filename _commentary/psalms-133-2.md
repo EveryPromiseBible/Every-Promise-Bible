@@ -26,7 +26,7 @@ The Hebrew is **kashemen hattov** — like the good oil.
 *And you shall make from these a holy anointing oil… **it shall be a holy anointing oil**.*
 
 Myrrh, cinnamon, cane, cassia and olive oil, compounded by the perfumer. See the note on
-Exodus 30:22–25.
+Exodus 30:22–33.
 
 *Whoever compounds any like it, or whoever puts any of it on an outsider, shall be cut off.*
 

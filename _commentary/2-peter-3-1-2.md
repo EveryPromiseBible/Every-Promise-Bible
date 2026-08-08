@@ -65,7 +65,7 @@ The same claim, twice in one short letter.
 Prophets and apostles. The Old Testament and the apostolic word, set side by side as one deposit.
 
 *Having been built on the foundation of the apostles and prophets, Jesus Christ Himself being the
-chief cornerstone.* See the note on Ephesians 2:19–22.
+chief cornerstone.* See the note on Ephesians 2:17–19.
 
 ## Why it matters here
 
@@ -87,14 +87,14 @@ Delay is reinterpreted as patience.
 ## What he says about Paul
 
 *As also in all his epistles, speaking in them of these things, **in which are some things hard to
-understand**.* See the note on 2 Peter 3:15–16.
+understand**.* See the note on 2 Peter 3:15.
 
 And in the same breath he calls them Scripture.
 
 ## The last line of the letter
 
 *But **grow in the grace and knowledge** of our Lord and Savior Jesus Christ.* See the note on
-2 Peter 3:17–18.
+2 Peter 3:17.
 
 > **The stated purpose.** Two letters, and the reason given for both is the same: not to inform, but
 > to wake up a mind he says is already clear.
