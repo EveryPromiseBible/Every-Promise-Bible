@@ -7,6 +7,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2023-04-23 be-healed-by-the-washing-of-the-word
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
 updated: 2026-08-06
 ---
 

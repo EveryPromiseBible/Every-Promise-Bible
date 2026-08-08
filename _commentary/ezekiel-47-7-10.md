@@ -3,7 +3,8 @@ key: Ezekiel 47:7–10
 title: Wherever the river flows
 sources:
   - 2021-12-05 benefits-of-praying-in-tongues
-updated: 2026-08-07
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
+updated: 2026-08-06
 ---
 
 The vision has been measuring the water. Now it looks at what the water does.

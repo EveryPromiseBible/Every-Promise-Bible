@@ -3,7 +3,8 @@ key: Genesis 1:9–13
 title: Each carrying its own seed
 sources:
   - 2021-06-27 his-word-brings-life-and-healing
-updated: 2026-08-07
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
+updated: 2026-08-06
 ---
 
 The third day, and it happens twice.

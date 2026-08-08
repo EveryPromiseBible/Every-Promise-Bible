@@ -5,6 +5,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2022-03-13 pillars-for-our-church-and-life
   - 2023-08-13 keys-to-a-spirit-filled-life
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
 updated: 2026-08-06
 ---
 

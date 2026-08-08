@@ -3,7 +3,8 @@ key: Revelation 22:1–2
 title: The river and the tree
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
+updated: 2026-08-06
 ---
 
 The last chapter of the Bible, and the two things in it are the two things Genesis 2

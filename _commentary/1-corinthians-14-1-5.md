@@ -16,6 +16,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-05-08 own-your-new-creation-identity
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
 updated: 2026-08-06
 ---
 

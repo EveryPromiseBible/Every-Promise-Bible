@@ -16,6 +16,7 @@ sources:
   - 2022-06-19 own-the-spirit-of-sonship
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
 updated: 2026-08-06
 ---
 

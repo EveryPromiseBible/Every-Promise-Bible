@@ -4,6 +4,7 @@ title: "The word is near you"
 sources:
   - 2019-04-28 the-key-to-live-blessed
   - 2023-02-26 power-to-renew-your-youth
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
 updated: 2026-08-06
 ---
 

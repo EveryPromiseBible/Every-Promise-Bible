@@ -11,6 +11,7 @@ sources:
   - 2021-10-10 understand-the-times
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-02-26 power-to-renew-your-youth
+  - 2023-08-27 speak-your-way-to-a-long-happy-life
 updated: 2026-08-06
 ---
 
