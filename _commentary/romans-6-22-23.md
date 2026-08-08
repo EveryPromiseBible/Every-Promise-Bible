@@ -14,6 +14,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2023-12-24 make-room-for-christ
 updated: 2026-08-06
 ---
 

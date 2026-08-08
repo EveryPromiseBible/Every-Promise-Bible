@@ -12,6 +12,7 @@ sources:
   - 2023-10-15 put-on-gods-armor-in-the-evil-day
   - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+  - 2023-11-12 the-prayer-that-removes-anxiety
 updated: 2026-08-06
 ---
 

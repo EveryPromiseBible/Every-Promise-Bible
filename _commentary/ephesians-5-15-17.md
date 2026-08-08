@@ -5,6 +5,7 @@ sources:
   - 2021-01-03 the-year-of-hazon-vision
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2023-08-27 speak-your-way-to-a-long-happy-life
+  - 2023-11-12 the-prayer-that-removes-anxiety
 updated: 2026-08-06
 ---
 

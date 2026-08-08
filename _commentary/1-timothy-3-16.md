@@ -3,7 +3,8 @@ key: 1 Timothy 3:16
 title: The secret at the heart of it
 sources:
   - 2021-02-07 answers-for-a-distracted-world
-updated: 2026-08-07
+  - 2023-12-24 make-room-for-christ
+updated: 2026-08-06
 ---
 
 Six clauses in a row, and they are almost certainly a hymn the churches already sang.

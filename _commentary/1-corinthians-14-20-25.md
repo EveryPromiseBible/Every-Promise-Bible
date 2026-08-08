@@ -3,6 +3,7 @@ key: 1 Corinthians 14:20–25
 title: "A sign, not to those who believe"
 sources:
   - 2017-09-10 the-prayer-that-repairs-your-body
+  - 2023-11-12 the-prayer-that-removes-anxiety
 updated: 2026-08-06
 ---
 

@@ -19,6 +19,7 @@ sources:
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2022-12-13 prosperity-with-a-purpose
+  - 2023-12-24 make-room-for-christ
 updated: 2026-08-06
 ---
 

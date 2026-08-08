@@ -3,6 +3,7 @@ key: Luke 2:6–7
 title: Wrapped, and laid in a feeding trough
 sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
+  - 2023-12-24 make-room-for-christ
 updated: 2026-08-06
 ---
 

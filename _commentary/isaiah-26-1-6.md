@@ -5,6 +5,7 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-11-22 what-it-means-to-fall-from-grace
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2023-12-24 make-room-for-christ
 updated: 2026-08-06
 ---
 

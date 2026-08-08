@@ -7,6 +7,7 @@ sources:
   - 2020-09-13 prayer-2-0-the-key-to-the-double-portion
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-12-05 benefits-of-praying-in-tongues
+  - 2023-11-12 the-prayer-that-removes-anxiety
 updated: 2026-08-06
 ---
 
