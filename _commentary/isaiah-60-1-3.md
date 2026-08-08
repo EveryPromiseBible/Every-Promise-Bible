@@ -25,6 +25,9 @@ sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2024-04-14 follow-the-anointing-within
   - 2024-07-21 freedom-from-the-spirit-of-depression
+  - 2025-06-29 arise-and-shine-by-praying-in-the-spirit
+  - 2025-07-06 radiant-with-his-glory
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

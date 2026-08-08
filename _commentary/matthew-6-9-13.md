@@ -10,6 +10,7 @@ sources:
   - 2021-09-05 answers-for-a-hurried-life
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
   - 2022-05-01 guard-the-imaginations-of-your-heart
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

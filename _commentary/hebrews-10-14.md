@@ -4,6 +4,7 @@ title: Perfected forever, being made holy
 sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2025-07-13 freedom-from-a-guilty-conscience
 updated: 2026-08-06
 ---
 

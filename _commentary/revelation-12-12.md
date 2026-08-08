@@ -3,7 +3,8 @@ key: Revelation 12:12
 title: He knows he has little time
 sources:
   - 2021-09-05 answers-for-a-hurried-life
-updated: 2026-08-07
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
+updated: 2026-08-06
 ---
 
 A verse with a celebration in the first half and a warning in the second.

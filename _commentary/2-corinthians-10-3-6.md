@@ -7,6 +7,7 @@ sources:
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-09 made-right-in-his-sight
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+  - 2025-06-29 arise-and-shine-by-praying-in-the-spirit
 updated: 2026-08-06
 ---
 

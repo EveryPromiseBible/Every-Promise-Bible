@@ -11,6 +11,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2022-01-09 gods-way-of-acceleration
   - 2025-03-09 boldness-to-enter-the-holiest
+  - 2025-07-13 freedom-from-a-guilty-conscience
 updated: 2026-08-06
 ---
 

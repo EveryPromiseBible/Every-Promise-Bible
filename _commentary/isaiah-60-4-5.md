@@ -7,6 +7,8 @@ sources:
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2023-08-13 keys-to-a-spirit-filled-life
+  - 2025-06-29 arise-and-shine-by-praying-in-the-spirit
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

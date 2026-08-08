@@ -18,6 +18,7 @@ sources:
   - 2024-09-01 answers-for-lifes-demands
   - 2025-03-30 freedom-from-failure-consciousness
   - 2025-04-20 raised-with-christ-to-reign
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

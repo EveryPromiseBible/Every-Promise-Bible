@@ -16,6 +16,7 @@ sources:
   - 2024-01-07 break-the-cycle-of-misfortune
   - 2024-01-14 the-year-of-living-in-the-upper-room
   - 2024-05-12 busy-outside-restful-inside
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

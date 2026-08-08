@@ -4,6 +4,7 @@ title: Fan the gift into flame
 sources:
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2021-10-24 baptism-of-the-holy-spirit
+  - 2025-07-13 freedom-from-a-guilty-conscience
 updated: 2026-08-06
 ---
 

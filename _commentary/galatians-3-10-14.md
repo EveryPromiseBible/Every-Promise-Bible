@@ -17,6 +17,7 @@ sources:
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-06-11 blessed-with-father-abrahams-blessings
   - 2024-09-01 answers-for-lifes-demands
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

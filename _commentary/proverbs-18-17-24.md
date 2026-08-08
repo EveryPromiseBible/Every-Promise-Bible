@@ -15,6 +15,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2023-02-26 power-to-renew-your-youth
   - 2024-01-21 live-with-a-heavenly-perspective
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

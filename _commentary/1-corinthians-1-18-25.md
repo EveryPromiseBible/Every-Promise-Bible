@@ -10,6 +10,7 @@ sources:
   - 2022-04-03 when-the-odds-are-against-you
   - 2024-08-25 activate-your-grace-gifts
   - 2025-05-25 jesus-your-storehouse-of-wisdom
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

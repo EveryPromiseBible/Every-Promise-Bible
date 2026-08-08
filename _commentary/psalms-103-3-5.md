@@ -11,6 +11,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2023-02-26 power-to-renew-your-youth
   - 2024-09-22 claim-what-is-yours
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

@@ -19,6 +19,8 @@ sources:
   - 2023-08-27 speak-your-way-to-a-long-happy-life
   - 2024-03-17 live-led-by-the-power-of-the-spirit
   - 2024-04-07 the-language-of-the-holy-spirit
+  - 2025-06-29 arise-and-shine-by-praying-in-the-spirit
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

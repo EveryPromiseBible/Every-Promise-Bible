@@ -4,6 +4,7 @@ title: A new covenant
 sources:
   - 2024-05-19 believe-right-and-live-right
   - 2024-09-15 step-out-and-possess-the-land
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

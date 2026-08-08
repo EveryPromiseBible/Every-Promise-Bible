@@ -4,6 +4,7 @@ title: Struck down and scattered
 sources:
   - 2020-09-27 actively-own-your-double-portion
   - 2020-10-11 he-confirms-his-word-with-miracles
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

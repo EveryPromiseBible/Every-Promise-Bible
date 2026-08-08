@@ -7,6 +7,9 @@ sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+  - 2025-06-29 arise-and-shine-by-praying-in-the-spirit
+  - 2025-07-06 radiant-with-his-glory
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

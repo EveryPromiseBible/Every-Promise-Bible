@@ -3,7 +3,8 @@ key: Hebrews 9:8–10
 title: While the front room was standing
 sources:
   - 2025-03-09 boldness-to-enter-the-holiest
-updated: 2026-08-07
+  - 2025-07-13 freedom-from-a-guilty-conscience
+updated: 2026-08-06
 ---
 
 The first room was not an entrance. It was a closed door with furniture in it.

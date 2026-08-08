@@ -29,6 +29,7 @@ sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2023-12-24 make-room-for-christ
   - 2025-04-20 raised-with-christ-to-reign
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

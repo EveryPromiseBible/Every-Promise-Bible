@@ -14,6 +14,7 @@ sources:
   - 2024-01-28 be-washed-and-refreshed-by-his-word
   - 2025-02-02 the-power-of-his-resurrection
   - 2025-02-23 live-by-faith-not-by-your-feelings
+  - 2025-07-13 freedom-from-a-guilty-conscience
 updated: 2026-08-06
 ---
 

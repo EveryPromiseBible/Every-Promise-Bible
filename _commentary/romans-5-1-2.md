@@ -14,6 +14,7 @@ sources:
   - 2017-09-17 under-attack-put-on-the-armor-of-god
   - 2021-11-07 win-the-battle-over-bitterness
   - 2024-05-12 busy-outside-restful-inside
+  - 2025-07-13 freedom-from-a-guilty-conscience
 updated: 2026-08-06
 ---
 

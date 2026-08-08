@@ -7,6 +7,7 @@ sources:
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2023-11-12 the-prayer-that-removes-anxiety
   - 2024-04-07 the-language-of-the-holy-spirit
+  - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
 updated: 2026-08-06
 ---
 

@@ -3,6 +3,7 @@ key: Jeremiah 33:6–9
 title: "They will tremble in awe at all the good"
 sources:
   - 2019-01-27 be-led-by-his-anointing-and-win
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 

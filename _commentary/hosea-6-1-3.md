@@ -8,6 +8,7 @@ sources:
   - 2025-01-12 the-third-day
   - 2025-01-19 discern-the-times-we-live-in
   - 2025-02-02 the-power-of-his-resurrection
+  - 2025-07-06 radiant-with-his-glory
 updated: 2026-08-06
 ---
 
