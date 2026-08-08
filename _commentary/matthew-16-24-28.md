@@ -3,7 +3,8 @@ key: Matthew 16:24–28
 title: Let go of yourself
 sources:
   - 2022-02-27 jesus-saves-heals-and-renews
-updated: 2026-08-07
+  - 2024-03-03 fresh-truths-for-parenting-today
+updated: 2026-08-06
 ---
 
 Said immediately after Peter is called Satan, and the two are connected.

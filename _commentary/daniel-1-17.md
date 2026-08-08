@@ -4,6 +4,7 @@ title: "And to Daniel He gave more still"
 sources:
   - 2021-01-17 learn-how-to-receive-visions
   - 2024-01-14 the-year-of-living-in-the-upper-room
+  - 2024-03-03 fresh-truths-for-parenting-today
 updated: 2026-08-06
 ---
 

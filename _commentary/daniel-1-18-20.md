@@ -3,7 +3,8 @@ key: Daniel 1:18–20
 title: Ten times better
 sources:
   - 2024-01-14 the-year-of-living-in-the-upper-room
-updated: 2026-08-07
+  - 2024-03-03 fresh-truths-for-parenting-today
+updated: 2026-08-06
 ---
 
 The examination at the end of a three-year training programme, and four foreigners come top.

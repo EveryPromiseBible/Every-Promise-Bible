@@ -3,7 +3,8 @@ key: 1 Thessalonians 2:13–16
 title: Received as the word of God
 sources:
   - 2024-01-14 the-year-of-living-in-the-upper-room
-updated: 2026-08-07
+  - 2024-03-03 fresh-truths-for-parenting-today
+updated: 2026-08-06
 ---
 
 Paul thanks God for how a message was taken, and then the paragraph turns very dark.
