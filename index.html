@@ -475,12 +475,24 @@
   .sw-toast .sw-toast-x:hover{background:rgba(255,255,255,0.15);opacity:1;}
 
   /* ---- the tour ----
-     Deliberately NOT an overlay. Each step moves the app underneath -- opens a
-     translation, lights a commentary bulb, flips study mode -- and a scrim over
-     the top would hide the one thing the step is trying to show. So the card
-     sits at the bottom edge and leaves the whole page visible behind it. */
-  .tour{display:none;position:fixed;left:50%;transform:translateX(-50%);bottom:20px;
-    z-index:150;width:min(460px, calc(100vw - 28px));background:var(--sheet);
+     The backdrop is deliberately gentle: a light dim and a 3px blur, not the
+     usual near-opaque scrim. Each step drives the real interface underneath --
+     switching translation, opening a commentary note, flipping study mode --
+     so the page has to stay legible enough to watch. Enough blur to pull the
+     eye onto the card, not so much that the demonstration is lost. */
+  .tour-backdrop{display:none;position:fixed;inset:0;z-index:149;
+    background:rgba(15,21,25,0.30);
+    -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);}
+  .tour-backdrop.on{display:block;}
+  /* backdrop-filter blurs whatever is painted BEHIND it, so the only way to
+     keep one panel sharp is to lift that panel out from behind it. Raising the
+     z-index above the backdrop does exactly that -- the element paints on top
+     and is never filtered. The ring is what makes it read as deliberate rather
+     than as a rendering fault. */
+  .tour-spot{position:relative;z-index:152;border-radius:12px;
+    box-shadow:0 0 0 3px var(--sword), 0 12px 40px rgba(0,0,0,0.30);}
+  .tour{display:none;position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);
+    z-index:160;width:min(460px, calc(100vw - 28px));background:var(--sheet);
     border:1px solid var(--line);border-radius:16px;box-shadow:0 18px 48px rgba(0,0,0,0.28);
     padding:18px 20px 14px;font-family:var(--sans);}
   .tour.on{display:block;}
@@ -501,10 +513,6 @@
   .tour-btn.primary:hover{filter:brightness(1.1);}
   .tour-skip{background:none;border:none;color:var(--gray);font-size:0.85em;cursor:pointer;padding:8px 2px;}
   .tour-skip:hover{color:var(--ink);text-decoration:underline;}
-  @media(max-width:1000px){
-    /* Clear of .bnav, which is fixed at bottom:10px and about 35px tall. */
-    .tour{bottom:58px;}
-  }
   @media (prefers-reduced-motion:reduce){.tour{transition:none;}}
   /* ---- scripture search ---- */
   .search-card{background:var(--white);border-radius:16px;max-width:640px;width:100%;
@@ -1292,6 +1300,7 @@
 
 <!-- Guided tour. Sits over the app rather than replacing it, because each step
      drives the real interface underneath. -->
+<div class="tour-backdrop" id="tourBackdrop"></div>
 <div class="tour" id="tour" role="dialog" aria-live="polite" aria-label="Guided tour">
   <div class="tour-step" id="tourStep"></div>
   <div class="tour-title" id="tourTitle"></div>
@@ -3435,28 +3444,44 @@ const TOUR_SEEN = 'ep-tour-seen';
 function tourGo(fn) { try { fn(); } catch (e) { console.warn('[tour]', e); } }
 
 const TOUR = [
-  { title: 'Welcome to Every Promise',
-    body: 'Three translations of the Bible, a commentary, a devotional, a hymnal and a journal — in one place, free, and working offline once loaded. Here is the quick version.',
+  { title: 'Every Promise Bible',
+    body: 'The Every Promise Bible is built on two translations of its own, doing opposite jobs. The <b>Illumination</b> is a paraphrase, made for easy reading — the whole Bible retold thought by thought, so it reads in paragraphs like an ordinary book instead of numbered verses. <b>Mak</b> is a word-for-word deep dive into the Greek — every English word anchored to the one Greek word it renders, with nothing in it the Greek does not carry. If you are curious about a word&rsquo;s meaning you can tap it, and it will bring you that word from a range of Greek dictionaries.<br><br>They rest on different Greek, too. The Illumination follows the <b>Textus Receptus</b>, the text behind the King James. Mak follows the <b>SBLGNT</b>, a modern critical edition. This was done purposely, so you can see the differences in the text.<br><br>Let&rsquo;s take a look at where they are located.',
     go: () => { sv('bible'); } },
 
-  { title: 'Your library',
-    body: 'Everything lives in the panel on the right: three translations and the devotional. Tap any card to switch — your place is carried across.',
-    go: () => { sv('bible'); document.getElementById('library').classList.add('open'); } },
+  { title: 'The book button',
+    spot: '#libBtn',
+    body: 'This is the one to remember. The book button opens your library — every translation and devotional in the app lives behind it. Watch what happens when we open it.',
+    /* Shut, so the next step opening it is something the reader watches happen
+       rather than a panel that was already sitting there. */
+    go: () => { sv('bible');
+      const lib = document.getElementById('library');
+      if (lib.classList.contains('open')) toggleLibrary(); } },
+
+  { title: 'Your translations',
+    spot: '#library .lib-group',
+    body: 'Three translations and a devotional, each on its own card. Tap any card to switch — whatever chapter you are reading is carried across, so you land on the same passage in the new text. Let us go through them.',
+    go: () => { sv('bible');
+      const lib = document.getElementById('library');
+      if (!lib.classList.contains('open')) toggleLibrary(); } },
 
   { title: 'tx.01 — the Mak Translation',
-    body: 'A word-for-word New Testament laid over the Greek. <b>Every English word sits on the Greek word it came from</b>, so you can see the sentence being built.',
+    spot: '#txcard-mak',
+    body: 'The word-for-word New Testament. Each word is a small stack: the English, the Greek word it came from, and that word&rsquo;s Strong&rsquo;s number with its grammar. Words in italic were added for English and have no Greek behind them, so you can always see what came from the text and what did not.',
     go: () => { switchTranslation('mak'); loadChapter(0, true); } },
 
-  { title: 'Study mode, and tapping a word',
-    body: 'In <b>study</b> the Greek and its parsing sit under each word — tap any word for the lexicon entry. Flip to <b>read</b> and the scaffolding drops away, leaving plain prose.',
+  { title: 'Study and read',
+    spot: '.mode-toggle',
+    body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through.',
     go: () => { if (currentTx !== 'mak') switchTranslation('mak'); if (readMode) toggleMode(); } },
 
   { title: 'tx.02 — the Illumination',
-    body: 'The whole Bible, 66 books, rendered thought-for-thought so it reads the way it would have sounded. This is the one most people read in.',
+    spot: '#txcard-illum',
+    body: 'The whole Bible, all 66 books, retold thought by thought. Every chapter has a title, every section a heading, and each book opens with a synopsis of its own — so you can find your way by subject rather than by verse number.',
     go: () => { switchTranslation('illum'); loadIllum(navIndexForRef('illum', 'John 15')); } },
 
   { title: 'The Grace Commentary 💡',
-    body: 'Verse blocks in the Illumination carry a bulb. Tap it for a note on that passage — the Hebrew or Greek behind it, and where it turns up elsewhere. There are over 1,900.',
+    spot: '.cmt-panel.open',
+    body: 'Verse blocks in the Illumination carry a bulb. Tap it and a note opens on that passage — the Hebrew or Greek behind it, and where the same thing turns up elsewhere in Scripture. There are over 1,900 of them.',
     go: () => {
       if (currentTx !== 'illum') switchTranslation('illum');
       loadIllum(navIndexForRef('illum', 'John 15'));
@@ -3466,23 +3491,48 @@ const TOUR = [
       }, 320);
     } },
 
+  { title: 'tx.03 — the King James Version',
+    spot: '#txcard-kjv',
+    body: 'The Authorized Version of 1769, unedited. It is here so the older wording is always one tap away — and so the Illumination can be read against the text it was made from.',
+    go: () => { switchTranslation('kjv'); } },
+
+  { title: 'dv.01 — The Thirteenth Disciple',
+    spot: '#txcard-dev',
+    body: 'A devotional that walks through the Gospels as if you were there — told by a disciple who is never named. Each day gathers the accounts of one event from all four Gospels into a single telling.',
+    go: () => { switchTranslation('dev'); } },
+
   { title: 'Search everything at once',
-    body: 'One search covers all three translations, the devotional and the hymnal. Results say which source each came from, and following one takes you straight to the verse.',
+    spot: '#searchBtn',
+    body: 'One search covers all three translations, the devotional and the hymnal. Every result says which source it came from, and following one takes you straight to that verse.',
     go: () => { sv('bible'); } },
 
   { title: 'Anything you mark is kept',
-    body: 'Highlight a verse, bookmark a section, write a note, keep a journal with a reading plan. It is all saved on your own device — <b>nothing is uploaded, and clearing the app cache never touches it</b>.',
+    spot: '#view-mystuff .ms-wrap',
+    body: 'Highlight a verse, bookmark a section, write a note, keep a journal with a reading plan. It is all saved on your own device — <b>nothing is uploaded</b>, and you can back it up to a file from here.',
     go: () => { sv('mystuff'); } },
 
   { title: 'That is the tour',
-    body: 'The app opens somewhere different every visit. You can run this again any time from <b>☰ → Take the tour</b>.',
+    body: 'The app opens somewhere different every visit. You can run this again any time from <b>☰ &rarr; Take the tour</b>.',
     go: () => { sv('bible'); if (currentTx !== 'illum') switchTranslation('illum'); } }
 ];
 
 let tourAt = -1;
 
+/* The spotlit element is re-resolved a moment after the step runs as well as
+   immediately: some steps create the thing they point at -- the commentary
+   panel does not exist until the bulb has been clicked -- so looking once,
+   straight away, would find nothing. */
+function tourSpot(sel) {
+  document.querySelectorAll('.tour-spot').forEach(e => e.classList.remove('tour-spot'));
+  if (!sel) return;
+  const el = document.querySelector(sel);
+  if (el) el.classList.add('tour-spot');
+}
+
 function tourPaint() {
   const s = TOUR[tourAt];
+  tourSpot(s.spot);
+  setTimeout(() => { if (TOUR[tourAt] === s) tourSpot(s.spot); }, 600);
   document.getElementById('tourStep').textContent = 'Step ' + (tourAt + 1) + ' of ' + TOUR.length;
   document.getElementById('tourTitle').textContent = s.title;
   document.getElementById('tourBody').innerHTML = s.body;
@@ -3493,6 +3543,7 @@ function tourPaint() {
 
 function tourStart() {
   tourAt = -1;
+  document.getElementById('tourBackdrop').classList.add('on');
   document.getElementById('tour').classList.add('on');
   tourNext();
 }
@@ -3506,6 +3557,8 @@ function tourNext() {
 
 function tourEnd() {
   document.getElementById('tour').classList.remove('on');
+  document.getElementById('tourBackdrop').classList.remove('on');
+  tourSpot(null);
   try { localStorage.setItem(TOUR_SEEN, '1'); } catch (e) {}
 }
 
