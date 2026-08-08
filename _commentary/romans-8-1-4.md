@@ -18,6 +18,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
+  - 2024-08-25 activate-your-grace-gifts
 updated: 2026-08-06
 ---
 

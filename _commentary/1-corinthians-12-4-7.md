@@ -7,6 +7,7 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2024-04-07 the-language-of-the-holy-spirit
   - 2024-04-14 follow-the-anointing-within
+  - 2024-08-25 activate-your-grace-gifts
 updated: 2026-08-06
 ---
 

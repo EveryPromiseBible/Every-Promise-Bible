@@ -8,6 +8,7 @@ sources:
   - 2021-08-29 secrets-of-the-peace-offering
   - 2021-10-10 understand-the-times
   - 2022-04-03 when-the-odds-are-against-you
+  - 2024-08-25 activate-your-grace-gifts
 updated: 2026-08-06
 ---
 

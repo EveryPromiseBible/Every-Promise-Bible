@@ -20,6 +20,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-07-31 rest-for-your-soul-in-restless-times
   - 2023-02-05 pray-for-good-success-today
+  - 2024-08-25 activate-your-grace-gifts
 updated: 2026-08-06
 ---
 
