@@ -495,18 +495,66 @@
      z-index above the backdrop does exactly that -- the element paints on top
      and is never filtered. The ring is what makes it read as deliberate rather
      than as a rendering fault. */
+  /* An outline rather than a ring drawn on the box itself: outline-offset opens
+     a gap, so the line never lands on the first word of a label, and the gap
+     shows whatever is really behind it instead of a guessed background colour. */
   .tour-spot{position:relative;z-index:152;border-radius:12px;
-    box-shadow:0 0 0 3px var(--sword), 0 12px 40px rgba(0,0,0,0.30);}
+    outline:3px solid var(--sword);outline-offset:5px;
+    box-shadow:0 12px 40px rgba(0,0,0,0.30);}
+  /* Carries whatever the spotlit element sits inside up past the backdrop with
+     it. No ring: this says "you can see this", not "look at this". Below the
+     spot at 152 and the card at 160, above the backdrop at 149. */
+  .tour-lift{z-index:151;}
+  .tour-lift-rel{position:relative;}
   .tour{display:none;position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);
     z-index:160;width:min(460px, calc(100vw - 28px));background:var(--sheet);
     border:1px solid var(--line);border-radius:16px;box-shadow:0 18px 48px rgba(0,0,0,0.28);
-    padding:18px 20px 14px;font-family:var(--sans);}
+    padding:18px 20px 14px;font-family:var(--sans);
+    /* The opening card is the tallest, and a phone in landscape has very
+       little height. Scroll inside the card rather than run off the screen
+       with the Next button somewhere below the fold. */
+    max-height:calc(100vh - 24px);overflow-y:auto;}
   .tour.on{display:block;}
   .tour-step{font-family:var(--mono);font-size:0.66em;letter-spacing:0.1em;
     text-transform:uppercase;color:var(--gray);}
   .tour-title{font-size:1.18em;font-weight:700;margin:5px 0 7px;color:var(--ink);}
   .tour-body{font-size:0.94em;line-height:1.5;color:var(--ink);margin:0;}
   .tour-body b{font-weight:700;}
+  .tour-body p{margin:0 0 11px;}
+  .tour-body p:last-child{margin-bottom:0;}
+
+  /* ---- the opening card ----
+     Every other step is a working caption: a label, a line, a button, get on
+     with it. The first one is the only page a reader meets before they know
+     what this is, so it is set as a title page -- centred mark, the name, a
+     rule -- and the prose sits under it as prose. Nothing here changes a word;
+     it is all arrangement. */
+  .tour-crest{display:none;}
+  .tour.intro{width:min(540px, calc(100vw - 28px));padding:26px 30px 16px;}
+  /* The mark is a thin line drawing and disappears on plain white, so it gets
+     the same disc the header gives it, one size up. */
+  .tour.intro .tour-crest{display:flex;justify-content:center;margin-bottom:6px;}
+  .tour.intro .tour-crest img{width:40px;height:40px;object-fit:contain;display:block;
+    padding:11px;box-sizing:content-box;border-radius:50%;
+    background:var(--sword-soft);border:1px solid var(--line);}
+  .tour.intro .tour-step,.tour.intro .tour-title{text-align:center;}
+  .tour.intro .tour-title{font-size:1.5em;letter-spacing:0.01em;margin:7px 0 0;}
+  /* A short rule under the name, the width of a few words, so the title reads
+     as a masthead rather than as a heading that ran out. */
+  .tour.intro .tour-title::after{content:"";display:block;width:64px;height:2px;
+    background:var(--sword);opacity:0.5;margin:13px auto 17px;border-radius:2px;}
+  .tour.intro .tour-body{font-size:0.95em;line-height:1.62;}
+  /* The two names are about to become two coloured cards in the library. Tying
+     them to those colours here means the reader recognises them on sight when
+     the panel opens two steps later. */
+  .tour-body b.t-il,.tour-body b.t-mak{
+    border-bottom:2px solid;padding-bottom:1px;}
+  .tour-body b.t-il{border-color:var(--yellow);}
+  .tour-body b.t-mak{border-color:var(--orange);}
+  /* The last line is an invitation, not information. Centred and quieter, it
+     hands the reader to the Next button instead of stopping dead. */
+  .tour-lead{text-align:center;font-style:italic;color:var(--gray);
+    margin:16px 0 0;padding-top:14px;border-top:1px solid var(--line);}
   .tour-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:15px;}
   .tour-dots{display:flex;gap:5px;flex:1 1 auto;justify-content:center;}
   .tour-dots i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block;}
@@ -1377,9 +1425,14 @@
      drives the real interface underneath. -->
 <div class="tour-backdrop" id="tourBackdrop"></div>
 <div class="tour" id="tour" role="dialog" aria-live="polite" aria-label="Guided tour">
+  <!-- The opening card is a title page: the mark, the name, a rule. Filled by
+       tourPaint on step 1 and emptied on every other step, so the rest of the
+       tour keeps its plain working layout. -->
+  <div class="tour-crest" id="tourCrest"></div>
   <div class="tour-step" id="tourStep"></div>
   <div class="tour-title" id="tourTitle"></div>
-  <p class="tour-body" id="tourBody"></p>
+  <!-- A div, not a p: step 1's body holds paragraphs of its own. -->
+  <div class="tour-body" id="tourBody"></div>
   <div class="tour-foot">
     <button type="button" class="tour-skip" onclick="tourEnd()">Skip</button>
     <div class="tour-dots" id="tourDots"></div>
@@ -4091,7 +4144,11 @@ function tourGo(fn) { try { fn(); } catch (e) { console.warn('[tour]', e); } }
 
 const TOUR = [
   { title: 'Every Promise Bible',
-    body: 'The Every Promise Bible is built on two translations of its own, doing opposite jobs. The <b>Illumination</b> is a paraphrase, made for easy reading — the whole Bible retold thought by thought, so it reads in paragraphs like an ordinary book instead of numbered verses. <b>Mak</b> is a word-for-word deep dive into the Greek — every English word anchored to the one Greek word it renders, with nothing in it the Greek does not carry. If you are curious about a word&rsquo;s meaning you can tap it, and it will bring you that word from a range of Greek dictionaries.<br><br>They rest on different Greek, too. The Illumination follows the <b>Textus Receptus</b>, the text behind the King James. Mak follows the <b>SBLGNT</b>, a modern critical edition. This was done purposely, so you can see the differences in the text.<br><br>Let&rsquo;s take a look at where they are located.',
+    /* The words are Chris's, exactly as he wrote them. The only change here is
+       where the paragraphs break and which two names carry a colour. */
+    body: '<p>The Every Promise Bible is built on two translations of its own, doing opposite jobs. The <b class="t-il">Illumination</b> is a paraphrase, made for easy reading — the whole Bible retold thought by thought, so it reads in paragraphs like an ordinary book instead of numbered verses. <b class="t-mak">Mak</b> is a word-for-word deep dive into the Greek — every English word anchored to the one Greek word it renders, with nothing in it the Greek does not carry. If you are curious about a word&rsquo;s meaning you can tap it, and it will bring you that word from a range of Greek dictionaries.</p>' +
+          '<p>They rest on different Greek, too. The Illumination follows the <b>Textus Receptus</b>, the text behind the King James. Mak follows the <b>SBLGNT</b>, a modern critical edition. This was done purposely, so you can see the differences in the text.</p>' +
+          '<p class="tour-lead">Let&rsquo;s take a look at where they are located.</p>',
     go: () => { sv('bible'); } },
 
   { title: 'The book button',
@@ -4117,6 +4174,9 @@ const TOUR = [
 
   { title: 'Study and read',
     spot: '.mode-toggle',
+    /* This step is about how the words themselves look. Blurring them out
+       while describing them defeats the step. */
+    show: '#sectionsContainer',
     body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through.',
     go: () => { if (currentTx !== 'mak') switchTranslation('mak'); if (readMode) toggleMode(); } },
 
@@ -4175,20 +4235,84 @@ let tourAt = -1;
    immediately: some steps create the thing they point at -- the commentary
    panel does not exist until the bulb has been clicked -- so looking once,
    straight away, would find nothing. */
-function tourSpot(sel) {
+/* Raising the spotlit element above the backdrop only keeps it sharp if nothing
+   between it and the page traps it. An ancestor that forms a STACKING CONTEXT
+   does exactly that: its children can never paint above it, however high their
+   z-index goes, so the whole subtree stays behind the blur while the ring on
+   top of it looks fine. That is what happened to the library panel -- it is
+   position:sticky, and sticky always forms one, so every card inside it stayed
+   blurred with a crisp ring drawn around nothing.
+
+   Rather than name the offenders step by step, walk up from the target and lift
+   each one as it is found. Any step added later is covered by construction. */
+function tourTraps(el) {
+  const out = [];
+  for (let n = el.parentElement; n && n !== document.body && n !== document.documentElement;
+       n = n.parentElement) {
+    const cs = getComputedStyle(n);
+    const traps =
+      cs.position === 'fixed' || cs.position === 'sticky' ||
+      (cs.position !== 'static' && cs.zIndex !== 'auto') ||
+      cs.transform !== 'none' || cs.filter !== 'none' ||
+      cs.perspective !== 'none' || cs.backdropFilter !== 'none' ||
+      cs.mixBlendMode !== 'normal' || cs.isolation === 'isolate' ||
+      parseFloat(cs.opacity) < 1 ||
+      /transform|opacity|filter/.test(cs.willChange) ||
+      /paint|layout|strict|content/.test(cs.contain);
+    if (traps) out.push(n);
+  }
+  return out;
+}
+
+function tourLift(n) {
+  n.classList.add('tour-lift');
+  /* A statically positioned element needs a position before z-index means
+     anything. One that is already sticky or fixed must keep the position it
+     has -- overwriting it would drop the panel out of its own layout. */
+  if (getComputedStyle(n).position === 'static') n.classList.add('tour-lift-rel');
+}
+
+/* `spot` is what the step points at and gets the ring. `show` is anything else
+   the step is TALKING about, brought out of the blur without a ring -- a step
+   that describes what the words look like is not much use with the words
+   blurred out. */
+function tourSpot(sel, show) {
   document.querySelectorAll('.tour-spot').forEach(e => e.classList.remove('tour-spot'));
+  document.querySelectorAll('.tour-lift').forEach(e =>
+    e.classList.remove('tour-lift', 'tour-lift-rel'));
+  if (show) {
+    const s = document.querySelector(show);
+    if (s) { tourLift(s); tourTraps(s).forEach(tourLift); }
+  }
   if (!sel) return;
   const el = document.querySelector(sel);
-  if (el) el.classList.add('tour-spot');
+  if (!el) return;
+  el.classList.add('tour-spot');
+  tourTraps(el).forEach(tourLift);
 }
 
 function tourPaint() {
   const s = TOUR[tourAt];
-  tourSpot(s.spot);
-  setTimeout(() => { if (TOUR[tourAt] === s) tourSpot(s.spot); }, 600);
+  tourSpot(s.spot, s.show);
+  setTimeout(() => { if (TOUR[tourAt] === s) tourSpot(s.spot, s.show); }, 600);
   document.getElementById('tourStep').textContent = 'Step ' + (tourAt + 1) + ' of ' + TOUR.length;
   document.getElementById('tourTitle').textContent = s.title;
   document.getElementById('tourBody').innerHTML = s.body;
+  /* The opening card gets the title-page treatment; every later step is a
+     working caption and keeps the plain one. The mark is borrowed from the
+     header rather than a second copy of the same base64. */
+  const card = document.getElementById('tour');
+  const crest = document.getElementById('tourCrest');
+  card.classList.toggle('intro', tourAt === 0);
+  if (tourAt === 0 && !crest.firstChild) {
+    const logo = document.querySelector('.logo-circle img');
+    if (logo) {
+      const img = new Image();
+      img.src = logo.src;
+      img.alt = '';                          // decorative; the title says it
+      crest.appendChild(img);
+    }
+  }
   document.getElementById('tourNext').textContent = tourAt === TOUR.length - 1 ? 'Done' : 'Next';
   document.getElementById('tourDots').innerHTML =
     TOUR.map((_, i) => '<i class="' + (i <= tourAt ? 'on' : '') + '"></i>').join('');
