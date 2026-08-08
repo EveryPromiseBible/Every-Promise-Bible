@@ -22,6 +22,7 @@ sources:
   - 2023-07-23 your-best-days-are-ahead
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

@@ -21,6 +21,7 @@ sources:
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2023-08-27 speak-your-way-to-a-long-happy-life
   - 2024-04-07 the-language-of-the-holy-spirit
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

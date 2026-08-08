@@ -21,6 +21,7 @@ sources:
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2024-03-17 live-led-by-the-power-of-the-spirit
   - 2024-04-07 the-language-of-the-holy-spirit
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

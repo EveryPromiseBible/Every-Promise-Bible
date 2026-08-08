@@ -5,6 +5,7 @@ sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
   - 2023-07-23 your-best-days-are-ahead
   - 2024-09-15 step-out-and-possess-the-land
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

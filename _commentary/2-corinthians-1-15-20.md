@@ -7,6 +7,7 @@ sources:
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2020-12-13 declare-you-are-highly-favored
   - 2022-01-16 the-secret-of-obed-edoms-blessings
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

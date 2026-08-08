@@ -8,6 +8,7 @@ sources:
   - 2023-07-16 redefine-success-gods-way
   - 2024-04-07 the-language-of-the-holy-spirit
   - 2024-04-14 follow-the-anointing-within
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

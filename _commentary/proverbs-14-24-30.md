@@ -3,7 +3,8 @@ key: Proverbs 14:24–30
 title: A tranquil heart
 sources:
   - 2023-07-16 redefine-success-gods-way
-updated: 2026-08-07
+  - 2024-09-22 claim-what-is-yours
+updated: 2026-08-06
 ---
 
 Seven proverbs, and the last one makes a claim about the body.

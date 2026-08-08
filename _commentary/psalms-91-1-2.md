@@ -17,6 +17,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-07-31 rest-for-your-soul-in-restless-times
   - 2023-01-08 the-kairos-year-of-right-time-right-place
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

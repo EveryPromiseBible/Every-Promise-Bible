@@ -5,6 +5,7 @@ sources:
   - 2019-11-17 wisdom-for-financial-success
   - 2021-05-09 made-right-in-his-sight
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

@@ -4,6 +4,7 @@ title: "I thought you would call Me 'My Father'"
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2022-06-19 own-the-spirit-of-sonship
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

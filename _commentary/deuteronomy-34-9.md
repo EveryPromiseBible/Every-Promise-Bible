@@ -3,7 +3,8 @@ key: Deuteronomy 34:9
 title: The hands that were laid on him
 sources:
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-07
+  - 2024-09-22 claim-what-is-yours
+updated: 2026-08-06
 ---
 
 One verse, near the last page of the Torah, about what transferred.

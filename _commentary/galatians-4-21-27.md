@@ -5,6 +5,7 @@ sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 

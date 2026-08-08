@@ -18,6 +18,7 @@ sources:
   - 2024-05-19 believe-right-and-live-right
   - 2024-08-04 win-the-battle-over-temptation
   - 2024-09-01 answers-for-lifes-demands
+  - 2024-09-22 claim-what-is-yours
 updated: 2026-08-06
 ---
 
