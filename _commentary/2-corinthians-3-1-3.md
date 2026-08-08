@@ -3,7 +3,8 @@ key: 2 Corinthians 3:1–3
 title: You are our letter
 sources:
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
-updated: 2026-08-07
+  - 2024-11-03 the-transformative-power-of-gods-word
+updated: 2026-08-06
 ---
 
 Paul is being asked for credentials, and he says the people asking are the credentials.

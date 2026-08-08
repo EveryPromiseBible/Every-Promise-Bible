@@ -3,7 +3,8 @@ key: Psalms 84:5–7
 title: The Valley of Weeping
 sources:
   - 2023-09-17 live-life-above-the-sun
-updated: 2026-08-07
+  - 2024-11-03 the-transformative-power-of-gods-word
+updated: 2026-08-06
 ---
 
 A pilgrim song, and the hardest stretch of the road is named.

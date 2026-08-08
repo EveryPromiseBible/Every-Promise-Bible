@@ -3,7 +3,8 @@ key: Matthew 10:28–31
 title: Not one drops without your Father
 sources:
   - 2024-10-13 the-key-to-prospering-in-all-things
-updated: 2026-08-07
+  - 2024-11-03 the-transformative-power-of-gods-word
+updated: 2026-08-06
 ---
 
 Three times *do not be afraid*, and one thing in between that He says to fear.

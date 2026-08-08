@@ -13,6 +13,7 @@ sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2024-01-14 the-year-of-living-in-the-upper-room
+  - 2024-11-03 the-transformative-power-of-gods-word
 updated: 2026-08-06
 ---
 

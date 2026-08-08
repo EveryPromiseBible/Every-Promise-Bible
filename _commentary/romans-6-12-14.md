@@ -25,6 +25,7 @@ sources:
   - 2023-03-26 hear-your-way-out-of-every-weakness
   - 2024-05-19 believe-right-and-live-right
   - 2024-09-01 answers-for-lifes-demands
+  - 2024-11-03 the-transformative-power-of-gods-word
 updated: 2026-08-06
 ---
 

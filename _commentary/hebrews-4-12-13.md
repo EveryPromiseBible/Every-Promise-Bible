@@ -7,6 +7,7 @@ sources:
   - 2023-07-16 redefine-success-gods-way
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
   - 2024-10-20 the-healing-power-of-gods-word
+  - 2024-11-03 the-transformative-power-of-gods-word
 updated: 2026-08-06
 ---
 

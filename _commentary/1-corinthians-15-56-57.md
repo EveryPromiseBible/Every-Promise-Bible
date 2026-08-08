@@ -19,6 +19,7 @@ sources:
   - 2024-08-04 win-the-battle-over-temptation
   - 2024-09-01 answers-for-lifes-demands
   - 2024-09-22 claim-what-is-yours
+  - 2024-11-03 the-transformative-power-of-gods-word
 updated: 2026-08-06
 ---
 

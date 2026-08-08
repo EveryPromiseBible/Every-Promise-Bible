@@ -7,6 +7,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2024-10-20 the-healing-power-of-gods-word
+  - 2024-11-03 the-transformative-power-of-gods-word
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Ephesians 4:11–13
 title: Gifts for the building
 sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
-updated: 2026-08-07
+  - 2024-11-03 the-transformative-power-of-gods-word
+updated: 2026-08-06
 ---
 
 The gifts listed here are people, and what they are for is stated in a purpose clause.
