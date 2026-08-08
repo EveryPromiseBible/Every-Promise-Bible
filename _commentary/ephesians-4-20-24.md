@@ -9,6 +9,7 @@ sources:
   - 2023-03-26 hear-your-way-out-of-every-weakness
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2024-08-04 win-the-battle-over-temptation
 updated: 2026-08-06
 ---
 

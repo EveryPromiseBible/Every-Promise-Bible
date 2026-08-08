@@ -12,6 +12,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2022-11-06 prosper-gods-way-during-recession
+  - 2024-08-04 win-the-battle-over-temptation
 updated: 2026-08-06
 ---
 

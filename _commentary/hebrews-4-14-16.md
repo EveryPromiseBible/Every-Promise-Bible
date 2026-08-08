@@ -12,6 +12,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2024-08-04 win-the-battle-over-temptation
 updated: 2026-08-06
 ---
 

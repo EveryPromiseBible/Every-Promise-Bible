@@ -40,6 +40,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-03-31 death-has-been-defeated
   - 2024-07-21 freedom-from-the-spirit-of-depression
+  - 2024-08-04 win-the-battle-over-temptation
 updated: 2026-08-06
 ---
 

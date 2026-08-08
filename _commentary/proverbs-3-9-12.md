@@ -4,6 +4,7 @@ title: "The first and best of everything"
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2022-03-13 pillars-for-our-church-and-life
+  - 2024-08-04 win-the-battle-over-temptation
 updated: 2026-08-06
 ---
 

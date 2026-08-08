@@ -16,6 +16,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
   - 2024-05-19 believe-right-and-live-right
+  - 2024-08-04 win-the-battle-over-temptation
 updated: 2026-08-06
 ---
 
