@@ -358,18 +358,23 @@
      text; everything else is left alone, so the reading page stays clean and
      the notes are there only for whoever wants them. */
   /* The marker is a bulb rather than a plain dot: it says "there is something
-     to see here" on its own, where a dot had to be learned. Masked SVG rather
-     than an emoji so it takes its colour from CSS and looks the same on every
-     platform, and drop-shadow rather than box-shadow so the glow follows the
-     bulb's outline instead of a square box -- it lights up when opened. */
-  .cmt-bulb{display:inline-block;width:13px;height:15px;margin-left:6px;padding:0;
-    border:none;background-color:#e8a800;cursor:pointer;vertical-align:-2px;
-    -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2.2a6.6 6.6 0 0 0-3.8 12c.5.35.8.92.8 1.53V17h6v-1.27c0-.61.3-1.18.8-1.53A6.6 6.6 0 0 0 12 2.2z'/%3E%3Crect x='8.9' y='18.5' width='6.2' height='1.7' rx='.85'/%3E%3Crect x='10.1' y='21.3' width='3.8' height='1.7' rx='.85'/%3E%3C/svg%3E") center/contain no-repeat;
-    mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2.2a6.6 6.6 0 0 0-3.8 12c.5.35.8.92.8 1.53V17h6v-1.27c0-.61.3-1.18.8-1.53A6.6 6.6 0 0 0 12 2.2z'/%3E%3Crect x='8.9' y='18.5' width='6.2' height='1.7' rx='.85'/%3E%3Crect x='10.1' y='21.3' width='3.8' height='1.7' rx='.85'/%3E%3C/svg%3E") center/contain no-repeat;
-    transition:background-color 0.2s,filter 0.2s;}
-  .cmt-bulb:hover{background-color:#c98f00;filter:drop-shadow(0 0 3px rgba(232,168,0,0.75));}
-  .cmt-bulb.open{background-color:#c98f00;filter:drop-shadow(0 0 5px rgba(232,168,0,0.95));}
-  @media (prefers-reduced-motion:reduce){.cmt-bulb{transition:none;}}
+     to see here" on its own, where a dot had to be learned. It is the real
+     bulb emoji, so it reads as a bulb at any size without depending on a
+     hand-drawn path -- and because an emoji is a colour glyph rather than a
+     shape CSS can paint, the lit/unlit states are done with filters instead of
+     a fill. Grey and dimmed at rest, full colour with a warm glow once it is
+     opened: the bulb genuinely lights up. drop-shadow rather than box-shadow
+     so the glow follows the bulb's outline instead of a square box. */
+  .cmt-bulb{display:inline-block;margin-left:5px;padding:0;border:none;
+    background:none;font-size:0.9em;line-height:1;cursor:pointer;
+    vertical-align:-1px;filter:grayscale(1) opacity(0.55);
+    transition:filter 0.25s ease,transform 0.25s ease;}
+  .cmt-bulb:hover{filter:drop-shadow(0 0 4px rgba(240,185,11,0.85));transform:scale(1.12);}
+  .cmt-bulb.open{filter:drop-shadow(0 0 5px rgba(240,185,11,0.95))
+    drop-shadow(0 0 11px rgba(240,185,11,0.5));transform:scale(1.12);}
+  @media (prefers-reduced-motion:reduce){
+    .cmt-bulb{transition:none;}
+    .cmt-bulb:hover,.cmt-bulb.open{transform:none;}}
   .cmt-panel{display:none;margin:14px 0 22px;padding:18px 20px;max-width:34em;
     background:#fffaf0;border:1px solid #f0dfae;border-left:3px solid #e8a800;
     border-radius:8px;}
@@ -1020,7 +1025,7 @@
         <div class="lib-group"><div class="glabel">translations</div>
           <div class="lib-grid lib-grid-tx">
             <div class="lib-card active" id="txcard-mak" onclick="switchTranslation('mak')"><div class="lswatch" style="background:var(--orange);"></div><div class="lcode">tx.01</div><div class="lname">Mak Translation</div></div>
-            <div class="lib-card" id="txcard-illum" onclick="switchTranslation('illum')"><div class="lswatch" style="background:#5a3fa8;"></div><div class="lcode">tx.02</div><div class="lname">Illumination Translation</div></div>
+            <div class="lib-card" id="txcard-illum" onclick="switchTranslation('illum')"><div class="lswatch" style="background:var(--yellow);"></div><div class="lcode">tx.02</div><div class="lname">Illumination Translation</div></div>
             <div class="lib-card" id="txcard-kjv" onclick="switchTranslation('kjv')"><div class="lswatch" style="background:#1a6fa8;"></div><div class="lcode">tx.03</div><div class="lname">King James Version</div></div>
           </div>
         </div>
@@ -2798,7 +2803,7 @@ function buildIllumChapter(ch) {
       if (note) {
         h += '<button class="cmt-bulb" data-cmt="' + ilEsc(key) + '" title="commentary"' +
              ' aria-label="Commentary on ' + ilEsc(key) + '"' +
-             ' onclick="toggleCommentary(\'' + key + '\')"></button>';
+             ' onclick="toggleCommentary(\'' + key + '\')">💡</button>';
       }
       h += '</p>';
       if (note) h += buildCommentaryPanel(key);
