@@ -3,7 +3,8 @@ key: Acts 9:3–6
 title: Light on the Damascus road
 sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
-updated: 2026-08-07
+  - 2024-04-14 follow-the-anointing-within
+updated: 2026-08-06
 ---
 
 Four verses, and everything in Paul's life afterward comes out of them.

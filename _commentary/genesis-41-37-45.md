@@ -6,6 +6,8 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-07-16 redefine-success-gods-way
+  - 2024-04-07 the-language-of-the-holy-spirit
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 

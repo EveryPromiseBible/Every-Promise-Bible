@@ -3,6 +3,7 @@ key: Colossians 3:15–17
 title: Peace as the umpire
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2024-04-07 the-language-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

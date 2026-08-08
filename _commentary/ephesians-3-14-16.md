@@ -3,7 +3,8 @@ key: Ephesians 3:14–16
 title: Bowing my knees
 sources:
   - 2021-08-29 secrets-of-the-peace-offering
-updated: 2026-08-07
+  - 2024-04-14 follow-the-anointing-within
+updated: 2026-08-06
 ---
 
 Paul stops arguing and kneels, and the prayer that follows is the high point of the letter.

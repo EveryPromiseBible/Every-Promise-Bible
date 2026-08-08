@@ -18,6 +18,7 @@ sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2023-08-27 speak-your-way-to-a-long-happy-life
   - 2024-03-17 live-led-by-the-power-of-the-spirit
+  - 2024-04-07 the-language-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

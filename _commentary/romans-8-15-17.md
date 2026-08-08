@@ -20,6 +20,7 @@ sources:
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2024-03-17 live-led-by-the-power-of-the-spirit
+  - 2024-04-07 the-language-of-the-holy-spirit
 updated: 2026-08-06
 ---
 

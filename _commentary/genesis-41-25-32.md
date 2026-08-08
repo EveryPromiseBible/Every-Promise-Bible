@@ -7,6 +7,7 @@ sources:
   - 2022-08-07 encounter-true-grace-and-experience-success
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 

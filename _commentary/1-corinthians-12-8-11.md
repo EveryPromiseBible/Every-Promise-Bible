@@ -7,6 +7,8 @@ sources:
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2022-03-06 keys-to-counter-the-four-horsemen
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
+  - 2024-04-07 the-language-of-the-holy-spirit
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 

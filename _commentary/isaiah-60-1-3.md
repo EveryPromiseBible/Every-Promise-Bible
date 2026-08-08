@@ -23,6 +23,7 @@ sources:
   - 2021-10-17 gods-heart-for-your-family
   - 2021-10-24 baptism-of-the-holy-spirit
   - 2023-08-13 keys-to-a-spirit-filled-life
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 

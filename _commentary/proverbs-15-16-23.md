@@ -3,6 +3,7 @@ key: Proverbs 15:16–23
 title: "A word in season, how good it is"
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 

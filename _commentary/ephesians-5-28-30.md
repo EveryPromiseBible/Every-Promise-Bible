@@ -8,6 +8,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-05-30 the-key-to-victorious-living
   - 2022-03-13 pillars-for-our-church-and-life
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 

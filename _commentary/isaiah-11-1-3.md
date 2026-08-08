@@ -5,6 +5,7 @@ sources:
   - 2019-06-30 prosper-through-prophetic-preaching
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 

@@ -5,6 +5,8 @@ sources:
   - 2019-01-27 be-led-by-his-anointing-and-win
   - 2022-10-09 hope-for-the-end-times
   - 2022-10-16 be-occupied-with-the-word-not-the-enemy
+  - 2024-04-07 the-language-of-the-holy-spirit
+  - 2024-04-14 follow-the-anointing-within
 updated: 2026-08-06
 ---
 
