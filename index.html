@@ -4452,8 +4452,13 @@ function tourModeCycle(n) {
    step before it. Each beat needs long enough to register as its own event:
    a word is picked out, then it is tapped and four sources come up, then one
    of them opens. Run quickly the three of them read as a single flicker. */
-const TOUR_TAP_MARK = 1000, TOUR_TAP_OPEN = 3500,
-      TOUR_TAP_FOLD = 6200, TOUR_TAP_FOLD2 = 9000;
+/* The long gap is between the two sources: Strong's opens, and it has to stay
+   open long enough to actually be read -- definition, derivation, how the King
+   James renders it, how often it occurs -- before Thayer's takes its place. At
+   under three seconds the reader saw it swap, not what it said. Next is there
+   throughout for anyone who has seen enough. */
+const TOUR_TAP_MARK = 1200, TOUR_TAP_OPEN = 4200,
+      TOUR_TAP_FOLD = 7600, TOUR_TAP_FOLD2 = 17800;
 
 /* Where the word has to sit, held as an absolute document position rather than
    re-derived each time. Over six seconds several things move the page -- the
