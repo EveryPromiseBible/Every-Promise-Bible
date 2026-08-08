@@ -24,6 +24,7 @@ sources:
   - 2023-06-25 the-cure-to-a-dissatisfied-life
   - 2024-03-03 fresh-truths-for-parenting-today
   - 2025-04-20 raised-with-christ-to-reign
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 

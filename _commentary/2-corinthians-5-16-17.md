@@ -17,6 +17,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2023-10-15 put-on-gods-armor-in-the-evil-day
   - 2025-02-23 live-by-faith-not-by-your-feelings
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 

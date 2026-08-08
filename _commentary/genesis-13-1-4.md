@@ -5,6 +5,7 @@ sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-10-30 take-back-your-identity-in-christ
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 

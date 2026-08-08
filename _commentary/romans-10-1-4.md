@@ -8,6 +8,7 @@ sources:
   - 2021-05-09 made-right-in-his-sight
   - 2021-08-01 release-his-glory-in-your-life
   - 2025-02-16 count-on-your-forgiveness
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 

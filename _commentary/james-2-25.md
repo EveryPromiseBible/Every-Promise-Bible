@@ -3,6 +3,7 @@ key: James 2:25
 title: Why James picks Rahab second
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 

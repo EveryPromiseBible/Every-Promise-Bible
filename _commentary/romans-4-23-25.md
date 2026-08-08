@@ -14,6 +14,7 @@ sources:
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2025-04-20 raised-with-christ-to-reign
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 

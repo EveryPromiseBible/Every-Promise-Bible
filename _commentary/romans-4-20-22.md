@@ -7,6 +7,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-02-26 power-to-renew-your-youth
   - 2024-10-20 the-healing-power-of-gods-word
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 

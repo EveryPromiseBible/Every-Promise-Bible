@@ -3,6 +3,7 @@ key: James 2:21
 title: Shown to be right, or made righteous?
 sources:
   - 2020-10-04 the-secret-to-health-and-healing-revealed
+  - 2025-09-07 walk-in-gods-gifts-for-you
 updated: 2026-08-06
 ---
 
