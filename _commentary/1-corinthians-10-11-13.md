@@ -18,6 +18,7 @@ sources:
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-04-23 be-healed-by-the-washing-of-the-word
   - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2024-01-07 break-the-cycle-of-misfortune
 updated: 2026-08-06
 ---
 

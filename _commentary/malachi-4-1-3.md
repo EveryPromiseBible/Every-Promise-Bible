@@ -5,6 +5,7 @@ sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2021-06-06 set-apart-for-lasting-success
   - 2022-07-10 supernatural-supply-in-difficult-times
+  - 2024-01-07 break-the-cycle-of-misfortune
 updated: 2026-08-06
 ---
 

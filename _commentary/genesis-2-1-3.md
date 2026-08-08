@@ -5,6 +5,7 @@ sources:
   - 2019-08-04 the-overflow-life-for-you
   - 2021-10-31 where-is-holiness-in-grace
   - 2023-07-02 the-art-of-slowing-down
+  - 2024-01-07 break-the-cycle-of-misfortune
 updated: 2026-08-06
 ---
 

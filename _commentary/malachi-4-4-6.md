@@ -3,7 +3,8 @@ key: Malachi 4:4–6
 title: How the Old Testament ends
 sources:
   - 2022-06-19 own-the-spirit-of-sonship
-updated: 2026-08-07
+  - 2024-01-07 break-the-cycle-of-misfortune
+updated: 2026-08-06
 ---
 
 The last three verses before four hundred years of silence.

@@ -13,6 +13,7 @@ sources:
   - 2022-03-13 pillars-for-our-church-and-life
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+  - 2024-01-07 break-the-cycle-of-misfortune
 updated: 2026-08-06
 ---
 
