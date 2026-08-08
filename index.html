@@ -514,6 +514,33 @@
   .tour-skip{background:none;border:none;color:var(--gray);font-size:0.85em;cursor:pointer;padding:8px 2px;}
   .tour-skip:hover{color:var(--ink);text-decoration:underline;}
   @media (prefers-reduced-motion:reduce){.tour{transition:none;}}
+
+  /* ---- your books ----
+     A reader's own EPUB or PDF, kept in IndexedDB rather than localStorage:
+     these are megabytes, and localStorage is a string store measured in a
+     handful of them. Nothing is uploaded; the file never leaves the device. */
+  .lib-card.bk-add{border-style:dashed;text-align:center;color:var(--gray);}
+  .lib-card.bk-add:hover{border-color:var(--sword);color:var(--ink);}
+  .lib-card.bk-add .lname{font-weight:600;}
+  .bk-size{font-family:var(--mono);font-size:0.62em;color:var(--gray);margin-top:3px;}
+  .bk-wrap{max-width:900px;margin:22px auto 110px;padding:26px 30px 34px;
+    background:var(--sheet);border-radius:var(--sheetr);box-shadow:var(--lift);}
+  .bk-head{display:flex;align-items:flex-start;gap:14px;flex-wrap:wrap;}
+  .bk-titles{flex:1 1 220px;}
+  .bk-head h2{margin:6px 0 2px;font-size:1.7em;}
+  .bk-sub{margin:0;color:var(--gray);font-size:0.85em;font-family:var(--mono);}
+  /* A PDF is handed to the browser's own viewer -- it already has one, and it
+     will always beat anything hand-rolled here. */
+  .bk-pdf{width:100%;height:78vh;border:1px solid var(--line);border-radius:10px;margin-top:18px;}
+  .bk-epub{margin-top:20px;max-width:38em;font-size:1.02em;line-height:1.7;}
+  .bk-epub img{max-width:100%;height:auto;}
+  .bk-epub h1,.bk-epub h2,.bk-epub h3{line-height:1.25;margin:1.4em 0 0.5em;}
+  .bk-epub hr.bk-ch{border:none;border-top:1px solid var(--line);margin:2.4em 0;}
+  .bk-note{color:var(--gray);font-size:0.9em;margin-top:18px;}
+  @media(max-width:1000px){
+    .bk-wrap{margin:12px 12px 104px;padding:20px 18px 26px;}
+    .bk-pdf{height:70vh;}
+  }
   /* ---- scripture search ---- */
   .search-card{background:var(--white);border-radius:16px;max-width:640px;width:100%;
     box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;display:flex;flex-direction:column;
@@ -1091,11 +1118,27 @@
             <div class="lib-card" id="txcard-dev" onclick="switchTranslation('dev')"><div class="lswatch" style="background:#7a5c2e;"></div><div class="lcode">dv.01</div><div class="lname">The Thirteenth Disciple</div></div>
           </div>
         </div>
+        <div class="lib-group" id="libBooksGroup"><div class="glabel">your books</div>
+          <div class="lib-grid lib-grid-tx" id="libBooks"></div>
+          <input type="file" id="bookFile" accept=".epub,.pdf,application/epub+zip,application/pdf"
+                 style="display:none" onchange="bookAdd(this)">
+        </div>
       </div>
 
     </div>
   </div>
 </div>
+
+<section class="view" id="view-book">
+  <div class="bk-wrap">
+    <div class="bk-head">
+      <button class="opt-back" onclick="sv('bible')">&#8249; Library</button>
+      <div class="bk-titles"><h2 id="bkTitle"></h2><p class="bk-sub" id="bkSub"></p></div>
+      <button class="abtn" id="bkDelete" onclick="bookDelete()">remove</button>
+    </div>
+    <div id="bkBody"></div>
+  </div>
+</section>
 
 <section class="view" id="view-mystuff"><div class="ms-wrap" id="msIndex">
 <h2>My Stuff</h2>
@@ -3427,6 +3470,250 @@ function goToHit(n) {
 
 document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeDef(); closeSearch(); } });
 
+/* ================= your books =================
+   A reader can add their own EPUB or PDF. Two decisions worth stating:
+
+   Stored in IndexedDB, not localStorage. Everything else the reader makes is
+   text and lives in localStorage, but a book is megabytes and localStorage is
+   a string store with a few megabytes in total. IndexedDB takes blobs and is
+   measured in gigabytes.
+
+   Read with no library. A PDF goes to the browser's own viewer, which is
+   better than anything that could be hand-rolled here. An EPUB is a ZIP of
+   XHTML, and DecompressionStream('deflate-raw') can inflate its entries, so
+   the whole reader is about a hundred lines and adds no dependency. That
+   matters for a site whose point is that it is auditable and works offline. */
+const BOOKS_DB = 'ep-books', BOOKS_STORE = 'books';
+
+function booksDB() {
+  return new Promise((res, rej) => {
+    const r = indexedDB.open(BOOKS_DB, 1);
+    r.onupgradeneeded = () => {
+      if (!r.result.objectStoreNames.contains(BOOKS_STORE))
+        r.result.createObjectStore(BOOKS_STORE, { keyPath: 'id' });
+    };
+    r.onsuccess = () => res(r.result);
+    r.onerror = () => rej(r.error);
+  });
+}
+
+function booksTx(mode, fn) {
+  return booksDB().then(db => new Promise((res, rej) => {
+    const tx = db.transaction(BOOKS_STORE, mode);
+    const out = fn(tx.objectStore(BOOKS_STORE));
+    tx.oncomplete = () => res(out && out.result !== undefined ? out.result : out);
+    tx.onerror = () => rej(tx.error);
+  }));
+}
+
+const booksAll    = ()   => booksTx('readonly',  s => s.getAll());
+const booksGet    = (id) => booksTx('readonly',  s => s.get(id));
+const booksRemove = (id) => booksTx('readwrite', s => s.delete(id));
+
+function bookSize(n) {
+  return n >= 1048576 ? (n / 1048576).toFixed(1) + ' MB'
+                      : Math.max(1, Math.round(n / 1024)) + ' KB';
+}
+
+async function bookAdd(input) {
+  const file = input.files && input.files[0];
+  input.value = '';                         /* so the same file can be picked twice */
+  if (!file) return;
+  const isPdf  = /\.pdf$/i.test(file.name)  || file.type === 'application/pdf';
+  const isEpub = /\.epub$/i.test(file.name) || file.type === 'application/epub+zip';
+  if (!isPdf && !isEpub) { alert('Only EPUB and PDF files can be added.'); return; }
+  try {
+    const rec = {
+      id: 'bk-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8),
+      name: file.name.replace(/\.(epub|pdf)$/i, ''),
+      kind: isPdf ? 'pdf' : 'epub',
+      size: file.size,
+      addedAt: new Date().toISOString(),
+      blob: file
+    };
+    await booksTx('readwrite', s => s.put(rec));
+    await booksRender();
+  } catch (e) {
+    alert('That book could not be saved.\n\n' + e);
+  }
+}
+
+async function booksRender() {
+  const host = document.getElementById('libBooks');
+  if (!host) return;
+  let list = [];
+  try { list = await booksAll(); } catch (e) { /* private mode, no IndexedDB */ }
+  list.sort((a, b) => a.name.localeCompare(b.name));
+  host.innerHTML = list.map(b =>
+    '<div class="lib-card" onclick="bookOpen(\'' + b.id + '\')">' +
+      '<div class="lswatch" style="background:' + (b.kind === 'pdf' ? '#8c3f1a' : '#1a8c6f') + ';"></div>' +
+      '<div class="lcode">' + b.kind + '</div>' +
+      '<div class="lname">' + ilEsc(b.name) + '</div>' +
+      '<div class="bk-size">' + bookSize(b.size) + '</div>' +
+    '</div>').join('') +
+    '<div class="lib-card bk-add" onclick="document.getElementById(\'bookFile\').click()">' +
+      '<div class="lname">+ Add a book</div>' +
+      '<div class="bk-size">EPUB or PDF</div>' +
+    '</div>';
+}
+
+/* ---- reading ---- */
+let bkCurrent = null, bkUrls = [];
+
+function bkRevoke() {
+  bkUrls.forEach(u => { try { URL.revokeObjectURL(u); } catch (e) {} });
+  bkUrls = [];
+}
+
+async function bookOpen(id) {
+  const rec = await booksGet(id);
+  if (!rec) return;
+  bkRevoke();
+  bkCurrent = rec;
+  sv('book');
+  document.getElementById('bkTitle').textContent = rec.name;
+  document.getElementById('bkSub').textContent =
+    rec.kind.toUpperCase() + ' · ' + bookSize(rec.size) + ' · added ' +
+    new Date(rec.addedAt).toLocaleDateString();
+  const body = document.getElementById('bkBody');
+  body.innerHTML = '<p class="bk-note">Opening…</p>';
+
+  if (rec.kind === 'pdf') {
+    const url = URL.createObjectURL(rec.blob);
+    bkUrls.push(url);
+    body.innerHTML = '<iframe class="bk-pdf" src="' + url + '" title="' + ilEsc(rec.name) + '"></iframe>';
+    return;
+  }
+  try {
+    body.innerHTML = '<div class="bk-epub">' + await epubHtml(rec.blob) + '</div>';
+  } catch (e) {
+    body.innerHTML = '<p class="bk-note">This EPUB could not be opened. ' + ilEsc(String(e)) + '</p>';
+  }
+}
+
+async function bookDelete() {
+  if (!bkCurrent) return;
+  if (!confirm('Remove "' + bkCurrent.name + '" from this device?')) return;
+  await booksRemove(bkCurrent.id);
+  bkRevoke(); bkCurrent = null;
+  await booksRender();
+  sv('bible');
+}
+
+/* ---- EPUB, unpacked by hand ----
+   A ZIP read from its central directory: locate the end-of-central-directory
+   record, walk the entries, then inflate each one that is deflated. Stored
+   entries (method 0) are already plain. */
+async function zipEntries(buf) {
+  const dv = new DataView(buf), u8 = new Uint8Array(buf);
+  let eocd = -1;
+  for (let i = u8.length - 22; i >= 0 && i > u8.length - 66000; i--) {
+    if (dv.getUint32(i, true) === 0x06054b50) { eocd = i; break; }
+  }
+  if (eocd < 0) throw new Error('not a zip file');
+  const count = dv.getUint16(eocd + 10, true);
+  let p = dv.getUint32(eocd + 16, true);
+  const dec = new TextDecoder();
+  const out = {};
+  for (let i = 0; i < count; i++) {
+    if (dv.getUint32(p, true) !== 0x02014b50) break;
+    const method  = dv.getUint16(p + 10, true);
+    const csize   = dv.getUint32(p + 20, true);
+    const nameLen = dv.getUint16(p + 28, true);
+    const extraLen= dv.getUint16(p + 30, true);
+    const cmtLen  = dv.getUint16(p + 32, true);
+    const lho     = dv.getUint32(p + 42, true);
+    const name    = dec.decode(u8.subarray(p + 46, p + 46 + nameLen));
+    /* The local header repeats the name and extra fields, and its lengths are
+       the authoritative ones for finding where the data actually starts. */
+    const lNameLen  = dv.getUint16(lho + 26, true);
+    const lExtraLen = dv.getUint16(lho + 28, true);
+    const dataAt = lho + 30 + lNameLen + lExtraLen;
+    out[name] = { method, bytes: u8.subarray(dataAt, dataAt + csize) };
+    p += 46 + nameLen + extraLen + cmtLen;
+  }
+  return out;
+}
+
+async function zipRead(entries, name) {
+  const e = entries[name];
+  if (!e) return null;
+  if (e.method === 0) return e.bytes;
+  const ds = new DecompressionStream('deflate-raw');
+  const stream = new Blob([e.bytes]).stream().pipeThrough(ds);
+  return new Uint8Array(await new Response(stream).arrayBuffer());
+}
+
+const zipText = async (entries, name) => {
+  const b = await zipRead(entries, name);
+  return b ? new TextDecoder().decode(b) : null;
+};
+
+/* Paths inside an EPUB are relative to the file that names them. */
+function epubResolve(base, rel) {
+  if (/^[a-z]+:/i.test(rel)) return rel;
+  const stack = base.split('/').slice(0, -1);
+  rel.split('/').forEach(part => {
+    if (part === '.' || part === '') return;
+    if (part === '..') stack.pop(); else stack.push(part);
+  });
+  return stack.join('/');
+}
+
+async function epubHtml(blob) {
+  const entries = await zipEntries(await blob.arrayBuffer());
+  const container = await zipText(entries, 'META-INF/container.xml');
+  if (!container) throw new Error('no container.xml — is this really an EPUB?');
+  const opfPath = (container.match(/full-path="([^"]+)"/) || [])[1];
+  if (!opfPath) throw new Error('the container names no package file');
+  const opf = await zipText(entries, opfPath);
+
+  /* manifest: id -> {href, type} */
+  const manifest = {};
+  (opf.match(/<item\b[^>]*>/g) || []).forEach(tag => {
+    const id   = (tag.match(/\bid="([^"]+)"/) || [])[1];
+    const href = (tag.match(/\bhref="([^"]+)"/) || [])[1];
+    const type = (tag.match(/\bmedia-type="([^"]+)"/) || [])[1] || '';
+    if (id && href) manifest[id] = { href: epubResolve(opfPath, href), type };
+  });
+
+  const spine = (opf.match(/<itemref\b[^>]*>/g) || [])
+    .map(t => (t.match(/\bidref="([^"]+)"/) || [])[1])
+    .filter(id => manifest[id]);
+  if (!spine.length) throw new Error('the package lists no reading order');
+
+  /* Images have to become blob URLs: the markup points at paths inside the
+     zip, which the page cannot fetch. */
+  const imgUrl = {};
+  for (const id in manifest) {
+    if (!/^image\//.test(manifest[id].type)) continue;
+    const bytes = await zipRead(entries, manifest[id].href);
+    if (!bytes) continue;
+    const u = URL.createObjectURL(new Blob([bytes], { type: manifest[id].type }));
+    bkUrls.push(u);
+    imgUrl[manifest[id].href] = u;
+  }
+
+  const parts = [];
+  for (const id of spine) {
+    const href = manifest[id].href;
+    let doc = await zipText(entries, href);
+    if (!doc) continue;
+    let inner = (doc.match(/<body[^>]*>([\s\S]*?)<\/body>/i) || [, doc])[1];
+    /* Scripts and styles from a stranger's file do not run here. */
+    inner = inner.replace(/<script[\s\S]*?<\/script>/gi, '')
+                 .replace(/<style[\s\S]*?<\/style>/gi, '')
+                 .replace(/\son\w+="[^"]*"/gi, '')
+                 .replace(/\son\w+='[^']*'/gi, '');
+    inner = inner.replace(/(src=["'])([^"']+)(["'])/gi, (m, a, src, c) => {
+      const u = imgUrl[epubResolve(href, src)];
+      return u ? a + u + c : m;
+    });
+    parts.push(inner);
+  }
+  return parts.join('<hr class="bk-ch">');
+}
+
 /* ================= the guided tour =================
    Shown once, on a first visit, and available afterwards from Options. Each
    step performs the thing it describes -- switching translation, opening a
@@ -4231,10 +4518,41 @@ function msFilename() {
          p(d.getMonth() + 1) + '-' + p(d.getDate()) + '.json';
 }
 
-function msDownloadBackup() {
+/* Books ride along in the same backup file, because a reader who added them
+   thinks of them as part of what they have here. They cannot go in as blobs
+   though -- the file is JSON -- so each is base64, which costs about a third
+   again in size. That is fine for a couple of books and not fine for a shelf,
+   so the total is shown before writing and a large one asks first. */
+async function msBooksForBackup() {
+  let list = [];
+  try { list = await booksAll(); } catch (e) { return []; }
+  const out = [];
+  for (const b of list) {
+    const buf = new Uint8Array(await b.blob.arrayBuffer());
+    let s = '';
+    for (let i = 0; i < buf.length; i += 0x8000) {
+      s += String.fromCharCode.apply(null, buf.subarray(i, i + 0x8000));
+    }
+    out.push({ id: b.id, name: b.name, kind: b.kind, size: b.size,
+               addedAt: b.addedAt, data: btoa(s) });
+  }
+  return out;
+}
+
+async function msDownloadBackup() {
   let url;
   try {
-    const blob = new Blob([JSON.stringify(msSnapshot(), null, 2)],
+    const snap = msSnapshot();
+    const books = await msBooksForBackup();
+    const raw = books.reduce((n, b) => n + b.size, 0);
+    if (raw > 100 * 1048576 &&
+        !confirm('Your books come to ' + bookSize(raw) + '. Written into a backup file ' +
+                 'they will take about a third more than that, and a file that size can be ' +
+                 'slow or impossible to write on a phone.\n\nInclude them anyway?')) {
+      books.length = 0;
+    }
+    if (books.length) snap.books = books;
+    const blob = new Blob([JSON.stringify(snap, null, 2)],
                           { type: 'application/json' });
     url = URL.createObjectURL(blob);
     const a = document.createElement('a');
@@ -4297,6 +4615,10 @@ function msRestoreFrom(input) {
       alert('Could not write the restored data.\n\n' + e);
       return;
     }
+    /* Books live in IndexedDB, so they are written separately and
+       asynchronously. The reload waits for them. */
+    msRestoreBooks(obj.books).then(finish, finish);
+    function finish() {
     /* Reload rather than re-render: bookmarks, notes, highlights and the rest
        are module-level variables read once at startup, and every view holds its
        own derived state. A reload is the only way to be certain nothing stale
@@ -4308,8 +4630,33 @@ function msRestoreFrom(input) {
     window.MS_RESTORING = true;
     alert('Restored. The page will reload.');
     location.reload();
+    }
   };
   reader.readAsText(file);
+}
+
+/* Turns the base64 in a backup back into blobs. Anything malformed is skipped
+   rather than aborting the whole restore -- the reader's notes and highlights
+   have already been written by this point and matter more than one bad book. */
+async function msRestoreBooks(books) {
+  if (!Array.isArray(books) || !books.length) return;
+  for (const b of books) {
+    try {
+      if (!b || typeof b.data !== 'string') continue;
+      const bin = atob(b.data);
+      const buf = new Uint8Array(bin.length);
+      for (let i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
+      const type = b.kind === 'pdf' ? 'application/pdf' : 'application/epub+zip';
+      await booksTx('readwrite', s => s.put({
+        id: b.id || ('bk-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8)),
+        name: String(b.name || 'Untitled'),
+        kind: b.kind === 'pdf' ? 'pdf' : 'epub',
+        size: b.size || buf.length,
+        addedAt: b.addedAt || new Date().toISOString(),
+        blob: new Blob([buf], { type })
+      }));
+    } catch (e) { console.warn('[books] could not restore', b && b.name, e); }
+  }
 }
 
 /* A count on its own answers "how many" and not "which", which is the question
@@ -4954,6 +5301,7 @@ applySettings();
 /* Before openSomewhereRandom, which can land on a hymn and needs the index
    built to know how many there are and to give the reader prev/next. */
 hyInit();
+booksRender();                 /* the reader's own shelf, if they have one */
 /* Sets its own view now: a hymn is not a chapter, so the landing decides
    whether the reader arrives in the bible or the hymnal. */
 openSomewhereRandom();
