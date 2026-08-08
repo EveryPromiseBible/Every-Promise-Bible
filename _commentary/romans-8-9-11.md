@@ -10,6 +10,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2023-03-26 hear-your-way-out-of-every-weakness
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2024-01-21 live-with-a-heavenly-perspective
 updated: 2026-08-06
 ---
 

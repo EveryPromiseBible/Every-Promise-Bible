@@ -21,6 +21,7 @@ sources:
   - 2023-02-05 pray-for-good-success-today
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2024-01-14 the-year-of-living-in-the-upper-room
+  - 2024-01-21 live-with-a-heavenly-perspective
 updated: 2026-08-06
 ---
 

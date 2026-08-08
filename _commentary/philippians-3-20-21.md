@@ -13,6 +13,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-09-10 living-heavenly-minded-in-tough-times
+  - 2024-01-21 live-with-a-heavenly-perspective
 updated: 2026-08-06
 ---
 

@@ -14,6 +14,7 @@ sources:
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2022-11-06 prosper-gods-way-during-recession
   - 2023-02-26 power-to-renew-your-youth
+  - 2024-01-21 live-with-a-heavenly-perspective
 updated: 2026-08-06
 ---
 

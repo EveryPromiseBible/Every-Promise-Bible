@@ -9,6 +9,7 @@ sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-08-22 greater-shalom-and-security
   - 2023-04-16 unveiling-jesus-heart-to-serve-you
+  - 2024-01-21 live-with-a-heavenly-perspective
 updated: 2026-08-06
 ---
 
