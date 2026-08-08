@@ -4171,7 +4171,7 @@ const TOUR = [
           '<p class="tour-lead">Let&rsquo;s take a look at where they are located.</p>',
     go: () => { sv('bible'); } },
 
-  { title: 'The book button',
+  { title: 'The Book Button',
     spot: '#libBtn',
     body: 'This is the one to remember. The book button opens your library — every translation and devotional in the app lives behind it. Watch what happens when we open it.',
     /* Shut, so the next step opening it is something the reader watches happen
@@ -4180,20 +4180,20 @@ const TOUR = [
       const lib = document.getElementById('library');
       if (lib.classList.contains('open')) toggleLibrary(); } },
 
-  { title: 'Your translations',
+  { title: 'Your Translations',
     spot: '#library .lib-group',
     body: 'Three translations and a devotional, each on its own card. Tap any card to switch — whatever chapter you are reading is carried across, so you land on the same passage in the new text. Let us go through them.',
     go: () => { sv('bible');
       const lib = document.getElementById('library');
       if (!lib.classList.contains('open')) toggleLibrary(); } },
 
-  { title: 'tx.01 — the Mak Translation',
+  { title: 'tx.01 — The Mak Translation',
     tint: 'var(--orange)',
     spot: '#txcard-mak',
     body: 'The word-for-word New Testament. Each word is a small stack: the English, the Greek word it came from, and that word&rsquo;s Strong&rsquo;s number with its grammar. Words in italic were added for English and have no Greek behind them, so you can always see what came from the text and what did not.',
     go: () => { switchTranslation('mak'); loadChapter(0, true); } },
 
-  { title: 'Study and read',
+  { title: 'Study and Read',
     tint: 'var(--orange)',
     spot: '.mode-toggle',
     /* This step is about how the words themselves look. Blurring them out
@@ -4202,14 +4202,14 @@ const TOUR = [
     body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through.',
     go: () => { if (currentTx !== 'mak') switchTranslation('mak'); if (readMode) toggleMode(); } },
 
-  { title: 'Tap a word',
+  { title: 'Tap a Word',
     tint: 'var(--orange)',
     spot: '.def-card',
     place: 'low',
     body: 'Here is what a word opens. <b>Charis</b> — grace — as the dictionaries have it: Strong&rsquo;s, Thayer&rsquo;s and Abbott&ndash;Smith, each on its own, with where the word comes from, how the King James renders it, and where else it turns up. Any word in Mak does this.',
     go: () => { tourWordDemo(); } },
 
-  { title: 'tx.02 — the Illumination',
+  { title: 'tx.02 — The Illumination',
     tint: 'var(--yellow)',
     spot: '#txcard-illum',
     body: 'The whole Bible, all 66 books, retold thought by thought. Every chapter has a title, every section a heading, and each book opens with a synopsis of its own — so you can find your way by subject rather than by verse number.',
@@ -4228,7 +4228,7 @@ const TOUR = [
       }, 320);
     } },
 
-  { title: 'tx.03 — the King James Version',
+  { title: 'tx.03 — The King James Version',
     tint: '#1a6fa8',
     spot: '#txcard-kjv',
     body: 'The Authorized Version of 1769, unedited. It is here so the older wording is always one tap away — and so the Illumination can be read against the text it was made from.',
@@ -4240,7 +4240,7 @@ const TOUR = [
     body: 'A devotional that walks through the Gospels as if you were there — told by a disciple who is never named. Each day gathers the accounts of one event from all four Gospels into a single telling.',
     go: () => { switchTranslation('dev'); } },
 
-  { title: 'Your own books',
+  { title: 'Your Own Books',
     tint: '#1a8c6f',
     spot: '#libBooksGroup',
     body: 'Under the translations there is a shelf of your own. Add any book you have as an <b>EPUB</b> and it opens here like the rest — and you can highlight and bookmark and make notes inside it exactly the way you do in the Bible. The file stays on your device; nothing is uploaded.',
@@ -4248,12 +4248,12 @@ const TOUR = [
       const lib = document.getElementById('library');
       if (!lib.classList.contains('open')) toggleLibrary(); } },
 
-  { title: 'Search everything at once',
+  { title: 'Search Everything at Once',
     spot: '#searchBtn',
     body: 'One search covers all three translations, the devotional and the hymnal. Every result says which source it came from, and following one takes you straight to that verse.',
     go: () => { sv('bible'); } },
 
-  { title: 'The promises',
+  { title: 'The Promises',
     spot: '#view-promises',
     /* This page is short and sits at the top, so a centred card lands right on
        the buttons the step is describing. */
@@ -4261,17 +4261,17 @@ const TOUR = [
     body: 'Over two thousand promises, each one a verse and a set of meditations written on it. A different one opens the app every day, and you can filter the whole collection by <b>how you actually feel</b> — waiting, anxious, grateful, broken — and read only what speaks to that. The heart keeps one; <b>meditate</b> opens what has been written on it, and you can add your own.',
     go: () => { sv('promises'); } },
 
-  { title: 'The hymnal',
+  { title: 'The Hymnal',
     spot: '#hyIndex',
     body: 'Thirteen hundred hymns and twenty-five thousand lines, from <i>The Christian Hymn Book</i> of 1870 — whole texts, not the two or three verses that usually survive. Listed by first line, the way a hymnal is, and searchable by line, author or theme. It is public domain, so all of it is here rather than a selection.',
     go: () => { sv('hymns'); if (typeof hyBack === 'function') hyBack(); } },
 
-  { title: 'Anything you mark is kept',
+  { title: 'Anything You Mark Is Kept',
     spot: '#view-mystuff .ms-wrap',
     body: 'Highlight a verse, bookmark a section, write a note, keep a journal with a reading plan. It is all saved on your own device — <b>nothing is uploaded</b>, and you can back it up to a file from here.',
     go: () => { sv('mystuff'); } },
 
-  { title: 'That is the tour',
+  { title: 'That Is the Tour',
     body: 'The app opens somewhere different every visit. You can run this again any time from <b>☰ &rarr; Take the tour</b>.',
     go: () => { sv('bible'); if (currentTx !== 'illum') switchTranslation('illum'); } }
 ];
