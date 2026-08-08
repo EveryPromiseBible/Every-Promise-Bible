@@ -513,8 +513,18 @@
     /* The opening card is the tallest, and a phone in landscape has very
        little height. Scroll inside the card rather than run off the screen
        with the Next button somewhere below the fold. */
-    max-height:calc(100vh - 24px);overflow-y:auto;}
+    /* overflow-y:auto alone makes the other axis auto too, and a card that is
+       ten pixels over its own width -- which it is once a vertical scrollbar
+       takes room -- grows a horizontal scrollbar nobody needs. Nothing in a
+       tour card ever wants to scroll sideways. */
+    max-height:calc(100vh - 24px);overflow-y:auto;overflow-x:hidden;}
   .tour.on{display:block;}
+  /* Steps change under a fade: the card goes out, the next step is set up
+     behind it -- panel switched, chapter loaded, spotlight moved -- and it
+     comes back once that is done. Without it the reader watches the machinery
+     rearrange itself. */
+  .tour{transition:opacity .2s ease;}
+  .tour.fading{opacity:0;}
   /* Each step carries the colour of the thing it is pointing at -- the same
      swatch that card wears in the library. Where the app assigns no colour
      (search, promises, the hymnal) it stays the house blue rather than have a
@@ -579,7 +589,7 @@
      The step is a sequence of things happening, and a jump in the middle of it
      reads as a glitch. */
   .tour.below{bottom:auto;transform:translateX(-50%);
-    transition:top .42s cubic-bezier(.22,.61,.36,1);}
+    transition:top .42s cubic-bezier(.22,.61,.36,1), opacity .2s ease;}
   /* The word the tour tapped, marked so the reader can see which one the entry
      on screen belongs to. Cleared with the rest of the tour's marks. */
   /* Lifted above the backdrop like the spotlit panels are, so the word that was
@@ -611,7 +621,12 @@
   /* A short page with its content at the top: the card goes to the bottom
      rather than land on the buttons the step is describing. */
   .tour.low{top:auto;bottom:14px;transform:translateX(-50%);max-height:44vh;}
-  .tour-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:15px;}
+  /* Stuck to the bottom of the card. On a small phone the longer steps are
+     taller than the screen, so the card scrolls inside itself -- and without
+     this the Skip and Next buttons scroll away with the text, leaving a reader
+     on a 667px screen with no visible way forward. */
+  .tour-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;
+    margin-top:15px;position:sticky;bottom:0;background:var(--sheet);padding:6px 0 2px;}
   .tour-dots{display:flex;gap:5px;flex:1 1 auto;justify-content:center;}
   .tour-dots i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block;}
   .tour-dots i.on{background:var(--sword);}
@@ -4214,6 +4229,7 @@ function tourAfter(ms, fn) {
     const s = TOUR[at];
     tourSpot(s.spot, s.show);
     if (s.below) tourPlaceBelow(s.below);
+    tourAvoid();
   }, ms));
 }
 
@@ -4652,6 +4668,18 @@ function tourSpot(sel, show) {
   if (!sel) return;
   const el = document.querySelector(sel);
   if (!el) return;
+  /* On a phone, picking a translation closes the library on the way out --
+     closeLibraryOnPick does it below 1000px. Every step that then points at a
+     card inside that panel was drawing its ring around a nothing: the element
+     is still in the document, still resolvable, and zero pixels tall. Opened
+     again here rather than in each step, and only when the target really is
+     not being rendered, so nothing is toggled on a screen where the panel is
+     permanently visible. */
+  const lib = document.getElementById('library');
+  if (lib && lib.contains(el) && !el.getBoundingClientRect().height &&
+      !lib.classList.contains('open') && typeof toggleLibrary === 'function') {
+    toggleLibrary();
+  }
   el.classList.add('tour-spot');
   tourTraps(el).forEach(tourLift);
 }
@@ -4667,6 +4695,37 @@ function tourSpot(sel, show) {
 /* Kept next to the .tour-spot rule they describe: outline-offset 5 + outline 3.
    If that ring ever changes width, this changes with it. */
 const TOUR_RING = 8, TOUR_GAP = 16;
+
+/* On a phone the card is nearly the width of the screen, so a step that points
+   at a panel ends up describing something the card is sitting on top of. This
+   moves it off: if the card and the spotlight overlap, it goes to whichever
+   side of the spotlight has room for it.
+
+   Only on narrow screens, and only for steps that have not placed themselves --
+   a step with its own `below` or `low` has already decided. */
+const TOUR_NARROW = 760;
+
+function tourAvoid() {
+  const s = TOUR[tourAt];
+  if (!s || s.below || s.place) return;
+  const card = document.getElementById('tour');
+  if (window.innerWidth > TOUR_NARROW) { card.classList.remove('below'); return; }
+  const spot = document.querySelector('.tour-spot');
+  if (!spot) { card.classList.remove('below'); card.style.top = ''; return; }
+
+  const t = spot.getBoundingClientRect(), c = card.getBoundingClientRect();
+  const VH = window.innerHeight, h = c.height, pad = TOUR_RING + TOUR_GAP;
+  if (c.bottom < t.top || c.top > t.bottom) return;     // already clear of it
+
+  const below = t.bottom + pad, above = t.top - pad - h;
+  let top = null;
+  if (below + h <= VH - 12) top = below;                // room under the spot
+  else if (above >= 12) top = above;                    // room over it
+  else top = (t.top > VH - t.bottom) ? 12 : VH - h - 12; // neither: take the bigger half
+
+  card.classList.add('below');
+  card.style.top = Math.round(top) + 'px';
+}
 
 function tourPlaceBelow(sel) {
   const card = document.getElementById('tour');
@@ -4700,6 +4759,7 @@ function tourPaint() {
     if (TOUR[tourAt] !== s) return;
     tourSpot(s.spot, s.show);
     if (s.below) tourPlaceBelow(s.below);       // the popup has rendered by now
+    tourAvoid();
   }, 600);
   document.getElementById('tourStep').textContent = 'Step ' + (tourAt + 1) + ' of ' + TOUR.length;
   document.getElementById('tourTitle').textContent = s.title;
@@ -4726,6 +4786,7 @@ function tourPaint() {
   document.getElementById('tourNext').textContent = tourAt === TOUR.length - 1 ? 'Done' : 'Next';
   document.getElementById('tourDots').innerHTML =
     TOUR.map((_, i) => '<i class="' + (i <= tourAt ? 'on' : '') + '"></i>').join('');
+  tourAvoid();                       // needs the card's finished height
 }
 
 function tourStart() {
@@ -4735,11 +4796,26 @@ function tourStart() {
   tourNext();
 }
 
+/* Take the card out, change the step behind it, bring it back once the next one
+   is ready. The setup runs while it is invisible, so the reader never watches a
+   panel slide in or a chapter build. */
+const TOUR_FADE = 200;
+
+function tourFade(fn) {
+  const card = document.getElementById('tour');
+  const still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (still || !card.classList.contains('on')) { fn(); return; }
+  card.classList.add('fading');
+  setTimeout(() => { fn(); card.classList.remove('fading'); }, TOUR_FADE);
+}
+
 function tourNext() {
   if (tourAt >= TOUR.length - 1) return tourEnd();
-  tourAt++;
-  tourGo(TOUR[tourAt].go);
-  tourPaint();
+  tourFade(() => {
+    tourAt++;
+    tourGo(TOUR[tourAt].go);
+    tourPaint();
+  });
 }
 
 function tourEnd() {
