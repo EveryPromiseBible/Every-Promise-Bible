@@ -27,6 +27,7 @@ sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-09-01 answers-for-lifes-demands
   - 2024-10-13 the-key-to-prospering-in-all-things
+  - 2025-04-20 raised-with-christ-to-reign
 updated: 2026-08-06
 ---
 

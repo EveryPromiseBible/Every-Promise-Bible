@@ -9,6 +9,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2023-02-26 power-to-renew-your-youth
+  - 2025-05-11 speak-it-by-faith-before-you-see-it
 updated: 2026-08-06
 ---
 

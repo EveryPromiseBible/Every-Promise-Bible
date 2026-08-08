@@ -3,7 +3,8 @@ key: Psalms 118:8–9
 title: Better to shelter
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-07
+  - 2025-04-27 divine-provision-in-every-season
+updated: 2026-08-06
 ---
 
 Two lines that say the same thing twice, with the object raised.

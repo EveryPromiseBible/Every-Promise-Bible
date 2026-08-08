@@ -28,6 +28,7 @@ sources:
   - 2023-07-16 redefine-success-gods-way
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2023-12-24 make-room-for-christ
+  - 2025-04-20 raised-with-christ-to-reign
 updated: 2026-08-06
 ---
 

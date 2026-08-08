@@ -8,6 +8,7 @@ sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2024-09-15 step-out-and-possess-the-land
+  - 2025-04-27 divine-provision-in-every-season
 updated: 2026-08-06
 ---
 

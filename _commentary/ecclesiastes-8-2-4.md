@@ -5,6 +5,7 @@ sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2024-01-21 live-with-a-heavenly-perspective
+  - 2025-05-11 speak-it-by-faith-before-you-see-it
 updated: 2026-08-06
 ---
 

@@ -25,6 +25,7 @@ sources:
   - 2024-10-13 the-key-to-prospering-in-all-things
   - 2024-10-20 the-healing-power-of-gods-word
   - 2024-11-24 stay-near-the-scent-of-water
+  - 2025-04-27 divine-provision-in-every-season
 updated: 2026-08-06
 ---
 

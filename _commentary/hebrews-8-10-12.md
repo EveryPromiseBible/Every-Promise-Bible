@@ -17,6 +17,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-09-01 answers-for-lifes-demands
   - 2025-03-30 freedom-from-failure-consciousness
+  - 2025-04-20 raised-with-christ-to-reign
 updated: 2026-08-06
 ---
 

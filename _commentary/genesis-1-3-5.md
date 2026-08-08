@@ -7,6 +7,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2021-07-25 speak-life-not-death
   - 2023-01-01 healing-and-restoration-for-your-mind
+  - 2025-05-11 speak-it-by-faith-before-you-see-it
 updated: 2026-08-06
 ---
 

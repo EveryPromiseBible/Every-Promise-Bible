@@ -18,6 +18,7 @@ sources:
   - 2024-03-31 death-has-been-defeated
   - 2024-11-24 stay-near-the-scent-of-water
   - 2025-02-16 count-on-your-forgiveness
+  - 2025-04-20 raised-with-christ-to-reign
 updated: 2026-08-06
 ---
 

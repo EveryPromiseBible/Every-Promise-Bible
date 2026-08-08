@@ -3,6 +3,7 @@ key: 1 Corinthians 3:5–9
 title: Two men, one field, and the verb that settles the argument
 sources:
   - 2018-08-05 the-spirit-active-life-how-to-make-spirit-led-decisions
+  - 2025-05-11 speak-it-by-faith-before-you-see-it
 updated: 2026-08-06
 ---
 

@@ -10,6 +10,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2023-09-10 living-heavenly-minded-in-tough-times
   - 2023-11-05 put-on-gods-armor-in-the-evil-day-part-3
+  - 2025-04-27 divine-provision-in-every-season
 updated: 2026-08-06
 ---
 

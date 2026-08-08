@@ -14,6 +14,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2024-08-04 win-the-battle-over-temptation
   - 2024-09-15 step-out-and-possess-the-land
+  - 2025-04-27 divine-provision-in-every-season
 updated: 2026-08-06
 ---
 

@@ -13,6 +13,7 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2024-01-21 live-with-a-heavenly-perspective
+  - 2025-04-20 raised-with-christ-to-reign
 updated: 2026-08-06
 ---
 
