@@ -4309,13 +4309,16 @@ const TOUR = [
   { title: 'dv.01 — The Thirteenth Disciple',
     tint: '#7a5c2e',
     spot: '#txcard-dev',
-    body: 'A devotional that walks through the Gospels as if you were there — told by a disciple who is never named. Each day gathers the accounts of one event from all four Gospels into a single telling.',
+    body: '<p>Thirty-one days from the Jordan to the Ascension, walked beside a thirteenth disciple who is never named. He is not a doctrine. He is a witness — and he is your place on the road.</p>' +
+          '<p>Every miracle, teaching and resurrection appearance in it is drawn from Scripture, with the four Gospels harmonised so that no account contradicts another, the references at the head of each day, and Christ&rsquo;s words kept as close to the record as they can be.</p>' +
+          '<p>What the telling adds is the walk. Where the disciples had been before the miracle, what the morning smelled like, whose sandals had worn through — because none of it happened to people who were not tired and hungry. The others are given their full humanity too: Peter impulsive and ashamed and restored, Thomas saying out loud what the rest of them doubt quietly.</p>',
     go: () => { switchTranslation('dev'); } },
 
   { title: 'Your Own Books',
     tint: '#1a8c6f',
     spot: '#libBooksGroup',
-    body: 'Under the translations there is a shelf of your own. Add any book you have as an <b>EPUB</b> and it opens here like the rest — and you can highlight and bookmark and make notes inside it exactly the way you do in the Bible. The file stays on your device; nothing is uploaded.',
+    body: '<p>Under the translations there is a shelf of your own. Add any book you have as an <b>EPUB</b> and it opens here like the rest — and you can highlight and bookmark and make notes inside it exactly the way you do in the Bible. The file stays on your device; nothing is uploaded.</p>' +
+          '<p>It was added so your whole library can sit in one place, saved and marked as though every book on the shelf were one of the app&rsquo;s own.</p>',
     go: () => { sv('bible');
       const lib = document.getElementById('library');
       if (!lib.classList.contains('open')) toggleLibrary(); } },
