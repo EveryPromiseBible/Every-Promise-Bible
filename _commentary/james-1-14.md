@@ -3,6 +3,7 @@ key: James 1:14
 title: "Here is what actually happens"
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

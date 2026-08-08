@@ -3,6 +3,7 @@ key: James 1:13
 title: "Nobody gets to say, God is doing this to me"
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

@@ -29,6 +29,7 @@ sources:
   - 2025-03-09 boldness-to-enter-the-holiest
   - 2025-08-24 the-power-of-a-cleansed-conscience
   - 2025-09-14 trust-the-way-of-grace
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

@@ -9,6 +9,7 @@ sources:
   - 2023-02-26 power-to-renew-your-youth
   - 2024-10-20 the-healing-power-of-gods-word
   - 2025-09-07 walk-in-gods-gifts-for-you
+  - 2026-01-04 hope-that-anchors-your-soul
 updated: 2026-08-06
 ---
 

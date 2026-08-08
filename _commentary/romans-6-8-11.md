@@ -16,6 +16,7 @@ sources:
   - 2024-08-04 win-the-battle-over-temptation
   - 2025-10-19 prioritize-character-success
   - 2025-11-02 his-way-is-to-abundantly-pardon
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

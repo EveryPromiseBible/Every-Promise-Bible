@@ -3,7 +3,8 @@ key: Romans 6:17–19
 title: The mould they were poured into
 sources:
   - 2021-06-06 set-apart-for-lasting-success
-updated: 2026-08-07
+  - 2025-11-23 break-the-power-of-sinful-habits
+updated: 2026-08-06
 ---
 
 Paul thanks God for something and the sentence starts with what they used to be.

@@ -15,6 +15,7 @@ sources:
   - 2024-08-04 win-the-battle-over-temptation
   - 2025-03-30 freedom-from-failure-consciousness
   - 2025-06-22 no-more-fear-of-death
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

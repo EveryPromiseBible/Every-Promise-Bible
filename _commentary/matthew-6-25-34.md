@@ -28,6 +28,7 @@ sources:
   - 2024-09-01 answers-for-lifes-demands
   - 2024-10-13 the-key-to-prospering-in-all-things
   - 2025-04-20 raised-with-christ-to-reign
+  - 2026-01-04 hope-that-anchors-your-soul
 updated: 2026-08-06
 ---
 

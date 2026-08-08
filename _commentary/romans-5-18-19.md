@@ -12,6 +12,7 @@ sources:
   - 2021-06-06 set-apart-for-lasting-success
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2025-02-23 live-by-faith-not-by-your-feelings
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

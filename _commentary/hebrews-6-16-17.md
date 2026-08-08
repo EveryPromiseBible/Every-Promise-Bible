@@ -3,6 +3,7 @@ key: Hebrews 6:16–17
 title: "So God went further"
 sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
+  - 2026-01-04 hope-that-anchors-your-soul
 updated: 2026-08-06
 ---
 

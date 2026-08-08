@@ -10,6 +10,7 @@ sources:
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2023-06-25 the-cure-to-a-dissatisfied-life
   - 2024-10-20 the-healing-power-of-gods-word
+  - 2026-01-04 hope-that-anchors-your-soul
 updated: 2026-08-06
 ---
 

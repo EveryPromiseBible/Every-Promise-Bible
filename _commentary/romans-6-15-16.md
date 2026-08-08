@@ -3,7 +3,8 @@ key: Romans 6:15–16
 title: Slaves of the one you obey
 sources:
   - 2021-06-06 set-apart-for-lasting-success
-updated: 2026-08-07
+  - 2025-11-23 break-the-power-of-sinful-habits
+updated: 2026-08-06
 ---
 
 The same question as at the start of the chapter, asked again with one word changed.

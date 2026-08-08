@@ -11,6 +11,7 @@ sources:
   - 2021-06-06 set-apart-for-lasting-success
   - 2025-10-19 prioritize-character-success
   - 2025-11-02 his-way-is-to-abundantly-pardon
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Romans 1:1–7
 title: A servant sent with good news
 sources:
   - 2024-09-01 answers-for-lifes-demands
-updated: 2026-08-07
+  - 2025-11-23 break-the-power-of-sinful-habits
+updated: 2026-08-06
 ---
 
 The longest greeting Paul ever wrote, to the one church he had never visited.

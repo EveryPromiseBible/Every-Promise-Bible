@@ -9,6 +9,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2023-03-26 hear-your-way-out-of-every-weakness
   - 2024-08-04 win-the-battle-over-temptation
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

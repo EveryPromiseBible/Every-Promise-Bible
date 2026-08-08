@@ -24,6 +24,7 @@ sources:
   - 2025-09-14 trust-the-way-of-grace
   - 2025-09-21 transformed-by-beholding-jesus
   - 2025-10-19 prioritize-character-success
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

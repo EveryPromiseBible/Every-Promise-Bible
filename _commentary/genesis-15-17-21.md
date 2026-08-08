@@ -3,7 +3,8 @@ key: Genesis 15:17–21
 title: God Himself moving through
 sources:
   - 2025-09-14 trust-the-way-of-grace
-updated: 2026-08-07
+  - 2026-01-04 hope-that-anchors-your-soul
+updated: 2026-08-06
 ---
 
 The oath is sworn by one party, and the other one is asleep.

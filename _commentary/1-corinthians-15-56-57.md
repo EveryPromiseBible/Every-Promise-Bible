@@ -24,6 +24,7 @@ sources:
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-08-24 the-power-of-a-cleansed-conscience
   - 2025-10-19 prioritize-character-success
+  - 2025-11-23 break-the-power-of-sinful-habits
 updated: 2026-08-06
 ---
 

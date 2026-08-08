@@ -6,6 +6,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-12-13 declare-you-are-highly-favored
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
+  - 2026-01-04 hope-that-anchors-your-soul
 updated: 2026-08-06
 ---
 
