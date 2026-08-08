@@ -3,7 +3,8 @@ key: Romans 6:3–5
 title: Buried and raised with Him
 sources:
   - 2024-08-04 win-the-battle-over-temptation
-updated: 2026-08-07
+  - 2026-03-29 freed-from-the-dominion-of-sin
+updated: 2026-08-06
 ---
 
 The answer to an objection, and it is about a funeral.

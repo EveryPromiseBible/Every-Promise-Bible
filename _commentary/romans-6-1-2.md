@@ -12,6 +12,7 @@ sources:
   - 2025-10-19 prioritize-character-success
   - 2025-11-02 his-way-is-to-abundantly-pardon
   - 2025-11-23 break-the-power-of-sinful-habits
+  - 2026-03-29 freed-from-the-dominion-of-sin
 updated: 2026-08-06
 ---
 

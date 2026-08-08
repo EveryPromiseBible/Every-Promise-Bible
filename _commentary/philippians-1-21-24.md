@@ -11,6 +11,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2025-02-02 the-power-of-his-resurrection
   - 2026-03-01 silence-the-enemys-accusations
+  - 2026-03-08 set-apart-for-holiness
 updated: 2026-08-06
 ---
 

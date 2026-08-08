@@ -14,6 +14,7 @@ sources:
   - 2022-07-10 supernatural-supply-in-difficult-times
   - 2023-02-19 much-more-restoration-is-coming
   - 2023-10-15 put-on-gods-armor-in-the-evil-day
+  - 2026-03-08 set-apart-for-holiness
 updated: 2026-08-06
 ---
 

@@ -3,7 +3,8 @@ key: Romans 7:14–17
 title: The war I cannot win
 sources:
   - 2024-08-04 win-the-battle-over-temptation
-updated: 2026-08-07
+  - 2026-03-29 freed-from-the-dominion-of-sin
+updated: 2026-08-06
 ---
 
 Paul describes a man losing, and switches to the present tense to do it.

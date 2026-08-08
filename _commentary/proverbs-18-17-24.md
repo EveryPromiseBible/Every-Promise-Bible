@@ -16,6 +16,7 @@ sources:
   - 2023-02-26 power-to-renew-your-youth
   - 2024-01-21 live-with-a-heavenly-perspective
   - 2025-08-03 the-prayer-that-brings-rest-and-refreshing
+  - 2026-03-08 set-apart-for-holiness
 updated: 2026-08-06
 ---
 

@@ -7,6 +7,7 @@ sources:
   - 2021-05-02 inside-out-transformation
   - 2025-06-22 no-more-fear-of-death
   - 2026-03-01 silence-the-enemys-accusations
+  - 2026-03-08 set-apart-for-holiness
 updated: 2026-08-06
 ---
 

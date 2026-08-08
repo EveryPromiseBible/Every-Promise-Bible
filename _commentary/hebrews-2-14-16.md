@@ -11,6 +11,7 @@ sources:
   - 2023-06-11 blessed-with-father-abrahams-blessings
   - 2025-06-22 no-more-fear-of-death
   - 2026-03-01 silence-the-enemys-accusations
+  - 2026-03-08 set-apart-for-holiness
 updated: 2026-08-06
 ---
 

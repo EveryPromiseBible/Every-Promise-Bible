@@ -3,6 +3,7 @@ key: Hebrews 3:1–2
 title: "The High Priest of the faith we own out loud"
 sources:
   - 2019-04-28 the-key-to-live-blessed
+  - 2026-03-08 set-apart-for-holiness
 updated: 2026-08-06
 ---
 
