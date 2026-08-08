@@ -576,6 +576,13 @@
      measured and set by tourPlaceBelow, because it depends on how tall that
      particular word's entry turned out. */
   .tour.below{bottom:auto;transform:translateX(-50%);}
+  /* The word the tour tapped, marked so the reader can see which one the entry
+     on screen belongs to. Cleared with the rest of the tour's marks. */
+  /* Lifted above the backdrop like the spotlit panels are, so the word that was
+     tapped is sharp and readable -- it is half the point of the step, and a
+     blurred word with a ring round it says nothing. */
+  .tour-tapped{background:var(--hl) !important;border-radius:5px;
+    box-shadow:0 0 0 2px var(--orange);position:relative;z-index:152;}
   .overlay.tour-shift{align-items:flex-start;padding-top:18px;}
   .overlay.tour-shift .def-card{max-height:42vh;}
   /* A short page with its content at the top: the card goes to the bottom
@@ -4166,7 +4173,31 @@ async function epubSections(blob) {
    bookmarks, notes, highlights or the journal. */
 const TOUR_SEEN = 'ep-tour-seen';
 
-function tourGo(fn) { try { fn(); } catch (e) { console.warn('[tour]', e); } }
+/* Some steps do a thing rather than describe it -- flip a switch, tap a word,
+   open a dictionary -- and doing it takes time the reader is meant to watch.
+   Every one of those is scheduled through tourAfter, which drops the action if
+   the reader has already moved on. Without that, a fast clicker gets the mode
+   flipping on a later step, or a popup opening over the hymnal. */
+let tourTimers = [];
+function tourClearTimers() { tourTimers.forEach(clearTimeout); tourTimers = []; }
+
+function tourAfter(ms, fn) {
+  const at = tourAt;
+  tourTimers.push(setTimeout(() => {
+    if (tourAt !== at) return;                  // the reader has moved on
+    try { fn(); } catch (e) { console.warn('[tour]', e); }
+    /* An action can rebuild or resize what the step is pointing at, so the
+       spotlight and the card's position are settled again after it. */
+    const s = TOUR[at];
+    tourSpot(s.spot, s.show);
+    if (s.below) tourPlaceBelow(s.below);
+  }, ms));
+}
+
+function tourGo(fn) {
+  tourClearTimers();                            // before fn, which schedules more
+  try { fn(); } catch (e) { console.warn('[tour]', e); }
+}
 
 const TOUR = [
   { title: 'Every Promise Bible',
@@ -4205,8 +4236,16 @@ const TOUR = [
     /* This step is about how the words themselves look. Blurring them out
        while describing them defeats the step. */
     show: '#sectionsContainer',
-    body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through.',
-    go: () => { if (currentTx !== 'mak') switchTranslation('mak'); if (readMode) toggleMode(); } },
+    body: 'In <b>study</b> the Greek and its parsing sit under every word, and tapping a word opens the dictionaries. Flip to <b>read</b> and all of that drops away, leaving plain English to read straight through. Watch the switch.',
+    /* Flips it, both ways, while the reader is looking at it. Reading that the
+       Greek "drops away" is not the same as seeing a page of it go. It ends
+       back in study, which is where the next step needs to be. */
+    go: () => {
+      if (currentTx !== 'mak') switchTranslation('mak');
+      if (readMode) toggleMode();               // start in study, whatever came before
+      tourAfter(1500, () => { if (!readMode) toggleMode(); });   // study -> read
+      tourAfter(4200, () => { if (readMode) toggleMode(); });    // read -> study
+    } },
 
   { title: 'Tap a Word',
     tint: 'var(--orange)',
@@ -4328,24 +4367,43 @@ function tourTraps(el) {
    opening an empty popup. */
 function tourWordDemo() {
   if (currentTx !== 'mak') switchTranslation('mak');
-  if (readMode) toggleMode();
+  if (readMode) toggleMode();                      // the words have to be tappable
   const at = (typeof makIndexForRef === 'function') ? makIndexForRef('John 1') : -1;
   if (at >= 0) loadChapter(at, true);
-  setTimeout(() => {
+
+  /* Done in beats, because the beats are the point. A reader who is shown the
+     finished state -- a popup, already open, with a definition already
+     unfolded -- has not been shown anything happening. So: the word is found
+     and marked where it sits in the chapter, then it is tapped and the
+     dictionaries it holds come up as a list, then one of them is opened. */
+  tourAfter(400, () => {
     const units = [...document.querySelectorAll('#sectionsContainer .unit.clickable')];
     if (!units.length) return;
     const pick = units.find(u => /χάρι/.test(u.dataset.wordKey || '')) || units[0];
+    pick.classList.add('tour-tapped');
+    /* Low on the screen on purpose, not centred: the popup fills the top and
+       the card sits under it, so a word in the middle is the one place it
+       would be covered by the thing it just opened. Down here it stays in
+       sight, and the reader can see which word the entry belongs to. */
+    const r = pick.getBoundingClientRect();
+    window.scrollBy({ top: r.top - window.innerHeight * 0.84, behavior: 'smooth' });
+  });
+
+  tourAfter(1400, () => {
+    const pick = document.querySelector('.tour-tapped');
+    if (!pick) return;
     pick.click();                                  // the reader's own gesture
-    /* Open the first source, and let the popup sit where it can be seen next
-       to the tour card rather than underneath it. */
     const ov = document.getElementById('defOverlay');
-    if (ov) ov.classList.add('tour-shift');
-    const first = document.querySelector('#defCard details.def-fold');
-    if (first) first.open = true;
-    /* Place the card the moment the entry has its real height, rather than
-       leave it centred over the popup until the next tick. */
-    tourPlaceBelow('.def-card');
-  }, 260);
+    if (ov) ov.classList.add('tour-shift');        // out from under the card
+  });
+
+  tourAfter(3000, () => {
+    /* Strong's is opened by clicking its own summary rather than by setting
+       .open, so it goes through the same path a reader's tap does -- and the
+       exclusive accordion behaves as it would for them. */
+    const first = document.querySelector('#defCard details.def-fold > summary');
+    if (first && !first.parentElement.open) first.click();
+  });
 }
 
 function tourLift(n) {
@@ -4361,6 +4419,9 @@ function tourLift(n) {
    that describes what the words look like is not much use with the words
    blurred out. */
 function tourSpot(sel, show) {
+  /* Only the step that tapped a word keeps its mark on that word. */
+  if (!TOUR[tourAt] || TOUR[tourAt].spot !== '.def-card')
+    document.querySelectorAll('.tour-tapped').forEach(e => e.classList.remove('tour-tapped'));
   document.querySelectorAll('.tour-spot').forEach(e => e.classList.remove('tour-spot'));
   document.querySelectorAll('.tour-lift').forEach(e =>
     e.classList.remove('tour-lift', 'tour-lift-rel'));
@@ -4454,10 +4515,13 @@ function tourNext() {
 }
 
 function tourEnd() {
+  tourClearTimers();
   document.getElementById('tour').classList.remove('on');
   document.getElementById('tourBackdrop').classList.remove('on');
   const ov = document.getElementById('defOverlay');
   if (ov) ov.classList.remove('open', 'tour-shift');
+  document.querySelectorAll('.tour-tapped').forEach(e => e.classList.remove('tour-tapped'));
+  tourAt = -1;                                  // so tourSpot clears everything
   tourSpot(null);
   try { localStorage.setItem(TOUR_SEEN, '1'); } catch (e) {}
 }
