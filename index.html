@@ -4227,7 +4227,7 @@ const TOUR = [
   { title: 'tx.01 — The Mak Translation',
     tint: 'var(--orange)',
     spot: '#txcard-mak',
-    body: 'The word-for-word New Testament. Each word is a small stack: the English, the Greek word it came from, and that word&rsquo;s Strong&rsquo;s number with its grammar. Words in italic were added for English and have no Greek behind them, so you can always see what came from the text and what did not.',
+    body: 'The word-for-word New Testament. Each word is a small stack: the English, the Greek word it came from, and that word&rsquo;s Strong&rsquo;s number with its grammar. The number is only the label — tap the word and four dictionaries open behind it, not just Strong&rsquo;s. Words in italic were added for English and have no Greek behind them, so you can always see what came from the text and what did not.',
     go: () => { switchTranslation('mak'); loadChapter(0, true); } },
 
   { title: 'Study and Read',
@@ -4255,7 +4255,7 @@ const TOUR = [
     tint: 'var(--orange)',
     spot: '.def-card',
     below: '.def-card',
-    body: 'Here is an example of what a word opens when it&rsquo;s clicked. <b>Charis</b> — grace — as the dictionaries have it: Strong&rsquo;s, Thayer&rsquo;s and Abbott&ndash;Smith, each on its own, with where the word comes from, how the King James renders it, and where else it turns up. Any word in Mak does this.',
+    body: 'Here is an example of what a word opens when it&rsquo;s clicked. <b>Charis</b> — grace — as four sources have it, each on its own: <b>Strong&rsquo;s</b>, <b>Thayer&rsquo;s</b> and <b>Abbott&ndash;Smith</b>, with where the word comes from, how the King James renders it and where else it turns up — and a <b>word picture</b>, which says in plain English what the word is getting at. Any word in Mak does this.',
     go: () => { tourWordDemo(); } },
 
   { title: 'tx.02 — The Illumination',
@@ -4421,11 +4421,18 @@ function tourWordDemo() {
   });
 
   tourAfter(3000, () => {
-    /* Strong's is opened by clicking its own summary rather than by setting
-       .open, so it goes through the same path a reader's tap does -- and the
-       exclusive accordion behaves as it would for them. */
-    const first = document.querySelector('#defCard details.def-fold > summary');
-    if (first && !first.parentElement.open) first.click();
+    /* The word picture rather than Strong's, deliberately. Strong's is the one
+       everybody expects, and opening it would leave a reader thinking that is
+       all a word holds -- which is exactly the wrong impression, since there
+       are four sources behind every word. The picture is also the one worth
+       reading out: plain English, a sentence long.
+
+       Opened by clicking its own summary rather than by setting .open, so it
+       goes through the same path a reader's tap does and the exclusive
+       accordion behaves as it would for them. */
+    const folds = [...document.querySelectorAll('#defCard details.def-fold > summary')];
+    const pic = folds.find(s => /picture/i.test(s.textContent)) || folds[0];
+    if (pic && !pic.parentElement.open) pic.click();
   });
 }
 
