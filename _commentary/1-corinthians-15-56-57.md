@@ -20,6 +20,7 @@ sources:
   - 2024-09-01 answers-for-lifes-demands
   - 2024-09-22 claim-what-is-yours
   - 2024-11-03 the-transformative-power-of-gods-word
+  - 2024-12-22 when-god-stooped-down
 updated: 2026-08-06
 ---
 

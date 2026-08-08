@@ -3,7 +3,8 @@ key: Isaiah 40:9–11
 title: Here is your God
 sources:
   - 2022-06-26 hope-for-the-third-day-generation
-updated: 2026-08-07
+  - 2024-12-22 when-god-stooped-down
+updated: 2026-08-06
 ---
 
 Two pictures of the same arriving God, one verse apart, and they do not match.

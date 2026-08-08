@@ -3,7 +3,8 @@ key: Psalms 56:8–9
 title: Gather my tears in Your bottle
 sources:
   - 2021-08-22 greater-shalom-and-security
-updated: 2026-08-07
+  - 2024-12-22 when-god-stooped-down
+updated: 2026-08-06
 ---
 
 Two verses, and one of them contains the strangest image of God's attention in the Psalter.

@@ -4,6 +4,7 @@ title: When the anointed priest sins
 sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-04-09 his-resurrection-my-victory-over-death
+  - 2024-12-22 when-god-stooped-down
 updated: 2026-08-06
 ---
 

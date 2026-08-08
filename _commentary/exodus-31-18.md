@@ -3,6 +3,7 @@ key: Exodus 31:18
 title: Written by the finger of God
 sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
+  - 2024-12-22 when-god-stooped-down
 updated: 2026-08-06
 ---
 

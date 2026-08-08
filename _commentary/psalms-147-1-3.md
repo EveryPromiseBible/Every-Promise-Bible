@@ -7,6 +7,7 @@ sources:
   - 2019-12-22 the-stars-tell-the-story-of-jesus
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-11-03 the-transformative-power-of-gods-word
+  - 2024-12-22 when-god-stooped-down
 updated: 2026-08-06
 ---
 
