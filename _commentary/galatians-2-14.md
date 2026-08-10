@@ -6,7 +6,8 @@ sources:
 updated: 2026-08-07
 ---
 
-The rebuke is public, and the charge is not doctrine — it is footwork.
+The rebuke is public, and it lands on a set of feet. Paul does not leave it there: what he says
+next is the most concentrated paragraph on justification in the letter.
 
 ## What had happened
 
@@ -25,12 +26,21 @@ The Greek is **orthopodousin** — from **orthos**, straight, and **pous**, foot
 
 The word appears once in the New Testament. It means to walk a straight line.
 
-## What it is not
+## Where the fault was, and where it was not
 
-Not *they did not believe the gospel*.
+Peter had not changed his mind. He is the one who stood up at the council in Jerusalem and argued
+the opposite case, and this passage gives the cause of the withdrawal outright: he pulled back
+*fearing those who were of the circumcision*. Fear, not conviction.
 
-Paul does not accuse Peter of holding a false doctrine. He accuses him of a walk that does not match
-the one he holds.
+But it does not follow that the matter was merely behavioural, and Paul plainly does not treat it
+that way. What a man does at a table is a statement. This one said, without a word, that Gentile
+believers were not quite acceptable as they stood — and that is a gospel, a false one, preached by
+a chair.
+
+Which is why Paul answers a withdrawal with doctrine: *a man is not justified by the works of the
+law*, and *if righteousness comes through the law, then Christ died in vain*. Nobody reaches for
+that to correct an inconsistency. He reached for it because the thing the feet were veering away
+from is named in the charge itself — **the truth of the gospel**.
 
 ## The phrase
 
@@ -103,5 +113,9 @@ and **made no distinction** between us and them."*
 
 Peter's own speech in Jerusalem, arguing the position Paul had to remind him of at the table.
 
-> **The word.** Not a charge of false belief — **orthopodousin**, they were not walking a straight
-> line. Paul confronts a set of feet, not a set of opinions.
+> **The word.** **Orthopodousin** — they were not walking a straight line, and the line is named:
+> *toward the truth of the gospel*. Paul confronts a set of feet and then preaches justification by
+> faith at them, because at Antioch the feet were doing the preaching. Peter believed the right
+> thing and was still, for an afternoon, announcing the wrong one — which is how much rests on a
+> gospel being lived where people can see it, and how little of it rests on us that Christ still
+> died for a man who got up from that table.

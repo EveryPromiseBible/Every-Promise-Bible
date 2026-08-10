@@ -21,7 +21,8 @@ purifying their hearts by faith*.
 
 *He began to pull back and hold himself apart, **afraid** of those of the circumcision.*
 
-**Phoboumenos**. The failure at Antioch is not a doctrinal failure. It is a nerve failure.
+**Phoboumenos**. What moved Peter was not a change of conviction — it was nerve. And Paul still
+answers it with doctrine, because the act preached one whether Peter intended it to or not.
 
 *And the rest of the Jews went along with the **pretense** too.* **Hypokrisis** — the word for an
 actor playing a part behind a mask. They knew what they believed; they performed something else.
