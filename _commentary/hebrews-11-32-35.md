@@ -45,6 +45,19 @@ and the writer says so approvingly.
 release and refused it — which means their situation was not a failure of faith
 but an exercise of it.
 
+## What they were holding out for
+
+Halfway through the turn, the writer explains why the ones who were tortured refused rescue: *not
+accepting deliverance, **that they might obtain a better resurrection**.*
+
+They were not being stubborn. They were making a comparison, and they had already priced both
+sides.
+
+He says the same of Moses a few verses earlier — that he *esteemed **the reproach of Christ** greater
+riches than the treasures in Egypt, for he looked to the reward*. The writer puts the name of Christ
+into an account set four centuries before Bethlehem, because that is what the whole chapter is
+about: people who preferred a Person they had not yet seen to everything that was on the table.
+
 > **The end of the chapter.** *None of them received what was promised.* All of
 > them — the delivered and the destroyed alike — are described as still waiting.
 > Whatever this chapter is doing, it is not sorting people by outcome.

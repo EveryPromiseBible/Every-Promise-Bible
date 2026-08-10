@@ -81,5 +81,21 @@ Revelation 5:7–8.
 
 Same vessel, two contents.
 
+## The two invitations still standing in the same book
+
+The bowls fall on people who will not turn — and the same book, written by the same hand, keeps the
+door open the whole way through.
+
+*Behold, **I stand at the door and knock**. If anyone hears My voice and opens the door, I will come
+in to him.*
+
+*And whoever desires, let him **take the water of life freely**.*
+
+That second sentence is in the last chapter, after everything in this one. Revelation does not
+finish with the bowls; it finishes with an invitation and the word **dorean** — without charge.
+
+So the refusal reported here is not a shortage of mercy. It is a refusal of the specific mercy that
+is still, at the very end of the book, being offered by Jesus Christ to *whoever desires*.
+
 > **What the verse records.** Pain, correctly attributed, and no change. Revelation says
 > it four times across two judgment cycles and never once presents it as a surprise.

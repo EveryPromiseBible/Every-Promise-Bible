@@ -42,4 +42,22 @@ The gift comes before the work — twenty verses before anyone mentions works.
 
 Show me. I will show you. Do you need showing. Look at what happened. You see it now. Over and over. James is asking for evidence that the faith is alive, not for payment to make it count.
 
-> One thing not to claim: do not say Paul and James use different words. They use the same ones — faith, works, justified, righteousness, the same Abraham, and the same Old Testament verse about him. That is precisely why this passage has been argued over for centuries. The claim that holds up is not that they used different words, but that they used the same words to answer different questions.
+## What the chapter's first verse names
+
+The whole discussion has an object, and James supplies it in the opening line of the same chapter:
+
+*My brethren, do not hold **the faith of our Lord Jesus Christ, the Lord of glory**, with
+partiality.*
+
+That is the faith he spends the chapter examining. Not faith as a general disposition, not sincerity,
+not the ability to affirm that God is one — which he points out the demons manage. Faith fastened on
+a named Person.
+
+Which is why the two apostles are not in conflict. Paul is defending how a sinner is put right with
+God: by that faith, apart from works. James is asking whether a man who claims that faith actually
+has it. Both of them are pointing at Jesus Christ, and neither is asking anyone to pay.
+
+> **The object, not the amount.** James never grades faith by size — he grades it by whether it is
+> attached to anything. And what he names in verse one is not a doctrine but a Person: *the faith of
+> our Lord Jesus Christ, the Lord of glory*. A faith with Him at the end of it will show; a faith
+> with nothing at the end of it was only ever a sentence.

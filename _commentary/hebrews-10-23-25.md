@@ -103,6 +103,21 @@ notes on Hebrews 10:26–27 and Hebrews 10:28–29.
 The writer puts *do not stop meeting* directly before it. The drifting he is warning
 against starts with people quietly not turning up.
 
+## What comes before the three "let us"
+
+The three instructions do not open the paragraph. Two statements do, and everything after them is a
+consequence:
+
+*Therefore, brethren, **having boldness to enter the Holiest by the blood of Jesus**, by a new and
+living way which He consecrated for us, through the veil, that is, His flesh, and **having a High
+Priest over the house of God** — let us draw near… let us hold fast… let us consider one another.*
+
+**Echontes** twice: *having*, present participle. The access is already granted and the Priest is
+already in post. Nothing in the three exhortations is being done in order to obtain either.
+
+Which is why the writer can ask for holding on without anxiety. The confession is held by people who
+have somewhere to stand, and the standing was bought with blood before the sentence started.
+
 > **The order of the three.** Draw near to God, hold on to the confession, and pay
 > attention to each other — and the only reason supplied for any of them is that the One
 > who promised keeps His word.

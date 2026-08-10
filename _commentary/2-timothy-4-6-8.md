@@ -45,6 +45,25 @@ The condition for the crown, stated by a man about to be executed, is not
 achievement or office or martyrdom. It is having loved the fact that He is
 coming.
 
+## Who hands it over
+
+*The Lord, **the righteous Judge**, will give it to me on that Day.*
+
+Read the title Paul chose. The one handing out the crown is the Judge — and the man receiving it is
+a former blasphemer and persecutor who had already written that he counted his own record as refuse.
+
+Paul is not expecting to be assessed and found adequate. He is expecting to be handed something by
+the very Person who took his case. The judgement seat holds no dread for him because the verdict was
+delivered years earlier on a road, and everything since has been service rather than trial.
+
+And note what the crown is a crown *of*: **dikaiosynes** — righteousness. The one commodity Paul
+insisted all his life he did not own and could not manufacture, *not having my own righteousness…
+but that which is through faith in Christ*. It comes back to him at the end as a wreath, given by
+the Judge, out of the same grace that saved him.
+
+*And not to me only, but to **every last one who has loved His appearing***. The qualification named
+is not achievement. It is affection for a Person.
+
 > **Read on to verse 9.** Immediately after this — the crown, the finished race,
 > the settled peace — Paul writes *do your best to come to me quickly*, and later
 > asks for his cloak and his books. The grandeur and the cold cell are three

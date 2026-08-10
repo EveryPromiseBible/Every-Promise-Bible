@@ -85,6 +85,22 @@ obtained mercy but now have obtained mercy.*
 Peter is quoting Hosea. *Lo-Ammi*, not My people, reversed — the same passage Paul
 uses in Romans 9. See the notes on Hosea 1:8–9 and Romans 9:25–26.
 
+## Where the four titles come from, and what is missing
+
+Peter is quoting Sinai. *You shall be to Me a kingdom of priests and a holy nation* — Exodus 19:6,
+spoken to Israel at the foot of the mountain.
+
+But read what precedes it there: ***if you will indeed obey My voice and keep My covenant**, then
+you shall be a special treasure to Me.* The titles at Sinai came with a condition attached, and the
+nation broke it inside six weeks.
+
+Peter hands the same four titles to scattered believers, most of them Gentiles, and there is no *if*
+anywhere in the sentence. He does not say *you may become*; he says *you are*.
+
+What changed between the mountain and the letter is a covenant. *You are a chosen generation* is
+said on the ground of the blood he has just described — *not with silver or gold… but with the
+precious blood of Christ* — and that is why the condition is gone.
+
 > **What Peter had called them a few verses earlier.** *Living stones, being built up
 > a spiritual house, a holy priesthood.* The house and the priests are the same
 > people, and the stones were not quarried square. See the note on 1 Peter 2:4–5.

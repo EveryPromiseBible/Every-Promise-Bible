@@ -106,5 +106,25 @@ One creature per seal, for the first four. See the note on Revelation 6:1–2.
 
 The four faces round the throne are the four voices that summon the four horses.
 
+## The other sea, in Solomon's temple
+
+There was already a sea in front of God's house, and it was not made of glass.
+
+*And he made **the Sea** of cast bronze, ten cubits from one brim to the other… **the priests were to
+wash in it**.*
+
+An enormous bronze basin standing in the temple court, holding thousands of gallons, and its whole
+purpose was that nobody serving there could stay clean. It had to be there because the washing never
+stopped.
+
+In the throne room John sees a sea that is solid. Nothing is moving in it and nobody is washing.
+
+That is a picture of a finished cleansing rather than a suspended one: *not by works of
+righteousness which we have done, but according to His mercy He saved us, through **the washing of
+regeneration**.* And the church is presented *having cleansed her with the washing of water by the
+word*.
+
+The basin is glass because the work it existed for was finished by Jesus Christ.
+
 > **What the water is doing.** Nothing. In the tabernacle it was a basin for washing; here it is
 > glass, motionless, and the sea in Hebrew imagery is what will not be still.

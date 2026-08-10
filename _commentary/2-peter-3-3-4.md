@@ -48,6 +48,21 @@ purpose — a chosen blindness rather than an oversight.
 That is Peter's diagnosis of the argument. Not that the scoffers lack
 information. That the information is available and being stepped around.
 
+## The promise they are mocking
+
+*Where is the promise of **His coming**?* — and the scoffers put their finger on the right thing.
+The promise is not about a schedule of events. It is about a Person returning.
+
+Two men in white said it while the disciples were still looking up: ***This same Jesus**, who was
+taken up from you into heaven, will so come in like manner as you saw Him go.*
+
+*This same* — the same Man, the same body, the same scars. And He said it Himself: *I will come
+again and receive you to Myself.*
+
+So the mockery is not aimed at a theory about the end of the world. It is aimed at whether Jesus
+Christ keeps His word — which is the only question in the chapter, and Peter answers it by pointing
+at what God has already done on time rather than by producing a date.
+
 > **The scale he sets it in.** The chapter runs from creation, through the flood,
 > to the elements melting and a new heavens and new earth. The mockers' claim that
 > everything continues unchanged is answered by a history in which it has already

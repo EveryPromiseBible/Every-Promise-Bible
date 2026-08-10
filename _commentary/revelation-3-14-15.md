@@ -101,6 +101,25 @@ Addressed to a church, from outside it.
 
 The harshest of the seven letters ends with a meal being offered through a door.
 
+## The Beginning of the creation of God
+
+*He arche tes ktiseos tou theou* — and **arche** is the word that has to be read carefully, because
+it does not mean *the first thing made*.
+
+It means origin, source, the point something starts from. Paul settles it for the church in the next
+valley, writing to Colossae about the same Person:
+
+*For **by Him all things were created** that are in heaven and that are on earth… all things were
+created through Him and for Him. And **He is before all things**, and in Him all things consist. And
+He is the head of the body, the church, who is **the beginning**, the firstborn from the dead.*
+
+Same word, same author's circle of churches, and Paul uses it of the One who made everything rather
+than of something made.
+
+So the title given to Laodicea is not a modest one. The Amen, the Faithful and True Witness, the
+Source of God's creation — three of the highest names in the book, spoken by Jesus Christ to the
+least to show for itself, immediately before He offers to come in and eat with them.
+
 > **The title He opens with.** The Amen — the word people say back. Paul says every promise
 > gets its Yes in Him and its Amen through us; here the Amen is the one doing the
 > speaking.

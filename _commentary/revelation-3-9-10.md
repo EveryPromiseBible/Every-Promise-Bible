@@ -97,5 +97,21 @@ Laodicea, a few miles down the road, rich and needing nothing. See the note on R
 
 Little strength and an open door; great wealth and a closed one. The two letters are consecutive.
 
+## A little strength, and a door nobody can shut
+
+*I know your works. See, I have set before you **an open door, and no one can shut it**; for you
+have a little strength.*
+
+Read the connection. The door is open *because* they have a little strength — not in spite of it.
+The commendation of this church is that it kept His word and did not deny His name while being
+weak, and He mentions the weakness as part of the commendation rather than as a reservation.
+
+And the One who opened it is described at the top of the letter as holding *the key of David; He who
+opens and no one shuts*. Jesus Christ said the same thing about Himself in plainer words: *I am the
+door. If anyone enters by Me, he will be saved.*
+
+So the strongest promise about opportunity in the seven letters is given to the weakest congregation
+in them, and the security is entirely in whose hand is on the door.
+
 > **The demonstration.** The bowing is not for the church's sake — *I will make them know that I have
 > loved you*. That is the stated purpose.

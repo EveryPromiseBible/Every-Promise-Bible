@@ -49,6 +49,23 @@ peace, it goes easy on people, it will hear you out.*
 Eight verses later, and the solution is something that comes **down from above**
 rather than something worked up. See the note on James 3:17–18.
 
+## The tongue is downstream
+
+James says no man has ever tamed it, and he is right — but notice that he never says it cannot be
+changed. Taming and filling are different operations, and Jesus located the problem somewhere the
+tongue cannot reach:
+
+*Out of **the abundance of the heart** the mouth speaks. A good man out of the good treasure of his
+heart brings forth good.*
+
+The mouth is a spout, not a source. That is why restraint has never worked on it for long, and why
+the answer God actually gave was not a stricter rule but a transplant: *I will give you a new heart
+and put a new spirit within you.*
+
+Which makes this bleak paragraph a mercy rather than a condemnation. James closes off the only method
+we would have tried, so that the tongue is dealt with where it actually comes from — by Jesus Christ
+supplying a new heart for it to draw on.
+
 > **What Paul says about the same problem.** *If by the Spirit you go on putting
 > the body's doings to death, you will live* — continuous, and by the Spirit, not
 > by resolve. The two writers agree about the diagnosis and about where the

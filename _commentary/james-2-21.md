@@ -41,3 +41,26 @@ That is Abraham. Righteous by believing, back in Genesis 15. The altar showed it
 ## What should not be claimed
 
 > It would be too strong to say the Greek means shown and not made. The word genuinely carries both, and that claim can be knocked down in a moment — taking the good arguments with it. The honest statement is this: the word can mean either; we read it as shown because James's argument runs on showing, because he names no courtroom, and above all because he dates the righteousness to Genesis 15 and calls the altar its filling-full. That is a reading of the passage, not a fact about the word.
+
+## What was actually happening on that mountain
+
+James picks Moriah as his example of faith in action, and it is worth looking at what the scene
+shows.
+
+A father takes his only son, the son of the promise, on a three-day walk. The boy carries the wood
+for his own offering up the hill. He asks where the lamb is, and his father answers *God will provide
+Himself the lamb*. At the last moment the son is spared and a substitute is found caught in a
+thicket.
+
+Everything in the picture points one way, and Paul says it plainly using the same verb Genesis uses:
+*He who **did not spare His own Son**, but delivered Him up for us all.*
+
+The one thing that was asked of Abraham and then stopped is the thing that was not stopped when it
+was God's turn. So even James's example of works is, at its centre, a picture of a Son offered by a
+Father — and the man in it is commended for believing that God could raise the dead.
+
+> **The work James chose.** Of everything Abraham ever did, the deed picked out as faith in action is
+> the one where he did nothing but carry wood up a hill and trust God to supply the lamb. He was
+> right: *God will provide Himself the lamb* — and John the Baptist stood by a river two thousand
+> years later, pointed at Jesus and said, *behold the Lamb of God who takes away the sin of the
+> world*.

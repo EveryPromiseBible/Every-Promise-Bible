@@ -100,6 +100,20 @@ Noah in the whole of Genesis.
 He is called *a preacher of righteousness* in 2 Peter, and no sermon of his survives.
 The boat was the sermon.
 
+## The other blood that speaks
+
+Abel's blood is said here not to have stopped speaking, and the letter comes back to it at the end
+to say what it has been saying and what answers it.
+
+*You have come… to Jesus the Mediator of the new covenant, and to **the blood of sprinkling that
+speaks better things than that of Abel**.*
+
+Abel's blood cried from the ground for justice — *the voice of your brother's blood cries out to Me*
+— and it has never been satisfied. It asks for what is owed.
+
+The blood of Jesus Christ speaks too, and the writer says it speaks *better*: not louder, and not
+against anybody. One asks for the case to be answered; the other announces that it has been.
+
 > **What all three have in common.** Not one of them is credited with a result they
 > lived to see. Abel was killed, Enoch vanished, and Noah's proof arrived a century
 > after he started building.

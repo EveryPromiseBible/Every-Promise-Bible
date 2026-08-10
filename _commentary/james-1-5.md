@@ -56,6 +56,20 @@ lack itself is the qualification.
 And the outcome is stated with equal plainness: *it will be put right into your
 hands*. Not considered. Given.
 
+## Who the wisdom turns out to be
+
+James says to ask, and promises it will be given without reproach. Paul says where it is kept:
+
+*But of Him you are in Christ Jesus, **who became for us wisdom from God** — and righteousness and
+sanctification and redemption.*
+
+*In whom are hidden **all the treasures of wisdom and knowledge**.*
+
+So the wisdom being offered is not a quantity of good sense dispensed on request. It is a Person you
+are already in — which is exactly why James can promise it will be given generously and with no
+humiliation attached. There is nothing left to qualify for. Asking is simply drawing on what you
+were put into.
+
 > **On the verses that follow.** James goes on to talk about asking in faith and
 > not being double-minded, and that is sometimes used to load the promise back up
 > with conditions. Read what he actually describes: a person in two minds about

@@ -79,6 +79,21 @@ that He is, and that He is a rewarder of those who diligently seek Him.*
 Two things to believe: that He exists, and what He is like toward those who look for
 Him.
 
+## Who started it and who finishes it
+
+The chapter that defines faith ends by pointing away from every example in it. One sentence past the
+last name:
+
+*Looking unto **Jesus, the author and finisher of our faith**, who for the joy that was set before
+Him endured the cross.*
+
+**Archegos** — the one who goes first and opens the way. **Teleiotes** — the one who brings a thing
+to its finish. Between them there is no stage of your faith that is your own contribution.
+
+Which resolves the anxiety this chapter can produce in an honest reader. You are not being asked to
+generate the substance and evidence out of yourself. Faith has an author, and He is also its
+completer, and the writer names Him.
+
 > **How the roll of faith ends.** *And all these, having obtained a good testimony
 > through faith, **did not receive the promise**, God having provided something better
 > for us, that they should not be made perfect apart from us.* The list waits for the

@@ -90,5 +90,23 @@ The man quoting *do not let a lie past your lips* had denied three times with an
 in a courtyard, and had been restored by a charcoal fire on a beach. See the note on
 Luke 22:31–34.
 
+## Where else this psalm turns up
+
+Peter quotes Psalm 34 for daily conduct. John quotes the same psalm for something else entirely.
+
+*For these things were done that the Scripture should be fulfilled, "**Not one of His bones shall be
+broken**."*
+
+That is Psalm 34:20, and John reaches for it standing at the cross, watching soldiers decide not to
+break the legs of a Man they thought was already dead.
+
+So the psalm Peter uses to teach people how to speak on an ordinary Tuesday is the psalm that
+describes the body of Jesus Christ under Roman hands. And its most famous line — *O taste and see
+that the LORD is good* — is the one Peter has already quoted earlier in this letter, applying it to
+Him: *if indeed you have tasted that the Lord is gracious.*
+
+The good days are not being sold to you on terms. They come from the same place the psalm's own hope
+came from.
+
 > **What the verse offers.** Not survival, not endurance, not compensation later. Life
 > enjoyed and good days seen — and the condition attached is about what a man says.

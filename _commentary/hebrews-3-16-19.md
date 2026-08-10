@@ -91,6 +91,19 @@ Hebrews 4:8–11.
 
 The offer outlives the generation that missed it.
 
+## What the rest turned out to be
+
+The writer diagnoses unbelief, and then in the next breath says what belief gets you: *for **we who
+have believed do enter that rest**.*
+
+And he defines the rest by a comparison nobody expects: *he who has entered His rest has himself
+also ceased from his works, **as God did from His**.* The model for Christian rest is the seventh day
+of creation — a rest entered not because the work is going well but because it is finished and
+somebody else finished it.
+
+That is why the alternative to unbelief in this letter is never harder marching. It is Jesus Christ,
+seated, and a people who stop trying to add to a completed work and go in.
+
 > **The one cause the writer names.** Not the opposition and not the difficulty of the
 > land. He asks three questions with obvious answers and then says it in four words:
 > unbelief was what kept them out.

@@ -94,6 +94,20 @@ joint in the middle. See the note on Hebrews 10:15–17.
 
 The letter's whole case rests on a promise made in the middle of a siege.
 
+## Who made it new
+
+Jeremiah announced the new covenant six centuries before anything happened, and the New Testament
+records the night it was cut. Jesus lifted a cup in an upstairs room and said, *this cup is **the
+new covenant in My blood**, which is shed for you.*
+
+That is what makes the first one obsolete: not that it failed to be good, but that a better one was
+inaugurated by a death and cannot be improved on.
+
+And the writer's real target is four verses further into the same quotation — *their sins and their
+lawless deeds **I will remember no more***. Everything in this chapter is aimed at that clause,
+because a covenant that ends with God's memory of your sin is the only one that could ever give a
+guilty person rest.
+
 > **Where the fault is placed.** Not on the covenant and not on the giver. The Greek
 > pronoun is plural and it points at the people — and the covenant it describes is one
 > where God took them by the hand.

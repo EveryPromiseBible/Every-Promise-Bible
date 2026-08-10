@@ -98,5 +98,21 @@ Luke 18:9–12.
 
 *I tell you, this man went down to his house justified.*
 
+## The next sentence in the letter
+
+The chapter break hides the fact that John's thought runs straight on, and what follows is the
+ground of everything just said about faithfulness and justice:
+
+*My little children, these things I write to you, so that you may not sin. And **if anyone sins, we
+have an Advocate with the Father, Jesus Christ the righteous**. And He Himself is the propitiation
+for our sins.*
+
+**Parakletos** — the one called alongside; the word Jesus used of the Spirit, applied here to Jesus
+Himself. And **hilasmos** — the propitiation.
+
+That is why forgiveness can be described as *just* rather than merely kind. A just God does not
+overlook a debt; He can only release it if it has been paid. The advocate arguing your case and the
+sacrifice satisfying it are the same Person, and He is called *the righteous* in the same breath.
+
 > **The adjective.** *Faithful and just.* Not *merciful and lenient* — the verse says the forgiving
 > is the righteous thing to do, because the account was settled elsewhere.

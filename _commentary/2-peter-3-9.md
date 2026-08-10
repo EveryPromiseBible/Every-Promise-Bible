@@ -52,6 +52,22 @@ our Lord as salvation.*
 
 The waiting is not neutral. It is rescue in progress.
 
+## What leads a person to it
+
+Peter says the delay exists so that people come to repentance, and it is worth being exact about
+what produces that and what does not.
+
+*Or do you despise the riches of His goodness, forbearance and longsuffering, not knowing that **the
+goodness of God leads you to repentance**?*
+
+Paul names the agent, and it is not fear of the deadline. It is kindness — the same longsuffering
+Peter is describing, doing its intended work.
+
+And **metanoia** is a change of mind. What a person changes his mind about is Jesus Christ: from a
+name he could take or leave to the One he is trusting entirely. That is why the delay is described as
+salvation rather than as a reprieve. God is not holding off the end reluctantly; He is holding a door
+open, and the doorway is a Person.
+
 > **The verse before it.** *With the Lord a day is like a thousand years, and a
 > thousand years like a day.* Peter answers the timing question twice — once by
 > saying God's reckoning of time is not ours, and once by saying the delay is

@@ -107,5 +107,24 @@ slaves of corruption*.
 The point of the Lot paragraph is the first half of verse 9. If God got that man out of that
 city, the readers under pressure can be got out too.
 
+## Where a verdict like that comes from
+
+Peter calls Lot **righteous** three times in three verses — righteous Lot, his righteous soul, that
+righteous man — about someone whose recorded conduct in Genesis includes pitching toward Sodom,
+sitting in its gate, offering his daughters to a mob, having to be dragged out by the hand, and
+ending in a cave.
+
+Genesis never once calls him righteous. Peter does, repeatedly, and the New Testament explains where
+a verdict like that comes from:
+
+*But to him who **does not work but believes on Him who justifies the ungodly**, his faith is
+accounted for righteousness.*
+
+That is Paul's sentence about grace, and Lot is its illustration. The righteousness is imputed, not observed —
+credited by God to a man who did nothing to earn the description and quite a lot to contradict it.
+
+Which is exactly why the passage can promise that *the Lord knows how to deliver the godly*. If the
+category depended on performance, Lot would not be in it, and neither would anybody reading.
+
 > **The only evidence Peter offers.** Not Lot's decisions, which were poor. That living there
 > hurt him, every day — and Peter builds the word *righteous* on it three times.

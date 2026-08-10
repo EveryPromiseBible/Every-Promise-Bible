@@ -34,6 +34,19 @@ Everyone in Jericho had the same evidence, as she says herself on the roof. The
 line the chapter draws is not between the informed and the ignorant. It is
 between those who were persuaded and those who were not.
 
+## Where her name turns up next
+
+Rahab's line does not end with the fall of a city. Matthew opens his gospel with a genealogy that
+almost never names a woman, and there she is: *Salmon begot Boaz **by Rahab**, Boaz begot Obed by
+Ruth.*
+
+A Canaanite prostitute from a condemned city becomes the mother of the man who redeemed Ruth, and
+both women stand in the ancestry of Jesus Christ.
+
+And the sign she was given was a scarlet cord in a window — a household spared by something red
+hanging where the destroyer could see it, which is the same arrangement as a doorpost in Egypt and
+points to the same blood.
+
 > **James, on the same woman.** *Was she not shown to be right by that?* James
 > uses Rahab as his second example of faith proved by action — the first being
 > Abraham. Between the two writers she is cited as an example of faith and as an

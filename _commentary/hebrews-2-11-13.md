@@ -110,5 +110,18 @@ The letter's whole argument for the priesthood runs through the word *brothers*.
 
 Said about men who had run.
 
+## What makes the family a family
+
+The reason the writer gives for the lack of shame is one clause: *both **He who sanctifies** and
+**those who are being sanctified** are all of one.*
+
+The sanctifying is His work, not theirs. And the letter says later exactly when it happened: *by
+that will **we have been sanctified** through the offering of the body of Jesus Christ **once for
+all**.* A perfect tense, an aorist offering, and a definite article on *once*.
+
+So the brotherhood is not a compliment paid to promising relatives. He made them holy, at His own
+cost, and He is therefore not embarrassed to be seen with them — which is the only reason anyone in
+that family is in it.
+
 > **The word that admits it.** *Not ashamed* only makes sense where shame would have been
 > understandable. The letter does not deny that; it reports the fact.

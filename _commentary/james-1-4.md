@@ -42,6 +42,20 @@ That is why James opens the letter by telling scattered, harassed believers to
 count trials as joy. Not because the trial is good, but because of what it is in
 the middle of making.
 
+## The word, in the other letters
+
+**Teleios** — the word rendered *perfect* here — means brought to completion, full-grown. James
+wants it worked out in experience. What is easy to miss is that the New Testament also says it is
+already true of you, in Christ, before any patience has done anything:
+
+*And **you are complete in Him**, who is the head of all principality and power.*
+
+*For by one offering He has **perfected forever** those who are being sanctified.*
+
+That last sentence puts both halves in one line: perfected, perfect tense, finished — and *being
+sanctified*, present, still under way. James is describing the second. The first was done at Calvary
+and is not waiting on your endurance.
+
 > **The next verse.** *If any of you is short on wisdom, ask God.* It follows
 > directly, and the connection is easy to miss: a person in the middle of an
 > unfinished process, told to let it run, is exactly a person who will not

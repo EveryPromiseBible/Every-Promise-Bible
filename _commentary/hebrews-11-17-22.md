@@ -97,6 +97,21 @@ about a funeral.
 
 All four are commended for what they said about a future they would not be in.
 
+## The figure he received him back in
+
+The writer supplies Abraham's reasoning on the mountain: *concluding that God was able to raise him
+up, even from the dead, from which he also received him **in a figure***.
+
+**En parabole** — in a likeness, a parable. Something happened on Moriah that was a picture of
+something else, and Abraham got his son back inside the picture.
+
+Three days' walk, a son carrying the wood for his own offering, a father who answered *God will
+provide Himself the lamb*, and a substitute caught in a thicket. Paul reads the whole scene into one
+sentence about God: *He who **did not spare His own Son**, but delivered Him up for us all.*
+
+The one thing that was asked of Abraham and stopped at the last moment is the thing that was not
+stopped when it was God's turn, and the Son He did not spare is Jesus Christ.
+
 > **Where the writer puts the emphasis.** Every entry contains a verb of speech or
 > blessing. These are men handing something forward — and Hebrews calls the handing
 > forward the faith.

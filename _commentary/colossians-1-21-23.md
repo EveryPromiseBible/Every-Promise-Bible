@@ -116,5 +116,23 @@ Colossians 2:8–10.
 
 The verse is one long before-and-after, and the hinge is a body and a death.
 
+## Who does the presenting
+
+The sentence has a subject and it is easy to lose in the grammar: **He** reconciled you, in order
+that **He** might present you.
+
+You are not asked to produce the holiness, and you are not asked to conduct the presentation. The
+One who did the reconciling walks you in.
+
+*Now to Him who is able to keep you from stumbling, and **to present you faultless** before the
+presence of His glory with exceeding joy.*
+
+**Amomous** again in Jude — the same sacrificial word — and it is His ability that is in view, not
+ours. Paul says the same thing of Christ and the church in Ephesians: *that He might **present it to
+Himself** a glorious church, not having spot or wrinkle.*
+
+The presenter and the cleanser are the same Person. Nobody is going to be handed over at the door to
+a standard He has not already met on their behalf.
+
 > **The three words.** Holy, without blemish, unaccusable — one sacrificial term and one legal
 > one, describing a presentation made in His sight rather than anybody else's.

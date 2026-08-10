@@ -102,5 +102,22 @@ The Lamb, opening the seals. See the note on Revelation 6:1–2.
 
 Everything in the chapter proceeds from a hand that had been pierced.
 
+## Who has the keys
+
+Two of the riders are given names, and the second one is a place: Death, and Hades following him.
+
+They are also the two things John was told about in the first chapter of the book, by a Man who had
+just laid a hand on him and said *do not be afraid*:
+
+*I am He who lives, and was dead, and behold, **I am alive forevermore**. Amen. And **I have the keys
+of Hades and of Death**.*
+
+He is holding their keys. Whatever authority these riders are given — and the text is careful to say
+it was **given**, and given over a fourth and no more — it is delegated, limited, and revocable by
+the One who broke the seal that let them out.
+
+That is the difference between this chapter and simple horror. Death rides, and the keys to the door
+he is riding toward are in the hand of the Lamb, who has already been through it and come back.
+
 > **The only rider with a name.** Death, with the Grave behind him — and the one thing the text
 > specifies about their authority is the fraction of it.

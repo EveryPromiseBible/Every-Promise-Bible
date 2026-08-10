@@ -123,5 +123,23 @@ And *all Scripture is given by inspiration of God*. See the note on
 
 The remedy offered against eighteen items is a book and the two women who taught it to him.
 
+## The power the form is denying
+
+The list ends on the sentence that explains it: *having **a form of godliness** but **denying its
+power***.
+
+**Morphosis** — an outline, the shape of a thing without the substance of it. And what the shape is
+missing is not sincerity or effort. Paul never calls the power an experience. He names it:
+
+*Christ **the power of God** and the wisdom of God.* *I am not ashamed of the gospel of Christ, for
+it is **the power of God to salvation** to everyone who believes.*
+
+So the last-days religion Paul describes is not irreligion. It is godliness with the Person taken
+out — a form that keeps the vocabulary and denies the only thing in it that ever changed anybody.
+
+Which is also why the antidote he gives Timothy two paragraphs later is not vigilance but
+Scripture: *the Holy Scriptures, which are able to make you wise for salvation through faith which
+is in Christ Jesus*.
+
 > **The frame.** Four compounds of *love* — self, money, pleasure, God — at the two ends of the
 > list. Everything between them is what those affections produce.

@@ -90,5 +90,17 @@ not given us a spirit of fear, but of power and of love and of a sound mind.*
 
 Which suggests the timidity was real and persistent.
 
+## What he was actually standing on
+
+Underneath the six qualities and the three duties there is something steadier, and Paul says it
+plainly in his last letter to the same man:
+
+*Who has saved us and called us with a holy calling, **not according to our works, but according to
+His own purpose and grace** which was given to us in Christ Jesus before time began.*
+
+Timothy's commission did not rest on his age, his temperament, his nerve or his record. It was
+handed to him out of a purpose that predates him — and a young man who knows that can afford to be
+under-estimated by a roomful of people, because the appointment was never theirs to make.
+
 > **What is offered against being written off.** Not seniority and not volume. A pattern
 > visible in six things — and three public duties: read it out, urge them, teach.

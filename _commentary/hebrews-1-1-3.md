@@ -60,6 +60,21 @@ finished, because the sacrifices never finished.
 This priest sat down. The letter comes back to it again and again, and it is the
 whole argument in one verb: the sitting proves the work is over.
 
+## What happened before He sat
+
+The order of the clauses is the gospel in one line: *when He had **by Himself purged our sins**, He
+sat down.*
+
+**Di heautou** — through Himself, alone. No assistant, no repetition, nothing brought by anyone
+else. And **katharismon poiesamenos** is an aorist participle: the cleansing was complete before the
+sitting began.
+
+That is why the sitting means what it means. A priest under the old arrangement never sat down in
+the sanctuary, because there was no chair in it — the furniture list runs to an altar, a table, a
+lampstand and a lid of mercy, and nowhere to rest, since the work was never finished.
+
+Jesus Christ sat because there was nothing left to do about your sins.
+
 > **Where He sat.** *At the right hand of Majesty, in the heights.* Not merely
 > resting — the position of authority beside the throne. Finished, and seated in
 > the place of rule.

@@ -87,6 +87,26 @@ redeemed us to God by Your blood** out of every tribe and tongue and people and 
 
 The worthiness is stated as a fact about the slaying.
 
+## Why John was weeping
+
+The scene begins with the apostle in tears, and it is worth remembering what caused them:
+
+*And **no one was found worthy** to open the scroll… so I wept much.*
+
+A search was made through heaven, earth and under the earth, and it came back empty. That is the
+moment before the taking — the whole created order examined, and nobody in it qualified.
+
+Then an elder tells him to stop crying because the Lion of Judah has prevailed, and John turns and
+sees ***a Lamb as though it had been slain***.
+
+The worthiness that could not be found anywhere is located in a death. And the song they sing the
+moment He takes the scroll says so outright: *You are worthy… **for You were slain**, and have
+redeemed us to God by Your blood.*
+
+Which is why the prayers in those golden bowls are safe. They are being held by Jesus Christ, the
+only Person in existence found worthy, and He was found worthy by being killed for the people who
+prayed them.
+
 > **What is in the bowls.** The prayers themselves — not a report of them, not a record.
 > John sees them in front of the throne, in gold, at the moment the scroll changes
 > hands.

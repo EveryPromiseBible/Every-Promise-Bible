@@ -368,16 +368,22 @@
      bulb emoji, so it reads as a bulb at any size without depending on a
      hand-drawn path -- and because an emoji is a colour glyph rather than a
      shape CSS can paint, the lit/unlit states are done with filters instead of
-     a fill. Grey and dimmed at rest, full colour with a warm glow once it is
-     opened: the bulb genuinely lights up. drop-shadow rather than box-shadow
-     so the glow follows the bulb's outline instead of a square box. */
+     a fill. Lit at rest and out once it is opened: a bulb that is already on
+     invites the tap, and going dark is the acknowledgement that the note is
+     now showing -- the light has moved off the marker and onto the page.
+     drop-shadow rather than box-shadow so the glow follows the bulb's outline
+     instead of a square box. */
   .cmt-bulb{display:inline-block;margin-left:5px;padding:0;border:none;
     background:none;font-size:0.9em;line-height:1;cursor:pointer;
-    vertical-align:-1px;filter:grayscale(1) opacity(0.55);
+    vertical-align:-1px;filter:drop-shadow(0 0 5px rgba(240,185,11,0.95))
+    drop-shadow(0 0 11px rgba(240,185,11,0.5));
     transition:filter 0.25s ease,transform 0.25s ease;}
-  .cmt-bulb:hover{filter:drop-shadow(0 0 4px rgba(240,185,11,0.85));transform:scale(1.12);}
-  .cmt-bulb.open{filter:drop-shadow(0 0 5px rgba(240,185,11,0.95))
-    drop-shadow(0 0 11px rgba(240,185,11,0.5));transform:scale(1.12);}
+  .cmt-bulb:hover{filter:drop-shadow(0 0 6px rgba(240,185,11,1))
+    drop-shadow(0 0 14px rgba(240,185,11,0.6));transform:scale(1.12);}
+  /* .open must follow :hover -- equal specificity, so source order decides
+     which wins while the pointer is over an opened bulb. */
+  .cmt-bulb.open{filter:grayscale(1) opacity(0.55);transform:scale(1.12);}
+  .cmt-bulb.open:hover{filter:grayscale(1) opacity(0.85);}
   @media (prefers-reduced-motion:reduce){
     .cmt-bulb{transition:none;}
     .cmt-bulb:hover,.cmt-bulb.open{transform:none;}}

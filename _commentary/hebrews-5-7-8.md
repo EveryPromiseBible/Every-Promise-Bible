@@ -117,5 +117,19 @@ The qualification for priesthood is having been in the position of the people yo
 The author breaks off into a rebuke about milk and solid food, and does not return to Melchizedek
 until chapter 7.
 
+## The priest this produced
+
+The writer is not telling the Gethsemane story for its own sake. He is establishing a
+qualification, and he says so two chapters earlier:
+
+*We do not have a High Priest who cannot **sympathise with our weaknesses**, but was in all points
+tempted as we are, yet without sin. **Let us therefore come boldly** to the throne of grace.*
+
+The strong crying and tears are the reason the invitation can be that confident. The One sitting at
+the throne has prayed in the dark with a body that did not want what was in front of it, and was
+answered on the far side of a grave rather than before it.
+
+Nothing you bring to Jesus Christ is going to be met with incomprehension. He has been in the room.
+
 > **The two facts.** *He was heard*, and He died. Hebrews puts both in one sentence and does not
 > explain the join.

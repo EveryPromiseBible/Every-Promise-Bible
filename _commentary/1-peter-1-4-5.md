@@ -44,6 +44,21 @@ garrisoned, protected as a city is protected.
 
 Both ends of the arrangement are held by someone other than the person inheriting.
 
+## Where the whole sentence started
+
+The inheritance and the keeping are not the opening of Peter's sentence. Two clauses earlier he says
+what set it all in motion:
+
+*Blessed be the God and Father of our Lord Jesus Christ, who **according to His abundant mercy has
+begotten us again to a living hope through the resurrection of Jesus Christ from the dead**.*
+
+**Kata to poly autou eleos** — according to His great mercy. That is the stated cause, and it is not
+anything in the readers.
+
+And the hope is called *living* for a specific reason: it rests on a Man who is alive. An inheritance
+kept in heaven would be a fine idea if the one holding it were dead. Peter's whole structure — the
+fortune kept for you, and you kept for it — stands on an empty tomb.
+
 > **Who he was writing to.** Scattered believers about to face real persecution —
 > the letter goes on at length about suffering. This is what he opens with:
 > everything you were born into is out of reach of anything that is about to

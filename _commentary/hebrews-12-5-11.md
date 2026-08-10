@@ -61,6 +61,21 @@ What it says is narrower and kinder: God is bringing you up as a son, and a son
 is not left to raise himself. That is a claim about your standing with Him, made
 to people who were losing their nerve, and it is meant to steady them.
 
+## Where the punishment went
+
+The reason **paideia** here cannot mean punishment is that the punishment is already accounted for,
+and the prophet uses the very same word to say so.
+
+*He was wounded for our transgressions, He was bruised for our iniquities; **the chastisement for
+our peace was upon Him**, and by His stripes we are healed.*
+
+The Hebrew there is **musar** — training, correction, discipline — the exact term the Greek renders
+**paideia**. Isaiah says it landed on Him, and the result named is *our peace*.
+
+So what remains for a son is the other sense of the word: upbringing, formation, the schooling of a
+child in a family he already belongs to. Nothing punitive is left to distribute. That account was
+settled at a cross, and *there is therefore now no condemnation to those who are in Christ Jesus*.
+
 > **On "He lays the lash on every son."** The line quotes Proverbs, and it is
 > the hardest sentence here. In its own context the image is a father's
 > correction, not a judge's sentence — and the writer's use of it lands on the

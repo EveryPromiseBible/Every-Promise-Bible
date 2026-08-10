@@ -74,5 +74,17 @@ liberally and without reproach.*
 James says *lacking nothing*, and the very next sentence tells them what to do if they
 lack something.
 
+## What the test is not deciding
+
+The testing here proves faith; it does not produce it, and it never adjudicates whether you are
+accepted. Peter uses the same picture and says what the fire is for:
+
+*That the genuineness of your faith, being much more precious than gold that perishes, though it is
+tested by fire, may be found to **praise, honour and glory at the revelation of Jesus Christ**.*
+
+Gold is not made in the furnace. It is shown. And the outcome Peter names at the end of the process
+is praise for the believer, not a verdict about him — because the verdict was settled long before
+the trial started, by Jesus Christ and not by how well anybody bore up.
+
 > **What the verse does.** It answers the obvious objection to verse 2. James does not
 > ask for joy and leave it there — he says *you know why* and then says why.

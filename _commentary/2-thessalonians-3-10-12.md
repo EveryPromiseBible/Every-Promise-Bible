@@ -36,6 +36,20 @@ weary in doing good.
 
 Both instructions in the same breath: work quietly, and keep being generous.
 
+## The one work God asks for
+
+Underneath the practical instruction there is a distinction Paul never blurs. A man works to eat.
+Nobody works to be accepted.
+
+*Do not labour for the food which perishes, but for the food which endures to everlasting life,
+which the Son of Man will give you.* And when they asked Jesus what work God wanted done, the answer
+had one item on it: *this is the work of God, **that you believe in Him whom He sent**.*
+
+So the quiet, unremarkable working day of a Thessalonian believer is not how he keeps his standing.
+It is what a person does with his hands while resting in Christ for everything that matters — which
+is exactly why Paul can be relaxed about it, and why he pairs the instruction with *do not grow
+weary in doing good* rather than with a warning.
+
 > **How Paul argues it.** He appeals to his own habits first — he paid his way
 > in Thessalonica rather than take support, though he says outright he had the
 > right to. He is asking of them something he had already done in front of them.

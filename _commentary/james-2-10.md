@@ -88,6 +88,24 @@ The old illustration is a chain over a pit: it does not matter which link goes.
 
 James's own argument is not about links. It is about one voice.
 
+## What that sentence does to the law as a way to stand
+
+Trip over one point and you are guilty of all — and if that is true, the law has just been closed as
+a route to acceptance for every person who has ever lived. James is not softening it, and neither
+does Paul:
+
+*For as many as are of the works of the law are under the curse; for it is written, "**Cursed is
+everyone who does not continue in all things** which are written in the book of the law, to do
+them."*
+
+Same arithmetic, and the word *all* is doing the same work in both. Then Paul says what happened
+next:
+
+***Christ has redeemed us from the curse of the law***, having become a curse for us.
+
+James's sentence is a locked door. It is meant to be. And the gospel is not a way of arguing the
+lock open — it is the news that Someone came out through it carrying the curse Himself.
+
 > **How light the offence is in the sentence.** A stumble, at one point, by somebody
 > keeping the rest. James chooses the smallest possible failure and attaches the largest
 > possible liability to it.

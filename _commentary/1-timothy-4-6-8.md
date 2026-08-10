@@ -107,6 +107,23 @@ may be evident to all**.*
 Paul uses that formula five times across the pastoral letters, and it appears to mark
 something the churches already said.
 
+## Who does the training
+
+Paul says *train yourself*, and it would be easy to hear that as the one place in his letters where
+the work comes back to us. It is not, and he names the trainer elsewhere:
+
+*For **the grace of God that brings salvation has appeared** to all men, **teaching us** that,
+denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present
+age.*
+
+The verb there is **paideuousa** — the word for the training of a child, the same family as the
+gymnasium. **Grace is the instructor.** Not the syllabus, not the reward at the end — the one
+standing in the gymnasium doing the coaching.
+
+Which is why the godliness Paul is aiming at is not a set of behaviours at all but a Person shown in
+a human body. You train toward Christ, under the tuition of grace, and the strength for it is His:
+*it is God who works in you both to will and to do for His good pleasure.*
+
 > **What Paul grants and what he measures.** Bodily training is useful — for a little. The
 > comparison is not against exercise; it is a proportion, with a promise attached to one
 > side covering two lives.

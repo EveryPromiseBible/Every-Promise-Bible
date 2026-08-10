@@ -106,6 +106,23 @@ The first of the seven promises, and it reaches back to Genesis 3.
 
 The letter to Ephesus is a rebuke, and the description at the top of it is a hand keeping hold.
 
+## What a priest did with lamps
+
+The picture of Someone walking among the lampstands is drawn from a job description. In the
+tabernacle the lamps were not left to themselves:
+
+*And Aaron shall tend the lamps… **he shall tend the lamps continually before the LORD**.*
+
+Morning and evening a priest went in, trimmed the wicks, topped up the oil and cleared away what had
+burned. The light did not maintain itself, and nobody expected it to.
+
+That is what the risen Christ is doing in the middle of these seven churches. He is not inspecting
+them from a distance; He is inside, among them, doing a priest's daily work on lamps that need it.
+
+Which is why the letters can be as searching as they are without being a threat. The One walking
+about with the trimming knife is the same One who is described three verses earlier as having *loved
+us and washed us from our sins in His own blood*.
+
 > **What He is doing before He says anything.** Walking about among them, with the messengers
 > gripped in His right hand — and that is the description attached to the letter with the
 > hardest warning in it.

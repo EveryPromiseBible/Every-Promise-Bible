@@ -80,6 +80,21 @@ He had been sifted, and had been told in advance that he would be, and had been 
 
 This letter is that assignment being carried out.
 
+## Who does the establishing
+
+Read straight on past the resisting and see who is doing the work in the sentence that follows:
+
+*But **the God of all grace**, who called us to His eternal glory by Christ Jesus, after you have
+suffered a while, **He Himself will perfect, establish, strengthen, and settle you**.*
+
+Four verbs, one subject, and the subject is not the believer. Peter piles them up — mend, found,
+strengthen, ground — and puts God's own emphatic pronoun in front of them.
+
+So the standing that is asked for in verse nine is supplied in verse ten. A Christian resisting the
+devil is not holding a position with his own strength; he is standing on ground that the God of all
+grace laid, and being personally settled onto it by the One who called him there through Jesus
+Christ.
+
 > **What is offered against the lion.** Solid ground, and the knowledge that the same
 > thing is happening to everybody else. Peter thought the second one was worth putting
 > in the same sentence as the first.

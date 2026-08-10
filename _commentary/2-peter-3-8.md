@@ -75,6 +75,22 @@ promise, look for new heavens and a new earth in which righteousness dwells**.*
 And his conclusion is practical: *what manner of persons ought you to be in holy
 conduct… looking for and hastening the coming of the day of God.*
 
+## He has kept an appointment before
+
+Peter's argument is that God does not measure time as we do. The other half of the argument, which
+the rest of the New Testament supplies, is that He has already proved He is never late:
+
+*But when **the fullness of the time** had come, God sent forth His Son, born of a woman, born under
+the law, to redeem those who were under the law.*
+
+*For when we were still without strength, **in due time** Christ died for the ungodly.*
+
+Four thousand years of waiting, prophets dying without seeing it, a nation asking how long — and
+then a birth in the exact generation, in the named town, in the reign that produced the census that
+put the family there.
+
+A God with that record is not being slow with the second appointment either.
+
 > **What the verse is not for.** Peter is not offering a formula for dating anything —
 > he opens the chapter saying the day comes like a thief, unannounced. The verse
 > removes a calculation rather than supplying one.

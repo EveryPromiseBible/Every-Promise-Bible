@@ -82,5 +82,19 @@ line never had. See the note on Hebrews 7:20–22.
 
 Two oaths in the letter, one about a family and one about a priest.
 
+## The moment He chose to swear
+
+Look at when the oath was sworn. Genesis 22, on a mountain, immediately after a father walked up it
+with his son and did not withhold him: *by Myself I have sworn… because you have done this thing,
+and have not withheld your son, your only son.*
+
+God picked the scene of a father not sparing a son as the occasion to bind Himself by an oath. Paul
+is standing on the same picture when he writes *He who **did not spare His own Son**, but delivered
+Him up for us all, how shall He not with Him also freely give us all things?*
+
+And the writer says what the oath was for: *that **we** might have strong consolation*. God did not
+need the oath. It was sworn so that people prone to doubt would have two immovable things to hold —
+His promise and His word about His promise — with Jesus already through the veil as the guarantee.
+
 > **What is unusual about it.** God does not need to swear. The writer's point is that
 > He did it anyway, and the reason given is not doubt on His side.

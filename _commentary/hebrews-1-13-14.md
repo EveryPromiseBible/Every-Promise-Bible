@@ -103,5 +103,19 @@ The first of the letter's five warnings, and it follows immediately from the sea
 
 He had not been able to see them until the prophet prayed *LORD, I pray, open his eyes*.
 
+## Why the comparison mattered to these readers
+
+The chapter is not an abstract ranking of heavenly beings. The people it was written to were being
+pulled back toward a religion that arrived by angelic hand — *the word spoken through angels*, as
+the next chapter puts it, and the law which Stephen said Israel *received by the direction of
+angels*.
+
+So the argument is: you are being asked to leave a Son for the servants who delivered the parcel.
+
+And the letter's answer is the seating. One is at the right hand until His enemies become a
+footstool; the others are on their feet, running errands — and the errands are being run *for you*,
+by the express command of the same God who gave you the Son. Angels are staff in a house where
+Jesus is the heir and you are the family.
+
 > **The posture.** One sits; the others are sent — and the errands are run *for the sake of* people
 > who have not received the inheritance yet.

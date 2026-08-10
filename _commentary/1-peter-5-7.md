@@ -103,5 +103,21 @@ And the result: *the peace of God, which surpasses all understanding, will guard
 
 **Phrourēsei** — a military word. Will garrison them.
 
+## The Shepherd in this chapter
+
+The care in this verse is not an abstract benevolence. Peter names its shape twice in the same
+chapter — *the **Chief Shepherd**, when He appears* — and he had already named it earlier in the
+letter:
+
+*For you were like sheep going astray, but have now **returned to the Shepherd and Overseer of your
+souls**.*
+
+The man writing is the one who was asked three times *do you love Me?* on a beach, and told three
+times *feed My sheep*. He knows exactly whose flock it is and what the Owner is like with them.
+
+So *He cares for you* is not a sentiment. It is a job description held by Jesus Christ, who *lays down
+His life for the sheep* — and worry is being handed to the only Person in the arrangement who was never
+going to be surprised by anything in it.
+
 > **The grammar.** It is a participle, not a command of its own. Throwing the weight across is how
 > Peter says the humbling is done.

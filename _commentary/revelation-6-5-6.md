@@ -97,5 +97,22 @@ descendants begging bread.*
 And the manna, which came six days a week for forty years, and never priced. See the note on
 Exodus 16:22–26.
 
+## Who set the limit
+
+The rider is given scales and a scarcity, and then a voice interrupts to fence it: *do not harm the
+oil and the wine.*
+
+Two things worth noticing about that voice. It comes *from among the four living creatures* — that
+is, from the immediate surround of the throne. And it arrives as a restriction, in the middle of a
+judgement, limiting what the rider may touch.
+
+Nothing in this sequence is loose. Every seal in the chapter is opened by the same hand — *the Lamb
+opened one of the seals* — so the famine does not begin until He breaks the wax, and it does not
+extend past where He draws the line.
+
+And of all the commodities that could have been protected, the two named are the pair a Samaritan
+poured into a stranger's wounds by the side of a road: *he went to him and bandaged his wounds,
+pouring on **oil and wine**.* Even here, the things that heal are put out of reach of the rider.
+
 > **The clause in the middle.** *Do not harm the oil and the wine.* The rider is given scales
 > and a mandate, and then told what he may not touch.

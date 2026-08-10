@@ -112,5 +112,23 @@ The Greek is **to nikonti** — to the conquering one.
 
 The same phrase closes all seven letters, and every promise attached to it is different.
 
+## The manna that was hidden, and where it is now
+
+*Hidden* manna is an exact reference. When the wilderness supply was given, one portion of it was
+put out of reach:
+
+*Take a pot and put an omer of manna in it, and **lay it up before the LORD**… so Aaron laid it up
+before the Testimony, to be kept.*
+
+It went inside the ark, behind the veil, in the room nobody entered but the high priest once a year.
+Bread that was kept and could not be eaten by anybody.
+
+Then Jesus stood in a synagogue in Capernaum and said: *I am the bread of life. Your fathers ate the
+manna in the wilderness, and are dead… **I am the living bread which came down from heaven**. If
+anyone eats of this bread, he will live forever.*
+
+The bread that was sealed away where no ordinary person could reach it is the thing being promised
+here to whoever overcomes — and it is a Person, handed out rather than kept behind a curtain.
+
 > **The last clause.** A name nobody knows except the person who receives it — one private thing in
 > a book where everything else is on display.

@@ -84,4 +84,6 @@ it. That is the pattern he wants his readers to see.
 > verses are the warmest doxology in Scripture: *now to Him who is able to keep you
 > from stumbling, and to present you faultless before the presence of His glory with
 > exceeding joy.* Kept, and presented faultless. Jude spends a page on people who
-> did not stay, and closes on the One who keeps.
+> did not stay, and closes on the One who keeps — *to God our Saviour, who alone is wise, be
+> glory and majesty, dominion and power, both now and forever*, and Jude gets there **through
+> Jesus Christ our Lord**.

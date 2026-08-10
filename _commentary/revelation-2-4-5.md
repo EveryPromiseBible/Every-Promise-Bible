@@ -51,6 +51,25 @@ The lampstand is the church itself, as chapter 1 explains. Not a threat to
 individuals' salvation — a warning that a congregation which keeps everything
 except the love stops being a light in that place.
 
+## What "remember" is doing there
+
+The first word of the remedy is not *try*. It is ***remember** therefore from where you have
+fallen*.
+
+**Mnemoneue** — a present imperative: keep remembering. He sends them backwards before He sends them
+anywhere else, because first love is not a thing that can be worked up. It only ever appeared as a
+reaction, and it reappears the same way.
+
+*We love Him **because He first loved us**.*
+
+That is the mechanism, and it has no other setting. A church trying to manufacture affection for
+Jesus Christ by resolution is attempting the one thing the New Testament never asks for. What is
+asked for is that they go back and look again at what was done for them, and the works follow the
+way they did the first time.
+
+And notice what is at stake in the warning: the lampstand, not the salvation. A church that loses
+love does not stop belonging to Him. It stops giving light.
+
 > **What is being asked for.** The whole letter is written by the One who chapter
 > 1 describes as walking among the lampstands. He is not asking for more output
 > from a church that is already working hard. He is asking to be loved by it.

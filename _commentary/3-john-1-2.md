@@ -82,6 +82,23 @@ is the sentence he opens with.
 
 He calls it what he wishes *above all things*.
 
+## Where a prospering soul comes from
+
+John states the soul's condition as a fact and never explains it as an achievement. The letter says
+where it came from two sentences later: Gaius was *walking in the truth*, and the truth in John's
+writing is never a set of positions. It is a Person — *I am the way, the truth and the life* — and
+in his gospel John says what arrived with Him: *grace and truth came through Jesus Christ*.
+
+So the benchmark in this prayer is a soul that has received something, not one that has built
+something. Which is also why the prayer runs in the direction it does. John does not ask that Gaius
+prosper so that his soul may catch up; he asks that the outward life come up level with what grace
+has already done inside.
+
+And the pattern for it is stated plainly elsewhere: *you know the grace of our Lord Jesus Christ,
+that though He was rich, yet for your sakes He became poor, **that you through His poverty might
+become rich**.* Every kind of well-being a believer has, in the soul first and everywhere else
+afterwards, was paid for in that exchange.
+
 > **What kind of sentence it is.** It sits where a first-century letter always put
 > a wish for the reader's health — the standard opening courtesy of the era. John
 > takes that ordinary form and fills it with something else: a prayer that the

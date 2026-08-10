@@ -39,6 +39,24 @@ the second sense is the one carrying the sentence.
 Nobody made Rahab righteous by hiding spies. What she did made visible where she
 already stood.
 
+## What the two of them had in common
+
+Look at the pair James chose. Abraham is the father of the nation, the friend of God, a man with a
+covenant and a promise. Rahab is a Canaanite prostitute in a condemned city, with no covenant, no
+history and no standing of any kind.
+
+James applies the same verb to both of them.
+
+That is not an accident of examples. It is the range of the human scale, and the point is that the
+same faith works at both ends of it, because neither end has anything to bring.
+
+*For **there is no difference**; for all have sinned and fall short of the glory of God, being
+justified freely by His grace through the redemption that is in Christ Jesus.*
+
+And Rahab's sign was a scarlet cord in a window — a household spared because something red was
+hanging where the destroyer could see it. The same arrangement as a doorpost in Egypt, and it points
+at the same blood.
+
 > **See also.** The note on James 2:17 works through why this is not a
 > contradiction of Paul, and the note on Hebrews 11:30–31 shows the same episode
 > being used as an example of *faith* by a different writer. Two arguments, one

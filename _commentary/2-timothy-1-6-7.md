@@ -56,6 +56,21 @@ words for *safe* and *mind*: a mind that is intact.
 Paul lists it as something given, alongside power and love — not as a
 disposition Timothy has to manufacture under pressure.
 
+## Where the courage came from
+
+The three things named — power, love, a sound mind — are not qualities Paul is asking Timothy to
+manufacture. **Deilia**, the cowardice he denies God ever handed out, is dealt with in this letter
+by pointing away from Timothy entirely:
+
+*Who has saved us and called us with a holy calling, **not according to our works, but according to
+His own purpose and grace** which was given to us in Christ Jesus before time began.*
+
+That sentence stands three verses later, and it is the answer to the fear. A commission that was
+settled before time began does not become insecure because the man holding it is timid — and a man
+who knows it can afford to fan a flame in a cell where the outcome is not going his way.
+
+*There is no fear in love; but perfect love casts out fear.*
+
 > **What Paul asks for at the end of the letter.** His cloak, the books, and
 > especially the parchments. A man writing about power, love and a sound mind
 > from a cell, and asking for a coat because winter is coming.

@@ -89,5 +89,21 @@ world, and it is certain we can carry nothing out.*
 
 He uses the profit word — **porismos**, gain — and applies it to contentment.
 
+## What makes contentment possible
+
+Paul offers contentment as the alternative and calls it great gain, but he does not leave it as a
+temperament some people happen to have. The letter to the Hebrews gives the ground:
+
+*Let your conduct be without covetousness; **be content with such things as you have. For He Himself
+has said, "I will never leave you nor forsake you."***
+
+The reason for contentment is a sentence spoken by a Person, not a sum in an account. And the same
+logic runs through Paul's own argument: *He who did not spare His own Son, but delivered Him up for
+us all, how shall He not with Him also freely give us all things?*
+
+A man who has been given the Son is not owed anything else, and has nothing left to be anxious
+about. That is why the determination to get rich is a trap rather than a sin — it is reaching for
+security that Jesus Christ has already handed over.
+
 > **The clause people drop.** *The love of.* Two words, and without them the sentence
 > says something Paul does not say anywhere in his letters.

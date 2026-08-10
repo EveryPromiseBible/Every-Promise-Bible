@@ -87,6 +87,20 @@ Genesis 22.
 One dead body at the start of the sentence and an uncountable multitude at the end
 of it.
 
+## The day Abraham saw
+
+The writer says Abraham was *waiting for the city which has foundations, whose builder and maker is
+God* — a man in a tent, holding out for architecture.
+
+But he was not only waiting for a place. Jesus told the men arguing with Him in the temple what else
+the old man had been given: *your father Abraham **rejoiced to see My day**, and he saw it and was
+glad.*
+
+That is what a tent-dweller with no title deeds was living on. Not a vague confidence that things
+would work out — a sight of a day, and Someone in it. And the promise he was trusting was, in Paul's
+reading, a Person all along: *He does not say "and to seeds," as of many, but as of one — "and to
+your Seed," **who is Christ***.
+
 > **What the chapter says a few verses later.** *These all died in faith, **not
 > having received the promises**, but having seen them afar off, and were assured of
 > them, and embraced them.* Every one of them died still waiting, and the chapter

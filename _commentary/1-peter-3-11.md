@@ -105,5 +105,20 @@ Romans 12:17–21.
 
 Two qualifications in one clause: *if possible*, and *as much as depends on you*.
 
+## The peace that was made before it was pursued
+
+The instruction is to seek peace and chase it — and the New Testament is careful to say that the
+peace being pursued is not being manufactured from scratch.
+
+*For **He Himself is our peace**, who has made both one, and has broken down the middle wall of
+separation… **having made peace through the blood of His cross**.*
+
+Peace is spoken of there as a completed act and as a Person. Which changes the nature of the chase:
+you are not trying to produce a commodity that does not exist. You are extending something Jesus
+Christ has already made, into rooms where it has not yet been noticed.
+
+That is also why Peter can ask it of people being treated unjustly. Nobody in that position could
+generate peace. Anyone in that position can pass on what they have been given.
+
 > **The two verbs.** Seek, and then pursue. Peter keeps the escalation from the psalm — peace is
 > something you have to chase, which assumes it is moving.

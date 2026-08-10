@@ -82,6 +82,19 @@ And the writer says it directly in chapter 4: *we do not have a High Priest who 
 sympathise with our weaknesses, but was in all points tempted as we are, yet without
 sin.* See the note on Hebrews 4:14–16.
 
+## What "obey" means in this letter
+
+*The author of eternal salvation to all who **obey** Him* is a phrase that has frightened people
+unnecessarily, and the letter itself defines the word two chapters earlier.
+
+Asking who was shut out of the land, the writer says *those who **did not obey***, and then in the
+very next sentence restates it: *so we see that they could not enter in **because of unbelief***. The
+same people, the same failure, and he swaps the two words as equivalents.
+
+The disobedience Hebrews is worried about is refusing to believe a promise. So the obedience that
+receives eternal salvation is the obedience Paul calls *the obedience of faith* — trusting the
+finished work of Jesus Christ rather than adding to it.
+
 > **What was completed.** Not His character. The Greek is the word for a priest being
 > consecrated — and the writer says the consecrating ran through prayers, cries and tears
 > before the naming.

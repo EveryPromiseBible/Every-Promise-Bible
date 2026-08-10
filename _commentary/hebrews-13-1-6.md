@@ -44,6 +44,23 @@ He gives the promise and then supplies the answer, quoting Psalm 118. The
 believer's confidence is not manufactured; it is a line handed to them to say
 back.
 
+## Who is speaking the promise
+
+*For **He Himself has said**, "I will never leave you nor forsake you."*
+
+**Autos gar eireken** — *He Himself* has spoken, in the perfect tense: said it, and it stands said.
+
+The sentence is lifted from Deuteronomy, where it was spoken to Joshua as he took over an army, and
+from Chronicles, where David says it to Solomon about building a house. Both were said to men with
+enormous jobs in front of them. The writer hands it to ordinary believers worrying about money.
+
+The Greek stacks the negatives — five of them across the two clauses — so that it reads closer to
+*I will never, never let go; I will never, never, never abandon you.*
+
+And the One saying it is the same Jesus Christ the next verses call *the same yesterday, today, and
+forever*. That is why the promise can carry weight: it is not a principle about how life tends to
+go. It is a Person's word, and He does not change.
+
 > **The company it keeps.** The list before it is entirely practical: love each
 > other, take in strangers, remember prisoners as though chained with them,
 > honour marriage. Then contentment, then the promise. Whatever else this chapter

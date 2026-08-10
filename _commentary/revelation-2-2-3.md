@@ -93,6 +93,23 @@ Praise, one thing, instruction, warning, praise again, promise.
 
 The complaint occupies one verse out of seven.
 
+## The letter this church already had
+
+Ephesus is the one church in the seven whose earlier post has survived. Paul had written to these
+same believers, and what he sent them is the most concentrated statement of grace in the New
+Testament.
+
+*But God, who is rich in mercy, because of His great love with which He loved us, even when we were
+dead in trespasses, made us alive together with Christ (**by grace you have been saved**) — and
+raised us up together, and made us sit together in the heavenly places in Christ Jesus.*
+
+That is what the first love in this letter was a response to. Nobody in Ephesus generated it; they
+had been told they were dead, then seated, and the love was the reaction.
+
+Which makes the loss of it a memory problem rather than an effort problem. A church that stops
+hearing *by grace you have been saved* will still work, still endure, still test false apostles —
+and will do all of it out of duty, because the thing that produced the affection has gone quiet.
+
 > **What the commendation contains.** Work, endurance, doctrinal vigilance, and stamina —
 > all confirmed by the speaker. And the one thing named against them is not on that axis
 > at all.

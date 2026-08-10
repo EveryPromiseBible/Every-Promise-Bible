@@ -86,6 +86,20 @@ anchor behind the veil.
 
 The chapter with the sharpest edge in it ends with the strongest guarantee in the letter.
 
+## The anchor at the end of the argument
+
+Follow the paragraph a few verses further and you find what the writer's confidence is finally
+tied to. He speaks of *strong consolation* for people who *have fled for refuge*, and then:
+
+*This hope we have as **an anchor of the soul, both sure and steadfast**, and which enters the
+Presence behind the veil, where **the forerunner has entered for us, even Jesus**.*
+
+An anchor normally goes down into a seabed you cannot see. This one goes up, through the veil, into
+the holiest place — and it is fastened to a Person who is already standing there on our behalf.
+
+The chapter that contains the sternest warning in the letter ends by naming what holds, and it is
+not the readers.
+
 > **What the writer bases his confidence on.** Not their record — he has just called
 > them dull of hearing. God's justice, and the fact that there is something already done
 > that it would be unjust to forget.

@@ -99,5 +99,19 @@ And then, immediately: *but, beloved, **we are confident of better things concer
 
 The writer sets the warning down and picks the readers up in the next sentence.
 
+## Where the list of names ends up
+
+The writer tells them to copy people who inherited by *faith and patience*, and five chapters later
+he supplies the list — the whole roll of Hebrews 11, ending with the crowd in the stands.
+
+And then he tells them where to look, and it is not at the crowd:
+
+*Let us run with endurance the race that is set before us, **looking unto Jesus, the author and
+finisher of our faith***.
+
+**Archegon kai teleioten** — the one who starts it and the one who completes it. The examples are
+given to encourage, not to be stared at. Even the faith you are being asked to imitate turns out to
+have been begun by Him and to be finished by Him.
+
 > **The remedy.** Not *try harder* — *copy the people who held on*. The letter answers sluggishness
 > by pointing at a list of names.
