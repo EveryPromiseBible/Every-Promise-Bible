@@ -3,7 +3,7 @@ key: Exodus 36:1–3
 title: Morning after morning
 sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The workers are named, the materials are handed over, and the deliveries keep coming.
@@ -106,6 +106,35 @@ A tent to be carried through a desert, put up and taken down at every stage.
 
 *Then the cloud covered the tabernacle of meeting, and the glory of the LORD filled the
 tabernacle.*
+
+## The only time it had to be stopped
+
+*"**No man or woman is to make anything more** as an offering for the sanctuary."*
+
+Nowhere else in Scripture does anybody have to be told to stop giving.
+
+It happens among people who had owned nothing three months earlier, who had been handed
+everything they were now giving away, and who had already melted a portion of it into a calf at
+the foot of the same mountain.
+
+*Now may **He who supplies seed to the sower**, and bread for food, supply and multiply the seed
+you have sown.*
+
+Giving that has to be restrained is giving out of something received first. There is no other
+kind in the book.
+
+## What the tent was for
+
+*Then the cloud covered the tabernacle of meeting, and **the glory of the LORD filled the
+tabernacle**.*
+
+The last two verses of Exodus. Ex-slaves put up a tent in a desert out of Egyptian jewellery,
+and God moved in.
+
+*In whom the whole building, being fitted together, grows into **a holy temple in the Lord**, in
+whom you also are being built together for **a dwelling place of God in the Spirit**.*
+
+Paul says the same thing about people, and uses the same word for the point of it.
 
 > **The doubled word.** **Babboqer babboqer** — morning after morning. The work had started and
 > the materials were in hand, and people kept turning up with more before the day began.

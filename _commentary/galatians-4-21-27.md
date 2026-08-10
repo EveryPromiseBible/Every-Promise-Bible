@@ -99,6 +99,43 @@ not wait.
 *Now we, brothers, are **children of promise, just as Isaac was**.* See the note on
 Galatians 4:28–31.
 
+## Which son the readers are
+
+*Now we, brethren, as Isaac was, **are children of promise**.*
+
+Verse 28, immediately after the allegory, and it is the point of the whole thing. The two women are
+two covenants, and **Paul** tells the Galatians which line they are in before they can wonder.
+
+*So then, brethren, **we are not children of the bondwoman but of the free**.*
+
+## What the free woman's city is
+
+*But **the Jerusalem above is free, which is the mother of us all**.*
+
+*But **you have come to Mount Zion** and to the city of the living God, the heavenly Jerusalem… and to
+**Jesus the Mediator of the new covenant**.*
+
+**Hebrews** 12 says the arrival is past tense.
+
+## What the whole letter is defending
+
+*Stand fast therefore in **the liberty by which Christ has made us free**, and do not be entangled
+again with a yoke of bondage.*
+
+The next verse after the allegory closes. **Paul** is not arguing about Hagar; he is arguing about
+circumcision being added to the gospel, and he calls the addition slavery.
+
+*Christ has redeemed us from the curse of the law, **having become a curse for us**… that the blessing
+of Abraham might come upon the Gentiles in **Christ Jesus**.*
+
+## Which chapter of Isaiah he quotes
+
+*"**Rejoice, O barren, you who do not bear!**… for the desolate has many more children than she who
+has a husband."*
+
+Isaiah 54:1 — the chapter immediately after the suffering Servant. **Paul** reaches for the verse that
+follows the crucifixion chapter to describe the church.
+
 > **What Paul does with the story.** Reads it as two ways of getting a son — one a couple
 > can arrange and one only a promise produces — and puts the current temple city in the
 > first column.

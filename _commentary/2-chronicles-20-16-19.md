@@ -7,7 +7,7 @@ sources:
   - 2020-07-26 the-power-of-positive-expectations
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2026-01-11 the-year-of-much-more
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Three armies are coming and Judah is told the battle is not theirs.
@@ -72,6 +72,46 @@ When they began. The timing is in the sentence.
 
 By the time Judah reached the lookout point there was nothing standing. It took
 them three days to carry away what was left.
+
+## What they do first
+
+*And Jehoshaphat **bowed his head with his face to the ground**, and all Judah and the
+inhabitants of Jerusalem bowed before the LORD, worshiping the LORD.*
+
+Then the Levites *stood up to praise the LORD God of Israel **with voices loud and high***.
+
+The enemy is still coming. Nothing has changed on the ground, and the response to being told
+they will not have to fight is to lie down and then get up shouting.
+
+## What they are told they will do
+
+*"**You will not need to fight in this battle. Position yourselves, stand still, and see the
+salvation of the LORD.**"*
+
+And then, in the same paragraph: *"**tomorrow go out against them**."*
+
+Both. Stand still, and go out. The stillness is about who does the fighting, not about whether
+they move.
+
+*For **we are His workmanship, created in Christ Jesus for good works**, which God prepared
+beforehand that we should walk in them.*
+
+**Paul** puts the two in the same order — the work is prepared, and then walked in.
+
+## Where they are sent
+
+*"**By the Ascent of Ziz**, and you will find them at the end of the brook before the
+Wilderness of Jeruel."*
+
+A route, a landmark and a location. They are given the map to a battle they are told they will
+not fight.
+
+## What the posture is
+
+Face on the ground first, then voices loud and high, then out of the gate in the morning.
+
+*I beseech you therefore, brethren, by the mercies of God, that you **present your bodies a
+living sacrifice**… which is your reasonable service.*
 
 > **What the valley was renamed.** *Beracah* — blessing. They assembled there on
 > the fourth day to bless the LORD, and the name stuck. A place named for what

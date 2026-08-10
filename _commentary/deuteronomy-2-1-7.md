@@ -3,7 +3,7 @@ key: Deuteronomy 2:1–7
 title: "You have gone around this mountain long enough"
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Moses recounts the years nobody talks about, and the summary at the end of it is
@@ -91,6 +91,26 @@ the two accounts do not resemble each other.
 
 On the plains of Moab, in the eleventh month of the fortieth year, weeks from his own
 death, addressing a generation who were children when it started.
+
+## The verdict on years that were forfeited
+
+*"The LORD your God has **blessed you in everything your hands have done**… These forty years
+the LORD your God has been with you, and **you have lacked nothing**."*
+
+Read what that is being said about. Forty years of walking in circles, which happened because
+the nation refused to go in. It is the consequence of unbelief, and Moses' summary of it is
+*blessed in everything* and *you lacked nothing*.
+
+Paul: *where sin abounded, **grace abounded much more**.*
+
+## What ended it
+
+*"You have gone around this mountain long enough. **Now turn north**."*
+
+Not a rebuke, and no conditions attached. A sentence, and the direction changes.
+
+*Come to Me, all you who labor and are heavy laden, and I will give you rest*, Jesus said —
+and the offer has no conditions in it either.
 
 > **The verdict on the wasted years.** Blessed in everything, watched over, and lacking
 > nothing. Moses says it about the period the nation spent going in circles.

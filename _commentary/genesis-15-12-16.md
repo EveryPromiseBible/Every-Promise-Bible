@@ -4,7 +4,7 @@ title: "Afterward they will come out with great wealth"
 sources:
   - 2019-04-14 positioned-for-his-provision
   - 2022-12-13 prosperity-with-a-purpose
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Abram is asleep, and God tells him four hundred years of his family's history
@@ -72,6 +72,24 @@ of the Amorites is not yet complete**."*
 
 The reason for the delay is not about Israel at all. Another people is being given
 four centuries.
+
+## The number, and what Paul does with it
+
+Four hundred years of slavery, foretold to a sleeping man before Isaac was born — and the exodus
+generation counted it at **four hundred and thirty**.
+
+Paul reaches for that figure to settle the largest question in his letters:
+
+*And this I say, that **the law, which was four hundred and thirty years later, cannot annul the
+covenant that was confirmed before by God in Christ**, that it should make the promise of no
+effect. For if the inheritance is of the law, it is no longer of promise; **but God gave it to
+Abraham by promise**.*
+
+The covenant in this chapter came first, and the law came four centuries afterwards — and Paul's
+whole point is that arriving later does not give it the power to cancel what was already signed.
+
+Which matters especially here, because of who signed it. Abram was unconscious. See the note on
+Genesis 15:9–11.
 
 > **Who walked between the pieces.** In that culture both parties to a covenant
 > passed between the divided animals, invoking the same fate on themselves if they

@@ -3,7 +3,7 @@ key: 1 Samuel 16:6–7
 title: "The LORD looks at the heart"
 sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The prophet gets it wrong on the first candidate, and is corrected in his own head.
@@ -81,6 +81,34 @@ him: *why did you come down here? And with whom have you left those few sheep in
 wilderness? **I know your pride and the insolence of your heart**.*
 
 The chapter's own theme, in the mouth of the man it was first applied to.
+
+## What God does not look at
+
+*"**The LORD does not see as man sees; for man looks at the outward appearance, but the LORD
+looks at the heart.**"*
+
+Samuel had taken one look at Eliab — tall, eldest, the obvious one — and concluded *surely the
+LORD's anointed is before Him*.
+
+## Who else was passed over on sight
+
+*He has **no form or comeliness**; and when we see Him, there is no beauty that we should
+desire Him. He is **despised and rejected** by men.* See the note on Isaiah 53:1–3.
+
+The One the whole line runs to was looked at and dismissed by the same measure Samuel nearly
+used on the family.
+
+*"Is this not the carpenter's son?"… And they were offended at Him.* Jesus was measured by the
+same rule Samuel nearly used, and dismissed on it.
+
+## Who was not in the room
+
+David. Nobody thought to call him in from the field, and the sacrifice could not proceed until
+somebody went to get him.
+
+*But **God has chosen the foolish things** of the world to put to shame the wise… and the
+things which are despised God has chosen, and the things which are not, to bring to nothing
+the things that are.*
 
 > **Who is corrected.** Not the family. The prophet — silently, in his own thought, before
 > he had said a word out loud.

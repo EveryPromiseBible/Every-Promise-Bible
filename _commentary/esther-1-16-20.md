@@ -3,7 +3,7 @@ key: Esther 1:16–20
 title: A small refusal, a great fear
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The most powerful court in the world panics over one woman not coming to dinner,
@@ -56,6 +56,25 @@ Nobody prays. Nobody consults a prophet. Nobody mentions God.
 
 A drunk king, a proud queen, and a nervous adviser between them arrange the one
 thing that will be needed. See the note on Esther 1:9–12.
+
+## What an irrevocable decree means
+
+*"**Let it be written among the laws of the Persians and the Medes, so that it will not be
+altered.**"*
+
+The book's central mechanism, introduced here at its most trivial — a law about husbands, made
+permanent because a queen would not come to a party.
+
+The same rule will make Haman's death sentence on the Jews impossible to cancel in chapter 8,
+and the answer will not be a repeal. It will be **a second decree**. See the note on
+Esther 8:9–14.
+
+## Where the same problem is solved
+
+*For **the law of the Spirit of life in Christ Jesus has made me free from the law of sin and
+death**.*
+
+**Paul** does not say the first law was revoked. He says a second one overrode it.
 
 > **The last line of the decree.** *Then every wife will honor her husband, from
 > the greatest to the least.* An empire-wide law was passed to make women

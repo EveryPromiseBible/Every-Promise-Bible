@@ -100,6 +100,38 @@ Romans 8:1–4.
 
 The man who says *I died* had a perfect external record.
 
+## Who does the delivering
+
+*Who will deliver me from this body of death? **I thank God — through Jesus Christ our Lord!***
+
+The chapter's own resolution, and the grammar matters: **Paul** does not answer *what* will deliver
+him. He answers with a name and a thanksgiving.
+
+*For **what the law could not do in that it was weak through the flesh, God did by sending His own
+Son** in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh.*
+
+## What the commandment did
+
+*The commandment, which was to bring life, **I found to bring death**.*
+
+*For **the letter kills, but the Spirit gives life**.*
+
+*Who also made us sufficient as ministers of the new covenant… For if **the ministry of condemnation**
+had glory, the ministry of righteousness exceeds much more in glory.*
+
+**2 Corinthians** 3, and **Paul** calls the same law a ministry of condemnation and of death, twice,
+in a paragraph that also calls it glorious.
+
+## What he had been
+
+*Concerning the law, **a Pharisee**… concerning the righteousness which is in the law, blameless.*
+
+*But what things were gain to me, these **I have counted loss for Christ**… that I may gain Christ and
+be found in Him, **not having my own righteousness**.*
+
+The man writing *the commandment killed me* had the best law record available in his generation, and
+says in **Philippians** what he did with it.
+
 > **What the paragraph protects.** The law. Paul describes it doing him lethal damage and
 > then spends the last verse insisting it is holy, right and good — and puts the blame on
 > what used it as a bridgehead.

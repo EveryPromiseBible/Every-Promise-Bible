@@ -104,5 +104,34 @@ the note on Philippians 3:20–21.
 
 The pattern is a body that has already been raised, and Luke says it could be touched.
 
+## Whose body the pattern is
+
+*And as we have borne the image of the man of dust, **we shall also bear the image of the heavenly
+Man**.*
+
+Five verses later, and it names the model. The four contrasts — corruption to incorruption,
+dishonour to glory, weakness to power, natural to spiritual — are not abstractions; **Paul** is
+describing a body that already exists.
+
+*Who will transform our lowly body that it may be conformed to **His glorious body**.*
+
+*Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know
+that **when He is revealed, we shall be like Him**, for we shall see Him as He is.*
+
+## The firstfruits
+
+*But now **Christ is risen from the dead, and has become the firstfruits of those who have fallen
+asleep**.*
+
+**Aparche** — the first sheaf, waved as a pledge that the harvest is coming. The chapter's whole
+argument rests on one resurrection having already happened.
+
+*And if **Christ** is not risen, your faith is futile; you are still in your sins.*
+
+## What the chapter ends on
+
+*"O Death, where is your sting?"… The sting of death is sin, and the strength of sin is the law. But
+**thanks be to God, who gives us the victory through our Lord Jesus Christ**.*
+
 > **What the four pairs describe.** Not a replacement. Paul's word for burial is *sown* —
 > and nothing about sowing implies that what comes up is a different thing.

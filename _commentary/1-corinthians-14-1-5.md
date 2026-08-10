@@ -68,6 +68,39 @@ him; however, in the spirit he speaks mysteries.*
 
 Paul states the direction before he states the ranking. The addressee is God.
 
+## What the chapter is for
+
+*Pursue love, and desire spiritual gifts, but especially that you may prophesy.*
+
+The instruction sits between chapter 13 and a chapter about order, and **Paul**'s single criterion
+runs through all of it: **oikodome** — building up.
+
+*Let all things be done for **edification**.*
+
+## Who the building belongs to
+
+*You are God's building… For **no other foundation can anyone lay than that which is laid, which is
+Jesus Christ**.*
+
+*In whom the whole building, being fitted together, grows into **a holy temple in the Lord**.*
+
+*Coming to Him as to a living stone… **you also, as living stones, are being built up a spiritual
+house**.*
+
+**Peter**'s verb is passive. The congregation **Paul** is telling to edify each other is described
+elsewhere as being built by somebody else.
+
+## What the gifts are for
+
+*But **the manifestation of the Spirit is given to each one for the profit of all**.*
+
+Not for the holder. **Paul**'s complaint in this chapter is not that tongues are wrong — *I wish you
+all spoke with tongues* — but that a gift used with nobody in mind has missed what it was issued
+for.
+
+*As each one has received a gift, minister it to one another, as good stewards of **the manifold
+grace of God**.*
+
 > **What "prophesy" means here.** Paul defines it in the passage rather than
 > leaving it to be assumed: speaking *to build them up, to urge them on, and to
 > comfort them*. That is a wider and more ordinary thing than predicting the

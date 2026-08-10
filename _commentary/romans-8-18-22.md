@@ -123,5 +123,42 @@ And *if God is for us, who can be against us?* See the note on Romans 8:31–34.
 Paul's scale image is exact: he has put weight on one pan and says the other side does not
 register.
 
+## The argument the groaning is inside
+
+*He who did not spare His own Son, but delivered Him up for us all, **how shall He not with Him also
+freely give us all things**?*
+
+Fourteen verses later, and it is the chapter's method: the largest thing has already been done, so
+the smaller things are not in doubt.
+
+*And we know that **all things work together for good** to those who love God… For whom He foreknew,
+He also predestined **to be conformed to the image of His Son**.*
+
+## What creation is waiting for
+
+*The earnest expectation of the creation eagerly waits for **the revealing of the sons of God**.*
+
+**Apokaradokia** — craning the neck. The whole created order is described as waiting for the
+disclosure of a group of people, and their disclosure is defined in verse 29 as being made to look
+like Him.
+
+*Beloved, now we are children of God; and **it has not yet been revealed what we shall be, but we know
+that when He is revealed, we shall be like Him**, for we shall see Him as He is.*
+
+## Who subjected it
+
+*Not willingly, but because of Him who subjected it **in hope**.*
+
+**Eph' helpidi** — the subjection came with hope attached to it, in the same act.
+
+*"Cursed is the ground for your sake."* And a crown of thorns, later, on a head. See the note on
+Isaiah 55:12–13.
+
+*"Behold, **I make all things new**."*
+
+**Revelation** 21, and the groaning creation of Romans 8 is the same one **Christ** is said in
+**Colossians** 1 to have reconciled: *by Him to reconcile all things to Himself, whether things on
+earth or things in heaven, having made peace through the blood of His cross.*
+
 > **The obstetrics.** *Groaning together, labouring together* — the verbs are birth-pang verbs. Paul
 > describes the noise as coming from a delivery room, not a deathbed.

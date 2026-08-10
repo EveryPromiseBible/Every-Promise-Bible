@@ -3,7 +3,7 @@ key: 1 Kings 4:1–6
 title: Solomon's chief officials
 sources:
   - 2023-07-16 redefine-success-gods-way
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 A staff list, and the interesting thing about it is the names.
@@ -113,6 +113,33 @@ The administration and the wisdom are described in the same chapter.
 
 The request was for judgment. The chapter shows what he built with it, including the levy that
 brings the whole thing down.
+
+## Whose sons they are
+
+Azariah son of Zadok. Elihoreph and Ahijah, sons of Shisha. Jehoshaphat son of Ahilud.
+Benaiah son of Jehoiada. Azariah and Zabud, sons of Nathan.
+
+Almost every name in the cabinet is the son of one of David's men. The prophet who told David
+he would not build the house has two sons in Solomon's government. See the note on
+2 Samuel 7:1–3.
+
+Solomon inherits a kingdom, a promise, a temple plan and a staff, and did not assemble any of
+it.
+
+Jesus, to men who had left their nets: *you did not choose Me, but **I chose you and appointed
+you**.*
+
+## What Abiathar is doing there
+
+He is listed as priest, and he had backed Adonijah. Solomon spares him and sends him to his
+fields at Anathoth — and the text still records his name in the list.
+
+## What is missing from the list
+
+Any account of Solomon earning it.
+
+*For **who makes you differ from another? And what do you have that you did not receive**? Now
+if you did indeed receive it, why do you boast as if you had not received it?*
 
 > **The list.** Sons of David's men, kept on and promoted — and the last name on it holds the
 > office whose successor gets stoned by the crowd that splits the kingdom.

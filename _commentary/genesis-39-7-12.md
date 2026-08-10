@@ -5,7 +5,7 @@ sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2023-07-16 redefine-success-gods-way
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A slave in a foreign house, with nobody watching and nothing to lose, gives a
@@ -88,6 +88,18 @@ Nothing he could see for two more years. The cupbearer forgot him.
 Then Pharaoh's dream, and a man who could be trusted with everything in Egypt
 because he had already been trusted with everything in one house and not touched
 the one thing withheld.
+
+## What is not recorded
+
+A defence.
+
+He is accused of the one thing he refused to do, on the evidence of a garment, by a woman
+whose account the household had already heard in a different version. Genesis gives him no
+reply at all. He goes to prison without one sentence of self-defence on record.
+
+*Who committed no sin, nor was deceit found in His mouth; who, **when He was reviled, did not
+revile in return**; when He suffered, He did not threaten, but committed Himself to Him who
+judges righteously.* See the note on 1 Peter 2:21–22.
 
 > **What he says at the end.** *You meant evil against me, but God meant it for
 > good.* Said to the brothers, about the pit — but it covers the prison too. Nothing

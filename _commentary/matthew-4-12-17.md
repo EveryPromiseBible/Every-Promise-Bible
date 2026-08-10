@@ -71,6 +71,49 @@ The Greek is **metanoeo** — to change the mind, to think differently afterward
 And the reason given is not a threat. It is proximity: because the kingdom has come
 near.
 
+## What the light turned out to be
+
+*"On those living in the land where death casts its shadow, **light has dawned**."*
+
+The verb is a sunrise, and the callout above is right that nobody in the dark produced it.
+
+*Then **Jesus** spoke to them again, saying, "**I am the light of the world.** He who follows Me
+shall not walk in darkness, but have the light of life."*
+
+*In Him was life, and the life was the light of men. And the light shines in the darkness, and the
+darkness did not comprehend it.*
+
+*Through the tender mercy of our God, with which **the Dayspring from on high has visited us; to
+give light to those who sit in darkness and the shadow of death**.*
+
+**Luke** 1, in Zechariah's song, and it is Isaiah 9 in advance — **anatole**, the rising, the word
+for a sunrise.
+
+## The first sermon
+
+*"**Repent, for the kingdom of heaven is at hand.**"*
+
+**Metanoeite** — change your mind. Not *make amends* and not *feel worse*; the Greek is about what
+a person thinks, and the reason attached is not a threat.
+
+*The kingdom **has come near**.* **Engiken** — it has drawn close. The imperative follows an
+announcement, in that order.
+
+*Or do you despise the riches of His goodness, forbearance and longsuffering, not knowing that
+**the goodness of God leads you to repentance**?*
+
+## Why Galilee
+
+The tribes named are the first two carried into exile, seven hundred years earlier — the darkest
+ground on the map, chosen by Isaiah for that reason.
+
+*"**Galilee of the nations.**"*
+
+*But God has chosen **the foolish things of the world** to put to shame the wise… **that no flesh
+should glory in His presence**.*
+
+*"Can anything good come out of Nazareth?" Philip said to him, "**Come and see**."*
+
 > **What is on the other side of Isaiah's sentence.** *On those living in the land
 > where death casts its shadow, **light has dawned**.* The verb is a sunrise. Nobody
 > in the dark did anything to produce it; the morning simply came up over them.

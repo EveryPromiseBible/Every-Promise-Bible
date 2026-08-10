@@ -12,7 +12,7 @@ sources:
   - 2023-02-26 power-to-renew-your-youth
   - 2024-09-22 claim-what-is-yours
   - 2025-07-06 radiant-with-his-glory
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Five things listed in three verses, and David tells himself not to forget any of
@@ -90,6 +90,41 @@ knows our frame; **He remembers that we are dust**.*
 
 The same psalm that promises renewed youth also says He has not forgotten what we
 are made of.
+
+## The two verbs in one breath
+
+*Who **forgives all your iniquities**, who **heals all your diseases**.*
+
+The psalm puts them in the same sentence with the same *all*, and does not rank them.
+
+*"Which is easier, to say, '**Your sins are forgiven you**,' or to say, '**Rise up and
+walk**'?"*
+
+**Jesus** asks the question of a paralysed man on a stretcher, and then does both — *that you
+may know that the Son of Man has power on earth to forgive sins*.
+
+## Where both are bought
+
+*Surely He has **borne our griefs** and **carried our sorrows**… He was **wounded for our
+transgressions**… and **by His stripes we are healed**.* See the note on Isaiah 53:4–6.
+
+*Who Himself bore our sins in His own body on the tree… by whose stripes **you were healed**.*
+
+**Peter** puts it in the past tense.
+
+## The crowning
+
+*Who **redeems your life from destruction**, who **crowns you with lovingkindness and tender
+mercies**.*
+
+**Goel** again — the kinsman-redeemer. See the note on Ruth 3:8–9.
+
+## The renewing
+
+*So that **your youth is renewed like the eagle's**.*
+
+*Therefore we do not lose heart. Even though our outward man is perishing, yet **the inward man
+is being renewed day by day**.*
 
 > **What David says about the source.** *Who satisfies…* — every verb in the list
 > has the same subject, and it is never the reader. Five things, one actor.

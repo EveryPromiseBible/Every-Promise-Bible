@@ -3,7 +3,7 @@ key: Leviticus 27:1–8
 title: Never more than the giver can bear
 sources:
   - 2023-02-26 power-to-renew-your-youth
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The last chapter of Leviticus is a price list, and the last verse cancels it for anyone who cannot pay.
@@ -104,6 +104,32 @@ The poor person's offering, brought for the child in the temple.
 Sinai.*
 
 The last sentence of Leviticus, three verses after the clause about the man who cannot pay.
+
+## What the chapter is actually pricing
+
+Not people. The cost of buying **out** of a vow — what it takes to substitute silver for a life
+that had been promised to the sanctuary.
+
+Every figure in it is a redemption price for a person.
+
+## What the price turned out to be
+
+*Knowing that **you were not redeemed with corruptible things, like silver or gold**, from your
+aimless conduct received by tradition from your fathers, **but with the precious blood of Christ,
+as of a lamb without blemish and without spot**.*
+
+Peter uses the vocabulary of this chapter and then says the currency was wrong. There was a
+schedule, in shekels of the sanctuary, and it was not what anybody was finally bought with.
+
+## Who brought the poor person's offering
+
+*And to offer a sacrifice according to what is said in the law of the Lord, "**A pair of
+turtledoves or two young pigeons**."*
+
+Luke, in the temple, forty days after the birth — the provision made for a family that could not
+afford a lamb. See the note on Leviticus 1:14–17.
+
+The Lamb was carried in by parents who had to bring birds.
 
 > **The last verse.** Eight verses of fixed prices, and then: *the priest will set a value they
 > can actually afford*. The schedule binds everyone except the person it would exclude.

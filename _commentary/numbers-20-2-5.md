@@ -3,7 +3,7 @@ key: Numbers 20:2–5
 title: The old complaint, forty years on
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The same argument they had at the beginning of the journey, made again at the end of it.
@@ -82,6 +82,27 @@ on Deuteronomy 2:1–7.
 
 Moses says that in his last sermon, about the period the people are complaining about
 here.
+
+## What is standing in front of them
+
+A rock.
+
+*And they all drank the same spiritual drink. For they drank of that spiritual Rock that followed
+them, **and that Rock was Christ**.* See the note on 1 Corinthians 10:1–5.
+
+Paul says the supply that kept them alive through every one of these complaints was Him, and that
+it never stopped while they were complaining about it.
+
+## What the forty years actually were
+
+*"**The LORD your God has blessed you in everything your hands have done**… These forty years the
+LORD your God has been with you, and **you have lacked nothing**."* See the note on
+Deuteronomy 2:1–7.
+
+Moses says that in his last sermon, about the exact period being complained about here. Their
+clothes did not wear out and their feet did not swell.
+
+The generation grumbling at Kadesh had been fed every morning of their lives.
 
 > **What is the same and what is not.** The complaint is nearly word for word what was
 > said at Rephidim thirty-eight years earlier. What is different is that the God they are

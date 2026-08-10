@@ -82,6 +82,42 @@ from all faces.*
 
 This song sits inside it.
 
+## What the leaning verb is doing
+
+**Samak** — to press one's weight down. The verb used of a hand laid on the head of a sacrifice.
+
+That is not a metaphor for concentration. It is the gesture of transferring what is yours onto
+something that will carry it away.
+
+*Who Himself **bore our sins in His own body on the tree**.*
+
+*And **the peace of God, which surpasses all understanding, will guard your hearts and minds
+through Christ Jesus**.*
+
+**Paul**'s verb is **phroureo** — to garrison. Isaiah has salvation for a wall and the mind
+leaning; **Philippians** has peace as the sentry on it.
+
+## Peace, peace
+
+**Shalom shalom** — the doubling that makes a Hebrew superlative.
+
+*Therefore, having been **justified by faith, we have peace with God** through our Lord **Jesus
+Christ**.*
+
+*"**Peace I leave with you, My peace I give to you**; not as the world gives do I give to you."*
+
+Two peaces in the New Testament as well: one made at the cross and one handed over in an upper
+room.
+
+*And **He Himself is our peace**.*
+
+## The Rock of Ages
+
+*Tsur olamim* — the everlasting Rock.
+
+*And all drank the same spiritual drink. For they drank of that spiritual Rock that followed
+them, and **that Rock was Christ**.*
+
 > **What the chapter says a few verses later.** *With my soul I have desired You in the
 > night; yes, by my spirit within me I will seek You early.* The man singing about
 > perfect peace says he was awake in the dark looking for God.

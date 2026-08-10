@@ -3,7 +3,7 @@ key: Esther 6:12–14
 title: Home in grief
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two men go home from the same parade, and the writer records both journeys in one
@@ -59,6 +59,38 @@ away** to the banquet Esther had prepared.*
 
 He does not get to finish the conversation. He is taken, mid-sentence, to the
 room where he will be exposed and sentenced within the hour.
+
+## What Mordecai does next
+
+*And Mordecai **went back to the king's gate**.*
+
+Paraded through the city in the king's robe, on the king's horse, and he goes back to work at
+the gate. No speech, no advantage taken, no complaint that the death sentence is still
+standing.
+
+*Therefore **humble yourselves under the mighty hand of God**, that He may exalt you in due
+time.*
+
+## What his advisers tell Haman
+
+*"**If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail
+against him but will surely fall before him.**"*
+
+His own wife and his own counsellors — the people who told him to build the gallows the day
+before.
+
+*"**I will bless those who bless you, and I will curse him who curses you.**"* The promise to
+Abraham, quoted back at Haman by pagans in Susa. See the note on Genesis 12:1–3.
+
+## Begun to fall
+
+They use the perfect tense. It is not a forecast — it has already started, and everybody in
+the room can see it except the man it is happening to.
+
+*Having disarmed principalities and powers, **He made a public spectacle of them, triumphing
+over them** in it.*
+
+**Paul** describes the cross as a parade with the defeated walking in it.
 
 > **The pace of the chapter.** Everything in Esther 6 happens in a single day, and
 > the verbs are all urgent — *hurry*, *hastened*, *hurrying away*. Eleven months of

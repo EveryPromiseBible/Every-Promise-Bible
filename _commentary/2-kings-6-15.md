@@ -3,7 +3,7 @@ key: 2 Kings 6:15
 title: "What shall we do?"
 sources:
   - 2021-01-03 the-year-of-hazon-vision
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 A servant goes out early and finds the town surrounded.
@@ -99,6 +99,40 @@ is now shown a hillside of.
 ## What the servant was not told
 
 To be braver. The prophet's whole response to the panic is one prayer about sight.
+
+## What the servant saw
+
+*And when the servant of the man of God arose early and went out, there was **an army,
+surrounding the city with horses and chariots**. And his servant said to him, "**Alas, my
+master! What shall we do?**"*
+
+He is not wrong about anything. The army is there, it is large, and there are two of them.
+
+## What was also there
+
+*And Elisha prayed, and said, "**LORD, I pray, open his eyes that he may see.**" Then the LORD
+opened the eyes of the young man, and he saw. And behold, **the mountain was full of horses and
+chariots of fire all around Elisha**.*
+
+Nothing arrives in that verse. The chariots were there before the prayer — the prayer is about
+the eyes.
+
+*The eyes of your understanding being enlightened, that you may know… **what is the exceeding
+greatness of His power toward us who believe**.*
+
+Paul prays the same prayer for the Ephesians, and it is a prayer about sight rather than
+supply.
+
+## What Elisha says before he prays
+
+*"**Do not fear, for those who are with us are more than those who are with them.**"* See the
+note on 2 Kings 6:16.
+
+He says it while the servant can still only see the Arameans, and he says it as a fact rather
+than an encouragement.
+
+*You are of God, little children, and have overcome them, because **He who is in you is greater
+than he who is in the world**.*
 
 > **What changed on the hill.** Not the odds. The Aramean army was there and stayed there.
 > One man saw what else was on the ground, and the prayer that got him there was about

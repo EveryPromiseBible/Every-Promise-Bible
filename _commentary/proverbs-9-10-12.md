@@ -41,6 +41,39 @@ himself.
 
 Both outcomes land on the person who chose them. Nobody else absorbs either.
 
+## Who the two dinners turned out to be
+
+Wisdom has built her house, hewn out seven pillars, killed her meat, mixed her wine and set
+her table, and she says: *"**Come, eat of my bread and drink of the wine I have mixed.**"*
+
+*"**Take, eat; this is My body**"… "Drink from it, all of you."*
+
+Bread and wine, set out, and an invitation given to *whoever is simple*.
+
+And **Jesus** told the story again with the same shape: *"a certain man gave a great supper
+and invited many"* — and when the invited would not come, *"go out into the highways and
+hedges and compel them to come in, that my house may be filled."*
+
+## Who the wisdom is
+
+*But to those who are called, both Jews and Greeks, **Christ the power of God and the wisdom
+of God**.*
+
+**Paul** puts the verse's two nouns — fear and knowing the Holy One — into one Person, and
+then says where that wisdom was displayed: *we preach Christ crucified… the foolishness of
+God is wiser than men.*
+
+## And who carried the weight
+
+*"If you mock, **you carry the weight alone**."*
+
+That is the proverb's last line, and it is true of everybody in it.
+
+*Surely **He has borne our griefs and carried our sorrows**… the LORD has laid on Him the
+iniquity of us all.*
+
+One man in the story does not carry His own, and it is not because He was wise.
+
 > **Where it sits in the chapter.** Proverbs 9 stages two dinner invitations —
 > Wisdom has built her house and set her table, and Folly sits at her door calling
 > to passers-by. Both call the same people. This verse is at the hinge, and the

@@ -94,6 +94,43 @@ his ways.*
 And then, in Jeremiah's own voice: *Heal me, O LORD, and I shall be healed; save me, and
 I shall be saved, **for You are my praise**.*
 
+## The word
+
+*Cursed is the one who trusts in man.* The Hebrew is **arur**.
+
+*Christ has redeemed us from the curse of the law, **having become a curse for us** (for it is
+written, "Cursed is everyone who hangs on a tree"), **that the blessing of Abraham might come upon
+the Gentiles in Christ Jesus**.*
+
+**Galatians** 3 has the curse and the blessing in one sentence, moving in opposite directions.
+Jeremiah 17 sets **arur** against **barukh** — cursed man, blessed man — and leaves the reader to
+choose. **Paul** says the two exchanged places.
+
+## Mere flesh
+
+**Basar** — meat, what a body is made of.
+
+*For **what the law could not do in that it was weak through the flesh**, God did by sending His
+own Son.*
+
+**Romans** 8, and the diagnosis is Jeremiah's: the problem was never the instruction. It was the
+material being leaned on.
+
+*"**It is the Spirit who gives life; the flesh profits nothing.**"*
+
+## What he cannot see
+
+*He **does not see when good comes**.* Nothing in the sentence says the good is withheld.
+
+*"For the heart of this people has grown dull. Their ears are hard of hearing, and **their eyes
+they have closed**, lest they should see with their eyes."*
+
+*Whose minds the god of this age has blinded… lest **the light of the gospel of the glory of
+Christ**, who is the image of God, should shine on them.*
+
+The bush is in the same country as the tree. **Paul**'s word for the failure is not drought. It
+is not seeing.
+
 > **What the two halves share.** The heat and the drought. Jeremiah does not describe one
 > man in good weather and one in bad — the difference in the passage is entirely where
 > the roots went.

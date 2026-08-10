@@ -3,7 +3,7 @@ key: Psalms 51:3–4
 title: "You are right when You speak"
 sources:
   - 2019-03-17 the-story-of-job-through-the-lens-of-grace
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Written after the worst thing David ever did, and the astonishing thing is the
@@ -75,6 +75,40 @@ a broken spirit**.*
 
 A king with a treasury and a tabernacle says the one offering that would work is
 not something he can fund.
+
+## Where the New Testament quotes this
+
+*"**Against You, You only, have I sinned**… that You may be found just when You speak, and
+blameless when You judge."*
+
+**Paul** quotes that second clause in Romans 3, in the middle of the argument that every mouth
+is stopped and the whole world is guilty — and then turns straight to *the righteousness of
+God apart from the law*.
+
+David's confession is Exhibit A in the case that ends with justification by faith.
+
+## What he asks for
+
+*Purge me with **hyssop**, and I shall be clean.*
+
+Hyssop is the applicator. It put the blood on the doorposts in Egypt, it was used on the
+cleansed leper, and it appears once more — *they filled a sponge with sour wine, put it on
+hyssop, and put it to His mouth*. See the note on Exodus 12:21–28.
+
+## What he does not offer
+
+*You do not desire sacrifice, or else I would give it; **You do not delight in burnt
+offering**.*
+
+The king with the whole temple apparatus at his disposal says the one thing he cannot do is
+pay for this.
+
+*The sacrifices of God are **a broken spirit, a broken and a contrite heart** — these, O God,
+You will not despise.*
+
+## What he asks to have back
+
+Not the throne, and not his reputation. *Restore to me **the joy of Your salvation**.*
 
 > **What he asks not to lose.** *Do not cast me from Your presence, and do not take
 > Your Holy Spirit from me.* Under the old covenant the Spirit came and went — he

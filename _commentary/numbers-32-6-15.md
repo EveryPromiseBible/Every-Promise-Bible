@@ -3,7 +3,7 @@ key: Numbers 32:6–15
 title: "Are your brothers to go to war while you sit here?"
 sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two tribes ask to settle on the wrong side of the river, and Moses hears it as
@@ -89,6 +89,28 @@ They kept it. Joshua 22 records him sending them home years later: *you have not
 your brethren these many days, up to this day, but have kept the charge.*
 
 And they were the first tribes carried away when Assyria came.
+
+## What Moses is afraid of
+
+Not their loss. Everybody else's.
+
+*"**Why would you discourage the people** from crossing into the land the LORD has given?"*
+
+Ten men came back from a walk once and a nation stayed in a desert for forty years. He is
+speaking to the sons of those men.
+
+*Bear one another's burdens, and so fulfill the law of Christ.*
+
+*Let us consider one another in order to **stir up love and good works**, not forsaking the
+assembling of ourselves together.*
+
+## What they proposed instead
+
+*"We ourselves will arm and go ahead of the Israelites… **we will not come home until every
+Israelite has received his portion**."* See the note on Numbers 32:16–19.
+
+Not until every one of the others is in. That is the answer Moses accepts, and Joshua
+certifies decades later that they kept it: *you have not left your brethren these many days.*
 
 > **What is being negotiated.** Not whether they can have the land. Whether they will
 > go over with everybody else first. Moses' whole objection is about the order of

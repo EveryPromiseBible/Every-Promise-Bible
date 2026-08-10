@@ -4,7 +4,7 @@ title: He knew them, and they did not know him
 sources:
   - 2021-08-15 the-significance-of-this-generation
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The dream comes true in an Egyptian granary and only one man in the room knows it.
@@ -111,6 +111,32 @@ The first of the times he cries in this story, and there are several. He weeps a
 of Benjamin, he weeps when he tells them who he is, and he weeps on his father's neck.
 
 Then he comes back and takes Simeon and binds him in front of them.
+
+## The first time, and the second
+
+*Joseph knew them, though they did not know him.*
+
+Stephen, on trial for his life, walks the council through this whole history and stops on
+one detail: *and **at the second time Joseph was made known to his brothers**.*
+
+He has just made the same point about Moses — *he supposed that his brethren would have
+understood… **but they did not understand***. Two deliverers, and neither of them is
+recognised the first time he comes to his own people.
+
+That is the argument Stephen was making when they picked up the stones.
+
+## What the recognition costs
+
+Between the first meeting and the second come an accusation, three days in custody, a
+journey home, a famine that will not lift, an argument in a tent, and a silver cup planted
+in a sack.
+
+*And I will pour on the house of David and on the inhabitants of Jerusalem the Spirit of
+grace and supplication; then they will **look on Me whom they pierced**, and they will mourn
+for Him as one mourns for his only son.*
+
+The brothers' turn comes in a cleared room in chapter 45, and the first thing he says after
+naming himself is *do not be grieved*. See the note on Genesis 45:1–8.
 
 > **The sentence the story runs on.** *Joseph knew them, though they did not know him.* It is
 > stated twice, and everything for the next three chapters depends on it holding.

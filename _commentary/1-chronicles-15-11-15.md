@@ -3,7 +3,7 @@ key: 1 Chronicles 15:11–15
 title: Because we did not seek Him about it
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 David explains what went wrong the first time, and the sentence is unusually direct.
@@ -100,6 +100,44 @@ Israel had the instructions and used the Philistine method.
 Singers. Chapter 15 lists them by name and by instrument, and chapter 16 has the psalm they
 sang: *oh, give thanks to the LORD! Call upon His name; make known His deeds among the
 peoples!*
+
+## What the correction was not
+
+More sincerity.
+
+The first attempt had thirty thousand men, harps, tambourines, cymbals and genuine joy. What
+it did not have was shoulders.
+
+*"Because you did not do it the first time, the LORD our God broke out against us, for **we
+did not consult Him about the proper order**." And **the Levites bore the ark of God on their
+shoulders**, by its poles, as Moses had commanded.*
+
+## What was wrong with the cart
+
+Nothing, as farm equipment. It was borrowed from the Philistines, for whom it had worked
+because they did not have the instructions. See the note on 2 Samuel 6:1–5.
+
+*For they being ignorant of God's righteousness, and **seeking to establish their own
+righteousness**, have not submitted to the righteousness of God.*
+
+**Paul** is describing a zeal that is real and misdirected, which is exactly what chapter 13
+records.
+
+## What David does say
+
+*"**We did not seek Him about the proper order.**"*
+
+He puts it in the first person plural and does not blame Uzzah, the oxen or the road.
+
+*If we confess our sins, **He is faithful and just to forgive us** our sins and to cleanse us
+from all unrighteousness.*
+
+## Who carries it in the end
+
+Men, on shoulders, by poles that were never meant to come out of the rings. See the note on
+Exodus 25:10–16.
+
+The ark was built to be carried by people and it never stopped being.
 
 > **The clause David puts last.** *We did not seek Him about the proper way.* Not the cart, not
 > the oxen, not the man who reached out — nobody had looked it up.

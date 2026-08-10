@@ -5,7 +5,7 @@ sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-01-17 learn-how-to-receive-visions
   - 2022-05-08 own-your-new-creation-identity
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The first king of Israel is out looking for livestock when he stumbles into the
@@ -102,6 +102,28 @@ flask of oil and poured it on his head, and kissed him.*
 
 Saul goes home and tells his uncle about the donkeys. *But about the matter of the kingdom,
 he did not tell him.*
+
+## What he was looking for, and what he found
+
+Donkeys.
+
+He is out on an errand for his father, the animals cannot be found, he is ready to give up and
+go home, and a servant suggests asking a seer while they are in the area. A quarter shekel of
+silver changes hands.
+
+He walks into town looking for livestock and walks out anointed king.
+
+*"The kingdom of heaven is like **treasure hidden in a field**, which a man found and hid; and
+for joy over it he goes and sells all that he has and buys that field."*
+
+Paul quotes Isaiah for the same thing: *"I was found by those who did not seek Me; **I was made
+manifest to those who did not ask for Me**."*
+
+## Whose idea it was
+
+Not Saul's. The servant's — *look now, there is in this city a man of God*.
+
+Saul's own contribution to the day is that he wanted to turn back.
 
 > **What he was looking for.** Donkeys. He arrives because a servant remembered a seer
 > lived nearby and happened to have a quarter shekel — and the narrator stops the story to

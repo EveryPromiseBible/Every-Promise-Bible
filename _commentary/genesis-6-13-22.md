@@ -3,7 +3,7 @@ key: Genesis 6:13–22
 title: Build an ark
 sources:
   - 2014-04-13 noah-the-real-story
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A set of building instructions, and almost every detail in them is doing two jobs.
@@ -76,8 +76,9 @@ And the animals *will come to you* — Noah is not told to go and catch them.
 The Hebrew simply repeats it: *thus did Noah; according to all that God commanded
 him, so he did.*
 
-A hundred and twenty years of building, on a warning about weather that had never
-happened.
+Decades of building, on a warning about weather that had never happened. Genesis has him
+at five hundred when his sons are born and six hundred when the water comes, and the
+instructions arrive after those sons have wives.
 
 > **What is not in the instructions.** A rudder, a sail, an oar, or a destination.
 > The ark has no means of steering and nowhere to go. It was built to be shut into

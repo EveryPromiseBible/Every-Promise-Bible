@@ -63,6 +63,29 @@ Withholding the meal is the specific action named — and read against chapter 1
 where the rich shamed the poor at that same table, the instruction is not about
 keeping the meal pure. It is about not letting the meal say something untrue.
 
+## Where the list ends
+
+*Do not be deceived. Neither fornicators, nor idolaters, nor adulterers… will inherit the kingdom of
+God. **And such were some of you. But you were washed, but you were sanctified, but you were
+justified in the name of the Lord Jesus and by the Spirit of our God**.*
+
+**1 Corinthians** 6:11, the same argument two paragraphs on. **Paul** repeats the list, does not
+soften a word of it, and then writes the four words the whole letter turns on.
+
+**Kai tauta tines ete** — and these things some of you were. Past tense, and three passive verbs
+after it: washed, sanctified, justified. None of them is something the Corinthians did.
+
+## Why the discipline is internal
+
+*"**What have I to do with judging those also who are outside? Do you not judge those who are
+inside?**"*
+
+**Paul**'s ruling is that the church has no jurisdiction over the world and every jurisdiction over
+itself — the reverse of how it is usually applied.
+
+*"**For God did not send His Son into the world to condemn the world, but that the world through Him
+might be saved.**"*
+
 > **How the chapter ends.** *God judges those outside.* Paul draws the line
 > explicitly: the church's business is the church. The verse most often used to
 > police the world is, in its own context, a refusal to do that.

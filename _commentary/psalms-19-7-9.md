@@ -3,7 +3,7 @@ key: Psalms 19:7–9
 title: Six names for the word
 sources:
   - 2024-09-22 claim-what-is-yours
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Six statements built the same way, and no two use the same noun.
@@ -103,6 +103,32 @@ psalmist's own.
 ## The shape of the whole
 
 Sky, scroll, self. Three witnesses, narrowing.
+
+## What the six names are describing
+
+Law, testimony, statutes, commandment, fear, judgments — and six things said about them:
+perfect, sure, right, pure, clean, true.
+
+Then the effects: *converting the soul, making wise the simple, rejoicing the heart,
+enlightening the eyes.*
+
+## What the word turned out to be
+
+*In the beginning was **the Word**, and the Word was with God, and the Word was God… And the
+Word became flesh and dwelt among us.*
+
+**John** opens his gospel by taking the noun this psalm is about and making it a Person.
+
+*You search the Scriptures, for in them you think you have eternal life; and **these are they
+which testify of Me**. But you are not willing to come to Me that you may have life.*
+
+## What the psalm asks for at the end
+
+*"Cleanse me from secret faults… **let the words of my mouth and the meditation of my heart be
+acceptable in Your sight, O LORD, my strength and my Redeemer**."*
+
+The psalm about the perfection of the law ends by asking for cleansing from what the man
+cannot see, and it names a **Redeemer** to ask it of.
 
 > **The six lines.** Same structure, six different nouns, six different effects — and not one of
 > the effects is conviction.

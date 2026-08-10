@@ -94,5 +94,43 @@ need all these things**.* See the note on Matthew 6:25–34.
 Nothing about how much faith, how long, or how well. The conditions in the sentence are
 asking, seeking and knocking.
 
+## The good things, named
+
+*"How much more will your Father in heaven give **good things** to the ones who ask Him."*
+
+*"How much more will your heavenly Father **give the Holy Spirit** to those who ask Him!"*
+
+**Luke** names one. **Matthew** leaves it plural, and **Paul** puts the largest item on the list:
+
+*He who did not spare His own Son, but delivered Him up for us all, **how shall He not with Him
+also freely give us all things**?*
+
+**Romans** 8:32 is the same rabbinic form — **posso mallon**, how much more — with the Son as the
+premise instead of a human father.
+
+## The door on the other side
+
+*"**Knock**, and the door will be opened to you."*
+
+*"Behold, **I stand at the door and knock**. If anyone hears My voice and opens the door, I will
+come in to him and dine with him, and he with Me."*
+
+**Revelation** 3, said to a church that thought it needed nothing. The instruction in the Sermon
+and the picture in **Revelation** are the same scene from opposite sides, and in the second one He
+is the one waiting.
+
+*"**I am the door.** If anyone enters by Me, he will be saved."*
+
+## What makes the asking possible
+
+The argument's premise is a father **Jesus** has just called evil, and its conclusion is about a
+Father nobody in the crowd could yet call their own.
+
+*For you did not receive the spirit of bondage again to fear, but you received the Spirit of
+adoption by whom we cry out, "**Abba, Father**."*
+
+*Let us therefore **come boldly to the throne of grace**, that we may obtain mercy and find grace to
+help in time of need.*
+
 > **The argument's weakest link is deliberate.** He builds the case on a father He has
 > just called evil, and says the conclusion holds *how much more* at the other end.

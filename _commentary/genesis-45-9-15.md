@@ -4,7 +4,7 @@ title: Hurry back to my father
 sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2024-07-28 provision-in-the-place-of-nearness
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 He has just told them who he is, and the next thing he says is about the old man at home.
@@ -113,6 +113,37 @@ The talking starts after the weeping, and the narrator notes the order.
 ## What Jacob says
 
 *"**It is enough. Joseph my son is still alive. I will go and see him before I die**."*
+
+## Why he wants them close
+
+*"You will live in **the region of Goshen and be near me**."*
+
+The Hebrew is **veqarovta elai** — and you shall be near to me.
+
+He is second in Egypt with five years of famine still to run, and the reason he gives for
+moving the whole family is proximity.
+
+*"**And if I go and prepare a place for you, I will come again and receive you to Myself; that
+where I am, there you may be also.**"*
+
+Jesus says it the same way and in the same order — a place made ready first, then the fetching,
+and the stated purpose is not the accommodation.
+
+## What is guaranteed
+
+*"**I will provide for you there**, for there are still five years of famine to come."*
+
+The Hebrew is **kul** — to sustain, to nourish.
+
+Not a rescue and then they are on their own. Five years of supply, promised in advance, by a
+brother they had sold.
+
+## The proof he offers
+
+*"You can see for yourselves… that **it is my mouth that speaks to you**."*
+
+For two chapters they had heard him through an interpreter. Now they hear Hebrew in a voice
+they last heard at the bottom of a pit.
 
 > **The order.** He embraces Benjamin, kisses all of them, weeps — and only then, the narrator
 > notes, do his brothers start talking.

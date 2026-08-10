@@ -71,6 +71,36 @@ righteousness.*
 
 **Justifies the ungodly.** Paul's phrase, three verses into the chapter.
 
+## Who the account was written for
+
+*Now it was not written for his sake alone that it was imputed to him, **but also for us. It shall be
+imputed to us who believe in Him who raised up Jesus our Lord from the dead**, who was delivered up
+because of our offences, and was raised because of our justification.*
+
+Verses 23–25, the last words of the chapter, and **Paul** says the Genesis sentence was recorded with
+his readers in view.
+
+**Logizetai** — imputed, credited, entered in the book. The word runs eleven times through the
+chapter.
+
+## The two clauses at the end
+
+*Delivered up **because of our offences**, and raised **because of our justification**.*
+
+**Dia** both times. The first is the reason He was handed over; the second is the reason He was
+raised — the justification was accomplished, and the resurrection is the receipt.
+
+*And if **Christ** is not risen, your faith is futile; **you are still in your sins**.*
+
+## Whose record was not consulted
+
+Abraham's. **Paul** has already stated it in the chapter's fifth verse:
+
+*But to him who does not work but believes on Him who **justifies the ungodly**, his faith is accounted
+for righteousness.*
+
+**Ton asebe** — the ungodly. Not the man who has stopped being ungodly.
+
 > **Who else it was written for.** *Now it was not written for his sake alone that
 > it was imputed to him, but for us also.* Paul's next sentence. The ledger entry
 > made in Genesis 15 was recorded as a precedent, and the account it applies to is

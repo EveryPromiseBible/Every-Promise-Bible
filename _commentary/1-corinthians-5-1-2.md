@@ -48,6 +48,34 @@ The letter's whole argument gives the answer. Corinth prized wisdom, freedom,
 and being beyond the reach of small rules. A man doing this and remaining in
 fellowship was, in that atmosphere, a demonstration of how free they were.
 
+## What Paul says two verses later
+
+*Therefore purge out the old leaven, that you may be a new lump, since you truly are unleavened.
+For indeed **Christ, our Passover, was sacrificed for us**.*
+
+The instruction and the reason. **Paul** does not tell them to become unleavened; he says *you truly
+are*, and asks them to act like it.
+
+**Este azymoi** — you are unleavened. The indicative comes before the imperative, which is his
+pattern throughout.
+
+## And what he says about the man
+
+*Deliver such a one to Satan for the destruction of the flesh, **that his spirit may be saved in the
+day of the Lord Jesus**.*
+
+The stated purpose of the severest discipline in the New Testament is the man's salvation.
+
+*Sufficient for such a man is this punishment which was inflicted by the majority, so that, on the
+contrary, **you ought rather to forgive and comfort him**, lest perhaps such a one be swallowed up
+with too much sorrow.*
+
+**2 Corinthians** 2, and it is generally read as the same man. The letter that orders the expulsion
+is followed by one ordering the welcome back.
+
+*And such were some of you. **But you were washed, but you were sanctified, but you were justified** in
+the name of the Lord **Jesus**.*
+
 > **What Paul does not do.** He does not write to the man. The letter is addressed
 > to the church, the pride is the church's, and the correction lands there. See the
 > notes on 1 Corinthians 5:3–5 and 1 Corinthians 5:9–11.

@@ -79,6 +79,41 @@ Nine verses later: *and the Word **became flesh** and dwelt among us.* The Greek
 
 The one who was there before the beginning ends up camping.
 
+## Where the prologue is going
+
+The Word is not identified until verse 14, and then twice in three verses.
+
+*And **the Word became flesh** and dwelt among us, and we beheld His glory, the glory as of the only
+begotten of the Father, **full of grace and truth**.*
+
+**Eskenosen** — pitched His tent. And **charitos kai aletheias** is the Greek of **chesed ve'emet**,
+the pair Moses heard in the cleft of the rock. **John** says he watched it walk about.
+
+*For **the law was given through Moses, but grace and truth came through Jesus Christ**.*
+
+Verse 17, and it is the first time the name appears in the gospel. Four hundred words of theology
+and then a name.
+
+## The same claims elsewhere
+
+*For **by Him all things were created**… **He is before all things, and in Him all things consist**.*
+
+*Who being the brightness of His glory and the express image of His person, and **upholding all
+things by the word of His power**.*
+
+**Colossians** and **Hebrews** make **John**'s three clauses — with God, was God, made everything —
+without the word **Logos**.
+
+## The light that was not put out
+
+*"**I am the light of the world.** He who follows Me shall not walk in darkness, but have the light
+of life."* See the note on John 8:12–14.
+
+*And **the light shines in the darkness, and the darkness did not comprehend it**.*
+
+**Katelaben** — did not grasp it, and the verb also means *overcome*. **John** chooses a word that
+holds both, and the gospel ends with a stone rolled away.
+
 > **What John does not include.** No genealogy, no Bethlehem, no shepherds, no
 > manger. Matthew starts with Abraham, Luke goes back to Adam, and John goes back past
 > the first sentence of Genesis.

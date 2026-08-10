@@ -105,5 +105,60 @@ more years.
 
 The blessing is not attached to completion.
 
+## The date on the blessing
+
+*"**From this day I will bless you.**"*
+
+Said in December, with nothing sown yet up, the four fruit trees bare, and a building four years
+from finished.
+
+*He did not waver at the promise of God through unbelief, but was strengthened in faith, giving
+glory to God, and being fully convinced that **what He had promised He was also able to
+perform**.*
+
+*Now faith is the substance of things hoped for, **the evidence of things not seen**.*
+
+**Hebrews** 11's word is **elenchos** — a proof, the kind produced in court. The blessing in Haggai
+is dated to the day the evidence is entirely absent, which is the only kind of date faith has ever
+had to work with.
+
+*For **all the promises of God in Him are Yes**, and in Him Amen, to the glory of God through us.*
+
+## What the blessing was not attached to
+
+Completion. The temple was not finished, and when it was, the old men wept because it was so much
+smaller than Solomon's.
+
+*"**The glory of this latter temple shall be greater than the former**," says the LORD of hosts,
+"and in this place I will give peace."*
+
+Six verses earlier, about that building.
+
+*Jesus answered and said to them, "Destroy this temple, and in three days I will raise it up"…
+**But He was speaking of the temple of His body**.*
+
+**John** 2. The greater glory arrived on foot, and **Luke** records Him carried into that same
+building at forty days old while an old man said *my eyes have seen Your salvation.*
+
+## The three blows, and the one that was not struck
+
+*"I struck all the work of your hands with **blight and mildew and hail**… yet you did not turn to
+Me."*
+
+*Surely He has borne our griefs and carried our sorrows; yet we esteemed Him **stricken, smitten by
+God**, and afflicted.*
+
+Isaiah's verb is **nagua** — struck, the same family as Haggai's. The blows in Haggai were meant to
+turn a people and did not; Isaiah 53 has them land somewhere else and reports what they achieved.
+
+## Give careful thought
+
+*"**Give careful thought to this, from this day on.**"* Four times in thirty-eight verses.
+
+*Therefore we must **give the more earnest heed to the things we have heard**, lest we drift away.*
+
+**Hebrews** 2, and the verb is **prosechein** — to pay attention, to hold the mind to something. It
+is Haggai's refrain in Greek, and the thing to be attended to is *so great a salvation*.
+
 > **The last line.** *Yet you did not turn to Me.* The harvests had been failing for years and
 > nobody put the two things next to each other — which is what the whole book asks them to do.

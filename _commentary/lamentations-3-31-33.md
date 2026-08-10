@@ -98,6 +98,45 @@ He is the man who wept over it and the man who said it was coming.
 
 *It is good that one should hope and wait quietly for the salvation of the LORD.*
 
+## Where the two negatives end up
+
+*He does not wound from His heart, nor bring grief to the children of men because He wills it.*
+
+The poet says God did it and says it is not what He wants, and holds both without resolving
+them. The resolution is not available inside the Old Testament.
+
+*For God so loved the world that **He gave His only begotten Son**.*
+
+*He who did not spare His own Son, but **delivered Him up for us all**, how shall He not with Him
+also freely give us all things?*
+
+**Paul**'s verb is **pheidomai** — to spare. The one place God is described as *not* sparing is
+the one place the grief was not aimed at the children of men at all.
+
+## The compassion word
+
+*He will gather you back in compassion.* **Racham** — the verb from the word for a womb.
+
+*"But when he was still a great way off, **his father saw him and had compassion**, and ran and
+fell on his neck and kissed him."*
+
+**Luke**'s Greek is **esplanchnisthe** — moved in the gut. It is the same physical picture, and
+in the parable it is what makes the father run.
+
+## And the limit on the casting off
+
+*The Lord will not cast off forever.*
+
+*I say then, **has God cast away His people? Certainly not!**… God has not cast away His people
+whom He foreknew.*
+
+**Paul** asks Lamentations' question directly in **Romans** 11 and answers it in two words.
+
+*"**The one who comes to Me I will by no means cast out.**"*
+
+**John** 6, and the Greek doubles the negative — **ou me ekbalo exo** — which is as emphatic as
+the language allows.
+
 > **Where the sentence stands.** In the middle of five poems about a burned city, by
 > somebody who saw it — and what he says is not that it did not happen, but that it did
 > not come from the heart.

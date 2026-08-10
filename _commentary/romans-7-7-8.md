@@ -100,6 +100,33 @@ on Romans 8:1–4.
 The same conclusion, stated flatly in the earlier chapter and worked out autobiographically
 here.
 
+## Where the chapter is going
+
+*O wretched man that I am! Who will deliver me from this body of death? **I thank God — through Jesus
+Christ our Lord!***
+
+Verse 25, and it is the answer the whole chapter has been building toward. The question is *who*,
+not *how* — a person, not a method.
+
+*There is therefore now **no condemnation** to those who are in **Christ Jesus**… For **what the law
+could not do in that it was weak through the flesh, God did by sending His own Son**.*
+
+**Romans** 8 opens on the sentence chapter 7 could not reach, and **Paul** names the reason the law
+could not do it: not a fault in the law, a fault in the material it was working with.
+
+## What Paul refuses to conclude
+
+*Is the law sin? **Certainly not!**"*
+
+**Me genoito** — may it never be. **Paul** uses it ten times in this letter, always to refuse an
+inference his own argument invites.
+
+*Therefore **the law is holy, and the commandment holy and just and good**.*
+
+He has just said the commandment killed him, and he defends it in the same breath.
+
+*Therefore the law was **our tutor to bring us to Christ**, that we might be justified by faith.*
+
 > **The two things held together.** The commandment is holy, and it is what sin used as a
 > bridgehead. Paul states both and puts the blame on the second party — not on the
 > statute, and not on the giver of it.

@@ -3,7 +3,7 @@ key: Judges 13:2–5
 title: The angel comes to the wife
 sources:
   - 2024-06-30 own-your-calling-and-portion
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 An announcement of a birth, and the messenger goes to the woman.
@@ -110,6 +110,42 @@ Judges 13:19–20.
 
 *"We are going to die! We have seen God!"* — and his wife's answer. See the note on
 Judges 13:21–23.
+
+## Who else was told first
+
+*But **the Angel of the LORD appeared to the woman** and said to her, "Indeed now, you are
+barren and have borne no children, but you shall conceive and bear a son."*
+
+A barren woman, visited by a messenger, told she will have a son, given instructions about
+how he is to be raised, and told what he will do.
+
+*Now in the sixth month the angel Gabriel was sent by God to a city of Galilee named
+Nazareth… "Do not be afraid, Mary… you will conceive in your womb and bring forth a Son, and
+shall call His name JESUS."*
+
+The husband is not the one addressed in either account.
+
+## The word in the commission
+
+*"**He shall begin to deliver Israel** out of the hand of the Philistines."*
+
+**Begin.** Not finish.
+
+Samson kills more at his death than in his life and the Philistines are still there. Judges
+ends with them in place; Samuel is still fighting them; David is the one who finally settles
+it.
+
+The book is honest that its strongest man is a start.
+
+*Being confident of this very thing, that **He who has begun a good work in you will complete
+it** until the day of Jesus Christ.*
+
+## What the consecration is
+
+*"**No razor shall come upon his head**, for the child shall be a Nazirite to God **from the
+womb**."*
+
+Set apart before he existed, by a vow he did not take and never chose.
 
 > **Who is visited.** The wife, and the vow is given to her first. The consecration starts before
 > the child does, and the commission says *begin* rather than finish.

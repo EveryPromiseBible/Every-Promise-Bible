@@ -94,6 +94,34 @@ in chapter 65. See the note on Isaiah 65:21–23.
 
 And chapter 53 in between.
 
+## What John says Isaiah saw
+
+*These things Isaiah said **when he saw His glory and spoke of Him**.*
+
+**John** 12, immediately after quoting Isaiah 6 — the year Uzziah died, the throne high and
+lifted up, the seraphim, the smoke. **John** says the One on the throne was **Christ**, and that
+Isaiah was looking at Him.
+
+The book is filed under **chazah**, and the gospel names what was in the frame.
+
+## And which scroll He was handed
+
+*And He came to Nazareth… and **He was handed the book of the prophet Isaiah**. And when He had
+opened the book, He found the place where it was written: "The Spirit of the LORD is upon Me…"*
+
+*And He began to say to them, "**Today this Scripture is fulfilled in your hearing.**"*
+
+**Luke** records the first sermon of **Jesus**' ministry, and the text is Isaiah. He reads to the
+middle of a sentence, stops, rolls the scroll up and sits down.
+
+## The name, six hundred years later
+
+*"And you shall call His name **JESUS**, for He will save His people from their sins."*
+
+**Matthew**'s angel is giving a reason, not just a label — and the reason is the sentence the
+prophet's own name already made. The book's heading and the book's subject are, in the end, the
+same word given to a Person.
+
 > **The word the whole book stands under.** *Saw.* Sixty-six chapters of speech, four
 > kings, an empire's rise and a siege — filed as a vision, by a man whose name means the
 > LORD saves.

@@ -3,7 +3,7 @@ key: Genesis 24:17–20
 title: Until they've had enough
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 She offers something nobody asked for, and it takes her most of the evening.
@@ -116,6 +116,22 @@ More hospitality, offered again without being asked.
 went to the man.*
 
 Laban's first recorded reaction to anything is jewellery.
+
+## What she is given, and when
+
+*He took out **a gold nose ring**… and **two gold bracelets**.*
+
+Before he knows her name, before her family is mentioned, before anything is agreed, and
+before she has been asked to go anywhere.
+
+He is spending his master's wealth on a woman who has not yet been told there is a proposal
+coming. See the note on Genesis 24:10–11.
+
+Paul, writing to Ephesus about Christ: *in Him you also trusted, after you heard the word of
+truth… in whom also, having believed, **you were sealed with the Holy Spirit of promise, who is
+the guarantee of our inheritance***.
+
+The gold at the well is a deposit against a wedding she has not heard about yet.
 
 > **What she volunteered for.** Two hundred gallons, drawn by hand, at the end of the day, for a
 > man she had never seen — and the servant had prayed for exactly that sentence.

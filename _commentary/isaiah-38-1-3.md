@@ -55,6 +55,43 @@ pray about an outcome that has been declared. It is not a promise that everyone
 who prays gets fifteen years — the same chapter has Hezekiah writing afterwards
 about how the reprieve felt, and the rest of his story is not a simple triumph.
 
+## Who else prayed against a declared death
+
+*Who, **in the days of His flesh**, when He had offered up **prayers and supplications, with
+vehement cries and tears** to Him who was able to save Him from death, **and was heard because of
+His godly fear**…*
+
+**Hebrews** 5, and every element of Hezekiah's night is in it. A death announced. Prayer. Tears
+— **dakryon**, the word named separately, exactly as Isaiah 38 names the tears separately from
+the prayer.
+
+*"O My Father, if it is possible, **let this cup pass from Me**; nevertheless, not as I will, but
+as You will."*
+
+**Matthew** records **Jesus** in a garden asking for a sentence to be lifted.
+
+## What the difference was
+
+Hezekiah got fifteen years. **Jesus** did not get the cup taken away.
+
+**Hebrews** says He *was heard* anyway — the hearing is not measured by whether the outcome
+changed. And the reason the cup was not lifted is the reason anybody else's ever can be.
+
+*For **Christ also suffered once for sins, the just for the unjust, that He might bring us to
+God**.*
+
+## And the wall he turned to
+
+He turns his face away from the room and prays.
+
+*Jesus wept.*
+
+**John** 11, at a tomb, over a death He was about to reverse. The shortest verse in the Bible is
+there to say that the reversal did not make the grief unnecessary.
+
+*"**Come to Me, all you who labour**"* — and *casting all your care upon Him, for He cares for
+you.*
+
 > **The part people forget.** The extra fifteen years are not presented as an
 > unmixed good. Manasseh, the worst king in Judah's history, is born in them, and
 > the chapter after this has Hezekiah showing the treasury to Babylonian envoys —

@@ -97,6 +97,56 @@ the note on Daniel 2:29–30.
 A statue of gold, silver, bronze, iron and clay, struck by a stone *cut out without hands*
 which became a mountain and filled the whole earth.
 
+## The word the New Testament borrows
+
+**Raz** — a secret. The Greek Old Testament renders it **mysterion**, and the New Testament takes
+the noun over and uses it about one thing.
+
+*The **mystery** which has been hidden from ages and from generations, but now has been revealed
+to His saints… which is **Christ in you, the hope of glory**.*
+
+*How that **by revelation He made known to me the mystery**… that the Gentiles should be
+fellow heirs, of the same body, and partakers of His promise in **Christ** through the gospel.*
+
+*But we speak **the wisdom of God in a mystery**, the hidden wisdom which God ordained before the
+ages for our glory, which none of the rulers of this age knew; for **had they known, they would
+not have crucified the Lord of glory**.*
+
+**Paul** in **1 Corinthians** 2 makes Daniel 2's exact argument — that the wise men of the age
+could not get at it — and names what they missed.
+
+## Light dwells with Him
+
+*"He reveals deep and secret things; **He knows what is in the darkness, and light dwells with
+Him**."*
+
+*And the light shines in the darkness, and the darkness did not comprehend it.*
+
+*"**I am the light of the world.** He who follows Me shall not walk in darkness."*
+
+## The blessing before the rescue
+
+The mystery is revealed at night and the next recorded act is a doxology — before the king is
+told, before anyone is spared, and while Daniel is still under sentence.
+
+*Then they took away the stone… and **Jesus lifted up His eyes and said, "Father, I thank You that
+You have heard Me."*** And then He called Lazarus out.
+
+**John** 11 has the thanks before the body moves.
+
+*And He took the seven loaves and the fish, **gave thanks**, broke them and gave them to His
+disciples.*
+
+## And what they prayed for
+
+*That they might **seek mercies from the God of heaven** concerning this secret.*
+
+The Aramaic is **rachamin** — mercies. Four men facing execution ask for mercy rather than
+vindication, and Daniel credits all three of them in the prayer: *what **we** asked of You*.
+
+*Let us therefore **come boldly to the throne of grace, that we may obtain mercy** and find grace
+to help in time of need.*
+
 > **The order of the paragraph.** The mystery is revealed in the night, and the next
 > recorded act is a blessing — before the king is told, before anyone is saved, and before
 > the man is out of danger himself.

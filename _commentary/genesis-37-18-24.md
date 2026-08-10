@@ -3,7 +3,7 @@ key: Genesis 37:18–24
 title: The pit was empty
 sources:
   - 2024-08-04 win-the-battle-over-temptation
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 They see him coming from a distance and have time to plan.
@@ -114,6 +114,27 @@ Genesis 39:19–23.
 
 *"**You meant evil against me; but God meant it for good**, in order to bring it about as it is this
 day, to save many people alive."* See the note on Genesis 50:15–21.
+
+## The coat comes off first
+
+*They stripped him of his coat, the beautiful coat he was wearing.*
+
+*And they **stripped Him** and put a scarlet robe on Him… and when they had mocked Him, they
+took the robe off Him.* In both accounts the garment goes first, and in both it is the thing
+that said who he was.
+
+Then a hole in the ground, and men sitting down to a meal a few yards from it. *Sitting down,
+**they kept watch over Him there**.*
+
+## What the empty pit is
+
+*The pit was empty; there was no water in it.*
+
+He goes down into it alive and he comes up out of it alive, and between those two facts his
+father counts him dead for twenty-two years.
+
+Reuben's line is spoken over a hole with nobody in it: *the lad is no more*. He came back
+looking for him, and did not find him there.
 
 > **The clause.** *There was no water in it.* Without it he drowns; with it he is sold. The
 > narrator supplies the detail and lets it carry the whole story.

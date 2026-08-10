@@ -3,7 +3,7 @@ key: Genesis 32:27–32
 title: What is your name
 sources:
   - 2026-07-05 dont-lose-heart-keep-on-praying
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The question is not for information. Saying the name out loud is the point.
@@ -112,6 +112,38 @@ And Esau *ran to meet him, and embraced him*.
 *"I have seen your face as though I had seen the face of God."*
 
 The same phrase as the name he gave the place, the night before.
+
+## The new name he is given
+
+He had to say the old one out loud first — **Yaaqov**, heel-grabber — and the moment he did, it
+was changed.
+
+*To him who overcomes I will give… **a white stone, and on the stone a new name written**
+which no one knows except him who receives it.*
+
+## What he saw
+
+*"**I have seen God face to face**, and my life is preserved."*
+
+**Peniel** — the face of God.
+
+*No one has seen God at any time. **The only begotten Son**, who is in the bosom of the
+Father, He has declared Him.*
+
+Whoever Jacob spent the night with, John's sentence stands, and the church has read this
+passage the same way ever since: the One who can be wrestled with, and seen, and survived, is
+the Son.
+
+## How he won
+
+By not letting go. *I will not let You go unless You bless me* — said by a man who had already
+been dislocated and could no longer stand on his own.
+
+*And He said to me, "**My grace is sufficient for you, for My strength is made perfect in
+weakness**."*
+
+He prevailed by hanging on, and he limped for the rest of his life. Hosea's summary is that
+*he wept, and sought favour from Him* — the wrestling ended in tears and a request.
 
 > **The two things he keeps.** A new name and a hip that never sets right. He is told he prevailed,
 > and he walks away unable to walk properly.

@@ -112,5 +112,33 @@ but it leads to poverty.*
 
 The same logic as verse 17, applied to money.
 
+## Who stood surety for strangers
+
+Proverbs warns against it five times. *He who is surety for a stranger will suffer for it.*
+
+*By so much more **Jesus has become a surety of a better covenant**.*
+
+**Hebrews**' word is **engyos** — the guarantor, the one who stands good for another man's
+debt. It occurs once in the New Testament, and it is a title.
+
+He did the thing the book spends five warnings telling a young man never to do: struck hands
+for strangers, and suffered for it, exactly as the proverb said he would.
+
+*Blotting out **the handwriting of requirements that was against us**… and He has taken it out
+of the way, having nailed it to the cross.*
+
+**Paul**'s word is **cheirographon** — the certificate of debt, signed by hand. The document
+the surety is liable for.
+
+## The wages that lie
+
+*The wicked earns **wages that deceive**. Sow righteousness and **the reward is sure**.*
+
+*For **the wages of sin is death, but the gift of God is eternal life in Christ Jesus our
+Lord**.*
+
+**Paul** keeps the proverb's two columns and renames the second. What is sure on the right
+hand side turns out not to be a wage at all.
+
 > **The claim.** *A kind person does good to his own soul.* Not that kindness gets rewarded — that
 > it lands on the one doing it, at the time.

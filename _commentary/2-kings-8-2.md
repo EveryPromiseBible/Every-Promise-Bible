@@ -3,7 +3,7 @@ key: 2 Kings 8:2
 title: She did as the man of God said
 sources:
   - 2023-02-19 much-more-restoration-is-coming
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 One verse of obedience, and it costs her everything she owns for seven years.
@@ -103,6 +103,37 @@ she left the country until now**."* See the note on 2 Kings 8:6.
 
 Seven years of harvests off land she did not work, awarded by a king who happened to be hearing
 her story at the moment she walked in.
+
+## What the verse contains
+
+An instruction, and a compliance. *So the woman arose and did according to the saying of the
+man of God.*
+
+No question, no negotiation, no request for a sign, and no recorded feeling about leaving her
+house for seven years.
+
+*"Whatever He says to you, do it."* Mary, at a wedding in Cana, to servants standing by six
+empty pots. See the note on John 2:6–8.
+
+## Which country she went to
+
+*She dwelt in **the land of the Philistines** seven years.*
+
+Not Egypt. Elimelech took his family to Moab in a famine and buried himself and both sons
+there; the Shunammite goes to Philistine country and comes home with her son and her claim
+intact. See the note on Ruth 1:1–5.
+
+The difference between the two is that one was sent.
+
+## What was waiting when she returned
+
+Nothing. Her house and land are gone, and she has to go to the king to ask.
+
+And she walks into the throne room at the exact moment Gehazi is telling the king the story of
+how Elisha raised her son. See the note on 2 Kings 8:4–5.
+
+*And we know that **all things work together for good** to those who love God, to those who are
+the called according to His purpose.*
 
 > **The verse.** An instruction, and a compliance, with nothing in between. Seven years in enemy
 > territory pass in half a sentence.

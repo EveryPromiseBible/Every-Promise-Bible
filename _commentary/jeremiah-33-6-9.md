@@ -47,6 +47,56 @@ Trembling is normally the response to judgement. Here the nations shake at
 That is an unusual sentence, and Jeremiah means it: the sheer scale of the mercy
 is what unsettles the onlookers.
 
+## What is promised nine verses later
+
+*"In those days and at that time I will cause **a Branch of righteousness** to grow up to David…
+And this is the name by which she will be called: **THE LORD OUR RIGHTEOUSNESS**."*
+
+Jeremiah 33:15–16, and it is the same promise as chapter 23 with the name transferred from Him to
+the city. See the note on Jeremiah 23:5–6.
+
+The healing, the cleansing and the forgiveness in this paragraph are not free-standing. Nine
+verses on, the prophet names who they arrive through.
+
+## Trembling at goodness
+
+*They will **tremble in awe at all the good** and all the peace I pour out on it.*
+
+*Afterward the children of Israel shall return and seek the LORD their God and David their king,
+and **shall fear the LORD and His goodness** in the latter days.*
+
+Hosea says it too, and it is the same strange construction: fear attached to kindness.
+
+*Or do you despise the riches of His goodness, forbearance and longsuffering, not knowing that
+**the goodness of God leads you to repentance**?*
+
+**Romans** 2, and **Paul**'s word is **chrestos**. It is the mercy that turns a person round, not
+the threat — which is the sentence Jeremiah wrote from a prison courtyard while the ramps went up.
+
+## The cleansing
+
+*Cleanse them of every sin… forgive all their sins of rebellion.*
+
+*If we confess our sins, He is faithful and just to forgive us our sins and **to cleanse us from
+all unrighteousness**.*
+
+*"For I will be merciful to their unrighteousness, and **their sins and their lawless deeds I will
+remember no more**."*
+
+**Hebrews** quotes Jeremiah's own new covenant — the one he had written two chapters before this
+— and the not-remembering is the clause the whole argument ends on.
+
+## Who else was in prison writing about restoration
+
+*I therefore, **the prisoner of the Lord**, beseech you to walk worthy of the calling with which
+you were called.*
+
+*I want you to know, brethren, that the things which happened to me have actually **turned out for
+the furtherance of the gospel**.*
+
+**Paul** wrote **Ephesians** and **Philippians** in custody, and the second of them is the one
+about rejoicing.
+
 > **What is promised three verses later.** *In this place, of which you say, "It
 > is a waste"… there will be heard again the voice of joy and the voice of
 > gladness, the voice of the bridegroom and the voice of the bride.* Jeremiah

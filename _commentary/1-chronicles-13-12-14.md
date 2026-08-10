@@ -3,7 +3,7 @@ key: 1 Chronicles 13:12–14
 title: The house it stopped at
 sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Three verses, and two households come out of them differently.
@@ -99,6 +99,41 @@ The Chronicler, writing centuries later, is still counting them.
 
 An interruption that nobody planned, in a house nobody had chosen, and it is the only part of
 the first attempt that went well.
+
+## The same box, two outcomes
+
+At the threshing floor, a man dies touching it. Six miles away, *the LORD blessed the house of
+Obed-Edom and all that he had.*
+
+Nothing about the ark changed in three months.
+
+## What was on it
+
+The mercy seat, and on the mercy seat, blood. See the note on Leviticus 16:11–14.
+
+Underneath the lid were the tablets that condemned everybody in both houses. What stands
+between the law and the God who wrote it is the only thing that differs.
+
+*Whom God set forth as **a propitiation by His blood**.*
+
+Paul's word is **hilasterion** — the term the Greek Old Testament uses for that lid. He picks
+the cover of this box for what **Christ** is.
+
+## Who Obed-Edom was
+
+A Gittite — a man from Gath, Goliath's town, with the ark of Israel in his house because
+nobody in Israel would take it.
+
+*But now in **Christ Jesus** you who once were far off have been brought near by the blood of
+Christ.*
+
+## What David asks
+
+*"**How can I bring the ark of God to me?**"*
+
+He asks it in fear, and the answer turns out to be in the book he already had. Three months
+later he says so: *we did not consult Him about the proper order.* See the note on
+1 Chronicles 15:11–15.
 
 > **What the two households prove.** Same ark, same season, six miles apart. One man died
 > touching it and one family was blessed housing it — and the difference was never the object.

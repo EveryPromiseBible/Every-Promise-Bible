@@ -3,7 +3,7 @@ key: Numbers 14:26–35
 title: "The very things you spoke in My hearing"
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 God answers the complaint, and the answer is the complaint.
@@ -77,6 +77,26 @@ for the hill country with the Anakim on it — *give me this mountain.* See the 
 on Joshua 14:6–15.
 
 The same giants. A different man's report about them.
+
+## The rest they did not enter
+
+*So I swore in My wrath, "**They shall not enter My rest**."*
+
+Hebrews quotes it and then does something with it that Numbers does not: it says the offer is
+still open.
+
+*There remains therefore **a rest for the people of God**. For he who has entered His rest has
+himself also **ceased from his works**, as God did from His.*
+
+The wilderness generation did not fail to work hard enough. They died in a desert because they
+would not walk into something already given.
+
+## What kept them out, in one word
+
+*And to whom did He swear that they would not enter His rest, but to those who did not obey? So
+we see that **they could not enter in because of unbelief**.*
+
+Not the giants. Not the walls. Not the forty days of reconnaissance.
 
 > **What God said before all this.** *"I have forgiven them, as you asked."* Moses
 > had interceded and the forgiveness is granted in verse 20, five verses before the

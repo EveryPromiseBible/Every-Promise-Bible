@@ -70,6 +70,43 @@ there.*
 He cleared the temple and then walked two miles out of the city to sleep at
 Lazarus's house. Every night that week.
 
+## Which lamb came in that day
+
+The callout above dates it: Nisan 10, the day the Passover lamb was brought into the house and
+kept until the fourteenth.
+
+*"Your lamb shall be without blemish, a male of the first year… Now you shall keep it **until the
+fourteenth day of the same month**. Then the whole assembly of the congregation of Israel shall
+kill it at twilight."*
+
+He walks into the temple on the day the lamb is brought in, and is questioned for three days —
+which is what the four days of keeping were for: the animal was watched for defects.
+
+*"**I find no fault in Him at all.**"*
+
+*For indeed **Christ, our Passover, was sacrificed for us**.*
+
+## Who came to Him in the courts
+
+*Then **the blind and the lame came to Him in the temple, and He healed them**.*
+
+The two categories Malachi named as unfit for the altar, and whom later custom barred from the
+courts. See the note on Malachi 1:6–9.
+
+He turns over the tables where animals were sold and then heals the animals' human counterparts in
+the same room.
+
+## The temple He was talking about
+
+*Jesus answered and said to them, "**Destroy this temple, and in three days I will raise it up**"…
+But **He was speaking of the temple of His body**.*
+
+**John** puts a cleansing of the temple beside that sentence. The building **Jesus** clears in
+**Matthew** 21 is destroyed within forty years; the one He names in **John** 2 was raised in three
+days.
+
+*Do you not know that **you are the temple of God** and that the Spirit of God dwells in you?*
+
 > **What week this is.** Nisan 10, the day the Passover lamb was brought into the
 > house and kept until the fourteenth. He comes into the temple on the day the lamb
 > comes in, and the next three days are spent being questioned. See the notes on

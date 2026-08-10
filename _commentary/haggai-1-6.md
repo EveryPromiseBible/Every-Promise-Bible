@@ -108,5 +108,57 @@ break in and steal."*
 And the barn-builder: *"Fool! This night your soul will be required of you; then whose will
 those things be which you have provided?"*
 
+## The two that were answered by name
+
+*"You **eat, but you are never full**. You **drink, but you are never satisfied**."*
+
+*"**I am the bread of life. He who comes to Me shall never hunger**, and he who believes in Me
+shall never thirst."*
+
+*"Whoever drinks of this water will thirst again, but **whoever drinks of the water that I shall
+give him will never thirst**."*
+
+**John** 6 and **John** 4, and between them they take Haggai's first two clauses and answer each in
+the first person.
+
+*"**Do not labour for the food which perishes**, but for the food which endures to everlasting
+life, which the Son of Man will give you."*
+
+## The purse
+
+*"You earn wages, only to pour them into **a purse full of holes**."*
+
+*"**Do not lay up for yourselves treasures on earth**, where moth and rust destroy and where thieves
+break in and steal; but lay up for yourselves treasures in heaven… For where your treasure is,
+there your heart will be also."*
+
+**Matthew** 6, and it is Haggai's bag with a diagnosis attached: the leak is not an accident of
+economics, and the remedy is a change of address rather than a bigger purse.
+
+*"**Provide yourselves money bags which do not grow old**, a treasure in the heavens that does not
+fail."*
+
+**Luke** 12, and the Greek is **ballantia me palaioumena** — purses that do not wear out. It is the
+same object, mended.
+
+## What was given before the work
+
+*"**I am with you**," says the LORD.*
+
+Five words, before a single stone had moved, to people who had just been told their harvests were
+failing because of them.
+
+*But God demonstrates His own love toward us, in that **while we were still sinners, Christ died
+for us**.*
+
+## The clothes
+
+*"You **put on clothes, but you never feel warm**."*
+
+*"For as many of you as were baptised into Christ **have put on Christ**."*
+
+*I will greatly rejoice in the LORD… for **He has clothed me with the garments of salvation**, He has
+covered me with the robe of righteousness.*
+
 > **What each clause records.** The work was done. Planted, eaten, earned — and then the result
 > is missing. Nothing on the list is about not trying.

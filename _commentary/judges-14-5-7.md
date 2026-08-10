@@ -5,7 +5,7 @@ sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2021-05-16 ask-big-ask-bold
   - 2024-03-17 live-led-by-the-power-of-the-spirit
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The first recorded act of Samson's strength, and it happens where nobody can see
@@ -50,6 +50,25 @@ The chapter is not presenting Samson as a model. He is on his way to a marriage
 his parents objected to, in Philistine territory, and the phrase *right in his
 eyes* is the book's own shorthand for what was wrong with that whole era —
 *everyone did what was right in his own eyes.*
+
+## Who did it
+
+*And **the Spirit of the LORD came mightily upon him**, and he tore the lion apart as one
+would have torn apart a young goat.*
+
+Judges says it four times about Samson, and every time it is the Spirit and not the man.
+
+His strength was never his. The Philistines spend the whole account trying to find out where
+it is kept, and the answer is that it was on loan.
+
+## What the lion is
+
+Peter uses the same animal: *be sober, be vigilant; because **your adversary the devil walks
+about like a roaring lion**, seeking whom he may devour.*
+
+Samson meets his with nothing in his hands, and the account is careful that the strength was
+not his — *the Spirit of the LORD came mightily upon him*. The lion is torn apart by Someone
+else working through a man on a road.
 
 > **What the lion becomes.** He goes back that way later, finds honey in the
 > carcass, and builds a riddle out of it that starts the feud with the

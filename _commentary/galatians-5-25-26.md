@@ -75,6 +75,40 @@ The Greek for *restore* is **katartizo** — the word for setting a broken bone.
 That is the first thing Paul asks of people who are keeping in step. See the note on
 Galatians 6:1–3.
 
+## The two verbs
+
+*If we **live** in the Spirit, let us also **walk** in the Spirit.*
+
+**Zomen** and **stoichomen**. The first is a fact stated as a condition; the second is the only
+imperative.
+
+**Stoicheo** is not the ordinary word for walking. It means to keep in step, to march in file — the
+word for soldiers in rank.
+
+## Which order it is in
+
+The living comes first. **Paul** does not tell them to walk in order to live.
+
+*And you He made alive, who were **dead in trespasses and sins**.*
+
+*Even when we were dead in trespasses, **made us alive together with Christ** — by grace you have been
+saved.*
+
+*Therefore, if anyone is in **Christ**, he is a new creation.*
+
+## What the two vices are
+
+*Let us not become conceited, provoking one another, envying one another.*
+
+**Kenodoxoi** — empty-glory people. And the two behaviours **Paul** names are the two directions
+comparison runs: provoking those below and envying those above.
+
+*Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem
+others better than himself… **Let this mind be in you which was also in Christ Jesus**, who, being in
+the form of God… made Himself of no reputation.*
+
+**Philippians** 2 answers the same two vices, and the answer is a Person rather than a rule.
+
 > **What the marching image gives you.** In a line, nobody sets their own pace and
 > nobody is out in front. Conceit and rivalry are simply what breaking rank looks
 > like.

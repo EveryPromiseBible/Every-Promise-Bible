@@ -3,7 +3,7 @@ key: Esther 1:1–4
 title: The king who ruled the world
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The book opens on the most powerful man on earth, and God is not mentioned. He
@@ -50,6 +50,18 @@ his to sign away.
 
 That is where the book starts, and it starts there deliberately. The reader is
 meant to look at all of it and ask the question the whole book answers.
+
+## The God who is not mentioned
+
+Esther never names Him. Not once in ten chapters — no prayer recorded, no miracle, no prophet,
+no temple, no law quoted.
+
+And nothing in the book happens by accident.
+
+*And we know that **all things work together for good** to those who love God, to those who
+are the called according to His purpose.*
+
+**Paul**'s sentence is the thesis of a book that never mentions its subject.
 
 > **The name hidden in the text.** Four times in the Hebrew of Esther the letters
 > of the name **YHWH** stand at the start of four consecutive words, spelled out

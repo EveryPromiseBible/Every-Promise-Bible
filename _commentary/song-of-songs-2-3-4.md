@@ -113,5 +113,46 @@ And at the end, only the one direction: *I am my beloved's, and his desire is to
 
 The Song moves the pronouns three times and lands on his desire.
 
+## The longing and the sitting
+
+*I longed to sit, and there I sat.* Nothing between the two verbs.
+
+*"**Come to Me, all you who labour and are heavy laden, and I will give you rest.**"*
+
+*Looking unto **Jesus**, the author and finisher of our faith… **who sat down** at the right
+hand of the throne of God.*
+
+**Hebrews** uses the sitting to make its whole argument: *every priest stands ministering
+daily… but this Man, after He had offered one sacrifice for sins forever, sat down.* The Song's
+two verbs — wanting to sit and sitting — describe what a finished work makes possible.
+
+## Whose standard it turned out to be
+
+*"And in that day there shall be **a Root of Jesse, who shall stand as a banner to the
+people**; for the Gentiles shall seek Him."*
+
+Isaiah's word is **nes** — the raised signal. **Paul** quotes the verse at the end of **Romans**
+and applies it to **Christ**.
+
+*"And **as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted
+up**, that whoever believes in Him should not perish."*
+
+A standard is something raised so it can be seen. **John** has Him say what the raising would
+be.
+
+*But God demonstrates His own love toward us, in that **while we were still sinners, Christ
+died for us**.*
+
+The banner says love, and the demonstration is dated.
+
+## The fruit and the shade
+
+*In his shade I sat, and his fruit was sweet to my taste.*
+
+*"**O taste and see that the LORD is good.**"*
+
+*If indeed you have tasted that the Lord is gracious.* **Peter** quotes the psalm and makes the
+tasting the ground of everything that follows in his letter.
+
 > **The two verbs.** *I longed to sit, and there I sat.* Nothing comes between them, which is the
 > whole point of the line.

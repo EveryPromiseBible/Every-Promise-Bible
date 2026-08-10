@@ -6,7 +6,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2025-07-13 freedom-from-a-guilty-conscience
   - 2026-02-08 superabounding-grace-for-unresolved-guilt
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 God's first recorded words after the fall are a question, and He already knows
@@ -46,6 +46,19 @@ The woman's answer is shorter and does the same: *the serpent deceived me.*
 
 Nobody says *I did it*. That is the whole exchange, and it is the first
 conversation between God and guilty people in the Bible.
+
+## The first question in the Bible
+
+*Where are you?*
+
+God asks it of two people hiding in the bushes because they are ashamed, and He asks it before
+He says anything about what they had done.
+
+*For **the Son of Man has come to seek and to save that which was lost**.*
+
+Jesus said that over a tax collector's dinner table, and it is the same sentence in a different
+tense. Genesis 3 is the first time God goes looking for somebody who does not want to be found,
+and it is the last time He is described as doing anything else.
 
 > **What He does anyway.** The curse, then the promise about the woman's seed,
 > and then — before the exile from the garden — *the LORD God made garments of

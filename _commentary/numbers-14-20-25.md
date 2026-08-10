@@ -6,7 +6,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2020-12-13 declare-you-are-highly-favored
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The forgiveness and the consequence are in the same paragraph, and one man is
@@ -80,6 +80,33 @@ to, because the LORD was not among them. They went anyway and were beaten back.
 
 A day late, and doing it on their own strength, which is a different thing from
 faith even when the action looks the same.
+
+## Forgiven, in five words
+
+*"**I have forgiven them, as you asked.**"*
+
+Granted whole, on the strength of one man's asking, before a word about consequences. Moses had
+pleaded *according to the greatness of Your mercy*, and that is the ground given.
+
+*For there is **one Mediator between God and men, the Man Christ Jesus**, who gave Himself a
+ransom for all.*
+
+Moses got a pardon for a nation by asking for it. He could not get them into the land, and he did
+not get in himself.
+
+## "A different spirit"
+
+*"But **My servant Caleb has a different spirit in him** and has followed Me wholeheartedly."*
+
+The Hebrew is **ruach acheret** — another spirit, of a different kind.
+
+He walked the same forty days, saw the same three giants at Hebron, and carried the same pole.
+Nothing in his information differed. Something in him did.
+
+*But **you are not in the flesh but in the Spirit**, if indeed the Spirit of God dwells in you.*
+
+The thing that separated two men from a nation was not nerve, and no battle had been fought to
+test it. It was what was in them.
 
 > **The two who came out.** Of everyone twenty and over who left Egypt, Joshua and
 > Caleb are the only two who entered. Two out of a nation, and the thing that

@@ -3,7 +3,7 @@ key: Numbers 24:1–2
 title: He stopped looking for omens
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The fourth attempt, and this time the diviner gives up on his own trade.
@@ -97,6 +97,29 @@ Numbers 31 records his death in battle.
 
 The New Testament names it three times: the way of Balaam, the error of Balaam, and the
 doctrine of Balaam.
+
+## What happened when he stopped
+
+He put down the apparatus, turned his face toward the camp, and looked — and *the Spirit of
+God came upon him*.
+
+Three rounds of technique produced nothing he wanted. Looking at what God was doing produced
+the finest words in the book.
+
+Paul: *we all, with unveiled face, **beholding as in a mirror the glory of the Lord**, are being
+transformed into the same image from glory to glory.*
+
+The phrase Balaam uses of himself is *falling down, but **with his eyes uncovered***.
+
+## Who saw first
+
+A donkey.
+
+The animal saw the Angel of the LORD three times and was beaten for stopping. *Then the LORD
+opened Balaam's eyes.*
+
+The professional seer is the last one in the story to see anything, and the fourth oracle ends
+with a Star.
 
 > **What he stopped doing.** Looking for omens. Three failed attempts with the full
 > apparatus, and on the fourth he turns his face toward the camp and looks — and that is

@@ -115,6 +115,44 @@ trouble of its own**.*
 He does not say tomorrow has no trouble in it. He says today's ration is sufficient
 and there is no provision for carrying a second day's.
 
+## The argument, taken to its end
+
+*If God clothes the grass… **how much more** will He clothe you.*
+
+**Jesus** argues from the smaller thing to the greater. **Paul** runs the same form with the
+largest term available on the near side:
+
+*He who did not spare His own Son, but delivered Him up for us all, **how shall He not with Him
+also freely give us all things**?*
+
+**Romans** 8:32, and the Greek for *freely give* is **charisetai** — from **charis**. Once the Son
+has been given, the birds and the lilies are not a separate question.
+
+## Whose righteousness is sought
+
+*"Seek first the kingdom of God and **His righteousness**."*
+
+*And be found in Him, **not having my own righteousness**, which is from the law, but that which is
+through faith in **Christ** — the righteousness which is from God by faith.*
+
+*For **He made Him who knew no sin to be sin for us, that we might become the righteousness of God
+in Him**.*
+
+The Sermon has spent two chapters proving nobody has one of their own. **Philippians** 3 and
+**2 Corinthians** 5 name where the other kind comes from.
+
+## Instead of worry
+
+*Be anxious for nothing, but in everything **by prayer and supplication, with thanksgiving**, let
+your requests be made known to God; and **the peace of God, which surpasses all understanding, will
+guard your hearts and minds through Christ Jesus**.*
+
+**Paul**'s verb for *be anxious* is **merimnate** — the word **Jesus** uses three times here. He
+does not answer it with an argument. He answers it with an address to send the worry to, and a
+sentry posted afterwards.
+
+*Casting all your care upon Him, **for He cares for you**.*
+
 > **The verse before all this.** *No one can serve two masters… you cannot serve God
 > and mammon.* Then *therefore I say to you, do not worry.* The passage about birds
 > is an answer to a question about who owns you.

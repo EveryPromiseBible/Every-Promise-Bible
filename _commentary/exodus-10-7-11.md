@@ -5,7 +5,7 @@ sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2021-04-11 all-things-work-for-your-good
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Pharaoh has stopped saying no. That is what makes this passage worth reading
@@ -35,6 +35,27 @@ The children are the sticking point, and Pharaoh knows exactly what he is doing.
 A generation of men can go and worship in the desert and still leave everything
 behind that would make the departure permanent. Keep the children and you keep
 the future.
+
+## What is always negotiated for
+
+The children, and then the livestock. Pharaoh will concede the worship as long as something
+stays behind that guarantees they come back.
+
+Moses' final answer refuses the whole principle: *our livestock also shall go with us; **not a
+hoof shall be left behind***.
+
+## The complete transfer
+
+Paul, of Christ: *He has **delivered us from the power of darkness** and **conveyed us into the
+kingdom of the Son of His love**, in whom we have redemption through His blood, the forgiveness
+of sins.*
+
+The Greek for *conveyed* is the word for relocating a population out of one jurisdiction into
+another. Not a day pass, not a furlough, and nothing held as security.
+
+And on the children specifically, when His own disciples were the ones doing the filtering:
+*Let the little children come to Me, and do not forbid them, for of such is the kingdom of
+God.*
 
 > **The rest of the pattern.** This is the third of four attempted compromises
 > across the chapters: worship inside Egypt; do not go far; leave the children;

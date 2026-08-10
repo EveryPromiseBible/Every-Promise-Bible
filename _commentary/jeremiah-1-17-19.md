@@ -107,5 +107,49 @@ He tried to stop.
 *"**Before I formed you in the womb I knew you**; before you were born I sanctified you; I
 ordained you a prophet to the nations."*
 
+## Who quoted his call about himself
+
+*"Before I formed you in the womb I knew you; before you were born I sanctified you."*
+
+*But when it pleased God, **who separated me from my mother's womb and called me through His
+grace**, to reveal His Son in me…*
+
+**Paul** takes Jeremiah's commissioning sentence and applies it to his own, and adds two words
+Jeremiah did not have: *through His grace*.
+
+## The city that is attacked and holds
+
+*A fortified city, an iron pillar, a wall of bronze… they will fight against you, but they will
+not win.*
+
+*"**I will build My church, and the gates of Hades shall not prevail against it.**"*
+
+*We are **hard-pressed on every side, yet not crushed**; perplexed, but not in despair;
+persecuted, but not forsaken; struck down, but not destroyed.*
+
+**Paul** in **2 Corinthians** 4 describes the same arrangement from the inside — every clause
+concedes the blow and denies the outcome. And he says where the difference is kept: *we have this
+treasure in earthen vessels, that the excellence of the power may be of God and not of us.*
+
+## The clause that closes and opens the call
+
+*For I am with you to rescue you.* Said twice in one chapter.
+
+*"And lo, **I am with you always, even to the end of the age.**"*
+
+**Matthew**'s last sentence is Jeremiah's, given to people who had also been told in advance that
+they would be handed over to councils and beaten in synagogues.
+
+## And the fire he could not hold in
+
+*But His word was in my heart **like a burning fire shut up in my bones**; I was weary of holding
+it back, and I could not.*
+
+*"Did not our heart burn within us while He talked with us on the road?"*
+
+*For **we cannot but speak the things which we have seen and heard**.*
+
+**Peter** and **John**, ordered by the council to stop, give Jeremiah's answer.
+
 > **What he is given.** Not eloquence and not an easy hearing. A city wall, an iron pillar
 > and bronze — three things whose only function is to be hit and stay up.

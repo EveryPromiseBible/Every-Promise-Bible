@@ -72,6 +72,40 @@ Getting wisdom is described as an act of self-love, which is not the usual frami
 The Hebrew is that delicate living is not fitting for him — it does not sit right,
 like good clothes on the wrong man.
 
+## Where the overlooking was done
+
+*And above all things **have fervent love for one another, for love will cover a multitude of
+sins**.*
+
+**Peter**'s verb is **kalyptei** — covers, puts a lid over. Not excuses, and not fails to
+notice.
+
+*"**Father, forgive them, for they do not know what they do.**"*
+
+The proverb calls overlooking an offence a man's glory. **Luke** records the largest offence
+ever committed and the sentence spoken over it while it was still being committed.
+
+## Where the bride comes from
+
+*House and wealth are handed down from parents, but **a sensible wife comes from the LORD**.*
+
+*"**All that the Father gives Me will come to Me**, and the one who comes to Me I will by no
+means cast out."*
+
+*Husbands, love your wives, just as **Christ also loved the church and gave Himself for her**…
+that He might **present her to Himself a glorious church**.*
+
+Proverbs' one thing that cannot be inherited, arranged or negotiated is given by the Father —
+and **Ephesians** describes a Bridegroom receiving exactly that, from exactly that source.
+
+## The dew
+
+*His favour is like **dew on the grass**.*
+
+**Ratzon** — favour, good pleasure, acceptance. The word used of a sacrifice being accepted.
+
+*"This is My beloved Son, **in whom I am well pleased**."*
+
 > **What Proverbs says about finding one.** *Whoever finds a wife finds a good thing,
 > and obtains favour from the LORD.* The verb is to find, which is what you do with
 > something you were not able to manufacture — and the favour is credited to the

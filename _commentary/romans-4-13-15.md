@@ -46,6 +46,36 @@ The law is not accused of causing sin. It is described as the thing that turns
 wrongdoing into transgression — a crossing of a marked line — and so brings the
 matter under judgement. He develops this at length three chapters later.
 
+## The verse the argument is for
+
+*Therefore **it is of faith that it might be according to grace**, so that the promise might be sure
+to all the seed.*
+
+Verse 16, and **Paul** gives the reason for the whole chapter's arithmetic. Faith is not a better
+qualification than law-keeping. It is the only arrangement under which the thing can be a **gift**
+— and therefore the only one under which it can be **certain**.
+
+**Bebaian** — sure, guaranteed. A promise conditioned on performance is only as reliable as the
+performer.
+
+*For if those who are of the law are heirs, **faith is made void and the promise made of no
+effect**.*
+
+## Where the wrath went
+
+*The law brings about wrath.*
+
+*Much more then, having now been justified by His blood, **we shall be saved from wrath through
+Him**.*
+
+*Christ has redeemed us from the curse of the law, **having become a curse for us**.*
+
+*For **He made Him who knew no sin to be sin for us**, that we might become the righteousness of God
+in Him.*
+
+**Paul** does not soften the clause. He says elsewhere where the wrath the law produces was
+discharged.
+
 > **What the promise actually was.** *That he would inherit the world.* Genesis
 > promised Abraham a land, descendants, and blessing to all nations. Paul reads
 > the whole thing as one inheritance and states it at its widest — which is the

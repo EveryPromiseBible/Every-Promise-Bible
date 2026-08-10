@@ -120,6 +120,52 @@ ground.*
 
 The same words He used in the upper room. See the note on John 14:28–31.
 
+## What was in the cup
+
+*"O My Father, if it is possible, **let this cup pass from Me**."*
+
+The cup is not death. The Old Testament has a fixed image for it:
+
+*For in the hand of the LORD there is **a cup**, and the wine is red; it is fully mixed, and He
+pours it out.*
+
+*Awake, awake! Stand up, O Jerusalem, you who have drunk **at the hand of the LORD the cup of His
+fury**; you have drunk the dregs of the cup of trembling, and drained it out.*
+
+*He himself shall also drink of **the wine of the wrath of God**, which is poured out full strength
+into the cup of His indignation.*
+
+Every occurrence is the same cup, and **Revelation** 14 says who normally drinks it.
+
+*For **He made Him who knew no sin to be sin for us**, that we might become the righteousness of God
+in Him.*
+
+*Christ has redeemed us from the curse of the law, **having become a curse for us**.*
+
+## What He said the second time
+
+*"O My Father, **if this cup cannot pass away from Me unless I drink it, Your will be done**."*
+
+The first prayer has an *if it is possible*. The second has an *if it cannot*, and the grammar has
+moved.
+
+*"**The cup which My Father has given Me, shall I not drink it?**"*
+
+**John** 18, said in the same garden a few minutes later, to Peter with a sword.
+
+## What He drank instead
+
+*Then they gave Him **sour wine mingled with gall** to drink. But when He had tasted it, He would
+not drink.*
+
+He refuses the sedative and takes the other cup.
+
+*Likewise He also took **the cup** after supper, saying, "This cup is **the new covenant in My
+blood**, which is shed for you."*
+
+Hours earlier He had handed a cup round. In the garden He asks to be spared one. **Paul** says the
+first is offered to everybody because He did not get out of the second.
+
 > **What He does not do.** Hide it. He tells three men He is crushed, asks them to stay
 > awake, goes face down, and asks — twice with an *if* and every time with the same last
 > clause.

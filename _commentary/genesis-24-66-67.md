@@ -4,7 +4,7 @@ title: Isaac was comforted
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The last two verses of the longest chapter in Genesis.
@@ -89,5 +89,27 @@ Genesis 47:27–31.
 
 He says it twice, and bows and worships in the middle of a stranger's courtyard.
 
+## How the chapter closes the picture
+
+The Father sent. The servant went, never named, speaking only of the son and spending only
+the father's wealth. The bride was asked one question and said *I will go*. And the son came
+out into the field at evening and lifted his eyes, and the camels were coming. See the note
+on Genesis 24:1–4.
+
+She had never seen him. She travelled four hundred miles on the strength of what the servant
+told her about him, and everything she was wearing had come out of his father's house.
+
+*Whom having not seen you love. Though now you do not see Him, yet believing, **you rejoice
+with joy inexpressible and full of glory**.* See the note on 1 Peter 1:8–9.
+
+## The last thing said about the son
+
+*And he loved her.*
+
+Isaac does nothing in this chapter except go out to meet her and love her. He is not
+consulted about the choice, and there is no test set for her when she arrives. She is brought
+in, and she is loved.
+
 > **How the chapter ends.** Not with a wedding scene. With a man taking a woman into his
-> dead mother's tent, and one word about grief finally lifting.
+> dead mother's tent, one word about grief finally lifting — and the last clause of the
+> longest chapter in Genesis being *and he loved her*.

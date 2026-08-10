@@ -4,7 +4,7 @@ title: The golden sceptre
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2025-01-12 the-third-day
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two verses, and they carry the weight of the whole book.
@@ -60,6 +60,50 @@ spared her. The order in those two verses is the order the whole book runs on.
 *"What is your request? It shall be given you, **up to half the kingdom**."*
 
 That is the next sentence. The law said death; the sceptre said half an empire.
+
+## What the law said
+
+*"**Any man or woman who goes into the inner court to the king, who has not been called, has
+but one law: put all to death**, except the one to whom the king holds out the golden
+sceptre."*
+
+One law, one penalty, and one exception — and the exception is entirely in the king's hand.
+She cannot earn it, request it, or make herself eligible for it.
+
+She had said it herself: *if I perish, I perish.*
+
+## What happens
+
+*So it was, when the king saw Queen Esther standing in the court, that **she found favour in
+his sight**, and the king **held out to Esther the golden sceptre**.*
+
+He moves first. She has not spoken, asked, or explained. She is standing there, and the
+sceptre goes out.
+
+## Where the same throne is described
+
+*Let us therefore **come boldly to the throne of grace**, that we may obtain mercy and find
+grace to help in time of need.*
+
+The Greek is **parrhesia** — freedom of speech, the right of a citizen to say anything in the
+assembly. **Hebrews** applies it to a throne that had a death penalty attached in every other
+account of it.
+
+And the reason it can be approached: *having therefore, brethren, **boldness to enter the
+Holiest by the blood of Jesus**… let us draw near.*
+
+## What made the difference
+
+Not her courage, though she had it. The sceptre.
+
+*In whom we have **boldness and access with confidence through faith in Him**.*
+
+## Which day it was
+
+*Now it happened on **the third day** that Esther put on her royal robes and stood in the inner
+court.*
+
+Three days of fasting first, and then she goes in and lives.
 
 > **Where the throne came from.** She is standing in a room she only occupies
 > because Vashti refused to come when she was summoned. One woman would not come

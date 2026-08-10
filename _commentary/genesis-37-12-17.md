@@ -5,7 +5,7 @@ sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2024-07-28 provision-in-the-place-of-nearness
   - 2024-08-04 win-the-battle-over-temptation
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A father sends a son to check on brothers who hate him, and the son says yes.
@@ -112,10 +112,28 @@ The city where Elisha's servant woke to find an army surrounding them, and the p
 
 Twenty-two years later, to the same brothers.
 
-## The sending
+## What the sending is a picture of
 
-A father sends his son to brothers who will not receive him, and the son goes willingly and keeps
-going when the first place is empty.
+A father sends his son to brothers who will not receive him. The son says *here I am*, walks
+fifty miles, finds the place empty, and keeps going.
+
+*He came to His own, and **His own did not receive Him**.* See the note on John 1:14–18.
+
+And in the parable of the vineyard, after every servant has been beaten or killed: *then last
+of all he sent his son to them, saying, "**They will respect my son.**" But when the
+vinedressers saw the son, they said among themselves, "**This is the heir. Come, let us kill
+him.**"*
+
+The brothers say it almost word for word. *Here comes the dreamer… come now, let us kill
+him.* See the note on Genesis 37:18–24.
+
+## What the errand actually was
+
+*See whether all is well with your brothers* — **re'eh et-shelom achecha**. He is sent to ask
+after their **shalom**.
+
+He is stripped and dropped down a hole by the men whose peace he came to enquire about, and
+the peace gets made anyway — twenty-two years later, out of a granary, by him.
 
 > **The word.** **Hinneni** — here I am. Said by a seventeen-year-old being sent fifty miles to
 > brothers the chapter has just told us three times could not speak a kind word to him.

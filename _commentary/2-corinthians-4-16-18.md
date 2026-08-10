@@ -50,6 +50,42 @@ and Paul does not pretend the first one stops.
 That honesty is what makes the paragraph usable by someone in a hospital chair.
 Nothing here says the outer wearing away is imaginary or will reverse.
 
+## What is doing the renewing
+
+*Even though our outward man is perishing, yet **the inward man is being renewed day by day**.*
+
+**Anakainoutai** — a present passive. Renewed, by somebody, continuously.
+
+*Not by works of righteousness which we have done, but according to His mercy He saved us, through
+the washing of regeneration and **renewing of the Holy Spirit**.*
+
+*But we all, with unveiled face, beholding as in a mirror **the glory of the Lord, are being
+transformed into the same image** from glory to glory, just as by the Spirit of the Lord.*
+
+**2 Corinthians** 3:18, thirteen verses earlier. The renewal is happening while somebody looks at
+somebody.
+
+## The comparison
+
+*Our light affliction, which is but for a moment, is working for us **a far more exceeding and
+eternal weight of glory**.*
+
+**Paul** wrote it having been beaten five times with thirty-nine lashes, three times with rods, and
+stoned once — and he calls it **elaphron**, light.
+
+*For **I consider that the sufferings of this present time are not worthy to be compared with the
+glory which shall be revealed in us**.*
+
+## What is looked at
+
+*While we do not look at the things which are seen, but at the things which are not seen.*
+
+*Looking unto **Jesus, the author and finisher of our faith**, who for the joy that was set before Him
+endured the cross.*
+
+**Hebrews** 12 names the object. **Paul** says the renewal runs on looking, and the gospels supply
+what at.
+
 > **"We keep our eyes not on what can be seen."** The verb is about aiming
 > attention deliberately — the word behind our *scope*. It is not denial of the
 > visible; Paul has just catalogued it. It is a decision about which set of facts

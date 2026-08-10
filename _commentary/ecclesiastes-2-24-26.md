@@ -68,6 +68,38 @@ cannot hold.
 He applies it to the gathering, not to the gift. The eating and drinking and joy
 are *from the hand of God*; the heaping up is wind.
 
+## Who ate and drank
+
+The Preacher's whole positive conclusion is bread, a cup, and satisfaction in the day's work,
+*from the hand of God*.
+
+*"The Son of Man has come **eating and drinking**, and you say, 'Look, a glutton and a
+winebibber, a friend of tax collectors and sinners!'"*
+
+**Luke** records the complaint. Whatever else the gospels are, they are full of meals — a
+wedding, a hillside, a tax collector's house, a borrowed upper room, a charcoal fire on a
+beach.
+
+*"**Take, eat**"… "**Drink from it, all of you.**"*
+
+Bread and a cup, handed over. Ecclesiastes says ordinary eating is a gift from God's hand and
+cannot say more than that; the upper room says whose hand and what it cost.
+
+## Apart from Him
+
+*For apart from Him, who can eat, who can find any real enjoyment?*
+
+*"I am the vine, you are the branches… **for without Me you can do nothing**."*
+
+**Jesus**' clause is **choris emou** — apart from Me. The Preacher reaches the sentence by
+experiment, having owned everything on the list and enjoyed none of it.
+
+*God, **who gives us richly all things to enjoy**.*
+
+**Paul** to **Timothy**, in a paragraph telling the rich not to trust in uncertain riches. The
+adverb is **plousios** — richly. Ecclesiastes finds that enjoyment is a gift; **1 Timothy**
+says it is given generously and names the Giver.
+
 > **Where the book ends.** *Fear God and keep His commandments, for this is the
 > whole duty of man.* Twelve chapters of a man with unlimited means testing every
 > avenue, and the conclusion is two clauses long.

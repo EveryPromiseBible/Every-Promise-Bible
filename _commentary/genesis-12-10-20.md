@@ -5,7 +5,7 @@ sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The chapter opens with the greatest promise in the Old Testament and closes with
@@ -76,6 +76,28 @@ called on the name of the LORD.*
 
 That is the first line of chapter 13. The way back is up, to the old tent site,
 to the altar he had already built.
+
+## What God does not say
+
+Not one word of rebuke is recorded. Not in Egypt, not at the border, and not in the next
+chapter when Abram comes back up to the altar.
+
+A pagan king delivers the reprimand, every word of it deserved, and God delivers none — and the
+next time He speaks to Abram He enlarges the promise.
+
+*There is therefore now **no condemnation** to those who are in Christ Jesus.*
+
+The man in this chapter had no law to break, no covenant sign, and no atonement made. What he
+had was a promise, and the promise was not on the table at any point in the episode.
+
+## Who protected it
+
+*But the LORD struck Pharaoh… because of Sarai, Abram's wife.*
+
+Abram does not pray, confess or intervene. He is silent for the whole rescue, and God moves on
+a foreign palace to get the mother of the promised son back out of it.
+
+The covenant was defended by the One who made it, while the man who received it said nothing.
 
 > **What is not said.** Not one sentence of condemnation from God. The next time
 > He speaks to Abram, in chapter 13, it is to enlarge the promise: *lift up your

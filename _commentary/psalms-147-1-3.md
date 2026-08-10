@@ -8,7 +8,7 @@ sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-11-03 the-transformative-power-of-gods-word
   - 2024-12-22 when-god-stooped-down
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The psalm puts two things side by side that do not obviously belong together.
@@ -77,6 +77,42 @@ The two fastest things in that world, and both are dismissed in one verse.
 
 Three words for it. The psalm argues that praise is good, that it is enjoyable, and
 that it is appropriate — and then gives four verses of reasons.
+
+## What He is doing between two enormous facts
+
+*He counts the number of the stars; He calls them all by name… **He heals the brokenhearted and
+binds up their wounds**.*
+
+The psalm puts the two side by side on purpose — the God who names every star is described in
+the next breath as bandaging people.
+
+*Are not two sparrows sold for a copper coin? And not one of them falls to the ground apart
+from your Father's will. But **the very hairs of your head are all numbered**.*
+
+**Jesus** makes the same move, from the trivial to the personal, in one sentence.
+
+## The word for wounds
+
+**Atstsebotham** — from **atsav**, to hurt, to grieve. It is the same root as the pain named in
+Genesis 3, and the word for an idol.
+
+He binds up the places where a person is hurt, not only the places where they are wrong.
+
+## Who read this out loud about Himself
+
+*"The Spirit of the LORD is upon Me, because He has anointed Me to preach the gospel to the
+poor; He has sent Me **to heal the brokenhearted**, to proclaim liberty to the captives."*
+
+**Jesus**, in the synagogue at Nazareth, reading Isaiah — and He stops mid-sentence, rolls up
+the scroll and says *today this Scripture is fulfilled in your hearing*. See the note on
+Luke 4:16–21.
+
+## Who is gathered in the same paragraph
+
+*The LORD builds up Jerusalem; **He gathers together the outcasts of Israel**.*
+
+The outcasts, and then the brokenhearted. The psalm's order is that He collects them first and
+bandages them after.
 
 > **What the psalm ends on.** *He declares His word to Jacob, His statutes and His
 > judgements to Israel. He has not dealt thus with any nation.* The final boast of

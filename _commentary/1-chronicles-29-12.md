@@ -4,7 +4,7 @@ title: "Wealth and honor come from You"
 sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2025-01-19 discern-the-times-we-live-in
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 An old king prays in front of the nation after the largest offering in Israel's history.
@@ -87,6 +87,54 @@ The same two words, given to the son of the man who prayed this.
 years… **and he died in a good old age, full of days and riches and honour**.*
 
 The chronicler closes the account with the two words from the prayer.
+
+## Where he is standing when he says it
+
+In front of the whole assembly, having just given three thousand talents of gold from his own
+treasury, with the leaders adding five thousand more and the people rejoicing *because they
+had offered willingly*.
+
+The sentence is not said in poverty. It is said on the largest single day of giving in the Old
+Testament.
+
+## How he opens
+
+*"**But who am I, and who are my people, that we should be able to offer so willingly as
+this? For all things come from You, and of Your own we have given You.**"*
+
+The giving is described as returning.
+
+## The sentence itself
+
+*"**Both riches and honor come from You, and You reign over all. In Your hand is power and
+might; in Your hand it is to make great and to give strength to all.**"*
+
+Two things in His hand, and both are transitive — power to make great, and power to
+strengthen.
+
+## What Paul asks about the same thing
+
+*For **who makes you differ from another? And what do you have that you did not receive?** Now
+if you did indeed receive it, why do you boast as if you had not received it?*
+
+Three questions, and David has already answered all three standing in front of a pile of
+gold.
+
+## What he actually requests
+
+Not more.
+
+*"**Give my son Solomon a loyal heart**, to keep Your commandments… and to build the temple
+for which I have made provision."*
+
+## What Jesus watched
+
+*Now **Jesus** sat opposite the treasury and saw how the people put money into the treasury…
+and one poor widow came and threw in two mites… "**this poor widow has put in more than all
+those who have given**."*
+
+The largest offering in Chronicles and the smallest in the gospels are both praised, and
+neither is measured by the amount.
 
 > **When it was said.** Not in poverty. Standing in front of the largest voluntary
 > offering the nation ever gave, with the inventory in front of him, David says the

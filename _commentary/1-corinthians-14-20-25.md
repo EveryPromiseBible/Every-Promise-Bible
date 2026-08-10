@@ -87,6 +87,40 @@ let him speak to himself and to God.*
 
 Then: *let all things be done decently and in order.*
 
+## What the outsider ends up doing
+
+*And thus **the secrets of his heart are revealed; and so, falling down on his face, he will worship
+God and report that God is truly among you**.*
+
+**Paul**'s stated goal for a church meeting is that a stranger who wanders in ends up on the floor.
+
+**Ta krypta tes kardias autou phanera ginetai** — the hidden things of his heart become visible.
+
+*"**Come, see a Man who told me all things that I ever did. Could this be the Christ?**"*
+
+**John** 4, and the Samaritan woman runs into town advertising the exposure as the reason to come and
+look.
+
+*For **the word of God is living and powerful, and sharper than any two-edged sword**… and is a
+discerner of the thoughts and intents of the heart.*
+
+## God is truly among you
+
+*"Behold, the virgin shall be with child, and bear a Son, and they shall call His name **Immanuel**,"
+which is translated, "**God with us**."*
+
+The outsider's conclusion is the name.
+
+*For where two or three are gathered together in My name, **I am there in the midst of them**.*
+
+## The quotation Paul uses
+
+*With men of other tongues and other lips I will speak to this people; and yet, for all that, **they
+will not hear Me**.*
+
+Isaiah 28, and **Paul** cites it to argue that unintelligible speech is a sign of judgement rather
+than a mark of favour — which is the opposite of what the Corinthians thought.
+
 > **The rule underneath.** Paul is asking one question the whole way through — what does
 > the person who walked in off the street take away from it. Everything in the chapter
 > is arranged around that visitor.

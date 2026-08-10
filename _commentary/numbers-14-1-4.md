@@ -3,7 +3,7 @@ key: Numbers 14:1–4
 title: The night they wept
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A whole nation cries all night over a country they have not seen, on the strength
@@ -73,6 +73,26 @@ The next verse: *they fell on their faces before all the assembly.*
 And Joshua and Caleb tear their clothes and plead — *the land is exceedingly good…
 only do not rebel against the LORD.* The assembly's answer is *stone them with
 stones.* See the note on Numbers 14:5–10.
+
+## What the New Testament calls this night
+
+*So we see that **they could not enter in because of unbelief**.*
+
+Hebrews spends two chapters on this chapter. Not on the giants, the walls or the logistics — on
+what the people concluded, in the dark, about a God who had already opened a sea for them.
+
+*For indeed the gospel was preached to us as well as to them; **but the word which they heard did
+not profit them, not being mixed with faith** in those who heard it.*
+
+The report was true. The land was good and the cities were fortified. What was missing was not
+information.
+
+## The warning attached
+
+*Therefore, as the Holy Spirit says: "**Today, if you will hear His voice, do not harden your
+hearts as in the rebellion**, in the day of trial in the wilderness."*
+
+Hebrews quotes Psalm 95 about this night and puts one word at the front of it: **today**.
 
 > **The forty years.** *For each of the forty days you explored the land, you will
 > bear your guilt a year.* One year in the wilderness for each day the spies were

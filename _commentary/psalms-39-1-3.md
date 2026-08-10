@@ -3,7 +3,7 @@ key: Psalms 39:1–3
 title: "The more I mused, the more the fire burned"
 sources:
   - 2021-02-07 answers-for-a-distracted-world
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 A man decides to say nothing, and the decision does not hold.
@@ -105,6 +105,37 @@ was in my heart like a burning fire shut up in my bones**; I was weary of holdin
 and I could not.*
 
 The same experiment, the same result.
+
+## What silence did
+
+*I was mute with silence, I held my peace even from good; and my sorrow was stirred up. **My
+heart was hot within me; while I was musing, the fire burned.***
+
+He decided not to speak and it made things worse. The Hebrew has the fire kindling *in* the
+musing, not despite it.
+
+## Where the same fire is a good sign
+
+*And they said to one another, "**Did not our heart burn within us** while He talked with us on
+the road, and while He opened the Scriptures to us?"*
+
+Two men on the Emmaus road, describing the identical sensation — a heat inside while thinking —
+and in their case the cause was **Jesus** walking beside them explaining the Bible.
+
+The psalm has a man burning alone with nobody to say it to. Luke has the same burning with
+Somebody in the conversation.
+
+## What he finally asks
+
+*"**LORD, make me to know my end**, and what is the measure of my days, that I may know how
+frail I am."*
+
+And then: *"**And now, Lord, what do I wait for? My hope is in You.**"*
+
+The psalm that begins with a man muzzling himself ends with him talking to the only one worth
+breaking the silence for.
+
+*Casting all your care upon Him, for He cares for you.*
 
 > **What the muzzle produced.** Not calm. He suppressed the good along with the bad, the
 > sorrow stirred, and the turning-over set it alight — and the psalm's first words come out

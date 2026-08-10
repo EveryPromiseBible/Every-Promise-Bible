@@ -73,6 +73,46 @@ does, they will see Him.
 
 The last word of the harshest chapter in Matthew is a word about a reunion.
 
+## Under the wings
+
+*"How often I wanted to gather your children together, **as a hen gathers her chicks under her
+wings**."*
+
+*He shall cover you with His feathers, and **under His wings you shall take refuge**.* See the note
+on Psalms 91:1–2.
+
+*"The LORD repay your work, and a full reward be given you by the LORD God of Israel, **under
+whose wings you have come for refuge**."*
+
+Boaz says it to a Moabite widow. The image is the Old Testament's standard picture of taking
+shelter in God, and in **Matthew** 23 a man standing in the temple courts uses it of Himself.
+
+That is the claim in the sentence, and it is easy to walk past: He is not saying God wanted to
+gather them. He says *I* did, and *how often*.
+
+## What the hen does
+
+A hen covering chicks is not a picture of power. It is the one defence a hen has, and against fire
+it costs her everything.
+
+*"**Greater love has no one than this, than to lay down one's life for his friends.**"*
+
+*He was **wounded** for our transgressions.*
+
+## The *until*
+
+*"For I say to you, you shall see Me no more till you say, '**Blessed is He who comes in the name of
+the LORD!**'"*
+
+The last word **Jesus** speaks in the temple is not the empty house. It is a date, and He supplies
+the sentence they will say when it arrives — the same one the crowds had shouted four days
+earlier.
+
+*I say then, **has God cast away His people? Certainly not!**… For **the gifts and the calling of
+God are irrevocable**.*
+
+**Romans** 11, and **Paul** spends three chapters on the *until*.
+
 > **The season this describes.** Hosea's *not My people* — the face hidden, the
 > house empty, the prophets gone. And even then it is *until*, with the words of
 > the return already written out for them. See the notes on Hosea 1:8–9 and

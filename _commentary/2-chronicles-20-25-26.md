@@ -4,7 +4,7 @@ title: Three days of plunder
 sources:
   - 2026-01-11 the-year-of-much-more
   - 2026-07-19 weapons-in-times-of-adversity
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The gathering takes three times as long as the battle, and they were not in the battle.
@@ -98,6 +98,49 @@ over*. See the note on Psalms 23:5.
 
 A table laid where the enemies are, and a cup that overflows. This chapter is that psalm as an
 afternoon's work.
+
+## What they came for and what was there
+
+They marched out to fight and arrived to find the field already settled — *and there were
+their dead bodies, fallen on the earth. No one had escaped.*
+
+*They found among them **an abundance of valuables on the dead bodies, and precious jewelry,
+which they stripped off for themselves, more than they could carry away**.*
+
+## What went wrong with it
+
+Too much.
+
+*They were three days gathering the spoil, **because there was so much**.*
+
+Three days of collecting, by an army that never drew a sword, from an enemy that killed itself.
+
+*Now to Him who is able to do **exceedingly abundantly above all that we ask or think**.*
+
+**Paul**'s word is **hyperekperissou** — a triple compound, piled up on purpose. It is the
+grammatical version of *more than they could carry away*.
+
+## What they did on day four
+
+*And on the fourth day they assembled in the Valley of Berachah, for there they blessed the
+LORD; therefore the name of that place was called **The Valley of Blessing** to this day.*
+
+They name the valley after what they did in it, not after what happened in it.
+
+## The proportions
+
+No fighting. One song. Three days of plunder, and a fourth day given entirely to thanking Him
+for it.
+
+*In everything **give thanks**, for this is the will of God in Christ Jesus for you.*
+
+## What it cost them
+
+The march out, and the willingness to send the choir first. See the note on
+2 Chronicles 20:20–21.
+
+*For by grace you have been saved through faith, and that not of yourselves; **it is the gift
+of God, not of works**.*
 
 > **The arithmetic.** No fighting, one song, three days of carrying — and then a whole day set aside
 > in a valley, which is the day the place got its name.

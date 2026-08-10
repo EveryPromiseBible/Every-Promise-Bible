@@ -84,6 +84,61 @@ What the sentence does specify is the mechanism: the healing is *by his wounds*.
 Whatever is being healed, it is being healed at his cost and not at ours — which
 is the argument of the whole chapter.
 
+## Who quotes it, and where
+
+The chapter is cited or echoed in every major strand of the New Testament, and each writer takes
+a different verb out of it.
+
+*"**He Himself took our infirmities and bore our sicknesses.**"*
+
+**Matthew** quotes verse 4 after an evening of healings at Peter's door, and he uses the two
+Hebrew verbs the way Isaiah does — **nasa** and **sabal**, lifted and carried.
+
+*Who Himself **bore our sins in His own body on the tree**, that we, having died to sins, might
+live for righteousness — **by whose stripes you were healed**.*
+
+**Peter** takes verse 5 and adds the location: *in His own body*, *on the tree*.
+
+*For He made Him who knew no sin to be sin for us, **that we might become the righteousness of
+God in Him**.*
+
+**Paul** states the exchange as an equation with two directions.
+
+*Who **was delivered up because of our offences, and was raised because of our justification**.*
+
+## The chapter somebody was reading in a chariot
+
+*The place in the Scripture which he read was this: "**He was led as a sheep to the slaughter…**"
+And the eunuch answered Philip and said, "I ask you, of whom does the prophet say this, of
+himself or of some other man?" Then Philip opened his mouth, and **beginning at this Scripture,
+preached Jesus to him**.*
+
+**Acts** 8. An Ethiopian official, on a desert road, reading Isaiah 53 out loud and asking who it
+is about. The answer given is a name, and the man is baptised before the end of the chapter.
+
+## The sentence they got wrong
+
+*Yet we thought him stricken by God, struck down by Him, and afflicted.*
+
+They saw a man suffering and concluded God was against him.
+
+*Christ has redeemed us from the curse of the law, **having become a curse for us** (for it is
+written, "Cursed is everyone who hangs on a tree").*
+
+**Paul** says the onlookers' reading was not wrong about the fact — He was under a curse — only
+about whose it was.
+
+## And the laying on
+
+*The LORD has laid on him the guilt of us all.*
+
+The Hebrew is **hiphgia** — caused to meet, made to fall upon. It is the same verb used at the
+end of the chapter: *He made intercession for the transgressors*.
+
+One word for the sin arriving on Him and for Him praying for the people it came from.
+
+*"**Father, forgive them, for they do not know what they do.**"*
+
 > **The last line.** *We all, like sheep, have wandered off. Each of us has
 > turned to his own way.* Note the two halves: a herd going astray together, and
 > every single one going a different direction. Both are true at once, and the

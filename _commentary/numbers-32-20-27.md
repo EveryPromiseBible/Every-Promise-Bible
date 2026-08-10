@@ -3,7 +3,7 @@ key: Numbers 32:20–27
 title: "Your sin will find you out" — what it actually refers to
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The famous line is quoted as a general warning about secret sin. In its own
@@ -39,6 +39,28 @@ you have said.* Wives, children, flocks and herds stay; the fighting men go.
 And they kept it. Joshua 22 records Joshua sending them home years later with a
 blessing, having done exactly what they said — *you have not deserted your
 brothers over this long time.*
+
+## What the sin actually was
+
+Not a hidden fault. **Not going.**
+
+*"But if you fail to do this, you will be sinning against the LORD, and know for certain your
+sin will find you out."*
+
+The thing that would have found them out was letting their brothers fight for the land while
+they grazed cattle in safety. It is a promise-keeping verse, and the promise in question is
+about staying with everybody else until the job is finished.
+
+## Who kept a harder version of it
+
+Paul, closing the great resurrection chapter: *be steadfast, immovable, always abounding in the
+work of the Lord, knowing that **your labor is not in vain in the Lord**.*
+
+And: *God is not unjust to forget your work and labor of love which you have shown toward His
+name, **in that you have ministered to the saints, and do minister**.*
+
+They kept theirs. Joshua sends them home years later with a blessing — *you have not deserted
+your brothers over this long time* — and the land they came back to was the first Israel lost.
 
 > **What it cost them anyway.** Their land, being east of the river, was the first
 > territory Israel lost. Reuben and Gad are the tribes carried off earliest in

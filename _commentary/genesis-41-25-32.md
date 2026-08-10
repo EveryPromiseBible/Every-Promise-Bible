@@ -8,7 +8,7 @@ sources:
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2024-04-14 follow-the-anointing-within
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A prisoner tells the king of Egypt what his dreams meant, and the first word out of his
@@ -102,6 +102,24 @@ He had interpreted two dreams in that prison as well, and asked one man to remem
 ## What the whole thing was for
 
 *"**God sent me before you to preserve life**."* See the note on Genesis 50:15–21.
+
+## What he refuses to take
+
+*"**It is not in me**; God will give Pharaoh an answer of peace."*
+
+Said on the way in, before he had heard the dream, to a man who could have executed him for
+saying it.
+
+Thirteen years of prison had not made him hungry enough to take the credit for the one skill
+that could buy his way out.
+
+*"Most assuredly, I say to you, **the Son can do nothing of Himself**, but what He sees the
+Father do."*
+
+Jesus says it repeatedly and in the same construction — *the words that I speak to you I do not
+speak on My own authority; but the Father who dwells in Me does the works.*
+
+The one who has the answer keeps saying the answer is not his.
 
 > **How he opens.** Not with the interpretation. Three times in four verses he names who is
 > doing the showing — standing in front of a man his own culture called divine.

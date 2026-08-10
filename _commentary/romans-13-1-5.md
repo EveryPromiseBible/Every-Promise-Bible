@@ -118,5 +118,38 @@ love one another**.* See the note on Romans 13:6–7.
 
 The chapter about submission to Rome ends by saying the only permanent debt is love.
 
+## What follows immediately
+
+*Owe no one anything except to love one another, for **he who loves another has fulfilled the law**…
+**Love does no harm to a neighbour; therefore love is the fulfilment of the law**.*
+
+**Paul** moves from magistrates to love within four verses, and calls love the discharge of the whole
+obligation.
+
+## And how the chapter ends
+
+*But **put on the Lord Jesus Christ**, and make no provision for the flesh, to fulfil its lusts.*
+
+**Endysasthe** — clothe yourselves. It is the last sentence of the chapter, and it is the sentence
+Augustine read in a garden in Milan and stopped reading.
+
+The chapter that begins with submission to Roman authority ends with an instruction to put on a
+Person.
+
+## Which authority is which
+
+*"**Render therefore to Caesar the things that are Caesar's, and to God the things that are
+God's.**"*
+
+*"**We ought to obey God rather than men.**"*
+
+**Peter** says it to the Sanhedrin in **Acts** 5, and **Paul** writes **Romans** 13 to a church in the
+city that would shortly execute them both. Neither treats the other as a contradiction.
+
+## The night is far spent
+
+*And do this, knowing the time, that now it is high time to awake out of sleep; for **now our
+salvation is nearer than when we first believed. The night is far spent, the day is at hand**.*
+
 > **The word.** **Diakonos** — servant, minister — used twice of a pagan magistrate holding a
 > sword he does not know whose it is.

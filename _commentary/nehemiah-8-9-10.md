@@ -5,7 +5,7 @@ sources:
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2024-07-21 freedom-from-the-spirit-of-depression
   - 2024-07-28 provision-in-the-place-of-nearness
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The reading goes well, the response is tears, and three sets of leaders tell them to stop.
@@ -111,6 +111,53 @@ Chapter 9. *They stood and confessed their sins and the iniquities of their fath
 sackcloth and dust on their heads.
 
 The mourning does happen. Three weeks later, on a day appointed for it.
+
+## What they are told not to do
+
+Weep.
+
+They have just heard the Law read aloud from daybreak to midday, understood it — the Levites
+were going through the crowd explaining — and the whole assembly is in tears. See the note on
+Nehemiah 8:1–3.
+
+*"**This day is holy to the LORD your God. Do not mourn nor weep.**"*
+
+Three men say it: Nehemiah the governor, Ezra the priest, and the Levites. The response to a
+nation weeping under the Law is a unanimous instruction to stop.
+
+## The instruction that replaces it
+
+*"**Go your way, eat the fat, drink the sweet, and send portions to those for whom nothing is
+prepared.**"*
+
+Eat well, drink well, and make sure the people with nothing get some. That is the whole
+programme, and it is given as the correct response to conviction.
+
+## Why they are told to stop
+
+*"**For the joy of the LORD is your strength.**"*
+
+The Hebrew is **ma'oz** — a stronghold, a fortress. The joy is not described as a feeling to
+work up. It is named as the place they are safe in.
+
+## What the Law could not give them
+
+The writer of **Hebrews** says what the reading could not do: *the law made nothing perfect,
+but **the bringing in of a better hope did**, through which we draw near to God.*
+
+And **Jesus**, to people carrying exactly this weight: *"come to Me, all you who labour and are
+heavy laden, and **I will give you rest**."*
+
+The reading was right and the weeping was honest. What Nehemiah will not have is the weeping
+as the last word on a holy day.
+
+## What the understanding produced
+
+*And all the people went their way to eat and drink, to send portions and rejoice greatly,
+**because they understood the words that were declared to them**.*
+
+The understanding produced the party. And the day after, they come back for more reading — and
+keep the Feast of Tabernacles for the first time since Joshua.
 
 > **The word.** **Ma'oz** — a stronghold. The joy is not described as a feeling that helps but as
 > a fortified place, and the sentence says whose it is.

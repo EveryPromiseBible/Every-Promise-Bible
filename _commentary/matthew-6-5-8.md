@@ -106,5 +106,42 @@ need all these things**.* See the note on Matthew 6:25–34.
 The same verb, **oiden** — knows — used twice in one chapter, once about prayer and once about
 food.
 
+## The room, and the one that was opened
+
+*"Go into your room, **shut the door behind you**."*
+
+*And behold, **the veil of the temple was torn in two from top to bottom**.*
+
+**Matthew** 27, and the same gospel that has **Jesus** send people into a locked room to pray
+records the one room in Israel nobody could enter being opened from the top down.
+
+*Therefore, brethren, having **boldness to enter the Holiest by the blood of Jesus**, by a new and
+living way which He consecrated for us, through the veil, that is, His flesh… **let us draw near**
+with a true heart in full assurance of faith.*
+
+**Hebrews** 10, and **parresia** is the word: freedom of speech, the confidence of somebody with
+standing in the room.
+
+## Why the words do not have to be piled up
+
+*"Your Father knows exactly what you need **long before you ask Him**."*
+
+*Likewise the Spirit also helps in our weaknesses. For **we do not know what we should pray for as
+we ought, but the Spirit Himself makes intercession for us with groanings which cannot be
+uttered**.*
+
+**Romans** 8, and it is the strongest form of the sentence: not only does the Father know before
+the asking, the asking itself is helped from inside.
+
+*For you did not receive the spirit of bondage again to fear, but you received the Spirit of
+adoption by whom we cry out, "**Abba, Father**."*
+
+The word **Jesus** gives them to start with is the word **Paul** says the Spirit produces.
+
+## And the priest in the room
+
+*Therefore He is also able to save to the uttermost those who come to God through Him, since **He
+always lives to make intercession for them**.*
+
 > **The receipt.** **Apechousin** — paid in full, nothing further owing. They wanted to be seen,
 > and they were.

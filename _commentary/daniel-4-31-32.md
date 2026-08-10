@@ -99,5 +99,51 @@ The first thing the restored mind does is look up. The second is bless the Most 
 
 Written by a man who had been on grass.
 
+## The other boast interrupted mid-sentence
+
+*"Is this not great Babylon, that I have built by my mighty power?" **The words were still on his
+lips**…*
+
+*"And I will say to my soul, 'Soul, you have many goods laid up for many years; take your ease;
+eat, drink, and be merry.'" But God said to him, "**Fool! This night your soul will be required
+of you**; then whose will those things be which you have provided?"*
+
+**Luke** 12, and the parable has the identical structure: a man in the middle of a sentence about
+what he has built, and a voice from outside it. **Jesus** ends the parable *so is he who lays up
+treasure for himself, and is not rich toward God*.
+
+*And immediately an angel of the Lord struck him, because **he did not give glory to God**. And he
+was eaten by worms and died.*
+
+**Acts** 12. Herod Agrippa, on a throne, in a robe, being told *the voice of a god and not of a
+man* — and **Luke** gives the reason in one clause.
+
+## The order the New Testament keeps
+
+*But **He gives more grace**. Therefore He says: "**God resists the proud, but gives grace to the
+humble**."*
+
+**James** quotes Proverbs, and **Peter** quotes it too. Neither treats the resisting as the point;
+both put the giving in the same sentence.
+
+*And being found in appearance as a man, **He humbled Himself** and became obedient to the point of
+death, even the death of the cross. **Therefore God also has highly exalted Him**.*
+
+**Philippians** 2 runs Nebuchadnezzar's chapter in reverse and in the right order. The king is
+brought down and then raised; **Christ** goes down first, voluntarily, and the *therefore* comes
+after.
+
+## The year
+
+Twelve months between the warning and the voice, and the narrative records the gap.
+
+*The Lord is not slack concerning His promise, as some count slackness, but is **longsuffering**
+toward us, not willing that any should perish.*
+
+*Or do you despise **the riches of His goodness, forbearance and longsuffering**, not knowing that
+the goodness of God leads you to repentance?*
+
+**Romans** 2 names the twelve months for what they were.
+
 > **The gap.** A year between the warning and the voice. Chapter 4 records both, and puts the
 > boast and the answer in the same sentence.

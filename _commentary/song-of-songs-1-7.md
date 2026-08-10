@@ -81,5 +81,42 @@ location.
 
 Everything she asks in the book is some version of *where*.
 
+## Who was sitting somewhere at noon
+
+*Where do you rest them **at noon**?*
+
+*Now Jacob's well was there. **Jesus** therefore, being wearied from His journey, sat thus by
+the well. **It was about the sixth hour.***
+
+**John** is careful about the hour, and the sixth hour is noon. A woman comes for water at the
+one time of day nobody comes for water, and finds a man already resting there.
+
+Her first substantial question to Him is a **where** question — *our fathers worshipped on this
+mountain, and you say that in Jerusalem is the place where one ought to worship.*
+
+She asked where. He answered with who: *"I who speak to you am He."*
+
+## The shepherd she was asking for
+
+*Where do you graze your flock?*
+
+*"**I am the good shepherd.** The good shepherd gives His life for the sheep… and I know My
+sheep, and am known by My own."*
+
+The Song's bride knows His occupation and not His location. **John** 10 has the shepherd doing
+the finding.
+
+## And the last *where* in the book
+
+She spends the Song asking it. *Have you seen the one I love?*
+
+*"They have taken away my Lord, and **I do not know where they have laid Him**."*
+
+*Jesus said to her, "Mary!"*
+
+**John** 20, in a garden, to a woman who mistook Him for a gardener. Every **where** question in
+the Song is answered the same way it is answered there — not with a map, but by being addressed
+by name.
+
 > **What she asks for.** Not the grazing ground — the place he makes them lie down when the
 > sun is at its worst. The same verb the psalm uses of green pastures.

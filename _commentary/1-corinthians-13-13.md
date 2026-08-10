@@ -108,5 +108,33 @@ The chapter is not a digression. It is placed in the middle of the argument on p
 *Though I speak with the tongues of men and of angels, but have not love, **I have become sounding
 brass or a clanging cymbal**.* See the note on 1 Corinthians 13:1–3.
 
+## Why love is the greatest
+
+*And now abide faith, hope, love, these three; but **the greatest of these is love**.*
+
+**Paul** does not say love is the most useful or the most difficult. The chapter has just said the
+other two are temporary in a way love is not — *we know in part, and we prophesy in part, but when
+that which is perfect has come, that which is in part will be done away.*
+
+Faith becomes sight. Hope becomes possession. Love does not become anything, because it is what God
+already is.
+
+*He who does not love does not know God, for **God is love**.*
+
+**John** says it twice in one chapter, and it is the only sentence of that form in Scripture — not
+*God is loving*, but the noun.
+
+## Where the three come from
+
+*Therefore, having been justified by **faith**, we have peace with God through our Lord **Jesus
+Christ**… and rejoice in **hope** of the glory of God… because **the love of God has been poured out in
+our hearts** by the Holy Spirit who was given to us.*
+
+**Romans** 5, and the same three in the same order, with all three traced to a source outside the
+person.
+
+*In this is love, **not that we loved God, but that He loved us** and sent His Son to be the
+propitiation for our sins.*
+
 > **The odd survivors.** Faith and hope look temporary by definition — Paul says they remain anyway,
 > and does not explain how.

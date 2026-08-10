@@ -4,7 +4,7 @@ title: Then Solomon woke up
 sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2023-07-16 redefine-success-gods-way
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The dream ends, and what he does next is the whole verse.
@@ -109,6 +109,37 @@ the two cherubim**.*
 **who had appeared to him twice***. See the note on 1 Kings 10:23–25.
 
 The narrator counts the appearances. This is the first.
+
+## Where he goes when he wakes
+
+*He came to Jerusalem and **stood before the ark of the covenant** of the LORD.*
+
+He had been sacrificing at Gibeon, where the tabernacle was. The ark was somewhere else —
+David had brought it to Jerusalem and left the tent behind.
+
+The dream sends him to the box with the blood on the lid. See the note on
+Exodus 25:10–16.
+
+## What he does there
+
+*Offered up **burnt offerings**, offered **peace offerings**, and **made a feast for all his
+servants**.*
+
+Three things, and the third is the one to notice. The peace offering is the only sacrifice the
+offerer ate — God takes the fat, the priest takes the breast and thigh, and the rest is
+dinner. See the note on Leviticus 7:28–34.
+
+He answers a promise of wisdom by throwing a party for his staff.
+
+Paul: *the kingdom of God is not eating and drinking, but **righteousness and peace and joy in
+the Holy Spirit**.*
+
+## What is not in the verse
+
+Any resolution, vow or programme. He does not go away and make himself wise.
+
+*Now to Him who is able to do exceedingly abundantly above all that we ask or think, according
+to **the power that works in us**.*
 
 > **What he does with a dream.** Gets up, travels six miles, and stands in front of the covenant
 > chest. The verse is five verbs long and every one of them treats the dream as binding.

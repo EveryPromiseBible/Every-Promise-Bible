@@ -3,7 +3,7 @@ key: Joshua 5:10–12
 title: The day the manna stopped
 sources:
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Three verses, and one of them ends forty years of supply.
@@ -102,6 +102,31 @@ A jar of manna, inside the ark, after the supply stopped.
 
 *"Your fathers ate the manna in the wilderness, and are dead. This is the bread which comes
 down from heaven, that one may eat of it and not die. **I am the living bread**."*
+
+## Which meal they had just eaten
+
+*They kept the Passover on the fourteenth day of the month, at twilight, on the plains of
+Jericho.*
+
+The first Passover in the land, and the manna stops the morning after it.
+
+*For indeed **Christ, our Passover, was sacrificed for us**. Therefore let us keep the feast.*
+
+## What both supplies had in common
+
+Manna and harvest came from the same hand. What changed is that they were standing in the
+country instead of walking toward it.
+
+*Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with **every
+spiritual blessing in the heavenly places in Christ**.*
+
+## Who turns up next
+
+*And it came to pass, when Joshua was by Jericho, that he lifted his eyes and looked, and
+behold, **a Man stood opposite him with His sword drawn**.* See the note on Joshua 5:13–15.
+
+Joshua asks whose side He is on and is told neither — *as Commander of the army of the LORD I
+have now come* — and then told to take off his sandals, which is what was said at the bush.
 
 > **The order.** They ate the new food, and the old supply stopped the next morning. Nothing
 > was taken away before the replacement was already on the table.

@@ -86,6 +86,51 @@ the word of the LORD by the mouth of Jeremiah might be fulfilled.*
 
 Ezra names the same prophecy Daniel was reading.
 
+## What the prophets were reading for
+
+*I, Daniel, understood from the Scriptures.* The visions in this book come to a man who was
+already in the text.
+
+*Of this salvation the prophets have inquired and searched carefully, who prophesied of the grace
+that would come to you, **searching what, or what manner of time, the Spirit of Christ who was in
+them was indicating** when He testified beforehand the sufferings of Christ and the glories that
+would follow.*
+
+**Peter** describes exactly what Daniel 9 records happening: a prophet reading prophecy, working at
+the timing, and being answered. And **Peter** names what the Spirit in them was pointing at.
+
+*And beginning at Moses and all the Prophets, **He expounded to them in all the Scriptures the
+things concerning Himself**.*
+
+## What he prayed on
+
+*"**Not because of our righteous deeds, but because of Your great mercy**."*
+
+Daniel states the ground of the request and it is not the record of the people he is praying for
+— and he is the one man in the book with nothing recorded against him.
+
+*Not by works of righteousness which we have done, but **according to His mercy He saved us**.*
+
+*But God, who is rich in mercy, because of His great love with which He loved us, **even when we
+were dead in trespasses**, made us alive together with **Christ**.*
+
+## The we
+
+Twelve verses of confession, and he says **we** in every one — *we have sinned, we have done
+wickedly*.
+
+*For **He made Him who knew no sin to be sin for us**, that we might become the righteousness of
+God in Him.*
+
+Daniel puts himself inside a sentence he had no part in. There is one other person in Scripture
+described as doing that, and **Paul** says it was not a figure of speech.
+
+## And the answer that was already sent
+
+*While I was still speaking and praying… **Gabriel** came to me in swift flight.*
+
+*"For your Father knows the things you have need of **before you ask Him**."*
+
 > **What he did with a promise that was certain.** He prayed about it — for three
 > weeks, in sackcloth. The prophecy's certainty is the reason given in the text for the
 > praying, not an alternative to it.

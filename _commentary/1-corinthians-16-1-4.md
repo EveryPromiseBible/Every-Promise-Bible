@@ -86,5 +86,34 @@ Chapter 16: put something aside on Sunday.
 
 The resurrection argument ends in a practical arrangement about a collection.
 
+## What the collection was
+
+Money from Gentile churches to poor Jewish believers in Jerusalem. **Paul** organises it across four
+letters and spends two chapters of **2 Corinthians** arguing for it.
+
+*For you know **the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He
+became poor, that you through His poverty might become rich**.*
+
+**2 Corinthians** 8:9, and it is the argument. Not duty, not proportion — the incarnation applied to
+a budget.
+
+*Now concerning **the grace of God bestowed on the churches of Macedonia**: that in a great trial of
+affliction, the abundance of their joy and their deep poverty abounded in the riches of their
+liberality.*
+
+**Paul** calls their giving **charis** — grace — five times in those two chapters, of both the gift and
+the giving.
+
+## The arrangement
+
+*On the first day of the week let each one of you lay something aside, **storing up as he may
+prosper**, that there be no collections when I come.*
+
+No amount, no percentage, and no collection taken in the meeting. **Paul** sets up a standing order
+so that nothing is raised under pressure.
+
+*So let each one give as he purposes in his heart, not grudgingly or of necessity; for **God loves a
+cheerful giver**.*
+
 > **What is missing from the instruction.** Any figure. Paul, who could simply have set
 > one, tells each person to weigh their own week and put something by.

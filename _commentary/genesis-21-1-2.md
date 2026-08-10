@@ -3,7 +3,7 @@ key: Genesis 21:1–2
 title: "Right on time, at the very season God had spoken of"
 sources:
   - 2018-09-23 the-key-to-robust-faith
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Twenty-five years after the promise, two verses record its arrival, and they are
@@ -37,6 +37,32 @@ provoked, and Sarah says so herself in the verses following: *God has brought me
 laughter, and everyone who hears about this will laugh with me.*
 
 The joke told at God's expense becomes the boy's name.
+
+## "At the very season God had spoken of"
+
+*The LORD did for Sarah **exactly what He had promised**… **at the very time God had said**.*
+
+The Hebrew is **lammo'ed** — at the appointed time. The same root as the **mo'adim**, the fixed
+feasts. See the note on Genesis 1:14–19.
+
+Twenty-five years from the first promise, and the arrival is dated to an appointment.
+
+## Where the same clause lands
+
+*But **when the fullness of the time had come**, God sent forth His Son, born of a woman, born
+under the law, to redeem those who were under the law, that we might receive the adoption as
+sons.*
+
+Both sons arrive on a schedule nobody in the story could see, to mothers who had been told in
+advance, and in both cases the announcement came a long time before the birth and was met with
+something other than certainty. Sarah laughed behind a tent door; Mary asked how.
+
+## What Isaac's name is
+
+**Yitzhaq** — *he laughs*.
+
+The son of the promise is named after his mother's disbelief, and God is the one who chose the
+name, before he was conceived. Nobody is made to live it down.
 
 > **The line the Illumination adds.** *Nothing was too late. Nothing was
 > forgotten.* It is a translator's summary rather than a separate clause in the

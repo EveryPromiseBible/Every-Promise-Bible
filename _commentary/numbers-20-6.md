@@ -3,7 +3,7 @@ key: Numbers 20:6
 title: They turned away and fell on their faces
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 One verse, and it is entirely made of movements.
@@ -74,6 +74,27 @@ When the spies' report caused the rebellion: *then Moses and Aaron fell on their
 before all the assembly.*
 
 He does it more than anyone else in Scripture.
+
+## What the verse is made of
+
+Turn away from the crowd. Walk to the door. Go face down.
+
+No prayer is recorded, no request, no defence, and no answer to the accusation. Numbers gives
+three movements and then: *and the glory of the LORD appeared to them.*
+
+*But when you pray, **go into your room, and when you have shut your door**, pray to your Father
+who is in the secret place; and your Father who sees in secret will reward you openly.*
+
+## Who else did it
+
+Matthew, of Jesus in Gethsemane: *He went a little farther and **fell on His face, and
+prayed**.*
+
+In a garden, on the last night, with a crowd coming for Him — and what He said there is the only
+prayer in Scripture that ends *nevertheless, not as I will, but as You will.*
+
+Moses does this more often than anyone else in the Old Testament. It is the posture of a man who
+has been accused and will not answer the accusation.
 
 > **The sequence.** Accused, they turn their backs on the crowd, walk to a door, and go
 > face down. And the next thing recorded is that the glory showed up.

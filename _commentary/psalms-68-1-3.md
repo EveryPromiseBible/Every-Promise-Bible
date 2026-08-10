@@ -3,7 +3,7 @@ key: Psalms 68:1–3
 title: Let God rise up
 sources:
   - 2022-03-06 keys-to-counter-the-four-horsemen
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The opening line is a quotation, and it is a marching order.
@@ -48,8 +48,8 @@ celebrating, and the celebration gets more words.
 A processional, and probably one sung as the ark was carried up to Jerusalem — or re-enacted
 annually.
 
-It is one of the hardest psalms in the Psalter. The Hebrew is difficult, the imagery jumps, and
-scholars have called it a collection of fragments.
+It is one of the hardest psalms in the Psalter — the Hebrew is difficult and the imagery moves
+fast. It is also the psalm **Paul** reaches for to describe the ascension of Christ.
 
 ## What is in it
 
@@ -99,6 +99,34 @@ That He is seated.
 
 *Let God arise* only makes sense said to somebody sitting down, and Moses said it at the start
 of every march.
+
+## The verse Paul takes out of this psalm
+
+*You have ascended on high, You have led captivity captive; **You have received gifts among
+men**.*
+
+**Paul** quotes it in Ephesians 4 and changes one word: *when He ascended on high, He led
+captivity captive, and **gave gifts to men**.*
+
+Received, and gave. He reads the psalm as describing Christ going up and handing down what He
+took — *and He Himself gave some to be apostles, some prophets, some evangelists, and some
+pastors and teachers*.
+
+## Who the psalm is about before that
+
+*A father of the fatherless, a defender of widows, is God in His holy habitation. **God sets
+the solitary in families**.*
+
+The processional of a marching army stops to name the three people with nobody.
+
+*He predestined us to **adoption as sons** by Jesus Christ to Himself.*
+
+## The first line
+
+*Let God arise, let His enemies be scattered.*
+
+It is what Moses said whenever the ark set out. The psalm opens the procession with the
+sentence that started every day of the wilderness march.
 
 > **Where the line comes from.** A marching order, said every time the ark moved. The psalm
 > opens with it — which means the poem is written from the moment before anything has started.

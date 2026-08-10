@@ -97,5 +97,47 @@ army with banners?*
 
 The largest image in the book, applied to the same woman whose cheek was compared to fruit.
 
+## Not one of them missing
+
+*Each one paired with its twin, **not one of them alone**.* **Veshakkulah eyn bahem** — and none
+bereaved among them.
+
+*"This is the will of the Father who sent Me, that **of all He has given Me I should lose
+nothing**, but should raise it up at the last day."*
+
+*"Those whom You gave Me I have kept; and **none of them is lost** except the son of
+perdition."*
+
+**John** 6 and **John** 17. The Song uses the strongest word in the language for a gap in a row
+— the word for a mother who has lost a child — to say the flock is complete. **Jesus** makes the
+completeness a promise and stakes His obedience to the Father on it.
+
+*"**My sheep hear My voice**, and I know them, and they follow Me. And I give them eternal life,
+and they shall never perish; neither shall anyone snatch them out of My hand."*
+
+## What the bridegroom is describing
+
+Her, at her least presentable. She has been walking the city at night and the watchmen have
+struck her and taken her veil.
+
+*That He might sanctify and cleanse her with the washing of water by the word, that He might
+present her to Himself **a glorious church, not having spot or wrinkle or any such thing**.*
+
+**Ephesians** has the same order: the description of her as flawless comes from the Bridegroom's
+mouth and not from her condition.
+
+*Come up from the washing.* **Paul**'s verb is **loutron** — a washing, a bath.
+
+## The pomegranates
+
+Alternating with golden bells around the hem of the high priest's robe, and carved in rows on
+the two pillars at the temple porch.
+
+*Therefore, brethren, having boldness to enter the Holiest by the blood of **Jesus**… and having
+**a High Priest over the house of God**, let us draw near.*
+
+The fruit on the robe belonged to the one man permitted through the veil, and the Song puts it
+on the face of a bride *behind her veil*.
+
 > **The word.** **Shakkulah** — bereaved, robbed of young. Used of a gap in a flock, because the
 > row is being described as a family with nothing missing from it.

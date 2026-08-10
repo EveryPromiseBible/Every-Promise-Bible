@@ -80,6 +80,48 @@ bridegroom rejoices over his bride, **so will your God rejoice over you**.*
 The Hebrew for *rejoices* is **sus** — to be glad, to exult. It is the word for the
 groom's face at the wedding, applied to God, with the reader in the bride's place.
 
+## Who is not silent, and who came instead
+
+*For Zion's sake I will not keep silent.*
+
+*God, who at various times and in various ways spoke in time past to the fathers by the prophets,
+**has in these last days spoken to us by His Son**.*
+
+**Hebrews** opens by saying the refusal to stay quiet ended in somebody rather than something.
+
+## Who chooses the name
+
+*"To him who overcomes I will give some of the hidden manna to eat. And **I will give him a white
+stone, and on the stone a new name written which no one knows except him who receives it**."*
+
+**Revelation** 2 keeps Isaiah's rule exactly, and adds that the stone is given to somebody who
+did not name themselves.
+
+## The bridegroom's voice
+
+*"**He who has the bride is the bridegroom**; but the friend of the bridegroom, who stands and
+hears him, rejoices greatly because of the bridegroom's voice. Therefore **this joy of mine is
+fulfilled**."*
+
+**John** the Baptist, identifying **Jesus** by the same metaphor and putting himself in the
+best man's place.
+
+*Husbands, love your wives, just as **Christ also loved the church and gave Himself for her**…
+that He might present her to Himself a glorious church.*
+
+*Then I, **John**, saw the holy city, New Jerusalem, coming down out of heaven from God, **prepared
+as a bride adorned for her husband**.*
+
+## Hephzibah
+
+*My delight is in her.* Given because the delight is already there — the naming reports a fact
+rather than creating one.
+
+*"This is My beloved Son, **in whom I am well pleased**."*
+
+*Having predestined us to adoption as sons by **Jesus Christ** to Himself, **according to the good
+pleasure of His will**.*
+
 > **What the chapter is written over.** Jerusalem after the fall — walls down, the
 > land unworked, the people gone. God renames it in the middle of the ruin, and the
 > names He gives are about how He feels rather than how it looks.

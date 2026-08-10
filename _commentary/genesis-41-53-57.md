@@ -7,7 +7,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
   - 2025-05-25 jesus-your-storehouse-of-wisdom
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The famine arrives on schedule, and the whole world ends up at one man's door.
@@ -79,6 +79,17 @@ it was immeasurable.*
 *As the sand of the sea* is the phrase used of Abraham's descendants.
 
 He did it during the good years, when nobody could see a reason to.
+
+## One man has the bread
+
+The famine is over all the earth and the bread is in one place, held by one man, and the king
+himself has nothing to add to the instruction.
+
+*I am **the bread of life**. He who comes to Me shall never hunger.* See the note on
+John 6:35–40.
+
+Everyone came. Egyptians who had a claim on him, foreigners who had none, and eventually ten
+men from Canaan who had sold him — and the same storehouses opened for all of them.
 
 > **How he got there.** Sold at seventeen, a slave in Potiphar's house, accused and
 > jailed, forgotten by a man who promised to remember him. Then one morning shaved,

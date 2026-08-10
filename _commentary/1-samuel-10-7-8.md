@@ -3,7 +3,7 @@ key: 1 Samuel 10:7–8
 title: Wait seven days
 sources:
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Two verses of instruction, and everything that goes wrong later goes wrong here.
@@ -94,6 +94,31 @@ Every clause is factually correct, and he says out loud that he made himself do 
 
 He was given enormous freedom in verse 7 and one fixed point in verse 8, and the one fixed point
 is the one he broke.
+
+## What the waiting was for
+
+*"**Wait seven days**, till I come to you and show you what you should do."*
+
+Seven days with an army melting away and the Philistines massing. Saul waits the whole seven,
+and then offers the sacrifice himself in the last hour before Samuel arrives.
+
+He kept the number and missed the point. The instruction was not *wait seven days*. It was
+*wait until I come*.
+
+*"Whoever believes will **not act hastily**."*
+
+Isaiah's word, about a foundation stone laid in Zion — and Peter and Paul both apply that
+stone to Christ.
+
+## What he says for himself
+
+*"I forced myself, therefore, and offered a burnt offering."*
+
+The Hebrew is *I compelled myself*. He knows it is wrong while he is doing it, and does it
+because the situation looks like it will not hold.
+
+*Are you so foolish? **Having begun in the Spirit, are you now being made perfect by the
+flesh?***
 
 > **The half he did not keep.** He waited the seven days. The instruction was *wait until I come
 > and tell you what to do* — and the telling never happened.

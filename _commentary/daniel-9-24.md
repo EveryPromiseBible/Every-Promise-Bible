@@ -68,6 +68,70 @@ nothing personally to confess.
 Gabriel arrives *at the time of the evening sacrifice*, in a city with no temple
 and no sacrifice for seventy years, and tells him he is *greatly beloved*.
 
+## The six, one at a time
+
+None of the six is something Israel does, and each has an answer in the New Testament.
+
+*To **finish the transgression** and to **put an end to sin**.*
+
+*He then would have had to suffer often since the foundation of the world; but now, once at the
+end of the ages, **He has appeared to put away sin by the sacrifice of Himself**.*
+
+**Hebrews**' verb is **athetesin** — a setting aside, an abolition, and the adverb is **hapax**,
+once.
+
+*To **make atonement** for wickedness.* **Kaphar** — to cover, the Day of Atonement word.
+
+*Whom God set forth as **a propitiation by His blood**, through faith.*
+
+**Romans** 3, and **Paul**'s noun is **hilasterion** — which is the Greek Old Testament's word for
+the mercy seat, the lid **kaphar** names.
+
+*To **bring in everlasting righteousness**.*
+
+*But now **the righteousness of God apart from the law is revealed**… even the righteousness of God,
+through faith in Jesus Christ, to all and on all who believe.*
+
+Everlasting, in Daniel. Not maintained, and not forfeitable — and **Romans** says whose it is and
+how it arrives.
+
+*To **seal up vision and prophecy**.*
+
+*God, who at various times and in various ways spoke in time past to the fathers by the prophets,
+**has in these last days spoken to us by His Son**.*
+
+*To **anoint the Most Holy**.*
+
+*"The Spirit of the LORD is upon Me, **because He has anointed Me**."* And **Peter**: *how God
+**anointed Jesus of Nazareth with the Holy Spirit and with power**.*
+
+The Hebrew **qodesh qodashim** is normally a place — the holy of holies. **Hebrews** says the two
+are the same question: *Christ came as High Priest… with the greater and more perfect tabernacle
+not made with hands.*
+
+## The cutting off
+
+*"The Anointed One will be **cut off and will have nothing**."*
+
+**Yikkaret** — cut off. And **ve'ein lo** — and there is nothing for Him.
+
+*For **He was cut off from the land of the living**; for the transgressions of My people He was
+stricken.*
+
+Isaiah's verb is **nigzar**, and the two prophets say it of the same figure: He is killed, and He
+gets nothing out of it.
+
+The six things in verse 24 are what everybody else gets out of it.
+
+## What Gabriel calls him
+
+*"O Daniel… **you are greatly beloved**."*
+
+Said three times in the book, to a man in sackcloth and ashes who has just spent twelve verses
+confessing.
+
+*"**This is My beloved Son, in whom I am well pleased.**"*
+
 > **What the answer is bigger than the question.** Daniel asked about seventy
 > years. He was given seventy sevens, and the six things listed are not about
 > getting a people home from Babylon. They are about finishing sin and bringing in

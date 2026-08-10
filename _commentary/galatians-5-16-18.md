@@ -72,6 +72,37 @@ That is the same move he makes in Romans 8, where *led by the Spirit* is
 immediately followed by adoption, Abba, and inheritance. Both times, leading is
 raised as evidence of sonship rather than as a test of it.
 
+## The clause at the end
+
+*But if you are led by the Spirit, **you are not under the law**.*
+
+That is the conclusion **Paul** draws from the conflict he has just described, and it is the letter's
+whole argument in six words.
+
+*For **sin shall not have dominion over you, for you are not under law but under grace**.*
+
+**Romans** 6:14, and the two halves are causally linked: the reason sin loses its grip is the change
+of régime, not an increase in effort.
+
+## Walk in the Spirit
+
+*Walk in the Spirit, **and you shall not fulfil the lust of the flesh**.*
+
+The second clause is a promise, not a second instruction. **Ou me telesete** — a double negative, the
+strongest form of denial in Greek.
+
+*For **it is God who works in you both to will and to do** for His good pleasure.*
+
+## And what grows
+
+*But **the fruit of the Spirit** is love, joy, peace, longsuffering, kindness, goodness, faithfulness,
+gentleness, self-control. **Against such there is no law**.*
+
+**Karpos**, singular, and it belongs to somebody. **Paul** sets it against *the works of the flesh* —
+works against fruit, and the second is what grows on something the Spirit is in.
+
+*"**I am the vine, you are the branches.** He who abides in Me, and I in him, bears much fruit."*
+
 > **On "the things you want to do."** The line is often read as defeat — I cannot
 > do what I want. In context Paul is describing why a person cannot simply
 > execute their good intentions by willpower, which is exactly the argument for

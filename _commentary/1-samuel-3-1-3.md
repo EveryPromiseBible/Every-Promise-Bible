@@ -7,7 +7,7 @@ sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Three verses of scene-setting, and every detail in them is about light failing.
@@ -74,6 +74,30 @@ Israel from Dan to Beersheba knew that Samuel had been established as a prophet.
 
 The word that was rare became plentiful, and it came through the child who was
 sleeping under the failing light.
+
+## The light that had not gone out
+
+*The lamp of God **had not yet gone out**.*
+
+The lampstand was to burn from evening until morning and be tended every day. This is the
+last hour before dawn, and the oil is nearly finished.
+
+The word is rare, visions are uncommon, the high priest is blind and his sons are corrupt —
+and the narrator's detail is that the light is still burning.
+
+*And **the light shines in the darkness**, and the darkness did not comprehend it.*
+
+## Where the boy was lying
+
+*Samuel was lying down **in the temple of the LORD, where the ark of God was**.*
+
+A child asleep on the floor beside the box with the blood-sprinkled lid, in a house whose
+priesthood was under sentence.
+
+That is who gets spoken to. Not Eli.
+
+*"I thank You, Father, Lord of heaven and earth, that You have **hidden these things from the
+wise and prudent and have revealed them to babes**."*
 
 > **What God said in that first message.** A judgement on Eli's house. The first
 > word ever given to Samuel was one he had to deliver to the man who raised him, and

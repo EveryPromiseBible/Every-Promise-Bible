@@ -116,5 +116,46 @@ The Assyrians, summoned like a swarm.
 Six woes on the nation in chapter 5, and in chapter 6 the prophet says the seventh over
 himself.
 
+## Who told the vineyard song again
+
+*"Hear another parable: There was a certain landowner who **planted a vineyard and set a hedge
+around it, dug a winepress in it and built a tower**, and leased it to vinedressers."*
+
+**Matthew** 21, and **Jesus** is quoting Isaiah 5 element by element — the planting, the hedge,
+the winepress, the tower. His hearers were chief priests, and they knew the song. They knew what
+the vineyard was.
+
+He changes one thing. In Isaiah the vineyard disappoints; in the parable the tenants kill the
+son.
+
+*"Therefore, when the owner of the vineyard comes, what will he do to those vinedressers?"*
+
+They answer the question against themselves before they realise what they have said.
+
+## The swap, performed
+
+*But when the Pharisees heard it they said, "**This fellow does not cast out demons except by
+Beelzebub, the ruler of the demons.**"*
+
+Calling good evil, in a sentence, about a man who had just healed somebody.
+
+*"And this is the condemnation, that the light has come into the world, and **men loved darkness
+rather than light**."*
+
+Isaiah's second pair — darkness put for light — is **John**'s word for what happened when the
+light actually arrived.
+
+## The seventh woe
+
+Six woes on the nation in chapter 5, and then the prophet says one over himself: *"Woe is me, for
+I am undone! For I am a man of unclean lips."*
+
+*Then one of the seraphim flew to me, having in his hand a live coal which he had taken with the
+tongs from the altar. And he touched my mouth with it, and said: "**Behold, this has touched your
+lips; your iniquity is taken away, and your sin purged.**"*
+
+The one man in the chapter who names the problem correctly is the one who gets it dealt with —
+and he does not do it. Something is brought from an altar and applied to him.
+
 > **What this woe is about.** Not conduct. Every other woe in the chapter names something
 > people did — this one names what they called it.

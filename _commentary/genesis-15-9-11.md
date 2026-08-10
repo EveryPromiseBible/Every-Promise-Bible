@@ -3,7 +3,7 @@ key: Genesis 15:9–11
 title: The pieces laid opposite
 sources:
   - 2025-09-14 trust-the-way-of-grace
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 He asks how he can know, and is told to fetch five animals.
@@ -108,6 +108,27 @@ descendants be**."* See the note on Genesis 15:1.
 
 The pillar of fire by night, and *the LORD descended upon it in fire, and its smoke ascended like
 the smoke of a furnace*. See the note on Exodus 19:16–19.
+
+## Who took the curse
+
+The oath means: *let me be torn in half like these animals if I fail to keep this.*
+
+Abram never swears it. He is asleep on the ground while God walks the aisle alone, which
+means God has taken both halves of the obligation onto Himself — His own to keep, and
+Abram's to answer for.
+
+That is a promise with a death clause in it, signed by one party.
+
+## Where it was settled
+
+*Christ has **redeemed us from the curse of the law**, having become a curse for us, for it
+is written, "Cursed is everyone who hangs on a tree."* See the note on Galatians 3:10–14.
+
+The covenant of Genesis 15 was cut between the pieces at sundown, with darkness over the man
+it was made with — and it was paid on a hill at noon, with darkness over the whole land, by
+the One who had walked the path alone.
+
+Nothing in it ever depended on Abram, which is the reason it is still standing.
 
 > **The absent signatory.** Two parties should walk the aisle. God puts Abram to sleep first, and
 > goes down it alone.

@@ -6,7 +6,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2021-10-17 gods-heart-for-your-family
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A complaint about food, and the writer interrupts it to describe the food.
@@ -82,6 +82,34 @@ Nothing about the manna changed. It fell the same way, tasted the same, and arri
 every morning wrapped in dew.
 
 What changed was that they had been eating it long enough to stop seeing it.
+
+## What they got tired of
+
+Nothing about the manna changed. It fell every night inside the dew, it could be prepared six
+ways, and it had kept two million people alive for a year.
+
+*"There's **nothing to look at** but this manna."*
+
+They did not say it was bad. They said they were tired of looking at it.
+
+## What He said about it
+
+*"I am the bread of life. **Your fathers ate the manna in the wilderness, and are dead.** This is
+the bread which comes down from heaven, that one may eat of it and not die… **and the bread that
+I shall give is My flesh**."*
+
+Jesus preached that in Capernaum and the crowd walked out on Him — *this is a hard saying; who
+can understand it?* From that day many of His disciples went back and walked with Him no more.
+
+The same complaint, about the same thing, fourteen centuries apart. Bread from heaven, offered
+daily, and people who had stopped being able to see it.
+
+## What Isaiah said they would see
+
+*He has **no form or comeliness**; and when we see Him, **there is no beauty that we should
+desire Him**.*
+
+Plain to look at, arriving every morning without ceremony, and free.
 
 > **What Moses does in the middle of this chapter.** Asks God to kill him. *If You
 > treat me like this, please kill me here and now — if I have found favour in Your

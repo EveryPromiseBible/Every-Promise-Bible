@@ -6,7 +6,7 @@ sources:
   - 2022-01-09 gods-way-of-acceleration
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-10-09 hope-for-the-end-times
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The hardest paragraph in the David narrative, and the trouble started with a cart.
@@ -100,6 +100,38 @@ A shortcut. Faster, easier, and borrowed from people who did not have the instru
 
 Nothing about the celebration was insincere. The problem was the method, and the passage does
 not pretend otherwise.
+
+## What his hand was doing
+
+Steadying the ark.
+
+It is the most sympathetic act in the chapter and it is the one that kills him. The oxen
+stumbled, the box tilted, and a man put out his hand to stop the ark of God hitting the
+ground.
+
+## Why the cart is the problem
+
+Because on shoulders it could not have tilted, and no hand would have been needed.
+
+Uzzah dies at the end of a chain that started with a good intention and a Philistine method.
+The instruction had been *they shall not touch any holy thing, lest they die* — and once it is
+on a cart, somebody eventually has to.
+
+## What the ark could not survive being touched by
+
+Human hands, however well-meaning.
+
+*For **by the deeds of the law no flesh will be justified** in His sight.*
+
+## Who carried it in the end
+
+*But when Christ came as High Priest of the good things to come, with the greater and more
+perfect tabernacle not made with hands… **He entered the Most Holy Place once for all**,
+having obtained eternal redemption.*
+
+There is one pair of hands the holy things could be handled by, and Hebrews says whose.
+
+*Behold, **the LORD's hand is not shortened**, that it cannot save.*
 
 > **What the two names have in common.** *Perets* — a bursting through. David used it for a
 > victory in chapter 5 and for a death in chapter 6, and both places kept the name.

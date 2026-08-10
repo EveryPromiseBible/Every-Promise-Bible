@@ -3,7 +3,7 @@ key: Numbers 18:8–20
 title: "I am your portion"
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The tribe that gets no land is told what it gets instead.
@@ -92,6 +92,35 @@ Him."*
 
 The tithe, and they tithed on that in turn — a tenth of the tenth, the best of it, up to
 the priests. See the note on Numbers 18:21–32.
+
+## Who says it back
+
+*The LORD is **the portion of my inheritance** and my cup; You maintain my lot.*
+
+David owned a kingdom and used the landless tribe's line about himself.
+
+Asaph: *God is the strength of my heart and **my portion forever**.* Jeremiah, sitting in the
+ruins: *"the LORD is my portion," says my soul.*
+
+## Who says it last
+
+*But what things were gain to me, these I have counted loss for Christ… **that I may gain Christ
+and be found in Him**.*
+
+Paul does the Levite's arithmetic in full — lists everything he had a claim to, writes it off, and
+names what he took instead.
+
+## Who the priests are now
+
+*You also, as living stones, are being built up a spiritual house, **a holy priesthood**… you are
+a chosen generation, **a royal priesthood**, a holy nation, His own special people.*
+
+Peter hands the office to ordinary readers, and with it the terms: no land, and a portion.
+
+*In Him also **we have obtained an inheritance**.*
+
+The Greek is **eklerothemen** — we were allotted. It is the surveying word, the same idea as
+**cheleq**, used of people who are given a Person.
 
 > **The trade.** No fields, no boundary stones, no inheritance to pass on. In place of
 > all of it, one sentence: *I am your portion.*

@@ -103,5 +103,53 @@ ways nor according to your corrupt doings**."*
 
 A long catalogue of failure, and that is the conclusion drawn from it.
 
+## Before the deliverance
+
+*I made Myself known to them **in the land of Egypt**.* Not at Sinai. While they were still
+slaves, before a commandment existed and before the sea opened.
+
+*But God demonstrates His own love toward us, in that **while we were still sinners, Christ died
+for us**.*
+
+*We love Him because **He first loved us**.*
+
+**John**'s adverb is **protos** — first, in order. The whole chapter of Ezekiel 20 is a recital of
+Israel failing, and its opening move is God introducing Himself to them before they had done
+anything at all, in the country they were enslaved in.
+
+## The land He had searched out
+
+**Tur** — the scouts' own verb. God says He had surveyed it and chosen it before twelve men were
+sent to look.
+
+*"In My Father's house are many mansions; if it were not so, I would have told you. **I go to
+prepare a place for you**. And if I go and prepare a place for you, I will come again and receive
+you to Myself."*
+
+**John** 14, and the same order: the place is found and made ready before anybody is brought to
+it.
+
+*To an inheritance incorruptible and undefiled and that does not fade away, **reserved in heaven
+for you**.*
+
+**Peter**'s verb is **tetremenen** — kept, guarded. Ezekiel's **tzevi**, the glory of all lands,
+was scouted in advance; **1 Peter**'s is being held.
+
+## For My name's sake
+
+*"I have dealt with you **for My name's sake, not according to your wicked ways nor according to
+your corrupt doings**."*
+
+That is the conclusion the chapter draws from four generations of failure, and it is the shape of
+the New Testament's own sentence:
+
+*Who has saved us and called us with a holy calling, **not according to our works, but according
+to His own purpose and grace** which was given to us in **Christ Jesus** before time began.*
+
+*Not by works of righteousness which we have done, but **according to His mercy**.*
+
+**2 Timothy** and **Titus**, both built on the same *not… but*, and both putting the reason on
+God's side of the sentence exactly where Ezekiel puts it.
+
 > **The verb.** **Tur** — the scouts' own word for surveying a land. God says He had already done
 > it, for them, before twelve men were ever sent.

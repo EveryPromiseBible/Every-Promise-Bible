@@ -4,7 +4,7 @@ title: "We do not know what to do"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2026-01-11 the-year-of-much-more
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A king finishes a public prayer with an admission.
@@ -97,6 +97,45 @@ and they were defeated.*
 
 Judah arrives to find the field already settled, and spends three days collecting the
 spoil.
+
+## What he admits out loud
+
+*"**We have no power** against this great multitude that is coming against us; **nor do we
+know what to do**; **but our eyes are upon You**."*
+
+No strength, no plan, and no idea. A head of state says all three out loud, in public, in
+front of the whole nation including the children.
+
+## What he does not do
+
+Offer anything. There is no vow in the prayer, no promise of reform, no bargain, and no appeal
+to Judah's record.
+
+He recites what God did, states the problem, and stops.
+
+*Let us therefore **come boldly to the throne of grace**, that we may obtain mercy and find
+grace to help in time of need.*
+
+The Greek is **parrhesia** — the right to speak plainly, which is what a citizen has in an
+assembly and a beggar does not.
+
+## Where the eyes go
+
+*"**But our eyes are upon You.**"*
+
+*Let us run with endurance the race that is set before us, **looking unto Jesus, the author
+and finisher of our faith**.*
+
+The Greek is **aphorontes** — looking away from everything else to one place. It is the same
+motion Jehoshaphat describes, and the writer of **Hebrews** gives it an object.
+
+## Who is standing there
+
+*Now all Judah, with their **little ones, their wives, and their children**, stood before the
+LORD.*
+
+The Chronicler names the children twice. The prayer that admits total helplessness is prayed
+in front of them on purpose.
 
 > **How the prayer ends.** Not with a strategy or a claim. Two admissions — no power, and
 > no idea — and then a sentence about where they are looking.

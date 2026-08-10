@@ -46,6 +46,44 @@ where it may look as if nothing took.
 That is what makes it worth having. A promise that only covered the compliant
 years would be no comfort to anybody.
 
+## The verb, used of a Child
+
+**Chanak** — to dedicate, to set apart for the purpose a thing was made for.
+
+*Now when the days of her purification according to the law of Moses were completed, **they
+brought Him to Jerusalem to present Him to the Lord**.*
+
+**Luke** records a boy dedicated in a temple at eight days and again at forty, and then: *the
+Child grew and became strong in spirit, filled with wisdom, and the grace of God was upon
+Him.*
+
+The proverb's promise is about a road walked to the end of a life. The one child in Scripture
+whose dedication is recorded in full did not turn from it.
+
+## And a child who did not
+
+*And that **from childhood you have known the Holy Scriptures**, which are able to make you
+wise for salvation through faith which is in **Christ Jesus**.*
+
+**Paul** to **Timothy**, naming the grandmother and the mother — *the genuine faith that is in
+you, which dwelt first in your grandmother Lois and your mother Eunice.*
+
+Two women, no father mentioned, and a man in Rome writing to say it took.
+
+## What the training is for
+
+*Wise **for salvation through faith which is in Christ Jesus**.*
+
+That is the destination **Paul** gives it. Not competence, and not respectability. The
+dedication in **chanak** is a child put on a road, and the road has an end.
+
+## And the good name
+
+*Choose **a good name** over great riches.*
+
+*Therefore God also has highly exalted Him and **given Him the name which is above every
+name**.*
+
 > **What the chapter opens with.** *Choose a good name over great riches.* The
 > chapter that contains the great parenting promise begins by saying what is
 > worth handing on, and it is not money. Four verses later: *the reward of

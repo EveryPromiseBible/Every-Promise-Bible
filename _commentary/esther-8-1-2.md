@@ -3,7 +3,7 @@ key: Esther 8:1–2
 title: "Esther's house, Mordecai's ring"
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The transfer happens in a single day, and it is total.
@@ -51,6 +51,40 @@ The instrument of the sentence becomes the instrument of the rescue.
 She receives it and immediately puts him in charge of it. Two verses, and the
 whole apparatus of the enemy is in the hands of the two people it was built
 against.
+
+## Whose finger it is on
+
+*So the king **took off his signet ring, which he had taken from Haman, and gave it to
+Mordecai**.*
+
+The same ring. It sealed the decree for the destruction of the Jews in chapter 3 and it will
+seal their deliverance in chapter 8. See the note on Esther 8:9–14.
+
+The authority never changed hands in principle. It changed whose finger it was on.
+
+## What Esther is given
+
+*And the king gave the house of Haman to Queen Esther.*
+
+The estate of the man who tried to destroy her, handed over the same day, and she sets
+Mordecai over it.
+
+*Having disarmed principalities and powers, He made a public spectacle of them, **triumphing
+over them** in it.*
+
+*And when He ascended on high, **He led captivity captive, and gave gifts to men**.*
+
+## The clause the narrator adds
+
+*For **Esther had told the king what he was to her**.*
+
+Mordecai gets nothing until the relationship is stated. He is promoted as her family, not as a
+loyal official — his own service had been recorded in the chronicles for years and got him
+nothing.
+
+*And if children, then **heirs — heirs of God and joint heirs with Christ**.*
+
+**Paul**'s word for the ground of inheritance is not service either.
 
 > **What has not changed.** The first decree still stands. Persian law cannot be
 > revoked, and the thirteenth of Adar is still in the calendar — Haman is dead and

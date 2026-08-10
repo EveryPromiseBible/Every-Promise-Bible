@@ -3,7 +3,7 @@ key: Numbers 24:3–9
 title: "How lovely are your tents"
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The fourth oracle, and it is the best writing in the book of Numbers.
@@ -108,6 +108,30 @@ Before leaving, unpaid and dismissed, he delivers a fifth oracle anyway:
 
 *"**I see Him, but not now; I behold Him, but not near. A Star shall come out of Jacob; a
 Scepter shall rise out of Israel**."*
+
+## The fifth oracle
+
+Dismissed and unpaid, he gives one more:
+
+*"I see Him, but not now; I behold Him, but not near. **A Star shall come out of Jacob; a
+Scepter shall rise out of Israel**."*
+
+Not *something*. **Him.**
+
+Matthew opens his gospel with men from the east following a star to a house in Bethlehem:
+*"We have seen **His star** in the East and have come to worship Him."* The last thing an
+eastern diviner on Balak's payroll said about Israel was that a Star was coming out of it.
+
+And the last chapter of the Bible has Jesus name Himself with it: *I am the Root and the
+Offspring of David, **the Bright and Morning Star**.*
+
+## Why the tents were lovely
+
+Because of what was in the middle of them.
+
+Numbers 2 has the camp in four divisions around one tent, and inside the tent the ark with the
+blood on it. Balaam is describing a refugee camp in a desert as gardens beside a river, and
+the reason is not the tents. See the note on Numbers 23:21–24.
 
 > **Where the words are still said.** *How lovely are your tents.* A man on a hill,
 > employed to curse, describing a desert camp as gardens beside a river — and it is the

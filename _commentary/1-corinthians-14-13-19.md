@@ -98,6 +98,37 @@ tongues**. Let all things be done decently and in order.*
 
 Both clauses, in the same sentence, as his closing instruction.
 
+## The five words
+
+*Yet in the church **I would rather speak five words with my understanding, that I may teach others
+also, than ten thousand words in a tongue**.*
+
+The ratio is two thousand to one, and the reason given is teaching somebody else.
+
+*Let all things be done for **edification**.*
+
+## What the mind is for
+
+*I will pray with the spirit, and **I will also pray with the understanding**.*
+
+**Paul** will not choose between them, and says he does both. What he insists on is that in a
+gathering the intelligible must win, because of the man in the back row who cannot say **Amen**.
+
+*Otherwise, if you bless with the spirit, how will he who occupies the place of the uninformed say
+"Amen" at your giving of thanks, since he does not understand what you say?*
+
+**Idiotes** — the outsider, the untrained. **Paul** designs the meeting around him.
+
+## Whose Amen it is
+
+*For **all the promises of God in Him are Yes, and in Him Amen**, to the glory of God through us.*
+
+**2 Corinthians** 1, and the **Amen** the uninformed man cannot say is traced to **Christ**.
+
+*These things says **the Amen, the Faithful and True Witness**.*
+
+**Revelation** 3 makes it a title.
+
 > **What Paul never does in the chapter.** Argue that the thing is not real, not from
 > God, or not for them. His entire concern is the person sitting in the seat who cannot
 > say Amen to what they did not follow.

@@ -95,6 +95,40 @@ then that which is in part will be done away.*
 Faith and hope also end — you do not need either when the thing is in front of you. Paul
 calls love greatest and then, in the next sentence, tells them to chase it.
 
+## Whose portrait this is
+
+Read the list with a name in it and it stops being an ideal.
+
+*Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up;
+does not behave rudely, does not seek its own, is not provoked, **thinks no evil**… bears all things,
+believes all things, hopes all things, endures all things.*
+
+*But God demonstrates His own love toward us, in that **while we were still sinners, Christ died for
+us**.*
+
+*Therefore be imitators of God as dear children. And **walk in love, as Christ also has loved us and
+given Himself for us**.*
+
+**Ephesians** 5 supplies the standard the chapter is measured by, and it is not an abstraction.
+
+## The bookkeeping clause
+
+*Thinks no evil.* **Ou logizetai to kakon** — keeps no account of the wrong.
+
+**Logizomai** is the imputation verb — the one **Paul** uses eleven times in **Romans** 4 of
+righteousness being credited. Here it is negated: love does not enter the item.
+
+*Blessed is the man to whom **the LORD shall not impute sin**.*
+
+Same verb, and **Paul** quotes David using it in **Romans** 4. What God is described not doing with a
+ledger is what love is described not doing.
+
+## Never fails
+
+*Love **never fails**.* **Oudepote piptei** — never falls.
+
+*Jesus Christ is **the same yesterday, today, and forever**.*
+
 > **Where the chapter sits.** Between a list of nine spiritual gifts and the instructions
 > for using them in a meeting. It is not an interlude. It is the standard the other two
 > chapters are measured against.

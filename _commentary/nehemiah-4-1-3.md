@@ -3,7 +3,7 @@ key: Nehemiah 4:1–3
 title: "If a fox climbed up on it"
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The opposition changes tactics. Chapter 2 was displeasure; this is ridicule.
@@ -83,6 +83,51 @@ Fifty-two days, and the last verse of the chapter about it says the surrounding 
 our God.*
 
 The fox joke was made about a wall that went up in under two months.
+
+## What the mockery is for
+
+Not the wall. The builders.
+
+*"**What are these feeble Jews doing?** Will they fortify themselves? Will they offer
+sacrifices? Will they complete it in a day? Will they revive the stones from the heaps of
+rubbish — stones that are burned?"*
+
+Four questions in a row, and every one is about the workers rather than the work.
+
+## What Tobiah adds
+
+*"**Whatever they build, if even a fox goes up on it, he will break down their stone wall.**"*
+
+The point of the joke is that the thing is not worth attacking.
+
+## How he answers it
+
+Prays it back — *hear, O our God, for we are despised* — and then: *so we built the wall, and
+the entire wall was joined together up to half its height, **for the people had a mind to
+work***.
+
+He does not answer Sanballat. The next verb is building.
+
+*Let no one despise your youth, but **be an example to the believers**.* **Paul** to Timothy,
+about the same tactic.
+
+## The stones out of the rubbish heap
+
+Sanballat is right that they are burned stones from a heap. That is exactly what is being
+used.
+
+*You also, **as living stones**, are being built up a spiritual house.* **Peter** writes it to
+people scattered and under pressure, and the material in his picture is not new either.
+
+*Has God not chosen **the poor of this world to be rich in faith**?*
+
+## The fifty-two days
+
+Fifty-two days.
+
+*And when all our enemies heard of it, and all the nations around us saw these things, **they
+were very disheartened in their own eyes**; for they perceived that this work was done by our
+God.*
 
 > **What the mocking was aimed at.** Not the wall — the builders. *Feeble Jews.* The
 > book answers it by recording the height reached in the same paragraph.

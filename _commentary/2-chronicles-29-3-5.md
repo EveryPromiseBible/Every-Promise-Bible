@@ -3,7 +3,7 @@ key: 2 Chronicles 29:3–5
 title: "In the first month of the first year"
 sources:
   - 2017-09-10 the-prayer-that-repairs-your-body
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A new king's first recorded act, and it is about a set of doors.
@@ -84,6 +84,57 @@ note on 2 Chronicles 29:6–9.
 had done.*
 
 Not *his father Ahaz*. The chronicler skips a generation to find the comparison.
+
+## The first thing he does
+
+*In the first year of his reign, **in the first month**, he **opened the doors of the house of
+the LORD** and repaired them.*
+
+Not an army, a treaty, a census or a building programme. His father Ahaz had shut the doors,
+put out the lamps and stopped the offerings — Hezekiah opens them in the first month of the
+first year.
+
+## The sequence he gives
+
+*"**Sanctify yourselves, sanctify the house** of the LORD God of your fathers, and **carry out
+the rubbish** from the holy place."*
+
+Themselves first, then the building, then the debris. And the third item is the plainest word
+in the sentence — **niddah**, filth, the stuff that has to be carried out before anything else
+can happen.
+
+## What was inside
+
+A locked temple that had been used as a store. The priests bring out everything unclean they
+find *in the temple of the LORD* into the court, and the Levites carry it to the Kidron.
+
+## What the house turns out to be
+
+*Do you not know that **you are the temple of God** and that the Spirit of God dwells in you?*
+
+**Paul** says it to a church with worse problems than dust. And the sequence he gives is
+Hezekiah's: *having therefore these promises, beloved, let us cleanse ourselves*.
+
+The promises come first in that sentence. The cleansing is what people do who have already
+been given something.
+
+## What he says about why
+
+*"**Our fathers have trespassed**… and turned their faces away from the dwelling place of the
+LORD."*
+
+He does not distance himself from it. His own father shut those doors, and he says *our
+fathers*.
+
+## What follows immediately
+
+The sin offering, the burnt offering, the Levites with cymbals and harps, and *the song of the
+LORD began also with the trumpets* — and then the largest Passover since Solomon, kept a month
+late because they were not ready in time, with a prayer for everyone who came unprepared:
+
+*"May **the good LORD provide atonement for everyone** who prepares his heart to seek God…
+though he is not cleansed according to the purification of the sanctuary." And the LORD
+listened to Hezekiah and healed the people.*
 
 > **Where the reign starts.** Not with an army, a treaty, or a building programme. A
 > young king opens a door his father closed and tells the Levites to carry the rubbish

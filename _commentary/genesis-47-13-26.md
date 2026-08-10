@@ -3,7 +3,7 @@ key: Genesis 47:13–26
 title: The famine and the land
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Four stages of a national bankruptcy, administered by one man, and Moses reports it
@@ -95,6 +95,29 @@ The whole rural population reorganised around the granaries.
 Israel is settled in Goshen with the best of the land, tax-free, provided for by the
 brother his sons sold. The contrast is deliberate and Moses puts them in the same
 chapter. See the note on Genesis 47:27–31.
+
+## What they came for and what they went away with
+
+They arrive having spent their money, then their livestock, then their land, and finally saying
+*buy us and our land for bread*.
+
+And what Joseph hands back is **seed**: *here is seed for you, and you shall sow the land.*
+
+They sold themselves and were given the means to live. Egypt survives, the family the covenant
+runs through survives, and the man arranging it is the brother they had sold for silver.
+
+*"**You meant it for evil against me, but God meant it for good**… to save many people alive."*
+See the note on Genesis 50:15–21.
+
+## The one exception in the chapter
+
+*Only the land of the priests he did not buy… **they ate their rations which Pharaoh gave
+them**.*
+
+One class in Egypt goes through the famine without selling anything, because they were fed from
+the king's own table by standing arrangement.
+
+Everybody else buys. The priests are given.
 
 > **The direction of the seven years.** The whole transaction runs on grain that was
 > stored during the plenty by a man who believed a dream about the famine. See the note

@@ -3,7 +3,7 @@ key: Genesis 30:22–24
 title: God remembered Rachel
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Three verses at the end of a long domestic war, and they are the turning point of Genesis.
@@ -95,6 +95,25 @@ Everything from Genesis 37 to the end of the book comes out of these three verse
 
 And at the end: *you meant evil against me, but God meant it for good*. See the note on
 Genesis 50:15–21.
+
+## The other barren women
+
+Sarah, Rebekah, Rachel, Hannah, and then an old priest's wife in the hill country of Judea.
+
+*Blessed be the Lord God of Israel, for **He has visited and redeemed His people***. See the
+note on Luke 1:68–79.
+
+Zacharias says it over a son given to a woman past the age, in the same chapter as the
+announcement to a girl in Nazareth. The line of the promise keeps running through wombs that
+had been closed, so that nobody could mistake the child for an achievement.
+
+## What she names him
+
+**Yoseph** — *may He add*.
+
+She has just been given one son and the name is a request for another. The next one costs her
+her life on the road to Bethlehem, and she names him **Ben-oni**, son of my sorrow — and his
+father renames him **Benjamin**, son of the right hand. See the note on Genesis 35:16–20.
 
 > **What she named him.** Not for the child she had. *May He add* — the first thing she does
 > after years of waiting is ask for the next one.

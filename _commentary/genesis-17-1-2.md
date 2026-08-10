@@ -7,7 +7,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2025-01-12 the-third-day
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Thirteen years of silence end with a new name for God.
@@ -29,8 +29,9 @@ The silence begins after the attempt to produce the heir by arrangement.
 
 The Hebrew is **El Shaddai**, and this is the first time it appears in Scripture.
 
-The derivation is uncertain and has been argued over for centuries — the older sense may
-be *the mountain one*, or connect to a root for sufficiency.
+**Shaddai** carries the sense of sufficiency — the God who is enough, and more than enough,
+the one who supplies out of Himself. The older translators reached for *Almighty* and the
+force of it is nearer *All-Sufficient*.
 
 It becomes the patriarchs' name for God. Exodus says so explicitly: *I appeared to Abraham,
 to Isaac, and to Jacob, as **God Almighty**, but by My name LORD I was not known to them.*

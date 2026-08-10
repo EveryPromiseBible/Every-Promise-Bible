@@ -73,6 +73,36 @@ taken from it. God does it, that men should fear before Him.*
 That is the very next verse. The thing that is permanent is what God does, and the
 eternity in the heart is what recognises it.
 
+## Beginning to end
+
+*Yet no one can fully grasp **what God has done from beginning to end**.*
+
+That is the one thing the verse says a man cannot see, and it is the one thing that turns up
+later as a title.
+
+*"**I am the Alpha and the Omega, the Beginning and the End**, the First and the Last."*
+
+**Revelation**'s last chapter answers Ecclesiastes' complaint by not explaining anything. What
+the Preacher could not grasp from beginning to end is not a diagram. It is a Person, and He
+introduces Himself.
+
+## What the eternity is for
+
+*He has set **olam** in the human heart.* Something with no horizon, in a creature with
+seventy years.
+
+*"And this is **eternal life**, that they may know You, the only true God, and **Jesus Christ**
+whom You have sent."*
+
+**John**'s definition is not length. It is knowing somebody, and the Greek is **zoe aionios** —
+the life of the age, the adjective from the same idea the Hebrew **olam** carries.
+
+The capacity Ecclesiastes calls a torment is described in the gospel as an appetite that has
+somewhere to go.
+
+*"He who believes in Me, though he may die, he shall live. And whoever lives and believes in Me
+**shall never die**."*
+
 > **What Augustine made of this verse.** *You have made us for Yourself, and our heart
 > is restless until it rests in You.* Sixteen centuries of readers have taken the
 > restlessness in this line as the point of it rather than the problem with it.

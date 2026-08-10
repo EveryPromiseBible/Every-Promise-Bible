@@ -3,7 +3,7 @@ key: Exodus 4:10–12
 title: "Who gave man his mouth?"
 sources:
   - 2018-09-23 the-key-to-robust-faith
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Moses' fourth objection, and the one that is usually read as modesty. It is not
@@ -37,6 +37,26 @@ It is a large and difficult claim, and the passage does not soften it.
 
 Two verbs, both first person. Not *your speech will improve* — I will be with it,
 and I will teach you.
+
+## The same promise, later
+
+*Settle it in your hearts not to meditate beforehand on what you will answer; for **I will give
+you a mouth and wisdom** which all your adversaries will not be able to contradict or resist.*
+
+Jesus says it to men about to stand in front of courts. It is the same undertaking made at the
+bush, in the same shape: not *your speaking will improve*, but *I will give*.
+
+## Where the objection lands
+
+Moses names a permanent weakness and offers it as a disqualification. God does not dispute the
+weakness and does not remove it.
+
+*And He said to me, "**My grace is sufficient for you, for My strength is made perfect in
+weakness**." Therefore most gladly I will rather boast in my infirmities, that the power of
+Christ may rest upon me.*
+
+Paul asked three times for a thing to be taken away and was told no, and given something
+better than a yes.
 
 > **How it ends.** Moses objects a fifth time anyway — *please send someone else*
 > — and this time God's anger is recorded. Aaron is appointed as the spokesman.

@@ -102,5 +102,42 @@ The gates are where the elders sat and the town's business was done.
 The book ends by sending a woman's reputation into the public square on the strength of what
 she made.
 
+## Who found her
+
+*A woman of valour, **who can find her?***
+
+The book ends on a question, and the New Testament answers it with a Bridegroom.
+
+*Husbands, love your wives, just as **Christ also loved the church and gave Himself for her**,
+that He might sanctify and cleanse her with the washing of water by the word, that **He might
+present her to Himself a glorious church**, not having spot or wrinkle or any such thing.*
+
+**Paul**'s point is the order. She is not found glorious. She is made glorious by the one who
+came for her, and then presented.
+
+## The linen
+
+She *makes and sells linen garments*, and *strength and honour are her clothing*.
+
+*"Let us be glad and rejoice and give Him glory, for the marriage of the Lamb has come, and
+**His wife has made herself ready**." And to her it was granted to be arrayed in **fine linen,
+clean and bright** — for the fine linen is the righteous acts of the saints.*
+
+**Revelation** dresses the bride in exactly what the acrostic has her weaving, and adds one
+verb: *it was granted to her*. The linen is her work and it is given to her to wear.
+
+## The valour
+
+**Chayil** — the word for an army.
+
+*"**I will build My church, and the gates of Hades shall not prevail against it.**"*
+
+## And what the last verse rests on
+
+*Charm is deceitful and beauty is passing, but **a woman who fears the LORD, she shall be
+praised**.*
+
+*Whose praise is not from men but **from God**.*
+
 > **The word the poem opens with.** *Chayil* — the word used of Gideon and of an army. Not
 > *virtuous* in the narrow sense; closer to *formidable*.

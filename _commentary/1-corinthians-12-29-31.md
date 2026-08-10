@@ -44,6 +44,34 @@ That is the structure people miss when 1 Corinthians 13 gets read at weddings. I
 is not a standalone poem; it is Paul's answer to a church quarrelling about which
 gifts made a person important.
 
+## Whose distribution it is
+
+*But one and the same Spirit works all these things, **distributing to each one individually as He
+wills**.*
+
+Eighteen verses earlier, and it settles the rhetorical questions at the end of the chapter. *Are all
+apostles? Are all prophets?* — no, and the reason is not merit.
+
+**Kathos bouletai** — just as He wills.
+
+*But to each one of us **grace was given according to the measure of Christ's gift**.*
+
+**Ephesians** 4, and **Paul** calls the gifts **charis** — grace — and dates the measuring to
+somebody else's decision.
+
+## The more excellent way
+
+*And yet I show you **a more excellent way**.*
+
+**Kath' hyperbolen hodon** — a way beyond comparison. It is the last line of the chapter and the
+door into chapter 13.
+
+The competition about gifts is not answered with a better gift. It is answered with love, and
+**Paul** then spends thirteen verses describing something that reads, line by line, like a
+description of a Person.
+
+*Greater love has no one than this, than to lay down one's life for his friends.*
+
 > **How chapter 13 opens.** *If I speak in the tongues of men and of angels but
 > have not love, I am a noisy gong.* He lists the very gifts they were competing
 > over and prices each one at nothing without the thing he is about to describe.

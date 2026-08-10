@@ -69,6 +69,42 @@ whatever your hand finds to do, do it with your might.*
 Not paralysis. Work hard, eat well, love your wife — and hold the outcome loosely,
 because you were never the one holding it.
 
+## Who else says the race is not to the swift
+
+*So then **it is not of him who wills, nor of him who runs, but of God who shows mercy**.*
+
+**Paul** reaches the Preacher's sentence and gives it the reason Ecclesiastes could not see
+from under the sun. The race is not to the swift, and the alternative is not chance — it is
+mercy.
+
+*Not by works of righteousness which we have done, but **according to His mercy He saved us**.*
+
+Everything the Preacher lists — speed, strength, wisdom, cleverness, skill — is a
+qualification, and **Romans** is the book that says the outcome was never being distributed on
+those terms.
+
+## The hour nobody knows
+
+*The children of earth are trapped in an evil time **when it falls on them without warning**…
+no one knows his hour.*
+
+*"But of that day and hour **no one knows**, not even the angels of heaven, but My Father
+only."*
+
+**Jesus** says it about His own return, using the Preacher's observation as a reason to be
+ready rather than a reason to despair. And **Paul**: *the day of the Lord so comes as a thief
+in the night.*
+
+## The net
+
+Ecclesiastes has men caught like fish in a cruel net, going about their business with no idea
+one exists.
+
+*"Follow Me, and **I will make you fishers of men**."*
+
+**Matthew** records it said to men holding nets. There is one net in the New Testament and it
+is not cruel — the catch is the point of the rescue, not the end of it.
+
 > **Where the book ends.** *Fear God and keep His commandments, for this is the
 > whole duty of man.* Twelve chapters reasoning from under the sun, and the
 > conclusion looks up.

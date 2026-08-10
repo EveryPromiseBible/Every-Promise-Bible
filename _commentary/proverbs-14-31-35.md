@@ -98,5 +98,43 @@ Judge: He puts down one, and exalts another***. See the note on Psalms 75:6–8.
 
 The verb is the same root, **rum**.
 
+## Where the insult is received
+
+*Oppress the poor and you insult their Maker.*
+
+*"Assuredly, I say to you, **inasmuch as you did it to one of the least of these My brethren,
+you did it to Me**."*
+
+**Jesus** makes the same argument and moves it one step closer: not that the insult travels
+up to the Maker, but that He is standing in the place where it lands.
+
+## The shelter in death
+
+*The upright **find shelter even in death**.*
+
+An extraordinary line for a book that rarely looks past the grave, and the New Testament
+finishes the sentence:
+
+*For to me, to live is **Christ**, and to die is gain… having a desire to depart and be with
+Christ, which is far better.*
+
+*"**I am the resurrection and the life.** He who believes in Me, though he may die, he shall
+live."*
+
+**Chasah** — to take refuge. The proverb says the righteous has one *in* his dying, and does
+not say what it is. **Paul** and **John** both answer with a Person rather than a place.
+
+## The righteousness that lifts a nation
+
+*Righteousness lifts a nation up.*
+
+**Tzedaqah** — and Proverbs means honest scales and fair courts.
+
+*For **He made Him who knew no sin to be sin for us, that we might become the righteousness of
+God in Him**.*
+
+Which is where a nation's supply of it comes from. The proverb states the effect; **Paul**
+names the only place the raw material is manufactured.
+
 > **The two words.** **Goy** and **le'ummim** — the general terms for nations and peoples. The
 > proverb is not written about Israel, and its scope is anybody.

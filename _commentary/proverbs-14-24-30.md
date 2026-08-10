@@ -104,5 +104,40 @@ tent**."* See the note on Job 29:1–6.
 *Righteousness exalts a nation, but sin is a reproach to any people.* See the note on
 Proverbs 14:31–35.
 
+## Where the tranquil heart is found
+
+*A tranquil heart gives life to the body.* The proverb names the state and not the source.
+
+*"**Peace I leave with you, My peace I give to you**; not as the world gives do I give to you.
+Let not your heart be troubled, neither let it be afraid."*
+
+**Jesus** gives it as a possession rather than prescribing it as a discipline.
+
+*And the **peace of God, which surpasses all understanding, will guard your hearts** and minds
+through **Christ Jesus**.*
+
+## And where the envy went
+
+*Envy is rot in the bones.*
+
+*For **he knew that they had handed Him over because of envy**.*
+
+**Matthew** names Pilate's read of the room. Envy is given as the motive for the crucifixion
+in two gospels, and it is the only time the word is used of what put Him there.
+
+The proverb says envy decays the man who carries it. In the one place Scripture traces it all
+the way out, it also killed somebody else.
+
+## The refuge
+
+*In the fear of the LORD is strong confidence, and **a refuge for His children**.*
+
+*That we might have strong consolation, who **have fled for refuge to lay hold of the hope set
+before us**.*
+
+**Hebrews** keeps the running and the shelter, and puts an anchor at the end of the sentence
+— *which enters the Presence behind the veil, where the forerunner has entered for us, even
+Jesus.*
+
 > **The last proverb.** A settled heart is *life to the flesh*; envy is *rot in the bones*. Two
 > interior states named as having physical outcomes, without qualification.

@@ -5,7 +5,7 @@ sources:
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The first man in Scripture said to be filled with the Spirit of God is a craftsman.
@@ -96,6 +96,38 @@ shall keep* — and then the two tablets, written by the finger of God. See the 
 Exodus 31:18.
 
 Work, rest, and the writing, in that order, at the end of the chapter.
+
+## What he was building, and what it was a copy of
+
+Not a religious ornament. A dwelling — *let them make Me a sanctuary, **that I may dwell among
+them***.
+
+Hebrews says what the tent actually was: *the copy and shadow of the heavenly things… **see
+that you make all things according to the pattern shown you on the mountain***. See the note
+on Hebrews 8:6–7.
+
+Bezalel was not designing. He was reproducing something already shown, in gold and wood and
+thread.
+
+## Where the dwelling ends up
+
+*And **the Word became flesh and dwelt among us***. The Greek is **eskenosen** — He pitched His
+tent. John uses the tabernacle word.
+
+And at the end: *behold, **the tabernacle of God is with men**, and He will dwell with them*.
+
+The tent Bezalel built is the middle term between a bush that would not burn up and a city
+where God lives with people permanently.
+
+## Which tribe
+
+*From the tribe of **Judah**.*
+
+The tribe of the sceptre, of David, and of the Lion. The man called by name and filled with
+the Spirit to build the place God would dwell comes out of the tribe the One who would be that
+dwelling comes out of.
+
+And his name means *in the shadow of God*.
 
 > **Who is filled first.** Not a prophet. A man named to his grandfather, from Judah, who
 > could cut stone and carve wood and beat gold — and the text says God filled him with His

@@ -4,7 +4,7 @@ title: Received at Joseph's house
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 They arrive expecting arrest and are shown to a dining room.
@@ -101,6 +101,21 @@ sent to a man who owned Egypt's granaries.
 
 Joseph comes in, asks after their father, sees Benjamin, and has to leave the room. See the
 note on Genesis 43:26–34.
+
+## "I received your silver"
+
+They will not go through the door. They stand at the threshold with the money in their hands,
+rehearsing the proof that they are not thieves — *we have brought it back with us, and more
+silver besides*.
+
+And the answer is: *peace to you, do not be afraid. **Your God, the God of your father, has
+given you treasure in your sacks. I have your silver.***
+
+The debt they came to settle had been settled before they arrived, by the brother they did
+not know they were dealing with. They are told the account is closed while they are still
+outside trying to pay it.
+
+Then they are brought in, given water for their feet, and seated at his table.
 
 > **What they were braced for.** Slavery. What they got was a threshold conversation, a
 > steward saying *peace to you*, their brother released, water for their feet and hay for

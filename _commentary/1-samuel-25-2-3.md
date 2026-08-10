@@ -3,7 +3,7 @@ key: 1 Samuel 25:2–3
 title: Nabal and Abigail
 sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two people introduced in one verse, and the writer sets them against each other
@@ -79,6 +79,39 @@ in the morning, *and his heart died within him, and he became like a stone*, and
 ten days later he was dead.
 
 David sent for Abigail and married her.
+
+## What Abigail says when she reaches him
+
+*"**On me, my lord, on me let this iniquity be!**"*
+
+She had nothing to do with the insult. Nabal refused David's men, Nabal sent them away empty,
+and Nabal is described by his own household as a man nobody can speak to.
+
+She rides out to meet four hundred armed men and asks for the blame to be put on her.
+
+Paul says it of Christ: *He made Him who knew no sin **to be sin for us**, that we might become
+the righteousness of God in Him.*
+
+## What she brings
+
+Two hundred loaves, two skins of wine, five dressed sheep, roasted grain, raisins and fig
+cakes — everything Nabal refused, carried out to the man he refused it to.
+
+She does not defend her husband and she does not deny the debt. She pays it.
+
+## What it stops
+
+*"**Blessed is your advice and blessed are you**, because you have kept me this day from coming
+to bloodshed."*
+
+David was on his way to kill every male in the household. The intercession is what turns him,
+and the man she saved never knew it had happened — *he was very drunk, so she told him nothing.*
+
+## The two names
+
+**Nabal** — fool. **Abigail** — my father's joy.
+
+*The fool has said in his heart, "There is no God."*
 
 > **The house he was from.** *He was of the house of Caleb* — the man who at
 > eighty-five asked for the mountain with the giants on it. The blood was there; the

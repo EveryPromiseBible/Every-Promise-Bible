@@ -68,6 +68,27 @@ something is trying to get in, or out.
 The reason given is not sentimental. It is hydraulic: whatever is in there is
 what will come out everywhere else.
 
+## What the words turned out to be
+
+*"**The words that I speak to you are spirit, and they are life.**"*
+
+**Jesus**, on what comes out of His mouth, using the same claim the father makes here about
+his own instruction — *they are life to those who find them*.
+
+*He **sent His word and healed them**, and delivered them from their destructions.*
+
+**Marpe** to all his flesh, and a psalm that says the word itself is the medicine.
+
+## Who guards the heart
+
+The proverb says *guard it*. The New Testament says who does the guarding:
+
+*And **the peace of God, which surpasses all understanding, will guard your hearts and minds
+through Christ Jesus**.*
+
+**Paul**'s verb is **phroureo** — a garrison word, a sentry posted at a gate. The same
+picture as the Hebrew, with the sentry named and the wages paid by somebody else.
+
 > **How the passage ends.** *Do not turn to the right or the left.* The same
 > phrase Joshua was given about the book of the law. The chapter is not describing
 > a mood or an atmosphere — it is describing a road, walked deliberately, by

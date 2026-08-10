@@ -5,7 +5,7 @@ sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 *The servant took ten of his master's camels and set out, with all kinds of good
@@ -34,12 +34,17 @@ servant, arrives before he explains himself, and secures the bride for the son.
 
 ## The picture the chapter draws
 
-Christian readers have long seen the outline here and it is hard to miss: a
-father sends a trusted servant to find a bride for his son, and the servant goes
-loaded with the father's own riches to give away on the way.
+A father sends a trusted servant to find a bride for his son, and the servant goes
+loaded with the father's own riches to give away on the road. The Father, the
+Spirit, the Son, the Bride. See the note on Genesis 24:1–4.
 
 The camels are how the errand is funded. Ten of them, fully laden, is Genesis
 saying the sending was not done by halves.
+
+And nothing on those animals belonged to the servant. *He will take of Mine and
+declare it to you*, Jesus said of the Spirit — everything handed over on the
+journey came out of the Father's house, and it is given before the bride has
+agreed to anything.
 
 > **What Rebekah does with them.** She waters all ten — somewhere between fifty
 > and a hundred litres, hauled up by hand for animals belonging to a stranger.

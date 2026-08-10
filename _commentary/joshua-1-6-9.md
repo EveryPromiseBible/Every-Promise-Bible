@@ -20,7 +20,7 @@ sources:
   - 2025-05-25 jesus-your-storehouse-of-wisdom
   - 2025-07-06 radiant-with-his-glory
   - 2026-07-19 weapons-in-times-of-adversity
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The famous line here is about turning God's words over in your mind day and
@@ -47,6 +47,37 @@ strategy. It is a way of handling words.
 Three times in four verses he is told to be strong and courageous, which is the
 tell: this is a man being steadied, and the muttering of the text is part of how
 he is steadied.
+
+## Whose name he has
+
+**Yehoshua** — *the LORD is salvation*. The Greek of it is **Iesous**.
+
+Moses could bring them out and could not bring them in. The man who takes them in carries the
+Name, and Hebrews leans on exactly that: *for if **Joshua** had given them rest, then He would
+not afterward have spoken of another day.*
+
+## The sentence the New Testament quotes off this page
+
+*"**I will never leave you nor forsake you.**"*
+
+That is verse 5, said to Joshua on the day he takes command — and it is the sentence Hebrews
+lifts and hands to ordinary readers as the ground for being content:
+
+*Let your conduct be without covetousness; be content with such things as you have. For **He
+Himself has said, "I will never leave you nor forsake you."***
+
+The Greek stacks the negatives so heavily it barely translates. Never, not ever, will I let
+go of you.
+
+## Why he is told to be strong
+
+*"**Be strong and of good courage**"* — three times in four verses, and once more from the
+people.
+
+Not because the odds are good. The reason given every time is the same: *for the LORD your God
+is with you wherever you go.*
+
+The strength is located outside the man being told to have it.
 
 > **The promise attached.** *Then your path will open before you, and you will do
 > well.* The Hebrew word behind it means to act with insight and so to succeed —

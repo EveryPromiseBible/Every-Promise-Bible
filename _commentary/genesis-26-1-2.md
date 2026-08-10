@@ -8,7 +8,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-06 prosper-gods-way-during-recession
   - 2022-12-13 prosperity-with-a-purpose
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A famine, and a father's example, and a different instruction.
@@ -76,6 +76,30 @@ wrestling like Jacob's.
 
 He dug his father's wells again, after the Philistines had filled them in, *and he
 called them by the names which his father had called them.*
+
+## Why this son does not leave
+
+*"**Do not go down to Egypt.** Live in the land I tell you about."*
+
+His father had gone down in a famine and come back out in disgrace. See the note on
+Genesis 12:10–20.
+
+But there is more to it than a warning off a bad precedent. Isaac is the son who was laid on
+the wood at Moriah, and from that chapter on Genesis never lets him out of the country — not
+for a wife, and not for food. See the note on Genesis 24:5–6.
+
+*By faith he dwelt in the land of promise as in a foreign country, **dwelling in tents with
+Isaac and Jacob, the heirs with him of the same promise**.*
+
+## What is promised in a famine
+
+*"I will be with you and bless you… and **in your seed all the nations of the earth shall be
+blessed**."*
+
+The same sentence given to Abraham, repeated to the second generation without a single
+condition added — and Paul says who the Seed in it is: *He does not say, "And to seeds," as of
+many, but as of one, "And to your Seed," **who is Christ***. See the note on
+Galatians 3:15–18.
 
 > **What the chapter is really about.** Staying put. Abraham went down and came back
 > up. Isaac is told not to go, sows in the famine, and is the only patriarch who never

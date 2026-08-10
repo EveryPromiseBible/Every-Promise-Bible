@@ -3,7 +3,7 @@ key: 2 Samuel 5:6–10
 title: Up through the water shaft
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 David takes a city nobody had taken, and the account is mostly about an insult.
@@ -98,6 +98,34 @@ Psalms 132:13–14.
 
 A Jebusite hill fort, taken up a water shaft, and the psalms spend the rest of the Old
 Testament calling it the city of God.
+
+## What the taunt became
+
+*"**You will not come in here; even the blind and the lame will drive you back.**"*
+
+The Jebusites are saying the walls are so strong a garrison of invalids could hold them.
+
+And it sticks. The chapter records the saying that came out of it: *"the blind and the lame
+shall not come into the house."*
+
+## Where that sentence is reversed
+
+*Then **the blind and the lame came to Him in the temple, and He healed them**.*
+
+Matthew records it on the day Jesus cleared the tables, in the house David's son built, in the
+city David took — and it is the one place in the gospels that clause appears.
+
+The people the taunt had barred from the house are brought into it and healed, by the son of
+the man the taunt was aimed at.
+
+*And the chief priests and scribes were indignant.*
+
+## What the city becomes
+
+*So David dwelt in the stronghold, and called it **the City of David**.*
+
+Zion. The name runs from here to *the LORD has chosen Zion*, to *out of Zion shall go forth
+the law*, to *you have come to Mount Zion… to Jesus the Mediator of the new covenant*.
 
 > **The way in.** The one thing the fortress could not seal — its water. A city that could not
 > be stormed was entered through the channel that kept it alive.

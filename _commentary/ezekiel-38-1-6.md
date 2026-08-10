@@ -114,5 +114,51 @@ river running from under the threshold and getting deeper, and the city's new na
 *And the name of the city from that day shall be: **THE LORD IS THERE**.* See the note on
 Ezekiel 48:30–34.
 
+## Whose hand is on it
+
+*"I will turn you around. **I will set hooks in your jaws and lead you out**."*
+
+The invasion is not the invader's initiative. The chapter says so in its fourth verse, before a
+single soldier moves.
+
+*"For truly **against Your holy Servant Jesus**, whom You anointed, both Herod and Pontius Pilate,
+with the Gentiles and the people of Israel, were gathered together **to do whatever Your hand and
+Your purpose determined before to be done**."*
+
+**Acts** 4, and it is the same claim about a larger gathering: a king, a governor, the Gentiles and
+the crowd, all assembled — and the sentence names whose hand had determined it without excusing
+one of them.
+
+*Him, being delivered by the determined purpose and foreknowledge of God, **you have taken by
+lawless hands, have crucified, and put to death**.*
+
+**Peter** holds both halves in one sentence at Pentecost, exactly as Ezekiel does.
+
+## Disarmed
+
+*"I will call for a sword against Gog… you shall fall upon the mountains of Israel."*
+
+*Having **disarmed principalities and powers, He made a public spectacle of them, triumphing over
+them in it**.*
+
+**Colossians** 2, and the place **Paul** names for the triumph is a cross — an event that looked
+from the outside exactly like the other side winning.
+
+## Then they shall know
+
+The refrain of the whole book, more than sixty times.
+
+*That at the name of **Jesus** every knee should bow, of those in heaven, and of those on earth,
+and of those under the earth, and **that every tongue should confess that Jesus Christ is Lord**,
+to the glory of God the Father.*
+
+*And the name of the city from that day shall be: THE LORD IS THERE.*
+
+*And I heard a loud voice from heaven saying, "**Behold, the tabernacle of God is with men**, and
+He will dwell with them."*
+
+**Revelation** 21 ends where Ezekiel ends, with a city whose distinguishing feature is who is in
+it.
+
 > **The hooks.** The invader is described as being led out by the jaw. The chapter opens with an
 > army massing and says immediately whose hand is on it.

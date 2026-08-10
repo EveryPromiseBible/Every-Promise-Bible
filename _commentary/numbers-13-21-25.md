@@ -3,7 +3,7 @@ key: Numbers 13:21–25
 title: The valley of the cluster
 sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Twelve men walk the length of the country for forty days and bring back one branch.
@@ -82,6 +82,28 @@ Caleb. He walked the same forty days, saw the same three giants, and carried the
 pole.
 
 *Let us go up at once and take it. We can certainly do it.*
+
+## The cluster on the pole
+
+*A single branch with one cluster of grapes so heavy that **two men carried it between them on a
+pole**.*
+
+It is the only thing they brought back that could not be argued with — and the way they had to
+carry it is the detail Numbers records.
+
+The fruit of the land came into the camp hanging on a piece of wood between two men, and the
+grapes were on their way to being crushed.
+
+*I am the true vine*, Jesus said. And in an upper room, over a cup: *this is My blood of the
+new covenant, which is shed for many.*
+
+## Where it grew
+
+Not on the coastal plain and not in the easy country. Eshcol is beside Hebron, in the hill
+country, which is exactly where the report says the Anakim were.
+
+The best fruit in the land was growing where the giants lived, and ten men looked at both and
+reported the giants.
 
 > **Where the fruit came from.** Not the coastal plain or the easy country. Eshcol is
 > beside Hebron, in the hill country, where the Anakim were. The best grapes in the

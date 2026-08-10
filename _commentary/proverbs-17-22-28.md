@@ -101,5 +101,48 @@ spirit.
 
 The medicine in verse 22 and the temperature in verse 27 are describing the same interior.
 
+## Whose spirit was crushed
+
+*A cheerful heart is good medicine, but **a crushed spirit dries up the bones**.*
+
+*"The Spirit of the LORD is upon Me, because He has anointed Me to preach the gospel to the
+poor; He has sent Me **to heal the brokenhearted**."*
+
+**Jesus** reads it in Nazareth and stops mid-sentence to say it is fulfilled that day. The
+proverb diagnoses the condition and offers no treatment; the sermon in the synagogue names
+the treatment and the physician in one line.
+
+*But **He was wounded** for our transgressions, **He was crushed** for our iniquities.*
+
+The Hebrew of Isaiah 53:5 is **medukka** — crushed. The condition Proverbs says nobody can
+bear is the one He was put under.
+
+## And the joy
+
+*A cheerful heart is good medicine.* **Gehah** — a cure, and the word occurs once in
+Scripture.
+
+*"These things I have spoken to you, **that My joy may remain in you, and that your joy may be
+full**."*
+
+**Jesus** does not tell them to cheer up. He speaks, and describes the joy as His, transferred
+and remaining.
+
+*Who for **the joy that was set before Him** endured the cross, despising the shame.*
+
+## The two silences
+
+The passage closes on a man who keeps quiet and is counted wise.
+
+*He was oppressed and He was afflicted, yet **He opened not His mouth**; He was led as a lamb
+to the slaughter.*
+
+*And while He was being accused by the chief priests and elders, **He answered nothing**… and
+He answered him not one word, so that the governor marvelled greatly.*
+
+**Matthew** records the silence and the effect. The proverb says restraint is so reliable an
+indicator that it works even on a fool; in front of Pilate it worked on a Roman governor, and
+the Man being silent was not a fool.
+
 > **The word that occurs once.** *Gehah* — a cure. Proverbs uses it of a cheerful heart, and
 > nowhere else in Scripture does the word appear at all.

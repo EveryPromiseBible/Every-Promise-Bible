@@ -5,7 +5,7 @@ sources:
   - 2020-05-10 can-i-ask-god-to-prosper-me
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2025-01-12 the-third-day
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Nine chapters of genealogy, and the record stops for two verses over one man.
@@ -85,6 +85,45 @@ The same root turns up over Abram coming out of Egypt — *very heavy in livesto
 and gold*. See the note on Genesis 13:1–4.
 
 Weight, in Hebrew, is what honour is made of.
+
+## Where the prayer sits
+
+Nine chapters of genealogy, and two verses of narrative dropped into the middle of a list of
+names with no introduction and no follow-up. The list resumes in verse 11 as though nothing
+happened.
+
+## What he was named
+
+**Jabez** — from **otzev**, pain. *"Because I bore him in pain."*
+
+He is introduced by his mother's worst day and carries it as his name for life.
+
+## What he asks against it
+
+*"Oh, that You would **bless me indeed and enlarge my territory**, that Your hand would be
+with me, and that You would **keep me from evil, that I may not cause pain**."*
+
+The last clause is the name. He asks not to become what he was called.
+
+## Who he asks
+
+*And Jabez **called on the God of Israel**.*
+
+Not on his family, his tribe or his inheritance — the list around him is full of men with
+better standing.
+
+Paul quotes Joel for the same move: *for **"whoever calls upon the name of the Lord shall be
+saved."** How then shall they call on Him in whom they have not believed?*
+
+## What is not in the two verses
+
+Any condition. No vow, no bargain, no *if You will, then I will*. He asks, and the next
+sentence is *so God granted him what he requested*.
+
+Jesus puts it in the same order: *"**Ask, and it will be given to you**; seek, and you will
+find."*
+
+*You do not have because **you do not ask**.*
 
 > **What the two verses do not contain.** Any condition. He is not told to qualify, and
 > nothing is required of him first. He asked, and the next clause is that God gave it.

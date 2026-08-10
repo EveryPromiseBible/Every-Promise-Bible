@@ -4,7 +4,7 @@ title: "Weeping may stay for the night"
 sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2019-08-18 answers-for-dark-nights-and-difficult-seasons
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two lines built as a pair, and the pairing is the argument.
@@ -69,6 +69,35 @@ The Hebrew for *turned* is the word for overturning, converting a thing into
 something else.
 
 Not mourning followed by dancing. Mourning made into it.
+
+## The arithmetic of the verse
+
+*Weeping may endure **for a night**, but joy comes **in the morning**.*
+
+A night against a morning; His anger *for a moment* against His favour *for life*. The psalm
+sets two pairs side by side and the proportions are the argument.
+
+*For **our light affliction, which is but for a moment**, is working for us a far more
+exceeding and eternal weight of glory.*
+
+**Paul** does the same arithmetic, and he is writing it having been beaten, stoned and
+shipwrecked.
+
+## Which morning
+
+*Now on the first day of the week, **very early in the morning**, they came to the tomb.*
+
+*"**You will weep and lament**, but the world will rejoice; and you will be sorrowful, **but
+your sorrow will be turned into joy**."*
+
+**Jesus** said it on the Thursday night. The weeping had a duration attached before it started.
+
+## What is not promised
+
+That the night will be short, or that it will be explained.
+
+The verse says weeping *may endure* — the Hebrew has it lodging overnight like a guest — and
+then names what is coming after it.
 
 > **The word Isaiah uses for judgement.** *His strange work… His alien task* —
 > foreign, not native to Him. This psalm is the same claim in a song: the anger is a

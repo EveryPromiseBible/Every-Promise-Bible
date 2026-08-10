@@ -102,6 +102,35 @@ the end she is bitter as wormwood**.*
 *Your wife within your house will be like a fruitful vine.* See the note on
 Psalms 128:3–4.
 
+## Where the water image goes
+
+*"Whoever drinks of this water will thirst again, but **whoever drinks of the water that I
+shall give him will never thirst**. The water that I shall give him will become in him **a
+fountain of water springing up into everlasting life**."*
+
+**Jesus** says it at a well, to a woman with five husbands and a man who is not her husband
+— the exact person Proverbs 5 warns a son about, and He offers her the fountain the chapter
+tells the son to keep at home.
+
+## And the cords
+
+*The wicked are trapped by their own sins, held fast **in the cords of their own guilt**.*
+
+*O wretched man that I am! Who will deliver me from this body of death? **I thank God —
+through Jesus Christ our Lord!***
+
+**Paul** describes exactly the man in verse 22 — tied by rope he made himself — and does not
+tell him to untie it.
+
+## What the covenant became
+
+*Husbands, love your wives, **just as Christ also loved the church and gave Himself for
+her**.*
+
+The chapter's *wife of your youth* and its covenant language are taken up by **Paul** and
+turned into a picture of something else: *this is a great mystery, but I speak concerning
+Christ and the church.*
+
 > **The word the chapter is built on.** *Shagah* — to be carried away. Proverbs uses it of
 > the wife, the stranger, and the ruin, and never suggests the son will avoid being
 > carried away by something.

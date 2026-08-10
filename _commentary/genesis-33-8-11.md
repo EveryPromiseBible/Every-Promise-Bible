@@ -4,7 +4,7 @@ title: "I have all I need"
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two brothers meet after twenty years, and the argument is about a gift.
@@ -101,6 +101,41 @@ being tender, says he will follow to Seir, and then goes the other way, to Succo
 Genesis records it without comment.
 
 The two brothers meet once more, at their father Isaac's burial, and bury him together.
+
+## What Esau did
+
+Jacob had spent the night wrestling and the morning arranging his family in order of how much
+he could afford to lose. He bows seven times on the way across.
+
+*But **Esau ran to meet him, and embraced him, and fell on his neck and kissed him**, and they
+wept.*
+
+## Where those verbs go
+
+*But when he was still a great way off, **his father saw him and had compassion, and ran and
+fell on his neck and kissed him**.*
+
+Ran, fell on his neck, kissed him. The same three, in the same order, in the story Jesus told
+about a son who had rehearsed a speech on the road home and never got to finish it.
+
+Jacob had rehearsed one too — *I will appease him with the present that goes before me* — and
+Esau reached him before any of it was needed.
+
+## What Jacob says
+
+*"**I have all I need.**"*
+
+The Hebrew is **yesh-li kol** — I have everything. Esau had said **yesh-li rav** — I have
+plenty.
+
+One is a man with a lot. The other is a man with enough, and he says it on the morning he
+found out he was not going to be killed.
+
+*"I have seen your face **as though I had seen the face of God**, and you were pleased with
+me."*
+
+Said the day after Peniel, about his brother's face, using the same word. See the note on
+Genesis 32:27–32.
 
 > **The two sentences.** *I have plenty* and *I have everything*. One is said by the brother
 > who never left home; the other by the one who came back limping, expecting to die.

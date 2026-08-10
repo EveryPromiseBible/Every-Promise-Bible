@@ -109,5 +109,42 @@ The same verb, in the positive. *He calls His own sheep by name.*
 
 He corrects himself mid-sentence and puts the knowing on the other side.
 
+## The other side of being known
+
+*"I never knew you."* **Oudepote egnon humas.**
+
+*Nevertheless the solid foundation of God stands, having this seal: "**The Lord knows those who
+are His**."*
+
+**Paul** to **Timothy**, and the sentence is offered as a comfort to somebody watching people fall
+away. The register is not kept by us and the seal is not ours.
+
+*But now after you have known God, **or rather are known by God**.*
+
+**Galatians** 4, and **Paul** corrects himself mid-sentence to move the verb to the other side.
+
+## What the Father's will turned out to be
+
+*"But the one who does **what My Father in heaven wants**."*
+
+*"**This is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have
+everlasting life**; and I will raise him up at the last day."*
+
+*Then they said to Him, "What shall we do, that we may work the works of God?" **Jesus** answered
+and said to them, "**This is the work of God, that you believe in Him whom He sent**."*
+
+**John** 6, and He is asked the question directly and answers with a singular noun.
+
+The men in **Matthew** 7 have three items on their list and every one is a work done in His name.
+The one thing asked for is not on it.
+
+## What is on the other side of the sentence
+
+*"**All that the Father gives Me will come to Me, and the one who comes to Me I will by no means
+cast out.**"*
+
+**John** 6:37, and the Greek doubles the negative: **ou me ekbalo exo**. It is as emphatic as the
+language gets, and it is the opposite verdict in the same courtroom.
+
 > **The undisputed list.** He does not deny one item of what they claim to have done. The verdict
 > turns on a different question entirely: whether He knew them.

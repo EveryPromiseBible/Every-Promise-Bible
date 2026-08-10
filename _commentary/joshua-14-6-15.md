@@ -12,7 +12,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2023-02-26 power-to-renew-your-youth
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Forty-five years after the report that cost his generation the land, Caleb walks
@@ -44,6 +44,35 @@ what Moses' oath was hung on.
 
 The Hebrew behind *completely* means to fill up, to make full. Not flawlessly.
 Fully — nothing held back.
+
+## The phrase said three times
+
+*He **wholly followed the LORD**.*
+
+The Hebrew is *filled after* — followed all the way. It is what God said of him forty-five
+years earlier, in the sentence that also said *My servant Caleb has **a different spirit** in
+him*. See the note on Numbers 14:20–25.
+
+The same forty days, the same three giants, the same grapes as the other ten — and something
+in him was of a different kind.
+
+Paul: *you are not in the flesh but in the Spirit, if indeed **the Spirit of God dwells in
+you**.*
+
+## What eighty-five years had not done
+
+*"As my strength was then, so now is my strength for war."*
+
+*Therefore we do not lose heart. Even though our outward man is perishing, yet **the inward man
+is being renewed day by day**.*
+
+## What he asked for
+
+The hill country with the Anakim on it — the exact ground the ten had reported as
+unenterable, and the ground he had personally walked as a spy.
+
+He did not ask for something new. He asked for the part of the promise made to him by name,
+which had been sitting unoccupied for forty-five years.
 
 > **The last line.** *And the land had rest from war.* The chapter about an
 > eighty-five-year-old asking for a fight ends on rest. Both things are in the

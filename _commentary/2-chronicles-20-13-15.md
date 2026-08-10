@@ -4,7 +4,7 @@ title: "The battle is not yours"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2026-01-11 the-year-of-much-more
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The answer arrives while everybody is still standing there.
@@ -100,6 +100,47 @@ Three days to pick up what fell in a battle they did not fight.
 LORD.*
 
 **Berachah** — blessing.
+
+## The sentence
+
+*"**Do not be afraid nor dismayed because of this great multitude, for the battle is not yours,
+but God's.**"*
+
+Not *God will help you fight*. The ownership of the battle is transferred.
+
+*"**The LORD will fight for you, and you shall hold your peace.**"* Said at the Red Sea, to
+people with water in front and an army behind. See the note on Exodus 14:10–14.
+
+## Where the word lands
+
+*Then **the Spirit of the LORD came upon Jahaziel**… a Levite of the sons of Asaph, **in the
+midst of the assembly**.*
+
+Not on the king, and not on a prophet with a title. On a temple musician standing in the
+crowd, named with four generations of ancestry so that nobody could say he was invented.
+
+## The instruction given
+
+*"**You will not need to fight in this battle. Position yourselves, stand still, and see the
+salvation of the LORD**, who is with you."*
+
+The Hebrew for *salvation* is **yeshuah** — the noun behind the name given to Mary's son. See
+the note on Exodus 14:10–14.
+
+*"You shall call His name **JESUS**, for He will save His people from their sins."*
+
+Stand still, and watch the salvation of the LORD. It is said twice in Scripture at the moment
+an army is in view, and both times the word is His name.
+
+## What is finished before it starts
+
+*"**Tomorrow go down against them.**"*
+
+They are sent out to a battle that has already been decided, to occupy ground rather than to
+take it.
+
+*"**It is finished!**" And bowing His head, He gave up His spirit.* See the note on
+John 19:28–30.
 
 > **Who the word came through.** A man from the temple choir, in the middle of the crowd,
 > with his genealogy given so nobody mistakes him for somebody important — and what he

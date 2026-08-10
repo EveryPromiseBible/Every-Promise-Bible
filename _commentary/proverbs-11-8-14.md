@@ -37,6 +37,30 @@ elsewhere in Proverbs of a person of understanding acquiring *direction*.
 
 **Safety** is literally deliverance, rescue. Not "a better outcome." Getting out.
 
+## Who the counsellor is
+
+*For unto us a Child is born, unto us a Son is given… and His name will be called
+**Wonderful, Counselor**, Mighty God, Everlasting Father, Prince of Peace.*
+
+The proverb wants **yo'etz** in the plural. Isaiah puts the word in a name.
+
+*"And I will pray the Father, and He will give you **another Helper**, that He may abide with
+you forever."*
+
+**Jesus**' word is **parakletos** — one called alongside. The counsel Proverbs says a people
+perishes without is given as a permanent resident.
+
+## And where the safety is
+
+*In many wise counsellors there is **safety**.*
+
+The Hebrew is **teshuah** — deliverance, rescue.
+
+*"You shall call His name **JESUS**, for He will save His people from their sins."*
+
+The noun in the proverb and the name in **Matthew** come from the same root. Proverbs says
+where deliverance is found in a council chamber; the gospel gives it a face.
+
 > **What the proverb assumes.** Not that a crowd is wiser than one person — this
 > book has plenty to say about crowds. It assumes *wise* counsellors, plural, who
 > can keep a confidence. A proverb is a general truth well put, not a mechanism,

@@ -3,7 +3,7 @@ key: Exodus 3:16–18
 title: A word for the elders
 sources:
   - 2020-12-13 declare-you-are-highly-favored
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Moses is given the message and told, in advance, what the response will be.
@@ -94,6 +94,30 @@ leave the children; go but leave the flocks.
 hand**. So I will stretch out My hand and strike Egypt."*
 
 He is told the elders will listen and that Pharaoh will not, before either happens.
+
+## The word the elders were waiting for
+
+**Paqad** — to visit, to attend to, to come and see about somebody.
+
+Joseph had used it on his deathbed and made them swear on it: *God will surely visit you, and
+bring you out of this land*. Four hundred years, a coffin in Egypt, and a verb.
+
+The Greek Old Testament renders **paqad** with **episkeptomai** — and that is the word an old
+priest reaches for in the temple when his tongue is loosed:
+
+*Blessed be the Lord God of Israel, for **He has visited and redeemed His people**, and has
+raised up a horn of salvation for us in the house of His servant David.* See the note on
+Luke 1:68–79.
+
+The same word, at the two ends of the story. Once at a burning bush about Egypt, and once over
+a newborn about something larger.
+
+## What the visiting is not
+
+A response to their improvement.
+
+Nothing in the passage says Israel had earned anything or turned to Him. The reason given is
+what He had seen and what He had promised to men who were four centuries dead.
 
 > **What Moses is given.** A message, a name from four centuries earlier, and the outcome
 > of both audiences in advance — that the elders will hear him and the king will not.

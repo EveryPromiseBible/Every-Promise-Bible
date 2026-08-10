@@ -3,7 +3,7 @@ key: Genesis 44:1–13
 title: The cup in Benjamin's sack
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The last test, and Joseph builds it so that the brothers have every reason to walk away.
@@ -106,6 +106,58 @@ The man who proposed the sale offers to take the place.
 me!**" And he wept aloud.*
 
 *"**I am Joseph; does my father still live?**"*
+
+## The one who offers to stand in the place
+
+The next chapter is Judah's speech, the longest in Genesis, and it ends with an offer:
+*please let your servant remain **instead of the lad** as a slave to my lord, and let the lad
+go up with his brothers.*
+
+**Instead of.** A brother offering to serve a sentence he did not earn, so that the one it
+falls on can go home to his father.
+
+The man making the offer is the one who said *what profit is there if we kill our brother?
+Come, let us sell him* — twenty-two years, and one chapter about Tamar, earlier. See the note
+on Genesis 37:25–28.
+
+And he is Judah. The tribe the sceptre never departs from, and the one the Lion comes out of
+— *Judah, you are he whom your brothers shall praise*. See the note on Genesis 49:8–12.
+
+The line that produces the substitute is founded by a man whose recorded turning point is
+offering to become one.
+
+## The cup
+
+A silver cup, put where it did not belong, and the one man in the party who could not possibly
+have taken it is the one it is found on.
+
+Benjamin is innocent. Every brother there knows it. And the sentence falls on him.
+
+*For **He made Him who knew no sin to be sin for us**, that we might become the righteousness
+of God in Him.*
+
+## What is offered and refused
+
+*"Only the one found with it will be my slave; **the rest of you are free**."*
+
+A clean exit, formally offered, for ten men who had once sold a brother and gone home to
+dinner.
+
+*At this they **tore their clothes**. They loaded their donkeys and **returned to the city**.*
+
+Not one of them takes it. That is the answer Joseph was waiting twenty-two years for, and he
+gets it in a single sentence about donkeys being reloaded.
+
+## Whose cup it becomes
+
+*"O My Father, if it is possible, **let this cup pass from Me**; nevertheless, not as I will,
+but as You will."*
+
+And later, to Peter with a sword out: *shall I not drink the cup which My Father has given
+Me?*
+
+A cup that condemns, and an innocent man who takes it so the guilty can go home to their
+father.
 
 > **What the test was for.** Not the cup. Joseph gave them a clean way to abandon Rachel's
 > remaining son and go home — and every one of them tore his clothes and went back.

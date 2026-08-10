@@ -3,7 +3,7 @@ key: Judges 1:27–36
 title: The land left unwon
 sources:
   - 2024-09-15 step-out-and-possess-the-land
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 A list of failures, tribe by tribe, and it is the reason the rest of the book happens.
@@ -112,6 +112,32 @@ inhabitants of the mountains.*
 
 Even there, the same clause appears: *but they could not drive out the inhabitants of the lowland,
 because they had chariots of iron*.
+
+## What was given, and what was held
+
+Every tribe in this chapter is failing to take ground that had already been deeded to them.
+The land is not in dispute anywhere in the passage. Only the occupying.
+
+*"How long will you hold back from going in to possess the land which the LORD God of your
+fathers **has given you**?"* Joshua had asked it a book earlier. See the note on
+Joshua 18:1–10.
+
+## Why it mattered
+
+*"But if you do not drive out the inhabitants of the land… **those whom you let remain shall be
+irritants in your eyes and thorns in your sides**."*
+
+The book of Judges is the working out of that sentence. Every oppressor in it comes from a
+nation named in this chapter.
+
+## What the New Testament asks for
+
+*Therefore let us **be diligent to enter that rest**… For the word of God is living and
+powerful, and sharper than any two-edged sword.*
+
+Not to earn a place. To move into one.
+
+*I press on, that I may **lay hold of that for which Christ Jesus has also laid hold of me**.*
 
 > **The reversal.** Everywhere else the Canaanites dwell among Israel. Of Asher — the tribe with
 > the richest blessing in both lists — the text says Asher dwelt among the Canaanites.

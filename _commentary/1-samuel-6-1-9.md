@@ -3,7 +3,7 @@ key: 1 Samuel 6:1–9
 title: Seven months, and a plan
 sources:
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The Philistines have won a war and cannot get rid of the trophy.
@@ -111,6 +111,30 @@ David uses one. New, expensive, and copied from this chapter — and a man dies.
 2 Samuel 6:6–8.
 
 The Philistines improvised because they had no instructions. Israel had them.
+
+## What they were willing to test
+
+Two cows that had never been yoked, taken away from their calves, hitched to a cart and given
+no driver.
+
+Every instinct in the animals runs one way. If the cart goes the other way, uphill, in a
+straight line to Beth Shemesh, the diviners have their answer.
+
+*"Come now, and **let us reason together**," says the LORD.*
+
+God does not decline the test. He does not decline Gideon's fleece either, or the request of
+a man who wanted to put his finger in a wound.
+
+And the risen Jesus, to a disciple who had said he would not believe without evidence: *"**Reach
+your finger here, and look at My hands**… Do not be unbelieving, but believing."*
+
+## Who is running the experiment
+
+Philistine priests and diviners. Not Israel — Israel does not appear in the chapter until the
+cart arrives.
+
+The men who work out what is happening are the enemy's own religious professionals, and the
+verdict they reach is *He is the God who struck the Egyptians*.
 
 > **What the diviners built.** A test with the null hypothesis stated first. Untrained cows,
 > nursing calves penned up, and an agreement to accept whichever answer came.

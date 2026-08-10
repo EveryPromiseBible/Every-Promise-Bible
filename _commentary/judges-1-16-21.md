@@ -3,7 +3,7 @@ key: Judges 1:16–21
 title: "The LORD was with Judah" — and what stopped them anyway
 sources:
   - 2018-09-23 the-key-to-robust-faith
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 *The LORD was with Judah, and they took the hill country. But they could not
@@ -44,6 +44,21 @@ consequence spelled out — the peoples left behind become a snare.
 The land had been given. God had said so in the first paragraph of the book:
 *I have already handed the land to them.* What is being described here is not a
 promise falling short. It is a promise not fully entered.
+
+## What each man reckoned with
+
+*The LORD was with Judah, and he drove out the mountain dwellers, **but could not drive out the
+inhabitants of the valley, because they had chariots of iron**.*
+
+The clause is doing something uncomfortable. The LORD was with them, and there is still a
+*could not* in the sentence — and the reason given is metalwork.
+
+Caleb, in the same chapter, is looking at the same country and saying *if the LORD is with me,
+I will drive them out*.
+
+Paul: *we do not look at the things which are seen, but at the things which are not seen. For
+the things which are seen are temporary, but the things which are not seen are eternal* — and
+in the same letter, **we walk by faith, not by sight**.
 
 > **Where the eyes went.** Judah looked at the valley and saw iron. Caleb looked
 > at Hebron and said *if the LORD is with me, I will drive them out, exactly as

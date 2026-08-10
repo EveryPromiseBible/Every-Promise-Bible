@@ -34,8 +34,36 @@ destroying them. Then: walk with the wise. The proverb about company is set
 between something worth wanting and an example of wanting the wrong thing badly
 enough to die of it.
 
-> **On reading a proverb.** These are general truths, sharply put — not
-> guarantees. The same chapter says the fields of the poor could yield plenty but
-> injustice sweeps the harvest away, which is the book itself acknowledging that
-> the pattern does not always hold. A proverb tells you which way to lean, not
-> what is certain to happen.
+## Where the mechanism is described happening
+
+*Then He appointed twelve, **that they might be with Him**, and that He might send them out
+to preach.*
+
+**Mark** gives the job description in two clauses and puts the proximity first. Before they
+preached anything, the qualification was being beside Him.
+
+*Now when they saw the boldness of Peter and John, and perceived that they were uneducated
+and untrained men, they marvelled. And **they realised that they had been with Jesus**.*
+
+That is Proverbs 13:20 stated as a courtroom observation. Nobody in **Acts** says the two men
+had studied. The council can see who they had been walking with.
+
+## And the road
+
+*Then **He went in to stay with them**… And they said to one another, "Did not our heart burn
+within us while He talked with us on the road?"*
+
+Seven miles of walking, in the company of somebody they did not recognise, and what
+transferred was not information first — it was a burning.
+
+## What it becomes
+
+*But we all, with unveiled face, beholding as in a mirror the glory of the Lord, **are being
+transformed into the same image** from glory to glory.*
+
+**Paul**'s word is **metamorphoumetha**. Whatever you walk with, you become — the proverb's
+claim, with the object named.
+
+> **The verb.** *Halak* — to walk along with. Proverbs says wisdom transfers by proximity
+> rather than instruction, and the one place in Scripture it is verified out loud, the
+> council is looking at two fishermen and naming the company they kept.

@@ -4,7 +4,7 @@ title: Drawn from the water
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2024-06-30 own-your-calling-and-portion
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The decree said put him in the Nile. She put him in the Nile.
@@ -75,6 +75,21 @@ salaried, and safe.
 The Egyptian princess gives him a Hebrew name, or one that works in both
 languages. And it becomes the name of a man whose whole life is drawing people
 out of water.
+
+## The other decree
+
+A king hears that a deliverer is coming, orders the Hebrew boys killed, and the child survives
+because of where he is hidden.
+
+That is this chapter, and it is also Matthew 2. *Then Herod… sent forth and put to death all
+the male children who were in Bethlehem.* And an angel, in a dream: *arise, take the young
+Child and His mother, **flee to Egypt***.
+
+Moses was hidden in Egypt from a king killing Hebrew boys. Fifteen hundred years later a
+second deliverer is hidden in Egypt from a king killing Hebrew boys — and Matthew quotes Hosea
+over the return: *out of Egypt I called **My Son***.
+
+Both are drawn out. One of them is named for it.
 
 > **How the deliverance arrived.** No angel, no plague, no army. A basket, a
 > princess taking a bath, a girl brave enough to speak, and a river the empire

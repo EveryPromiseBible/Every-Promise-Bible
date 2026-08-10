@@ -87,6 +87,40 @@ you shall not fulfil the lust of the flesh.*
 The fruit list ends with *against such there is no law* — nothing on it needs
 legislating. See the note on Galatians 5:22–24.
 
+## Where the sufficiency comes from
+
+*Not that we are sufficient of ourselves to think of anything as being from ourselves, but **our
+sufficiency is from God**.*
+
+**Hikanotes** — competence, adequacy. **Paul** denies having it and names the source in the same
+sentence.
+
+*And He said to me, "**My grace is sufficient for you, for My strength is made perfect in
+weakness.**"*
+
+*I can do all things **through Christ who strengthens me**.*
+
+## The two ministries
+
+*The letter kills, but the Spirit gives life.*
+
+**Paul** goes on to name them: *the ministry of condemnation* and *the ministry of righteousness*, and
+says the second exceeds the first in glory.
+
+*For if what is passing away was glorious, **what remains is much more glorious**.*
+
+## Whose covenant it is
+
+*Ministers of **the new covenant**.*
+
+*"Behold, the days are coming, says the LORD, when **I will make a new covenant**… I will put My law
+in their minds and write it on their hearts… **and their sin I will remember no more**."*
+
+Jeremiah 31, and the difference from the old is who does the keeping.
+
+*And for this reason **He is the Mediator of the new covenant**, by means of death, for the redemption
+of the transgressions under the first covenant.*
+
 > **What is engraved now.** *You are our epistle, written in our hearts, known and
 > read by all men… written not with ink but by the Spirit of the living God, not on
 > tablets of stone but on tablets of flesh, that is, of the heart.* Paul says it two

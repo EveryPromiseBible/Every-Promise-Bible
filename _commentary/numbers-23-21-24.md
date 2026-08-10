@@ -4,7 +4,7 @@ title: "He sees no wrong in Jacob"
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2024-01-28 be-washed-and-refreshed-by-his-word
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The second half of the oracle, and the first line of it is the one to stop on.
@@ -86,6 +86,45 @@ note on Numbers 23:18–20.
 
 Not because the people were blameless. Because of what had been spoken over them and
 could not be taken back.
+
+## Why he could not see any wrong
+
+Balaam is on a height, looking down. He cannot make out individuals — the note is that he
+sees **the arrangement**.
+
+Numbers 2 gives it: four divisions camped on four sides, and in the middle a tent. Inside the
+tent, a box. On the box, a lid called the mercy seat, and on the lid, blood. See the note on
+Leviticus 16:11–14.
+
+Under the lid were the tablets that would have condemned every person in that camp. Between
+the tablets and God was blood, and that is what God was looking at.
+
+## What the New Testament calls this
+
+*Blessed are those whose lawless deeds are forgiven, and whose sins are covered. **Blessed is
+the man to whom the LORD shall not impute sin**.*
+
+Paul quotes David to prove it and then applies it to anybody who believes. The word is
+**logizomai** — to reckon, to enter in an account.
+
+*God was in Christ reconciling the world to Himself, **not imputing their trespasses to
+them**.*
+
+Balaam's sentence is not that nothing happened in the camp. Numbers has recorded all of it —
+the calf, Korah, the manna, Meribah. It is what God says He sees, from where He is looking,
+with the blood between.
+
+## The last thing the diviner says
+
+*"I see Him, but not now; I behold Him, but not near. **A Star shall come out of Jacob; a
+Scepter shall rise out of Israel**."*
+
+*"We have seen **His star** in the East and have come to worship Him."*
+
+Wise men out of the east, following a star, arriving at a house in Bethlehem — and the last
+recorded oracle of a hired eastern diviner is the one that put a star over Jacob.
+
+*I am the Root and the Offspring of David, **the Bright and Morning Star**.*
 
 > **What the sentence is not.** A statement that nothing happened in the camp. Numbers
 > records it all. It is what God says He sees, spoken by a man who was paid to say

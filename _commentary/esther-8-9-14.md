@@ -3,7 +3,7 @@ key: Esther 8:9–14
 title: The second decree
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The first decree cannot be revoked. So a second one is written, and it does not
@@ -68,6 +68,46 @@ plunder.*
 
 It was theirs by law and they left it. Whatever the day was about, it was not
 about that.
+
+## Why there is no repeal
+
+*"**For whatever is written in the king's name and sealed with the king's signet ring, no one
+can revoke.**"*
+
+The first decree stands. Nobody in the book pretends otherwise, and the king says plainly that
+he cannot undo it.
+
+## What is done instead
+
+A second decree, written in the same way, sealed with the same ring, sent by the same couriers
+— giving the Jews *the right to stand for their lives*.
+
+The death sentence is never cancelled. It is overridden by a later law of equal authority.
+
+## Where that is the whole argument
+
+*For **the law of the Spirit of life in Christ Jesus has made me free from the law of sin and
+death**.*
+
+**Paul** does not say the first law was repealed. He says a second law, of greater power,
+freed him from it — which is precisely the mechanism of Esther 8.
+
+*There is therefore now **no condemnation** to those who are in Christ Jesus.*
+
+## The eight months
+
+The counter-decree goes out in the third month; the day appointed is the thirteenth of the
+twelfth. Eight months of knowing they had the right to stand before the day arrived.
+
+*Wherefore take unto you **the whole armour of God**, that you may be able to **withstand in
+the evil day, and having done all, to stand**.*
+
+## What they did not take
+
+*But **they did not lay a hand on the plunder**.*
+
+Said three times in the next chapter. The first decree had offered the Jews' property as
+spoil; when the position is reversed they take none of it.
 
 > **What one signet ring did twice.** The same ring sealed the sentence and the
 > deliverance. Nothing about the empire changed, nothing about the law changed, and

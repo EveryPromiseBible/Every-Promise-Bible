@@ -77,6 +77,48 @@ live.*
 
 Not a lesser fault, in this verse. Family.
 
+## Which name
+
+*The name of the LORD is a strong tower. The righteous run into it and are safe.*
+
+*Therefore God also has highly exalted Him and given Him **the name which is above every
+name**, that at the name of **Jesus** every knee should bow.*
+
+*"Nor is there salvation in any other, for **there is no other name under heaven given among
+men by which we must be saved**."*
+
+**Peter** says it to the same council that had just watched a lame man walk, and the proverb's
+claim is his argument: the tower is a name, and he tells them which one.
+
+## The running
+
+*They **run into it** and are safe.*
+
+*That we might have strong consolation, who **have fled for refuge** to lay hold of the hope
+set before us.*
+
+**Hebrews** keeps the verb. Nobody in either sentence is described as strong, prepared or
+qualified — only as running.
+
+*"Whoever calls on the name of the LORD shall be saved."*
+
+## The wall in the mind
+
+*The wealth of the rich is his fortified city, a high wall, **in his own imagining**.*
+
+*"**Fool! This night your soul will be required of you; then whose will those things be which
+you have provided?**"*
+
+**Luke**'s rich man has just finished building the wall — bigger barns, many years, take your
+ease — and **Jesus** puts the whole structure inside one night. The proverb never says the
+wall falls. The parable does.
+
+## And the crushed spirit
+
+*A crushed spirit, who can bear it?* Proverbs asks the question and leaves it.
+
+*Surely He has borne our griefs and carried our sorrows.*
+
 > **What is being contrasted.** A tower you run into, and a wall you have built out of
 > your own resources and your own opinion of them. Proverbs puts them in consecutive
 > lines and never says the second one falls — it just tells you where it is.

@@ -3,7 +3,7 @@ key: Numbers 32:1–5
 title: "Do not make us cross the Jordan"
 sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two tribes look at good grazing land on the wrong side of the river and ask to
@@ -39,6 +39,29 @@ war.
 
 That is what makes the chapter worth reading slowly. Nothing here is obviously
 sinful. It is a preference for the visible good over the promised one.
+
+## What is being declined
+
+Not a lesser share. The crossing.
+
+*"**Do not make us cross the Jordan.**"*
+
+Everything since Egypt has been aimed at that river. Nothing in their request is sinful and
+nothing about the grazing is untrue — it is a preference for the visible good over the
+promised one.
+
+*Therefore, since a promise remains of entering His rest, **let us fear lest any of you seem
+to have come short of it**.*
+
+Hebrews is writing to people in no danger of open rebellion. The warning is about stopping
+short, and it is aimed at people who had a perfectly reasonable case for where they were.
+
+## What they did in the end
+
+They crossed anyway, armed, ahead of everybody, and did not go home until every other tribe
+was settled. See the note on Numbers 32:16–19.
+
+Moses' objection was never about the land. It was about the order.
 
 > **Moses' first reaction.** He hears it as the same failure as Kadesh — *are your
 > brothers to go to war while you sit here?* — and reminds them what happened

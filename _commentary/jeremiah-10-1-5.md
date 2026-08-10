@@ -119,5 +119,48 @@ you. **I have made, and I will bear**; even I will carry, and will deliver you*.
 
 One kind of god is carried. The other carries.
 
+## The God who was nailed
+
+*He fastens it with hammer and nails **so it will not topple over**.*
+
+The whole argument is in that detail. And there is one other thing in Scripture fastened with
+nails so it would not move:
+
+*Having wiped out **the handwriting of requirements** that was against us… He has taken it out of
+the way, **having nailed it to the cross**.*
+
+**Colossians** has a document nailed down. The Person the nails went through did not stay where
+He was put.
+
+*"**Unless I see in His hands the print of the nails**… I will not believe."*
+
+An idol has to be secured or it falls. **John** 20 has a man invited to inspect the nail marks on
+somebody standing up in a locked room.
+
+## The one who was carried, and carries
+
+*They have to be carried, because they cannot walk.*
+
+*Then he **took Him up in his arms** and blessed God.*
+
+**Luke** 2. Simeon holding an infant, and saying over Him *my eyes have seen Your salvation*. God
+carried, once, for a while.
+
+*Even to your old age, I am He… **I have made, and I will bear**; even I will carry, and will
+deliver you.*
+
+*"**Come to Me, all you who labour and are heavy laden**, and I will give you rest."*
+
+## And the signs in the sky
+
+*Do not be terrified by signs in the sky, though the nations are terrified by them.*
+
+*"**Where is He who has been born King of the Jews? For we have seen His star in the East**."*
+
+**Matthew** 2 has men from the nations reading the heavens — and the sign takes them not to a
+prediction about a king's fate but to a house, where *they fell down and worshipped Him*.
+
+The nations' astronomy is not vindicated in the story. It is overruled and used.
+
 > **The detail.** It has to be nailed down so it will not fall over. Jeremiah builds the whole
 > argument out of the manufacturing process.

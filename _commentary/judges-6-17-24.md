@@ -3,7 +3,7 @@ key: Judges 6:17–24
 title: The LORD is peace
 sources:
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Gideon asks for proof and then asks the visitor to wait while he cooks.
@@ -90,6 +90,35 @@ men of the town to do it by day.*
 
 Judges records both — he obeyed, and he was frightened. The book does not tidy him
 up.
+
+## The name he gives it
+
+*So Gideon built an altar there to the LORD, and called it **The-LORD-Is-Peace**.*
+
+**YHWH Shalom.**
+
+He builds it before the fleece, before the three hundred, and before a single Midianite is
+touched. The first thing he does after being commissioned is name an altar *peace* — with the
+enemy still camped in the valley.
+
+*Therefore, **having been justified by faith, we have peace with God through our Lord Jesus
+Christ**.*
+
+The peace is not the outcome of the campaign. It is the ground it is fought from.
+
+## Why he thought he would die
+
+*"Alas, O Lord GOD! **For I have seen the Angel of the LORD face to face**."*
+
+And the answer: *"**Peace be with you; do not fear**, you shall not die."*
+
+## Where those words are said again
+
+*Then, the same day at evening… Jesus came and stood in the midst, and said to them, "**Peace
+be with you.**" When He had said this, **He showed them His hands and His side**.*
+
+A locked room, frightened men, and the first word out of His mouth — and then the proof of
+what the peace cost.
 
 > **What the altar was for.** Gideon builds it before any battle, before the fleece,
 > and before the three hundred. The first thing he does after being commissioned is

@@ -6,7 +6,7 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-10-09 hope-for-the-end-times
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The procession stops, and the ark spends three months in somebody's house.
@@ -103,6 +103,40 @@ Works out the instructions. Prepares a tent. Appoints the Levites.
 ark of God and to minister before Him forever."*
 
 Three months of not moving, and then it is done properly.
+
+## The same box, two houses
+
+Six miles apart, within a few days. At one, a man dies touching it. At the other, *the LORD
+blessed Obed-Edom and all his household.*
+
+Nothing about the ark changed. What changed is that in the second house nobody was carrying it
+on a cart, and it was simply present.
+
+## What was on top of it
+
+*The mercy seat*, and on the mercy seat, blood, once a year. See the note on
+Leviticus 16:11–14.
+
+Underneath the lid were the tablets that condemned everybody in both houses. The difference
+between a household that is struck and a household that is blessed is what is between the law
+and the God who wrote it.
+
+*Whom God set forth as **a propitiation by His blood**.*
+
+The Greek is **hilasterion** — and it is the word the Greek Old Testament uses for the mercy
+seat. Paul picks the lid of that box for what Christ is.
+
+## Who Obed-Edom was
+
+A Gittite. A man from Gath — Goliath's town — with the ark of Israel in his house for three
+months because nobody else would take it.
+
+*And He came and preached peace to you who were **afar off** and to those who were near.*
+
+## What got back to the king
+
+Enough that it was reported to the king, and enough to change his mind about the whole
+enterprise.
 
 > **What the three months prove.** The ark had killed a man six miles back and blessed a
 > household here. The object did not change; the handling did — and David spent the interval

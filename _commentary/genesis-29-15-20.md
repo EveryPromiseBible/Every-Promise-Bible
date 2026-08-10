@@ -3,7 +3,7 @@ key: Genesis 29:15–20
 title: They seemed like a few days
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Seven years, and the narrator tells us how long they felt.
@@ -104,6 +104,28 @@ runs.
 
 Benjamin, born on the road to Bethlehem, named **Ben-Oni**, son of my sorrow, by his dying
 mother, and renamed **Benjamin**, son of my right hand, by his father.
+
+## The service, and what it was for
+
+*So Jacob served seven years for Rachel, and **they seemed only a few days to him because of
+the love he had for her**.*
+
+Seven years of labour, priced by the man who wanted her, and the account says the length of it
+did not register.
+
+*Husbands, love your wives, **just as Christ also loved the church and gave Himself for her**…
+that He might present her to Himself a glorious church, not having spot or wrinkle.*
+
+## What he got instead
+
+*When morning came — **there was Leah**.*
+
+He served for one bride and was handed another, and then served seven more years. The man who
+had put on his brother's clothes to deceive a father in the dark is deceived in the dark about
+which sister he has married.
+
+And the line runs through Leah anyway. Judah is hers, and so is Levi — the sceptre and the
+priesthood both come out of the wife he did not choose. See the note on Genesis 49:8–12.
 
 > **The line the narrator adds.** Seven years *seemed like a few days*. Genesis rarely reports
 > how anything felt, and it does it here, about a man who was about to be cheated.

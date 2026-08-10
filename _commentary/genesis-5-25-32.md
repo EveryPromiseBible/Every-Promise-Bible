@@ -3,7 +3,7 @@ key: Genesis 5:25–32
 title: The longest life, and what it was waiting for
 sources:
   - 2025-01-19 discern-the-times-we-live-in
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The oldest man who ever lived, and the year he died is the year the flood came.
@@ -32,21 +32,26 @@ flood comes.
 
 The year the oldest man in the Bible dies is the year of the flood.
 
-## What his name may mean
+## What his name means
 
-**Methushelach** — the second element is **shelach**, which can be a weapon, a dart, or the verb
-*to send*.
+**Methushelach** — the second element is **shelach**, a weapon or a dart, and the verb *to
+send*.
 
-Read that way: *when he is dead, it shall be sent*.
+*When he is dead, it shall be sent.*
 
-The reading is disputed and cannot be pressed. The arithmetic stands on its own.
+The father who named him was Enoch, the one man in the chapter who walked with God and was
+taken. He named his son a warning, and then God gave the boy the longest life in Scripture
+before the warning came due.
 
 ## What the number is doing there
 
-The longest life in the book sits in the generation before the judgment.
+The longest life in the book sits in the generation before the judgment, and it is not an
+accident of biology. It is how long God was prepared to wait.
 
-Peter's word for it: *the Divine longsuffering waited in the days of Noah, while the ark was being
-prepared*. See the note on 1 Peter 3:18.
+Peter's word for it: *the Divine longsuffering waited in the days of Noah, while the ark was
+being prepared*. See the note on 1 Peter 3:18.
+
+Nine hundred and sixty-nine years of patience, in a chapter that keeps saying *and he died*.
 
 ## Lamech's line
 
@@ -93,8 +98,18 @@ The chapter of deaths ends with three births, and the next verse begins the floo
 *And the LORD said, "My Spirit shall not strive with man forever, for he is indeed flesh; **yet his
 days shall be one hundred and twenty years**."* See the note on Genesis 6:1–4.
 
-A hundred and twenty years of notice, given to a generation, immediately after a chapter that
-records one man living nearly a thousand.
+A ceiling put on human life, immediately after a chapter that records one man living nearly a
+thousand. The long ages end here, and the next chapter says why.
+
+## Where the line was going
+
+Eight names, eight deaths, and the list does not stop. It runs Seth, Enosh, Cainan, Mahalalel,
+Jared, Enoch, Methuselah, Lamech, Noah — and Luke picks the same names up and carries them all
+the way to *Jesus… being (as was supposed) the son of Joseph*.
+
+The chapter of deaths is the genealogy of the One who would end death. The drumbeat is doing
+double duty: it is a list of men who died, and it is the road the Seed was travelling.
 
 > **The arithmetic.** Add the three figures the chapter gives and Methuselah's 969th year is the
-> year the flood arrives. The longest life in Scripture runs out exactly when the water starts.
+> year the flood arrives. The longest life in Scripture runs out exactly when the water starts —
+> and the name his father gave him said it would.

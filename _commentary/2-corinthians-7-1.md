@@ -111,5 +111,40 @@ transformed into the same image**.* See the note on 2 Corinthians 3:16–18.
 
 Passive, and the only active verb is the looking.
 
+## The promises the verse rests on
+
+*Therefore, **having these promises**, beloved, let us cleanse ourselves.*
+
+The **therefore** points backwards, and the promises are quoted in the three verses before it:
+
+*"**I will dwell in them and walk among them. I will be their God, and they shall be My people**…
+**I will receive you. I will be a Father to you, and you shall be My sons and daughters**, says the
+LORD Almighty."*
+
+Five promises, all first person, all God's. The instruction to cleanse is the second half of a
+sentence whose first half is adoption.
+
+## Which order Paul always uses
+
+*I beseech you therefore, brethren, **by the mercies of God**, that you present your bodies a living
+sacrifice.*
+
+*Therefore be imitators of God as dear children. And walk in love, **as Christ also has loved us and
+given Himself for us**.*
+
+*Therefore purge out the old leaven… **since you truly are unleavened. For indeed Christ, our
+Passover, was sacrificed for us**.*
+
+The indicative comes first every time. **Paul** never asks for the cleansing as the price of the
+promises; the promises are the reason given.
+
+## And who does the cleansing elsewhere
+
+*If we confess our sins, He is faithful and just to forgive us our sins and **to cleanse us from all
+unrighteousness**.*
+
+*How much more shall **the blood of Christ**… cleanse your conscience from dead works to serve the
+living God?*
+
 > **The connective.** *Since these are the promises we hold.* The cleansing rests on a relationship
 > already stated, and the verb for perfecting assumes something already begun.

@@ -110,5 +110,47 @@ Jeremiah 31:31–34.
 
 Both prophets kill the same saying, and both put the new covenant next to it.
 
+## The soul who sins
+
+*"The soul who sins is the one who will die."* **Hannefesh hachotet hi tamut**.
+
+*For **the wages of sin is death, but the gift of God is eternal life in Christ Jesus** our Lord.*
+
+**Paul** keeps Ezekiel's principle intact and puts something beside it that is not a wage.
+
+*Yet it pleased the LORD to bruise Him… **when You make His soul an offering for sin**.*
+
+Isaiah's word is **nafsho** — His soul. The one soul in Scripture that did not sin is the one
+described as made an offering, and the chapter says so twice: *He poured out His soul unto
+death.*
+
+Ezekiel's rule is not repealed anywhere. It is met.
+
+## Both alike are Mine
+
+*"For every living soul belongs to Me… **both alike are Mine**."*
+
+*Or do you not know that… **you are not your own? For you were bought at a price**.*
+
+**Paul** makes the same ownership claim and dates it. In Ezekiel the ownership is by creation; in
+**1 Corinthians** there is a receipt.
+
+## The heart they are told to get
+
+*"Cast away from you all the transgressions… and **get yourselves a new heart and a new spirit**."*
+
+*"**I will give you a new heart** and put a new spirit within you."*
+
+The note above points out that the command in chapter 18 becomes a promise in chapter 36. The New
+Testament says which one a person is on the receiving end of.
+
+*"Do not marvel that I said to you, '**You must be born again**.' The wind blows where it wishes…
+so is everyone who is born of the Spirit."*
+
+*Not by works of righteousness which we have done, but according to His mercy He saved us, through
+**the washing of regeneration and renewing of the Holy Spirit**.*
+
+**Titus** 3, and the new heart in it is not obtained by the person who needs one.
+
 > **The ground of the ban.** Not a theory about fairness — *both alike are Mine*. Neither generation
 > is standing in for the other because both are held directly.

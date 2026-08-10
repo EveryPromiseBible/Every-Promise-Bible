@@ -8,7 +8,7 @@ sources:
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
   - 2023-02-05 pray-for-good-success-today
   - 2024-01-28 be-washed-and-refreshed-by-his-word
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A servant with ten camels and no idea what he is doing prays the most specific
@@ -83,6 +83,23 @@ LORD… who had led me in the way of truth.*
 *I being in the way, **the LORD led me**.*
 
 His own summary, said twice. He was already moving when the leading happened.
+
+## Whose errand this is
+
+The servant is never named in sixty-seven verses. He prays for the master's son, carries
+the master's wealth, speaks about the son and not about himself, and asks the woman one
+question. See the note on Genesis 24:1–4.
+
+Jesus, describing the Spirit: *He will not speak of Himself… **He will glorify Me**.* The
+chapter is the Father, the Spirit, the Son and the Bride, and this prayer is the Spirit at the
+well.
+
+## What he asks for her
+
+Notice what he does not ask. Nothing about her family, her looks, her dowry or her record.
+
+He asks for a woman who will pour out more than anyone asked her for, and God hands him one
+before he has finished the sentence.
 
 > **What is not in the prayer.** Any request to be shown the future, or to be given
 > certainty in advance. He asks for a thing to occur and then keeps his mouth shut

@@ -6,7 +6,7 @@ sources:
   - 2014-04-13 noah-the-real-story
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 One sentence, and the two halves of it do not obviously match.
@@ -36,6 +36,29 @@ moments of rescue.
 The Hebrew verb is *come*, not *go*. It is the word you use to invite someone
 toward where you already are — which means God is not sending Noah into the boat
 from outside. He is calling him in from somewhere He already is.
+
+## The word He uses
+
+*"**Come** into the ark."*
+
+Not *go*. **Bo** — come. You say it to invite somebody toward where you already are.
+
+He is not standing outside the boat pointing at it. He is calling them in from inside.
+
+*"**Come to Me**, all you who labor and are heavy laden, and I will give you rest."*
+
+Same verb, same direction, and in both cases the safety is not the structure. It is being where
+He is. Then the door was shut from the outside by the One who had called them in, and nobody
+aboard had to hold it. See the note on Genesis 7:11–16.
+
+## What Peter does with the eight
+
+*When once the Divine longsuffering waited in the days of Noah, while the ark was being
+prepared, in which **a few, that is, eight souls, were saved through water**. There is also an
+antitype which now saves us — baptism.*
+
+Peter reads the boat as a picture on purpose, and the thing that saved them was going through
+the water inside something else.
 
 > **The last line.** *And Noah did everything the LORD commanded him.* It is the
 > fourth time Genesis says it in two chapters. The obedience is recorded flatly,

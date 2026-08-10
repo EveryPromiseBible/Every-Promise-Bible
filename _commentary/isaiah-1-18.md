@@ -45,6 +45,36 @@ dyed.
 The picture is not of a stain removed but of the material restored to its
 original state, as though it had never been in the vat.
 
+## What makes the scarlet go
+
+Isaiah names the fastest dye available and says it can come out. He does not say how.
+
+*And almost all things are according to the law purged with blood, and **without shedding of
+blood there is no remission**.*
+
+*But if we walk in the light as He is in the light, we have fellowship with one another, and
+**the blood of Jesus Christ His Son cleanses us from all sin**.*
+
+**John**'s verb is **katharizei** — present tense, keeps on cleansing.
+
+## The colour that does the whitening
+
+*"These are the ones who come out of the great tribulation, and **washed their robes and made
+them white in the blood of the Lamb**."*
+
+**Revelation** takes Isaiah's chemistry and inverts it. The permanent red stain is removed by
+something red, and the result is the word Isaiah chose: white.
+
+## And the courtroom the verse opens
+
+*Come now, **let us talk this through**.* A legal term — to argue a case.
+
+*Who shall bring a charge against God's elect? **It is God who justifies.** Who is he who
+condemns? **It is Christ who died**.*
+
+**Paul** convenes the same court, asks who is prosecuting, and finds the bench and the defence
+occupied by the same two.
+
 > **What follows immediately.** *If you are willing and obedient, you will eat the
 > good of the land.* The offer has a shape, and it belongs to the covenant Isaiah
 > is prosecuting. What Christians have always heard in the verse is the colour

@@ -3,7 +3,7 @@ key: Genesis 24:34–36
 title: I am Abraham's servant
 sources:
   - 2022-10-30 take-back-your-identity-in-christ
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 He is offered dinner and will not eat until he has said his piece, and this is how it opens.
@@ -107,6 +107,32 @@ find that son a wife.
 He does not enrich himself, negotiate for himself, or take credit anywhere in the chapter. The
 longest chapter in Genesis is given to a man who introduces himself as somebody's servant and is
 never named.
+
+## What he is actually doing
+
+Read the speech as a job description.
+
+He never gives his own name. He talks about the master, then about the master's son, then
+about everything the master owns — and ends by saying that all of it now belongs to the son.
+Then he asks a woman to come.
+
+*"**He will not speak of Himself**… He will glorify Me, for **He will take of what is Mine
+and declare it to you**. **All things that the Father has are Mine**; therefore I said that
+He will take of Mine and declare it to you."* See the note on John 16:12–15.
+
+That is this chapter, sentence for sentence. An unnamed servant, sent by a father, telling a
+bride what belongs to the son — and the son's estate is described as *all that the father
+has*.
+
+## What the inventory is for
+
+Flocks and herds, silver and gold, servants and maids, camels and donkeys — and then *to that
+son my master has given all that he owns*.
+
+He is not boasting about the family's money. He is telling her what she is marrying into,
+which is the only reason any of it matters to her.
+
+*And if children, then heirs — heirs of God and **joint heirs with Christ**.*
 
 > **The word order.** *The LORD has blessed my master, and he has become wealthy.* Cause first,
 > then result — and everything on the inventory is now the son's.

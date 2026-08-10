@@ -119,5 +119,42 @@ Matthew 20:24–28.
 The men in the parable wanted proportionate reward. The next scene is two of the twelve asking
 for the best places.
 
+## The verse the parable is an illustration of
+
+Nothing was taken from the first men. Something was given to somebody else, and the wage-earners
+could not price it.
+
+*Now to him who works, **the wages are not counted as grace but as debt**. But to him who does not
+work but believes on Him who justifies the ungodly, **his faith is accounted for righteousness**.*
+
+**Romans** 4, and **Paul** puts the two columns exactly where the parable puts them: **misthos**,
+a wage that is owed, against **charis**, a thing given.
+
+The men hired at dawn negotiated. The men hired at five did not, because nobody negotiates for a
+gift.
+
+*For **by grace you have been saved through faith**, and that not of yourselves; it is the gift of
+God, **not of works**, lest anyone should boast.*
+
+## The evil eye, and the good one
+
+*"Is your eye bitter **because I am generous**?"* **Hoti ego agathos eimi** — because I am good.
+
+The landowner's defence is not that the arithmetic works. It is a statement about his own
+character, and it is the only reason offered anywhere in the parable.
+
+*"Or do you despise **the riches of His goodness**, forbearance and longsuffering, not knowing that
+**the goodness of God leads you to repentance**?*
+
+**Paul**'s adjective in **Romans** 2 is **chrestos**, and he uses it of exactly what the first
+labourers resented.
+
+## Who was hired at the eleventh hour
+
+*Then he said to **Jesus**, "Lord, remember me when You come into Your kingdom." And Jesus said to
+him, "Assuredly, I say to you, **today you will be with Me in Paradise**."*
+
+**Luke** 23. A man with no working hours at all, paid in full, on the day.
+
 > **What the second question does.** It relocates the grievance. Nothing was taken from anyone —
 > something was given to somebody else, and the idiom for that reaction is *an evil eye*.

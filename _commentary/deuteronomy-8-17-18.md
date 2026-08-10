@@ -10,7 +10,7 @@ sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2022-12-13 prosperity-with-a-purpose
   - 2026-01-18 pray-for-the-much-more
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Moses names the sentence a prosperous man will say to himself, and answers it.
@@ -76,6 +76,24 @@ Moses spells out where the *my own hand* sentence goes: *if you by any means for
 the LORD your God… you shall surely perish.*
 
 He does not soften it.
+
+## Where the power comes from
+
+*"It is He who gives you **the power** to gain wealth."*
+
+**Koach** — strength, capacity, the energy for the thing. Not the wealth. The ability to go
+and get it.
+
+So the man's error is not that he noticed he worked hard. He did. It is in where he thinks
+the working came from.
+
+*I can do all things **through Christ who strengthens me**.*
+
+The Greek is **endynamounti** — the One putting the power in. Paul says it in a paragraph
+about knowing how to be abased and how to abound, which is the same subject as this chapter.
+
+*And **God is able to make all grace abound toward you**, that you, always having all
+sufficiency in all things, may have an abundance for every good work.*
 
 > **What Proverbs adds.** *The blessing of the LORD makes one rich, **and He adds no
 > sorrow with it**.* Two claims — where it comes from, and what does not come

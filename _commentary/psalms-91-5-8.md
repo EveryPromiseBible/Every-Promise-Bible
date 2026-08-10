@@ -11,7 +11,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2017-08-06 the-healing-power-of-a-joyful-heart
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Four dangers named in two lines, and the way they are arranged tells you the
@@ -49,6 +49,35 @@ shelter of the Most High, who stays in the shadow of the Almighty.*
 Dwelling is the posture. Not visiting in an emergency — living there. The
 promises in this psalm are addressed to somebody already at home in that place,
 and the rest of the psalm reads as a description of what that address is like.
+
+## What the four cover
+
+Terror by night, arrow by day, pestilence in darkness, destruction at noonday. Two halves of
+the day and two halves of the visible — seen and unseen, around the clock.
+
+The psalm is not listing four dangers. It is closing a circle.
+
+*For I am persuaded that **neither death nor life, nor angels nor principalities nor powers,
+nor things present nor things to come**… shall be able to separate us from the love of God
+which is in **Christ Jesus** our Lord.*
+
+**Paul** does the same thing — pairs of opposites, stacked until nothing is outside them.
+
+## What the passage does not promise
+
+That nothing will come near. *A thousand may fall at your side* — the psalm has casualties in
+it, and says so in the same breath.
+
+## Where the safety is located
+
+*Because you have made the LORD, who is my refuge, even the Most High, **your dwelling place**.*
+
+Not a technique and not a formula. A place to live.
+
+*"**Abide in Me, and I in you.** As the branch cannot bear fruit of itself, unless it abides in
+the vine, neither can you, unless you abide in Me."*
+
+**Jesus** uses the same verb for the same arrangement.
 
 > **How it ends.** God takes over the sentence at verse 14 and speaks in the
 > first person — *I will set you free… I will answer… I will be with you in

@@ -3,7 +3,7 @@ key: Nehemiah 2:5
 title: The sentence he had been waiting four months to say
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 One verse, and it is the request the whole book comes out of.
@@ -84,6 +84,50 @@ Then letters to the governors, timber from the king's forest, and an escort of a
 officers and horsemen.
 
 He had thought through the whole logistics of it during four months of praying.
+
+## The four months
+
+Chapter 1 ends in the month Chislev. Chapter 2 opens in Nisan. Between them Nehemiah has been
+carrying wine to a king every day with a fixed expression on his face, praying the prayer
+recorded in chapter 1 and saying nothing.
+
+*Rest in the LORD, and **wait patiently for Him**.*
+
+## The gap between question and answer
+
+*Then the king said to me, "What do you request?" **So I prayed to the God of heaven**. And I
+said to the king…*
+
+Between the question and the answer he prays. There is no time in that sentence for anything
+but an instant.
+
+He has prepared for four months and still prays in the gap.
+
+*Praying always with all prayer and supplication in the Spirit.*
+
+## What he is actually asking for
+
+To be released from the king's service, funded by the king's treasury, and given military
+escort, in order to rebuild the walls of a city the same empire had ordered stopped by decree.
+
+He does not name it as Jerusalem. He calls it *the city of my fathers' tombs* — the one
+description a Persian court would find reasonable.
+
+## Who moved the king
+
+*And the king granted them to me, **according to the good hand of my God upon me**.*
+
+Nehemiah's own summary. Not his timing, not his diplomacy, not the four months of composure.
+
+*The king's heart is in the hand of the LORD, like the rivers of water; **He turns it wherever
+He wishes**.*
+
+## What he had been doing for a living
+
+Cupbearer. Tasting another man's wine in case it killed him.
+
+*Who, being in the form of God… **took the form of a bondservant**.* **Paul** describes a
+greater descent, and the man in this chapter went the other way — from the cup to the wall.
 
 > **What he says about the outcome.** *And the king granted them to me, **according to
 > the good hand of my God upon me**.* The letters are in his bag and the credit goes

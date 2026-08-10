@@ -5,7 +5,7 @@ sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-04-14 positioned-for-his-provision
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Three verses of instruction between the darkness and the last plague, and the
@@ -38,6 +38,26 @@ their slaves.
 And then a line about Moses himself: *a great man in that land, respected by
 Pharaoh's officials and by the people alike*. The man who had fled Egypt as a
 wanted murderer is, by the end, the most respected person in it.
+
+## Coming out loaded
+
+They went in as guests, were made slaves, worked four hundred years unpaid, and walked out
+carrying the silver of the people who had held them.
+
+*He also brought them out with **silver and gold**, and there was none feeble among His
+tribes.*
+
+Two things in one verse of the psalm: paid, and healthy. Neither was earned on the way out.
+
+## Where the pattern goes
+
+Paul says it of the cross: *having **disarmed principalities and powers**, He made a public
+spectacle of them, **triumphing over them** in it.*
+
+And: *when He ascended on high, **He led captivity captive**, and **gave gifts to men**.*
+
+The same shape at a larger scale — a captivity ended, the captor stripped, and the freed people
+leaving with their hands full of what somebody else paid for.
 
 > **What the silver was for.** Some of it ends up in the tabernacle a few chapters
 > later — gold, silver, bronze, blue and purple yarn, brought as freewill

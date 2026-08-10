@@ -3,7 +3,7 @@ key: Deuteronomy 14:22–27
 title: What the tithe was spent on
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 This is the tithe most people have never read, and it is a feast.
@@ -75,6 +75,36 @@ anything.
 
 *So that you may learn to hold the LORD your God in awe.* That is the reason given,
 and the mechanism for learning it is a good dinner.
+
+## A tenth, spent on a party
+
+*"Spend it on whatever your heart desires — cattle, sheep, wine, strong drink, **anything you
+long for** — and eat it there in the presence of the LORD your God, and **celebrate**, you and
+your household."*
+
+A command to spend a tenth of the year's income on whatever he most wants and enjoy it in
+front of God, with the Levite who has nothing brought to the same table.
+
+Paul: *the kingdom of God is not eating and drinking, but **righteousness and peace and joy in
+the Holy Spirit**.*
+
+## Who else threw one
+
+Jesus told it as a parable: *"Bring the fatted calf here and kill it, **and let us eat and be merry**; for this my son was
+dead and is alive again."*
+
+A son who had spent everything comes up the road with a speech prepared, and the father does
+not let him finish it. He calls for a robe, a ring, shoes and a dinner.
+
+The elder brother's complaint is that he never got a party. He had been in the field the
+whole time, and the father's answer is *all that I have is yours*.
+
+## The reason given
+
+*"**So that you may learn to hold the LORD your God in awe always.**"*
+
+That is the stated purpose of the exercise, and the mechanism for learning it is a good
+dinner.
 
 > **What Israel was leaving behind.** They had spent four hundred years in a country
 > where everything they produced belonged to somebody else. The first thing the law

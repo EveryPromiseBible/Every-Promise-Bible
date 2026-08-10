@@ -4,7 +4,7 @@ title: Before he had finished praying
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2023-02-05 pray-for-good-success-today
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The answer arrives while the request is still being made.
@@ -104,6 +104,18 @@ The construction of this scene, stated as a promise.
 the note on Genesis 24:26–27.
 
 Past tense, spoken at the well before anything is settled.
+
+## Who moved first
+
+She was on the path with the jar on her shoulder before the request was finished. Whatever
+brought her out that evening, it was not the prayer — the prayer had not landed yet.
+
+Jesus said it to men who had left their nets for Him: *you did not choose Me, but **I chose
+you**.*
+
+The bride in this chapter is sought, found, asked and brought home, and every move in the
+sequence is made by somebody else first. She is drawing water at the usual hour on an
+ordinary evening. See the note on Genesis 24:1–4.
 
 > **The timing.** *Before he had finished praying.* She was already on the path with the jar on
 > her shoulder while the request was still being formed.

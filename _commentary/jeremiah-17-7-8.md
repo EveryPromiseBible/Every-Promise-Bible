@@ -101,6 +101,47 @@ which bore twelve fruits, each tree yielding its fruit every month.*
 
 A tree by a river, bearing every month.
 
+## Who planted it
+
+*Shathal* — transplanted, set out deliberately. Somebody put it there.
+
+*"**You did not choose Me, but I chose you** and appointed you that you should go and bear fruit,
+and that your fruit should remain."*
+
+**John** 15, and the same two claims in the same order: the planting was not the tree's decision,
+and the fruit does not stop.
+
+## Where the water is
+
+Not falling on the leaves. At the roots.
+
+*"He who abides in Me, and I in him, **bears much fruit**; for **without Me you can do nothing**."*
+
+*"If anyone thirsts, let him come to Me and drink. He who believes in Me, as the Scripture has
+said, **out of his heart will flow rivers of living water**."*
+
+**John** 7, and the source is inside rather than overhead. That is Jeremiah's mechanism exactly —
+a supply the weather cannot reach.
+
+*As you therefore have received **Christ Jesus** the Lord, so walk in Him, **rooted and built up in
+Him**.*
+
+*That you, **being rooted and grounded in love**, may be able to comprehend with all the saints
+what is the width and length and depth and height.*
+
+**Paul** uses the root image twice, and both times what the roots are in is a Person and a love,
+not a discipline.
+
+## The year of drought
+
+*In a year of drought it does not worry.* The heat is not prevented in either half of the pair.
+
+*And not only that, but we also glory in tribulations, knowing that tribulation produces
+perseverance… **now hope does not disappoint**, because the love of God has been poured out in our
+hearts.*
+
+**Romans** 5 keeps the weather and describes something being poured out anyway.
+
 > **Where the water is.** Not falling on the leaves. Underground, at the roots, reached
 > by a system the drought never touches — and Jeremiah says the tree does not even
 > register the year.

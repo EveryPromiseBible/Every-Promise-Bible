@@ -3,7 +3,7 @@ key: Genesis 13:5–13
 title: Lot looked out
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The parting of the two men, and Genesis tells you how each of them chose.
@@ -109,6 +109,29 @@ he had made there at first. And there Abram called on the name of the LORD.* See
 Genesis 13:1–4.
 
 He goes back to the last place he was right.
+
+## Who chose second
+
+Abram was the elder, and the land had been promised to him. First choice was his by every
+right in that culture, and he handed it to the younger man who was only there because he had
+come along uninvited.
+
+*Let nothing be done through selfish ambition or conceit, but in lowliness of mind **let each
+esteem others better than himself**… Let this mind be in you which was also in Christ Jesus,
+who, being in the form of God, **did not consider it robbery to be equal with God, but made
+Himself of no reputation**.*
+
+The one with the prior claim declining to press it is not a minor virtue in Scripture. Paul
+says it is the mind of Christ, and he says it about somebody who had rather more to give up
+than a stretch of grazing.
+
+## How each man chose
+
+Lot *lifted up his eyes and saw*, and the seeing was accurate. Abram was told to lift his and
+look at what was left, and was given all of it, including the part he had given away. See the
+note on Genesis 13:14–18.
+
+*For **we walk by faith, not by sight**.*
 
 > **What Genesis tells the reader and not the man.** The plain was the best land in the region
 > and it was about to be destroyed. Lot chose accurately on everything he could see.

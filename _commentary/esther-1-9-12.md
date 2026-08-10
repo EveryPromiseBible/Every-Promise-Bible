@@ -3,7 +3,7 @@ key: Esther 1:9–12
 title: Queen Vashti's own feast
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A queen says no, and a vacancy opens that will save a nation.
@@ -51,6 +51,25 @@ Haman writes his letters.
 
 Nobody in chapter 1 is trying to save anybody. A queen refuses a drunk man's
 summons and a place is made ready that will be needed later.
+
+## What the refusal sets going
+
+A queen says no at a drinking party, and the machinery of an empire turns over — a decree, a
+search, a new queen, and a Jewish girl in the palace four years before anybody needs her
+there.
+
+*The king's heart is in the hand of the LORD, like the rivers of water; **He turns it wherever
+He wishes**.*
+
+## What is already in place
+
+By the time Haman is promoted in chapter 3, Esther is queen and Mordecai has already saved the
+king's life and had it written in the book.
+
+The rescue is positioned before the threat exists.
+
+*Even as He chose us in Him **before the foundation of the world**… having predestined us to
+adoption as sons by **Jesus Christ** to Himself.*
 
 > **What the book is doing here.** God is not named and nothing miraculous
 > happens. A woman's pride, a king's temper and a courtier's advice do all the

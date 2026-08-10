@@ -3,7 +3,7 @@ key: 2 Kings 8:1
 title: Go away with your family
 sources:
   - 2023-02-19 much-more-restoration-is-coming
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 A warning delivered to one household, seven years before it is needed.
@@ -97,6 +97,42 @@ The land, and seven years of harvests off land she was not farming.
 Elisha's ministry runs through famine repeatedly: the poisoned stew, the twenty loaves that fed a
 hundred, the siege of Samaria and the four lepers at the gate. See the note on
 2 Kings 7:3–4.
+
+## Who is warned
+
+The Shunammite. The woman who built a room on her roof for a passing prophet and asked for
+nothing. See the note on 2 Kings 4:8–10.
+
+Seven years of famine are coming, and one household in Israel is told in advance and told
+where to go.
+
+*"But **seek first the kingdom of God and His righteousness**, and all these things shall be
+added to you."*
+
+She had sought nothing. The chapter gives her advance warning of a national disaster.
+
+## What the warning costs her
+
+Her house and her land. She leaves them for seven years and comes back to find them occupied.
+
+Obedience here is expensive and looks like loss for most of a decade, and the book records the
+gap without smoothing it.
+
+## What she gets back
+
+Everything, plus the produce of the field from the day she left. See the note on
+2 Kings 8:6.
+
+*"Assuredly, I say to you, **there is no one who has left house or brothers or sisters or
+father or mother or wife or children or lands, for My sake and the gospel's, who shall not
+receive a hundredfold now in this time**."*
+
+## The verb
+
+*"For **the LORD has called for a famine**."*
+
+**Qara** — summoned it, as you would call a servant. The famine is spoken of as something that
+answers when addressed.
 
 > **The verb.** *The LORD has called for a famine.* Summoned, as one calls a servant — and the
 > household most likely to be ruined by it gets seven years' notice.

@@ -3,7 +3,7 @@ key: 1 Chronicles 26:6–11
 title: Capable men, strong for the work
 sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The roster continues, and the descriptions attached to one family are the notable part.
@@ -92,6 +92,43 @@ take. See the note on 1 Chronicles 13:12–14.
 
 Four hundred years on, a scribe is counting sixty-two of his descendants and calling them
 strong for the work.
+
+## The word
+
+**Chayil** — strength, capability, valour. It is the word in *a woman of valour* at the end of
+Proverbs, and the word for an army.
+
+Used of Obed-Edom's sons and grandsons twice in a few verses: *mighty men of valour*, and
+*able men with strength for the work*.
+
+## Whose family this is
+
+The man who took the ark in when nobody else would, and whose eighth son is called *my
+reward*. See the note on 1 Chronicles 26:1–5.
+
+Sixty-two of them, counted in this passage.
+
+## The post itself
+
+Gatekeeper. Standing at a door, on a rota, checking who comes in.
+
+The Chronicler describes them with the vocabulary of soldiers and applies it to men whose
+work is answering a gate.
+
+*And whatever you do, **do it heartily, as to the Lord and not to men**, knowing that from the
+Lord you will receive the reward of the inheritance. For you serve the Lord **Christ**.*
+
+**Paul** writes that to household slaves.
+
+## Where the strength came from
+
+Not from the family line — his people were Philistine.
+
+*For **God had truly blessed him**.* The Chronicler gives the reason once and lets it stand
+over the whole roster.
+
+*Every good gift and every perfect gift is from above, and comes down from the Father of
+lights.*
 
 > **The word used twice of one family.** *Chayil* — capable, worthy, strong, and wealthy, all
 > in one noun. Sixty-two of them, against eighteen and thirteen in the two families listed

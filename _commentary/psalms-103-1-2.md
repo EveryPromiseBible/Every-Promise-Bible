@@ -10,7 +10,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-28 faith-to-possess-the-land
   - 2023-02-26 power-to-renew-your-youth
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 David opens by talking to himself.
@@ -91,6 +91,44 @@ all His works, in all places of His dominion. **Bless the LORD, O my soul!**"*
 
 It widens out to the angels, the hosts and the whole creation, and then comes back to the
 one soul it started with.
+
+## Who he is talking to
+
+Himself.
+
+*Bless the LORD, **O my soul**; and all that is within me, bless His holy name.*
+
+David is not addressing God in the opening lines and not addressing a congregation. He is
+giving instructions to his own interior, and he repeats them at the end of the psalm.
+
+## What the danger is
+
+*Bless the LORD, O my soul, and **forget not all His benefits**.*
+
+Forgetting is the thing named. Not rebellion, not doubt — the ordinary loss of a list.
+
+*Beware that you do not forget the LORD your God… **when you have eaten and are full**.* See
+the note on Deuteronomy 6:10–12.
+
+## Why the list is written down
+
+Because the next five verses are the benefits, itemised — forgives, heals, redeems, crowns,
+satisfies — and the psalm exists to keep them in front of a man who would otherwise mislay
+them.
+
+*Therefore we must give the more earnest heed to the things we have heard, **lest we drift
+away**.*
+
+**Hebrews**' verb is **pararyomen** — to slip past, the way a boat leaves a mooring nobody
+untied.
+
+## Where the benefits came from
+
+*Blessed be the God and Father of our Lord **Jesus Christ**, who has blessed us with **every
+spiritual blessing in the heavenly places in Christ**.*
+
+**Paul** opens Ephesians the way David opens this psalm, and names the account the blessings
+are held in.
 
 > **Who gives the order.** He does, to himself. The psalm's first move is a man deciding
 > what his own inside is going to do.

@@ -108,5 +108,52 @@ Said on the Damascus road.
 
 An ox that kicks back at the goad only drives it in further.
 
+## Which Shepherd
+
+*Given by **one Shepherd**.* **Mero'eh echad** — from one shepherd.
+
+*"And other sheep I have which are not of this fold; them also I must bring, and they will hear
+My voice, and there will be **one flock and one shepherd**."*
+
+**John** 10, and the Greek is **heis poimen**. The Preacher's single anchor in a sceptical book
+is a shepherd he does not name; **Jesus** uses the phrase of Himself and adds what the
+Shepherd does — *the good shepherd gives His life for the sheep.*
+
+*Now may the God of peace who brought up our Lord **Jesus** from the dead, **that great Shepherd
+of the sheep**, through the blood of the everlasting covenant…*
+
+## The nails that were driven
+
+*The sayings of the masters are like **nails firmly driven in**.* **Masmerot netuim** — planted
+nails, hammered so they hold.
+
+*"**Unless I see in His hands the print of the nails**, and put my finger into the print of the
+nails… I will not believe."*
+
+*Having **wiped out the handwriting of requirements that was against us**… and He has taken it
+out of the way, having **nailed it to the cross**.*
+
+**Colossians** has one document nailed down so it will not move again, and the Preacher's image
+for words that hold is the same hardware.
+
+## The end of the books
+
+*Of the making of many books there is **no end**, and much study wearies the body.*
+
+*And there are also many other things that **Jesus** did, which if they were written one by one,
+I suppose that **even the world itself could not contain the books** that would be written.*
+
+**John** closes his gospel with the same observation about the endlessness of books and the
+opposite reason for it. Ecclesiastes says the list will not close and a man will; **John** says
+the list will not close because of what one Man did.
+
+## And who was kicking against the goad
+
+*"Saul, Saul… it is hard for you to kick against the goads."*
+
+**Luke** records it in **Acts**, and the man it was said to had spent his life driving other
+people with the words of the wise. **Paul**'s first sentence after it is a question — *who are
+You, Lord?*
+
 > **The two images.** A goad moves what has stopped; a nail holds what would move. And the
 > Preacher attributes both to one Shepherd, in a book that doubts nearly everything else.

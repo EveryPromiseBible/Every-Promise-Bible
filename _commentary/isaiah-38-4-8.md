@@ -107,5 +107,35 @@ Judah had.
 
 The narrative gives the extension and then records what filled it, without softening either.
 
+## The other time the sun did something
+
+Of every possible sign, the one given is the sun conceding ten steps on a dying man's behalf.
+
+*Now it was about the sixth hour, and **there was darkness over all the earth until the ninth
+hour. Then the sun was darkened**, and the veil of the temple was torn in two.*
+
+**Luke** records the second occasion. A king is given fifteen years and the shadow goes
+backwards; a King is put to death and the light goes out at noon.
+
+## Heard and seen
+
+*"I have **heard your prayer** and **seen your tears**."*
+
+*"And **God will wipe away every tear** from their eyes; there shall be no more death, nor sorrow,
+nor crying."*
+
+**Revelation** 21 finishes what Isaiah 38 starts. The tears counted separately in the message to
+Hezekiah are, at the end, wiped off individually.
+
+## The God of your father David
+
+Not *the God of Israel*. A covenant address, to a man in the line the promise ran through.
+
+*"He will be great, and will be called the Son of the Highest; and the Lord God will give Him
+**the throne of His father David**."*
+
+**Luke** uses the same phrase, of somebody else, and adds *of His kingdom there will be no end* —
+which is the one thing nobody could say about Hezekiah's fifteen years.
+
 > **The sign.** Time running backwards on his father's stairway. A man given fifteen years, and
 > the shadow conceding ten steps to say so.

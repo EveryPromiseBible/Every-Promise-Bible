@@ -8,7 +8,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-10-09 hope-for-the-end-times
   - 2023-08-13 keys-to-a-spirit-filled-life
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The best-known number in the Bible about lifespan, and it sits in the middle of a
@@ -48,6 +48,38 @@ happen.
 The man who wrote the seventy-year line outlived it by fifty years. That is worth
 holding in mind before handing anyone the number as though it were an
 appointment.
+
+## Who is speaking from inside it
+
+Moses, leading a generation under sentence, burying people continuously for forty years.
+
+*We have been consumed by Your anger… **You have set our iniquities before You, our secret sins
+in the light of Your countenance**.*
+
+He is not describing wrath from outside. He is inside it and writing.
+
+## Where the sins go instead
+
+*As far as the east is from the west, so far has He removed our transgressions from us.*
+
+*"For I will be merciful to their unrighteousness, and **their sins and their lawless deeds I
+will remember no more**."* See the note on Hebrews 8:10–12.
+
+Moses says the secret sins are set in the light of God's face. **Hebrews** quotes Jeremiah to
+say what happened to them.
+
+## The seventy years
+
+*The days of our lives are seventy years; and if by reason of strength they are eighty
+years, yet their boast is only labour and sorrow.*
+
+The bleakest arithmetic in the Psalter, and it is honest. The psalm does not resolve it — it
+asks to be taught to count instead. See the note on Psalms 90:11–12.
+
+*For **our light affliction, which is but for a moment**, is working for us a far more
+exceeding and eternal weight of glory.*
+
+**Paul** weighs the same span against something the psalm could not yet see.
 
 > **What Moses does next.** He does not settle for the description. The psalm
 > turns into a request — *teach us to count our days… satisfy us in the morning

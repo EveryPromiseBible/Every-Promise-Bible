@@ -11,7 +11,7 @@ sources:
   - 2023-06-25 the-cure-to-a-dissatisfied-life
   - 2024-10-20 the-healing-power-of-gods-word
   - 2026-01-04 hope-that-anchors-your-soul
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two men against a whole camp, and the argument they make is not the one you would
@@ -42,6 +42,30 @@ claim about who still has cover.
 *The whole assembly talked of stoning them.* That is the immediate response to
 the most faith-filled speech in the chapter, and the glory of the LORD appears at
 the tent precisely as the stones are being picked up.
+
+## The two men who came out
+
+Of everyone twenty years old and upward who left Egypt, two entered the land. **Caleb**, and
+**Joshua son of Nun**.
+
+His name is **Yehoshua** — *the LORD is salvation*. The Greek of it is **Iesous**.
+
+The man who leads Israel into the land is carrying the name, and the writer of Hebrews leans on
+that: *for if **Joshua** had given them rest, then He would not afterward have spoken of another
+day.*
+
+Moses brought them out. He could not bring them in — and the one who did had the Name.
+
+## What the argument actually was
+
+Not that the giants were small. Joshua and Caleb never dispute the report.
+
+*Their **shadow has departed** from them, but the LORD is with us.*
+
+It is a claim about cover, not about strength. Whatever was over those cities has been withdrawn,
+and what is over us has not.
+
+*If God is for us, who can be against us?*
 
 > **The word "bread."** Joshua and Caleb's phrase for swallowing the enemy is
 > the ordinary Hebrew for eating — the giants will be *bread* for us. It is a

@@ -5,7 +5,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Abram turns down a fortune in a single sentence, and gives his reason.
@@ -79,6 +79,23 @@ The very next verse — Genesis 15:1:
 
 He turned down a reward and was told who his reward was. The Hebrew for *great
 reward* is the word for wages.
+
+## The priest and the king
+
+Two men came out to meet him in the same hour. One brought bread and wine and a blessing; one
+offered him goods.
+
+He took everything the priest gave and nothing the king offered, and Genesis puts the two
+transactions side by side so the reader sees they are one decision.
+
+*For such a **High Priest** was fitting for us, who is holy, harmless, undefiled, separate from
+sinners… **called by God as High Priest according to the order of Melchizedek**.*
+
+Hebrews takes three verses in Genesis and builds two chapters on them, and the whole argument is
+that a priest who has no genealogy, no recorded beginning and no recorded death is a picture of
+Somebody. See the note on Genesis 14:17–20.
+
+Abram accepted bread and wine from him without hesitating.
 
 > **What happened to the goods he refused.** Sodom is destroyed five chapters later,
 > and Lot — who went back to live in it — comes out with nothing but his daughters

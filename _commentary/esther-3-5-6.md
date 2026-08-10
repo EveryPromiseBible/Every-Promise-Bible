@@ -3,7 +3,7 @@ key: Esther 3:5–6
 title: A rage that would not stop at one man
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two verses, and a private insult becomes a policy of extermination.
@@ -52,6 +52,39 @@ God is still not mentioned. Nobody prays in this chapter.
 And the reader who knows the end of the book knows what is already true while
 Haman is planning: a Jewish girl has been queen of Persia for four years, and a
 king's insomnia is coming.
+
+## Who Haman is
+
+*Haman, the son of Hammedatha **the Agagite**.*
+
+Agag was the Amalekite king Saul was ordered to destroy and kept alive. See the note on
+1 Samuel 15:7–9.
+
+Five hundred years later, his descendant has a signet ring and a decree for the extermination
+of the whole Jewish people. What Saul spared because it looked worth keeping comes back with
+authority.
+
+## And who Mordecai is
+
+*The son of Jair, the son of Shimei, the son of Kish, **a Benjamite**.*
+
+Kish is Saul's father's name. The book puts Saul's tribe and Agag's line in the same room and
+finishes the business Saul would not.
+
+## What Amalek always does
+
+Attacks the exhausted from behind, at the point of weakness. *He did not fear God.*
+
+*For **the flesh lusts against the Spirit**, and the Spirit against the flesh; and these are
+contrary to one another.*
+
+## Where the war ends
+
+Not with a better king, and not with a better Benjamite.
+
+*And those who are Christ's have **crucified the flesh** with its passions and desires.*
+
+The verb is past. **Paul** does not propose managing it.
 
 > **The date they cast lots for.** Haman throws the *pur* — the lot — to pick the
 > day, and it falls on the thirteenth of Adar, eleven months away. The one thing he

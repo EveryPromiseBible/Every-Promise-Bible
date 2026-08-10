@@ -34,8 +34,36 @@ It arrives before the industry proverbs and sets the terms for them: the book is
 not simply in favour of getting more. Two verses later comes gathering in summer
 versus sleeping through harvest — timing, not just effort.
 
-> **On reading these as promises.** They are observations about how life
-> generally runs, not contracts. The same book says elsewhere that the poor can
-> be swept away by injustice regardless of how hard they work, and Ecclesiastes
-> exists partly to press on the exceptions. Proverbs tells you where to put your
-> weight; it does not promise the floor never gives.
+## The verse the industry proverbs are built on
+
+*Wealth won by wrong does no good in the end. **Righteousness pulls a soul back from
+death**.*
+
+**Tzedaqah** delivers from death. That is the claim, and Proverbs does not say where a man
+gets it.
+
+*For **He made Him who knew no sin to be sin for us, that we might become the righteousness
+of God in Him**.*
+
+**Paul** names the source. The righteousness that pulls a soul back from death in verse 2 is
+not manufactured by the diligent hand in verse 4 — it is credited.
+
+*But to him who does not work but believes on Him who justifies the ungodly, **his faith is
+accounted for righteousness**.*
+
+The one chapter in the Bible most quoted about diligence has, in its second verse, a
+righteousness that does the rescuing — and **Romans** says it comes to a man who is not
+working.
+
+## The memory of the righteous
+
+*The memory of the righteous is a blessing.*
+
+*"Assuredly, I say to you, **wherever this gospel is preached in the whole world, what this
+woman has done will also be told as a memorial to her**."*
+
+**Jesus**, over a woman who had just been criticised for wasting money.
+
+> **Where the chapter starts.** Not with the diligent hand — with a righteousness that pulls
+> a soul back from death. Proverbs puts it two verses before the industry, and never says a
+> man produces it.

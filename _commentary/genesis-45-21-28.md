@@ -6,7 +6,7 @@ sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Joseph sends his brothers home loaded with gifts, and the last thing he says to
@@ -47,6 +47,37 @@ it.
 *But when he saw the carts Joseph had sent to carry him, the spirit of their
 father Jacob revived.* The carts did — physical evidence that somebody in Egypt
 had made arrangements for an old man to travel.
+
+## What convinced him
+
+*Jacob's heart went numb; **he could not believe them**.*
+
+Words did not do it. The report was true, delivered by eyewitnesses, and he could not take it
+in.
+
+*But when he saw **the carts Joseph had sent to carry him**, the spirit of their father Jacob
+revived.*
+
+Physical evidence, sent from the one who was alive, arranged for an old man's body.
+
+*And when they still did not believe for joy, and marveled, He said to them, "**Have you any
+food here?**" So they gave Him a piece of a broiled fish… and He took it and ate in their
+presence.*
+
+The risen Christ does the same thing with men who could not believe it either — not another
+argument, something they could look at.
+
+## Who is named in the message
+
+*"Don't quarrel on the way."*
+
+He has forgiven them outright and then anticipates the argument about who suggested what at
+the pit, and heads it off before they get on the road.
+
+*But go, tell His disciples **— and Peter** — that He is going before you into Galilee.*
+
+The one who had most to answer for is named separately, so he could not assume the message was
+for everybody but him.
 
 > **What he says.** *It is enough. My son Joseph is still alive. I will go and see
 > him before I die.* The Hebrew for *it is enough* is one word — rav, plenty,

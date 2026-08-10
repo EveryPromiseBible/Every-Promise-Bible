@@ -115,5 +115,40 @@ who had none.
 
 *Luke the beloved physician greets you.*
 
+## What the certainty is about
+
+**Asphaleia** — the state of not slipping. Theophilus is to find out whether what he was taught
+holds.
+
+*And truly **Jesus** did many other signs in the presence of His disciples, which are not written in
+this book; **but these are written that you may believe that Jesus is the Christ, the Son of God,
+and that believing you may have life in His name**.*
+
+**John** states his purpose the same way and names the subject.
+
+*These things I have written to you who believe in the name of the Son of God, **that you may know
+that you have eternal life**.*
+
+**John**'s first letter is written for people who already believed and needed to know it — which is
+Theophilus's position exactly.
+
+## What the eyewitnesses handed over
+
+*"Just as those who **from the beginning were eyewitnesses and ministers of the word** delivered them
+to us."*
+
+**Paredosan** — handed over, the technical verb for transmitting a tradition.
+
+*For I delivered to you first of all that which I also received: that **Christ died for our sins**
+according to the Scriptures, and that He was buried, and that **He rose again the third day**.*
+
+**Paul** uses the same pair of verbs in **1 Corinthians** 15 and then gives the content. **Luke** does
+not summarise his; he writes twenty-four chapters of it, and the last one has two men on a road
+saying *did not our heart burn within us*.
+
+*Then He said to them, "**These are the words which I spoke to you while I was still with you, that
+all things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms
+concerning Me**."*
+
 > **The word.** **Asphaleia** — the state of not slipping. Written for a man who had already been
 > taught, so he could find out whether it held.

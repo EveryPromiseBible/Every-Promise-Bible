@@ -6,7 +6,7 @@ sources:
   - 2019-07-28 live-out-your-high-calling
   - 2021-05-16 ask-big-ask-bold
   - 2022-07-31 rest-for-your-soul-in-restless-times
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two kings go into a battle they were warned about. One of them has a plan, and it
@@ -51,6 +51,47 @@ with no aim.
 
 Chronicles reports it without comment: *at random*, and then a king propped up in
 his chariot until sunset, dying.
+
+## What Jehoshaphat was doing there
+
+In a battle he had no business being in, wearing his own robes, because Ahab had asked him to.
+
+He had already been warned. Micaiah had told them both the outcome, and Ahab put the prophet
+in prison on bread and water and went anyway — with Jehoshaphat beside him in royal dress
+while Ahab went in disguise.
+
+*Do not be unequally yoked together with unbelievers.*
+
+## What he does in the middle of it
+
+*So they surrounded him to attack; but **Jehoshaphat cried out, and the LORD helped him**, and
+God diverted them from him.*
+
+Four words for the whole rescue. No repentance recorded, no explanation offered, no rebuke
+attached — he is somewhere he should not be, in a war he was talked into, and he shouts.
+
+*For **"whoever calls upon the name of the Lord shall be saved."*** Paul quotes it in the
+middle of the argument that there is no difference between one kind of person and another.
+
+## The shot nobody aimed
+
+*Now **a certain man drew a bow at random**, and struck the king of Israel between the joints
+of his armour.*
+
+The Hebrew is *in his innocence* — without aiming. The disguise did not help, and the archer
+was not looking for him.
+
+Two kings in one battle. One is protected in plain sight after making a bad decision; one is
+killed through a gap in his armour after taking every precaution.
+
+## What God said about Jehoshaphat afterwards
+
+The prophet Jehu meets him at the gate and tells him plainly: *should you help the wicked and
+love those who hate the LORD? Therefore the wrath of the LORD is upon you.*
+
+And then, in the same breath: *nevertheless **good things are found in you**.*
+
+The rebuke and the commendation are in one sentence, and the commendation is last.
 
 > **Two men, one battle.** Both were where they should not have been. One called
 > out and was pulled clear; the other had a plan and did not survive the

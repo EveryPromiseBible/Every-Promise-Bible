@@ -67,6 +67,35 @@ in Proverbs; it is the ones who let themselves be counselled.
 
 The Hebrew is that he spreads it out, unfurls it, makes a display.
 
+## The longing filled
+
+*Hope stretched thin makes the heart sick. **A longing filled is a tree of life**.*
+
+Proverbs names the cure and not the content. The rest of Scripture supplies it.
+
+*"**The Desire of All Nations shall come**, and I will fill this temple with glory."*
+
+*Now **hope does not disappoint**, because the love of God has been poured out in our hearts
+by the Holy Spirit who was given to us.*
+
+**Paul**'s word is **kataischynei** — does not put to shame. Hope stretched thin is exactly
+what makes a heart sick, and **Romans** says this one does not stretch to breaking.
+
+## The tree
+
+*In the middle of its street, and on either side of the river, was **the tree of life**… and
+the leaves of the tree were for the healing of the nations.*
+
+The image Proverbs reaches for is the last thing **John** sees. It was in a garden at the
+beginning, is a metaphor for a satisfied longing here, and stands in a city at the end.
+
+## The lamp that does not go out
+
+*The light of the upright **burns clear and glad**. The lamp of the wicked **flickers out**.*
+
+*"**I am the light of the world.** He who follows Me shall not walk in darkness, but have the
+light of life."*
+
 > **What the chapter says a few verses later.** *A good man leaves an inheritance to
 > his children's children, and the wealth of the sinner is stored up for the
 > righteous.* Slowly gathered, and it outlasts him by two generations. See the note

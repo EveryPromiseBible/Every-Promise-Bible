@@ -43,9 +43,33 @@ A pair, set deliberately: one man's fear arrives, the other's longing does.
 Proverbs states these as the general run of things, in the confident style the
 book uses throughout.
 
-> **How to read the run of promises here.** Chapter 10 is a rapid series of
-> contrasts, and it does not pause for exceptions — that is not what this genre
-> does. Job and Ecclesiastes exist partly as the counterweight, and the Bible
-> keeps all three in the same collection without embarrassment. Proverbs tells
-> you which way the world generally leans; it does not promise that it never
-> tips the other way.
+## Why no sorrow could be added
+
+The blessing arrives without grief attached because the grief was carried somewhere else.
+
+*Surely He has borne our griefs and **carried our sorrows**… He was **a Man of sorrows** and
+acquainted with grief.*
+
+**Etzev** in the proverb, and the sorrows of Isaiah 53 laid on somebody. The reason the
+LORD's blessing comes clean is that it was not free to give.
+
+*For you know the grace of our Lord **Jesus Christ**, that though **He was rich, yet for your
+sakes He became poor, that you through His poverty might become rich**.*
+
+**Paul** puts the whole transaction in one sentence, and the word he uses for it is **grace**.
+
+## Where the blessing comes from
+
+*Christ has redeemed us from the curse of the law, having become a curse for us… **that the
+blessing of Abraham might come upon the Gentiles in Christ Jesus**.*
+
+**Galatians** names the mechanism: the curse went one way so the blessing could come the
+other. That is *the blessing of the LORD makes rich* with an address attached.
+
+## What the chapter says the blessing does
+
+*The fear of the LORD prolongs days… the hope of the righteous will be gladness.*
+
+> **What makes it clean.** *He adds no sorrow with it.* The sorrow was not skipped — Isaiah
+> says a Man carried it, and Paul says He was rich and became poor so the blessing would
+> arrive with nothing owing on it.

@@ -15,7 +15,7 @@ sources:
   - 2026-04-05 proof-of-your-righteousness-in-christ
   - 2026-05-17 license-to-live-holy-versus-license-to-sin
   - 2026-05-24 how-to-hear-gods-voice
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The first command God gives a human being is usually remembered as a
@@ -43,9 +43,26 @@ Which is why the serpent's pitch in the next chapter is exactly that — *you wi
 be like God, knowing good and evil.* He is not offering something the tree does
 not offer. He is recommending it.
 
-> **"On the day you do, you will surely die."** They ate, and did not drop dead
-> that afternoon, and readers have puzzled over it ever since. The Hebrew phrase
-> can carry the sense of a sentence passed rather than an execution carried out —
-> and the chapter that follows describes exactly that: exile, hard ground, a
-> guarded gate, and a life now running toward dust. Something did die that day,
-> and the rest of the Bible is about what it cost to undo.
+## "On the day you do, you will surely die"
+
+They ate, and they did not drop dead that afternoon. Something else died that day.
+
+They hid from the sound of Him in the garden. The walk stopped. What died on the day
+they ate was the life they had with God — and the body followed it slowly, over nine
+hundred and thirty years, the way the chapter after next keeps recording: *and he
+died*, eight times. See the note on Genesis 5:1–5.
+
+## Who undoes it
+
+*For as in Adam all die, even so in Christ **all shall be made alive**.*
+
+Paul sets the two men side by side and makes the whole of it turn on which one you are
+counted in. *The first man Adam became a living being. **The last Adam became a
+life-giving spirit.***
+
+One man ate from a tree and lost the life. One man hung on a tree and gave it back.
+
+> **The proportions of the first command.** Every tree in the garden, freely, with the
+> verb doubled for emphasis — and one exception. The Bible's first word to a human
+> being is a generous one, and the serpent's opening move in the next chapter is to
+> quote the exception and drop the generosity.

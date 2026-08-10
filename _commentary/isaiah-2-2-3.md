@@ -52,6 +52,40 @@ They ask to be taught by somebody they have already decided to obey.
 **Teaching** is **torah**, which is instruction before it is legislation — the
 word a parent's guidance is called in Proverbs.
 
+## The day the streaming happened
+
+*The teaching goes out from Zion, the word of the LORD from Jerusalem.*
+
+*And there were dwelling in Jerusalem Jews, devout men, **from every nation under heaven**…
+"Parthians and Medes and Elamites, those dwelling in Mesopotamia, Judea and Cappadocia, Pontus
+and Asia, Phrygia and Pamphylia, Egypt and the parts of Libya adjoining Cyrene, visitors from
+Rome… **we hear them speaking in our own tongues the wonderful works of God**."*
+
+**Acts** 2 lists fifteen nationalities standing in Jerusalem hearing instruction, and the chapter
+ends with three thousand of them.
+
+*"And that **repentance and remission of sins should be preached in His name to all nations,
+beginning at Jerusalem**."*
+
+**Luke** gives the direction of travel Isaiah gave: out from that city.
+
+## What they said they wanted
+
+*He will teach us His ways, and **we will walk in His paths**.*
+
+*"**I am the way**, the truth, and the life."*
+
+The nations in the vision commit to the walking before they know the content. **John** has the
+path answer in the first person.
+
+## The mountain that is not measured by altitude
+
+*But **you have come to Mount Zion** and to the city of the living God, the heavenly Jerusalem, to
+an innumerable company of angels… and to **Jesus the Mediator of the new covenant**.*
+
+**Hebrews** 12 says the arrival is past tense. The verse is not measuring a hill, and neither is
+the letter.
+
 > **What comes next in the chapter.** Swords into ploughshares, spears into
 > pruning hooks, and nations that *will not learn war any more*. The disarmament
 > is placed after the teaching, not before it — in Isaiah's order, they stop

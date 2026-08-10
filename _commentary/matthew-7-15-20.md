@@ -108,5 +108,33 @@ who built his house on the rock."*
 And the crowd's reaction: *they were astonished at His teaching, for He taught them as one
 having authority, and not as the scribes*.
 
+## What makes a tree good
+
+The passage says a rotten tree **cannot** bear good fruit, and never tells it to try. So the
+question the parable leaves is how a tree changes species.
+
+*"Abide in Me, and I in you. As the branch cannot bear fruit of itself, unless it abides in the
+vine, neither can you, unless you abide in Me… **for without Me you can do nothing**."*
+
+**John** 15, and **Jesus** keeps the impossibility and names the remedy. It is not effort applied
+to the fruit. It is attachment.
+
+*Therefore, if anyone is in **Christ**, he is **a new creation**; old things have passed away;
+behold, all things have become new.*
+
+*For **we are His workmanship**, created in **Christ Jesus** for good works, which God prepared
+beforehand that we should walk in them.*
+
+**Paul**'s noun is **poiema** — a thing made. The good works are downstream of the making, and
+**Ephesians** 2 puts them one verse after *by grace you have been saved… not of works*.
+
+## The fruit that is singular
+
+*The **fruit** of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,
+gentleness, self-control.*
+
+**Karpos**, singular, and nine items. **Paul** does not call them fruits, and he does not call them
+achievements. They are what grows on something the Spirit is in.
+
 > **What the test is not.** Not power. Two paragraphs later, prophecy, exorcism and wonders are
 > named as things done by people He says He never knew.

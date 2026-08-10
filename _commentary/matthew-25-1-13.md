@@ -117,5 +117,44 @@ Between the Olivet discourse and the parable of the talents, in the last week.
 Three parables in a row about the interval: the servant whose master delays, the ten lamps,
 and the talents. All three are about what people do while nothing is happening.
 
+## What is not transferable
+
+The refusal reads harshly, and it is the parable's point: nobody can lend it.
+
+*"**The wind blows where it wishes**, and you hear the sound of it, but cannot tell where it comes
+from and where it goes. So is everyone who is born of the Spirit."*
+
+*In Him also, having believed, **you were sealed with the Holy Spirit of promise, who is the
+guarantee of our inheritance**.*
+
+**Paul**'s word is **arrabon** — the deposit paid at a betrothal. In a parable about a wedding,
+the thing the wise five had brought before the waiting started is described elsewhere as an
+engagement payment somebody else made.
+
+*Now he who has prepared us for this very thing is God, **who also has given us the Spirit as a
+guarantee**.*
+
+## Who the shut door belongs to
+
+*"**I am the door.** If anyone enters by Me, he will be saved, and will go in and out and find
+pasture."*
+
+**John** 10. The parable has a door that closes at an hour; the gospel has one that speaks and
+says who may come through.
+
+*"Behold, I have set before you **an open door, and no one can shut it**."*
+
+## What the bridegroom is
+
+The parable never explains the oil and it does explain the bridegroom, by putting Him in a
+wedding He is late to and expected at.
+
+*"**He who has the bride is the bridegroom.**"*
+
+*"Let us be glad and rejoice and give Him glory, for **the marriage of the Lamb has come**, and His
+wife has made herself ready."*
+
+*"**Blessed are those who are called to the marriage supper of the Lamb!**"*
+
 > **The one variable.** Not attentiveness — all ten slept. Five of them had brought oil before
 > the waiting started, and the delay is what made the difference show.

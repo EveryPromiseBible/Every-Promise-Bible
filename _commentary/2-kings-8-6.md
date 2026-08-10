@@ -3,7 +3,7 @@ key: 2 Kings 8:6
 title: All the produce from the day she left
 sources:
   - 2023-02-19 much-more-restoration-is-coming
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 She asked for a house and a field, and the ruling covers seven years she was not there.
@@ -99,6 +99,40 @@ The whole story runs from a promise she did not want to believe.
 
 Twice — to her husband, and to Gehazi on the road — while riding to Carmel with the body on the
 prophet's bed. See the note on 2 Kings 4:18–25.
+
+## What she asked for and what the ruling gave
+
+She petitioned for the house and the land. The king restored both, *and all the proceeds of
+the field from the day that she left the land until now*.
+
+Seven years of harvests off a field she had not worked, paid to a woman who had been in
+Philistine country.
+
+Jesus: *"**give, and it will be given to you: good measure, pressed down, shaken together, and
+running over**, will be put into your bosom."*
+
+## Where it began
+
+Building a small room on a roof — a bed, a table, a chair and a lampstand — for a man who
+walked past her house, and refusing to let him speak for her to the king. See the note on
+2 Kings 4:8–10.
+
+She would not be spoken for then. Years later the king rules in her favour on the strength of
+a story she was not even in the room to tell.
+
+*"**And your Father who sees in secret will Himself reward you openly.**"*
+
+## The word she used that day
+
+*It is well.* See the note on 2 Kings 4:18–25.
+
+## What the pattern is called
+
+Restitution with increase. It is the law's own shape — *he shall restore what he took… and
+shall add one-fifth to it* — and here a king applies it to a famine nobody caused.
+
+*And God is able to make **all grace abound toward you**, that you, always having all
+sufficiency in all things, may have an abundance for every good work.*
 
 > **What the king adds.** She petitioned for the house and the field. The ruling covers seven
 > harvests off land she was not on.

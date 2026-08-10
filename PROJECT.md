@@ -169,7 +169,7 @@ index.html                (~230 KB — the entire app)
 data/   chapters.js 5.4 MB · illumination.js 4.8 MB · kjv.js 4.4 MB
         thayer.js 5.0 MB · abbott.js 2.5 MB · promises.js 1.5 MB
         wordpictures.js 1.4 MB · lexicon.js 1.2 MB · hymns.js 1.1 MB
-        devotional.js 230 KB · commentary.js 16 KB · wordcounts.js 1 KB
+        commentary.js 6.7 MB · devotional.js 230 KB · wordcounts.js 1 KB
 ```
 
 > ⚠️ **Each data file's payload is exactly ONE LINE.** `const CHAPTERS = [...]`

@@ -6,7 +6,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-12-13 prosperity-with-a-purpose
   - 2026-01-11 the-year-of-much-more
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A muster roll, tribe by tribe, and one entry in it is not counted the same way as
@@ -89,6 +89,42 @@ prepared for them.*
 
 A three-day feast, with food sent down from as far as Naphtali on donkeys, camels,
 mules and oxen.
+
+## What the list is doing
+
+A muster roll — thousands from every tribe, counted by their weapons and their readiness.
+
+And then one entry that is not a number.
+
+## Issachar
+
+*Of the sons of Issachar who had **understanding of the times, to know what Israel ought to
+do** — their chiefs were two hundred, and all their brethren were at their command.*
+
+Two hundred men, against fifty thousand from Zebulun. They are on the list for what they
+understood, not for what they could carry.
+
+## Why it is two clauses
+
+Understanding the times, and knowing what to do about them. The verse will not separate them
+— reading the moment is only half of it.
+
+Paul asks for both in one prayer: *that you may be **filled with the knowledge of His will in
+all wisdom and spiritual understanding**; that you may walk worthy of the Lord.*
+
+## Where the understanding comes from
+
+*But God has revealed them to us through His Spirit… **now we have received not the spirit of
+the world, but the Spirit who is from God**, that we might know the things that have been
+freely given to us by God.*
+
+## What Jesus said about reading the times
+
+*"**You know how to discern the face of the sky, but you cannot discern the signs of the
+times.**"*
+
+Said to men who could forecast weather and could not identify what was standing in front of
+them.
 
 > **What David did not know how to read.** *When spring came around, the season when
 > kings ride out to war… **but David stayed behind in Jerusalem**.* One sentence, and

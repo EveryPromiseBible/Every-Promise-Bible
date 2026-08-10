@@ -8,7 +8,7 @@ sources:
   - 2022-06-26 hope-for-the-third-day-generation
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2026-01-25 reign-with-much-more
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A woman about to lose her children asks for help, and is asked a question back.
@@ -83,6 +83,40 @@ lives on it.
 
 A dead husband, two boys about to be taken, no money, and one flask of oil she had
 not thought worth mentioning.
+
+## What stopped it
+
+*"There is not another vessel." **So the oil stopped.**"*
+
+Not the oil. The vessels.
+
+It ran for as long as there was anything to run into, and the only limit anywhere in the
+account is how many jars the neighbours had.
+
+*Now to Him who is able to do **exceedingly abundantly above all that we ask or think**,
+according to the power that works in us.*
+
+*You are not restricted by us, but **you are restricted by your own affections**.*
+
+## The thing she had dismissed
+
+*"**Your maidservant has nothing in the house but a jar of oil**."*
+
+She says *nothing*, and then names something. Elisha's whole instruction is built on the thing
+she had dismissed in the same breath as saying she had none.
+
+Jesus asks the same kind of question before feeding five thousand: *"how many loaves do you
+have? Go and see."… "**Five, and two fish**."*
+
+## Where the multiplying happened
+
+*"**Shut the door behind you and your sons**, pour it out… and set aside the full ones."*
+
+Nobody watches. The multiplying happens in a house with the door shut, and what the street
+sees is a woman selling oil and paying a debt.
+
+*"But you, when you pray, **go into your room, and when you have shut your door**, pray to your
+Father who is in the secret place."*
 
 > **The other widow with a jar.** At Zarephath, in Elijah's day — a handful of flour
 > and a little oil, and she was gathering sticks to make a last meal before she and

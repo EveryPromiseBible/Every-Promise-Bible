@@ -3,7 +3,7 @@ key: Numbers 16:16–35
 title: The ground opens
 sources:
   - 2020-05-24 find-power-in-his-presence
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The test Moses proposed is carried out, and twice in the middle of it he tries to stop
@@ -105,6 +105,28 @@ Israel* — a permanent reminder, bolted to the place where the offerings were m
 
 The nation blames Moses and Aaron for it, and a plague starts. Aaron runs into the middle
 of it with a censer. See the note on Numbers 16:41–50.
+
+## What he does with his accusers
+
+Told to step clear of the people, he goes face down and argues for them instead: *will You be
+angry with the whole community when one man sins?*
+
+Twice in one chapter, both times on behalf of men who had spent the morning accusing him of
+lifting himself above them.
+
+*Then Jesus said, "**Father, forgive them, for they do not know what they do**."*
+
+Said from a cross, about the men who put Him on it, while they were dividing His clothes.
+
+## What came of the intercession
+
+The judgment narrowed. It went from the whole assembly to three households, and a warning was
+issued so everybody else could move back.
+
+Moses' praying is the reason there was a warning.
+
+*Therefore He is able to save to the uttermost those who come to God through Him, since **He
+always lives to make intercession for them**.*
 
 > **What Moses did twice.** Fell on his face for the people accusing him — before the
 > test and during it. The narrowing of the judgment happens because of the second one.

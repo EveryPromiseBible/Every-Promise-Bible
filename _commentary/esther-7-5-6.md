@@ -3,7 +3,7 @@ key: Esther 7:5–6
 title: Who would dare
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The king's question, and the answer that ends Haman.
@@ -56,6 +56,37 @@ The Hebrew is that he was terrified before the king *and the queen*.
 He had not known she was a Jew. Nobody in the palace had — Mordecai had told her
 not to say. The decree he wrote and sealed included the woman sitting opposite
 him.
+
+## What she names him
+
+*"**The adversary and enemy is this wicked Haman!**"*
+
+The Hebrew is **ish tzar ve'oyev** — a man, an adversary and an enemy.
+
+**Tzar** is the word behind **Satan**'s job description in the Old Testament: the accuser, the
+one who stands against. Zechariah uses it of the figure standing at Joshua's right hand to
+oppose him — *the LORD rebuke you, Satan!*
+
+## What is being exposed
+
+A man who had a legal decree, a signet ring and eleven months in hand, undone in a sentence by
+a woman naming him in front of the king.
+
+*Then **the accuser of our brethren, who accused them before our God day and night, was cast
+down**.*
+
+*Who shall bring a charge against God's elect? **It is God who justifies. Who is he who
+condemns?***
+
+**Paul** asks both questions and answers neither, because in his argument there is nobody left
+standing to make the charge.
+
+## Where the accusation goes
+
+*And Haman **stood frozen with terror** before the king and queen.*
+
+The Hebrew is *he was terrified before the king and the queen* — the accuser standing speechless
+in front of the throne he had been working through.
 
 > **What the king still does not know.** He never learns that God is in this. He
 > goes to his grave believing he lost his temper twice and settled a matter of

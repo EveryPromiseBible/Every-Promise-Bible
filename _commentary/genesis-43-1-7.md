@@ -3,7 +3,7 @@ key: Genesis 43:1–7
 title: "Why did you bring this trouble on me?"
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The grain runs out, and the argument the family had been avoiding has to happen.
@@ -97,6 +97,30 @@ Benjamin. **If I am bereaved, I am bereaved**."*
 
 **God Almighty** — **El Shaddai**, the name given to Abraham at ninety-nine. See the note
 on Genesis 17:1–2.
+
+## The word Judah uses
+
+*"**I myself will be surety for him**; from my hand you shall require him."*
+
+The Hebrew is **anochi e'ervennu** — I will stand as pledge. It is a commercial term: somebody
+who guarantees another party's debt with their own person.
+
+Reuben had offered his two sons and Jacob did not answer him. Judah offers himself, and Jacob
+moves.
+
+## Where the word turns up again
+
+*By so much more **Jesus has become a surety of a better covenant**.*
+
+The Greek is **engyos** — the same office. One who stands good for somebody else's obligation
+out of his own resources.
+
+It is the only time the word appears in the New Testament, and it is applied to Him.
+
+Judah keeps the pledge in chapter 44, at the moment it costs everything: *let your servant
+remain instead of the lad*. See the note on Genesis 44:18–34.
+
+He is the tribe the surety of the better covenant comes out of.
 
 > **What breaks the deadlock.** Not persuasion. The food ran out, and Judah put the terms
 > in front of his father twice and then offered to stand for the boy himself.

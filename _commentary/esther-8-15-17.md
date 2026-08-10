@@ -3,7 +3,7 @@ key: Esther 8:15–17
 title: The city rejoiced
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The man who sat at the gate in sackcloth comes out of the palace in blue and
@@ -61,6 +61,39 @@ Jews.
 
 The people who were *not My people*, hidden and scattered, are suddenly the thing
 the empire wants to belong to.
+
+## What the city does
+
+*The city of Susa **rejoiced and was glad**… The Jews had **light and gladness, joy and
+honour**.*
+
+Four words in a row for the same thing. The Hebrew piles them up: **orah vesimchah vesason
+viyqar**.
+
+The city that had been *perplexed* while the king and Haman sat drinking is now shouting. See
+the note on Esther 3:12–15.
+
+## The word that starts the list
+
+**Light.**
+
+*The people who sat in darkness have seen a great light, and upon those who sat in the region
+and shadow of death **light has dawned**.* See the note on Matthew 4:12–17.
+
+*In Him was life, and **the life was the light of men**. And the light shines in the darkness,
+and the darkness did not comprehend it.*
+
+## Who joins at the end
+
+*And **many of the people of the land became Jews**, because fear of the Jews fell upon them.*
+
+The Hebrew is **mityahadim** — they Judaised, they joined themselves.
+
+A deliverance meant for one people ends with outsiders attaching themselves to it, and the
+book closes with the circle wider than it started.
+
+*And **other sheep I have which are not of this fold**; them also I must bring, and they will
+hear My voice.*
 
 > **From the gate to the palace.** Mordecai never asked for any of it. He would not
 > bow, he sat still, and he told his cousin the deliverance would come from another

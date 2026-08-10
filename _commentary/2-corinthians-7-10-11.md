@@ -98,5 +98,38 @@ the joy of Titus**, because his spirit has been refreshed by you all.*
 
 The chapter ends: *I have confidence in you in everything*.
 
+## The two sorrows
+
+*Godly sorrow produces repentance leading to salvation, not to be regretted, **but the sorrow of the
+world produces death**.*
+
+**Metanoian** — a change of mind. **Paul** distinguishes the two by their outcome rather than their
+intensity.
+
+Judas was sorry. **Matthew** uses a different word of him — **metamelētheis**, remorseful — and he
+went and hanged himself. Peter wept bitterly and was on a beach eating breakfast.
+
+## What produces repentance
+
+*Or do you despise the riches of His goodness, forbearance and longsuffering, not knowing that **the
+goodness of God leads you to repentance**?*
+
+**Paul** in **Romans** 2 names the cause, and it is kindness rather than pressure.
+
+*Then God has also **granted to the Gentiles repentance to life**.*
+
+*"**To give repentance to Israel and forgiveness of sins.**"*
+
+**Acts** 5, and both nouns are objects of the same verb. Even the turning is described as issued by
+the exalted **Christ**.
+
+## Not to be regretted
+
+*Ametameleton* — not to be repented of. **Paul** uses the word once more:
+
+*For **the gifts and the calling of God are irrevocable**.*
+
+Same adjective, of God's own decisions.
+
 > **The difference between them.** Not how badly it hurts. Where it arrives — a turned mind,
 > or death — and Paul says the first one is never regretted afterwards.

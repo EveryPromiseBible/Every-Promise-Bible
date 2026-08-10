@@ -3,7 +3,7 @@ key: Psalms 132:3–5
 title: No sleep until
 sources:
   - 2022-01-02 the-year-of-rest-and-acceleration
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 A vow, quoted in a pilgrim song, and it is about accommodation.
@@ -105,6 +105,41 @@ place forever**.* See the note on Psalms 132:13–14.
 David swore he would not rest until he found God a resting place.
 
 The psalm's second half is God saying He has found one.
+
+## What he swore
+
+*"**I will not give sleep to my eyes** or slumber to my eyelids, **until I find a place for the
+LORD**, a dwelling place for the Mighty One of Jacob."*
+
+David swears off sleep until God has a house. It is the most generous vow in the Psalter and
+God does not accept it — *you shall not build a house for My name*. See the note on
+2 Samuel 7:1–3.
+
+## What he is told instead
+
+*The LORD will build you a house.*
+
+The whole exchange turns on **bayit** meaning both a building and a dynasty. The man who
+offered to give is given to.
+
+*Or who has first given to Him and it shall be repaid to him? **For of Him and through Him and
+to Him are all things**.*
+
+## The other sleepless night
+
+*And He was in the stern, asleep on a pillow.*
+
+*"Foxes have holes and birds of the air have nests, but **the Son of Man has nowhere to lay His
+head**."*
+
+David could not sleep until God had a place to live. **Jesus** had none Himself.
+
+## Where the house ends up
+
+*And the Word became flesh and **dwelt among us**.* The Greek is **eskenosen** — pitched His
+tent.
+
+*Do you not know that **you are the temple of God**?*
 
 > **What the vow asks for.** Not victory, not a dynasty, not an heir. A place for somebody else
 > to live — and the man swearing it was sleeping in a cedar house at the time.

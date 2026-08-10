@@ -3,7 +3,7 @@ key: 1 Chronicles 13:9–11
 title: The threshing floor of Kidon
 sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The Chronicler's account of the same event, and the differences are small and deliberate.
@@ -98,6 +98,41 @@ David stops, and the ark spends three months somewhere else. See the note on
 
 And the household it stops at is blessed for the duration, which is the fact that gets him
 moving again.
+
+## Why the hand went out
+
+Because the ark was on a cart.
+
+On the shoulders of Levites, carried by poles that were never to be removed, it could not have
+tilted and no hand would have been needed. The instruction had been *they shall not touch any
+holy thing, lest they die* — and once it is on a wagon, somebody eventually has to. See the
+note on 2 Samuel 6:6–8.
+
+## What the reaching was
+
+The most sympathetic act in the chapter, and the one that kills him. Uzzah is steadying
+something holy with a hand that is not qualified to touch it.
+
+*For **by the deeds of the law no flesh will be justified** in His sight.*
+
+## Who could handle it
+
+*But when **Christ** came as High Priest of the good things to come, with the greater and more
+perfect tabernacle not made with hands… **He entered the Most Holy Place once for all**,
+having obtained eternal redemption.*
+
+There is one pair of hands the holy things could be handled by, and Hebrews says whose.
+
+## What the name means
+
+**Perez-uzzah** — the breaking out against Uzzah.
+
+The same root as **Perez**, the son born to Judah and Tamar, whose name means a bursting
+through — and who is four names into Matthew's genealogy. See the note on
+Genesis 38:24–26.
+
+One breaking out kills a man reaching for God. The other is a name in the line of the One who
+came the other way.
 
 > **What Chronicles states and Samuel does not.** The cause, twice — *for putting his hand to
 > the ark* here, and *we did not seek Him about the proper way* in the king's own mouth two

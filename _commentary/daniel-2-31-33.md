@@ -61,6 +61,51 @@ frightening.
 Daniel's God shows the same thing to Daniel as a beast-vision in chapter 7. The
 king saw a magnificent statue. The prophet saw animals.
 
+## What the stone does
+
+The statue is struck at the feet by a stone cut without hands and the whole of it goes to chaff.
+See the note on Daniel 2:34–35.
+
+*"Have you never read in the Scriptures: 'The stone which the builders rejected has become the
+chief cornerstone'?… And **whoever falls on this stone will be broken; but on whomever it falls,
+it will grind him to powder**."*
+
+**Matthew** 21, and **Jesus** puts Psalm 118 and Daniel 2 in consecutive sentences. The grinding
+to powder is Daniel's image, and He applies it to Himself in front of the chief priests.
+
+## The kingdom at the end of the dream
+
+*"And in the days of these kings **the God of heaven will set up a kingdom which shall never be
+destroyed**… it shall break in pieces and consume all these kingdoms, and it shall stand
+forever."*
+
+*"And He will reign over the house of Jacob forever, and **of His kingdom there will be no
+end**."*
+
+**Luke** 1, said by Gabriel — the same angel who comes to Daniel in chapter 9 — to a girl in
+Nazareth.
+
+*Then the seventh angel sounded: and there were loud voices in heaven, saying, "**The kingdoms of
+this world have become the kingdoms of our Lord and of His Christ**, and He shall reign forever
+and ever!"*
+
+## What the king saw, and what the prophet saw
+
+Nebuchadnezzar sees a magnificent statue. In chapter 7 God shows Daniel the same succession as
+four beasts coming up out of the sea.
+
+And then, in the middle of the beasts:
+
+*"I was watching in the night visions, and behold, **One like the Son of Man**, coming with the
+clouds of heaven!… **Then to Him was given dominion and glory and a kingdom**, that all peoples,
+nations, and languages should serve Him."*
+
+*"Hereafter you will see **the Son of Man** sitting at the right hand of the Power, and **coming on
+the clouds of heaven**."*
+
+**Matthew** 26. It is the sentence **Jesus** gives the high priest when asked directly whether He
+is the Christ, and it is a quotation of Daniel 7.
+
 > **What is not in the dream yet.** A stone, cut without hands, which strikes the
 > feet and grinds the whole statue to chaff, and then becomes a mountain filling
 > the earth. That is the next part of what Nebuchadnezzar saw, and it is the part

@@ -3,7 +3,7 @@ key: Numbers 23:18–20
 title: "He has blessed, and I cannot reverse it"
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The man being paid to curse Israel opens his mouth and this comes out.
@@ -95,6 +95,30 @@ The New Testament names it three times: the way of Balaam, the error of Balaam, 
 doctrine of Balaam.
 
 He could not reverse the blessing, so he went after the people instead.
+
+## What cannot be turned back
+
+*"He has blessed, and **I cannot reverse it**."*
+
+*For **the gifts and the calling of God are irrevocable**.*
+
+The Greek is **ametameleta** — not to be repented of, not subject to a change of mind. Paul
+uses it about Israel, and the argument he is making is the one Balaam made from a hilltop
+with a fee in his pocket.
+
+## Why it holds
+
+*"**God is not a man, that He should lie**; He is not a son of man, that He should change
+His mind."*
+
+*Thus God, determining to show more abundantly to the heirs of promise **the immutability of
+His counsel**, confirmed it by an oath, that **by two immutable things, in which it is
+impossible for God to lie**, we might have strong consolation.*
+
+Hebrews takes the same ground and names what it is for: so that people holding a promise
+would have something that cannot move.
+
+*For **all the promises of God in Him are Yes**, and in Him Amen.*
 
 > **Where the sentence comes from.** Not from a prophet, a psalm, or a friend of Israel.
 > From a hired man on a hill, standing in front of the king who paid him, saying he

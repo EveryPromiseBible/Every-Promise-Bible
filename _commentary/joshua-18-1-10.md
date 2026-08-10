@@ -4,7 +4,7 @@ title: How long will you hold back
 sources:
   - 2024-09-15 step-out-and-possess-the-land
   - 2024-10-13 the-key-to-prospering-in-all-things
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The fighting is over, and seven tribes have not moved in.
@@ -113,6 +113,26 @@ is possible that camping is easier.
 Asher lived among the Canaanites instead.* See the note on Judges 1:27–36.
 
 Judges opens with a list of what was not taken, and the rest of the book is what came of it.
+
+## What the effort is for
+
+*"**How long will you hold back** from going in to possess the land which the LORD God of your
+fathers has given you?"*
+
+The war is over. Seven tribes are camped inside a country already handed to them, and have not
+moved into their portions.
+
+*Let us therefore **be diligent to enter that rest**, lest anyone fall according to the same
+example of disobedience.*
+
+Hebrews builds a deliberately strange sentence out of it — labour, to enter into rest. The only
+exertion it names is the exertion of stopping and taking what is there.
+
+## Where the tent is pitched
+
+*The whole congregation assembled at **Shiloh**, and set up the tabernacle of meeting there.*
+
+The tent goes up first, and the question about the unclaimed land is asked from in front of it.
 
 > **The question.** Not *is the land dangerous* — *how long are you slack?* The war is over and
 > seven tribes are camped in a country that has already been given to them.

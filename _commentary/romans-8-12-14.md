@@ -37,6 +37,41 @@ which names who is doing the work through them.
 Paul has already ruled out the alternative at length: the law could not manage it,
 and neither could he, as chapter 7 records in painful detail.
 
+## The sentence he goes on to
+
+*For **you did not receive the spirit of bondage again to fear, but you received the Spirit of
+adoption by whom we cry out, "Abba, Father."***
+
+The next verse, and it is the answer to any reading of *putting to death the deeds of the body* that
+turns it into a programme.
+
+*The Spirit Himself bears witness with our spirit that we are children of God, **and if children,
+then heirs — heirs of God and joint heirs with Christ**.*
+
+**Paul** puts the obligation and the sonship in consecutive sentences, and the sonship is the ground
+rather than the reward.
+
+## Who does the putting to death
+
+*If **by the Spirit** you put to death the deeds of the body, you will live.*
+
+**Pneumati** — by the Spirit, in the instrumental case. The agency is named in the sentence, and it
+is not the person's willpower.
+
+*For **it is God who works in you both to will and to do** for His good pleasure.*
+
+*Being confident of this very thing, that **He who has begun a good work in you will complete it**
+until the day of **Jesus Christ**.*
+
+## What the chapter opens and closes with
+
+*There is therefore now **no condemnation** to those who are in **Christ Jesus**.*
+
+*Nor height nor depth, nor any other created thing, shall be able to **separate us from the love of
+God which is in Christ Jesus our Lord**.*
+
+Everything in between, including this paragraph, sits inside those two brackets.
+
 > **The line that follows.** *All who are led by the Spirit of God are the sons
 > of God* — and then Paul goes immediately to adoption, Abba and inheritance. He
 > raises the leading in order to prove sonship, not to test it. See the note on

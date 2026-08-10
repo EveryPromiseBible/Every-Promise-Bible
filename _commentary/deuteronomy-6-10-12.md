@@ -7,7 +7,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2024-01-14 the-year-of-living-in-the-upper-room
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Moses lists what they are about to inherit, and every item has the same clause
@@ -76,6 +76,28 @@ Then this: and when you get the cities you did not build, do not forget.
 ## What is asked
 
 Only remembering. There is no work in the passage.
+
+## Where the same sentence turns up
+
+*"I sent you to reap that for which you have not labored; **others have labored, and you have
+entered into their labors**."*
+
+Jesus said it to disciples at a well in Samaria, and it is the clause from this passage in a
+different setting. Cities you did not build, wells you did not dig — and a harvest you did
+not work for.
+
+*For **what do you have that you did not receive**? Now if you did indeed receive it, why do
+you boast as if you had not received it?*
+
+## What is actually asked of them
+
+Nothing but remembering.
+
+There is no work anywhere in the paragraph. Four things they did not do, and one instruction:
+do not forget the One who brought you out of the house of slavery.
+
+And notice how He describes Himself. Not *the One giving you these cities* — the earlier act,
+the one nobody could have earned.
 
 > **The other thing Moses tells them to say.** When your son asks what the testimonies
 > mean, *you shall say to your son: "**We were slaves of Pharaoh in Egypt, and the LORD

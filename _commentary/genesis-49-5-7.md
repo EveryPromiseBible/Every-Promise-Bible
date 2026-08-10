@@ -3,7 +3,7 @@ key: Genesis 49:5–7
 title: Simeon and Levi — the anger, not the men
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The only curse in the chapter, and it is aimed carefully.
@@ -69,6 +69,37 @@ Reuben, unstable. Simeon and Levi, violent.
 The first three sons in the chapter, and the whole natural man is in them.
 
 Then Judah.
+
+## What happened to the curse
+
+*"I will **divide them in Jacob and scatter them in Israel**."*
+
+Said over Simeon and Levi for what they did at Shechem, and it is a sentence of dispersal.
+Neither tribe will hold a block of territory of its own.
+
+It came true exactly. Simeon's allotment is swallowed inside Judah's, and Levi is given no land
+at all.
+
+## What Levi was given instead
+
+*The LORD is their inheritance.*
+
+Levi is scattered through every tribe — forty-eight cities dotted across the whole country — and
+the reason is that they are the priests. They carry the ark, serve the altar, teach the law and
+bless the people, and they live everywhere because everybody needs one nearby.
+
+The curse was *scattered in Israel*. The fulfilment was a priesthood in every town.
+
+## What that is
+
+The sentence was not lifted, revoked or apologised for. It was kept, to the letter, and turned
+into the thing the tribe is remembered for.
+
+*And He Himself gave some to be apostles, some prophets… **for the equipping of the saints for
+the work of ministry**.*
+
+Aaron is a Levite. Moses is a Levite. The tribe under a curse for violence produces the man who
+stands between God and the people on the Day of Atonement.
 
 > **What Jacob says he will not do.** *"Let me not enter their council; let me not
 > join their gathering."* He will not be associated with the decision. He had said

@@ -5,7 +5,7 @@ sources:
   - 2026-01-11 the-year-of-much-more
   - 2026-01-18 pray-for-the-much-more
   - 2026-03-01 silence-the-enemys-accusations
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Every verb in the hard middle of this psalm has God as its subject.
@@ -111,6 +111,38 @@ Promises made in the fire, kept afterwards.
 *Blessed be God, who has not turned away my prayer, nor **His mercy from me**.*
 
 **Chasdo** — His **chesed**.
+
+## Where the psalm goes
+
+*You brought us into the net; You laid affliction on our backs… **We went through fire and
+through water; but You brought us out to rich fulfilment**.*
+
+The Hebrew is **revayah** — saturation, overflow. The place they arrive at is not merely dry
+land.
+
+Every verb in the passage is His, including the hard ones. The psalm does not divide the
+episode between an enemy who caused it and a God who rescued from it.
+
+## Refined as silver
+
+*For You, O God, have tested us; **You have refined us as silver is refined**.*
+
+*That the genuineness of your faith, being much more precious than gold that perishes, **though
+it is tested by fire**, may be found to praise, honour and glory **at the revelation of Jesus
+Christ**.*
+
+**Peter** uses the same metallurgy and names what it is being kept for.
+
+## Who else went through both
+
+*All passed through the sea… and were all baptised into Moses in the cloud and in the sea.* See
+the note on 1 Corinthians 10:1–5.
+
+Water first, and later the fire on the mountain. The nation this psalm belongs to went through
+both literally.
+
+*"When you pass through the waters, I will be with you… when you walk through the fire, you
+shall not be burned."*
 
 > **The subject of the verbs.** *You brought us into the net. You laid burdens on our backs. You let
 > men ride over our heads.* And the same *You* is what brought them out the other side.

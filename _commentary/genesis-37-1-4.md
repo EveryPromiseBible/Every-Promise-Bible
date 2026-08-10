@@ -3,7 +3,7 @@ key: Genesis 37:1–4
 title: The coat
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Four verses of setup, and every one of them adds a reason for what happens next.
@@ -102,6 +102,21 @@ He is now deceived by his sons with a goat.
 *They could not speak a kind word to him.*
 
 Genesis reports the silence before it reports anything they did.
+
+## The beloved son, hated for being loved
+
+*Israel loved Joseph more than all his other sons.* And two verses later: *they hated him.*
+
+The second clause is caused by the first. He is not hated for anything he withheld from
+them. He is hated for being loved by his father.
+
+*They hated Me without a cause* — the line out of the Psalms that Jesus took and said over
+Himself. See the note on John 15:22–25.
+
+And the voice at the Jordan, before a word of ministry: *This is **My beloved Son**, in whom
+I am well pleased.* The last of Genesis's ten **toledot** headings opens on a father's
+beloved son, a robe that marks him out, and ten brothers who cannot bring themselves to say
+*shalom* to him.
 
 > **What the garment said.** Long sleeves and a long hem — the clothing of somebody who does
 > not work, handed to one of eleven working sons.

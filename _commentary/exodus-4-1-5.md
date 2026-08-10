@@ -4,7 +4,7 @@ title: What is that in your hand
 sources:
   - 2021-04-04 stand-on-favor-ground
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 God answers an objection by asking about an object.
@@ -99,6 +99,40 @@ boy's five loaves and two fish, a widow's handful of meal, a jar with a little o
 See the note on 2 Kings 4:1–7.
 
 Elisha asks the widow the same kind of question — *what do you have in the house?*
+
+## The serpent, and where it goes
+
+**Nachash** — the word from the garden. The thing that ruined everything is on the ground in
+front of him, and he runs from it. See the note on Genesis 3:1–5.
+
+Then: *reach out and take it by the tail.*
+
+He is told to pick up the serpent, and in his hand it stops being one.
+
+## The one lifted up
+
+*And the LORD said to Moses, "**Make a fiery serpent, and set it on a pole**; and it shall be
+that everyone who is bitten, when he looks at it, shall live."* See the note on
+Numbers 21:8–9.
+
+A serpent, on a pole, and looking at it is the whole of the cure.
+
+*And **as Moses lifted up the serpent in the wilderness**, even so must the Son of Man be
+lifted up, that whoever believes in Him should not perish but have eternal life.* See the
+note on John 3:14–18.
+
+Jesus picks that image for Himself, of everything in the wilderness He could have chosen —
+the manna, the rock, the cloud. He takes the serpent on the pole.
+
+*For He made Him who knew no sin **to be sin for us**.*
+
+## The staff and the tree
+
+A dead piece of wood in a shepherd's hand, thrown down and taken up again, and from that
+point it is called *the rod of God*. It splits a sea, strikes a rock, and is held out over a
+battle all day.
+
+Everything Exodus does, it does through a piece of wood somebody was told to let go of.
 
 > **What was asked.** Not *do you believe*, and not *what do you need*. *What is that in
 > your hand* — and the answer was a stick he had been leaning on for forty years.

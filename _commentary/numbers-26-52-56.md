@@ -3,7 +3,7 @@ key: Numbers 26:52–56
 title: Measured out, and drawn by lot
 sources:
   - 2018-10-14 boldness-to-inherit-every-blessing
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The land is about to be divided, and God gives two instructions that look as
@@ -36,6 +36,32 @@ specifically so the land can be divided among them.
 
 So the whole exercise is forward-looking. They are being numbered for an
 inheritance, before a single boundary stone has been placed.
+
+## What the lot takes away
+
+The size rule makes it fair. The lot makes it impossible to arrange.
+
+No tribe can lobby for the fertile valleys, no elder can trade for the coast, and Moses
+cannot reward anybody. *The lot is cast into the lap, but its every decision is from the
+LORD.*
+
+## Who is being counted
+
+The second census, at the end of the forty years. These are the people who will actually
+cross, and they are being numbered **for an inheritance** before a boundary stone has been
+laid.
+
+*In Him also **we have obtained an inheritance**, being predestined according to the purpose
+of Him who works all things according to the counsel of His will.*
+
+The Greek is **eklerothemen** — we were assigned by lot. Paul reaches for this exact
+procedure.
+
+*Giving thanks to the Father, who has **qualified us to be partakers of the inheritance of
+the saints in the light**.*
+
+Qualified by Him, allotted by Him, and the portion was decided before anybody arrived to
+argue about it.
 
 > **What comes next.** The very next paragraph is the daughters of Zelophehad
 > coming forward — because a distribution had just been announced that had no

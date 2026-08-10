@@ -12,7 +12,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2023-08-13 keys-to-a-spirit-filled-life
   - 2023-10-22 put-on-gods-armor-in-the-evil-day-part-2
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 One verse, and everything in it turns on a single preposition.
@@ -69,6 +69,34 @@ flock. The **staff** is the crook, for guiding and lifting a sheep out of a plac
 it has got itself into.
 
 One is used on the enemy, one on the sheep, and both are listed as comfort.
+
+## What is not in the sentence
+
+A request. *I will fear no evil, **for You are with me**.*
+
+The reason given is not that the valley is short, or that the shepherd will explain it. It is
+company.
+
+*"**Lo, I am with you always**, even to the end of the age."*
+
+## Where the pronoun changes
+
+Up to this verse the psalm talks *about* Him — He makes, He leads, He restores. In the valley
+it turns: *You are with me. Your rod and Your staff.*
+
+The shepherd stops being a subject and becomes the person being addressed, and it happens in
+the dark.
+
+## Who went through it first
+
+*"**My God, My God, why have You forsaken Me?**"*
+
+The one place in Scripture where the company failed, so that the promise in this verse could
+stand for everybody else.
+
+*For He Himself has said, "**I will never leave you nor forsake you**."*
+
+**Hebrews** stacks the negatives so heavily the Greek barely renders.
 
 > **What is on the other side of the valley.** *You prepare a table before me in
 > the presence of my enemies.* He does not clear the room first. The enemies are

@@ -78,6 +78,45 @@ prosper.
 
 The famous line is the conclusion, not the premise.
 
+## Whose righteousness it is
+
+*This is their vindication, and **it comes from Me**.* **Tsedaqah**, and the last three words hold
+the verse up.
+
+*And **be found in Him, not having my own righteousness**, which is from the law, but that which
+is through faith in **Christ** — the righteousness which is from God by faith.*
+
+**Paul** in **Philippians** 3, having just listed his entire religious record and called it loss.
+
+*For He made Him who knew no sin to be sin for us, **that we might become the righteousness of God
+in Him**.*
+
+## The tongue that rises
+
+*Every tongue that rises to accuse you, you will prove wrong.* A courtroom verb, and the only
+active thing in the verse.
+
+*Who shall bring a charge against God's elect? **It is God who justifies.** Who is he who
+condemns? **It is Christ who died**, and furthermore is also risen, who is even at the right hand
+of God, who also makes intercession for us.*
+
+**Romans** 8 answers the accusation with four facts about one Person and does not argue the
+defendant's case at all.
+
+*"Now salvation, and strength, and the kingdom of our God… have come, for **the accuser of our
+brethren, who accused them before our God day and night, has been cast down**."*
+
+**Revelation** names the tongue.
+
+## The inheritance
+
+**Nachalah** — the family portion, received because of who you belong to.
+
+*And if children, then heirs — heirs of God and **joint heirs with Christ**.*
+
+*To an inheritance incorruptible and undefiled and that does not fade away, **reserved in heaven
+for you**, who are kept by the power of God through faith.*
+
 > **What the servants have.** Not immunity from being shot at. An inheritance, and a
 > righteousness that came from somewhere else, and a promise about outcomes rather
 > than about weather.

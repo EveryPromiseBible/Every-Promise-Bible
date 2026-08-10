@@ -6,7 +6,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-05-30 the-key-to-victorious-living
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 One of the bluntest sentences God says to anyone in the Old Testament, and He
@@ -39,6 +39,20 @@ of it will belong to the tribes and to the years after him.
 That is stated in the middle of the list of what remains. The unfinished part is
 not handed over as a burden — it is handed over with the promise that the work
 is God's, and the tribes' part is to go and live in what is theirs.
+
+## Given, and not yet entered
+
+*"You've grown old, and **there is still so much land left**."*
+
+The whole country had been deeded to Abraham. Joshua's own book says the land was taken. And
+God tells an old man, in the same book, that most of it is not lived in.
+
+*That the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of
+wisdom and revelation in the knowledge of Him… that you may know what is **the hope of His
+calling**, what are **the riches of the glory of His inheritance in the saints**.*
+
+Paul prays that for people who already have the inheritance. The prayer is not that they would
+be given more — it is that they would find out what they were given.
 
 > **The tension the book leaves standing.** Joshua says the land was taken;
 > Judges opens with a long account of what was not. Both are in the canon and

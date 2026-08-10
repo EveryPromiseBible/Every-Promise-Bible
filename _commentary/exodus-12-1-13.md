@@ -15,7 +15,7 @@ sources:
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2025-09-21 transformed-by-beholding-jesus
   - 2026-05-17 license-to-live-holy-versus-license-to-sin
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The most important sentence in the passage is the one that says who the mark was
@@ -82,6 +82,6 @@ tells you how the event was to be reckoned: not one night among others, but the
 point everything is counted from.
 
 > **The word Passover.** *Pesach* — to pass over, and possibly also to hover or
-> to shield. Both senses have been argued from the same root, and Isaiah uses the
-> word of the LORD protecting Jerusalem like a bird over its nest. Either way the
+> to shield. The root carries both, and Isaiah uses the word of the
+> LORD shielding Jerusalem like a bird over its nest. Either way the
 > action belongs to God at the door, not to the people behind it.

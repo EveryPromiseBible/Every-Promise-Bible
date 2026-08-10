@@ -47,6 +47,40 @@ understands walks straight ahead* rather than blurting.
 season-word proverb comes directly after it — which suggests the good answer is
 often somebody else's, arriving when you needed it.
 
+## Where the fattened calf is killed
+
+The proverb says greens with love beat a fattened calf with hatred. It never imagines the
+third option.
+
+*"Bring the fatted calf here and kill it, and let us eat and be merry; for **this my son was
+dead and is alive again**."*
+
+**Luke**'s father runs, kisses a son who has just rehearsed a speech about being unworthy,
+and kills the best animal on the property. That is the fattened calf and the love at the same
+table, which Proverbs 15 does not have a category for.
+
+The son had prepared to negotiate for the greens. He was seated at the calf.
+
+## The word in season
+
+*A **word in season**, how good it is.*
+
+*"The Lord GOD has given Me **the tongue of the learned, that I should know how to speak a
+word in season to him who is weary**. He awakens Me morning by morning."*
+
+**Isaiah**'s servant is given exactly what the proverb praises, and the New Testament reads
+those four songs as descriptions of **Jesus**. The right thing at the right hour is not
+listed among His skills — it is listed among the things He was given.
+
+*Never did a man speak like this Man.*
+
+## The gentle answer
+
+*A gentle answer turns away wrath.*
+
+*Who, when He was reviled, **did not revile in return**; when He suffered, He did not
+threaten, but committed Himself to Him who judges righteously.*
+
 > **How to use a run like this.** Proverbs 15 is a chapter of contrasts about
 > speech: a gentle answer turning away wrath at the top, a soothing tongue as a
 > tree of life in the middle, and the word in season at the end. Read the chapter

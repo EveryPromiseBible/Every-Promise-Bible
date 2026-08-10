@@ -3,7 +3,7 @@ key: 2 Samuel 6:1–5
 title: A brand-new cart
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Everything about the first attempt is generous, expensive and sincere.
@@ -102,6 +102,43 @@ shoulders, sacrifices, and a linen ephod. See the note on 2 Samuel 6:12–15.
 The second procession is described with the same word as the first.
 
 Nothing about the joy needed correcting.
+
+## Where they got the idea
+
+From the Philistines.
+
+A new cart and two cows is exactly what the Philistines did with the ark twenty years earlier,
+and it worked — it came home. See the note on 1 Samuel 6:10–12.
+
+It worked for them because they did not have the instructions.
+
+## What the law actually specified
+
+*"**The sons of Kohath shall come to carry them**, but **they shall not touch any holy
+thing**, lest they die."*
+
+Poles through rings, on the shoulders of men, and the poles were never to come out — the ark
+was permanently ready to be carried and never to be wheeled. See the note on
+Exodus 25:10–16.
+
+## What the new cart is
+
+A right intention, executed by a method borrowed from people who did not know God.
+
+Thirty thousand men, harps, tambourines, cymbals and genuine joy — and a piece of farm
+equipment where six shoulders should have been.
+
+Paul says it of a zeal that was real and misdirected: *being ignorant of God's righteousness,
+and **seeking to establish their own righteousness**, they have not submitted to the
+righteousness of God.*
+
+## What David does the second time
+
+*"Because **you did not do it the first time**, the LORD our God broke out against us, for we
+did not consult Him **about the proper order**." And **the Levites bore the ark of God on
+their shoulders**, by its poles, as Moses had commanded.*
+
+Three months later, and the correction is not more sincerity. It is shoulders.
 
 > **What was new.** The cart. Israel spent money on the one part of the arrangement that had
 > been specified for centuries, and copied it from people who had been guessing.

@@ -3,7 +3,7 @@ key: Esther 3:12–15
 title: Letters sealed with the king's ring
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The genocide is not a mob. It is paperwork, properly filed, in every language of
@@ -59,6 +59,33 @@ The writer sets the two clauses in one line and lets them stand.
 This is the low point of the book. There is no God named, no prophet, no army, no
 appeal — a sealed law that cannot be revoked, and the men who wrote it are
 drinking.
+
+## The date the lot falls on
+
+Haman throws the **pur** and it lands on the thirteenth of Adar — eleven months away.
+
+He thinks he has chosen a lucky date. What he has actually done is give the people he intends
+to destroy almost a year to be rescued.
+
+*The lot is cast into the lap, but **its every decision is from the LORD**.*
+
+## What the month is
+
+The decree goes out in **Nisan** — the first month, the month of Passover.
+
+The letters commanding the destruction of the Jews are sealed and sent in the week their
+nation remembers being brought out of Egypt by blood on a doorpost.
+
+*For indeed **Christ, our Passover, was sacrificed for us**.*
+
+## How the chapter closes
+
+*The king and Haman **sat down to drink**, but the city of Susa was perplexed.*
+
+Two men at a table over a death warrant, and a city outside that cannot make sense of it.
+
+*Then they sat down to eat* — the brothers, a few yards from Joseph in the pit. See the note
+on Genesis 37:25–28.
 
 > **What the reader knows and Susa does not.** Nisan is the month of Passover.
 > The decree ordering the destruction of the Jews was written on the day before

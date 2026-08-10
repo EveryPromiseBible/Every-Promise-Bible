@@ -4,7 +4,7 @@ title: He strengthened himself
 sources:
   - 2024-02-18 how-to-be-led-by-the-lord
   - 2024-10-20 the-healing-power-of-gods-word
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The worst day of David's life, in one verse.
@@ -110,6 +110,33 @@ spoil or anything which they had taken**.* See the note on 1 Samuel 30:16–20.
 yet praise Him**.* See the note on Psalms 42:9–10.
 
 A man talking to himself, which is what the reflexive verb describes.
+
+## What was gone
+
+The town burned, the wives and children carried off, his own two wives among them, and six
+hundred men who had followed him for years talking about stoning him.
+
+He had nothing left to draw on outside himself, and nothing inside himself either — *David was
+greatly distressed*.
+
+## What he took hold of
+
+*But **David strengthened himself in the LORD his God**.*
+
+The Hebrew is reflexive, and the object is not himself. He does not find resources in David.
+He takes hold of God.
+
+Paul: *finally, my brethren, **be strong in the Lord and in the power of His might**.*
+
+*Not that we are sufficient of ourselves to think of anything as being from ourselves, but
+**our sufficiency is from God**.*
+
+## The next verb
+
+*"Please bring the ephod here to me."* See the note on 1 Samuel 30:7–10.
+
+The strengthening is not a feeling he works up. The next verb is asking, and the verb after
+that is going.
 
 > **The verb.** Reflexive. Nobody strengthened him — no prophet, no friend, and Samuel already
 > dead. He did it to himself, and the verse names what he did it from.

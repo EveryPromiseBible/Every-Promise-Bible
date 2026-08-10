@@ -4,7 +4,7 @@ title: Your children's children
 sources:
   - 2021-10-17 gods-heart-for-your-family
   - 2022-05-08 own-your-new-creation-identity
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The last two verses widen from a table to a nation.
@@ -90,6 +90,41 @@ And in the middle: *behold, thus shall the man be blessed who fears the LORD*.
 
 Said at the beginning and again at the halfway point, and then these two verses spell out
 what it comes to.
+
+## What the blessing reaches
+
+*May you **see your children's children**. Peace be upon Israel!*
+
+Three generations, and then the nation. The psalm is domestic all the way through — a wife, a
+table, olive shoots round it — and its last line widens to a country.
+
+## Where the same shape is used
+
+*"For **the promise is to you and to your children, and to all who are afar off**, as many as
+the Lord our God will call."*
+
+**Peter**, on the day the Spirit came. Three categories, and the third is everybody outside the
+room.
+
+## Which direction it arrives from
+
+*The LORD **bless you out of Zion**.*
+
+Not out of the household's arrangements. The blessing on the table and the children is
+described as coming from somewhere else and arriving.
+
+*But you have come to **Mount Zion**… to Jesus the Mediator of the new covenant, and to the
+blood of sprinkling.* See the note on Hebrews 12:18–24.
+
+**Hebrews** relocates the address the blessing is sent from, and puts a Person at it.
+
+## The last two words
+
+*Peace be upon Israel.*
+
+**Shalom.** A song about a man's dinner table ends with a benediction over a nation.
+
+*For **He Himself is our peace**, who has made both one.*
 
 > **The last thing asked for.** Grandchildren — the one item on the list that no amount of
 > work secures, and the psalm ends by widening past it to the whole country.

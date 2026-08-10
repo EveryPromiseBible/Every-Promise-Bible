@@ -3,7 +3,7 @@ key: Numbers 16:1–15
 title: "You take too much on yourselves"
 sources:
   - 2020-05-24 find-power-in-his-presence
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The complaint is made in the language of a compliment to everybody else.
@@ -97,6 +97,28 @@ than to them.
 
 Samuel says almost the same words at the end of his life: *whose ox have I taken, or
 whose donkey have I taken?*
+
+## What the quarrel was really about
+
+The priesthood. Korah already had the nearness — he carried the ark on his shoulders — and what
+he wanted was the office.
+
+*And **no man takes this honor to himself**, but he who is called by God, just as Aaron was. So
+also **Christ did not glorify Himself to become High Priest**, but it was He who said to Him,
+"You are My Son, today I have begotten You."*
+
+Hebrews makes Korah's exact point and settles it the opposite way. Nobody appoints himself to
+this, and the argument is closed by pointing at Someone who did not appoint Himself either.
+
+## Where Korah's name ends up
+
+*Woe to them! For they have gone in the way of Cain, have run greedily in the error of Balaam for
+profit, and **perished in the rebellion of Korah**.*
+
+Jude lists him with Cain and Balaam.
+
+And yet — *nevertheless **the children of Korah did not die***. Eleven psalms carry their name,
+including *as the deer pants for the water brooks*. See the note on Numbers 16:16–35.
 
 > **What the whole quarrel is about.** Access. Korah, who carried the holy things,
 > wanted to burn the incense — and Moses answers by handing out two hundred and fifty

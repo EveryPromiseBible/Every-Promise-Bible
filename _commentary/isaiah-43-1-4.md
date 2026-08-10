@@ -129,5 +129,44 @@ your sins."* See the note on Isaiah 43:25–28.
 And *"behold, I will do a new thing… **I will even make a road in the wilderness and rivers in the
 desert**."* See the note on Isaiah 43:18–19.
 
+## Called by name
+
+*I have called you by name. You are Mine.*
+
+*"**He calls his own sheep by name** and leads them out… and the sheep follow him, for they know
+his voice."*
+
+*Jesus said to her, "**Mary!**" She turned and said to Him, "Rabboni!"*
+
+**John** 20. She had been standing in front of Him and had not known who He was. One word, and it
+was her name.
+
+## The ransom
+
+*I gave Egypt for your ransom.* **Kofreka** — the covering price.
+
+*"For even the Son of Man did not come to be served, but to serve, and **to give His life a ransom
+for many**."*
+
+**Mark**'s word is **lytron**, the price paid to free a slave. Isaiah has nations put on the scale
+against one people; the gospel has one Man put on it against everybody.
+
+*Knowing that you were not redeemed with corruptible things, like silver or gold… but with **the
+precious blood of Christ**.*
+
+**Peter** uses the adjective Isaiah uses of the people — **timio**, costly. In Isaiah 43 they are
+what is precious; in **1 Peter** it is what was paid for them.
+
+## Precious in My eyes
+
+*You are precious in My eyes, and honoured, and **I love you**.*
+
+*For **you were bought at a price**; therefore glorify God in your body.*
+
+*But God demonstrates His own love toward us, in that **while we were still sinners, Christ died
+for us**.*
+
+The reason underneath the reason, in both books, is not what the people were like.
+
 > **The preposition.** Through the waters, through the rivers, through the fire. Nothing in the
 > promise removes any of the four.

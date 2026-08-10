@@ -42,8 +42,47 @@ God's own.
 Strong as death, unquenchable by the flood, not for sale. Three of the largest
 forces anyone knows, and love outlasts all three.
 
-> **How the church has read it.** The Song is a love poem and it is not
-> embarrassed about that. It has also been read from the earliest times as
-> describing God's love for His people — and this passage is why: language this
-> absolute, with His own name burning at the centre of it, is doing more than
-> describing an engagement.
+## The seal, and who wears it
+
+*Set me as **a seal upon your heart**, as a seal upon your arm.*
+
+She asks to be the seal. The New Testament reverses the direction and gives her one.
+
+*In Him also, having believed, **you were sealed with the Holy Spirit of promise**, who is the
+guarantee of our inheritance until the redemption of the purchased possession.*
+
+**Paul**'s word for the seal is **sphragizo** and his word for the guarantee is **arrabon** — the
+down payment, the engagement deposit. He is using the vocabulary of a betrothal.
+
+*Now He who establishes us with you in **Christ** and has anointed us is God, **who also has
+sealed us** and given us the Spirit in our hearts as a guarantee.*
+
+## Strong as death
+
+*Love is **strong as death**.* The Song's largest claim, and it stops at a draw.
+
+*"**I am He who lives, and was dead, and behold, I am alive forevermore.** Amen. And I have the
+keys of Hades and of Death."*
+
+*O Death, where is your sting? O Hades, where is your victory?… **thanks be to God, who gives us
+the victory through our Lord Jesus Christ**.*
+
+**Revelation** and **1 Corinthians** move the verdict past *as strong as*. The Song could not
+say more than a tie, because at the time nobody had come back.
+
+## What could not be bought
+
+*If a man offered **all the wealth of his house** for love, it would be utterly scorned.*
+
+*Knowing that you were **not redeemed with corruptible things, like silver or gold**… but with
+**the precious blood of Christ**, as of a lamb without blemish and without spot.*
+
+**Peter** agrees with the Song exactly: the house full of wealth would have been despised. And
+then he names what was paid instead, which was not money.
+
+The Song says love cannot be purchased. **1 Peter** says a price was paid anyway, and that it
+was not the kind of price the verse rules out.
+
+> **The name in the fire.** *Shalhevetyah* — a flame with the divine name on the end of it, the
+> one place God is named in the book. And the one thing the Song says cannot be bought is the
+> thing Peter says was bought — not with silver, but with the blood of a Lamb.

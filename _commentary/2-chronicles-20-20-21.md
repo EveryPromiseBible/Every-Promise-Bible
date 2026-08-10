@@ -8,7 +8,7 @@ sources:
   - 2025-07-06 radiant-with-his-glory
   - 2026-01-11 the-year-of-much-more
   - 2026-07-19 weapons-in-times-of-adversity
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 An army marches out to a battle it has been told it will not fight, with the choir
@@ -80,6 +80,51 @@ against us, nor do we know what to do — **but our eyes are upon You**.*
 
 He admitted no strength, no plan and no idea, in public, in front of the whole
 assembly with their wives and children standing there.
+
+## What he tells them to believe
+
+*"**Believe in the LORD your God, and you shall be established; believe His prophets, and you
+shall prosper.**"*
+
+The Hebrew is a play on one root: **ha'aminu… te'amenu** — believe, and you will be made firm.
+It is the root of **amen**.
+
+He does not tell them to be brave, or to fight well. He tells them to believe, and the promise
+attached is stability.
+
+*So then **faith comes by hearing**, and hearing by the word of God.*
+
+## Who goes first
+
+*And when he had consulted with the people, **he appointed those who should sing to the LORD,
+and who should praise the beauty of holiness, as they went out before the army**.*
+
+Singers in front of the infantry. Unarmed men, in temple robes, walking ahead of the soldiers
+toward an army that outnumbered them.
+
+## The one line of the song
+
+*"**Praise the LORD, for His mercy endures forever.**"*
+
+One line. It is the refrain of Psalm 136, where it is repeated twenty-six times, and the whole
+theology of the choir is in the second half of it — **chesed le'olam**, His covenant love has
+no end.
+
+They do not sing about the battle. They sing about His character.
+
+## The moment it turned
+
+*Now **when they began to sing and to praise**, the LORD set ambushes against the people of
+Ammon, Moab, and Mount Seir.*
+
+At the beginning of the singing, not the end. Nothing had been achieved yet.
+
+*And at midnight **Paul** and Silas were praying and singing hymns to God, and the prisoners
+were listening to them. Suddenly there was a great earthquake, so that the foundations of the
+prison were shaken.*
+
+Two accounts of singing in an impossible position, and in both the ground moves while the song
+is still going.
 
 > **What the word had been.** *You will not even need to fight this battle. Take your
 > positions, stand still, and watch the salvation of the LORD.* The same instruction

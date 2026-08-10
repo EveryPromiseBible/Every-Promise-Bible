@@ -102,5 +102,50 @@ Zechariah, prophesied to the Jews… and they built and finished it***.
 
 The book of Ezra records that the building resumed because two men preached.
 
+## The word they used
+
+*"**The time has not come yet.**"* **Lo et-bo.**
+
+*But when **the fullness of the time had come**, God sent forth His Son, born of a woman, born
+under the law, to redeem those who were under the law.*
+
+**Galatians** 4, and **Paul**'s phrase is **to pleroma tou chronou**. God kept a calendar too, and
+the one date He was working to arrived without anybody voting on the conditions.
+
+*"**Behold, now is the accepted time; behold, now is the day of salvation.**"*
+
+**2 Corinthians** 6, and it is a quotation of Isaiah 49. **Paul**'s two adverbs are **nyn** — now,
+twice in one sentence.
+
+*Therefore, as the Holy Spirit says: "**Today, if you will hear His voice, do not harden your
+hearts**"… but exhort one another daily, while it is called "Today."*
+
+**Hebrews** 3 makes the postponement itself the danger. Not refusal — delay, with the word *today*
+in the sentence.
+
+## What was said before a stone moved
+
+*"**I am with you**," says the LORD.*
+
+Four words, delivered to people who had done nothing yet and had been doing nothing for sixteen
+years.
+
+*"And lo, **I am with you always**, even to the end of the age."*
+
+**Matthew**'s last sentence, given to men who had run away a few weeks earlier and one of whom is
+recorded as still doubting in the verse before it.
+
+## And the house that was being argued about
+
+*"The glory of this latter temple shall be greater than the former."*
+
+*Jesus answered and said to them, "**Destroy this temple, and in three days I will raise it up**"…
+But **He was speaking of the temple of His body**.*
+
+**John** 2, and the men He said it to answered that the building had taken forty-six years. The
+greater glory Haggai promised the second temple walked into it as a Person.
+
+*Do you not know that **you are the temple of God** and that the Spirit of God dwells in you?*
+
 > **What they said.** Not *no* — *not yet*. And they had been saying it for sixteen years with the
 > word *yet* still in the sentence.

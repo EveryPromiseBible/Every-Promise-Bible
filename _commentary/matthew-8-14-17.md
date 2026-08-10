@@ -48,6 +48,53 @@ of them healed.
 
 Nobody in these scenes is turned away, and no one is told they did not qualify.
 
+## The verse Matthew quotes, and where the rest of the world quotes it
+
+*"**He Himself took our infirmities and bore our sicknesses.**"*
+
+Matthew 8:17, quoting Isaiah 53:4, and the two Hebrew verbs are **nasa** — to lift and carry away
+— and **sabal**, to bear a load on the back.
+
+**Matthew** applies it to an evening of healings at a doorway in Capernaum. **Peter** applies the
+next verse of the same chapter to a cross:
+
+*Who Himself **bore our sins in His own body on the tree**, that we, having died to sins, might live
+for righteousness — **by whose stripes you were healed**.*
+
+The chapter is quoted in both directions and by both writers, and neither cancels the other. See
+the note on Isaiah 53:4–6.
+
+## What the verbs mean
+
+Not *He cured them*. **Nasa** and **sabal** are transfer verbs: something is picked up and carried
+off by somebody else.
+
+*Surely He has borne our griefs and carried our sorrows… and **the LORD has laid on Him the iniquity
+of us all**.*
+
+*For **He made Him who knew no sin to be sin for us**, that we might become the righteousness of God
+in Him.*
+
+## The evening
+
+*When evening had come, they brought to Him many who were demon-possessed… and **He healed all who
+were sick**.*
+
+**Pantas** — all. **Matthew** does not report a selection, a queue turned away, or a condition
+attached.
+
+*How **God anointed Jesus of Nazareth with the Holy Spirit and with power**, who **went about doing
+good and healing all who were oppressed by the devil**, for God was with Him.*
+
+**Peter**, summarising the whole ministry to a Roman centurion in **Acts** 10, uses the same word.
+
+## What He did first
+
+*So He touched her hand.*
+
+The touching is not required for the healing, and **Matthew** records it anyway — as he does with
+the leper a chapter earlier, whom nobody had been allowed to touch for years.
+
 > **The fever "let go of her."** Matthew's verb is the one used of releasing a
 > prisoner or forgiving a debt. He touches her hand and the fever lets go — and
 > the next thing she does is get up and serve. Restored, and immediately useful.

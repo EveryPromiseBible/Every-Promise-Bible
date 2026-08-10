@@ -108,5 +108,43 @@ A beach, a charcoal fire, and three questions. See the note on John 21:15–17.
 Three denials, three questions, and *feed My sheep* — said to a man who had been told, on this
 walk, that the flock would scatter.
 
+## What was prayed before the failure
+
+*"**Simon, Simon! Indeed, Satan has asked for you, that he may sift you as wheat. But I have prayed
+for you, that your faith should not fail**; and when you have returned to your brethren,
+strengthen them."*
+
+**Luke** 22, in the same conversation. The prediction of the denial and the prayer against its
+permanence are said in one breath, and the *when* in *when you have returned* is not conditional.
+
+*Therefore He is also able to save to the uttermost those who come to God through Him, since **He
+always lives to make intercession for them**.*
+
+## What was said after it
+
+*"But go, tell His disciples — **and Peter** — that He is going before you into Galilee."*
+
+**Mark** 16, and the two extra words are the angel's. Nobody else in the list is named.
+
+*Then, as soon as they had come to land, they saw a fire of coals there, and fish laid on it, and
+bread… **Simon, son of Jonah, do you love Me?**"*
+
+**John** 21. A charcoal fire — **anthrakian**, the same rare noun **John** used of the fire Peter
+warmed himself at while denying Him — and three questions for three denials.
+
+## Why the promise held
+
+*If we are faithless, **He remains faithful; He cannot deny Himself**.*
+
+**2 Timothy** 2, and the verb is the one **Matthew** uses of Peter: **arneomai**, to deny. **Paul**
+puts it on both sides of the sentence and says only one of the two parties is capable of it.
+
+*"**And I give them eternal life, and they shall never perish; neither shall anyone snatch them out
+of My hand.**"*
+
+**Jesus** predicts the desertion, prays against its permanence, announces the regathering and names
+Peter to the angel — all before a single disciple has run. Nothing in the sequence waits on their
+performance, which is what **grace** means when it is put into a narrative rather than a sentence.
+
 > **What is said in the same breath as the desertion.** *After I am raised, I will go before
 > you into Galilee.* The regathering is announced before the scattering has happened.

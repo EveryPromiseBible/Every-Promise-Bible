@@ -103,5 +103,51 @@ the note on Daniel 5:22–23.
 The document was published. The next king had it, and the sentence Daniel uses against him is that
 he knew.
 
+## The other man whose mind came back
+
+Nebuchadnezzar had been living among animals, eating what animals eat, and the sentence is *my
+understanding returned to me*.
+
+*"And he would gladly have filled his stomach with the pods that the swine ate… But **when he came
+to himself**, he said, 'How many of my father's hired servants have bread enough and to spare, and
+I perish with hunger! **I will arise and go to my father**.'"*
+
+**Luke** 15. The Greek is **eis heauton de elthon** — having come to himself. A man among animals,
+eating their food, whose mind returns — and the first thing it produces is a decision to go home.
+
+Both men are restored more than they were. The prodigal expected to negotiate for a servant's
+place and got a robe, a ring and the fatted calf.
+
+*My reason returned to me, and **my honour and splendour returned to me… and excellent majesty was
+added to me**.*
+
+## Lifting the eyes
+
+An ox's head is down. The first human thing Nebuchadnezzar does is raise it.
+
+*"And the tax collector, standing afar off, **would not so much as raise his eyes to heaven**, but
+beat his breast, saying, 'God, be merciful to me a sinner!' **I tell you, this man went down to his
+house justified** rather than the other."*
+
+**Luke** 18, and the man who cannot lift his eyes is the one who goes home right with God. The two
+scenes are not in conflict: in both, the man has stopped defending himself.
+
+## No one can stop His hand
+
+*"No one can stop His hand or say to Him, '**What are You doing?**'"*
+
+*Oh, the depth of the riches both of the wisdom and knowledge of God!… **For who has known the mind
+of the LORD? Or who has become His counsellor?***
+
+**Paul** ends eleven chapters about mercy in exactly this posture — and the chapters he ends are
+the ones that say *God has committed them all to disobedience, that He might have mercy on all.*
+
+## The everlasting kingdom
+
+*His dominion is an everlasting dominion.* Said by a man who had just lost a kingdom.
+
+*Therefore, since we are receiving **a kingdom which cannot be shaken**, let us have grace, by
+which we may serve God acceptably.*
+
 > **The order.** He lifts his eyes, and then his understanding returns. The chapter puts the looking
 > up first.

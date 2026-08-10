@@ -4,7 +4,7 @@ title: I am Joseph
 sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2024-07-28 provision-in-the-place-of-nearness
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 He clears the room before he says who he is.
@@ -135,6 +135,31 @@ Three offices, all held by a man who arrived as a slave and spent years in a pri
 day, to save many people alive."* See the note on Genesis 50:15–21.
 
 Said again, after Jacob dies and the brothers panic that he has been waiting.
+
+## "Come near to me"
+
+*"Come close to me," Joseph said. **So they came closer.***
+
+He is the second man in Egypt, they sold him into it, and the first instruction after he says
+his name is to close the distance.
+
+*But now in Christ Jesus you who once were far off **have been brought near** by the blood of
+Christ.*
+
+## What he does not do
+
+He does not punish, extract an apology, impose a term, or wait to see whether they are sorry
+enough.
+
+He names exactly what they did — *your brother, **the one you sold into Egypt*** — and in the
+same breath forbids them to carry it: *do not be distressed, and do not be angry with
+yourselves.*
+
+The offence is stated in full and the account is cancelled in the same sentence, by the only
+person with standing to press it.
+
+That is the whole shape of it, drawn in a room in Egypt with the door shut and the Egyptians
+sent outside.
 
 > **The order.** He empties the room, says his name, tells them plainly that they sold him, and
 > then forbids them to torture themselves about it — in that sequence.

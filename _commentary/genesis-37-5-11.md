@@ -3,7 +3,7 @@ key: Genesis 37:5–11
 title: Two dreams
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 Two dreams, told out loud to the worst possible audience.
@@ -112,6 +112,27 @@ Between the dreams and that sentence: a pit, a caravan, a slave market, a false 
 a prison, and two forgotten years.
 
 Nothing in the dreams warned him about any of it.
+
+## What they actually refused
+
+*"So you think you will reign over us? You think you will rule us?"*
+
+That is not a misreading. They understood the dreams exactly, and what they would not have
+was his reign.
+
+*But his citizens hated him, and sent a delegation after him, saying, "**We will not have
+this man to reign over us**."* The parable of the nobleman who went into a far country to
+receive a kingdom, and returned.
+
+And over the head of a man his own people had handed across, a placard in three languages:
+**THE KING OF THE JEWS**.
+
+## When they bow
+
+*So his brothers came and bowed low before him, their faces to the ground.*
+
+Twenty-two years, a famine, and a journey to Egypt later — and they still do not know who
+they are bowing to. See the note on Genesis 42:6–17.
 
 > **What he did with them.** Told them. Genesis records the telling twice and the hatred
 > twice, and never says the dreams were wrong.

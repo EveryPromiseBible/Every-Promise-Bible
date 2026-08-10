@@ -27,7 +27,7 @@ sources:
   - 2024-11-24 stay-near-the-scent-of-water
   - 2025-04-27 divine-provision-in-every-season
   - 2025-05-25 jesus-your-storehouse-of-wisdom
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The psalm that opens the whole book is built on a progression most readers walk
@@ -62,6 +62,41 @@ never wither.*
 Two details are easy to miss. The tree is **planted** — the Hebrew is passive,
 transplanted by someone. And the fruit comes *in its season*, which is a real
 qualification: not constantly, not on demand.
+
+## The man who never took a step of it
+
+Walk, stand, sit — three verbs going downhill, and the psalm opens the whole Psalter by
+describing a man who did none of them.
+
+There has been one.
+
+*Who committed no sin, nor was deceit found in His mouth.*
+
+*For we do not have a High Priest who cannot sympathise with our weaknesses, but One who was
+**in all points tempted as we are, yet without sin**.*
+
+## The tree, and where it ends up
+
+*He shall be like **a tree planted by the rivers of water**, that brings forth its fruit in
+its season, whose leaf also shall not wither.*
+
+Planted — **shatul**, transplanted, put there deliberately by somebody else. Not a tree that
+grew where it landed.
+
+*In the middle of its street, and on either side of the river, was **the tree of life**, which
+bore twelve fruits, each tree yielding its fruit every month. **The leaves of the tree were for
+the healing of the nations**.*
+
+The last page of the Bible has the tree of Psalm 1 standing by a river, and its leaves have a
+purpose.
+
+## How anybody else gets in
+
+*But of Him you are in **Christ Jesus, who became for us wisdom from God — and righteousness**
+and sanctification and redemption.*
+
+The blessed man of Psalm 1 is a portrait before it is an instruction. **Paul** says where the
+righteousness in it comes from.
 
 > **"Whatever that one does comes into bloom."** The line has been used to
 > promise success in any undertaking, which the psalm does not support — it is a

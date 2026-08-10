@@ -3,7 +3,7 @@ key: Genesis 14:13–16
 title: Three hundred and eighteen
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The one military campaign in Abram's life, and he fights it for a nephew who had left.
@@ -113,6 +113,18 @@ on Genesis 15:1.
 
 Said to a man who has just turned down a fortune, and who has just discovered what it feels
 like to have made an enemy of four kings.
+
+## Who he went for
+
+The nephew who took the better land, took first choice, drifted toward Sodom and moved in.
+Genesis records every step of that in chapter 13 and does not raise one of them in chapter 14.
+
+Abram is told his relative has been taken, and the next verb is that he armed his household.
+
+*For if **when we were enemies** we were reconciled to God through the death of His Son, much
+more, having been reconciled, we shall be saved by His life.*
+
+Not when we came back. Not when we admitted the plain was a mistake.
 
 > **Who he went for.** The nephew who took the better land and moved into the city. Genesis
 > records the choice in chapter 13 and does not raise it in chapter 14.

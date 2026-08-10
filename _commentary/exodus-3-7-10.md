@@ -5,7 +5,7 @@ sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2025-06-22 no-more-fear-of-death
   - 2026-01-25 reign-with-much-more
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Four hundred years of silence, and then four verbs in a row.
@@ -50,6 +50,30 @@ He does not describe it as adequate. He describes it as generous.
 Four verbs of divine action, and then the fifth verb is Moses'. The rescue God
 has just described in the first person arrives through a reluctant eighty-year-old
 with a stick.
+
+## The fourth verb
+
+Seen, heard, known — and then **I have come down**.
+
+He does not say He will send help, arrange circumstances, or raise up a movement. He says He
+is coming down Himself, and then in the same breath sends a man with a stick.
+
+Paul says it of Jesus: *who, being in the form of God… **made Himself of no reputation**,
+taking the form of a bondservant, and coming in the likeness of men.*
+
+At the bush He comes down and sends Moses. Later He comes down as the One He is sending.
+
+And the name given four verses after this is the one Jesus took for Himself in a temple
+courtyard — *before Abraham was, **I AM*** — at which they picked up stones, because everybody
+in the room knew which bush that sentence came out of. See the note on Exodus 3:13–15.
+
+## The order of the four
+
+Notice that three of them happen before anything is done about it.
+
+Four hundred years in which nothing visibly moved, and God's account of that stretch is that
+He was seeing, hearing and knowing the whole way through. The rescue is not the moment He
+started caring. It is the moment the caring surfaced.
 
 > **What is not offered.** Nowhere is Egypt made comfortable. The answer to the
 > misery is not improved conditions in the place they were in — it is out, and

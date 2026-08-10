@@ -20,7 +20,7 @@ sources:
   - 2024-09-22 claim-what-is-yours
   - 2024-11-24 stay-near-the-scent-of-water
   - 2025-11-09 live-the-heavenly-life-on-earth
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two verses at the head of the psalm, and they name four things about God in the
@@ -82,6 +82,37 @@ storm. **Metsudah** is a stronghold — a fortified place, a mountain hold, the 
 used of David's strongholds in the wilderness.
 
 Somewhere to run, and somewhere that holds.
+
+## Who is quoted in the wilderness
+
+*Then the devil took Him up into the holy city, set Him on the pinnacle of the temple, and said
+to Him, "If You are the Son of God, throw Yourself down. For it is written: '**He shall give
+His angels charge over you**.'"*
+
+The one place in Scripture where this psalm is cited by name, **Jesus** is the one it is being
+quoted at — and the quotation is accurate except for four words. *To keep you in all your
+ways* is left out.
+
+He does not argue about the psalm. He answers with a different verse: *you shall not tempt the
+LORD your God.*
+
+## What the shelter is
+
+*He who dwells in **the secret place** of the Most High shall abide under the shadow of the
+Almighty.*
+
+**Seter** — a covert, a hiding place. The word for where you put something valuable.
+
+*For you died, and **your life is hidden with Christ in God**.*
+
+**Paul** puts the believer inside the same preposition.
+
+## What the psalmist does with it
+
+*I will **say** of the LORD, "He is my refuge and my fortress."*
+
+The shelter is stated out loud. The psalm's first move is a sentence spoken about Him, before
+anything has happened.
 
 > **Who quotes this psalm.** The devil, in the wilderness, and he quotes verses 11
 > and 12 accurately — *He shall give His angels charge over you.* He leaves out the

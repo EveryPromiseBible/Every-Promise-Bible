@@ -4,7 +4,7 @@ title: "We loathe this miserable food"
 sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2023-06-25 the-cure-to-a-dissatisfied-life
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 One verse of complaint, and the last clause of it is the writer's own comment.
@@ -70,6 +70,26 @@ way.*
 
 A detour. Edom had refused them passage, so they had to go the long way round, and
 the complaint comes out of the extra miles.
+
+## What the cure was
+
+They despised the bread that had kept them alive, and what came was serpents.
+
+And the remedy was not the removal of the serpents. Moses prayed for that and it is not
+what he got. *Make a fiery serpent, and set it on a pole; and it shall be that everyone who
+is bitten, when he looks at it, shall live.* See the note on Numbers 21:8–9.
+
+The thing that was killing them, lifted up on a pole, and looking at it is the whole of the
+treatment.
+
+*And **as Moses lifted up the serpent in the wilderness**, even so must the Son of Man be
+lifted up, that whoever believes in Him should not perish but have eternal life.* See the
+note on John 3:14–18.
+
+Of every picture in the wilderness He could have taken for Himself — the manna, the rock,
+the cloud — that is the one He chose.
+
+*For He made Him who knew no sin **to be sin for us**.*
 
 > **How the same chapter ends.** With a song. *Spring up, O well! All of you sing to
 > it* — sung over a well at Beer, a few verses after the snakes. Numbers puts the

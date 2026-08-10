@@ -30,6 +30,28 @@ But he does not leave them worthless: *each will receive his own reward accordin
 to his own labour*. Not according to results. According to labour — which is the
 only part a planter or waterer controls.
 
+## Whose field it is
+
+*I planted, Apollos watered, but **God gave the increase**. So then neither he who plants is
+anything, nor he who waters, but **God who gives the increase**.*
+
+**Paul** says it twice in two verses and reduces both ministers to nothing in the middle.
+
+*"**I am the vine, you are the branches.** He who abides in Me, and I in him, bears much fruit; for
+**without Me you can do nothing**."*
+
+## What the foundation is
+
+*For **no other foundation can anyone lay than that which is laid, which is Jesus Christ**.*
+
+Four verses later, and it settles the party quarrel the chapter is about: nobody in Corinth laid
+it, and neither did **Paul**.
+
+*According to the grace of God which was given to me, as a wise master builder I have laid the
+foundation.*
+
+**Kata ten charin** — according to the grace given. Even the laying is credited elsewhere.
+
 > **The last line.** *We are fellow workers who belong to God; you are God's
 > field, God's building.* Paul flips the metaphor mid-sentence, from farm to
 > construction, and he will run with the building for the next several verses.

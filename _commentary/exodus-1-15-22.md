@@ -3,7 +3,7 @@ key: Exodus 1:15–22
 title: The midwives who feared God
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two women are named in this passage. The king of Egypt is not.
@@ -68,6 +68,16 @@ now deputised.
 
 And the Nile — the river Egypt worshipped, the source of everything they had — is
 made the instrument.
+
+## What the New Testament calls it
+
+*By faith **Moses, when he was born, was hidden three months by his parents**, because they saw
+he was a beautiful child; and **they were not afraid of the king's command**.*
+
+Hebrews puts the whole episode under one heading, and the heading is faith.
+
+Two midwives and a Levite couple, none of them in a position to refuse anything, and the roll
+call of faith has them in it beside Abraham and Moses.
 
 > **What comes of it.** *Still the people kept increasing.* Said in the middle of
 > the chapter and true at the end of it. And the very next paragraph has a Levite

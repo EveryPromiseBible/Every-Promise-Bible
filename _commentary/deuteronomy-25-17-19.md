@@ -3,7 +3,7 @@ key: Deuteronomy 25:17–19
 title: Remember Amalek
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Three verses about one nation, and the instruction opens and closes with the same
@@ -72,6 +72,29 @@ a signet ring and a decree.
 
 What is spared because it seems useful comes back with authority. See the notes on
 2 Samuel 1:5–10 and Esther 3:1–4.
+
+## Why it is fought in every generation
+
+*"The LORD will have war with Amalek **from generation to generation**."*
+
+The one enemy the Old Testament says is never finished. Saul was sent to end it and kept what
+looked useful; centuries later Haman the Agagite has a signet ring.
+
+*For **the flesh lusts against the Spirit**, and the Spirit against the flesh; and these are
+contrary to one another.*
+
+It attacks from behind, at the point of exhaustion, and takes the stragglers. That is a fair
+description of self-effort, and it is why the law says blot it out rather than manage it.
+
+## Where the war was won
+
+Not by a better army.
+
+*And those who are Christ's have **crucified the flesh** with its passions and desires.*
+
+The verb is past. Paul does not say suppress it, discipline it or keep it in check.
+
+*I have been crucified with Christ; it is no longer I who live, but **Christ lives in me**.*
 
 > **The first battle and the raised hands.** Exodus 17 records the fight, and
 > Israel prevailed only while Moses' hands were held up — by Aaron and Hur, because

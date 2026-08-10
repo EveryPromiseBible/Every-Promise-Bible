@@ -109,5 +109,62 @@ the night fasting; and no musicians were brought before him*.
 the den. **So Daniel was taken up out of the den, and no injury whatever was found on him, because
 he believed in his God**.*
 
+## No fault found
+
+They audit the auditor and come up empty. *They could find no charge or fault… nor was there any
+error or fault found in him.*
+
+*"**I find no fault in Him at all.**"*
+
+*Pilate said to them the third time, "Why, what evil has He done? **I have found no reason for
+death in Him**."*
+
+**John** and **Luke**. A governor says it three times about a prisoner, and then hands Him over
+anyway.
+
+*"**Which of you convicts Me of sin?** And if I tell the truth, why do you not believe Me?"*
+
+*Who committed no sin, nor was deceit found in His mouth.*
+
+**Peter**'s verb is **heurethe** — was *found*. It is the same word the Daniel narrative keeps
+using, in the same negative.
+
+## They had to change the charge
+
+*"We shall not find any charge against this Daniel **unless we find it against him concerning the
+law of his God**."*
+
+*Then the high priest tore his clothes, saying, "He has spoken blasphemy! What further witnesses do
+we need?"*
+
+The Sanhedrin cannot make the false witnesses agree, so the case is converted into a religious one
+— and then, in front of Pilate, converted back: *we found this fellow perverting the nation… saying
+that He Himself is Christ, a King.*
+
+In both stories the law has to be reshaped around the man.
+
+## The den, the stone and the seal
+
+*Then a stone was brought and laid on the mouth of the den, and **the king sealed it with his own
+signet ring**… and in the morning the king arose very early and went in haste to the den.*
+
+*So they went and made the tomb secure, **sealing the stone and setting the guard**… Now after the
+Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary came to see
+the tomb.*
+
+A sealed stone, an official seal, a night, and people arriving at first light. **Daniel** is *taken
+up out of the den, and no injury whatever was found on him*.
+
+## The excellent spirit
+
+**Ruach yattira** — a surpassing spirit, said of him three times, twice by people who did not
+share his religion.
+
+*How **God anointed Jesus of Nazareth with the Holy Spirit and with power**, who went about doing
+good.*
+
+*For **He whom God has sent speaks the words of God**, for God does not give the Spirit by
+measure.*
+
 > **The phrase.** **Ruach yattira** — a surpassing spirit. Said of him three times in the book, and
 > twice by people who did not share his religion.

@@ -3,7 +3,7 @@ key: Esther 2:5–7
 title: A Jew in the fortress, a girl in his care
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Two people are introduced, and everything the book needs is in their description.
@@ -54,6 +54,37 @@ foreign city, with no standing, no family, and no claim on anybody.
 
 *Mordecai had taken her as his own daughter.* The Hebrew is literally *took her
 for a daughter*.
+
+## What Mordecai did
+
+*And when her father and mother died, **Mordecai took her as his own daughter**.*
+
+A man in exile takes in his orphaned cousin and raises her as his child. The Hebrew is *took
+her to himself for a daughter*.
+
+*Having predestined us to **adoption as sons** by Jesus Christ to Himself, according to the
+good pleasure of His will.*
+
+The Greek is **huiothesia** — placing as a son. **Paul** uses a legal term for exactly what
+Mordecai does in this verse.
+
+*Behold what manner of love the Father has bestowed on us, **that we should be called children
+of God**!*
+
+## The two names
+
+**Hadassah** — myrtle. **Esther** — from the Persian for star, and close to the Hebrew
+**satar**, to hide.
+
+A girl with a hidden name in a book with a hidden God.
+
+## Who is in position
+
+A deported family, four generations from Jerusalem, with no standing and no temple — and by
+chapter 8 one of them wears the king's ring.
+
+*But **God has chosen the foolish things** of the world to put to shame the wise… and the
+things which are not, to bring to nothing the things that are.*
 
 > **What is already in place.** Before Haman is promoted, before the decree is
 > written, before anyone knows there is a danger — a Benjamite of Kish's line is in

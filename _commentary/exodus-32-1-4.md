@@ -4,7 +4,7 @@ title: The golden calf
 sources:
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-03-26 hear-your-way-out-of-every-weakness
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Forty days is too long, and the gold comes off.
@@ -120,6 +120,32 @@ great nation**."*
 I pray, blot me out of Your book**."* See the note on Exodus 32:30–35.
 
 He is offered what Abraham was promised, and asks to be erased instead.
+
+## What was being said on the mountain while it happened
+
+The specification for a dwelling. *Let them make Me a sanctuary, that I may dwell among them* —
+the ark, the mercy seat, the table, the lampstand, a High Priest with twelve names on his
+shoulders and twelve over his heart.
+
+God was describing how He intended to live among them, in detail, in the same hours they were
+melting their jewellery because they had decided He had gone.
+
+And the plan was not withdrawn. Chapters 35 to 40 are that same tent, built out of that same
+gold. See the note on Exodus 36:1–3.
+
+## Who stood between
+
+Moses is offered Abraham's promise — *I will make of you a great nation* — and turns it down to
+ask to be erased instead. See the note on Exodus 32:30–35.
+
+The offer was refused, because a man cannot cover another man's sin.
+
+*For there is one God and **one Mediator between God and men, the Man Christ Jesus**, who gave
+Himself a ransom for all.*
+
+What Moses could only offer, Someone else was able to make good — and the *perhaps* he climbed
+the mountain with was answered from a hill with no conditional in it at all. See the note on
+John 19:28–30.
 
 > **The two scenes.** Chapters 25 to 31 are the plan for God's dwelling among them, given on the
 > mountain. Chapter 32 is what was happening at the bottom of it at the same time.

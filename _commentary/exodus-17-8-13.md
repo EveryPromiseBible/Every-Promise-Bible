@@ -4,7 +4,7 @@ title: Hands held up until sundown
 sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2021-09-05 answers-for-a-hurried-life
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 Israel's first battle after the exodus, and it is won on a hilltop rather than in
@@ -97,6 +97,31 @@ Gilboa. Haman the Agagite is signing a decree centuries later. See the notes on
 
 The one enemy that is never beaten by effort is beaten here under raised hands
 somebody else was holding.
+
+## Where the battle was actually decided
+
+Joshua's men do not get better or worse through the day. The swords, the tactics and the
+courage in the valley are constant, and Exodus is careful to say so.
+
+The one variable in the account is a pair of arms on a hill, held out on both sides, from
+morning until the sun went down — and a man too old to keep them there on his own.
+
+*Therefore He is able to save **to the uttermost** those who come to God through Him, since
+**He always lives to make intercession for them**.*
+
+There is Someone on a hill whose arms were stretched out on both sides from morning until the
+sun went dark, and who had nobody either side of Him to hold them up. That day also ended with
+an enemy defeated and a word shouted about the work being over. See the note on
+John 19:28–30.
+
+## The banner
+
+*Moses built an altar and called its name **The-LORD-Is-My-Banner**.*
+
+A banner is not a weapon. It is what an army rallies to and fights underneath — the thing
+lifted up so that everyone in the field can see it and know whose side they are on.
+
+*And I, **if I am lifted up** from the earth, will draw all peoples to Myself.*
 
 > **What the day required.** A young man fighting, an old man seated on a stone, and
 > two friends who stood there from morning until sundown holding his arms. Exodus

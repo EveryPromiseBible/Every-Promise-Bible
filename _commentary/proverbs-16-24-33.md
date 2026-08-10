@@ -106,5 +106,39 @@ replacing Judas.
 The chapter that has spent ten verses on human speech and self-control ends by saying the
 outcome of a thrown stone belongs to God.
 
+## What the straight-looking way is set against
+
+The proverb names the counterfeit twice in the book and never once names the alternative.
+
+*"**I am the way**, the truth, and the life. No one comes to the Father except through Me."*
+
+*"Enter by the narrow gate; for wide is the gate and broad is the way that leads to
+destruction… **narrow is the gate and difficult is the way which leads to life**."*
+
+**Jesus** answers the proverb twice: once by describing the two roads, and once by saying He
+is one of them.
+
+## The bones healed
+
+*Kind words are… **healing to the bones**.* **Marpe**, from **rapha**.
+
+*But He was wounded for our transgressions, He was bruised for our iniquities; the chastisement
+for our peace was upon Him, and **by His stripes we are healed**.*
+
+The proverb attaches the healing word to what a person says to a person. Isaiah attaches it to
+what was done to a body, and **Peter** quotes the line in a letter about suffering.
+
+## The lot
+
+*The lot is cast into the lap, but its every decision is from the LORD.*
+
+*They said therefore among themselves, "Let us not tear it, but **cast lots for it, whose it
+shall be**," that the Scripture might be fulfilled which says: "They divided My garments among
+them, and for My clothing they cast lots."*
+
+Soldiers throwing dice at the foot of a cross, and **John** says the throw was written down a
+thousand years earlier in Psalm 22. The chapter's last verse is demonstrated at Calvary by men
+who thought they were gambling.
+
 > **The claim.** *Healing to the bones.* **Marpe** — the same root as the divine name given at
 > Marah, attached here to what somebody says to somebody else.

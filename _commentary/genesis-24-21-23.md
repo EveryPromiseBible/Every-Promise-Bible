@@ -4,7 +4,7 @@ title: He watched her in silence
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 The most economical verse in the chapter, and it is a man doing nothing.
@@ -109,6 +109,33 @@ Past tense, at a well, before the family has been met or the request made.
 *So the young woman ran and told her mother's household these things.*
 
 The same verb she used with the water jar. She runs.
+
+## The order of it
+
+He gives the gold **before** he asks who she is.
+
+Not as payment for the answer, and not held back until the answer is satisfactory. The
+narrator is careful about the sequence: the camels finish, the jewellery comes out, and
+*then* the two questions.
+
+Nothing she says afterwards can lose it, because nothing she said beforehand earned it.
+
+That is the order the chapter keeps: the wealth goes out ahead of the servant, and the bride
+is loaded with the father's gifts before there is any agreement to load them against. See the
+note on Genesis 24:1–4.
+
+## The gift before the answer
+
+He gives the gold, and then he asks who she is.
+
+Not afterwards, not on condition, and not as a fee for the information. If she had turned out
+to be nobody in particular, the bracelets were already on her wrists.
+
+*But God demonstrates His own love toward us, in that **while we were still sinners, Christ
+died for us**.*
+
+That is the same order and it is the whole difference. The gift is not a response to who she
+turned out to be. It went out first, and her identity was discovered afterwards.
 
 > **The verse.** A man standing still, saying nothing, while somebody else works — because the
 > sign was not finished and completing it himself would have proved nothing.

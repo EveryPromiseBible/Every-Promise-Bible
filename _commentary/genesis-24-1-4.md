@@ -3,7 +3,7 @@ key: Genesis 24:1–4
 title: Blessed in every way, and one thing left
 sources:
   - 2025-09-07 walk-in-gods-gifts-for-you
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 An old man with everything, arranging the one thing he will not live to see.
@@ -102,12 +102,27 @@ death**.* See the note on Genesis 24:62–65.
 
 The chapter that opens with a burial ends with a comfort.
 
-## The pattern in it
+## What the chapter is a picture of
 
-A father sends a servant a long way to bring back a bride for the son, and the son does not go.
+A father sends an unnamed servant a long way to bring back a bride for his son. The son does
+not go. The servant does not speak about himself — he speaks about the son, and about
+everything the father has given him. He carries the father's wealth and gives it away on the
+road. He asks the woman one question, and when she says *I will go*, he brings her home.
 
-The oldest reading of the chapter takes it as a picture: the Father, the Spirit, the Son, the
-Bride.
+That is the Father, the Spirit, the Son and the Bride, and Genesis draws it in sixty-seven
+verses before there is a word of Scripture to explain it.
+
+The servant is never named in the whole chapter, which is the most exact detail in it. *He
+will not speak of Himself… **He will glorify Me**, for He will take of what is Mine and
+declare it to you.* See the note on John 16:12–15.
+
+## What the son has already been through
+
+Chapter 22. Isaac carried the wood up the mountain, was laid on the altar, and came back down
+with his father on the third day. See the note on Genesis 22:9–10.
+
+The bride is sought *after* the sacrifice, and not before. Genesis puts the order in that
+sequence and never reverses it.
 
 ## The last word about him
 

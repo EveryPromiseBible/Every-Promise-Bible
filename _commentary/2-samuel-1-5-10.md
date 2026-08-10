@@ -5,7 +5,7 @@ sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2020-02-23 run-toward-your-giants-without-fear
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A young man arrives at David's camp with Saul's crown in his hands and a story
@@ -59,3 +59,22 @@ What is spared because it still seems worth something does not stay where it was
 put. It stands over you at the end and takes the crown off your head, and four
 hundred years later it signs a decree in Persia with a king's ring on its hand.
 See the notes on Deuteronomy 25:17–19 and Esther 3:1–4.
+
+## What he came for
+
+A reward.
+
+He has invented the story — 1 Samuel 31 says Saul died on his own sword — and invented it in
+order to be paid. He read David correctly about everything except what David was like.
+
+Paul names the same appetite: *for **the mind set on the flesh is death**, but the mind set on
+the Spirit is life and peace.*
+
+## Where the war is actually finished
+
+Not by a better king. Saul could not end Amalek, and neither could Israel in four hundred
+years of trying.
+
+*And those who are Christ's have **crucified the flesh** with its passions and desires.*
+
+The verb is past, and it is not a programme of management.

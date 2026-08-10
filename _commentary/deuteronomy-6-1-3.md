@@ -3,7 +3,7 @@ key: Deuteronomy 6:1–3
 title: You and your children and theirs
 sources:
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The introduction to the Shema, and it names three generations before it says anything else.
@@ -107,6 +107,29 @@ And the four settings cover a whole day: sitting, walking, lying down, getting u
 note on Deuteronomy 6:10–12.
 
 The danger named is not persecution. It is a full house.
+
+## What comes in verse 4
+
+*Hear, O Israel: the LORD our God, the LORD is one. You shall love the LORD your God with all
+your heart, with all your soul, and with all your strength.*
+
+A scribe asked Jesus which was the first commandment of all, and that is what He answered —
+He began by quoting the **Shema**, the sentence this passage is introducing.
+
+Then He added a second the man had not asked for, and said no other commandment is greater
+than these two.
+
+## Who the promise reaches
+
+*You and your children and your children's children.*
+
+Three generations named in the opening sentence, before a single command is given.
+
+*For **the promise is to you and to your children**, and to all who are afar off, as many as
+the Lord our God will call.*
+
+Peter, on the day the Spirit came, reaching for the same shape — and adding a fourth
+category the passage in Deuteronomy could not have named.
 
 > **Who is in the first sentence.** Three generations. The instruction is written from the
 > start on the assumption that it has to be handed on twice to get where it is going.

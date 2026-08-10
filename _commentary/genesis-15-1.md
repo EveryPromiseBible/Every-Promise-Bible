@@ -8,7 +8,7 @@ sources:
   - 2020-03-01 face-life-without-fear-secrets-unveiled-in-isaiah-53
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-02-21 your-provision-is-in-the-vision
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 *After all this* — three words that make the verse. To feel it you have to know
@@ -38,6 +38,21 @@ Both halves answer something specific:
 
 The word for reward is a plain one for wages or spoils. God uses the vocabulary
 of the thing Abram walked away from and applies it to Himself.
+
+## What the reward turned out to be
+
+*"I Myself am your shield, **your exceedingly great reward**."*
+
+The Hebrew for *reward* is **sakar** — wages, hire, what a worker is owed.
+
+He had just refused a fortune so that no king could say *I made Abram rich*, and the next voice
+he hears tells him what he is being paid instead. Not *I will reward you*. **I am your reward.**
+
+*But what things were gain to me, these I have counted loss for Christ. Yet indeed I also count
+all things loss for the excellence of **the knowledge of Christ Jesus my Lord***.
+
+Paul does the same arithmetic in the other direction — he had the credentials and let them go —
+and lands on the same answer: the reward is a Person, not a portfolio.
 
 > **What Abram says next.** He does not thank God. He says: what can You give me,
 > since I remain childless? The great promise lands on a man whose actual

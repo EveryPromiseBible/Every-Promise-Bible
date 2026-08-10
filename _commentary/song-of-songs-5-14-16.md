@@ -113,5 +113,50 @@ the Holy of Holies.
 She is answering a group who asked what was so special about him, and the answer is a
 description of somebody built like a temple.
 
+## Who else says *this is my beloved*
+
+*This is **my beloved**. This is **my friend**.*
+
+*And suddenly a voice came from heaven, saying, "**This is My beloved Son, in whom I am well
+pleased.**"*
+
+**Matthew** records the Father saying the bride's exact sentence over a man standing in a river.
+The Song has a woman answering a challenge to justify her love; the Jordan has the Father
+volunteering the same words unprompted.
+
+## And the second title
+
+*This is **my friend**.* **Re'i** — the ordinary word for a companion, and the surprising one in
+her list.
+
+*"No longer do I call you servants… but **I have called you friends**, for all things that I
+heard from My Father I have made known to you."*
+
+*"Greater love has no one than this, than to **lay down one's life for his friends**."*
+
+**John** 15, hours before the arrest. The bride's last word for Him is the word He chooses for
+them.
+
+## Chief among ten thousand
+
+She opens the description with it — *chief among ten thousand*, **dagul merevavah**, marked out
+of a multitude.
+
+*He is the head of the body, the church… that **in all things He may have the preeminence**.*
+
+**Colossians**' word is **proteuon** — that He might be first. Her ten features and her refusal
+to itemise further are answered by a sentence that says *all the fullness should dwell in Him*.
+
+## The one who was actually struck
+
+The most lyrical description of Him in the book is spoken by a woman the watchmen had beaten.
+
+*I gave My back to those who struck Me… **I did not hide My face from shame and spitting**.*
+
+*Then they spat in His face and beat Him; and others struck Him with the palms of their hands.*
+
+In the Song the bride takes the blows while looking for the Bridegroom. In the gospels it goes
+the other way round.
+
 > **When she says it.** After losing him, searching the streets at night, and being beaten by
 > the watchmen. Asked what makes him different, she lists gold, ivory and cedar.

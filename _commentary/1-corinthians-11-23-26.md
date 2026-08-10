@@ -72,6 +72,40 @@ declared every time the bread is taken.
 *Until He comes.* The instruction has an end date, which is also the only date in
 it that has not yet arrived.
 
+## What Paul says he received
+
+*For **I received from the Lord that which I also delivered to you**.*
+
+**Parelabon apo tou Kyriou** — the only place **Paul** claims direct transmission for a narrative. He
+was not in the room; **Luke** and **Matthew** got it from men who were, and **Paul** says he had it
+from **Christ**.
+
+## The two clauses
+
+*"**This is My body which is broken for you**"… "**This cup is the new covenant in My blood**."*
+
+**Hyper hymon** — for you. And **kaine diatheke** — the new covenant, which is Jeremiah 31.
+
+*"Behold, the days are coming, says the LORD, when **I will make a new covenant** with the house of
+Israel… **My covenant which they broke**… for I will forgive their iniquity, and their sin I will
+remember no more."*
+
+The terms of the new one are that God does the keeping, and the last clause is the one **Hebrews**
+quotes twice.
+
+## The direction it points
+
+*For as often as you eat this bread and drink this cup, **you proclaim the Lord's death till He
+comes**.*
+
+**Katangellete** — you announce, you preach. The meal is described as a sermon, and its content is a
+death.
+
+*In remembrance of Me.* **Eis ten emen anamnesin** — the Passover was a remembrance for fourteen
+centuries, and He reassigns it at the table.
+
+*For indeed **Christ, our Passover, was sacrificed for us**.*
+
 > **What the passage is answering.** Paul does not recite the institution as a
 > liturgy lesson. He recites it because the Corinthians were shaming poor people
 > at that table. The most quoted communion passage in Scripture was written as a

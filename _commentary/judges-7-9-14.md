@@ -3,7 +3,7 @@ key: Judges 7:9–14
 title: The dream of barley bread
 sources:
   - 2025-07-06 radiant-with-his-glory
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 God gives him the victory in the first sentence and then quietly provides for the fear.
@@ -116,6 +116,32 @@ turns on itself.
 
 *The LORD set ambushes… and **they helped destroy one another**.* See the note on
 2 Chronicles 20:22–24.
+
+## Where the barley loaves turn up
+
+*"There is a lad here who has **five barley loaves** and two small fish, but what are they
+among so many?"*
+
+Barley was the poor man's grain — a third the price of wheat, the crop of people who could not
+afford better. The Midianite means it as an insult and it turns out to be the interpretation.
+
+Five thousand men are fed off five of those loaves, and twelve baskets are gathered
+afterwards. John is the only gospel that specifies the grain, and it is this one.
+
+## What gets knocked over
+
+A tent. Not a wall or a gate — the thing the whole army was living in.
+
+*For **the weapons of our warfare are not carnal but mighty in God for pulling down
+strongholds**.*
+
+## What Gideon does about it
+
+*And so it was, when Gideon heard the telling of the dream and its interpretation, that **he
+worshiped**.*
+
+Standing at the edge of an enemy camp in the dark, outnumbered by something near four hundred
+to one, and the verb is worship. Then he goes back and wakes the three hundred.
 
 > **The overhearing.** He is sent to the enemy camp to listen, and what he hears is his own promise
 > repeated back to him by a Midianite who does not know it.

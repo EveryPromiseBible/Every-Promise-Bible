@@ -3,7 +3,7 @@ key: Genesis 39:19–23
 title: The same sentence, in a prison
 sources:
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The clause that ran through the first half of the chapter survives the fall and reappears
@@ -103,6 +103,31 @@ day, to save many people alive."* See the note on Genesis 50:15–21.
 pass**, the word of the LORD tested him.* See the note on Psalms 105:16–19.
 
 The Hebrew there is **tzerafathu** — refined him. The metallurgy word.
+
+## Where they put him
+
+*The place where the king's prisoners were confined.*
+
+He is innocent and he is put in with the guilty. The next two men through the door are a man
+who will be restored and a man who will be hanged on a tree. See the note on
+Genesis 40:5–8.
+
+*And He was **numbered with the transgressors**.*
+
+## The clause that does not move, and where it is said again
+
+*The LORD was with Joseph* — in a great house, and in a cell, in the same chapter, in the same
+words.
+
+*"And lo, **I am with you always**, even to the end of the age."*
+
+The last sentence of Matthew, said to men who were about to be scattered, imprisoned and
+executed. It is not a promise about circumstances, and it never was here either.
+
+*For He Himself has said, "**I will never leave you nor forsake you**."*
+
+Joseph's address changed four times — a father's tent, a caravan, a steward's house, a
+prison — and the sentence Genesis keeps writing about him did not change once.
 
 > **The clause that does not move.** *The LORD was with Joseph* is said of a man running a great
 > house and of the same man in a cell, in the same chapter, in the same words.

@@ -11,7 +11,7 @@ sources:
   - 2024-09-22 claim-what-is-yours
   - 2025-05-25 jesus-your-storehouse-of-wisdom
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 A man goes from a prison cell to second in Egypt inside one morning.
@@ -81,8 +81,8 @@ calling out, "**Bow down!**"*
 
 *Pharaoh gave Joseph a new name, **Zaphenath-Paneah**.*
 
-The meaning is disputed. Older readings take it as *revealer of secrets*; Egyptologists
-have proposed *God speaks and he lives*.
+The older reading is *revealer of secrets*, which is exactly what he had just done in front
+of the court. An Egyptian derivation has also been offered: *God speaks and he lives*.
 
 Daniel is renamed Belteshazzar in the same way, by the same kind of court.
 
@@ -113,6 +113,28 @@ He names the second one after the place, not in spite of it.
 
 *"**God sent me before you to preserve life**."* And: *"**You meant it for evil against me,
 but God meant it for good**."* See the note on Genesis 50:15–21.
+
+## What happened in one morning
+
+Out of the dungeon, shaved, re-clothed, handed the signet ring, dressed in fine linen, a gold
+chain round his neck, put in the second chariot — and a nation told to bow as he goes past.
+
+*Therefore God also has **highly exalted Him** and given Him the name which is above every
+name, that at the name of Jesus **every knee should bow**.* See the note on
+Philippians 2:9–11.
+
+The man they would not have reign over them is the man everybody now bows to, and the last
+people on earth to find out are his brothers.
+
+## The bride he is given
+
+*And gave him **Asenath**, daughter of Potiphera the priest of On, to be his wife.*
+
+A Gentile bride, given to him during the years of his exaltation, while his own brothers
+still believe he is dead. Her two sons are counted among the tribes of Israel.
+
+Genesis has drawn that order once already: the son on the mountain first, and the bride
+sought afterwards. See the note on Genesis 24:1–4.
 
 > **What Pharaoh notices.** Not the administration, first. He asks his court whether they
 > can find another man with the Spirit of God in him — and then hands over the ring.

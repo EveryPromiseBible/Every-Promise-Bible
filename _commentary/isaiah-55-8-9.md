@@ -51,6 +51,42 @@ Read as it stands, it says something warmer: whatever you would do with someone
 who had wronged you, His response is higher than that — and the gap is the size
 of the sky.
 
+## The measurement Paul takes
+
+The subject of the comparison is the pardoning, and the Hebrew for *abundantly pardon* is
+emphatic — He will multiply to pardon.
+
+*Moreover the law entered that the offence might abound. But **where sin abounded, grace abounded
+much more**.*
+
+**Paul**'s verb is **hyperperisseusen** — a compound built to say *over and above the overflow*.
+It is Isaiah's altitude, stated as arithmetic.
+
+## And the four dimensions
+
+*That you… **may be able to comprehend with all the saints what is the width and length and depth
+and height — to know the love of Christ which passes knowledge**.*
+
+**Ephesians** 3, and the sentence contradicts itself on purpose: to know what cannot be known. The
+gap Isaiah measured with the sky, **Paul** measures in four directions and then says the object of
+it is a Person's love.
+
+*Oh, the depth of the riches both of the wisdom and knowledge of God! **How unsearchable are His
+judgments and His ways past finding out!***
+
+Same two nouns as Isaiah — thoughts and ways — at the end of eleven chapters whose subject is
+mercy.
+
+## What is being invited
+
+*Let the wicked forsake his way… **and He will abundantly pardon**.*
+
+*"**Come to Me, all you who labour and are heavy laden**"*, and *"the one who comes to Me I will
+by no means cast out."*
+
+The chapter opens *come, buy and eat, without money and without cost*, and **John** 6 has the same
+offer with a name attached to the bread.
+
 > **Where the chapter opens.** *Come, all you who are thirsty… come, buy and eat,
 > without money and without cost.* The whole chapter is an invitation to receive
 > something free, and the verse about higher ways sits in the middle of it. See

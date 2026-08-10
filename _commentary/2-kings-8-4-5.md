@@ -3,7 +3,7 @@ key: 2 Kings 8:4–5
 title: The very woman came in
 sources:
   - 2023-02-19 much-more-restoration-is-coming
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 The timing of this scene is the whole point, and the narrator lays it out clause by clause.
@@ -103,6 +103,39 @@ She declined an introduction to the king then. She gets an audience now, without
 
 Said to her husband, and to Gehazi, with her son lying dead on the prophet's bed upstairs. See the
 note on 2 Kings 4:25–30.
+
+## The timing
+
+*And **just as** Gehazi was telling the king how Elisha had restored the dead to life, **there
+was the woman whose son he had restored to life**, appealing to the king for her house and
+land.*
+
+Gehazi is mid-sentence. The narrator will not let the reader past it — *and Gehazi said, "My
+lord, O king, **this is the woman, and this is her son** whom Elisha restored to life."*
+
+Seven years away, one throne room, one story being told, and she walks in on the sentence that
+is about her.
+
+*Before they call, I will answer; and while they are still speaking, I will hear* — Isaiah, of
+the God who arranges an arrival to land on a sentence.
+
+*And we know that **all things work together for good** to those who love God*, which is Paul
+writing about exactly this kind of timing.
+
+## Who is telling it
+
+**Gehazi** — the servant who took Naaman's silver and walked out of Elisha's presence a leper.
+See the note on 2 Kings 5:14.
+
+The man least qualified to be in a royal audience is the one whose testimony gets her land
+back, and the narrator does not comment on it.
+
+## What she had come to ask
+
+Her house and her field. What she gets is both, plus every crop grown on it in seven years.
+See the note on 2 Kings 8:6.
+
+*Now to Him who is able to do exceedingly abundantly above all that we ask or think.*
 
 > **The clause.** *Just as Gehazi was telling the king how Elisha had brought a dead boy back to
 > life.* She walks in on the sentence about her own son, and the narrator makes no comment.

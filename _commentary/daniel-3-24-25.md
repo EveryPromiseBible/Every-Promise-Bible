@@ -108,5 +108,52 @@ Promotes them, and issues a decree.
 The furnace was built to make people bow to an image. It produces an imperial edict about the God
 of the men who would not.
 
+## The name for a fourth man in the fire
+
+*"Behold, **the virgin shall be with child, and bear a Son, and they shall call His name
+Immanuel**," which is translated, "**God with us**."*
+
+That is the whole content of the fourth figure. Nebuchadnezzar has no vocabulary for it and says
+*a son of the gods*; the New Testament gives the arrangement a name and makes it the point of the
+incarnation.
+
+*"For He Himself has said, '**I will never leave you nor forsake you**.'"*
+
+**Hebrews** 13 quotes it in a chapter about people who were tortured, mocked, chained and sawn in
+two — and the sentence stands over both outcomes.
+
+## What the fire consumed
+
+Three went in bound. Four are walking loose. The only thing burned was the rope.
+
+*"**Therefore if the Son makes you free, you shall be free indeed.**"*
+
+*Stand fast therefore in the liberty by which **Christ has made us free**, and do not be entangled
+again with a yoke of bondage.*
+
+## But if not
+
+*"Our God whom we serve is able to deliver us… **But if not**, let it be known to you that we do
+not serve your gods."*
+
+*"O My Father, if it is possible, let this cup pass from Me; **nevertheless, not as I will, but as
+You will**."*
+
+**Matthew** 26, and it is the same shape: the outcome asked for, and then removed from the
+decision. In Gethsemane the answer was *if not*, and nobody came into the fire with Him.
+
+*Then all the disciples forsook Him and fled.*
+
+Three men in a furnace had a fourth. The one place in Scripture where the fourth figure is absent
+is the one place He was the one in it.
+
+## And the smell
+
+*The smell of fire was not on them.*
+
+*Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or
+famine, or nakedness, or peril, or sword?… Yet **in all these things we are more than
+conquerors** through Him who loved us.*
+
 > **The count.** Three went in bound; four are walking loose. The only thing the fire consumed was
 > the rope.

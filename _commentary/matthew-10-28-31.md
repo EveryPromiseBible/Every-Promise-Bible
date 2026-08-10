@@ -111,5 +111,42 @@ The Greek is **epilelesmenon** — forgotten.
 
 Same argument, different verb.
 
+## The value the price shows
+
+*"Are you not worth far more than many sparrows?"*
+
+**Jesus** asserts the value and does not price it. The New Testament does.
+
+*Knowing that you were **not redeemed with corruptible things, like silver or gold**… but with **the
+precious blood of Christ**, as of a lamb without blemish and without spot.*
+
+*For **you were bought at a price**; therefore glorify God in your body.*
+
+*Therefore take heed to yourselves and to all the flock… to shepherd the church of God **which He
+purchased with His own blood**.*
+
+**Acts** 20. The comparison with sparrows is an argument about worth; the epistles state what was
+paid.
+
+## Fear, and what removes it
+
+The paragraph says *do not fear* three times and names one thing that should be feared in between.
+
+*There is **no fear in love; but perfect love casts out fear**, because fear involves torment. But
+he who fears has not been made perfect in love.*
+
+**John**'s word is **ballei exo** — throws it out. And the sentence before it is the ground: *love
+has been perfected among us in this: that we may have boldness in the day of judgment, because as
+He is, so are we in this world.*
+
+*For God has not given us a spirit of fear, but of power and of love and of a sound mind.*
+
+## And the hairs
+
+*"But the very hairs of your head are all numbered."*
+
+*"**My sheep hear My voice**, and I know them, and they follow Me. And I give them eternal life, and
+they shall never perish; **neither shall anyone snatch them out of My hand**."*
+
 > **The clause.** *Not one of them drops to the ground without your Father.* Translations supply
 > *knowing*; the Greek does not have it.

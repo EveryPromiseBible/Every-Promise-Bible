@@ -3,7 +3,7 @@ key: 1 Chronicles 28:11–12
 title: The plans handed over
 sources:
   - 2020-01-05 the-lord-of-time-and-space
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 David is not allowed to build the temple, so he does everything except build it.
@@ -75,6 +75,43 @@ design he wrote down and handed to somebody else.
 *"Be strong and of good courage, and do it; **do not fear nor be dismayed**, for the
 LORD God — my God — will be with you. **He will not leave you nor forsake you**, until
 you have finished all the work."*
+
+## What is handed over
+
+*The plans for the vestibule, its houses, its treasuries, its upper chambers, its inner
+chambers… **and the plans for all that he had by the Spirit**.*
+
+Not sketches. A complete specification, room by room, with weights given for the gold of each
+lampstand and each dish.
+
+## Who drew them
+
+*"**All of this the LORD made clear to me in writing, His own hand upon me** — every detail of
+the plan, made plain."* See the note on 1 Chronicles 28:19.
+
+David did not design it. He received it, the way Moses received the tabernacle pattern on the
+mountain.
+
+*Who serve **the copy and shadow of the heavenly things**… "See that you make all things
+according to the pattern shown you on the mountain."* See the note on Hebrews 8:6–7.
+
+## Who does not get to build it
+
+David.
+
+He gathered the gold, the silver, the bronze, the iron, the timber and the stone; he drew up
+the divisions of priests and the courses of singers; he handed over the plans. And he was told
+plainly he would not lay a stone of it. See the note on 2 Samuel 7:1–3.
+
+*Whoever desires to become great among you, let him be your servant.*
+
+## What he says to his son
+
+*"**Be strong and of good courage, and do it; do not fear nor be dismayed, for the LORD God —
+my God — will be with you.** He will not leave you nor forsake you."*
+
+That last sentence is the one **Hebrews** lifts and hands to ordinary readers as the ground
+for contentment: *for He Himself has said, "I will never leave you nor forsake you."*
 
 > **What he told the assembly.** *All things come from You, and of Your own we have
 > given You.* He raised the largest building fund in Israel's history and then said

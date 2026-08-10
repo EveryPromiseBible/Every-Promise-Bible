@@ -4,7 +4,7 @@ title: "More than those with them"
 sources:
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2020-02-02 can-you-see-the-angels-protecting-you
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 One sentence, spoken to a terrified servant who has just done the arithmetic
@@ -72,6 +72,35 @@ Elisha had been telling the king of Israel where the Syrian ambushes were, repea
 your bedroom.*
 
 The army was sent to capture one man who knew too much.
+
+## The arithmetic
+
+*"**Those who are with us are more than those who are with them.**"*
+
+Two men against a national army, and the sentence is about numbers.
+
+It is not encouragement, and it is not bravado. Elisha is counting something the servant
+cannot see yet.
+
+Paul: *if God is for us, **who can be against us**?*
+
+## What was already on the hill
+
+*The mountain was full of horses and chariots of fire **all around Elisha**.*
+
+Before the prayer, before the question, before the servant got up. The second prayer in the
+passage does not summon them — it opens a pair of eyes. See the note on 2 Kings 6:15.
+
+## Who else said it
+
+*"**Do you think that I cannot now pray to My Father, and He will provide Me with more than
+twelve legions of angels?**"*
+
+Said in a garden, at night, surrounded by a detachment with torches and swords — by somebody
+who then let them take Him.
+
+Twelve legions is upward of seventy thousand. The chariots were on the hill in that account
+too, and He did not call for them.
 
 > **The other prayer in the chapter.** A borrowed axe head falls into the Jordan and a
 > student cries out *alas, master, it was borrowed.* Elisha cuts a stick, throws it

@@ -4,7 +4,7 @@ title: Between the dead and the living
 sources:
   - 2020-05-24 find-power-in-his-presence
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-06
+updated: 2026-08-09
 ---
 
 An old man runs into a plague carrying a fire pan, and stops it by standing still.
@@ -97,6 +97,38 @@ forth buds, produced blossoms and yielded ripe almonds.*
 
 A dead stick with fruit on it, kept in the ark as the final answer to Korah's question
 about who was chosen.
+
+## The one who was found
+
+Ezekiel goes looking for somebody to do what Aaron did here, and comes up empty:
+
+*I sought for a man among them who would make a wall, and **stand in the gap** before Me on
+behalf of the land, that I should not destroy it — **but I found no one**.*
+
+That is the verse this chapter is the picture of, and it ends with nobody available.
+
+*For there is one God and **one Mediator between God and men, the Man Christ Jesus**.*
+
+One was found. He did not run in carrying fire off the altar — He was the offering the fire came
+from.
+
+## The same act, opposite outcome
+
+Two hundred and fifty men had died the day before holding censers. Aaron runs into the plague
+holding one, and it stops.
+
+The difference is not the incense and not the gesture. It is who is holding it, and where the
+fire came from — *fire from the altar*, off the place the sacrifice had burned.
+
+## Where he stood
+
+*He stood **between the dead and the living**.*
+
+Facing the wrong way, with his back to safety, in the middle of the people who had accused him of
+murder that morning.
+
+*But God demonstrates His own love toward us, in that **while we were still sinners**, Christ
+died for us.*
 
 > **Where the priest ends up.** In the middle of the people who had just accused him,
 > facing the wrong way — with his back to the safety and the incense held up.

@@ -3,7 +3,7 @@ key: Judges 3:31
 title: Shamgar
 sources:
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 One verse for a whole career, and it is the shortest entry in the book.
@@ -100,6 +100,36 @@ a deliverer*.
 ## The one line
 
 Everything known about Shamgar fits in twenty-five words, and one of them is *saved*.
+
+## What he had in his hand
+
+An ox goad. A pole with a point on one end for driving cattle and a blade on the other for
+scraping the plough.
+
+Not a weapon. Farm equipment, and the only thing a man under Philistine occupation was allowed
+to own — *there was no blacksmith found throughout all the land of Israel, for the Philistines
+said, "Lest the Hebrews make swords or spears."*
+
+*But **God has chosen the foolish things of the world to put to shame the wise**, and God has
+chosen the weak things of the world to put to shame the things which are mighty… **that no
+flesh should glory in His presence**.*
+
+## Where the goad turns up again
+
+*"Saul, Saul, why are you persecuting Me? **It is hard for you to kick against the goads**."*
+
+Said on the Damascus road, in Hebrew, to a man on the ground — and the implement in the image
+is this one.
+
+The tool a farmer uses to keep an ox going in the right direction, in a sentence about a man
+who had been fighting the direction he was being turned.
+
+## What is said about him
+
+One verse. No genealogy, no length of rule, no burial notice — Judges gives him a line and
+moves on.
+
+*And he also **delivered Israel**.*
 
 > **What the tool is called in Hebrew.** A teacher of oxen — from the root behind *disciple*. It
 > is on the Philistine price list two hundred years later.

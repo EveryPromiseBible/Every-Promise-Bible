@@ -49,6 +49,44 @@ The last phrase is the same one Abraham and Moses and Samuel say to God —
 *hinneni*, here I am. Here it comes back the other way, from God to the person
 calling.
 
+## Who kept this fast
+
+The chapter describes a fast that is entirely about other people: chains loosed, bread shared,
+the homeless housed, the naked clothed.
+
+*"For **I was hungry and you gave Me food**; I was thirsty and you gave Me drink; I was a
+stranger and you took Me in; **I was naked and you clothed Me**."*
+
+**Matthew** 25 works down Isaiah's list almost item by item, and adds the clause the prophet does
+not have: *inasmuch as you did it to one of the least of these My brethren, **you did it to Me**.*
+
+*"The Spirit of the LORD is upon Me… **to set at liberty those who are oppressed**."*
+
+**Luke** 4, and **Jesus** reads the loosing of the oppressed into His own job description on the
+first day.
+
+## The light and the healing
+
+*Your light will break forth like the dawn, and your healing will come quickly.*
+
+*"**I am the light of the world.** He who follows Me shall not walk in darkness, but have the
+light of life."*
+
+The Hebrew for *healing* is about new flesh growing over a wound — **arukhah**, a recovery word.
+
+*Who Himself bore our sins in His own body on the tree… **by whose stripes you were healed**.*
+
+## Here I am
+
+*You will cry out, and He will say, "**Here I am**."* **Hinneni** — the word Abraham and Moses and
+Samuel said to God, coming back the other way.
+
+*Then I said, "**Behold, I have come** — in the volume of the book it is written of Me — to do
+Your will, O God."*
+
+**Hebrews** 10 puts the sentence in the mouth of the Son, on the way in. The answer Isaiah
+promises to a cry turns out to be a Person arriving and saying it first.
+
 > **Why the condition matters.** The chapter is not describing a technique for
 > getting light and healing. It is God telling a religious people that the
 > observance they were proud of had left the hungry hungry — and that the

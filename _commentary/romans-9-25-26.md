@@ -61,6 +61,38 @@ children of the promise are counted as offspring… even us whom He called.*
 
 Calling is what makes the difference in Romans 9, and it belongs to Him.
 
+## What the quotations are doing in the argument
+
+Hosea's cancelled names — **Lo-Ammi** and **Lo-Ruhamah** — applied by **Paul** to Gentiles, who had
+never been *My people* to begin with. See the note on Hosea 1:10.
+
+*Even us whom He called, **not of the Jews only, but also of the Gentiles**.*
+
+That is the sentence the quotations are attached to.
+
+## What made the calling possible
+
+*But now in **Christ Jesus** you who once were far off **have been brought near by the blood of
+Christ**.*
+
+*Who once were not a people but are now the people of God, who had not obtained mercy but **now have
+obtained mercy**.*
+
+**Peter** uses both of Hosea's names too, in a letter to scattered churches, and puts them in a
+paragraph beginning *you are a chosen generation, a royal priesthood*.
+
+## The word called
+
+*"**I will call them My people**."*
+
+**Kalesai** runs through the chapter — *the children of the promise are counted as the seed*, *not of
+works but of Him who calls*.
+
+*Moreover **whom He predestined, these He also called; whom He called, these He also justified**; and
+whom He justified, these He also glorified.*
+
+**Romans** 8's chain, one chapter earlier, and every verb in it has God as its subject.
+
 > **Where the argument ends up.** Two chapters later: *God has not cast away His
 > people whom He foreknew… for the gifts and the calling of God are irrevocable.*
 > Paul spends three chapters on this and does not conclude that anybody was
