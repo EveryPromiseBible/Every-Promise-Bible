@@ -4,18 +4,12 @@
  * edit the markdown and rebuild, or the published commentary and its sources
  * drift apart.
  *
- * LICENCE -- THIS FILE IS NOT CC BY-SA, UNLIKE THE REST OF data/.
- *
- *   All rights reserved. Used by permission of Joseph Prince Ministries for
- *   non-commercial use only.
+ * LICENCE -- CC BY-SA 4.0, the same as the rest of data/. See LICENSE-DATA.
  *
  * The Grace Commentary was developed with study of publicly available sermon
  * notes from Joseph Prince Ministries. Every note is original writing: none of
- * their wording is quoted or reproduced. The permission is recorded in full at
- * sources/permissioned/LICENCES-jpm.md and is limited to the free,
- * non-commercial Every Promise app and website. Any other use -- commercial,
- * print, or redistribution under an open licence -- needs a fresh permission
- * from info@josephprince.org.
+ * their wording is quoted or reproduced. That is an acknowledgement of what
+ * informed the reading, not a licence and not a claim of endorsement.
  *
  * Keyed "Book C:V" to match the verse label the reader sees; the Illumination
  * labels verses in blocks, so a key is usually a range with an EN DASH.

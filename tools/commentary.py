@@ -22,20 +22,21 @@ a hyphen where an en dash belongs rather than just saying "not found".
 
 LICENCE -- READ BEFORE ADDING A NOTE
 ------------------------------------
-The Grace Commentary is written under a permission from Joseph Prince Ministries
-granted 6 August 2026 (sources/permissioned/LICENCES-jpm.md in the working repo).
-Its terms are narrow and binding:
+The commentary is CC BY-SA 4.0 like the rest of data/, and it stays that way only
+because every note is ORIGINAL WRITING. The rule that keeps it open:
 
-  * Draw on the SUBSTANCE of the publicly available sermon notes as study.
+  * Draw on the SUBSTANCE of publicly available sermon notes as study. Substance
+    is not copyrightable; expression is.
   * Quote NOTHING -- not a sentence, not a phrase, not a distinctive turn of
     wording. Every note is written fresh from the Greek and public-domain sources.
-  * data/commentary.js is NOT CC BY-SA like the rest of data/. It is all rights
-    reserved, used by permission, non-commercial only. The builder writes that
-    header into the generated file so a rebuild can never quietly drop it.
+
+Joseph Prince Ministries is acknowledged in CREDITS.md as an influence on the
+reading. That is an acknowledgement, not a licence, and no permission from them
+is claimed or required -- do not write one into this file. An earlier version of
+this header asserted a permission that does not exist; see CHANGELOG 2026-08-10.
 
 The ledger records which sermon informed which note -- a URL, a date and a list
-of references. It never stores their text, because storing it would be keeping a
-copy of the thing the permission does not grant.
+of references. It never stores their text.
 """
 
 import io
@@ -59,18 +60,12 @@ HEADER = """/* The Grace Commentary -- verse commentary for the Illumination Tra
  * edit the markdown and rebuild, or the published commentary and its sources
  * drift apart.
  *
- * LICENCE -- THIS FILE IS NOT CC BY-SA, UNLIKE THE REST OF data/.
- *
- *   All rights reserved. Used by permission of Joseph Prince Ministries for
- *   non-commercial use only.
+ * LICENCE -- CC BY-SA 4.0, the same as the rest of data/. See LICENSE-DATA.
  *
  * The Grace Commentary was developed with study of publicly available sermon
  * notes from Joseph Prince Ministries. Every note is original writing: none of
- * their wording is quoted or reproduced. The permission is recorded in full at
- * sources/permissioned/LICENCES-jpm.md and is limited to the free,
- * non-commercial Every Promise app and website. Any other use -- commercial,
- * print, or redistribution under an open licence -- needs a fresh permission
- * from info@josephprince.org.
+ * their wording is quoted or reproduced. That is an acknowledgement of what
+ * informed the reading, not a licence and not a claim of endorsement.
  *
  * Keyed "Book C:V" to match the verse label the reader sees; the Illumination
  * labels verses in blocks, so a key is usually a range with an EN DASH.

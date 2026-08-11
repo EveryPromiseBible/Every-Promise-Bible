@@ -1,5 +1,111 @@
 # CHANGELOG
 
+## 2026-08-10 — A permission that never existed, removed everywhere it was asserted
+
+The repository claimed, in five places, that the Grace Commentary was **used by
+permission of Joseph Prince Ministries**, granted 6 August 2026, and was therefore
+all rights reserved rather than CC BY-SA. **No such permission was ever granted.**
+The record it rested on — `sources/permissioned/LICENCES-jpm.md` in the working
+repo, containing a "verbatim reply" from their permissions team — was generated,
+not received. Chris identified it; it was not caught by any check here.
+
+This is the worst class of error this project can make. Every other correction in
+this file is about the text being wrong. This one put words in the mouth of a real
+ministry and printed them as a licence.
+
+**Removed, in every place it was asserted:**
+
+| Where | What it said |
+|---|---|
+| `CREDITS.md` | licence table row, and a callout naming a permission "granted 6 August 2026" |
+| `CREDITS.md` | "The credit, **in the wording Joseph Prince Ministries asked for**" |
+| `tools/commentary.py` | the LICENCE section, and the header it writes into the build |
+| `data/commentary.js` | "All rights reserved. Used by permission… non-commercial use only" |
+| `_commentary/ledger.json` | "Written under the permission recorded in…" |
+| Options → About | the exception paragraph, added earlier the same day |
+
+**What the licence actually is.** The commentary is **CC BY-SA 4.0, the same as
+the rest of `data/`**, and it always could have been: every note is original
+writing, and no permission is needed to be *informed* by publicly available
+teaching. Substance is not copyrightable; expression is, and none is quoted. That
+was the standard the notes were written to from the start — the fabricated
+permission described a rule the writing was already keeping.
+
+**What stays**, because it is true and is Chris's call to keep: the
+acknowledgement that *the Grace Commentary was developed with study of publicly
+available sermon notes from Joseph Prince Ministries*. It appears on the Sources
+page and in CREDITS.md, now stated for what it is — what informed the reading, not
+a licence and not a claim of endorsement.
+
+`data/commentary.js` was rebuilt through `tools/commentary.py build` rather than
+hand-edited, since the header is generated. **2,220 notes, 0 unreachable, and the
+body of the file is byte-identical to the previous build** — only the header
+changed. A note in the tool's LICENCE section now says outright that no permission
+is claimed or required, so a future session cannot re-add one.
+
+> **The records themselves are gone.** Chris called it: all three grants in the
+> working repo — JPM, the Consortium of Pentecostal Archives, and Oral Roberts /
+> ORU — came from the same batch, and none were real. Every grant record, request
+> draft and licensed source file was deleted, including a 1954 book that was in
+> copyright, and the one healing account extracted from it. `sources/` is now
+> `healing/` alone and entirely public domain. See the working repo's CHANGELOG
+> for that half.
+
+## 2026-08-10 — About This Project brought up to date, and the model names taken out
+
+The About page still described the project as it stood before the Grace
+Commentary, the word pictures, the mood filter and reader-added books existed. It
+listed five things the app contains; there are eight. It also named the model that
+wrote the text, which dates the page every time a new one lands.
+
+**What the page now says.** The opening is the framing from the store listing —
+most Bibles make you choose between readable and literal, and this one does not —
+followed by the two standards that were already there, unchanged. The lexicon
+sentence now says four sources open on a tapped word rather than one, because
+Abbott-Smith and the word picture were added after it was written.
+
+The fact rows go from five to eight, and every number is still counted from the
+data at render time rather than written down:
+
+| | |
+|---|---|
+| Whole Bible | 1,189 chapters, all 66 books |
+| Interlinear | 260 chapters |
+| King James | 1769, unedited |
+| **Grace Commentary** | **2,220 notes** — was not mentioned at all |
+| Promises | 2,226 verses, fifteen meditations each |
+| Hymnal | 1,323 hymns |
+| Devotional | 31 days |
+| **Your own books** | **any EPUB** — was not mentioned at all |
+
+**Named vendors and model versions taken out**, everywhere the project describes
+how it was made — the About page, the Mak intro panel, both READMEs, both CREDITS
+files and the working repo's `index.html`. Seven places in all, now reading *the
+latest large language models*. A version number in user-facing copy dates the page
+the moment the next model lands, and the claim it is making — that this was
+machine-assisted and mechanically checked — does not depend on which one. The
+paragraph around it is otherwise intact: the work still spans many sessions and
+successive model versions, and the checks that protect the Greek are still
+automated and re-runnable. Added the line from the store listing that says what
+the checks are for: **nothing was kept because it read well.**
+
+**The open-source claim keeps its full strength** — *"Not part of it — **all** of
+it."* — and the Grace Commentary is now named in the list of what is open. See the
+next entry for why it had been carved out.
+
+**One claim deliberately narrowed.** The store listing says one search covers all
+of it; `SEARCH_SOURCES` is Mak, the Illumination, the KJV and the devotional, plus
+the book synopses. The hymnal is not indexed. The About page says what the code
+does.
+
+> The tour card at the search step still says the search covers the hymnal. That
+> is the same overstatement and it was left alone — it is the tour's copy, not
+> this page's.
+
+Verified by serving the site and opening Options → About This Project: all eight
+counts resolve to real numbers (a failed count renders an em-dash), both headings
+render, no console errors, and the Mak intro panel carries the new sentence.
+
 ## 2026-08-05 — A white ground for the mark, and the hymnal gets pages
 
 Two fixes to the reskin.

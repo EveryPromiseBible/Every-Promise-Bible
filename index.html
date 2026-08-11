@@ -2794,11 +2794,10 @@ function renderIntro(idx) {
         </table>
       </div>
 
-      <p style="margin-top:18px;">Built with <strong>Claude (Anthropic)</strong> &mdash; most
-      recently <strong>Claude Opus 5</strong> &mdash; working against the SBLGNT, MorphGNT,
-      Strong's, Thayer's and Abbott&ndash;Smith. As these models improve, the text can be
-      revised again &mdash; the checks that protect the Greek are automated and
-      re-runnable.</p>
+      <p style="margin-top:18px;">Built with the <strong>latest large language models</strong>,
+      working against the SBLGNT, MorphGNT, Strong's, Thayer's and Abbott&ndash;Smith. As
+      those models improve, the text can be revised again &mdash; the checks that protect
+      the Greek are automated and re-runnable.</p>
 
       <p><strong>Everything here is open source.</strong> The app, the translations, the
       lexicons, the hymnal, the tools that assembled every file, and the full commit
@@ -6195,30 +6194,45 @@ function optFacts(rows) {
 
 function optAboutHtml() {
   return '<div class="opt-about">' +
-    '<p><b>Every Promise</b> is a Bible built to be two things at once, and both are ' +
-    'required. It has to be <b>easy to read</b> &mdash; can you follow it without stopping? ' +
-    'And every English word has to <b>honestly describe the Greek word beneath it</b>. ' +
-    'A beautiful sentence with the wrong word under it is a broken product, not a ' +
-    'stylistic quibble.</p>' +
+    '<p><b>Every Promise</b> is a Bible you can actually read, with the original Greek ' +
+    'one tap away. Most Bibles make you choose: either the wording is easy to follow and ' +
+    'some of the richness of the original goes, or it is strictly literal and very hard ' +
+    'to read. This one does not choose.</p>' +
 
-    '<p>What that means in practice: tap any word in the interlinear and you get the ' +
-    'lexicon entry for <i>that</i> word. Not the verse, not something near it. The word ' +
-    'you touched.</p>' +
+    '<p>That is two jobs, and both are required. It has to be <b>easy to read</b> &mdash; ' +
+    'can you follow it without stopping? And every English word in the interlinear has to ' +
+    '<b>honestly describe the Greek word beneath it</b>. A beautiful sentence with the ' +
+    'wrong word under it is a broken product, not a stylistic quibble.</p>' +
+
+    '<p>What that means in practice: tap any word in the interlinear and four sources open ' +
+    'on <i>that</i> word &mdash; Strong&rsquo;s, Thayer&rsquo;s, Abbott-Smith, and a word ' +
+    'picture in plain English saying what the word is getting at. Not the verse, not ' +
+    'something near it. The word you touched.</p>' +
 
     optFacts([
-      ['Interlinear', optCount(() => CHAPTERS.length) + ' chapters, the whole New Testament'],
-      ['Whole Bible', optCount(() => ILLUMINATION.length) + ' chapters in two more translations'],
-      ['Promises', optCount(() => PROMISES.length) + ' verses, each with meditations'],
-      ['Hymns', optCount(() => hyAll().length) + ' from a public-domain hymnal'],
-      ['Devotional', optCount(() => DEVOTIONAL.days.length) + ' days']
+      ['Whole Bible', optCount(() => ILLUMINATION.length) + ' chapters, all ' +
+                      optCount(() => ILLUMINATION_BOOKS.length) + ' books, retold thought by thought'],
+      ['Interlinear', optCount(() => CHAPTERS.length) + ' chapters &mdash; the New Testament, ' +
+                      'word for word from the Greek'],
+      ['King James', 'The Authorized Version of 1769, unedited'],
+      ['Grace Commentary', optCount(() => Object.keys(COMMENTARY).length) +
+                      ' notes, opened from the bulb beside a verse'],
+      ['Promises', optCount(() => PROMISES.length) + ' verses, fifteen meditations written on each'],
+      ['Hymnal', optCount(() => hyAll().length) + ' hymns, whole texts rather than the two or ' +
+                      'three verses that usually survive'],
+      ['Devotional', optCount(() => DEVOTIONAL.days.length) + ' days, from the Jordan to the Ascension'],
+      ['Your own books', 'Add any EPUB and mark it exactly the way you mark the Bible']
     ]) +
 
+    '<p>One search covers all three translations, the book synopses and the devotional at ' +
+    'once, and every result says which source it came from.</p>' +
+
     '<h3>Everything here is open source</h3>' +
-    '<p>Not part of it &mdash; <b>all</b> of it. The app you are reading this in. The ' +
-    'translations. The Greek, the morphology and both lexicons. The hymnal. The promises ' +
-    'and the meditations. The tools that assembled every one of those files. And the whole ' +
-    'commit history, which records every correction ever made to the text and the reason ' +
-    'it was made.</p>' +
+    '<p>Not part of it &mdash; <b>all</b> of it. The app you are reading this in. Both ' +
+    'translations. The Greek, the morphology and both lexicons. The Grace Commentary. The ' +
+    'hymnal. The promises and the meditations. The tools that assembled every one of those ' +
+    'files. And the whole commit history, which records every correction ever made to the ' +
+    'text and the reason it was made.</p>' +
     '<p>Anyone can read it, copy it, check it, correct it, or build something else out ' +
     'of it. Nothing is held back and nothing is hidden behind an account.</p>' +
     '<p>Two licences, because the two halves are different things. The <b>code</b> is ' +
@@ -6227,15 +6241,18 @@ function optAboutHtml() {
     'That is required rather than chosen, since the Greek morphology it rests on carries ' +
     'ShareAlike itself.</p>' +
     '<h3>How it was made</h3>' +
-    '<p>The Mak Translation, the Illumination and The Thirteenth Disciple were written ' +
-    'by the project owner with <b>Claude (Anthropic)</b> &mdash; most recently ' +
-    '<b>Claude Opus 5</b> &mdash; working against the SBLGNT, MorphGNT, Strong&rsquo;s, ' +
-    'Thayer&rsquo;s and Abbott-Smith. The work spans many sessions and successive model ' +
-    'versions; Opus 5 is the current one, not the only one that touched it.</p>' +
-    '<p>The checking tools exist because a language model will produce fluent, confident, ' +
-    'wrong output, and fluency is not evidence. Every check was calibrated against known ' +
-    'defects before its verdicts were trusted &mdash; which is also why the Greek is ' +
-    'counted against its source rather than declared correct.</p>' +
+    '<p>The Mak Translation, the Illumination, the Grace Commentary and The Thirteenth ' +
+    'Disciple were written by the project owner working with the <b>latest large language ' +
+    'models</b>, against the SBLGNT, MorphGNT, Strong&rsquo;s, Thayer&rsquo;s and ' +
+    'Abbott-Smith. The work spans many sessions and successive model versions, and as those ' +
+    'models improve the text can be revised again &mdash; the checks that protect the Greek ' +
+    'are automated and re-runnable.</p>' +
+    '<p>Those checks exist because a language model will produce fluent, confident, wrong ' +
+    'output, and fluency is not evidence. Every check was calibrated against known defects ' +
+    'before its verdicts were trusted &mdash; which is also why the Greek is counted against ' +
+    'its source rather than declared correct. Every chapter of the New Testament was checked ' +
+    'token for token against the SBLGNT, and all 27 books read through for word placement. ' +
+    '<b>Nothing was kept because it read well.</b></p>' +
 
     '<p>Being open is the point rather than a gesture. A translation that asks you to ' +
     'trust it should let you check it, and the Greek here is verified against its source ' +
@@ -6246,8 +6263,9 @@ function optAboutHtml() {
     'rel="noopener">github.com/EveryPromiseBible/Every-Promise-Bible</a></p>' +
 
     '<h3>Nothing you write leaves this device</h3>' +
-    '<p>There are no accounts, no sign-in, no analytics and no tracking. Your highlights, ' +
-    'notes, journal entries and sermon notes are held by this browser and go nowhere else. ' +
+    '<p>There are no accounts, no sign-in, no analytics and no tracking, and no connection ' +
+    'is needed to read any of it. Your highlights, notes, journal entries and sermon notes ' +
+    'are held by this browser and go nowhere else. ' +
     'That also means nobody else is keeping them safe for you &mdash; <b>My Stuff</b> will ' +
     'write everything to a file you keep, and that file is the only copy that survives ' +
     'clearing your browser or changing phones.</p>' +
@@ -6326,7 +6344,8 @@ function optSourcesHtml() {
     ['Lexicon', 'Abbott-Smith, <i>Manual Greek Lexicon</i>', 'Public domain'],
     ['Hymns', 'The Christian Hymn Book, Cincinnati 1870', 'Public domain'],
     ['King James', 'Authorized Version, 1769', 'Public domain'],
-    ['Translation', 'The Mak Translation and the Illumination', 'CC BY-SA 4.0']
+    ['Translation', 'The Mak Translation and the Illumination', 'CC BY-SA 4.0'],
+    ['Commentary', 'The Grace Commentary', 'CC BY-SA 4.0']
   ];
   return '<div class="opt-about">' +
          '<p>This is built on freely licensed scholarly work. The Greek is reproduced ' +

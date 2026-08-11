@@ -1,10 +1,10 @@
 {
   "_about": [
     "Which sermon notes have been studied, and which passages they pointed at.",
-    "Written under the permission recorded in sources/permissioned/LICENCES-jpm.md:",
-    "we may draw on the SUBSTANCE of the notes, never their wording. So this file",
-    "stores a URL, a date, a title and a list of scripture references -- facts --",
-    "and never a line of their text.",
+    "The rule that keeps the commentary open source: draw on the SUBSTANCE of",
+    "publicly available notes, never their wording. So this file stores a URL, a",
+    "date, a title and a list of scripture references -- facts -- and never a",
+    "line of their text.",
     "",
     "When a reference comes back in a later sermon, DO NOT write a second note.",
     "Open the one that exists, weigh the new material against it, and deepen or",

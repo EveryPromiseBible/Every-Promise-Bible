@@ -8,29 +8,25 @@ was used, under what terms, and — as CC BY requires — **what was changed.**
 | Part of this repository | License |
 |---|---|
 | Code (`tools/`, the app code in `index.html`) | MIT — see [LICENSE](LICENSE) |
-| Translation and data (`data/*.js`) | CC BY-SA 4.0 — see [LICENSE-DATA](LICENSE-DATA) |
-| **`data/commentary.js` — The Grace Commentary** | **All rights reserved. Used by permission of Joseph Prince Ministries for non-commercial use only.** |
+| Translation and data (`data/*.js`), including `commentary.js` | CC BY-SA 4.0 — see [LICENSE-DATA](LICENSE-DATA) |
 
-> **The commentary is the one exception to the open licence.** It is original
-> writing and quotes nobody, but it was developed with study of publicly
-> available sermon notes from Joseph Prince Ministries, under a permission
-> granted 6 August 2026 that covers this free app and website only. A fork may
-> use every other file in `data/` freely; that one needs its own permission from
-> info@josephprince.org.
+> **There is no exception.** Every file in this repository is under one of those
+> two licences.
 
 ## The Grace Commentary
 
 The verse commentary in the Illumination Translation — the lightbulb at the end
 of a verse. Every note is written from the Greek text and public-domain sources.
 
-**The credit, in the wording Joseph Prince Ministries asked for:**
+**Acknowledgement:**
 
 > The Grace Commentary was developed with study of publicly available sermon
 > notes from Joseph Prince Ministries.
 
-**Modifications:** none, in the sense that matters — no sentence, phrase or turn
-of wording from their notes appears here. The permission is to draw on the
-substance of the teaching as study, and every note was then written fresh. Which
+That is a statement of what informed the writing, not a licence and not a claim
+of endorsement. **No sentence, phrase or turn of wording from those notes appears
+here** — the reading was studied and every note was then written fresh, which is
+why the commentary can carry the same open licence as the rest of `data/`. Which
 sermon informed which note is recorded in `_commentary/ledger.json`, which holds
 titles, dates, links and scripture references only, never their text.
 
@@ -147,9 +143,8 @@ them. *How Great Thou Art* (Hine's English text, 1949), *He Lives* (1933) and
 ## The translations and original writing
 
 Three of the four texts in this app are original work by the project owner,
-produced with **Claude (Anthropic)** — most recently **Claude Opus 5** — and
-released under CC BY-SA 4.0. The work spans many sessions and successive model
-versions; Opus 5 is the current one, not the only one that touched it.
+produced with the **latest large language models** and released under
+CC BY-SA 4.0. The work spans many sessions and successive model versions.
 
 ### The Mak Translation — `data/chapters.js`
 
