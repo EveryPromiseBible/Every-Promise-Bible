@@ -2750,6 +2750,10 @@ function renderIntro(idx) {
   const e = WORDCOUNTS.reduce((a, r) => a + r[3], 0);
   const allMatch = WORDCOUNTS.every(r => r[1] === r[2]);
   const n = x => x.toLocaleString('en-US');
+  /* Counted, not written down -- same rule the Options pages follow. A section
+     total typed into the prose is correct until the next book is reworked. */
+  const secs = CHAPTERS.reduce((a, c) => a + c.sections.length, 0);
+  const books = WORDCOUNTS.length;
 
   el.innerHTML = `
     <div class="intro">
@@ -2765,7 +2769,7 @@ function renderIntro(idx) {
       <p>The English is arranged to read naturally rather than to copy Greek word
       order. Doing that safely is the hard part, because reordering the English
       can quietly leave a label sitting on the wrong Greek word. Every one of the
-      1,190 sections has been read through, and the Greek was checked after every
+      ${n(secs)} sections has been read through, and the Greek was checked after every
       change: <strong>no Greek word has been added, removed, or moved between
       chapters.</strong></p>
 
@@ -2775,10 +2779,10 @@ function renderIntro(idx) {
       words than Greek to say the same thing &mdash; about
       <strong>${(e / g).toFixed(2)}&times;</strong> as many &mdash; which is why that
       column is larger. The Greek column is the one that must match, and it does,
-      in all ${WORDCOUNTS.length} books.</p>
+      in all ${books} books.</p>
 
       <button class="intro-toggle" onclick="toggleIntroTable()">
-        ${introOpen ? '&minus; hide the word counts' : '+ show the word counts for all 27 books'}
+        ${introOpen ? '&minus; hide the word counts' : '+ show the word counts for all ' + books + ' books'}
       </button>
 
       <div class="intro-table-wrap" style="display:${introOpen ? 'block' : 'none'}">
@@ -2789,7 +2793,7 @@ function renderIntro(idx) {
               <td>${r[0]}</td><td>${n(r[1])}</td><td>${n(r[2])}</td><td>${n(r[3])}</td>
               <td class="${r[1] === r[2] ? 'ok' : ''}">${r[1] === r[2] ? '&#10003;' : '&#10007;'}</td></tr>`).join('')}
           </tbody>
-          <tfoot><tr><td>All 27 books</td><td>${n(g)}</td><td>${n(s)}</td><td>${n(e)}</td>
+          <tfoot><tr><td>All ${books} books</td><td>${n(g)}</td><td>${n(s)}</td><td>${n(e)}</td>
             <td class="${allMatch ? 'ok' : ''}">${allMatch ? '&#10003;' : '&#10007;'}</td></tr></tfoot>
         </table>
       </div>
@@ -2800,8 +2804,9 @@ function renderIntro(idx) {
       the Greek are automated and re-runnable.</p>
 
       <p><strong>Everything here is open source.</strong> The app, the translations, the
-      lexicons, the hymnal, the tools that assembled every file, and the full commit
-      history recording every correction and the reason for it. Nothing is held back, so
+      lexicons, the commentary, the hymnal, the tools that assembled every file, and the
+      full commit history recording every correction and the reason for it. Nothing is
+      held back, so
       anything on this page can be verified rather than taken on trust &mdash;
       <a href="https://github.com/EveryPromiseBible/Every-Promise-Bible" target="_blank"
       rel="noopener">read it here</a>.</p>

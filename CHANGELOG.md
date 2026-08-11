@@ -1,5 +1,36 @@
 # CHANGELOG
 
+## 2026-08-10 — The Mak intro panel: three numbers that were typed, not counted
+
+Checked every claim on the panel against the data. **All of them were true**:
+1,190 sections, 137,554 Greek words matching SBLGNT in all 27 books, 177,905
+English at 1.29× — every figure exact.
+
+But three of them were **written into the prose rather than counted from it**, and
+the file's own rule, stated above `optCount`, is that a hardcoded figure is a
+claim that quietly stops being true the next time the corpus is rebuilt. The
+section total was the exposed one: `1,190` sat in a sentence promising *every one
+of them* had been read, and adding a book changes that number without touching
+the sentence.
+
+| | was | now |
+|---|---|---|
+| the prose | `1,190 sections` | `${n(secs)}` from `CHAPTERS` |
+| the button | "for all 27 books" | `${books}` from `WORDCOUNTS` |
+| the table footer | "All 27 books" | `${books}` |
+
+The body paragraph already used `${WORDCOUNTS.length}` — so the same page was
+counting the books in one sentence and asserting them two lines later.
+
+**The commentary was added to the open-source list.** The panel named the app, the
+translations, the lexicons, the hymnal and the tools; the commentary was the one
+part of `data/` it left out, from when it was carved out under a permission that
+turned out not to exist.
+
+Verified in a browser with the table both open and closed: the computed figures
+render identically to the typed ones they replaced, and there are no console
+errors.
+
 ## 2026-08-10 — A permission that never existed, removed everywhere it was asserted
 
 The repository claimed, in five places, that the Grace Commentary was **used by
