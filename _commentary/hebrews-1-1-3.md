@@ -16,7 +16,7 @@ sources:
   - 2025-02-16 count-on-your-forgiveness
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-06-22 no-more-fear-of-death
-updated: 2026-08-06
+updated: 2026-08-11
 ---
 
 The opening sentence of the letter, and it ends on a posture.
@@ -47,8 +47,14 @@ The second image is from a seal pressed into wax — the exact impression, every
 feature reproduced. The word is **charakter**, which is where our word comes
 from.
 
-*He carries the whole of it along on one powerful word.* Not holding the universe
-up like a pillar. Carrying it forward, by speaking.
+*He is still speaking, and everything He made is still carried by it.*
+
+The Greek behind that line is **pherōn** — a present participle, continuous.
+Not "carried once", and not holding the universe up like a pillar: carrying it
+along, now, the way wind carries a ship. And the word doing the carrying is
+**rhēma** — a *spoken* word — the rhēma *of His power*, which is Hebrew idiom
+for His powerful word. The speaking has not stopped, which is why the carrying
+has not either. That is what this translation chose to say out loud.
 
 ## The last clause
 

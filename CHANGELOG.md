@@ -1,5 +1,68 @@
 # CHANGELOG
 
+## 2026-08-11 — Hebrews 1:3 in the Illumination: the carrying made present-tense
+
+One sentence changed, in the 1:1–3 block of Hebrews 1:
+
+| | |
+|---|---|
+| was | *He carries the whole of it along on one powerful word.* |
+| now | **He is still speaking, and everything He made is still carried by it.** |
+
+### The Greek, and why
+
+The clause is **φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ** — familiar from
+the KJV as *"upholding all things by the word of his power."* Three things in it
+drove the change:
+
+- **φέρων is a present participle** — continuous, happening now. Not "carried
+  once" and not static upholding: dynamic bearing-along, the way wind bears a
+  ship. The old line's *"on one powerful word"* imported a numeral the Greek does
+  not have and made it read like a single past utterance. The new line exists to
+  say the *still*.
+- **ῥῆμα is a spoken word** — an utterance, not writing. "He is still speaking"
+  is that noun taken at its force.
+- **τὰ πάντα** — "all things." The old *"the whole of it"* left a reader asking
+  *the whole of what?* The new *"everything He made"* answers from the sentence
+  before it (*"through Him the worlds were made"*).
+
+### What the choice trades, stated plainly
+
+This is the most interpretive rendering that was on the table, and it was chosen
+knowing that. Three costs, on the record:
+
+1. **τῆς δυνάμεως — "of His power" — is not in the verse line.** The familiar
+   cadence "the word of His power" is carried instead by the Grace Commentary
+   note on the block, which now teaches the full phrase.
+2. **"He is still speaking" is inference, not translation.** ῥῆμα is a noun; the
+   verse says He carries *by* His word, not that He is presently uttering it.
+   The continuous participle plus the nature of ῥῆμα make the inference honest;
+   it is still an inference.
+3. **The agent shifts.** In the Greek the Son carries; in the new line the word
+   does ("carried by *it*"). The chapter exists to exalt the Son, and the
+   surrounding sentences keep Him the subject.
+
+Tighter candidates that kept every element — e.g. *"And He is still carrying
+everything along by the word of His power"* — were weighed and set aside by the
+project owner in favour of the reading that says the continuity out loud. That is
+the standing rule of this translation applied: **easy to read and makes sense
+wins, provided the record says exactly what was traded.** This entry is that
+record.
+
+One distinction kept on purpose: *"in Him all things hold together"* is
+**Colossians 1:17** (συνέστηκεν — cohesion). Hebrews 1:3 is *carrying* —
+momentum. The two are often blended in quotation; the Illumination keeps them
+distinct.
+
+### What moved with it
+
+The commentary note `hebrews-1-1-3.md` quoted the old wording verbatim, so it
+moved in the same commit — it now quotes the new line and carries the Greek
+teaching (φέρων present-continuous, ῥῆμα as spoken word, the rhēma *of His
+power*). `data/commentary.js` rebuilt through the tool: **2,220 notes, 0
+unreachable.** The Illumination round-trips at **1,189 chapters · 5,282 sections
+· 9,031 verse blocks**, byte-identical outside the one replaced sentence.
+
 ## 2026-08-11 — Quotes: a sixth tab, and a fifth place the app can open on
 
 Chris wanted the people who shaped this project carried in their own words, in a
