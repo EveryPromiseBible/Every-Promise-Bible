@@ -32,8 +32,8 @@ This is the most interpretive rendering that was on the table, and it was chosen
 knowing that. Three costs, on the record:
 
 1. **τῆς δυνάμεως — "of His power" — is not in the verse line.** The familiar
-   cadence "the word of His power" is carried instead by the Grace Commentary
-   note on the block, which now teaches the full phrase.
+   cadence "the word of His power" remains one tap away in the KJV, which is
+   part of why the app carries it.
 2. **"He is still speaking" is inference, not translation.** ῥῆμα is a noun; the
    verse says He carries *by* His word, not that He is presently uttering it.
    The continuous participle plus the nature of ῥῆμα make the inference honest;
@@ -54,14 +54,25 @@ One distinction kept on purpose: *"in Him all things hold together"* is
 momentum. The two are often blended in quotation; the Illumination keeps them
 distinct.
 
-### What moved with it
+### What moved with it — and a rule worth writing down
 
-The commentary note `hebrews-1-1-3.md` quoted the old wording verbatim, so it
-moved in the same commit — it now quotes the new line and carries the Greek
-teaching (φέρων present-continuous, ῥῆμα as spoken word, the rhēma *of His
-power*). `data/commentary.js` rebuilt through the tool: **2,220 notes, 0
-unreachable.** The Illumination round-trips at **1,189 chapters · 5,282 sections
-· 9,031 verse blocks**, byte-identical outside the one replaced sentence.
+The commentary note `hebrews-1-1-3.md` quoted the old wording verbatim, so its
+quotation was updated to match. **Nothing else in the note changed**, and that is
+deliberate — the standing rule, set by the project owner:
+
+> **When the translation changes, a commentary note changes only where it quotes
+> the translation.** The note's own voice is not edited to advertise or defend
+> the new wording. The *why* of a translation choice lives here in the
+> changelog and in the commit history, not in the reader-facing notes.
+
+(A first pass on this edit added a Greek-teaching paragraph into the note; it was
+removed the same day under this rule. The note's original comment — *"Not holding
+the universe up like a pillar. Carrying it forward, by speaking."* — stands
+untouched, and reads even better against the new line.)
+
+`data/commentary.js` rebuilt through the tool: **2,220 notes, 0 unreachable.**
+The Illumination round-trips at **1,189 chapters · 5,282 sections · 9,031 verse
+blocks**, byte-identical outside the one replaced sentence.
 
 ## 2026-08-11 — Quotes: a sixth tab, and a fifth place the app can open on
 

@@ -47,14 +47,8 @@ The second image is from a seal pressed into wax — the exact impression, every
 feature reproduced. The word is **charakter**, which is where our word comes
 from.
 
-*He is still speaking, and everything He made is still carried by it.*
-
-The Greek behind that line is **pherōn** — a present participle, continuous.
-Not "carried once", and not holding the universe up like a pillar: carrying it
-along, now, the way wind carries a ship. And the word doing the carrying is
-**rhēma** — a *spoken* word — the rhēma *of His power*, which is Hebrew idiom
-for His powerful word. The speaking has not stopped, which is why the carrying
-has not either. That is what this translation chose to say out loud.
+*He is still speaking, and everything He made is still carried by it.* Not holding the universe
+up like a pillar. Carrying it forward, by speaking.
 
 ## The last clause
 
