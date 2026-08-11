@@ -1,5 +1,44 @@
 # CHANGELOG
 
+## 2026-08-10 — The commentary bulb, struck through on a phone after closing
+
+Chris reported it from an iPhone: open a commentary note, close it, and the bulb
+is left with what looks like a line drawn through the glow. **It does not
+reproduce in desktop Chrome**, which is the tell.
+
+**The cause is a filter list that changes shape.** CSS can interpolate two
+`filter` values only when their function lists match — same functions, same
+order. These did not:
+
+| state | filter |
+|---|---|
+| closed | `drop-shadow(…) drop-shadow(…)` |
+| open | `grayscale(1) opacity(0.55)` |
+
+Nothing in common, so the browser cannot interpolate and falls back to a discrete
+swap. Chrome swaps cleanly. **WebKit composites the half-applied drop-shadow and
+leaves a horizontal seam across the glow** — which is exactly what a line through
+a lightbulb looks like.
+
+Every state now lists the **same four functions in the same order** —
+`grayscale`, `opacity`, then both drop-shadows — and varies only their values.
+The off state keeps its two shadows at zero radius and fully transparent rather
+than dropping them from the list. Verified in the browser: the lists match in all
+four states, and the property now genuinely interpolates — reading the computed
+filter mid-transition returns an in-between value where before it jumped
+straight to the end.
+
+**Second fix in the same rule: the hover states are now behind
+`@media (hover:hover)`.** Touch reports no hover, so an unguarded `:hover` latches
+on after a tap and stays until the reader touches something else — leaving a
+*closed* bulb wearing the opened bulb's `scale(1.12)`. That may be part of what
+was seen, and it is wrong regardless.
+
+> **Not confirmed on the device.** Both faults are real and both are fixed, but
+> the artifact itself could not be reproduced here — it needs a look on an iPhone
+> to close properly. `sw.js` needed no version bump: navigations are network
+> first, so a reload picks the new CSS up.
+
 ## 2026-08-10 — The Mak intro panel: three numbers that were typed, not counted
 
 Checked every claim on the panel against the data. **All of them were true**:

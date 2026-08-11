@@ -373,17 +373,33 @@
      now showing -- the light has moved off the marker and onto the page.
      drop-shadow rather than box-shadow so the glow follows the bulb's outline
      instead of a square box. */
+  /* EVERY state below lists the SAME filter functions in the SAME order --
+     grayscale, opacity, then both drop-shadows -- and varies only their values.
+     That is not tidiness. CSS can only interpolate two filters when their
+     function lists match; when they differ the browser falls back to a discrete
+     swap, and iOS Safari renders that mid-transition as a horizontal seam across
+     the glow, which looks like a line struck through the bulb. The off state
+     therefore keeps its two drop-shadows at zero radius and transparent rather
+     than dropping them from the list. */
   .cmt-bulb{display:inline-block;margin-left:5px;padding:0;border:none;
     background:none;font-size:0.9em;line-height:1;cursor:pointer;
-    vertical-align:-1px;filter:drop-shadow(0 0 5px rgba(240,185,11,0.95))
+    vertical-align:-1px;
+    filter:grayscale(0) opacity(1) drop-shadow(0 0 5px rgba(240,185,11,0.95))
     drop-shadow(0 0 11px rgba(240,185,11,0.5));
     transition:filter 0.25s ease,transform 0.25s ease;}
-  .cmt-bulb:hover{filter:drop-shadow(0 0 6px rgba(240,185,11,1))
-    drop-shadow(0 0 14px rgba(240,185,11,0.6));transform:scale(1.12);}
+  /* Touch reports no hover. Left unguarded, a tap on iOS leaves :hover latched
+     on until the reader taps something else, so a closed bulb keeps the opened
+     bulb's scale. */
+  @media (hover:hover){
+    .cmt-bulb:hover{filter:grayscale(0) opacity(1) drop-shadow(0 0 6px rgba(240,185,11,1))
+      drop-shadow(0 0 14px rgba(240,185,11,0.6));transform:scale(1.12);}}
   /* .open must follow :hover -- equal specificity, so source order decides
      which wins while the pointer is over an opened bulb. */
-  .cmt-bulb.open{filter:grayscale(1) opacity(0.55);transform:scale(1.12);}
-  .cmt-bulb.open:hover{filter:grayscale(1) opacity(0.85);}
+  .cmt-bulb.open{filter:grayscale(1) opacity(0.55) drop-shadow(0 0 0 rgba(240,185,11,0))
+    drop-shadow(0 0 0 rgba(240,185,11,0));transform:scale(1.12);}
+  @media (hover:hover){
+    .cmt-bulb.open:hover{filter:grayscale(1) opacity(0.85) drop-shadow(0 0 0 rgba(240,185,11,0))
+      drop-shadow(0 0 0 rgba(240,185,11,0));}}
   @media (prefers-reduced-motion:reduce){
     .cmt-bulb{transition:none;}
     .cmt-bulb:hover,.cmt-bulb.open{transform:none;}}
