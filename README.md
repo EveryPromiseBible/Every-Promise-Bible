@@ -175,7 +175,7 @@ store review.
 ## How it was made
 
 The Mak Translation, the Illumination and The Thirteenth Disciple were produced
-with the **latest large language models**, working against the SBLGNT, MorphGNT,
+with the **latest LLMs**, working against the SBLGNT, MorphGNT,
 Strong's, Thayer's and Abbott-Smith. The work spans many sessions and successive
 model versions. The tooling in `tools/` exists because a language
 model will produce fluent, confident, wrong output, and fluency is not evidence.

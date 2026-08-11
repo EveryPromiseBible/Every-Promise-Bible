@@ -22,10 +22,13 @@ the sentence.
 The body paragraph already used `${WORDCOUNTS.length}` — so the same page was
 counting the books in one sentence and asserting them two lines later.
 
-**The commentary was added to the open-source list.** The panel named the app, the
-translations, the lexicons, the hymnal and the tools; the commentary was the one
-part of `data/` it left out, from when it was carved out under a permission that
-turned out not to exist.
+**The open-source paragraph was left as it was.** The commentary was briefly added
+to its list — it had been the one part of `data/` missing from it, left out from
+when it was carved out under a permission that turned out not to exist — and then
+taken back out. This panel is the **Mak Translation's** introduction, not the
+project's, and the commentary belongs to the Illumination. Options → About This
+Project is where the whole-project licence picture lives, and it names the
+commentary there.
 
 Verified in a browser with the table both open and closed: the computed figures
 render identically to the typed ones they replaced, and there are no console
@@ -112,7 +115,7 @@ data at render time rather than written down:
 **Named vendors and model versions taken out**, everywhere the project describes
 how it was made — the About page, the Mak intro panel, both READMEs, both CREDITS
 files and the working repo's `index.html`. Seven places in all, now reading *the
-latest large language models*. A version number in user-facing copy dates the page
+latest LLMs*. A version number in user-facing copy dates the page
 the moment the next model lands, and the claim it is making — that this was
 machine-assisted and mechanically checked — does not depend on which one. The
 paragraph around it is otherwise intact: the work still spans many sessions and
