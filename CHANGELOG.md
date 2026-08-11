@@ -1,5 +1,70 @@
 # CHANGELOG
 
+## 2026-08-11 — Quotes: a sixth tab, and a fifth place the app can open on
+
+Chris wanted the people who shaped this project carried in their own words, in a
+tab of their own, and in the rotation the app opens with. It sits between My
+Stuff and Hymns in both the top bar and the phone bar.
+
+**Two faces on one view**, the shape the hymnal already uses: a single quote on a
+card with **another** and **all quotes**, and behind it the whole collection
+grouped by person. Tapping one in the list brings it to the card, because a quote
+is meant to be read whole rather than skimmed in a row.
+
+**Eight quotes from six people** to start: Luther, Bunyan (two), Coverdale,
+Spurgeon, Lloyd-Jones and Prince (two). `data/quotes.js` is hand-maintained —
+`text`, `who`, optional `source` — with no builder. It is the only data file in
+the project a person is expected to edit directly.
+
+### The card resizes itself, because one size does not fit a quote
+
+The first build set everything at the verse-of-the-day scale. *"Your
+righteousness is in heaven"* looked magnificent; Coverdale's forty-word sentence
+became a tall narrow column that had to be scrolled, and Spurgeon's paragraph was
+worse. Four steps now, chosen from the character count, with the measure widening
+as the type shrinks so both read as one block:
+
+| | length | example |
+|---|---|---|
+| s1 | under 90 | *Your righteousness is in heaven.* |
+| s2 | under 190 | Luther on Law and Gospel |
+| s3 | under 380 | Coverdale's prologue |
+| s4 | 380+ | Spurgeon on the doctrine of grace |
+
+### In the opening rotation at weight 1 — about one visit in nine
+
+`RANDOM_POOL` gains `quote`, drawn least often of the five: a quote is a few
+seconds against a chapter, and landing on one often would make this read as a
+quote app that also has a Bible in it.
+
+**It rides the same rail the hymn does**, and for the reason recorded there: the
+scripture landing always happens first and the quote view opens on top, so the
+Bible sits ready behind it. Tested by forcing the draw — the quote shows with
+Romans 13 already loaded underneath.
+
+**One extra guard the hymn does not need.** `data/quotes.js` is hand-maintained
+and can legitimately be empty, so `landOnQuote` requires there to be a quote to
+land on; otherwise the draw falls through to scripture rather than opening a card
+with nothing on it. Verified by emptying the array at runtime: the landing goes
+to the Bible, and both the card and the list say *No quotes yet.*
+
+### A "remembered, not transcribed" marker, built and then removed
+
+Two of the Prince lines arrived as recollections rather than transcriptions, so
+the card bylined them *the sense of Joseph Prince* and the list marked them.
+Chris's call was to drop it and byline him like everyone else, which is what it
+does now.
+
+**The mechanism went with it** — field, byline branch, list marker and CSS —
+rather than being left switched off behind an unused flag. A feature nothing
+reaches is the kind of debt this file already tracks elsewhere.
+
+> Shuffle never repeats the same quote twice running. Attribution notes worth
+> keeping: the Bunyan couplet *"To run and work the law commands"* is widely
+> credited to him but is disputed and appears in none of his known works, and
+> *"Your righteousness is in heaven"* is modernised from his *"Thy"* — recorded
+> in a comment beside the entry.
+
 ## 2026-08-10 — The commentary bulb, struck through on a phone after closing
 
 Chris reported it from an iPhone: open a commentary note, close it, and the bulb

@@ -1108,6 +1108,44 @@
   /* the reader */
   .hy-back{background:none;border:none;font-family:var(--mono);font-size:0.72em;color:var(--gray);cursor:pointer;padding:0;margin-bottom:20px;}
   .hy-back:hover{color:var(--sword);}
+
+  /* Quotes. The card borrows the verse-of-the-day scale rather than the
+     hymnal's, because a quote is one thing read whole, not a list entry. */
+  .qt-wrap{max-width:820px;margin:22px auto 110px;padding:38px 34px 34px;
+           background:var(--sheet);border-radius:var(--sheetr);box-shadow:var(--lift);}
+  /* No quotation marks drawn here. Several of these lines carry their own, and a
+     decorative pair around a line that already opens with one reads as a stutter. */
+  .qt-text{font-weight:700;line-height:1.28;letter-spacing:-0.01em;
+           margin:0;color:var(--ink);}
+  /* One size does not fit a quote. A six-word line wants the verse-of-the-day
+     scale; Coverdale's forty-word sentence set that big becomes a tall narrow
+     column that has to be scrolled. The size steps down with the length and the
+     measure widens with it, so both read as one comfortable block. Set from the
+     text in qtRenderCard rather than guessed at here. */
+  .qt-text.s1{font-size:2.4em;max-width:20ch;}
+  .qt-text.s2{font-size:1.9em;max-width:26ch;}
+  .qt-text.s3{font-size:1.5em;line-height:1.36;max-width:34ch;}
+  .qt-text.s4{font-size:1.2em;line-height:1.5;max-width:46ch;font-weight:600;}
+  .qt-by{font-family:var(--mono);font-size:0.85em;color:var(--sword);margin-top:26px;font-weight:700;}
+  .qt-src{display:block;color:var(--gray);font-weight:500;margin-top:5px;}
+  .qt-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:30px;}
+  /* Grouped by person: the tab is about who said it as much as what was said. */
+  .qt-person{font-family:var(--mono);font-size:0.72em;letter-spacing:0.06em;
+             text-transform:uppercase;color:var(--sword);margin:26px 0 10px;font-weight:700;}
+  .qt-person:first-child{margin-top:0;}
+  .qt-item{border-left:2px solid var(--line);padding:2px 0 2px 16px;margin-bottom:16px;cursor:pointer;}
+  .qt-item:hover{border-left-color:var(--sword);}
+  .qt-item p{font-size:0.98em;line-height:1.6;margin:0;color:var(--ink);}
+  .qt-item .qt-isrc{font-family:var(--mono);font-size:0.66em;color:var(--gray);margin-top:5px;}
+  .qt-empty{font-size:1.05em;line-height:1.7;color:var(--gray);margin:0;}
+  /* On a phone the measure is the viewport, so only the size needs stepping. */
+  @media(max-width:1000px){
+    .qt-text{max-width:none;}
+    .qt-text.s1{font-size:1.7em;}
+    .qt-text.s2{font-size:1.45em;}
+    .qt-text.s3{font-size:1.25em;}
+    .qt-text.s4{font-size:1.08em;}
+  }
   .hy-num{font-family:var(--mono);font-size:0.66em;color:var(--gray);letter-spacing:0.06em;}
   .hy-title{font-size:1.75em;font-weight:700;line-height:1.25;letter-spacing:-0.01em;margin:6px 0 12px;}
   /* The scripture line the hymnal heads each hymn with, set as an epigraph in
@@ -1279,6 +1317,7 @@
       <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
       <button data-v="bible" onclick="sv('bible')">Bible</button>
       <button data-v="mystuff" onclick="sv('mystuff')">My Stuff</button>
+      <button data-v="quotes" onclick="sv('quotes')">Quotes</button>
       <button data-v="hymns" onclick="sv('hymns')">Hymns</button>
       <button data-v="journal" onclick="sv('journal')">Journal</button>
     </nav>
@@ -1411,6 +1450,23 @@
   <div class="ms-detail-list" id="msDetailList"></div>
 </div>
 </section>
+<!-- Quotes. Two faces, the same shape the hymnal uses: one quote on its own,
+     and the whole collection grouped by person behind it. -->
+<section class="view" id="view-quotes">
+<div class="qt-wrap" id="qtCard">
+  <div class="kicker"><span class="dot"></span><span>Quote</span></div>
+  <blockquote class="qt-text" id="qtText"></blockquote>
+  <div class="qt-by" id="qtBy"></div>
+  <div class="qt-actions" id="qtActions"></div>
+</div>
+<div class="hy-wrap" id="qtList" style="display:none;">
+  <button class="hy-back" onclick="qtBack()">&#8249; Quote</button>
+  <h2>Quotes</h2>
+  <p class="hy-sub" id="qtSub"></p>
+  <div id="qtGroups"></div>
+</div>
+</section>
+
 <section class="view" id="view-hymns">
 <div class="hy-wrap" id="hyIndex">
   <h2>Hymns</h2>
@@ -1568,6 +1624,7 @@
   <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
   <button data-v="bible" onclick="sv('bible')">Bible</button>
   <button data-v="mystuff" onclick="sv('mystuff')">My Stuff</button>
+  <button data-v="quotes" onclick="sv('quotes')">Quotes</button>
   <button data-v="hymns" onclick="sv('hymns')">Hymns</button>
   <button data-v="journal" onclick="sv('journal')">Journal</button>
 </div>
@@ -1637,6 +1694,7 @@
 <script src="data/wordcounts.js"></script>
 <script src="data/wordpictures.js"></script>
 <script src="data/hymns.js"></script>
+<script src="data/quotes.js"></script>
 <script>
 const PALETTE = [
 "#b5461a","#1a6fa8","#7a8c1a","#a3247a","#1a8c6f","#c47a00","#5a3fa8",
@@ -2954,6 +3012,7 @@ function sv(name) {
      msShow keeps whichever category page was last open, so jumping to a
      highlight and coming back lands on the highlights list, not the index. */
   if (name === 'mystuff') msShow();
+  if (name === 'quotes') qtShow();
   if (name === 'options') optShow();
   /* Land on the calendar, not in an editor for a day nobody asked about. */
   if (name === 'journal' && typeof jrShowMain === 'function') jrShowMain();
@@ -5081,7 +5140,11 @@ const RANDOM_POOL = [
   { tx: 'illum', weight: 3 },
   { tx: 'mak',   weight: 2 },
   { tx: 'hymn',  weight: 2 },
-  { tx: 'dev',   weight: 1 }
+  { tx: 'dev',   weight: 1 },
+  /* A quote is the shortest thing here -- a few seconds against a chapter -- so
+     it is drawn least often. Landing on one repeatedly would make the app feel
+     like a quote app that also has a Bible in it. */
+  { tx: 'quote', weight: 1 }
 ];
 
 /* readMode is flipped by toggleMode(), which also repaints its own controls.
@@ -5108,9 +5171,15 @@ function openSomewhereRandom() {
      So the scripture landing always happens and the hymn is opened on top of
      it. The bible view is then ready behind the hymn, which is what tapping
      Bible expects to find. */
-  const hymns = hyAll();
-  const landOnHymn = tx === 'hymn' && hymns.length > 0;
-  if (tx === 'hymn') tx = 'illum';     // the bible still needs a destination
+  const hymns  = hyAll();
+  const quotes = qtAll();
+  const landOnHymn  = tx === 'hymn'  && hymns.length  > 0;
+  /* Quotes ride the same rail as the hymn for the same reason, and carry one
+     extra condition: data/quotes.js is hand-maintained and can be empty, in
+     which case the draw falls through to scripture rather than landing the
+     reader on a card that has nothing to say. */
+  const landOnQuote = tx === 'quote' && quotes.length > 0;
+  if (tx === 'hymn' || tx === 'quote') tx = 'illum';   // the bible still needs a destination
 
   sv('bible');
   switchTranslation(tx);
@@ -5129,10 +5198,13 @@ function openSomewhereRandom() {
   }
   syncModeUI();
 
-  /* Last, so the hymn is what the reader actually arrives on. */
+  /* Last, so the hymn or the quote is what the reader actually arrives on. */
   if (landOnHymn) {
     sv('hymns');
     hyOpen(Math.floor(Math.random() * hymns.length));
+  } else if (landOnQuote) {
+    qtCurrent = qtPick();
+    sv('quotes');
   }
 }
 
@@ -6396,6 +6468,119 @@ function optSourcesHtml() {
          '<a href="https://github.com/EveryPromiseBible/Every-Promise-Bible" target="_blank" rel="noopener">' +
          'project repository</a>.</p>' +
          '</div>';
+}
+
+/* ================= Quotes =================
+   The people whose preaching and writing shaped this project, in their own
+   words. Two faces on one view, the shape the hymnal already uses: a single
+   quote on a card, and the whole collection behind it grouped by person.
+
+   Everything guards on there being any quotes at all. data/quotes.js is
+   hand-maintained and may legitimately be empty; a tab that says so is better
+   than a blank card. */
+function qtAll() {
+  /* who is required as well as text -- an unattributed quote is the one thing
+     this tab cannot show, since whose words they are is half the point. */
+  return (typeof QUOTES !== 'undefined' ? QUOTES : []).filter(q => q && q.text && q.who);
+}
+
+let qtCurrent = -1;
+
+/* Never the same one twice running, unless there is only one to give. */
+function qtPick() {
+  const all = qtAll();
+  if (!all.length) return -1;
+  if (all.length === 1) return 0;
+  let i;
+  do { i = Math.floor(Math.random() * all.length); } while (i === qtCurrent);
+  return i;
+}
+
+function qtRenderCard() {
+  const all  = qtAll();
+  const text = document.getElementById('qtText');
+  const by   = document.getElementById('qtBy');
+  const acts = document.getElementById('qtActions');
+  if (!text) return;
+  if (!all.length) {
+    text.className = 'qt-empty';
+    text.textContent = 'No quotes yet.';
+    by.innerHTML = '';
+    acts.innerHTML = '';
+    return;
+  }
+  if (qtCurrent < 0 || qtCurrent >= all.length) qtCurrent = qtPick();
+  const q = all[qtCurrent];
+  /* Size chosen from the length. These four break points were set by eye against
+     the real quotes: a one-liner at s1, Coverdale's sentence at s3, Spurgeon's
+     paragraph at s4. Measured in characters rather than words because a long
+     word costs a line the same as a short one does. */
+  const len = q.text.length;
+  text.className = 'qt-text ' + (len < 90 ? 's1' : len < 190 ? 's2' : len < 380 ? 's3' : 's4');
+  text.textContent = q.text;
+  by.innerHTML = ilEsc(q.who) +
+    (q.source ? '<span class="qt-src">' + ilEsc(q.source) + '</span>' : '');
+  acts.innerHTML =
+    '<button class="abtn primary" onclick="qtShuffle()">another</button>' +
+    '<button class="abtn" onclick="qtBrowse()">all quotes</button>';
+}
+
+function qtShuffle() { qtCurrent = qtPick(); qtRenderCard(); }
+
+function qtBrowse() {
+  document.getElementById('qtCard').style.display = 'none';
+  document.getElementById('qtList').style.display = '';
+  qtRenderList();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+function qtBack() {
+  document.getElementById('qtList').style.display = 'none';
+  document.getElementById('qtCard').style.display = '';
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function qtRenderList() {
+  const all = qtAll();
+  const sub = document.getElementById('qtSub');
+  const box = document.getElementById('qtGroups');
+  if (!box) return;
+  if (!all.length) {
+    sub.textContent = '';
+    box.innerHTML = '<p class="qt-empty">No quotes yet.</p>';
+    return;
+  }
+  /* Grouped in the order the people first appear in the file rather than
+     alphabetically. This is somebody's own list, and the order it was written
+     in carries something an A-to-Z would flatten. */
+  const order = [], byWho = {};
+  all.forEach((q, i) => {
+    if (!byWho[q.who]) { byWho[q.who] = []; order.push(q.who); }
+    byWho[q.who].push({ q: q, i: i });
+  });
+  sub.textContent = all.length + (all.length === 1 ? ' quote' : ' quotes') +
+                    ' from ' + order.length + (order.length === 1 ? ' person' : ' people');
+  box.innerHTML = order.map(who =>
+    '<div class="qt-person">' + ilEsc(who) + '</div>' +
+    byWho[who].map(function (e) {
+      return '<div class="qt-item" onclick="qtOpen(' + e.i + ')">' +
+             '<p>' + ilEsc(e.q.text) + '</p>' +
+             (e.q.source ? '<div class="qt-isrc">' + ilEsc(e.q.source) + '</div>' : '') +
+             '</div>';
+    }).join('')
+  ).join('');
+}
+
+/* Tapping one in the list puts it on the card, which is where a quote is meant
+   to be read rather than skimmed. */
+function qtOpen(i) { qtCurrent = i; qtBack(); qtRenderCard(); }
+
+/* The tab always opens on the card. Someone who was browsing the list and left
+   is not mid-task the way a half-written journal entry is. */
+function qtShow() {
+  document.getElementById('qtList').style.display = 'none';
+  document.getElementById('qtCard').style.display = '';
+  if (qtCurrent < 0) qtCurrent = qtPick();
+  qtRenderCard();
 }
 
 /* ================= Hymns =================
