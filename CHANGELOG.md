@@ -1,5 +1,52 @@
 # CHANGELOG
 
+## 2026-08-11 — Matthew 11:30 in the Illumination: what the yoke is like to wear
+
+One sentence changed, closing the "Come to Me and Rest" section:
+
+| | |
+|---|---|
+| was | *My yoke fits easily, and My load is light.* |
+| now | **For My yoke is easy to wear, and My load is light to carry.** |
+
+### The Greek, and why
+
+**ὁ γὰρ ζυγός μου χρηστὸς καὶ τὸ φορτίον μου ἐλαφρόν ἐστιν** — KJV *"For my
+yoke is easy, and my burden is light."*
+
+- **γάρ ("For") is restored.** The clause is the *reason* for the promise before
+  it — you will find rest *because* of what this yoke is like. The old line had
+  dropped the connective.
+- **χρηστός** is not "easy" in the effortless sense — it is *kind, good,
+  well-suited*; the word the Greek Old Testament uses in "taste and see that the
+  LORD is good," and the word for a yoke shaped to the animal wearing it.
+  **"Easy to wear"** points "easy" at the fit rather than at the absence of work
+  — which is exactly the caution the Grace Commentary note on this block already
+  teaches ("the claim is not that there is no work; it is that this yoke will
+  not take the skin off you"). Translation and note now pull together.
+- **The parallel is completed:** *easy to wear / light to carry* — each half
+  says what the thing is like *for the one under it*, which is the pastoral
+  point of the verse.
+- **"Load" is kept on purpose.** φορτίον is the same word Matthew 23:4 uses of
+  the Pharisees — *"they tie up heavy **loads** and lay them on people's
+  **shoulders**"* — and 11:29 already reads *"take My yoke on your shoulders."*
+  The designed contrast (their heavy load, His light one, the same shoulders)
+  survives only if the word stays consistent, and it does.
+
+Candidates weighed and set aside by the project owner: *"For My yoke is kind,
+and My load is light"* (χρηστός at its barest — striking, but "a kind yoke"
+asks the reader to do the work the note does); *"kind to your shoulders"*
+(preachier); and the minimal fix of restoring "For" alone.
+
+### The note, under the quote-only rule
+
+`matthew-11-28-30.md` changed in exactly two places: the heading that quotes the
+rendering (*The word behind "fits easily"* → *The word behind "easy to wear"*)
+and the `updated:` date. The note's own prose — the yoke-is-for-two teaching,
+the chrestos section, "tiredness is the qualification" — is untouched.
+`data/commentary.js` rebuilt: **2,220 notes, 0 unreachable.** The Illumination
+round-trips at **1,189 chapters · 5,282 sections · 9,031 verse blocks**.
+
 ## 2026-08-11 — Hebrews 1:3 in the Illumination: the carrying made present-tense
 
 One sentence changed, in the 1:1–3 block of Hebrews 1:

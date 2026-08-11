@@ -22,7 +22,7 @@ sources:
   - 2023-02-05 pray-for-good-success-today
   - 2024-08-25 activate-your-grace-gifts
   - 2024-09-01 answers-for-lifes-demands
-updated: 2026-08-06
+updated: 2026-08-11
 ---
 
 The most quoted invitation in the Gospels, and the picture in the middle of it
@@ -56,7 +56,7 @@ manner, which is not how anyone recruits disciples.
 
 ---
 
-## The word behind "fits easily"
+## The word behind "easy to wear"
 
 **Chrestos.** It means kind, good, serviceable — and it was used of things that
 were well made, and of wine that had mellowed. In the Greek Old Testament it is
