@@ -6,10 +6,11 @@
  *
  * LICENCE -- CC BY-SA 4.0, the same as the rest of data/. See LICENSE-DATA.
  *
- * The Grace Commentary was developed with study of publicly available sermon
- * notes from Joseph Prince Ministries. Every note is original writing: none of
- * their wording is quoted or reproduced. That is an acknowledgement of what
- * informed the reading, not a licence and not a claim of endorsement.
+ * The Grace Commentary was developed with personal sermon notes and writings
+ * from Martin Luther, Charles Spurgeon, George Mueller, Joseph Prince, Martyn
+ * Lloyd-Jones, John Bunyan and John Newton. Every note is original writing:
+ * none of their wording is quoted or reproduced. That is an acknowledgement of
+ * what informed the reading, not a licence and not a claim of endorsement.
  *
  * Keyed "Book C:V" to match the verse label the reader sees; the Illumination
  * labels verses in blocks, so a key is usually a range with an EN DASH.

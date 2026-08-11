@@ -25,15 +25,16 @@ LICENCE -- READ BEFORE ADDING A NOTE
 The commentary is CC BY-SA 4.0 like the rest of data/, and it stays that way only
 because every note is ORIGINAL WRITING. The rule that keeps it open:
 
-  * Draw on the SUBSTANCE of publicly available sermon notes as study. Substance
+  * Draw on the SUBSTANCE of personally taken sermon notes as study. Substance
     is not copyrightable; expression is.
   * Quote NOTHING -- not a sentence, not a phrase, not a distinctive turn of
     wording. Every note is written fresh from the Greek and public-domain sources.
 
-Joseph Prince Ministries is acknowledged in CREDITS.md as an influence on the
-reading. That is an acknowledgement, not a licence, and no permission from them
-is claimed or required -- do not write one into this file. An earlier version of
-this header asserted a permission that does not exist; see CHANGELOG 2026-08-10.
+Seven writers are acknowledged in CREDITS.md as influences on the reading --
+Luther, Spurgeon, Mueller, Prince, Lloyd-Jones, Bunyan and Newton. That is an
+acknowledgement, not a licence, and no permission is claimed or required -- do
+not write one into this file. An earlier version of this header asserted a
+permission that does not exist; see CHANGELOG 2026-08-10.
 
 The ledger records which sermon informed which note -- a URL, a date and a list
 of references. It never stores their text.
@@ -62,10 +63,11 @@ HEADER = """/* The Grace Commentary -- verse commentary for the Illumination Tra
  *
  * LICENCE -- CC BY-SA 4.0, the same as the rest of data/. See LICENSE-DATA.
  *
- * The Grace Commentary was developed with study of publicly available sermon
- * notes from Joseph Prince Ministries. Every note is original writing: none of
- * their wording is quoted or reproduced. That is an acknowledgement of what
- * informed the reading, not a licence and not a claim of endorsement.
+ * The Grace Commentary was developed with personal sermon notes and writings
+ * from Martin Luther, Charles Spurgeon, George Mueller, Joseph Prince, Martyn
+ * Lloyd-Jones, John Bunyan and John Newton. Every note is original writing:
+ * none of their wording is quoted or reproduced. That is an acknowledgement of
+ * what informed the reading, not a licence and not a claim of endorsement.
  *
  * Keyed "Book C:V" to match the verse label the reader sees; the Illumination
  * labels verses in blocks, so a key is usually a range with an EN DASH.

@@ -3013,7 +3013,11 @@ function testamentOf(book) {
 function populateIllumSelect() {
   buildIllumNav();
   const sel = document.getElementById('chapterSelect');
-  let out = '', current = null;
+  /* Above the books and outside any optgroup, so it stays reachable whichever
+     testament is filtered. The KJV has no introduction by design -- it is the
+     text unedited -- so it gets no entry. */
+  let out = corpus().intros ? '<option value="intro">Introduction</option>' : '';
+  let current = null;
   ILLUM_NAV.forEach((d, i) => {
     if (testamentOf(d.book) !== illumTestament) return;
     if (d.book !== current) {
@@ -3034,6 +3038,69 @@ function setTestament(t) {
   populateIllumSelect();
   const first = ILLUM_NAV.findIndex(d => testamentOf(d.book) === t);
   if (first >= 0) loadIllum(first);
+}
+
+/* The Illumination's own introduction -- the counterpart to the Mak Introduction
+   that sits above Matthew 1. It describes the whole translation, so like Mak's it
+   is a destination in the chapter list rather than a page in Options: a reader
+   wondering what they are reading is in the translation, not in the settings.
+
+   Deliberately NOT an entry in ILLUM_NAV. Bookmarks, notes and highlights key on
+   the nav index, so inserting a destination at position 0 would silently
+   re-point every saved mark in the corpus. Mak has the same shape for the same
+   reason -- 'intro' is a value the loader recognises, not a row in the array.
+
+   Every figure is counted from the loaded corpus, never written down. */
+function buildIllumIntro() {
+  const n = x => x.toLocaleString('en-US');
+  const chapters = ILLUMINATION.length;
+  const sections = ILLUMINATION.reduce((a, c) => a + c.sections.length, 0);
+  const blocks   = ILLUMINATION.reduce((a, c) =>
+                     a + c.sections.reduce((m, s) => m + s.verses.length, 0), 0);
+  const synopses = Object.keys(ILLUMINATION_INTROS).length;
+  const books    = ILLUMINATION_BOOKS.length;
+
+  return `
+    <div class="intro">
+      <h2>The Illumination Translation</h2>
+      <div class="intro-sub">The whole Bible &middot; retold thought by thought</div>
+
+      <p>A different job from the interlinear. Where Mak is anchored to the Greek
+      word by word, the Illumination is <strong>free prose</strong> &mdash; a loose,
+      thought-for-thought paraphrase of the whole Bible in original modern English,
+      composed from the public-domain 1769 Authorized Version.</p>
+
+      <p>It is built for the reader who finds older translations hard going: long
+      passages with no signposts, sentences whose shape has drifted out of modern
+      English. So it is <strong>organised by subject.</strong> Every chapter carries
+      a title, every section a heading, and the verses are grouped into blocks of a
+      single thought rather than chopped into numbered fragments &mdash; you read a
+      paragraph, not a list.</p>
+
+      <p>Each book opens with a <strong>synopsis of its own</strong>: author, date,
+      purpose, themes, key verses and a full outline. It sits above that book's
+      first chapter in the list, the way this page sits above Genesis.</p>
+
+      <div class="intro-table-wrap">
+        <table>
+          <tbody>
+            <tr><td>Books</td><td>${n(books)}</td></tr>
+            <tr><td>Chapters</td><td>${n(chapters)}</td></tr>
+            <tr><td>Sections, each with its own heading</td><td>${n(sections)}</td></tr>
+            <tr><td>Verse blocks</td><td>${n(blocks)}</td></tr>
+            <tr><td>Synopses, one per book</td><td>${n(synopses)}</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p style="margin-top:18px;"><strong>Worth knowing about its text.</strong>
+      Because it was composed from the 1769 Authorized Version, it follows the Greek
+      text the King James translators used. The Mak interlinear follows the SBLGNT,
+      a modern critical edition. The two differ in a handful of well-known places,
+      so a verse can read slightly differently here than it does in the interlinear.
+      That is a difference of underlying manuscripts, not of anyone's carelessness
+      &mdash; and having both means you can see exactly where they part.</p>
+    </div>`;
 }
 
 /* The synopsis is set as a reference page rather than an article: dense
@@ -3248,18 +3315,37 @@ function ilHighlightVerse(el, si, vi, ev) {
 function renderIllumNav(i) {
   const nav = document.getElementById('chapterNav');
   if (!nav) return;
-  const prev = i > 0 ? i - 1 : null;
-  const next = i + 1 < ILLUM_NAV.length ? i + 1 : null;
+  /* 'intro' sits before the first book and has nothing before it, matching how
+     renderChapterNav already treats the Mak Introduction. */
+  const hasIntro = !!corpus().intros;
+  const prev = i === 'intro' ? null : (i > 0 ? i - 1 : (hasIntro ? 'intro' : null));
+  const next = i === 'intro' ? 0 : (i + 1 < ILLUM_NAV.length ? i + 1 : null);
+  const label = j => j === 'intro' ? 'Introduction' : illumLabel(ILLUM_NAV[j]);
+  const arg   = j => j === 'intro' ? "'intro'" : j;
   const btn = (j, dir, arrow) =>
     j === null
       ? '<span class="chap-nav-btn ' + dir + ' empty"></span>'
-      : '<button class="chap-nav-btn ' + dir + '" onclick="loadIllum(' + j + ')">' +
+      : '<button class="chap-nav-btn ' + dir + '" onclick="loadIllum(' + arg(j) + ')">' +
         '<span class="cn-dir">' + arrow + '</span>' +
-        '<span class="cn-ref">' + ilEsc(illumLabel(ILLUM_NAV[j])) + '</span></button>';
+        '<span class="cn-ref">' + ilEsc(label(j)) + '</span></button>';
   nav.innerHTML = btn(prev, 'prev', '&#8592; previous') + btn(next, 'next', 'next &#8594;');
 }
 
 function loadIllum(i) {
+  /* Its own destination, ahead of Number() so the string survives. Not a nav
+     entry -- see buildIllumIntro on why inserting one would re-point saved marks. */
+  if (i === 'intro') {
+    document.getElementById('chapterSelect').value = 'intro';
+    document.getElementById('chapterTitle').textContent = 'Introduction';
+    document.body.classList.remove('il-syn-page');
+    const el = document.getElementById('bibleIntro');
+    if (el) el.innerHTML = buildIllumIntro();
+    document.getElementById('sectionsContainer').innerHTML = '';
+    ilChapter = null;            // an introduction has no sections to act on
+    renderIllumNav('intro');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    return;
+  }
   i = Number(i);
   const d = ILLUM_NAV[i];
   if (!d) return;
@@ -6017,7 +6103,6 @@ let optView = null;
 const OPT_PAGES = [
   ['reading',      'Reading Text', 'Size and font for the scripture, hymns and devotional'],
   ['about',        'About This Project', 'What this is, and why it is open'],
-  ['texts',        'The Texts', 'Mak, the Illumination, the KJV and the devotional'],
   ['sources',      'Sources & Licences', 'Where the text comes from and under what terms']
 ];
 
@@ -6171,7 +6256,6 @@ function optBody(id) {
            'navigation or the Greek tags, which stay legible at their own size.</p>';
   }
   if (id === 'sources') return optSourcesHtml();
-  if (id === 'texts') return optTextsHtml();
   return optAboutHtml();
 }
 
@@ -6269,70 +6353,6 @@ function optAboutHtml() {
     '</div>';
 }
 
-function optTextsHtml() {
-  return '<div class="opt-about">' +
-    '<h3>The Mak Translation</h3>' +
-    '<p><b>A word-for-word rendering of the New Testament</b>, and the reason the project ' +
-    'exists. Every English word is anchored to the Greek word it renders. None floats ' +
-    'free of the text, and nothing is there that the Greek does not carry.</p>' +
-    '<p>That anchoring is the whole promise: tap a word and the lexicon opens on ' +
-    '<i>that</i> word. It is what a concordance or a strong-numbered Bible gives you, ' +
-    'except you do not have to go looking &mdash; the word and its meaning are the same ' +
-    'gesture.</p>' +
-    '<p>Each word is a three-line stack &mdash; the English, the Greek it renders, and its ' +
-    'Strong&rsquo;s number with the grammar. Words shown in <i>black italic</i> were ' +
-    'supplied for the sake of English and have no Greek behind them, so you can always ' +
-    'see what came from the text and what did not.</p>' +
-    '<p>The words sit in <b>English</b> order rather than Greek order, which is what makes ' +
-    'it readable. The Greek order is recoverable from the tags, and what must never change ' +
-    'is that every Greek word appears exactly once.</p>' +
-    optFacts([
-      ['Scope', 'The New Testament, ' + optCount(() => CHAPTERS.length) + ' chapters'],
-      ['Greek', 'SBLGNT, reproduced word for word'],
-      ['Reading', 'Study mode shows the Greek; Read mode hides it for plain prose']
-    ]) +
-
-    '<h3>The Illumination Translation</h3>' +
-    '<p>A different job entirely. Where Mak is anchored to the Greek word by word, the ' +
-    'Illumination is <b>free prose</b> &mdash; a loose, thought-for-thought paraphrase of ' +
-    'the whole Bible in original modern English, composed from the public-domain 1769 ' +
-    'Authorized Version.</p>' +
-    '<p>It is built for the reader who finds older translations hard going: long passages ' +
-    'with no signposts, sentences whose shape has drifted out of modern English. So it is ' +
-    '<b>organised by subject</b>. Every chapter carries a title, every section a heading, ' +
-    'and the verses are grouped into blocks of a single thought rather than chopped into ' +
-    'numbered fragments &mdash; you read a paragraph, not a list. Each book opens with a ' +
-    'synopsis of its own.</p>' +
-    optFacts([
-      ['Scope', optCount(() => ILLUMINATION_BOOKS.length) + ' books &mdash; the whole Bible, Old and New'],
-      ['Chapters', optCount(() => ILLUMINATION.length)],
-      ['Sections', optCount(() => ILLUMINATION.reduce((n, c) => n + c.sections.length, 0)) + ' with their own headings'],
-      ['Verse blocks', optCount(() => ILLUMINATION.reduce((n, c) => n + c.sections.reduce((m, s) => m + s.verses.length, 0), 0))],
-      ['Synopses', optCount(() => Object.keys(ILLUMINATION_INTROS).length) + ', one per book']
-    ]) +
-    '<p><b>Worth knowing about its text.</b> Because it was composed from the 1769 ' +
-    'Authorized Version, it follows the Greek text the King James translators used. The ' +
-    'Mak interlinear follows the SBLGNT, a modern critical edition. The two differ in a ' +
-    'handful of well-known places, so a verse can read slightly differently here than it ' +
-    'does in the interlinear. That is a difference of underlying manuscripts, not of ' +
-    'anyone&rsquo;s carelessness.</p>' +
-
-    '<h3>The King James Version</h3>' +
-    '<p>The Authorized Version of 1769, unedited. It is here so the older wording is ' +
-    'always a tap away &mdash; and so the Illumination can be read against the text it was ' +
-    'made from.</p>' +
-
-    '<h3>The Thirteenth Disciple</h3>' +
-    '<p>Not a translation but a devotional: <i>a gospel narrative in thirty-one days</i>, ' +
-    'walking beside Jesus from the Jordan to the Ascension. Each day carries the harmony ' +
-    'of gospel passages it draws on, so you can go and read the accounts it is retelling.</p>' +
-    optFacts([
-      ['Length', optCount(() => DEVOTIONAL.days.length) + ' days'],
-      ['Shape', 'A narrative, read straight through rather than looked up']
-    ]) +
-    '</div>';
-}
-
 function optSourcesHtml() {
   const rows = [
     ['Greek text', 'SBLGNT, ed. Michael W. Holmes', 'CC BY 4.0'],
@@ -6345,11 +6365,11 @@ function optSourcesHtml() {
     ['Commentary', 'The Grace Commentary', 'CC BY-SA 4.0']
   ];
   return '<div class="opt-about">' +
-         '<p>This is built on freely licensed scholarly work. The Greek is reproduced ' +
-         'word for word and checked mechanically against its source rather than asserted.</p>' +
+         '<p>This is built on freely licensed scholarly work.</p>' +
          '<div class="opt-facts">' +
-         '<b>Credit</b><span>The Grace Commentary was developed with study of publicly ' +
-         'available sermon notes from Joseph Prince Ministries. Every note is original ' +
+         '<b>Credit</b><span>The Grace Commentary was developed with personal sermon notes ' +
+         'and writings from Martin Luther, Charles Spurgeon, George M&uuml;ller, Joseph ' +
+         'Prince, Martyn Lloyd-Jones, John Bunyan and John Newton. Every note is original ' +
          'writing; none of their wording is quoted.</span>' +
          '</div>' +
          '<div class="opt-facts">' +

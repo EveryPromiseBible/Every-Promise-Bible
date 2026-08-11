@@ -20,15 +20,18 @@ of a verse. Every note is written from the Greek text and public-domain sources.
 
 **Acknowledgement:**
 
-> The Grace Commentary was developed with study of publicly available sermon
-> notes from Joseph Prince Ministries.
+> The Grace Commentary was developed with personal sermon notes and writings from
+> Martin Luther, Charles Spurgeon, George Müller, Joseph Prince, Martyn
+> Lloyd-Jones, John Bunyan and John Newton. Every note is original writing; none
+> of their wording is quoted.
 
 That is a statement of what informed the writing, not a licence and not a claim
-of endorsement. **No sentence, phrase or turn of wording from those notes appears
-here** — the reading was studied and every note was then written fresh, which is
-why the commentary can carry the same open licence as the rest of `data/`. Which
-sermon informed which note is recorded in `_commentary/ledger.json`, which holds
-titles, dates, links and scripture references only, never their text.
+of endorsement. The notes it was developed from were taken personally, and **no
+sentence, phrase or turn of wording from them appears here** — every note was
+written fresh, which is why the commentary carries the same open licence as the
+rest of `data/`. Which sermon informed which note is recorded in
+`_commentary/ledger.json`, which holds titles, dates, links and scripture
+references only, never their text.
 
 The two differ because the data builds on a ShareAlike source. See LICENSE-DATA.
 
