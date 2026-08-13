@@ -4,7 +4,7 @@ title: Swept past it
 sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-06
+updated: 2026-08-12
 ---
 
 The first of the letter's warnings, and the danger it names is drifting rather than rebelling.
@@ -21,9 +21,11 @@ Seven Old Testament quotations, all showing Him higher than the angels.
 
 ## The instruction
 
-*We owe what we have heard **a far closer hearing than we have been giving it**.*
+*We must give what we have heard **a far closer hearing than we have been giving it**.*
 
-The Greek is **perissoteros prosechein** — to give more abundant heed.
+The Greek is **dei** — it is necessary, one must — paired with **perissoteros prosechein**, to
+give more abundant heed. Not a debt owed; a necessity that follows from who Christ is, the
+subject of the whole chapter before this one.
 
 ## The danger
 

@@ -1,5 +1,38 @@
 # CHANGELOG
 
+## 2026-08-12 — Hebrews 2:1–4, Illumination + Commentary: "must," not "owe"
+
+One clause changed in the Illumination, and its commentary note updated to match:
+
+| | |
+|---|---|
+| was | *So **we owe** what we have heard a far closer hearing than we have been giving it...* |
+| now | *So **we must give** what we have heard a far closer hearing than we have been giving it...* |
+
+### The Greek, and why
+
+**Διὰ τοῦτο δεῖ ἡμᾶς περισσοτέρως προσέχειν τοῖς ἀκουσθεῖσιν** — the obligation word
+is **δεῖ** (*dei*), an impersonal verb meaning "it is necessary" or "one must." That
+is logical/moral necessity, not indebtedness. "Owe" translates a different Greek
+word entirely (ὀφείλω, *opheilō*), which isn't in this verse at all — so this
+wasn't a style preference, "owe" wasn't accurate to the word being rendered. It
+also worked against the project's own grain: this is a deliberately grace-centered
+translation that avoids debt/obligation-toward-God framing, and "owe" is exactly
+that framing, landing in a chapter whose whole argument is "because of who Christ
+is" (chapter 1), not "because you're in His debt." Chris's call, from six options.
+
+**The Grace Commentary note** (`_commentary/hebrews-2-1-4.md`, "The instruction")
+quoted the old line and only explained *perissoteros prosechein* ("more abundant
+heed") — it never named the obligation word at all. Updated to quote the new line
+and to name **dei** directly, closing with the same point made above: *"Not a debt
+owed; a necessity that follows from who Christ is."*
+
+Rebuilt via `tools/commentary.py build`; validate 2220/2220 before and after.
+Both files verified byte-exact outside the intended clauses — caught and corrected
+a text-mode read/write that had silently flipped `data/illumination.js`'s line
+endings (CRLF to LF) in the untouched header before this push; rewritten from the
+committed bytes directly so only the one clause differs.
+
 ## 2026-08-12 — Hebrews 2:5–8's commentary: dropped the swipe at "claim it by faith"
 
 `_commentary/hebrews-2-5-8.md`, "The honest admission" section, read:
