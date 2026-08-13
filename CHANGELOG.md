@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## 2026-08-12 — The Grace Commentary note on Hebrews 3:7–11, brought into line
+
+Follow-up to the Illumination fix above. `_commentary/hebrews-3-7-11.md`,
+"The verdict" section, still quoted the old translation:
+
+| | |
+|---|---|
+| was | *"So that generation **made Me sick at heart**."* |
+| now | *"So **I grieved over that generation**."* |
+
+Per the standing rule for these notes: they change only where they quote the
+translation, and the reasoning lives here, not in the note. The explanatory
+line right beneath the quote — *"The Greek is **prosochthisa** — was
+grieved, was disgusted with"* — needed no change; if anything it now agrees
+with the quote above it instead of glossing a word the quote wasn't using.
+
+Rebuilt via `tools/commentary.py build`. `validate` passed at 2220/2220
+before and after. Diffed the full compiled `data/commentary.js` byte-for-byte
+against the previous version: the rebuild touched exactly this one clause and
+nothing else across all 2,220 notes.
+
 ## 2026-08-12 — Hebrews 3:9 in the Illumination: "grieved," not "sick at heart"
 
 One clause changed, in "Today, If You Hear His Voice":

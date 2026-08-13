@@ -3,7 +3,7 @@ key: Hebrews 3:7–11
 title: "Today, if you hear His voice"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-07
+updated: 2026-08-12
 ---
 
 The writer quotes Psalm 95 in full, and attributes it to the Holy Spirit.
@@ -55,7 +55,7 @@ They had the evidence. Forty years of it.
 
 ## The verdict
 
-*"So that generation **made Me sick at heart**."*
+*"So **I grieved over that generation**."*
 
 The Greek is **prosochthisa** — was grieved, was disgusted with.
 
