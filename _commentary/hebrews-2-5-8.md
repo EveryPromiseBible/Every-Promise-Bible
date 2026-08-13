@@ -1,7 +1,7 @@
 ---
 key: Hebrews 2:5–8
 title: ""But we do not see it yet""
-updated: 2026-08-09
+updated: 2026-08-12
 ---
 The writer quotes a psalm about the dignity of man, and then does something unusual: he admits it is
 not true of anybody you can currently look at.
@@ -35,8 +35,8 @@ Nobody has to be told. The world is plainly not under the feet of the human race
 the other way round, and the letter is written to people being pushed out of their livelihoods for
 following Jesus.
 
-The writer will not pretend. He never says *look harder* or *claim it by faith*. He says: not yet,
-and you can see that for yourselves.
+The writer will not pretend. He never says *look harder*. He says: not yet, and you can see that for
+yourselves.
 
 ## Where he takes it
 

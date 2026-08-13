@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## 2026-08-12 — Hebrews 2:5–8's commentary: dropped the swipe at "claim it by faith"
+
+`_commentary/hebrews-2-5-8.md`, "The honest admission" section, read:
+
+| | |
+|---|---|
+| was | *The writer will not pretend. He never says look harder or **claim it by faith**. He says: not yet, and you can see that for yourselves.* |
+| now | *The writer will not pretend. He never says look harder. He says: not yet, and you can see that for yourselves.* |
+
+Chris's call: as written, the line set "faith" up as the thing being
+contrasted against honesty — reading as a jab at faith language (word-of-
+faith teaching in particular) rather than making the point the note actually
+wants, which is that the writer states what's plainly true before pointing
+to Jesus. Given five options; picked the plain cut, no replacement clause.
+The point of the section stands unchanged — the writer says "not yet," not
+"look harder" — it just no longer takes a shot at faith to make it.
+
+Rebuilt via `tools/commentary.py build`; validate 2220/2220 before and
+after; full-file diff confirms only this one clause changed.
+
 ## 2026-08-12 — The Grace Commentary note on Hebrews 3:7–11, brought into line
 
 Follow-up to the Illumination fix above. `_commentary/hebrews-3-7-11.md`,
