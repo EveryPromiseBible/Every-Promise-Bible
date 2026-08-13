@@ -1,5 +1,31 @@
 # CHANGELOG
 
+## 2026-08-12 — Romans 7:5, "stirred up by": investigated, left alone
+
+`['stirred up by', 'τὰ διὰ', 'G3588 ART · G1223 PREP']` in the Mak — the English
+sits on an article + preposition ("the [ones] through"), not on any word meaning
+arousal. Investigated properly rather than assumed:
+
+- Checked the Textus Receptus (Stephanus 1550), the Byzantine Majority Text, and
+  the critical text (NA27/UBS4) directly. All three print the identical
+  `τὰ παθήματα τῶν ἁμαρτιῶν τὰ διὰ τοῦ νόμου ἐνηργεῖτο` — not a textual variant.
+  No Greek edition anywhere has a word for "stir/arouse/incite" in this clause.
+- Checked the actual KJV, which the Illumination is built from: *"the motions of
+  sins, which were by the law, did work in our members"* — plain, literal, no
+  arousal verb.
+- Checked which modern translation actually does add it: the **NASB** — *"the
+  sinful passions, which were **aroused** by the Law, were at work..."* — an
+  interpretive choice, not a translation of a Greek word. Likely borrows forward
+  from Paul's explicit statement two verses later (7:8), where a real verb of
+  that kind (κατεργάζομαι) does exist and is correctly glossed in the Mak there
+  as "stirred up."
+
+**Chris's decision: leave the Mak's wording exactly as it is, and do not follow
+the NASB's move either.** Recorded in PROJECT.md's "Open translation decisions"
+table (matching the Mark 1:41 pattern) so this doesn't get rediscovered and
+"fixed" later without the context of why it was left alone. No data files
+changed — this entry and the PROJECT.md table are the only edits.
+
 ## 2026-08-12 — Hebrews 2:1–4, Illumination + Commentary: "must," not "owe"
 
 One clause changed in the Illumination, and its commentary note updated to match:

@@ -596,6 +596,20 @@ All 76 names were then verified. Heli was the only one dropped.
 | **5 lowercase sentence-starts** | 3 Mark, 2 Luke. Cosmetic. |
 | **37 arity mismatches** | Greek token count ≠ tag count. **All pre-existing.** Mostly Matthew 1 genealogy where a folded `τὸν` has no matching tag. |
 
+## 🟢 2026-08-12 — Hebrews text review, four items
+
+Chris read through Hebrews and flagged four spots. Three were fixed and pushed;
+the fourth was investigated and deliberately left alone. Full detail — the
+Greek, the reasoning, the options offered — is in CHANGELOG.md under each
+date-matching entry.
+
+| Passage | What changed |
+|---|---|
+| **Hebrews 3:9**, Illumination + Commentary | "made Me sick at heart" → **"I grieved over that generation"** — matches the Illumination's own Psalm 95:8–11, which Hebrews 3:9 is quoting. προσώχθισα (G4360) is an anger/indignation word, not a sickness word. |
+| **Hebrews 2:5–8**, Commentary only | Cut *"or claim it by faith"* — the line set faith up as a contrast to honesty, read as a swipe at faith language. The section's actual point (the writer says "not yet," not "look harder") is unchanged. |
+| **Hebrews 2:1–4**, Illumination + Commentary | "So we owe" → **"So we must give"** — δεῖ (G1163-family, impersonal necessity) was rendered as if it were ὀφείλω (debt/owe), which isn't in this verse. Also updated the commentary's Greek gloss, which had never actually named δεῖ. |
+| **Romans 7:5**, Mak — **left unchanged** | See the "Open translation decisions" table below. |
+
 ## 🟡 Open translation decisions — Chris's call, not the AI's
 
 | Passage | Question |
@@ -603,6 +617,7 @@ All 76 names were then verified. Heli was the only one dropped.
 | **Mark 1:41 — `ὀργισθεὶς`** | Currently "moved with indignation." SBLGNT prints the harder reading (angry) vs. `σπλαγχνισθεὶς` (compassion). **Long-standing open question. Never decided. Do not change it.** |
 | **Romans 16:25–27 doxology** | Textual placement question. Unresolved. |
 | **`—` placeholders** | 342 across Luke (77) + John (265). Romans already solved this by folding the article. **Chris chose chapter-by-chapter (Option B) over a bulk sweep — but the option stands.** |
+| **Romans 7:5 — "stirred up by" over `τὰ διὰ`** | The Mak's unit `['stirred up by', 'τὰ διὰ', 'G3588 ART · G1223 PREP']` glosses an article + preposition ("the [ones] through") with a verb of arousal that isn't in the Greek — no word for "stir/arouse/incite" exists here in **any** Greek text tradition. Checked directly: Textus Receptus (Stephanus 1550), Byzantine Majority Text, and the critical text (NA27/UBS4) all print the identical `τὰ διὰ τοῦ νόμου ἐνηργεῖτο`, word for word — this is not a textual variant. The KJV, which the Illumination is built from, doesn't have it either: *"the motions of sins, which were by the law, did work in our members"* — plain and literal. "Aroused by" is the NASB's own interpretive addition (confirmed by direct lookup), not a translation of a Greek word; it likely borrows forward from Paul's explicit "sin, taking opportunity by the commandment, wrought in me" two verses later (7:8), where a real verb of that kind (`κατειργάσατο`) does exist and is correctly glossed there as "stirred up." **Chris's decision, 2026-08-12, after the investigation above: leave the Mak's wording exactly as it stands. Do not change it, and do not follow the NASB's move here either.** Recorded so a future pass doesn't rediscover this and "fix" it without knowing it was already decided. |
 
 ## 🟡 Technical debt *(rewritten 2026-08-04)*
 
