@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## 2026-08-12 — Hebrews 3:9 in the Illumination: "grieved," not "sick at heart"
+
+One clause changed, in "Today, If You Hear His Voice":
+
+| | |
+|---|---|
+| was | *So that generation **made Me sick at heart**, and I said...* |
+| now | *So **I grieved over that generation**, and I said...* |
+
+### The Greek, and why
+
+**διὸ προσώχθισα τῇ γενεᾷ ταύτῃ** — the verb is **προσοχθίζω** (G4360), aorist
+*προσώχθισα*, "I was provoked/indignant." Its root sense is to be vexed or
+irritated by something irksome; the KJV renders it "be grieved at." It is an
+anger/indignation word — nothing in it means sickness or nausea, physical or
+otherwise. "Sick at heart" was never a reading of the Greek; it read as an
+idiom reaching for a strong negative reaction and landed somewhere the word
+doesn't go, with the further problem that it implies God experiences
+sickness.
+
+**Hebrews 3:9 is quoting Psalm 95:8–11 directly.** The Illumination's own
+Psalm 95 already renders this identical clause *"For forty years I grieved
+over that generation"* — so the fix isn't a new coinage, it's bringing
+Hebrews's quotation into agreement with the passage it quotes. A reader who
+knows the psalm and then reads Hebrews should meet the same line, not two
+different emotional registers for one event.
+
+Chris's call, after reviewing six options ranging from "provoked" and
+"indignant" through to "grieved" — picked for matching Psalm 95 exactly.
+
+One clause, one file (`data/illumination.js`), verified: `ILLUMINATION_BOOKS`
+(66), `ILLUMINATION_INTROS` (66), and the main `ILLUMINATION` blob (1,189
+chapters) all still parse; nothing else in the file changed.
+
 ## 2026-08-11 — Matthew 11:30 in the Illumination: what the yoke is like to wear
 
 One sentence changed, closing the "Come to Me and Rest" section:
