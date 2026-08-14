@@ -786,6 +786,7 @@
   .upd-kind{font-family:var(--mono);font-size:0.62em;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;}
   .upd-kind.translation{color:var(--sword);}
   .upd-kind.commentary{color:var(--purple);}
+  .upd-kind.feature{color:var(--green);}
   .upd-date{font-family:var(--mono);font-size:0.62em;color:var(--gray);white-space:nowrap;}
   .upd-ref{font-weight:700;font-size:1.02em;margin-bottom:10px;}
   .upd-swap{font-size:0.88em;line-height:1.65;margin-bottom:10px;}
@@ -1773,6 +1774,13 @@ const PALETTE = [
    generated from commit history, so add to it deliberately. */
 const SITE_UPDATES = [
   {
+    id: 'mak-verse-numbers-2026-08-14',
+    date: 'August 14, 2026',
+    kind: 'feature',
+    ref: 'Verse numbers in the Mak Translation',
+    why: 'The Mak Translation has never had verse numbers — only chapters and section headings — because it was built section by section, word by word, straight off the Greek, rather than pre-divided into verses like most Bibles. We matched every single word in it back against the original Greek text to work out exactly which verse it belongs to, checked automatically to make sure nothing was miscounted, and added the numbers you now see. The real reason we did it: switching between the Mak, the Illumination, and the King James Version now takes you to the same verse you were just reading, instead of dropping you back at the top of the chapter.'
+  },
+  {
     id: 'heb-2-1-4-2026-08-12',
     date: 'August 12, 2026',
     kind: 'translation',
@@ -2737,7 +2745,7 @@ function renderUpdates() {
   document.getElementById('updatesList').innerHTML = SITE_UPDATES.map(u => `
     <div class="upd-item">
       <div class="upd-item-head">
-        <span class="upd-kind ${u.kind}">${u.kind === 'translation' ? 'translation update' : 'commentary correction'}</span>
+        <span class="upd-kind ${u.kind}">${({translation:'translation update', commentary:'commentary correction', feature:'new feature'})[u.kind]}</span>
         <span class="upd-date">${ilEsc(u.date)}</span>
       </div>
       <div class="upd-ref">${ilEsc(u.ref)}</div>
