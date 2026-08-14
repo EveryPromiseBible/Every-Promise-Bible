@@ -79,5 +79,19 @@ const QUOTES = [
   {
     text: "Grace functions best in the local church.",
     who: "Joseph Prince"
+  },
+  {
+    text: "I saw more clearly than ever, that the first great and primary business to " +
+          "which I ought to attend every day was, to have my soul happy in the Lord. The " +
+          "first thing to be concerned about was not, how much I might serve the Lord, " +
+          "how I might glorify the Lord; but how I might get my soul into a happy state, " +
+          "and how my inner man might be nourished. For I might seek to set the truth " +
+          "before the unconverted, I might seek to benefit believers, I might seek to " +
+          "relieve the distressed, I might in other ways seek to behave myself as it " +
+          "becomes a child of God in this world; and yet, not being happy in the Lord, " +
+          "and not being nourished and strengthened in my inner man day by day, all this " +
+          "might not be attended to in a right spirit.",
+    who: "George Müller",
+    source: "A Narrative of Some of the Lord's Dealings with George Müller, 1841"
   }
 ];
