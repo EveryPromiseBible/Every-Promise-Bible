@@ -1,5 +1,64 @@
 # CHANGELOG
 
+## 2026-08-14 — Verse numbers in the Mak reader: pilot on Matthew
+
+The Mak Translation has never had verse numbers, only chapters and editorial
+section headings -- a long-standing item in PROJECT.md's technical debt, blocked
+for a long time on not having verse-tagged source data locally. That block is
+gone (MorphGNT lives in `tools/data/`), so this is a pilot on one book before
+committing to all 27: does the method actually work, and is it safe to run at
+full corpus size.
+
+**The method** (`tools/verse_align.py`). Units are stored in English reading
+order, not Greek order, so a straight top-to-bottom walk against MorphGNT's
+verse-ordered stream doesn't line up. But sections are never reordered relative
+to each other -- each is a contiguous span of the original text, only shuffled
+internally. So: walk sections in canonical order, consume exactly as many
+MorphGNT tokens as each section holds, and verify the multiset matches before
+trusting the slice. Within a section, match each unit's Greek to the earliest
+still-unused MorphGNT row with the same surface form (accent/case folded for
+matching only -- nothing about the actual text is touched).
+
+**Result on all 28 Matthew chapters:** 0 section multiset mismatches, 14,699
+units processed, 14,580 got a verse directly from their own Greek, 119
+English-only filler units correctly inherited a neighbor's verse. Matthew 1's
+genealogy -- the densest repetition in the book ("the," "was the father of," a
+name used twice per verse) -- came out verse-perfect end to end.
+
+**14 units (0.1%) span two verses.** Hand-checked, not left as guesses: e.g.
+Matthew 1:22-23's "the prophet[, saying, Behold]" unit legitimately carries a
+stray, untranslated ἰδοὺ left over from verse 20 alongside verse 22's real
+content -- confirmed by counting every occurrence of that form in the section
+and tracing where each one actually lands. The fallback (label the unit with
+its first token's verse) turned out to already be the right call here, not a
+bug needing a fix.
+
+**A fancier matching algorithm was tried and reverted.** A single shared
+cursor, preferring whichever candidate came next in sequence, sounded more
+rigorous than independent per-form queues -- and made things drastically worse:
+661 wrong units instead of 14, because one bad pick early in a repetitive
+passage shoves every later pick out of alignment with it. Recorded in the
+tool's own docstring so it isn't retried blind.
+
+**Shipped as a non-destructive overlay, not a data change.** `data/chapters.js`
+has a zero-byte diff -- verified by `git diff --stat`. Verse numbers live in
+their own file, `data/mak_verses_matthew.pilot.js` (a flat array of one verse
+number per word-unit, Matthew's 28 chapters only), read by a new function,
+`makInjectVerseMarkers()`, that runs after `buildSection()` finishes and
+inserts marker spans into the already-built DOM -- it never touches the render
+function itself. Guarded on `currentTx === 'mak'` and the chapter being one of
+Matthew's, so Illumination, KJV, and every other book render exactly as before
+(verified directly: 0 markers on Mark 1, 0 on Illumination's Matthew).
+
+Styling passed through three rounds against a live preview: 0.6em gray →
+1em bold → black, landing on `.mak-verse-num{font-size:1em;font-weight:700;
+color:var(--ink)}` -- matching the English word's own size, at the reader's
+request.
+
+**Not yet done:** the other 26 New Testament books, and the actual point of
+this feature -- letting a reader jump to the same verse across translations.
+This pilot only proves the numbers themselves are trustworthy.
+
 ## 2026-08-14 — Clarity now waits for consent, granted on the tour's last card
 
 The Microsoft Clarity script added earlier today no longer loads unconditionally

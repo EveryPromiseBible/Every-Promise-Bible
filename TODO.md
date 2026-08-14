@@ -745,8 +745,18 @@ Highlights key on `chapterIdx:sectionIdx:wordIdx`. **Every splice silently re-po
 
 Options: content hash, stable unit IDs, or accept it and document that highlights may drift during translation work.
 
-### [ ] No verse numbers
-Blocks: precise error location, verse linking, standard cross-refs, sharing a verse. Adding them means re-aligning against MorphGNT's `BBCCVV` column — real work, real payoff.
+### [~] No verse numbers — PILOTED on Matthew 2026-08-14, 26 books to go
+No longer blocked (MorphGNT lives locally in `tools/data/`). `tools/verse_align.py`
+matches each Mak word-unit's Greek against MorphGNT to recover its verse, verified
+clean on all 28 Matthew chapters (genealogy verse-perfect; 14/14,699 units flagged
+as spanning two verses, hand-checked, not bugs). Shipped as a non-destructive
+overlay — `data/mak_verses_matthew.pilot.js`, read by `makInjectVerseMarkers()` —
+`data/chapters.js` has a zero-byte diff. Full account in CHANGELOG.
+
+Still blocks: verse linking, standard cross-refs, sharing a verse, and pinning the
+4 remaining Romans discrepancies exactly. Next: run the same method across the
+other 26 NT books, then build the actual payoff — jumping to the same verse across
+translations.
 
 ### [ ] `innerHTML` for user input
 Note text renders via `innerHTML`. XSS is theoretical (local file, single user) but real.

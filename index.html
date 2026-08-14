@@ -227,6 +227,11 @@
   .grk.empty{visibility:hidden;}
   .tag{font-family:var(--mono);font-size:0.52em;color:var(--tagink);line-height:1.3;margin-top:0.16em;white-space:nowrap;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;}
   .tag.empty{visibility:hidden;text-decoration:none;}
+  /* Pilot: verse numbers for the Mak reader, Matthew only for now. A small
+     raised marker between units, not its own word-stack, so it never looks
+     like a clickable Greek word or shifts the color-cycling index. */
+  .mak-verse-num{align-self:flex-start;font-family:var(--mono);font-size:1em;font-weight:700;
+                 color:var(--ink);margin:0.3em 3px 0 0;line-height:1;}
   body.highlight-mode #view-bible .unit.clickable{cursor:cell;}
   /* Read mode: strip the interlinear scaffolding so the English reads as plain,
      tighter prose -- no Greek, no tags, no per-word colour, and normal text flow
@@ -1734,6 +1739,11 @@
 </div>
 
 
+<!-- PILOT, Matthew only: not part of the corpus, not wired into anything but
+     the verse-number display. Every unit's verse, computed by matching its
+     Greek against MorphGNT -- see scratchpad tooling. Safe to delete this one
+     line to remove the whole feature; chapters.js is untouched by it. -->
+<script src="data/mak_verses_matthew.pilot.js"></script>
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
 <script src="data/kjv.js"></script>
@@ -2968,6 +2978,43 @@ function buildSection(section, chapterIdx, sectionIdx) {
   secDiv.appendChild(row);
   return secDiv;
 }
+
+/* ---- Verse numbers, PILOT (Matthew, Mak translation only) ----
+   Runs AFTER buildSection, on its finished DOM, rather than inside it -- the
+   render logic above is untouched, this only reads its output and inserts a
+   marker span. Pulled from MAK_VERSES_MATTHEW (data/mak_verses_matthew.pilot.js),
+   a flat per-chapter array of one verse number per word-unit, computed by
+   matching each unit's Greek against MorphGNT. Silently does nothing if that
+   file isn't loaded or the chapter isn't Matthew. */
+function makInjectVerseMarkers(idx) {
+  if (typeof MAK_VERSES_MATTHEW === 'undefined' || currentTx !== 'mak') return;
+  const chapter = CHAPTERS[idx];
+  const m = /^Matthew (\d+)$/.exec(chapter.ref);
+  if (!m) return;
+  const verses = MAK_VERSES_MATTHEW[m[1]];
+  if (!verses) return;
+
+  const secDivs = document.getElementById('sectionsContainer').querySelectorAll('.section');
+  let offset = 0, lastVerse = null;
+  chapter.sections.forEach((sec, sIdx) => {
+    const row = secDivs[sIdx].querySelector('.word-row');
+    const unitEls = row.querySelectorAll('.unit');
+    let domI = 0;
+    sec.words.forEach((triple, wIdx) => {
+      if (triple[0] === "" && triple[1] === "") return;  // buildSection skips these too
+      const v = verses[offset + wIdx];
+      if (v !== lastVerse) {
+        const marker = document.createElement('span');
+        marker.className = 'mak-verse-num';
+        marker.textContent = v;
+        row.insertBefore(marker, unitEls[domI]);
+        lastVerse = v;
+      }
+      domI++;
+    });
+    offset += sec.words.length;
+  });
+}
 /* ---- introduction, shown above Matthew 1 only -----------------------------
    The word-count table is built from data/wordcounts.js, which is GENERATED
    from the corpus and checked against MorphGNT at build time -- it is not typed
@@ -3107,6 +3154,7 @@ function loadChapter(idx, skipHistory) {
   renderIntro(idx);
   container.innerHTML = '';
   chapter.sections.forEach((s, sIdx) => container.appendChild(buildSection(s, idx, sIdx)));
+  makInjectVerseMarkers(idx);
   renderChapterNav(idx);
   window.scrollTo({top:0, behavior:'smooth'});
 }
