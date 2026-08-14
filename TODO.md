@@ -478,6 +478,16 @@ Chris chose **Option B** (chapter-by-chapter, fix as you go) over the bulk sweep
 
 ## 🟢 Features — the app around the text
 
+### ✅ [x] The bell: what's changed — **DONE 2026-08-14**
+Blue outline bell beside the options mark, red dot while `SITE_UPDATES` holds
+anything unread. Opens a panel of hand-written, plain-English entries — old
+wording struck through, new wording bold, why underneath — for real edits to
+the Illumination or a commentary note since the translation shipped. Nine
+entries at launch. See CHANGELOG for the full list and for the branch-
+divergence repair (`tolkien-estate-redesign`) done alongside it.
+- [ ] Not done: no shared reactions or comments on an entry — see CHANGELOG's
+      note on why that needs a real backend, which this static site doesn't have.
+
 ### ✅ [x] Mood filtering — **DONE 2026-07-20**
 All 329 promise verses were **already tagged** across 16 moods and nothing read
 them. Now wired up.

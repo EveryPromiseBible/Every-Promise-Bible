@@ -1,5 +1,34 @@
 # CHANGELOG
 
+## 2026-08-14 — A bell: what's changed in the translation and commentary, for readers
+
+New icon in the header, beside the options mark: a blue outline bell that carries a
+red dot whenever `SITE_UPDATES` holds an entry the reader hasn't opened it to see.
+Tapping it opens a panel — old wording struck through, new wording bold, and a
+plain-English paragraph on why — for every real edit to the Illumination or a
+commentary note since the translation was presented as finished. Opening the panel
+marks everything read (`localStorage`, `everypromise_updatesSeen`); closing and
+reopening the app leaves it cleared until a new entry is added.
+
+`SITE_UPDATES` is a small hand-written array, not generated from git history —
+each entry was picked out and written by hand after reading the actual commits.
+Nine entries at launch, newest first: Hebrews 2:1–4 ("owe" → "must"), a trim to
+the Hebrews 2:5–8 note, the Hebrews 3:7–11 note brought into line, Hebrews 3:9
+("sick at heart" → "grieved"), Matthew 11:30 (the yoke), the Hebrews 1:3 note
+correction, Hebrews 1:3 itself (the present-tense carrying), Galatians 2:20
+("faith of" the Son), and the Galatians 2:11–14 Antioch note fix. A documentation-
+only commit (Romans 7:5, left alone) was deliberately excluded — nothing changed
+for a reader, so it has nothing to report.
+
+**Found while building this:** the local working copy and `origin/main` had
+diverged — 33 local-only commits (the paused Tolkien/Estate redesign) against 5
+origin-only commits (four real Hebrews fixes plus the Romans 7:5 write-up), with
+the Matthew 11:30 commit as the common ancestor. The Estate work is preserved
+whole on its own branch, `tolkien-estate-redesign`, untouched and unpushed. `main`
+was moved to match `origin/main` exactly, and the bell was rebuilt on top of that
+— so this ships with the four Hebrews fixes already folded in, not layered over
+stale data.
+
 ## 2026-08-12 — Romans 7:5, "stirred up by": investigated, left alone
 
 `['stirred up by', 'τὰ διὰ', 'G3588 ART · G1223 PREP']` in the Mak — the English

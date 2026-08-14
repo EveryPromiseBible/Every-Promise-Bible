@@ -770,6 +770,23 @@
   .def-card{background:var(--white);border-radius:16px;max-width:460px;width:100%;padding:0;box-shadow:0 20px 60px rgba(0,0,0,0.25);max-height:85vh;overflow-y:auto;}
   .def-card .def-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:1.3em;color:var(--gray);cursor:pointer;line-height:1;z-index:2;}
   .def-source-block{padding:26px 26px 22px;}
+  /* ---- What's changed (the bell panel) ---- */
+  .updates-card{max-width:520px;}
+  .upd-head h2{margin:0 0 6px;font-size:1.3em;letter-spacing:-0.01em;text-transform:none;}
+  .upd-head p{margin:0 0 20px;color:var(--gray);font-size:0.82em;line-height:1.55;}
+  .upd-list{display:flex;flex-direction:column;gap:20px;}
+  .upd-item{border-top:1px solid var(--line);padding-top:18px;}
+  .upd-item:first-child{border-top:none;padding-top:0;}
+  .upd-item-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:6px;}
+  .upd-kind{font-family:var(--mono);font-size:0.62em;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;}
+  .upd-kind.translation{color:var(--sword);}
+  .upd-kind.commentary{color:var(--purple);}
+  .upd-date{font-family:var(--mono);font-size:0.62em;color:var(--gray);white-space:nowrap;}
+  .upd-ref{font-weight:700;font-size:1.02em;margin-bottom:10px;}
+  .upd-swap{font-size:0.88em;line-height:1.65;margin-bottom:10px;}
+  .upd-was{display:block;color:var(--gray);text-decoration:line-through;text-decoration-color:var(--line);}
+  .upd-now{display:block;color:var(--ink);font-weight:600;}
+  .upd-why{font-size:0.87em;line-height:1.6;color:var(--ink);}
   .def-source-label{
     display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:0.66em;font-weight:700;
     text-transform:uppercase;letter-spacing:0.06em;color:var(--gray);margin-bottom:16px;
@@ -926,8 +943,8 @@
     .brand{order:1;}
     .nav-stack{order:2;}
     .bible-toolbar{order:3;}
-    /* nav.top-nav is display:none here, so the stack is the mark alone and its
-       column gap would otherwise leave a phantom row of space. */
+    /* nav.top-nav is display:none here, so the stack is the icon row alone and
+       its column gap would otherwise leave a phantom row of space below it. */
     .nav-stack{gap:0;}
     /* Two tidy rows rather than three: the selects share the first, the buttons
        take the second. Basis under half forces exactly two per row. */
@@ -1007,6 +1024,18 @@
   .opt-btn{background:none;border:none;color:var(--gray);font-size:1.15em;cursor:pointer;padding:0;line-height:1;}
   .opt-btn:hover{color:var(--sword);}
   .opt-btn.active{color:var(--sword);}
+  /* The bell rides beside the options mark, not above it -- a little icon row
+     of its own at the top of the stack, tabs still below. Drawn as a stroked
+     outline (matching the store buttons' line-art svgs) in the site's own
+     blue, since this one is meant to read as a small fixture, not a plain
+     nav glyph. The dot is a small unread flag -- present only while
+     SITE_UPDATES holds an entry the reader hasn't opened the panel to see. */
+  .nav-icons{display:flex;align-items:center;gap:12px;}
+  .bell-btn{background:none;border:none;padding:0;cursor:pointer;position:relative;
+            line-height:0;color:var(--sword);}
+  .bell-btn svg{width:19px;height:19px;display:block;}
+  .bell-dot{position:absolute;top:-2px;right:-2px;width:8px;height:8px;
+            border-radius:50%;background:#FF3B30;border:1.5px solid var(--sheet);}
   .opt-wrap{max-width:620px;margin:22px auto 110px;padding:32px 30px 38px;
             background:var(--sheet);border-radius:var(--sheetr);box-shadow:var(--lift);}
   .opt-wrap h2{margin-top:0;font-size:2em;letter-spacing:-0.01em;margin-bottom:6px;text-transform:none;}
@@ -1312,7 +1341,16 @@
        below 1000px, and this needs to survive into the phone header where the
        bottom bar has no room for a sixth tab. -->
   <div class="nav-stack">
-    <button class="opt-btn" data-v="options" onclick="sv('options')" title="options" aria-label="options">&#9776;</button>
+    <div class="nav-icons">
+      <button class="bell-btn" id="updatesBtn" onclick="openUpdates()" title="what's changed" aria-label="what's changed">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/>
+          <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+        </svg>
+        <span class="bell-dot" id="updatesDot" hidden></span>
+      </button>
+      <button class="opt-btn" data-v="options" onclick="sv('options')" title="options" aria-label="options">&#9776;</button>
+    </div>
     <nav class="top-nav">
       <button class="active" data-v="promises" onclick="sv('promises')">Promises</button>
       <button data-v="bible" onclick="sv('bible')">Bible</button>
@@ -1682,6 +1720,19 @@
   <div class="def-card note-card" id="noteCard"></div>
 </div>
 
+<div class="overlay" id="updatesOverlay" onclick="if(event.target===this) closeUpdates()">
+  <div class="def-card updates-card">
+    <button class="def-close" onclick="closeUpdates()" aria-label="close">&times;</button>
+    <div class="def-source-block">
+      <div class="upd-head">
+        <h2>What's Changed</h2>
+        <p>Edits to the translation and the commentary since launch — what changed, and why we chose it.</p>
+      </div>
+      <div class="upd-list" id="updatesList"></div>
+    </div>
+  </div>
+</div>
+
 
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
@@ -1703,6 +1754,87 @@ const PALETTE = [
 "#5a7a1a","#c41a6f","#1a8caf","#8c3f1a","#3f1a8c","#a89c1a","#1a5a7a",
 "#7a4f1a","#c41a3f","#1a7a4f","#6f1a8c","#af7a1a","#1a3fa8","#8c1a3f",
 "#4f8c1a"
+];
+
+/* ---- What's changed ----
+   A plain-language log for readers, not the internal changelog. Each entry
+   says what changed in the translation or the commentary since launch, and
+   why we chose it -- newest first. Kept short and hand-picked; this is not
+   generated from commit history, so add to it deliberately. */
+const SITE_UPDATES = [
+  {
+    id: 'heb-2-1-4-2026-08-12',
+    date: 'August 12, 2026',
+    kind: 'translation',
+    ref: 'Hebrews 2:1–4',
+    was: 'So we owe what we have heard a far closer hearing than we have been giving it…',
+    now: 'So we must give what we have heard a far closer hearing than we have been giving it…',
+    why: 'The Greek word here (dei) means "it is necessary" — a general obligation, not a debt. "Owe" translates a completely different Greek word that isn’t even in this verse. The old wording also worked against this translation’s own grace-centered grain, landing in a chapter about who Christ is, not about what we owe Him. We updated the commentary note to match, and to finally name the actual word involved.'
+  },
+  {
+    id: 'heb-2-5-8-note-2026-08-12',
+    date: 'August 12, 2026',
+    kind: 'commentary',
+    ref: 'Hebrews 2:5–8 — commentary note',
+    why: 'The note read: "He never says look harder or claim it by faith." That set faith up as the opposite of honesty, reading as a jab at faith language rather than making the note’s real point — that the writer states what’s plainly true before pointing to Jesus. We cut the phrase "or claim it by faith" and left the rest of the note exactly as it was.'
+  },
+  {
+    id: 'heb-3-7-11-note-2026-08-12',
+    date: 'August 12, 2026',
+    kind: 'commentary',
+    ref: 'Hebrews 3:7–11 — commentary note',
+    why: 'This note still quoted the old Hebrews 3:9 wording ("made Me sick at heart") after we updated that verse below. Our rule is that a note only ever changes where it quotes the translation, so we updated just the quoted line. The note’s own explanation — that the Greek word means "was grieved, was disgusted with" — needed no change; it now agrees with the quote above it instead of explaining a word the old quote wasn’t even using.'
+  },
+  {
+    id: 'heb-3-9-2026-08-12',
+    date: 'August 12, 2026',
+    kind: 'translation',
+    ref: 'Hebrews 3:9',
+    was: 'So that generation made Me sick at heart, and I said…',
+    now: 'So I grieved over that generation, and I said…',
+    why: 'The Greek word here is about anger and being provoked, not sickness — it never meant God felt physically ill. Hebrews 3:9 is quoting Psalm 95 directly, and our Psalm 95 already read "I grieved over that generation" for this same line. This brings the quotation into agreement with the passage it’s quoting, instead of describing the same moment two different ways in two different books.'
+  },
+  {
+    id: 'matt-11-30-2026-08-11',
+    date: 'August 11, 2026',
+    kind: 'translation',
+    ref: 'Matthew 11:30',
+    was: 'My yoke fits easily, and My load is light.',
+    now: 'For My yoke is easy to wear, and My load is light to carry.',
+    why: 'The Greek word behind "easy" here doesn’t mean effortless — it means well-fitted, good, kind. It’s the same word behind "taste and see that the LORD is good," and it describes a yoke shaped to the animal wearing it, not a yoke that weighs nothing. We also put back the word "for," which the Greek uses to connect this promise to the invitation just before it: rest is found because the yoke fits.'
+  },
+  {
+    id: 'heb-1-3-note-2026-08-11',
+    date: 'August 11, 2026',
+    kind: 'commentary',
+    ref: 'Hebrews 1:3 — commentary note',
+    why: 'When we updated the Hebrews 1:3 translation to a present-tense reading (below), we also rewrote part of the note that explains it — which overstepped. Our rule is that a commentary note only ever changes the sentence it quotes from the translation; the note’s own words stay as originally written. We restored the note’s original line — "Not holding the universe up like a pillar. Carrying it forward, by speaking." — and only updated the quoted verse.'
+  },
+  {
+    id: 'heb-1-3-2026-08-11',
+    date: 'August 11, 2026',
+    kind: 'translation',
+    ref: 'Hebrews 1:3',
+    was: 'He carries the whole of it along on one powerful word.',
+    now: 'He is still speaking, and everything He made is still carried by it.',
+    why: 'The Greek verb here is present tense, not past — this isn’t something Christ did once and finished. He is holding everything together right now, in this moment, by His spoken word. The old wording made it sound like a single act rather than something continuous.'
+  },
+  {
+    id: 'gal-2-20-2026-08-10',
+    date: 'August 10, 2026',
+    kind: 'translation',
+    ref: 'Galatians 2:20',
+    was: '…through faith in the Son of God.',
+    now: '…through faith of the Son of God.',
+    why: 'The Greek can honestly be read two ways here: our faith in Him, or His own faithfulness toward us. We chose the second reading, which matches the commentary note already sitting on this verse — it was already titled "The faith of the Son of God." The translation now agrees with what the note was already teaching.'
+  },
+  {
+    id: 'gal-2-note-2026-08-10',
+    date: 'August 10, 2026',
+    kind: 'commentary',
+    ref: 'Galatians 2:11–14 — commentary notes',
+    why: 'These notes said three times that Paul’s confrontation with Peter in Antioch "wasn’t about doctrine" — but then went on to show Paul defending the gospel itself, which contradicted that claim. We removed the incorrect claim. Peter’s own beliefs hadn’t changed, but his actions preached something false regardless — that’s Paul’s actual point, and it’s now what both notes say.'
+  }
 ];
 
 
@@ -2092,6 +2224,8 @@ let favorites = loadStore('favorites');
 /* History is most-recent-first and capped; see recordHistory(). */
 let history = loadStore('history');
 const HISTORY_MAX = 50;
+/* Which SITE_UPDATES ids the reader has already opened the bell to see. */
+let updatesSeen = loadStore('updatesSeen');
 
 function bookOf(ref) { return ref.replace(/\s+\d+$/, ''); }
 function populateSelect() {
@@ -2582,6 +2716,33 @@ function deleteNote() {
   renderNotesTab();
 }
 function closeNoteModal() { document.getElementById('noteOverlay').classList.remove('open'); pendingNoteKey = null; }
+
+/* ---- What's changed (the bell) ---- */
+function updatesBadgeRefresh() {
+  const dot = document.getElementById('updatesDot');
+  if (!dot) return;
+  dot.hidden = SITE_UPDATES.every(u => updatesSeen.includes(u.id));
+}
+function renderUpdates() {
+  document.getElementById('updatesList').innerHTML = SITE_UPDATES.map(u => `
+    <div class="upd-item">
+      <div class="upd-item-head">
+        <span class="upd-kind ${u.kind}">${u.kind === 'translation' ? 'translation update' : 'commentary correction'}</span>
+        <span class="upd-date">${ilEsc(u.date)}</span>
+      </div>
+      <div class="upd-ref">${ilEsc(u.ref)}</div>
+      ${u.was ? `<div class="upd-swap"><span class="upd-was">${ilEsc(u.was)}</span><span class="upd-now">${ilEsc(u.now)}</span></div>` : ''}
+      <div class="upd-why">${ilEsc(u.why)}</div>
+    </div>`).join('');
+}
+function openUpdates() {
+  renderUpdates();
+  document.getElementById('updatesOverlay').classList.add('open');
+  updatesSeen = SITE_UPDATES.map(u => u.id);
+  saveStore('updatesSeen', updatesSeen);
+  updatesBadgeRefresh();
+}
+function closeUpdates() { document.getElementById('updatesOverlay').classList.remove('open'); }
 function renderNotesTab() {
   const el = document.getElementById('notesList');
   /* The side panel no longer carries this list -- My Stuff owns it. Kept
@@ -6749,6 +6910,7 @@ applySettings();
 hyInit();
 booksRender();                 /* the reader's own shelf, if they have one */
 installInit();                  /* hide the badges if it is already installed */
+updatesBadgeRefresh();          /* the bell's unread dot */
 /* Sets its own view now: a hymn is not a chapter, so the landing decides
    whether the reader arrives in the bible or the hymnal. */
 openSomewhereRandom();
