@@ -793,6 +793,34 @@
   .upd-was{display:block;color:var(--gray);text-decoration:line-through;text-decoration-color:var(--line);}
   .upd-now{display:block;color:var(--ink);font-weight:600;}
   .upd-why{font-size:0.87em;line-height:1.6;color:var(--ink);}
+  /* Reactions + comments -- shared publicly (a small Cloudflare Worker), not
+     stored per-device like everything else on this site. Kept visually quiet
+     (small, gray, bottom of the entry) so it reads as a footnote, not the
+     point of the update. */
+  .upd-reactions{display:flex;align-items:center;gap:14px;margin-top:12px;}
+  .upd-vote{display:flex;align-items:center;gap:5px;background:none;border:1px solid var(--line);
+            border-radius:999px;padding:4px 10px;font-family:var(--mono);font-size:0.72em;
+            color:var(--gray);cursor:pointer;}
+  .upd-vote:hover{border-color:var(--sword);color:var(--sword);}
+  .upd-vote.active{border-color:var(--sword);color:var(--sword);background:var(--sword-soft);}
+  .upd-comments-toggle{background:none;border:none;font-family:var(--mono);font-size:0.72em;
+                       color:var(--gray);cursor:pointer;text-decoration:underline;
+                       text-decoration-style:dotted;padding:0;margin-left:auto;}
+  .upd-comments-toggle:hover{color:var(--sword);}
+  .upd-comments{margin-top:10px;padding-top:10px;border-top:1px dashed var(--line);}
+  .upd-comment-list{display:flex;flex-direction:column;gap:8px;margin-bottom:10px;}
+  .upd-comment-item{font-size:0.82em;line-height:1.5;background:var(--paper,var(--group));
+                    border-radius:8px;padding:8px 10px;}
+  .upd-comment-item .upd-comment-date{display:block;font-family:var(--mono);font-size:0.72em;
+                                      color:var(--gray);margin-top:3px;}
+  .upd-comment-empty{font-size:0.8em;color:var(--gray);font-style:italic;margin-bottom:10px;}
+  .upd-comment-form{display:flex;gap:8px;align-items:flex-start;}
+  .upd-comment-form textarea{flex:1;resize:vertical;min-height:44px;font-family:var(--sans);
+                             font-size:0.85em;padding:8px 10px;border:1px solid var(--line);
+                             border-radius:8px;background:var(--sheet);color:var(--ink);}
+  .upd-comment-form button{flex:0 0 auto;background:var(--ink);color:#fff;border:none;
+                           border-radius:8px;padding:8px 14px;font-size:0.82em;cursor:pointer;}
+  .upd-comment-form button:disabled{opacity:0.5;cursor:default;}
   .def-source-label{
     display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:0.66em;font-weight:700;
     text-transform:uppercase;letter-spacing:0.06em;color:var(--gray);margin-bottom:16px;
@@ -1767,12 +1795,24 @@ const PALETTE = [
 "#4f8c1a"
 ];
 
+/* Reactions + comments on "What's changed" entries -- the one piece of this
+   site that is NOT local-only. A small Cloudflare Worker + D1 database, so
+   likes and comments are visible to every reader, not just this device. */
+const REACTIONS_API = 'https://quiet-meadow-1fde.everypromiseapp.workers.dev';
+
 /* ---- What's changed ----
    A plain-language log for readers, not the internal changelog. Each entry
    says what changed in the translation or the commentary since launch, and
    why we chose it -- newest first. Kept short and hand-picked; this is not
    generated from commit history, so add to it deliberately. */
 const SITE_UPDATES = [
+  {
+    id: 'updates-reactions-2026-08-14',
+    date: 'August 14, 2026',
+    kind: 'feature',
+    ref: 'Likes and comments on these updates',
+    why: 'You can now give a thumbs up or thumbs down to any update in this panel, and leave a comment — and unlike everything else on this site, these are shared publicly rather than kept only on your own device. There is still no account and no sign-in; a comment is just posted under whatever you type, with no name attached unless you put one in. Be kind, and know that anything posted here is visible to every reader, not just you.'
+  },
   {
     id: 'mak-verse-numbers-2026-08-14',
     date: 'August 14, 2026',
@@ -2751,14 +2791,132 @@ function renderUpdates() {
       <div class="upd-ref">${ilEsc(u.ref)}</div>
       ${u.was ? `<div class="upd-swap"><span class="upd-was">${ilEsc(u.was)}</span><span class="upd-now">${ilEsc(u.now)}</span></div>` : ''}
       <div class="upd-why">${ilEsc(u.why)}</div>
+      <div class="upd-reactions">
+        <button class="upd-vote" id="upd-vote-up-${ilEsc(u.id)}" onclick="castVote('${jsq(u.id)}','up')">&#9650; <span>0</span></button>
+        <button class="upd-vote" id="upd-vote-down-${ilEsc(u.id)}" onclick="castVote('${jsq(u.id)}','down')">&#9660; <span>0</span></button>
+        <button class="upd-comments-toggle" id="upd-ctoggle-${ilEsc(u.id)}" onclick="toggleComments('${jsq(u.id)}')">comments</button>
+      </div>
+      <div class="upd-comments" id="upd-comments-${ilEsc(u.id)}" hidden>
+        <div class="upd-comment-list" id="upd-clist-${ilEsc(u.id)}"></div>
+        <div class="upd-comment-form">
+          <textarea id="upd-cinput-${ilEsc(u.id)}" placeholder="Add a comment&hellip;" maxlength="500"></textarea>
+          <button onclick="submitComment('${jsq(u.id)}')">Post</button>
+        </div>
+      </div>
     </div>`).join('');
 }
+
+/* One random id per browser, remembered forever -- not an account, just
+   enough identity that a vote can be changed instead of stacking endlessly.
+   Also doubles as which-way-did-I-vote memory, kept alongside it. */
+function voterId() {
+  let v = localStorage.getItem('everypromise_voterId');
+  if (!v) {
+    v = (crypto.randomUUID ? crypto.randomUUID() : String(Math.random()).slice(2));
+    try { localStorage.setItem('everypromise_voterId', v); } catch (e) {}
+  }
+  return v;
+}
+function myVotes() {
+  try { return JSON.parse(localStorage.getItem('everypromise_myVotes')) || {}; }
+  catch (e) { return {}; }
+}
+function setMyVote(id, kind) {
+  const v = myVotes();
+  if (kind) v[id] = kind; else delete v[id];
+  try { localStorage.setItem('everypromise_myVotes', JSON.stringify(v)); } catch (e) {}
+}
+
+function paintVoteButtons(id, counts) {
+  const upBtn = document.getElementById('upd-vote-up-' + id);
+  const downBtn = document.getElementById('upd-vote-down-' + id);
+  if (!upBtn || !downBtn) return;
+  upBtn.querySelector('span').textContent = counts.up || 0;
+  downBtn.querySelector('span').textContent = counts.down || 0;
+  const mine = myVotes()[id];
+  upBtn.classList.toggle('active', mine === 'up');
+  downBtn.classList.toggle('active', mine === 'down');
+}
+
+/* Fetched once, for every visible entry at once, when the panel opens --
+   not one request per entry. Fails silently (counts just stay at 0) if the
+   API is unreachable, so a Worker hiccup never breaks the panel itself. */
+async function refreshReactionCounts() {
+  try {
+    const ids = SITE_UPDATES.map(u => u.id).join(',');
+    const res = await fetch(REACTIONS_API + '/reactions?ids=' + encodeURIComponent(ids));
+    const data = await res.json();
+    SITE_UPDATES.forEach(u => paintVoteButtons(u.id, data[u.id] || { up: 0, down: 0 }));
+  } catch (e) { console.warn('[reactions]', e); }
+}
+
+async function castVote(id, kind) {
+  const current = myVotes()[id];
+  const next = current === kind ? null : kind;   // click again to undo your own vote
+  setMyVote(id, next);
+  try {
+    const res = await fetch(REACTIONS_API + '/vote', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id, kind: next, voter: voterId() }),
+    });
+    const counts = await res.json();
+    paintVoteButtons(id, counts);
+  } catch (e) { console.warn('[reactions]', e); }
+}
+
+async function loadComments(id) {
+  const list = document.getElementById('upd-clist-' + id);
+  list.innerHTML = '<div class="upd-comment-empty">Loading&hellip;</div>';
+  try {
+    const res = await fetch(REACTIONS_API + '/comments?id=' + encodeURIComponent(id));
+    const comments = await res.json();
+    if (!comments.length) {
+      list.innerHTML = '<div class="upd-comment-empty">No comments yet — be the first.</div>';
+      return;
+    }
+    list.innerHTML = comments.map(c => `
+      <div class="upd-comment-item">${ilText(c.text)}<span class="upd-comment-date">${
+        new Date(c.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+      }</span></div>`).join('');
+  } catch (e) {
+    list.innerHTML = '<div class="upd-comment-empty">Couldn’t load comments right now.</div>';
+  }
+}
+
+function toggleComments(id) {
+  const box = document.getElementById('upd-comments-' + id);
+  const wasHidden = box.hidden;
+  box.hidden = !wasHidden;
+  if (wasHidden) loadComments(id);
+}
+
+async function submitComment(id) {
+  const input = document.getElementById('upd-cinput-' + id);
+  const text = input.value.trim();
+  if (!text) return;
+  const btn = input.nextElementSibling;
+  btn.disabled = true;
+  try {
+    await fetch(REACTIONS_API + '/comment', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id, text }),
+    });
+    input.value = '';
+    await loadComments(id);
+  } catch (e) {
+    console.warn('[reactions]', e);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
 function openUpdates() {
   renderUpdates();
   document.getElementById('updatesOverlay').classList.add('open');
   updatesSeen = SITE_UPDATES.map(u => u.id);
   saveStore('updatesSeen', updatesSeen);
   updatesBadgeRefresh();
+  refreshReactionCounts();
 }
 function closeUpdates() { document.getElementById('updatesOverlay').classList.remove('open'); }
 function renderNotesTab() {

@@ -1,5 +1,63 @@
 # CHANGELOG
 
+## 2026-08-14 — Likes and comments on "What's Changed" entries
+
+The one piece of this site that is not local-only. Every entry in the bell
+panel now has a thumbs up/down and a comment box, shared across every reader
+rather than kept in `localStorage` like everything else here — bookmarks,
+notes, highlights, and now the reader's votes/comments live in fundamentally
+different places, and the "What's Changed" panel says so plainly in a new
+entry of its own.
+
+**Backend: a Cloudflare Worker + D1 database**, both created and deployed by
+hand through the Cloudflare dashboard rather than the CLI (`wrangler` needs
+Node, which isn't installed on this machine) -- database schema pasted into
+the D1 console, Worker script pasted into the dashboard's code editor, the
+two connected with a `DB` binding. `tools/` gains nothing from this; there's
+no local script that reproduces it, by necessity, so the schema and the full
+Worker source are recorded here instead of only living on Cloudflare:
+
+```sql
+CREATE TABLE reactions (
+  update_id TEXT NOT NULL, voter TEXT NOT NULL, kind TEXT NOT NULL,
+  created_at INTEGER NOT NULL, PRIMARY KEY (update_id, voter)
+);
+CREATE TABLE comments (
+  id INTEGER PRIMARY KEY AUTOINCREMENT, update_id TEXT NOT NULL,
+  text TEXT NOT NULL, created_at INTEGER NOT NULL
+);
+CREATE INDEX idx_comments_update ON comments(update_id);
+```
+
+Four endpoints: `GET /reactions?ids=a,b,c` (batched -- one request for every
+visible entry, not one per entry), `POST /vote`, `GET /comments?id=X`,
+`POST /comment`. No accounts: a `voter` is a random id the browser invents
+once and keeps in `localStorage` (`everypromise_voterId`), so one browser
+casts one vote per entry -- re-voting the same way un-votes it, voting the
+other way changes it, via `INSERT ... ON CONFLICT(update_id, voter) DO
+UPDATE`. That upsert is also what stops ballot-stuffing: there is no additive
+spam path, only a single row per (entry, browser) that gets overwritten.
+
+**Comments have no delete button in the app, on purpose.** Moderation is a
+SQL query in the D1 console (`DELETE FROM comments WHERE ...`) -- one more
+piece of surface area than a delete API would need, and no risk of the delete
+path itself being abused. Used immediately: a test comment posted during
+verification (`test-id`, which is not a real update and would never have
+surfaced) and a second one posted against a real entry to verify the actual
+UI path end-to-end, both cleaned up the same way before this shipped.
+
+**Frontend:** `renderUpdates()` gained a vote row and a collapsible comment
+section per entry; `refreshReactionCounts()` fetches all counts in one batched
+call when the panel opens; `castVote()`, `loadComments()`, and
+`submitComment()` handle the three write/read paths, all failing silently
+(counts just stay at zero) if the Worker is ever unreachable, so an API
+hiccup can't break the panel itself.
+
+**Verified live against the real deployed Worker**, not a mock: voted up,
+confirmed the count and the local "you voted this way" state, voted again to
+undo, confirmed it cleared, posted a comment through the actual UI, confirmed
+it rendered with a formatted date. Zero console errors throughout.
+
 ## 2026-08-14 — Verse numbers across all 27 NT books, and seamless verse-level switching
 
 The Matthew pilot (below) is now the whole New Testament. Same method, same
