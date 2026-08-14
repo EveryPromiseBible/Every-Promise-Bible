@@ -6,17 +6,6 @@
 <title>Every Promise</title>
 <meta name="description" content="An interlinear Greek New Testament where every English word is anchored to its Greek source, with a promises and meditations layer.">
 
-<!-- Microsoft Clarity: anonymous visitor analytics (pages visited, time on
-     site, daily/weekly counts). No accounts, no reader-facing UI -- just
-     traffic data on the project owner's dashboard at clarity.microsoft.com. -->
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "y2av3fujw7");
-</script>
-
 <!-- installable web app: manifest, icons, and the iOS-only equivalents -->
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#004878">
@@ -4624,6 +4613,33 @@ async function epubSections(blob) {
    bookmarks, notes, highlights or the journal. */
 const TOUR_SEEN = 'ep-tour-seen';
 
+/* ---- Analytics consent ----
+   Microsoft Clarity (anonymous visit data -- pages read, time on site) does
+   not run until the reader has been told about it and clicked OK, on the
+   tour's last card. The tour itself is unaffected either way; this only
+   gates whether Clarity's own script is ever added to the page. Consent is
+   remembered the same way TOUR_SEEN is, so it only has to happen once. */
+const ANALYTICS_CONSENT = 'ep-analytics-consent';
+let clarityLoaded = false;
+function loadClarity() {
+  if (clarityLoaded) return;
+  clarityLoaded = true;
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "y2av3fujw7");
+}
+function grantAnalyticsConsent() {
+  try { localStorage.setItem(ANALYTICS_CONSENT, '1'); } catch (e) {}
+  loadClarity();
+}
+function analyticsConsentInit() {
+  let ok = false;
+  try { ok = localStorage.getItem(ANALYTICS_CONSENT) === '1'; } catch (e) {}
+  if (ok) loadClarity();
+}
+
 /* Some steps do a thing rather than describe it -- flip a switch, tap a word,
    open a dictionary -- and doing it takes time the reader is meant to watch.
    Every one of those is scheduled through tourAfter, which drops the action if
@@ -4793,7 +4809,10 @@ const TOUR = [
   { title: 'That Is the Tour',
     body: '<p>The app opens somewhere random every visit — it keeps things fresh, and it helps if you do not know where to start. You can run this again any time from <b>☰ &rarr; Take the tour</b>.</p>' +
           '<p class="tour-lead">Anything broken, anything missing, anything you would like added:<br>' +
-          '<a href="mailto:everypromiseapp@gmail.com">everypromiseapp@gmail.com</a></p>',
+          '<a href="mailto:everypromiseapp@gmail.com">everypromiseapp@gmail.com</a></p>' +
+          '<p class="tour-lead">One last thing: this site uses Microsoft Clarity to see anonymous visit ' +
+          'data — which pages get read and how long a visit lasts. No accounts, no personal info, ' +
+          'and nothing you write is ever part of it. Hit OK to continue.</p>',
     go: () => { sv('bible'); if (currentTx !== 'illum') switchTranslation('illum'); } }
 ];
 
@@ -5229,7 +5248,7 @@ function tourPaint() {
       crest.appendChild(img);
     }
   }
-  document.getElementById('tourNext').textContent = tourAt === TOUR.length - 1 ? 'Done' : 'Next';
+  document.getElementById('tourNext').textContent = tourAt === TOUR.length - 1 ? 'OK' : 'Next';
   document.getElementById('tourDots').innerHTML =
     TOUR.map((_, i) => '<i class="' + (i <= tourAt ? 'on' : '') + '"></i>').join('');
   tourAvoid();                       // needs the card's finished height
@@ -5256,7 +5275,11 @@ function tourFade(fn) {
 }
 
 function tourNext() {
-  if (tourAt >= TOUR.length - 1) return tourEnd();
+  /* Reaching the end this way -- clicking OK on the last card, not Skip --
+     is what the last card's own text asks for, so it is the one place
+     analytics consent is granted. Skip never shows that card, so it never
+     grants it. */
+  if (tourAt >= TOUR.length - 1) { grantAnalyticsConsent(); return tourEnd(); }
   tourFade(() => {
     tourAt++;
     tourGo(TOUR[tourAt].go);
@@ -6611,7 +6634,8 @@ function optAboutHtml() {
     'write everything to a file you keep, and that file is the only copy that survives ' +
     'clearing your browser or changing phones.</p>' +
     '<p>The site does use Microsoft Clarity to see anonymous traffic &mdash; how many people ' +
-    'visit, which pages get read, how long a visit lasts. That is aggregate visit data, not ' +
+    'visit, which pages get read, how long a visit lasts &mdash; and it only starts after the ' +
+    'welcome tour tells you so and you hit OK. That is aggregate visit data, not ' +
     'your notes or anything you write; nothing you write is ever visible to anyone but you.</p>' +
     '</div>';
 }
@@ -6925,6 +6949,7 @@ hyInit();
 booksRender();                 /* the reader's own shelf, if they have one */
 installInit();                  /* hide the badges if it is already installed */
 updatesBadgeRefresh();          /* the bell's unread dot */
+analyticsConsentInit();         /* loads Clarity only if already consented */
 /* Sets its own view now: a hymn is not a chapter, so the landing decides
    whether the reader arrives in the bible or the hymnal. */
 openSomewhereRandom();

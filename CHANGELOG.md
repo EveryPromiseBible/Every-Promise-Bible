@@ -1,5 +1,32 @@
 # CHANGELOG
 
+## 2026-08-14 — Clarity now waits for consent, granted on the tour's last card
+
+The Microsoft Clarity script added earlier today no longer loads unconditionally
+in `<head>`. It's now behind `loadClarity()`, called only from two places:
+`analyticsConsentInit()` on startup, if a prior visit already granted consent, or
+`grantAnalyticsConsent()`, wired into `tourNext()`'s completion branch -- the one
+reached by clicking **OK** on the tour's last card, not by clicking **Skip**.
+
+The last card's text was extended to say so plainly: what Clarity is, that it's
+anonymous, and that nothing a reader writes is ever part of it. The button reads
+**OK** on that card specifically (was "Done"); every earlier card still says
+**Next**.
+
+**Skip deliberately does not grant consent.** It calls `tourEnd()` directly and
+never renders the last card, so a reader who skips never sees the disclosure --
+and Clarity stays off for them. `ep-tour-seen` is still set either way (so the
+tour doesn't relaunch), but `ep-analytics-consent` is a separate flag, set only
+by the OK path. Verified both branches directly: OK stores consent and loads the
+script; Skip stores neither and leaves `window.clarity` undefined.
+
+**Known gap, left as-is for now:** a reader who skips has no later prompt short
+of replaying the tour from ☰ → Take the tour. Fine at launch traffic; worth a
+fallback notice later if it matters.
+
+The About page's Clarity paragraph was updated to say it only starts after the
+tour and an OK, matching the new behavior.
+
 ## 2026-08-14 — A bell: what's changed in the translation and commentary, for readers
 
 New icon in the header, beside the options mark: a blue outline bell that carries a
