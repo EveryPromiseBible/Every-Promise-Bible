@@ -1,5 +1,45 @@
 # CHANGELOG
 
+## 2026-08-14 — Verse numbers across all 27 NT books, and seamless verse-level switching
+
+The Matthew pilot (below) is now the whole New Testament. Same method, same
+tool (`tools/verse_align.py`), extended to loop over all 27 books via their
+MorphGNT files. Result, at full corpus size: **0 section multiset mismatches
+across all 117,353 units** (matches the project's own long-standing invariant
+exactly), and only **31 units total (0.026%) flagged as spanning two
+verses** — all 31 concentrated in Matthew (14, mostly the genealogy) and
+Romans (17, its dense repeated connectives); every other book — Mark, Luke,
+John, Acts, and every epistle through Revelation — came out with zero
+ambiguity at all. Output moved from the Matthew-only pilot file to
+`data/mak_verses.js` (`const MAK_VERSES`, keyed by book name then chapter);
+`makInjectVerseMarkers()` generalized to look up any book instead of matching
+`/^Matthew (\d+)$/`. `data/chapters.js` remains a zero-byte diff throughout.
+
+**Then the actual point of the feature: seamless switching, both directions.**
+The app already remembered a reader's place across translation switches
+(`lastRef`, `lastVerse`) — but only worked leaving Illumination or KJV, since
+Mak had no verse numbers to read a position from or scroll to. Added Mak's own
+equivalents, `makTopVerseNum()` and `makScrollToVerse()`, reading/targeting
+`.mak-verse-num` markers instead of `.illum-ref` blocks (the two translations
+paginate differently — Illumination groups several verses per block, Mak marks
+every single one — so each needs its own "close enough" reader rather than
+sharing Illumination's). Wired into both branches of `switchTranslation()`:
+capturing the verse on the way out of Mak, scrolling to it on the way in.
+
+Verified directly in both directions (smooth-scroll animation doesn't run in
+a backgrounded automation tab, so verified via instant-scroll + the same
+lookup functions rather than trusting the visual result): leaving Mak
+Matthew 5 at verse 17 and switching to Illumination correctly landed on the
+"5:17–20" block; leaving an Illumination block containing verse 21 and
+switching to Mak correctly targeted the verse-21 marker. Cross-book (Romans 3
+through Mak → KJV → Mak) and the pre-existing Illumination ↔ KJV path both
+still land correctly. Zero console errors through the whole test pass.
+
+**Not yet done:** a UI to jump to a specific verse number directly (this only
+carries the reader's *current* position across a switch, which was the
+original ask); Study/Read mode interaction with the markers beyond what's
+already been visually checked.
+
 ## 2026-08-14 — Verse numbers in the Mak reader: pilot on Matthew
 
 The Mak Translation has never had verse numbers, only chapters and editorial

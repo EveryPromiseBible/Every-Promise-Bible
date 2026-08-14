@@ -745,18 +745,24 @@ Highlights key on `chapterIdx:sectionIdx:wordIdx`. **Every splice silently re-po
 
 Options: content hash, stable unit IDs, or accept it and document that highlights may drift during translation work.
 
-### [~] No verse numbers — PILOTED on Matthew 2026-08-14, 26 books to go
+### [x] No verse numbers — DONE, all 27 NT books, 2026-08-14
 No longer blocked (MorphGNT lives locally in `tools/data/`). `tools/verse_align.py`
-matches each Mak word-unit's Greek against MorphGNT to recover its verse, verified
-clean on all 28 Matthew chapters (genealogy verse-perfect; 14/14,699 units flagged
-as spanning two verses, hand-checked, not bugs). Shipped as a non-destructive
-overlay — `data/mak_verses_matthew.pilot.js`, read by `makInjectVerseMarkers()` —
-`data/chapters.js` has a zero-byte diff. Full account in CHANGELOG.
+matches each Mak word-unit's Greek against MorphGNT to recover its verse. Clean
+across the whole corpus: 0 section multiset mismatches on all 117,353 units,
+31 units (0.026%) flagged as spanning two verses — all in Matthew/Romans,
+hand-checked, not bugs, every other book zero. Shipped as a non-destructive
+overlay — `data/mak_verses.js`, read by `makInjectVerseMarkers()` —
+`data/chapters.js` has a zero-byte diff throughout. Full account in CHANGELOG.
 
-Still blocks: verse linking, standard cross-refs, sharing a verse, and pinning the
-4 remaining Romans discrepancies exactly. Next: run the same method across the
-other 26 NT books, then build the actual payoff — jumping to the same verse across
-translations.
+**The payoff is also done:** switching translations now carries the reader's
+verse in both directions. Mak gained `makTopVerseNum()`/`makScrollToVerse()`,
+wired into `switchTranslation()` alongside the pre-existing Illumination/KJV
+side. Verified both directions plus cross-book switching; see CHANGELOG.
+
+Still open: no UI to jump to an arbitrary verse number directly (this only
+carries the *current* position across a switch); pinning the 4 remaining
+Romans discrepancies exactly (verse numbers make this newly possible, not yet
+done); standard cross-refs / sharing a single verse link.
 
 ### [ ] `innerHTML` for user input
 Note text renders via `innerHTML`. XSS is theoretical (local file, single user) but real.

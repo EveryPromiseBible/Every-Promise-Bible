@@ -1739,11 +1739,11 @@
 </div>
 
 
-<!-- PILOT, Matthew only: not part of the corpus, not wired into anything but
-     the verse-number display. Every unit's verse, computed by matching its
-     Greek against MorphGNT -- see scratchpad tooling. Safe to delete this one
-     line to remove the whole feature; chapters.js is untouched by it. -->
-<script src="data/mak_verses_matthew.pilot.js"></script>
+<!-- Every Mak word-unit's verse number, all 27 NT books. Not part of the
+     corpus -- computed by tools/verse_align.py matching each unit's Greek
+     against MorphGNT, and additive: chapters.js is untouched by it. Safe to
+     delete this one line to remove verse numbers entirely. -->
+<script src="data/mak_verses.js"></script>
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
 <script src="data/kjv.js"></script>
@@ -2979,23 +2979,28 @@ function buildSection(section, chapterIdx, sectionIdx) {
   return secDiv;
 }
 
-/* ---- Verse numbers, PILOT (Matthew, Mak translation only) ----
+/* ---- Verse numbers (all 27 NT books, Mak translation only) ----
    Runs AFTER buildSection, on its finished DOM, rather than inside it -- the
    render logic above is untouched, this only reads its output and inserts a
-   marker span. Pulled from MAK_VERSES_MATTHEW (data/mak_verses_matthew.pilot.js),
-   a flat per-chapter array of one verse number per word-unit, computed by
-   matching each unit's Greek against MorphGNT. Silently does nothing if that
-   file isn't loaded or the chapter isn't Matthew. */
+   marker span. Pulled from MAK_VERSES (data/mak_verses.js), keyed by book
+   name then chapter number, each a flat per-chapter array of one verse
+   number per word-unit -- computed by tools/verse_align.py matching each
+   unit's Greek against MorphGNT. Silently does nothing if that file isn't
+   loaded or the current translation isn't Mak. */
+function makVersesFor(ref) {
+  const m = /^(.+) (\d+)$/.exec(ref);
+  if (!m || typeof MAK_VERSES === 'undefined') return null;
+  const book = MAK_VERSES[m[1]];
+  return book ? book[m[2]] : null;
+}
 function makInjectVerseMarkers(idx) {
-  if (typeof MAK_VERSES_MATTHEW === 'undefined' || currentTx !== 'mak') return;
+  if (currentTx !== 'mak') return;
   const chapter = CHAPTERS[idx];
-  const m = /^Matthew (\d+)$/.exec(chapter.ref);
-  if (!m) return;
-  const verses = MAK_VERSES_MATTHEW[m[1]];
+  const verses = makVersesFor(chapter.ref);
   if (!verses) return;
 
   const secDivs = document.getElementById('sectionsContainer').querySelectorAll('.section');
-  let offset = 0, lastVerse = null;
+  let offset = 0, prevVerse = null;
   chapter.sections.forEach((sec, sIdx) => {
     const row = secDivs[sIdx].querySelector('.word-row');
     const unitEls = row.querySelectorAll('.unit');
@@ -3003,12 +3008,12 @@ function makInjectVerseMarkers(idx) {
     sec.words.forEach((triple, wIdx) => {
       if (triple[0] === "" && triple[1] === "") return;  // buildSection skips these too
       const v = verses[offset + wIdx];
-      if (v !== lastVerse) {
+      if (v !== prevVerse) {
         const marker = document.createElement('span');
         marker.className = 'mak-verse-num';
         marker.textContent = v;
         row.insertBefore(marker, unitEls[domI]);
-        lastVerse = v;
+        prevVerse = v;
       }
       domI++;
     });
@@ -3807,11 +3812,34 @@ function makIndexForRef(ref) {
   return ref ? CHAPTERS.findIndex(c => c.ref === ref) : -1;
 }
 
+/* Mak's own version of topVerseNum()/scrollToVerse(), so switching AWAY FROM
+   or INTO the Mak translation carries the reader's verse across too, now that
+   Mak has verse numbers at all. Reads/targets .mak-verse-num markers rather
+   than .illum-ref -- the two translations paginate differently (Illumination
+   groups several verses into one block; Mak marks every single verse), so
+   each side needs its own reader and its own "close enough" scroll target. */
+function makTopVerseNum() {
+  const els = document.querySelectorAll('#sectionsContainer .mak-verse-num');
+  for (let i = 0; i < els.length; i++) {
+    if (els[i].getBoundingClientRect().bottom > 90) return Number(els[i].textContent);
+  }
+  return els.length ? Number(els[els.length - 1].textContent) : null;
+}
+function makScrollToVerse(n) {
+  if (!n) return;
+  const els = [...document.querySelectorAll('#sectionsContainer .mak-verse-num')];
+  const hit = els.find(el => Number(el.textContent) >= n);
+  if (hit) hit.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
 function switchTranslation(tx) {
   if (tx === currentTx) return;
   /* Read the place BEFORE anything moves. */
   if (isVerseTx(currentTx)) {
     const v = topVerseNum();
+    if (v) lastVerse = v;
+  } else if (currentTx === 'mak') {
+    const v = makTopVerseNum();
     if (v) lastVerse = v;
   }
   currentTx = tx;
@@ -3857,6 +3885,7 @@ function switchTranslation(tx) {
     const at = makIndexForRef(lastRef);
     if (at >= 0) {
       loadChapter(at, true);
+      setTimeout(() => makScrollToVerse(lastVerse), 80);
     } else {
       /* Mak is New Testament only, so an Old Testament place has no counterpart
          here. Land on its opening rather than refusing the switch -- but KEEP

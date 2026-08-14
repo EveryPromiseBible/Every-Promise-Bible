@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
-"""Pilot: assign a verse number to every Mak Translation word-unit in Matthew,
-by matching each unit's Greek token(s) against MorphGNT (which knows the verse
-of every word), without touching any existing english/greek/tags content.
+"""Assign a verse number to every Mak Translation word-unit, across all 27 New
+Testament books, by matching each unit's Greek token(s) against MorphGNT
+(which knows the verse of every word) -- without touching any existing
+english/greek/tags content.
 
 Method, and why:
-  Units were reordered into English reading order during translation work, so
-  a straight top-to-bottom walk against MorphGNT's verse-ordered stream won't
-  line up. But sections were never reordered RELATIVE TO EACH OTHER -- each
-  section is a contiguous, non-overlapping span of the original text, just
-  internally rearranged. So: walk sections in order, and for each one, consume
+  Units are stored in English reading order, not Greek order, so a straight
+  top-to-bottom walk against MorphGNT's verse-ordered stream doesn't line up.
+  But sections are never reordered relative to each other -- each is a
+  contiguous, non-overlapping span of the original text, just internally
+  rearranged. So: walk sections in canonical order, and for each one, consume
   exactly as many MorphGNT tokens as that section holds Greek tokens. Verify
   the multiset matches (the real safety check) before trusting the slice.
 
@@ -24,24 +25,60 @@ Method, and why:
   placed. It sounded more rigorous but was much worse in practice -- Matthew 1's
   genealogy repeats "the" and "was the father of" in nearly every clause, so one
   early wrong pick shoved the cursor forward and every pick after it inherited
-  the error (14 wrong units became 661). Independent per-form queues, taken in
-  strict left-to-right order with no shared state between forms, is what
-  actually got the whole genealogy right. Don't reintroduce a shared cursor
-  without re-testing against Matthew 1 specifically.
+  the error (14 wrong units became 661, tested on Matthew alone). Independent
+  per-form queues, taken in strict left-to-right order with no shared state
+  between forms, is what actually got the whole genealogy right. Don't
+  reintroduce a shared cursor without re-testing against Matthew 1 specifically.
+
+  Piloted on Matthew alone 2026-08-14 (0 mismatches, 14/14,699 units flagged as
+  spanning two verses, all hand-checked -- see CHANGELOG); this run extends the
+  identical method to the other 26 books with no algorithm changes.
 
   Run from the repo root: python tools/verse_align.py
-  Writes data/mak_verses_matthew.pilot.js (Matthew only, additive, chapters.js
-  untouched) and prints a verification report -- multiset mismatches per
-  section (should be 0) and units whose tokens spanned two verses (currently
-  14/14699; hand-checked, not bugs -- see PROJECT.md or ask before "fixing").
+  Writes data/mak_verses.js (const MAK_VERSES, keyed by book name then chapter
+  number) -- additive, chapters.js untouched -- and prints a verification
+  report per book: multiset mismatches (should be 0 everywhere) and units
+  whose tokens spanned two verses (rare, and not automatically "fixed" --
+  hand-check before trusting a large count for any one book).
 """
-import io, json, re, sys, unicodedata
-from collections import defaultdict, deque
+import io, json, sys, unicodedata
+from collections import defaultdict, deque, Counter
 
 sys.stdout.reconfigure(encoding='utf-8')
 
 CHAPTERS_JS = 'data/chapters.js'
-MORPH_FILE = 'tools/data/61-Mt-morphgnt.txt'
+OUT_FILE = 'data/mak_verses.js'
+
+# Book name (as it appears in CHAPTERS' ref field) -> MorphGNT file.
+BOOKS = [
+    ('Matthew',          '61-Mt'),
+    ('Mark',             '62-Mk'),
+    ('Luke',             '63-Lk'),
+    ('John',             '64-Jn'),
+    ('Acts',             '65-Ac'),
+    ('Romans',           '66-Ro'),
+    ('1 Corinthians',    '67-1Co'),
+    ('2 Corinthians',    '68-2Co'),
+    ('Galatians',        '69-Ga'),
+    ('Ephesians',        '70-Eph'),
+    ('Philippians',      '71-Php'),
+    ('Colossians',       '72-Col'),
+    ('1 Thessalonians',  '73-1Th'),
+    ('2 Thessalonians',  '74-2Th'),
+    ('1 Timothy',        '75-1Ti'),
+    ('2 Timothy',        '76-2Ti'),
+    ('Titus',            '77-Tit'),
+    ('Philemon',         '78-Phm'),
+    ('Hebrews',          '79-Heb'),
+    ('James',            '80-Jas'),
+    ('1 Peter',          '81-1Pe'),
+    ('2 Peter',          '82-2Pe'),
+    ('1 John',           '83-1Jn'),
+    ('2 John',           '84-2Jn'),
+    ('3 John',           '85-3Jn'),
+    ('Jude',             '86-Jud'),
+    ('Revelation',       '87-Re'),
+]
 
 def norm_key(s):
     """Match key only -- never used for anything that gets written back.
@@ -76,30 +113,22 @@ def load_morph(path):
             by_chapter[chapter].append((verse, surface))
     return by_chapter
 
-def main():
-    chapters = load_chapters()
-    matt = [c for c in chapters if c['ref'].startswith('Matthew ')]
-    morph = load_morph(MORPH_FILE)
-
+def align_book(book_chapters, morph):
+    """book_chapters: list of CHAPTERS entries for one book, in order.
+    Returns (verses_by_chapter_num, report_dict) for this book alone."""
     report = {
-        'chapters_ok': 0,
-        'chapters_with_issues': [],
-        'section_multiset_mismatches': [],
-        'multi_verse_span_units': [],
-        'total_units': 0,
-        'units_with_verse': 0,
-        'units_filler_filled': 0,
+        'chapters_ok': 0, 'chapters_total': len(book_chapters),
+        'section_multiset_mismatches': [], 'multi_verse_span_units': [],
+        'total_units': 0, 'units_with_verse': 0, 'units_filler_filled': 0,
     }
+    verses_by_chapter = {}
 
-    ch1_debug = []
-    MATTHEW_VERSES = {}
-
-    for ch in matt:
+    for ch in book_chapters:
         chapter_num = int(ch['ref'].split()[-1])
         seq = morph.get(chapter_num, [])
         p = 0
         chapter_issue = False
-        unit_verse_flat = []  # (section_idx, unit_idx, verse_or_None)
+        unit_verse_flat = []
 
         for si, sec in enumerate(ch['sections']):
             words = sec['words']
@@ -110,29 +139,17 @@ def main():
             n = len(greek_tokens)
             sl = seq[p:p+n]
 
-            from collections import Counter
             want = Counter(norm_key(t) for t in greek_tokens)
             have = Counter(norm_key(s) for _, s in sl)
             if want != have:
                 report['section_multiset_mismatches'].append(
                     (ch['ref'], si, sec.get('heading'), n, len(sl)))
                 chapter_issue = True
-                # still advance by n so later sections aren't cascade-broken further
-                # than necessary; but don't trust this section's verse assignment.
                 for wi in range(len(words)):
                     unit_verse_flat.append((si, wi, None))
                 p += n
                 continue
 
-            # Reverted: a global "prefer ahead of cursor" heuristic was tried here
-            # and made things much worse (661 span-crossings instead of 14) --
-            # in text this repetitive (the genealogy repeats "the" and "was the
-            # father of" in almost every clause), one early wrong pick snowballs
-            # forward into every later one. Per-form independent queues, taken in
-            # strict left-to-right correspondence, is what actually got all of
-            # Matthew 1's genealogy exactly right; only 14/14699 units anywhere
-            # in Matthew were left genuinely ambiguous by it. Those are checked
-            # by hand below rather than patched with a cleverer heuristic.
             queues = defaultdict(deque)
             for v, s in sl:
                 queues[norm_key(s)].append(v)
@@ -153,23 +170,16 @@ def main():
 
         if p != len(seq):
             chapter_issue = True
-            report['chapters_with_issues'].append((ch['ref'], 'token count mismatch', p, len(seq)))
+            report['section_multiset_mismatches'].append((ch['ref'], 'TOTAL', 'token count', p, len(seq)))
 
-        if chapter_issue:
-            report['chapters_with_issues'].append((ch['ref'], 'see mismatches above'))
-        else:
+        if not chapter_issue:
             report['chapters_ok'] += 1
 
-        # fill fillers with nearest previous verse in this chapter, else next
-        last_verse = None
-        for i, (si, wi, v) in enumerate(unit_verse_flat):
-            if v is not None:
-                last_verse = v
+        for (si, wi, v) in unit_verse_flat:
             report['total_units'] += 1
             if v is not None:
                 report['units_with_verse'] += 1
 
-        # second pass forward, then backward, to fill None
         filled = list(unit_verse_flat)
         last_verse = None
         for i in range(len(filled)):
@@ -188,41 +198,55 @@ def main():
             elif v is not None:
                 next_verse = v
 
-        if chapter_num == 1:
-            for (si, wi, v), (si2, wi2, v0) in zip(filled, unit_verse_flat):
-                w = ch['sections'][si]['words'][wi]
-                ch1_debug.append((v, w[0], w[1]))
+        verses_by_chapter[chapter_num] = [v for (si, wi, v) in filled]
 
-        MATTHEW_VERSES[chapter_num] = [v for (si, wi, v) in filled]
+    return verses_by_chapter, report
 
-    print('=== SUMMARY ===')
-    print('chapters ok:', report['chapters_ok'], '/', len(matt))
-    print('chapters with issues:', report['chapters_with_issues'])
-    print('section multiset mismatches:', len(report['section_multiset_mismatches']))
-    for m in report['section_multiset_mismatches'][:10]:
-        print('  ', m)
-    print('multi-verse-span units (unit whose tokens crossed a verse boundary):',
-          len(report['multi_verse_span_units']))
-    for m in report['multi_verse_span_units']:
-        print('  ', m)
-    print('total units:', report['total_units'])
-    print('units with a direct verse (had Greek):', report['units_with_verse'])
-    print('filler units filled from neighbor:', report['units_filler_filled'])
+def main():
+    chapters = load_chapters()
+    ALL_VERSES = {}
+    grand = Counter()
+    problem_books = []
+
+    for book_name, morph_stub in BOOKS:
+        book_chapters = [c for c in chapters if c['ref'].startswith(book_name + ' ')]
+        morph_path = f'tools/data/{morph_stub}-morphgnt.txt'
+        morph = load_morph(morph_path)
+        verses, report = align_book(book_chapters, morph)
+        ALL_VERSES[book_name] = {str(k): v for k, v in verses.items()}
+
+        ok = report['chapters_ok'] == report['chapters_total']
+        status = 'OK' if ok else 'ISSUES'
+        print(f"{book_name:20} {report['chapters_ok']:>3}/{report['chapters_total']:<3} chapters clean   "
+              f"units={report['total_units']:<6} spans={len(report['multi_verse_span_units']):<4} "
+              f"mismatches={len(report['section_multiset_mismatches']):<3} [{status}]")
+        if not ok:
+            problem_books.append(book_name)
+            for m in report['section_multiset_mismatches']:
+                print('    MISMATCH:', m)
+        if report['multi_verse_span_units']:
+            for m in report['multi_verse_span_units']:
+                print('    SPAN:', m)
+
+        grand['total_units'] += report['total_units']
+        grand['units_with_verse'] += report['units_with_verse']
+        grand['units_filler_filled'] += report['units_filler_filled']
+        grand['spans'] += len(report['multi_verse_span_units'])
+        grand['mismatches'] += len(report['section_multiset_mismatches'])
 
     print()
-    print('=== MATTHEW 1, first 40 units with assigned verse ===')
-    for v, eng, grk in ch1_debug[:40]:
-        print(f'{v:>2}  {eng!r:35} {grk!r}')
+    print('=== GRAND TOTAL, all 27 books ===')
+    print('total units:', grand['total_units'])
+    print('units with a direct verse:', grand['units_with_verse'])
+    print('filler units filled from neighbor:', grand['units_filler_filled'])
+    print('multi-verse-span units:', grand['spans'])
+    print('section multiset mismatches:', grand['mismatches'])
+    print('books with issues:', problem_books or 'none')
 
-    # Written as its OWN small file, loaded alongside chapters.js -- not merged
-    # into it. chapters.js stays byte-for-byte untouched; this is purely an
-    # additive overlay the reader can use to show verse numbers for Matthew.
-    out = 'const MAK_VERSES_MATTHEW = ' + json.dumps(
-        {str(k): v for k, v in MATTHEW_VERSES.items()}, ensure_ascii=False) + ';\n'
-    with io.open('data/mak_verses_matthew.pilot.js', 'w', encoding='utf-8') as f:
+    out = 'const MAK_VERSES = ' + json.dumps(ALL_VERSES, ensure_ascii=False) + ';\n'
+    with io.open(OUT_FILE, 'w', encoding='utf-8') as f:
         f.write(out)
-    print('\nWrote mak_verses_matthew.pilot.js:', len(out), 'bytes,',
-          sum(len(v) for v in MATTHEW_VERSES.values()), 'unit verse numbers.')
+    print(f'\nWrote {OUT_FILE}: {len(out)} bytes.')
 
 if __name__ == '__main__':
     main()
