@@ -365,11 +365,6 @@
   body.highlight-mode .illum-v.il-hl:hover{background:var(--hl-hover);box-shadow:0 0 0 5px var(--hl-hover);}
   .illum-ref{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-right:8px;vertical-align:2px;letter-spacing:0.02em;}
 
-  /* The Expositor's Translation's inline annotations -- black KJV text, red
-     annotation, exactly the black-letter/red-letter split the source study
-     Bible uses. No italic: color alone marks what is gloss vs. scripture. */
-  .exp-gloss{color:#b3261e;}
-
   /* Verse commentary. A verse carrying a note gets a small bulb after its
      text; everything else is left alone, so the reading page stays clean and
      the notes are there only for whoever wants them. */
@@ -1447,11 +1442,6 @@
     <div class="bible-main">
       <div class="chapter-head-row">
         <h1 id="chapterTitle">Matthew 1</h1>
-        <div class="mode-toggle" id="notesToggle" style="display:none;">
-          <span class="mlabel active" id="notesOffLabel">plain</span>
-          <div class="switch" id="notesSwitch" onclick="toggleExpNotes()"><div class="knob"></div></div>
-          <span class="mlabel" id="notesOnLabel">notes</span>
-        </div>
         <div class="mode-toggle">
           <span class="mlabel" id="studyLabel">study</span>
           <div class="switch" id="modeSwitch" onclick="toggleMode()"><div class="knob"></div></div>
@@ -1788,7 +1778,6 @@
 <script src="data/kjv.js"></script>
 <script src="data/devotional.js"></script>
 <script src="data/commentary.js"></script>
-<script src="data/exp_inline.js"></script>
 <script src="data/lexicon.js"></script>
 <script src="data/promises.js"></script>
 <script src="data/abbott.js"></script>
@@ -2675,13 +2664,11 @@ function goSaved(store, i) {
       break;
     case 'journal':
       sv('journal');
-      if (typeof jrShowMain === 'function') jrShowMain();
       if (typeof jrPick === 'function' && rec.d) jrPick(rec.d, true);
       break;
     case 'sermons':
       /* Straight into the notes themselves, which is what was tapped. */
       sv('journal');
-      if (typeof jrShowMain === 'function') jrShowMain();
       if (typeof jrPick === 'function' && rec.d) jrPick(rec.d, true);
       if (typeof jrOpenSermon === 'function') jrOpenSermon();
       break;
@@ -3407,11 +3394,8 @@ function sv(name) {
   if (name === 'mystuff') msShow();
   if (name === 'quotes') qtShow();
   if (name === 'options') optShow();
-  /* Journal deliberately does NOT force jrShowMain() here -- a reader stepping
-     over to the Bible tab mid-sermon to look something up, then back, should
-     land exactly where they left (the sermon page, the same selected day),
-     not get bounced to the calendar. Call sites that jump to a SPECIFIC day
-     from elsewhere (My Stuff, the tour) call jrShowMain() themselves. */
+  /* Land on the calendar, not in an editor for a day nobody asked about. */
+  if (name === 'journal' && typeof jrShowMain === 'function') jrShowMain();
   window.scrollTo({top:0, behavior:'smooth'});
 }
 
@@ -3427,12 +3411,6 @@ function sv(name) {
    already sits above Matthew 1 rather than inside it. */
 let currentTx = 'mak';
 let ILLUM_NAV = [];
-/* The Expositor's red inline commentary hangs off the KJV reader itself now,
-   behind a toggle -- see toggleExpNotes / expVerseText. Off by default so the
-   KJV card reads exactly as plain Authorized Version text until a reader
-   asks for the notes; the choice persists across visits like any other
-   reading preference. */
-let expNotesOn = localStorage.getItem('expNotesOn') === '1';
 
 /* The Illumination and the KJV share a data shape, so they share a reader.
    Mak keeps its own path because its sections are Greek-aligned word triples.
@@ -3614,37 +3592,8 @@ function buildIllumSynopsis(book) {
    translation's wording, so showing them over the KJV would be commenting on a
    text that did not make those choices. A verse with no note is untouched. */
 function commentaryFor(key) {
-  /* The Expositor's Translation does NOT use this popup-panel commentary --
-     its notes are red inline annotations woven into the verse text itself
-     (see expVerseText / data/exp_inline.js), not a detached box under the
-     whole verse the way the Illumination's Grace Commentary works. */
   return (typeof COMMENTARY !== 'undefined' && currentTx === 'illum')
     ? COMMENTARY[key] : null;
-}
-
-/* The Expositor's red commentary glosses select words inline, right inside
-   the verse -- see data/exp_inline.js -- styled apart from the surrounding
-   text so a reader can see what is King James wording and what is gloss, the
-   same way Mak's supplied filler stays visibly distinct from the
-   Greek-anchored text. It only shows on the KJV card, and only once the
-   notes toggle is on; otherwise every verse reads the plain KJV text,
-   escaped and line-broken exactly like ilText(). */
-function expVerseText(key, fallback) {
-  const inline = (currentTx === 'kjv' && expNotesOn && typeof EXP_INLINE !== 'undefined') ? EXP_INLINE[key] : null;
-  if (!inline) return ilText(fallback);
-  return ilEsc(inline).replace(/\n/g, '<br>')
-    .replace(/\(([^()]+)\)/g, '<span class="exp-gloss">($1)</span>');
-}
-
-function toggleExpNotes() {
-  expNotesOn = !expNotesOn;
-  localStorage.setItem('expNotesOn', expNotesOn ? '1' : '0');
-  document.getElementById('notesSwitch').classList.toggle('on', expNotesOn);
-  document.getElementById('notesOffLabel').classList.toggle('active', !expNotesOn);
-  document.getElementById('notesOnLabel').classList.toggle('active', expNotesOn);
-  if (currentTx === 'kjv' && ilChapter) {
-    document.getElementById('sectionsContainer').innerHTML = buildIllumChapter(ilChapter);
-  }
 }
 function cmtId(key) { return 'cmt-' + key.replace(/[^A-Za-z0-9]+/g, '-'); }
 
@@ -3763,7 +3712,7 @@ function buildIllumChapter(ch) {
            ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
            ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
            '<span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
-           expVerseText(key, v[1]);
+           ilText(v[1]);
       if (note) {
         h += '<button class="cmt-bulb" data-cmt="' + ilEsc(key) + '" title="commentary"' +
              ' aria-label="Commentary on ' + ilEsc(key) + '"' +
@@ -4062,10 +4011,6 @@ function switchTranslation(tx) {
   currentTx = tx;
   ['mak', 'illum', 'kjv', 'dev'].forEach(k =>
     document.getElementById('txcard-' + k).classList.toggle('active', tx === k));
-  document.getElementById('notesToggle').style.display = tx === 'kjv' ? '' : 'none';
-  document.getElementById('notesSwitch').classList.toggle('on', expNotesOn);
-  document.getElementById('notesOffLabel').classList.toggle('active', !expNotesOn);
-  document.getElementById('notesOnLabel').classList.toggle('active', expNotesOn);
   /* Neither the Illumination nor the KJV carries Greek alignment, so the
      study switch has nothing to act on. Force read mode rather than leaving
      a dead control. The devotional is prose and has even less to align. */
@@ -5935,21 +5880,10 @@ function jrRenderRecent() {
     const label = (e.st || '').trim() || (e.j || '').trim().split('\n')[0] ||
                   (e.s || '').trim().split('\n')[0] || '—';
     const short = label.length > 58 ? label.slice(0, 58) + '…' : label;
-    return '<li onclick="jrPickRecent(\'' + e.d + '\')">' +
+    return '<li onclick="jrPick(\'' + e.d + '\', true)">' +
            '<span class="jr-rd">' + (d.getMonth() + 1) + '/' + d.getDate() + '</span>' +
            '<span class="jr-rt">' + short.replace(/</g, '&lt;') + '</span></li>';
   }).join('');
-}
-
-/* A recent entry can be a reflection, sermon notes, or both -- jrRenderRecent's
-   own label falls back title -> reflection -> sermon body in that order, so
-   match it here: land on the sermon page only when there is no reflection to
-   show, otherwise the click would open an editor with nothing in it while the
-   actual writing sits one tap away and unseen. */
-function jrPickRecent(key) {
-  jrPick(key, true);
-  const e = jrGet(key);
-  if (!(e && (e.j || '').trim()) && jrHasSermon(e)) jrOpenSermon();
 }
 
 function jrRender() { jrRenderCal(); jrRenderPanel(); jrRenderRecent(); }
