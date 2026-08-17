@@ -2675,11 +2675,13 @@ function goSaved(store, i) {
       break;
     case 'journal':
       sv('journal');
+      if (typeof jrShowMain === 'function') jrShowMain();
       if (typeof jrPick === 'function' && rec.d) jrPick(rec.d, true);
       break;
     case 'sermons':
       /* Straight into the notes themselves, which is what was tapped. */
       sv('journal');
+      if (typeof jrShowMain === 'function') jrShowMain();
       if (typeof jrPick === 'function' && rec.d) jrPick(rec.d, true);
       if (typeof jrOpenSermon === 'function') jrOpenSermon();
       break;
@@ -3405,8 +3407,11 @@ function sv(name) {
   if (name === 'mystuff') msShow();
   if (name === 'quotes') qtShow();
   if (name === 'options') optShow();
-  /* Land on the calendar, not in an editor for a day nobody asked about. */
-  if (name === 'journal' && typeof jrShowMain === 'function') jrShowMain();
+  /* Journal deliberately does NOT force jrShowMain() here -- a reader stepping
+     over to the Bible tab mid-sermon to look something up, then back, should
+     land exactly where they left (the sermon page, the same selected day),
+     not get bounced to the calendar. Call sites that jump to a SPECIFIC day
+     from elsewhere (My Stuff, the tour) call jrShowMain() themselves. */
   window.scrollTo({top:0, behavior:'smooth'});
 }
 
@@ -5930,10 +5935,21 @@ function jrRenderRecent() {
     const label = (e.st || '').trim() || (e.j || '').trim().split('\n')[0] ||
                   (e.s || '').trim().split('\n')[0] || '—';
     const short = label.length > 58 ? label.slice(0, 58) + '…' : label;
-    return '<li onclick="jrPick(\'' + e.d + '\', true)">' +
+    return '<li onclick="jrPickRecent(\'' + e.d + '\')">' +
            '<span class="jr-rd">' + (d.getMonth() + 1) + '/' + d.getDate() + '</span>' +
            '<span class="jr-rt">' + short.replace(/</g, '&lt;') + '</span></li>';
   }).join('');
+}
+
+/* A recent entry can be a reflection, sermon notes, or both -- jrRenderRecent's
+   own label falls back title -> reflection -> sermon body in that order, so
+   match it here: land on the sermon page only when there is no reflection to
+   show, otherwise the click would open an editor with nothing in it while the
+   actual writing sits one tap away and unseen. */
+function jrPickRecent(key) {
+  jrPick(key, true);
+  const e = jrGet(key);
+  if (!(e && (e.j || '').trim()) && jrHasSermon(e)) jrOpenSermon();
 }
 
 function jrRender() { jrRenderCal(); jrRenderPanel(); jrRenderRecent(); }
