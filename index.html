@@ -81,6 +81,38 @@
     font-family:var(--mono);font-size:0.82em;font-weight:700;
     border:1px solid var(--line);border-radius:999px;padding:7px 14px;background:var(--sheet);cursor:pointer;
   }
+  /* The picker button reuses .chapter-select's look but is a <button>, not a
+     <select> -- it has no native truncation, so it needs its own ellipsis. */
+  button.chapter-picker-btn{
+    font-family:var(--mono);font-size:0.82em;font-weight:700;
+    border:1px solid var(--line);border-radius:999px;padding:7px 14px;background:var(--sheet);cursor:pointer;
+    color:var(--ink);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  }
+  button.chapter-picker-btn:hover{background:var(--group);}
+
+  /* Book -> chapter picker. Two views (books, chapters) in one panel, swapped
+     by hiding/showing rather than two separate overlays -- keeps the open/close
+     animation and backdrop-click-to-close logic in one place. */
+  .nav-picker-card{max-width:420px;width:100%;padding:0;display:flex;flex-direction:column;max-height:82vh;}
+  .nav-picker-head{display:flex;align-items:center;gap:8px;padding:16px 18px;border-bottom:1px solid var(--line);flex:0 0 auto;}
+  .nav-picker-back{font-family:var(--sans);font-size:0.88em;font-weight:600;color:var(--sword);
+    background:none;border:none;cursor:pointer;padding:6px 4px;white-space:nowrap;}
+  .nav-picker-title{flex:1;font-weight:700;font-size:1.05em;text-align:center;}
+  .nav-picker-body{overflow-y:auto;flex:1 1 auto;padding:10px;}
+  .nav-picker-book-row{display:flex;align-items:center;justify-content:space-between;width:100%;
+    text-align:left;background:none;border:none;border-radius:10px;padding:12px 12px;cursor:pointer;
+    font-family:var(--sans);font-size:0.98em;color:var(--ink);}
+  .nav-picker-book-row:hover{background:var(--group);}
+  .nav-picker-book-row .chev{color:var(--gray);}
+  .nav-picker-testament-head{font-family:var(--mono);font-size:0.72em;color:var(--gray);
+    text-transform:uppercase;letter-spacing:0.04em;padding:14px 12px 6px;}
+  .nav-picker-testament-head:first-child{padding-top:4px;}
+  .nav-picker-chapter-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:8px;}
+  .nav-picker-chapter-btn{aspect-ratio:1;border-radius:10px;border:1px solid var(--line);background:var(--sheet);
+    font-family:var(--mono);font-weight:700;font-size:0.95em;cursor:pointer;display:flex;align-items:center;justify-content:center;}
+  .nav-picker-chapter-btn:hover{background:var(--group);}
+  .nav-picker-chapter-btn.current{background:var(--sword);color:#fff;border-color:var(--sword);}
+  .nav-picker-special-btn{grid-column:1/-1;aspect-ratio:auto;justify-content:flex-start;padding:0 12px;text-align:left;}
 
   /* The reading surface floats on the field rather than filling the window. */
   main{max-width:900px;margin:22px auto 110px;padding:30px 36px 38px;
@@ -1364,6 +1396,8 @@
       <option value="NT">New Testament</option>
     </select>
     <select class="chapter-select" id="chapterSelect" onchange="navSelect(this.value)"></select>
+    <button class="chapter-select chapter-picker-btn" id="chapterPickerBtn"
+            onclick="openNavPicker()" style="display:none;"></button>
     <button class="tool-btn" title="home">&#8962;</button>
     <button class="tool-btn" id="searchBtn" onclick="openSearch()" title="search">&#128269;</button>
     <button class="tool-btn" id="hlBtn" onclick="toggleHighlightMode()" title="highlight">&#9998;</button>
@@ -1752,6 +1786,17 @@
 
 <div class="overlay" id="noteOverlay" onclick="if(event.target===this) closeNoteModal()">
   <div class="def-card note-card" id="noteCard"></div>
+</div>
+
+<div class="overlay" id="navPickerOverlay" onclick="if(event.target===this) closeNavPicker()">
+  <div class="def-card nav-picker-card">
+    <div class="nav-picker-head">
+      <button class="nav-picker-back" id="navPickerBack" onclick="navPickerRenderBooks()" style="visibility:hidden;">&#8249; Books</button>
+      <div class="nav-picker-title" id="navPickerTitle">Books</div>
+      <button class="def-close" onclick="closeNavPicker()" aria-label="close">&times;</button>
+    </div>
+    <div class="nav-picker-body" id="navPickerBody"></div>
+  </div>
 </div>
 
 <div class="overlay" id="updatesOverlay" onclick="if(event.target===this) closeUpdates()">
@@ -3306,6 +3351,7 @@ function renderChapterNav(idx) {
 function loadChapter(idx, skipHistory) {
   const container = document.getElementById('sectionsContainer');
   document.getElementById('chapterSelect').value = idx;
+  syncChapterPickerLabel();
 
   if (idx === 'intro') {
     currentChapterIdx = 'intro';
@@ -3798,6 +3844,7 @@ function loadIllum(i) {
      entry -- see buildIllumIntro on why inserting one would re-point saved marks. */
   if (i === 'intro') {
     document.getElementById('chapterSelect').value = 'intro';
+    syncChapterPickerLabel();
     document.getElementById('chapterTitle').textContent = 'Introduction';
     document.body.classList.remove('il-syn-page');
     const el = document.getElementById('bibleIntro');
@@ -3821,6 +3868,7 @@ function loadIllum(i) {
     populateIllumSelect();
   }
   document.getElementById('chapterSelect').value = i;
+  syncChapterPickerLabel();
   document.getElementById('chapterTitle').textContent = illumLabel(d);
   /* Remember the place for a later switch. A synopsis has no chapter of its own,
      so it stands in for chapter 1 of its book. */
@@ -3940,6 +3988,117 @@ function navSelect(v) {
   else loadChapter(v);
 }
 
+/* ================= book -> chapter picker =================
+   Replaces the flat "Book 12" dropdown (1000+ entries for the two whole-Bible
+   translations) with two short taps: pick a book, then pick a chapter number
+   off a grid. Reuses the SAME underlying navigation as the old dropdown --
+   navSelect(value) -- so bookmarks, history, and every other feature keyed on
+   a nav index or CHAPTERS index need no changes at all; only how a reader
+   arrives at that value is different. Mak has no CORPUS entry (see navFor),
+   so its book list is derived here by grouping CHAPTERS, rather than reusing
+   corpus().books directly. */
+function navPickerBooks() {
+  if (currentTx === 'mak') {
+    const map = {}, books = [];
+    CHAPTERS.forEach((c, i) => {
+      const name = bookOf(c.ref);
+      if (!map[name]) { map[name] = { name, testament: 'NT', entries: [] }; books.push(map[name]); }
+      const num = map[name].entries.length + 1;
+      map[name].entries.push({ value: String(i), label: String(num) });
+    });
+    return { hasIntro: true, books };
+  }
+  const nav = navFor(currentTx);
+  const hasSyn = !!corpus().intros;
+  const map = {}, books = [];
+  nav.forEach((d, i) => {
+    if (!map[d.book]) {
+      map[d.book] = { name: d.book, testament: testamentOf(d.book), entries: [] };
+      books.push(map[d.book]);
+    }
+    if (d.type === 'syn') {
+      map[d.book].entries.push({ value: String(i), label: 'Synopsis', special: true });
+    } else {
+      const num = map[d.book].entries.filter(e => !e.special).length + 1;
+      map[d.book].entries.push({ value: String(i), label: String(num) });
+    }
+  });
+  return { hasIntro: hasSyn, books };
+}
+
+let navPickerData = null;
+
+function openNavPicker() {
+  if (isDevTx(currentTx)) return;
+  navPickerData = navPickerBooks();
+  document.getElementById('navPickerOverlay').classList.add('open');
+  navPickerRenderBooks();
+}
+function closeNavPicker() {
+  document.getElementById('navPickerOverlay').classList.remove('open');
+}
+
+function navPickerRenderBooks() {
+  document.getElementById('navPickerBack').style.visibility = 'hidden';
+  document.getElementById('navPickerTitle').textContent = 'Books';
+  const body = document.getElementById('navPickerBody');
+  let h = '';
+  if (navPickerData.hasIntro) {
+    h += '<button class="nav-picker-book-row" onclick="navPickerPick(\'intro\')"><span>Introduction</span></button>';
+  }
+  /* Only worth a section header when the list actually spans both -- Mak is
+     New Testament only and would otherwise show a single "New Testament"
+     label over every row for no reason. */
+  const showTestamentHeads = navPickerData.books.some(b => b.testament === 'OT') &&
+                              navPickerData.books.some(b => b.testament === 'NT');
+  let lastTestament = null;
+  navPickerData.books.forEach((b, bi) => {
+    if (showTestamentHeads && b.testament !== lastTestament) {
+      lastTestament = b.testament;
+      h += '<div class="nav-picker-testament-head">' +
+           (b.testament === 'OT' ? 'Old Testament' : 'New Testament') + '</div>';
+    }
+    h += '<button class="nav-picker-book-row" onclick="navPickerRenderChapters(' + bi + ')">' +
+         '<span>' + ilEsc(b.name) + '</span><span class="chev">&#8250;</span></button>';
+  });
+  body.innerHTML = h;
+  body.scrollTop = 0;
+}
+
+function navPickerRenderChapters(bi) {
+  const book = navPickerData.books[bi];
+  document.getElementById('navPickerBack').style.visibility = 'visible';
+  document.getElementById('navPickerTitle').textContent = book.name;
+  const body = document.getElementById('navPickerBody');
+  const sel = document.getElementById('chapterSelect');
+  const curVal = sel ? sel.value : null;
+  let h = '<div class="nav-picker-chapter-grid">';
+  book.entries.forEach(e => {
+    const isCur = curVal !== null && curVal === e.value;
+    const cls = 'nav-picker-chapter-btn' + (e.special ? ' nav-picker-special-btn' : '') + (isCur ? ' current' : '');
+    h += '<button class="' + cls + '" onclick="navPickerPick(\'' + e.value + '\')">' + ilEsc(e.label) + '</button>';
+  });
+  body.innerHTML = h + '</div>';
+  body.scrollTop = 0;
+}
+
+function navPickerPick(value) {
+  closeNavPicker();
+  navSelect(value);
+}
+
+/* Keeps the visible picker button's label matching the hidden native select's
+   current selection -- the select itself stays the source of truth (every
+   existing nav function already sets its .value), only its on-screen role
+   changes. Called right after each of those assignments. */
+function syncChapterPickerLabel() {
+  const sel = document.getElementById('chapterSelect');
+  const btn = document.getElementById('chapterPickerBtn');
+  if (!sel || !btn) return;
+  const opt = sel.options[sel.selectedIndex];
+  btn.textContent = opt ? opt.text : '';
+}
+
 /* ================= carrying the reader's place across a switch =================
    All three verse translations label a chapter the same way -- "Book N" -- so a
    place travels as that ref, plus the verse currently at the top of the screen
@@ -4026,6 +4185,13 @@ function switchTranslation(tx) {
   /* Mak is New Testament only, so a testament filter there would be a control
      with nothing to do. Shown for the two whole-Bible translations. */
   document.getElementById('testamentSelect').style.display = isVerseTx(tx) ? '' : 'none';
+  /* The book/chapter picker covers Mak, Illumination and the KJV -- the three
+     translations with actual books and chapters. The devotional's own flat
+     day list keeps the native dropdown; there is no book structure to pick
+     from there. */
+  document.getElementById('chapterSelect').style.display = isDevTx(tx) ? '' : 'none';
+  document.getElementById('chapterPickerBtn').style.display = isDevTx(tx) ? 'none' : '';
+  if (!isDevTx(tx)) syncChapterPickerLabel();
   if (isDevTx(tx)) {
     if (!readMode) toggleMode();
     populateDevSelect();
@@ -5565,6 +5731,12 @@ function tourMaybeAutoStart() {
 }
 
 populateSelect();
+/* currentTx starts as 'mak' and switchTranslation('mak') is never called for
+   that starting state (it is already current), so the picker-vs-native-select
+   visibility set inside switchTranslation never runs for it -- set the same
+   starting state here once. */
+document.getElementById('chapterSelect').style.display = 'none';
+document.getElementById('chapterPickerBtn').style.display = '';
 migrateHighlightKeys();        // must run before any section is built
 migrateSectionKeys();          // likewise: bookmark/note keys are read at build time
 renderMoods();                 // restore any saved mood before the first verse
