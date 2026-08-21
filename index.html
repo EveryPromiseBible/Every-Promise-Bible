@@ -902,6 +902,7 @@
   .def-fold > summary .src-dot.abbott{background:var(--blue);}
   .def-fold > summary .src-dot.wordpic{background:var(--green);}
   .def-fold > summary .src-dot.thayer{background:var(--purple);}
+  .def-fold > summary .src-dot.weust{background:var(--pink);}
   .def-fold > summary .src-line{flex:1;height:1px;background:var(--line);}
   .def-fold > summary .fold-caret{font-size:0.9em;transition:transform 0.15s;}
   .def-fold[open] > summary .fold-caret{transform:rotate(90deg);}
@@ -915,6 +916,16 @@
   .th-body p{font-size:0.98em;line-height:1.62;margin:0 0 9px;}
   .th-body p:last-child{margin-bottom:0;}
   .th-body .th-lead{font-weight:600;}
+  .weust-verse{margin-bottom:16px;background:var(--paper);border:1px solid var(--pink);border-radius:8px;padding:14px 16px;}
+  .weust-verse-label{font-family:var(--mono);font-size:0.64em;text-transform:uppercase;letter-spacing:0.05em;color:var(--pink);font-weight:700;margin-bottom:6px;}
+  .weust-verse p{font-size:0.98em;line-height:1.55;margin:0;}
+  .weust-verse p b{font-weight:700;}
+  .weust-body{display:flex;flex-direction:column;gap:14px;}
+  .weust-body p{font-size:0.95em;line-height:1.65;margin:0;border-left:2px solid var(--pink);padding-left:12px;}
+  .weust-body p b{font-weight:700;}
+  .weust-translation{margin-top:16px;background:var(--paper);border:1px solid var(--pink);border-radius:8px;padding:14px 16px;}
+  .weust-translation-label{font-family:var(--mono);font-size:0.64em;text-transform:uppercase;letter-spacing:0.05em;color:var(--pink);font-weight:700;margin-bottom:6px;}
+  .weust-translation p{font-style:italic;font-size:0.95em;line-height:1.6;margin:0;}
   .th-loading{font-family:var(--mono);font-size:0.72em;color:var(--gray);padding:2px 0;}
 
   /* Abbott-Smith specific */
@@ -1823,6 +1834,7 @@
 <script src="data/devotional.js"></script>
 <script src="data/commentary.js"></script>
 <script src="data/lexicon.js"></script>
+<script src="data/weust.js"></script>
 <script src="data/promises.js"></script>
 <script src="data/abbott.js"></script>
 <script src="data/wordcounts.js"></script>
@@ -2377,7 +2389,7 @@ function parseTag(tag) {
     return { num: 'G' + m[1], pos: m[2] };
   }).filter(Boolean);
 }
-function showDefinition(eng, grk, tag) {
+function showDefinition(eng, grk, tag, verseRef) {
   const parts = parseTag(tag);
   const card = document.getElementById('defCard');
   let html = '<button class="def-close" onclick="closeDef()">&times;</button>';
@@ -2465,6 +2477,17 @@ function showDefinition(eng, grk, tag) {
       needThayer = true;
     }
 
+    /* ---- 5. WEUST section (collapsed; verse-keyed, not per-word) ----
+       Original word-study commentary for this word's verse, when there is
+       one -- keyed by chapter:verse rather than Strong's number, since it's
+       written as running commentary on a passage, not a flat dictionary.
+       Silently absent otherwise, same as Word Picture. */
+    const weustHit = verseRef ? weustVerseLookup(verseRef) : null;
+    if (weustHit) {
+      html += `<details class="def-fold" name="${grp}"><summary><span class="src-dot weust"></span>weust<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
+        <div class="def-source-block">${renderWeust(weustHit, verseRef, eng)}</div></details>`;
+    }
+
     html += '</div>';
     if (idx < parts.length - 1) html += '<div class="def-divider"></div>';
   });
@@ -2472,6 +2495,86 @@ function showDefinition(eng, grk, tag) {
   card.innerHTML = html;
   document.getElementById('defOverlay').classList.add('open');
   if (needThayer) ensureThayer().then(fillThayerPlaceholders).catch(thayerFailed);
+}
+
+/* ---- Weust: verse-keyed original commentary --------------------------
+   WEUST is {book: [{c1,v1,c2,v2,label,text,translation}, ...]}, sorted per
+   book by c1 then v1. A lookup is a containment check -- does chapter:verse
+   fall inside a range -- since one entry can cover several verses Wuest
+   grouped together in his own discussion (e.g. "Mark 14:63-65"). */
+function weustVerseLookup(verseRef) {
+  const m = /^(.+) (\d+):(\d+)$/.exec(verseRef || '');
+  if (!m || typeof WEUST === 'undefined') return null;
+  const book = m[1], c = +m[2], v = +m[3];
+  const ranges = WEUST[book];
+  if (!ranges) return null;
+  return ranges.find(r =>
+    (c > r.c1 || (c === r.c1 && v >= r.v1)) && (c < r.c2 || (c === r.c2 && v <= r.v2))) || null;
+}
+/* Rebuilds a plain-English verse from Mak's own word data -- the same
+   translation the lexicon popup itself lives in, rather than pulling from
+   KJV/Illumination, which the reader may not even have open. Mirrors the
+   exact per-word verse-number walk makInjectVerseMarkers uses. */
+function makVerseText(verseRef) {
+  const m = /^(.+) (\d+):(\d+)$/.exec(verseRef || '');
+  if (!m) return null;
+  const chRef = m[1] + ' ' + m[2], vNum = +m[3];
+  const idx = makIndexForRef(chRef);
+  if (idx < 0) return null;
+  const chapter = CHAPTERS[idx];
+  const verses = makVersesFor(chapter.ref);
+  if (!verses) return null;
+  const words = [];
+  let offset = 0;
+  chapter.sections.forEach(sec => {
+    sec.words.forEach((triple, wIdx) => {
+      if (triple[0] === "" && triple[1] === "") return;
+      if (verses[offset + wIdx] === vNum && triple[0]) words.push(triple[0]);
+    });
+    offset += sec.words.length;
+  });
+  return words.length ? words.join(' ').replace(/\s+([,.;:!?'"])/g, '$1') : null;
+}
+
+/* Splits the running commentary into one call-out per word/phrase Wuest
+   picked out, instead of one dense paragraph -- his own entries read as a
+   single block; each new word he stops on almost always opens with a
+   quoted term ("Prepare" is..., "Crying" is...), so that's the seam split
+   on, with the leading quoted term(s) bolded to match the verse header. */
+function weustCallouts(text) {
+  const blocks = [];
+  text.split(/\n\n+/).forEach(para => {
+    para.split(/(?<=[.—])\s+(?=[“"])/).forEach(b => {
+      if (b.trim()) blocks.push(b.trim());
+    });
+  });
+  return blocks;
+}
+/* Bolds only the tapped word/phrase within the verse -- not the whole verse
+   -- so it reads as "here's where this sits" rather than shouting the whole
+   line. Matches whole-word, case-insensitive; the tapped eng text may carry
+   trailing punctuation (e.g. "voice,"), so that's trimmed before matching. */
+function boldTappedWord(escapedVerse, eng) {
+  const word = (eng || '').replace(/^[^\w]+|[^\w]+$/g, '');
+  if (!word) return escapedVerse;
+  const re = new RegExp('\\b' + word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'gi');
+  return escapedVerse.replace(re, m => '<b>' + m + '</b>');
+}
+function renderWeust(entry, verseRef, eng) {
+  const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const verseText = makVerseText(verseRef);
+  let html = '';
+  if (verseText) {
+    html += `<div class="weust-verse"><div class="weust-verse-label">${esc(verseRef)}</div><p>${boldTappedWord(esc(verseText), eng)}</p></div>`;
+  }
+  html += '<div class="weust-body">' + weustCallouts(entry.text).map(b => {
+    const escB = esc(b);
+    const lead = escB.match(/^((?:[“"][^”"]+[”"][,;]?\s*)+)/);
+    const p = lead && lead[1].trim() ? '<b>' + lead[1].trim() + '</b> ' + escB.slice(lead[1].length).replace(/^\s+/, '') : escB;
+    return `<p>${p}</p>`;
+  }).join('') + '</div>';
+  html += `<div class="weust-translation"><div class="weust-translation-label">Literal translation</div><p>${esc(entry.translation)}</p></div>`;
+  return html;
 }
 
 /* ---- Thayer's lazy loader ----------------------------------------------- */
@@ -3197,7 +3300,8 @@ function buildSection(section, chapterIdx, sectionIdx) {
           toggleHighlight(wordKey, chapterIdx, sectionIdx, section.heading, eng, grk);
           unit.classList.toggle('highlighted');
         } else {
-          showDefinition(eng, grk, tag);
+          const verseRef = unit.dataset.verse ? `${chRef}:${unit.dataset.verse}` : null;
+          showDefinition(eng, grk, tag, verseRef);
         }
       });
     }
@@ -3248,6 +3352,10 @@ function makInjectVerseMarkers(idx) {
         row.insertBefore(marker, unitEls[domI]);
         prevVerse = v;
       }
+      /* Stashed on the unit so a click can tell showDefinition which verse
+         it's in, for the "weust" source -- verse-keyed commentary, not a
+         flat per-word dictionary like the other three sources. */
+      unitEls[domI].dataset.verse = v;
       domI++;
     });
     offset += sec.words.length;
