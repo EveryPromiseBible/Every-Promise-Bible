@@ -2550,15 +2550,25 @@ function weustCallouts(text) {
   });
   return blocks;
 }
-/* Bolds only the tapped word/phrase within the verse -- not the whole verse
-   -- so it reads as "here's where this sits" rather than shouting the whole
-   line. Matches whole-word, case-insensitive; the tapped eng text may carry
-   trailing punctuation (e.g. "voice,"), so that's trimmed before matching. */
-function boldTappedWord(escapedVerse, eng) {
-  const word = (eng || '').replace(/^[^\w]+|[^\w]+$/g, '');
-  if (!word) return escapedVerse;
-  const re = new RegExp('\\b' + word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'gi');
-  return escapedVerse.replace(re, m => '<b>' + m + '</b>');
+/* Bolds only the tapped word/phrase within a block of text -- not the whole
+   thing -- so it reads as "here's where this sits" rather than shouting the
+   whole line. Mak sometimes folds a filler word in with the real one (e.g.
+   "the path" as one tap), so bold each MEANINGFUL word in eng separately
+   rather than requiring the exact phrase to appear verbatim -- "path" still
+   gets found and bolded even where the commentary says "hard-packed path"
+   with no "the" beside it. Falls back to the whole tapped text if every
+   word in it turns out to be a stop word (e.g. a bare "the" was tapped). */
+const WEUST_STOPWORDS = new Set(['a','an','the','of','to','in','on','and','or','is','are','was','were',
+  'be','his','her','its','their','our','your','my','that','this','these','those','with','for','from',
+  'by','as','it','he','she','they','we','you','i','not','but','so','at','into','out']);
+function boldTappedWord(escapedText, eng) {
+  const raw = (eng || '').replace(/[^\w\s]/g, ' ').trim();
+  if (!raw) return escapedText;
+  let words = raw.split(/\s+/).filter(w => !WEUST_STOPWORDS.has(w.toLowerCase()));
+  if (!words.length) words = raw.split(/\s+/);
+  const alt = words.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+  const re = new RegExp('\\b(?:' + alt + ')\\b', 'gi');
+  return escapedText.replace(re, m => '<b>' + m + '</b>');
 }
 function renderWeust(entry, verseRef, eng) {
   const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -2570,7 +2580,15 @@ function renderWeust(entry, verseRef, eng) {
   html += '<div class="weust-body">' + weustCallouts(entry.text).map(b => {
     const escB = esc(b);
     const lead = escB.match(/^((?:[“"][^”"]+[”"][,;]?\s*)+)/);
-    const p = lead && lead[1].trim() ? '<b>' + lead[1].trim() + '</b> ' + escB.slice(lead[1].length).replace(/^\s+/, '') : escB;
+    const leadStr = lead && lead[1].trim() ? lead[1].trim() : '';
+    /* The lead term is Wuest's own quoted word, which may not match the
+       reader's actual tap -- Mak and Wuest can gloss the same Greek word
+       differently (e.g. "path" in Mak vs. his "Wayside"). Bolding the
+       tapped word too, wherever it shows up in the rest of the sentence,
+       keeps the connection visible either way. */
+    const rest = leadStr ? escB.slice(lead[1].length).replace(/^\s+/, '') : escB;
+    const boldedRest = boldTappedWord(rest, eng);
+    const p = leadStr ? '<b>' + leadStr + '</b> ' + boldedRest : boldedRest;
     return `<p>${p}</p>`;
   }).join('') + '</div>';
   html += `<div class="weust-translation"><div class="weust-translation-label">Literal translation</div><p>${esc(entry.translation)}</p></div>`;
