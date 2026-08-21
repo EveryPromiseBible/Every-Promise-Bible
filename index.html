@@ -2575,7 +2575,7 @@ function renderWeust(entry, verseRef, eng) {
   const verseText = makVerseText(verseRef);
   let html = '';
   if (verseText) {
-    html += `<div class="weust-verse"><div class="weust-verse-label">${esc(verseRef)}</div><p>${boldTappedWord(esc(verseText), eng)}</p></div>`;
+    html += `<div class="weust-verse"><div class="weust-verse-label">${esc(verseRef)}</div><p>${esc(verseText)}</p></div>`;
   }
   html += '<div class="weust-body">' + weustCallouts(entry.text).map(b => {
     const escB = esc(b);
