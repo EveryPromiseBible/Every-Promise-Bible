@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 2026-08-23 — Illumination <-> Mak verse jump: fixed a race that stranded readers at the chapter top
+
+Tapping a verse number to jump between the Illumination and Mak (or switching
+translations generally, which uses the same mechanism to carry your place
+across) called two competing smooth scrolls: `loadChapter`/`loadIllum` always
+scrolled to the top of the new chapter first, and 80ms later a second call
+tried to scroll to the actual verse. In practice the second scroll frequently
+lost that race, leaving the reader at verse 1 instead of the verse they
+tapped -- worse the longer the chapter (Mak's interlinear rendering is tall,
+so this hit long chapters hardest). The chapter loaders now skip their own
+scroll-to-top whenever a verse-specific scroll is about to follow, so exactly
+one scroll happens instead of two. Confirmed with the scroll calls logged
+directly: only the verse scroll fires now, in both directions.
+
 ## 2026-08-23 — Book picker in the Illumination and King James Version now respects the Old/New Testament switch
 
 Choosing "New Testament" or "Old Testament" from the toolbar switch has always

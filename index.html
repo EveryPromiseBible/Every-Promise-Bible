@@ -1885,6 +1885,13 @@ const REACTIONS_API = 'https://quiet-meadow-1fde.everypromiseapp.workers.dev';
    generated from commit history, so add to it deliberately. */
 const SITE_UPDATES = [
   {
+    id: 'illum-mak-verse-jump-fix-2026-08-23',
+    date: 'August 23, 2026',
+    kind: 'feature',
+    ref: 'Illumination <-> Mak verse jump now lands on the actual verse',
+    why: 'The tap-to-jump between the Illumination and Mak announced earlier today had a bug: it was landing at the top of the chapter instead of the verse that was tapped, because two scroll animations were racing each other and the wrong one usually won -- worse the longer the chapter. Tapping a verse now scrolls to that verse reliably, in both directions.'
+  },
+  {
     id: 'book-picker-testament-filter-2026-08-23',
     date: 'August 23, 2026',
     kind: 'feature',
@@ -3549,7 +3556,7 @@ function renderChapterNav(idx) {
                   btn(next, 'next', 'next &#8594;');
 }
 
-function loadChapter(idx, skipHistory) {
+function loadChapter(idx, skipHistory, skipScrollTop) {
   const container = document.getElementById('sectionsContainer');
   document.getElementById('chapterSelect').value = idx;
   syncChapterPickerLabel();
@@ -3581,7 +3588,11 @@ function loadChapter(idx, skipHistory) {
   chapter.sections.forEach((s, sIdx) => container.appendChild(buildSection(s, idx, sIdx)));
   makInjectVerseMarkers(idx);
   renderChapterNav(idx);
-  window.scrollTo({top:0, behavior:'smooth'});
+  /* Skipped when a follow-up scroll (to a specific verse, or back to top as
+     its own fallback -- see makScrollToVerse) is about to run right after this:
+     two competing smooth scrolls racing is exactly what left readers stranded
+     at the chapter top instead of the verse they asked for. */
+  if (!skipScrollTop) window.scrollTo({top:0, behavior:'smooth'});
 }
 function toggleMode() {
   readMode = !readMode;
@@ -4082,7 +4093,7 @@ function renderIllumNav(i) {
   nav.innerHTML = btn(prev, 'prev', '&#8592; previous') + btn(next, 'next', 'next &#8594;');
 }
 
-function loadIllum(i) {
+function loadIllum(i, skipScrollTop) {
   /* Its own destination, ahead of Number() so the string survives. Not a nav
      entry -- see buildIllumIntro on why inserting one would re-point saved marks. */
   if (i === 'intro') {
@@ -4130,7 +4141,11 @@ function loadIllum(i) {
     body.innerHTML = buildIllumChapter(corpus().chapters[d.ci]);
   }
   renderIllumNav(i);
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  /* Skipped when a follow-up scroll (to a specific verse, or back to top as
+     its own fallback -- see scrollToVerse) is about to run right after this:
+     two competing smooth scrolls racing is exactly what left readers stranded
+     at the chapter top instead of the verse they asked for. */
+  if (!skipScrollTop) window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 /* ================= The Thirteenth Disciple (dv.01) =================
@@ -4370,13 +4385,17 @@ function topVerseNum() {
    into blocks -- so land on the first verse that reaches the one we came from
    rather than requiring an exact match. */
 function scrollToVerse(n) {
-  if (!n) return;
+  /* loadIllum skips its own scroll-to-top for this call's sake (see
+     skipScrollTop there), so a missing verse falls back to it here instead --
+     one scroll happens either way, never two competing ones. */
+  if (!n) { window.scrollTo({ top: 0, behavior: 'smooth' }); return; }
   const ps = [...document.querySelectorAll('#sectionsContainer .illum-v')];
   const hit = ps.find(p => {
     const v = verseNumOf(p.querySelector('.illum-ref'));
     return v !== null && v >= n;
   });
   if (hit) hit.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  else window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 function navIndexForRef(tx, ref) {
@@ -4402,10 +4421,14 @@ function makTopVerseNum() {
   return els.length ? Number(els[els.length - 1].textContent) : null;
 }
 function makScrollToVerse(n) {
-  if (!n) return;
+  /* loadChapter skips its own scroll-to-top for this call's sake (see
+     skipScrollTop there), so a missing verse falls back to it here instead --
+     one scroll happens either way, never two competing ones. */
+  if (!n) { window.scrollTo({ top: 0, behavior: 'smooth' }); return; }
   const els = [...document.querySelectorAll('#sectionsContainer .mak-verse-num')];
   const hit = els.find(el => Number(el.textContent) >= n);
   if (hit) hit.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  else window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 /* ---- Illumination <-> Mak: click a verse number, land on the same verse in
@@ -4486,7 +4509,7 @@ function switchTranslation(tx, forceRef, forceVerse) {
     const at = navIndexForRef(tx, lastRef);
     if (at >= 0) {
       populateIllumSelect();
-      loadIllum(at);
+      loadIllum(at, true);
       setTimeout(() => scrollToVerse(lastVerse), 80);
     } else {
       document.getElementById('testamentSelect').value = illumTestament;
@@ -4505,7 +4528,7 @@ function switchTranslation(tx, forceRef, forceVerse) {
     populateSelect();
     const at = makIndexForRef(lastRef);
     if (at >= 0) {
-      loadChapter(at, true);
+      loadChapter(at, true, true);
       setTimeout(() => makScrollToVerse(lastVerse), 80);
     } else {
       /* Mak is New Testament only, so an Old Testament place has no counterpart
