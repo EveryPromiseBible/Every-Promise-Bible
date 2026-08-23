@@ -1885,6 +1885,13 @@ const REACTIONS_API = 'https://quiet-meadow-1fde.everypromiseapp.workers.dev';
    generated from commit history, so add to it deliberately. */
 const SITE_UPDATES = [
   {
+    id: 'book-picker-testament-filter-2026-08-23',
+    date: 'August 23, 2026',
+    kind: 'feature',
+    ref: 'Book picker now respects the Old/New Testament switch',
+    why: 'Switching to "New Testament" or "Old Testament" in the toolbar has always narrowed the old chapter dropdown to match, but the book-and-chapter picker that replaced it for everyday use was never wired to that switch — it listed every book regardless of which testament was selected. Choosing New Testament now shows only Matthew through Revelation in the picker, and Old Testament shows only Genesis through Malachi, in the Illumination and the King James Version alike.'
+  },
+  {
     id: 'journal-recent-sermon-jump-2026-08-23',
     date: 'August 23, 2026',
     kind: 'feature',
@@ -4248,6 +4255,7 @@ function navPickerBooks() {
   const hasSyn = !!corpus().intros;
   const map = {}, books = [];
   nav.forEach((d, i) => {
+    if (testamentOf(d.book) !== illumTestament) return;
     if (!map[d.book]) {
       map[d.book] = { name: d.book, testament: testamentOf(d.book), entries: [] };
       books.push(map[d.book]);

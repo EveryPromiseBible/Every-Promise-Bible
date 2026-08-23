@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 2026-08-23 — Book picker in the Illumination and King James Version now respects the Old/New Testament switch
+
+Choosing "New Testament" or "Old Testament" from the toolbar switch has always
+filtered the old chapter dropdown, but the newer book-and-chapter picker (the
+one that opens a list of books, then a grid of chapter numbers) was built
+separately and never checked that switch — it listed every book from Genesis
+to Revelation no matter which testament was selected. It now filters to the
+selected testament, same as the dropdown always did. The Mak Translation,
+which has no Old Testament and no switch to begin with, is unaffected.
+
 ## 2026-08-23 — Journal: tapping a sermon note in "recent entries" now opens the sermon note
 
 Recent entries always jumped to the calendar/reflection view, even for a row
