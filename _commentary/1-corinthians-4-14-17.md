@@ -67,7 +67,7 @@ He repeats it later with the qualification: *imitate me, just as I also imitate 
 
 The same two words he has just used of the Corinthians — beloved, child.
 
-Paul addresses Timothy this way in both letters to him: *my own true son in believing*, and *a
+Paul addresses Timothy this way in both letters to him: *my own true son in the faith*, and *a
 son I love dearly*. See the note on 2 Timothy 1:1–2.
 
 ## What Timothy is for

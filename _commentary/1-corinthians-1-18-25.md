@@ -1,6 +1,6 @@
 ---
 key: 1 Corinthians 1:18–25
-title: The message of the blood covenant
+title: The message of the cross
 sources:
   - 2020-09-06 feeling-troubled-start-praying-in-the-spirit
   - 2021-06-06 set-apart-for-lasting-success
@@ -21,7 +21,7 @@ Paul takes the word his critics were using and keeps it.
 
 ## The two audiences
 
-*The message of the blood covenant is **foolishness to those who are perishing**, but to us who are
+*The message of the cross is **foolishness to those who are perishing**, but to us who are
 being saved **it is the power of God**.*
 
 The Greek for *foolishness* is **moria** — the root of *moron*.
@@ -103,7 +103,7 @@ than men**.*
 
 Paul concedes the terms and then measures with them.
 
-He does not argue that the blood covenant is really quite clever. He grants it looks foolish and
+He does not argue that the cross is really quite clever. He grants it looks foolish and
 weak, and says God at His most foolish outdoes men at their wisest.
 
 ## What he says about the church itself

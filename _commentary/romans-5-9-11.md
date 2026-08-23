@@ -53,6 +53,6 @@ ground for human boasting, and then permits exactly one: boasting **in God**.
 Not in the salvation, or the security, or the change in circumstances. In Him.
 
 > **What has already been said in this chapter.** *Since we have been put right by
-> believing, we have peace with God… and we stand in this grace.* Standing is the
+> faith, we have peace with God… and we stand in this grace.* Standing is the
 > posture Paul assigns to a person who has received it — which is why the *how
 > much more* argument can be made at all.

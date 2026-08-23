@@ -34,7 +34,7 @@ There it is. The test of whose you are is not who taught you, who baptised you, 
 gospel make sense to you. It is who died for you.
 
 Every one of these teachers was good. Apollos was eloquent and mighty in the Scriptures; Peter had
-walked with Him; Paul had written half the New Testament. And not one of them had a blood covenant with a
+walked with Him; Paul had written half the New Testament. And not one of them had a cross with a
 Corinthian's name on it.
 
 There is only one name in that category, and it is not on the list of parties. It is the answer to
@@ -43,15 +43,15 @@ them.
 ## Emptied
 
 *For Christ did not send me to baptize but to announce the good news — and not with clever,
-wise-sounding words, **or the blood covenant of Christ would be emptied of its power**.*
+wise-sounding words, **or the cross of Christ would be emptied of its power**.*
 
 **Kenothe** — hollowed out, made void. The same root as Philippians 2, where He *emptied* Himself.
 
-The blood covenant does not lose its power to opposition. Paul says it can lose its power to decoration —
+The cross does not lose its power to opposition. Paul says it can lose its power to decoration —
 to preaching so accomplished that people leave admiring the preacher. A sermon can be so good that
 nobody sees Him.
 
-> **Nobody has your name on a blood covenant but Him.** Whoever led you to Christ, whoever pastors you now,
-> whoever you would name if asked where your believing came from: they were servants through whom you
+> **Nobody has your name on a cross but Him.** Whoever led you to Christ, whoever pastors you now,
+> whoever you would name if asked where your faith came from: they were servants through whom you
 > believed, and Paul's own verdict on them is that neither the planter nor the waterer is anything.
 > One Man was crucified for you. Everything you have belongs to Him and comes free.

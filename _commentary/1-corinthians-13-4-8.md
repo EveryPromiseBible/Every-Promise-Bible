@@ -90,9 +90,9 @@ then that which is in part will be done away.*
 
 ## The three that remain
 
-*And now abide **believing, hope, love**, these three; but **the greatest of these is love**.*
+*And now abide **faith, hope, love**, these three; but **the greatest of these is love**.*
 
-Believing and hope also end — you do not need either when the thing is in front of you. Paul
+Faith and hope also end — you do not need either when the thing is in front of you. Paul
 calls love greatest and then, in the next sentence, tells them to chase it.
 
 ## Whose portrait this is

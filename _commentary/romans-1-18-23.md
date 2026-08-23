@@ -13,7 +13,7 @@ Paul's account of how a civilisation ends up worshipping animals, and it starts 
 ## Where this comes
 
 *For I am not ashamed of the gospel of Christ, for **it is the power of God to salvation**… For in it
-**the righteousness of God is revealed from believing to believing**.* See the note on
+**the righteousness of God is revealed from faith to faith**.* See the note on
 Romans 1:16–17.
 
 And then, immediately: *for the wrath of God is revealed*.

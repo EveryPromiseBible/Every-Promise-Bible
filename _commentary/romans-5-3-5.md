@@ -71,10 +71,10 @@ the glory of God**.*
 
 ## Where the paragraph is anchored
 
-Verse 1: *since we have been put right with God through believing, **we are at peace with
+Verse 1: *since we have been put right with God through faith, **we are at peace with
 God**.*
 
-Verse 2: *through Him we have also been brought in, by believing, **to this grace in which
+Verse 2: *through Him we have also been brought in, by faith, **to this grace in which
 we now stand**.*
 
 The suffering paragraph sits on top of a settled peace and a standing position, and
@@ -84,7 +84,7 @@ Paul establishes both before he mentions pressure.
 
 *While we were still sinners, Christ died for us.* See the note on Romans 5:6–8.
 
-The proof of the love that floods the heart is dated to the blood covenant, not to how the
+The proof of the love that floods the heart is dated to the cross, not to how the
 suffering turns out.
 
 > **What Paul had been through by the time he wrote this.** Stoned and left for

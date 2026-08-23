@@ -42,7 +42,7 @@ Paul says Christ is that.
 
 ## Through what
 
-*This comes to us **through believing in His blood**.*
+*This comes to us **through faith in His blood**.*
 
 The blood is the Day of Atonement detail. The high priest went in with it, alone, once a year,
 and sprinkled it on that lid.
@@ -92,7 +92,7 @@ Paul is describing where they met.
 ## What follows immediately
 
 *Where is boasting then? **It is excluded**. By what law? Of works? No, but by the law of
-believing.*
+faith.*
 
 The Greek is **exekleisthe** — shut out. A door closed on it.
 
@@ -103,7 +103,7 @@ said of a man before he was circumcised and four hundred years before the law.
 
 ## Where it lands
 
-*Therefore, having been justified by believing, **we have peace with God** through our Lord Jesus
+*Therefore, having been justified by faith, **we have peace with God** through our Lord Jesus
 Christ.* See the note on Romans 5:1–2.
 
 > **The problem being solved.** Not how a sinner can be forgiven. How God could have been

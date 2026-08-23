@@ -79,7 +79,7 @@ I would not have known covetousness unless the law had said, "You shall not cove
 ## What the law is not accused of
 
 Anything. Paul defends it repeatedly — *the law is holy, and the commandment holy and
-just and good*, and *do we then make void the law through believing? Certainly not! On the
+just and good*, and *do we then make void the law through faith? Certainly not! On the
 contrary, we establish the law.*
 
 The argument is about function, not quality.
@@ -89,7 +89,7 @@ The argument is about function, not quality.
 *But now.*
 
 *But now **the righteousness of God apart from the law is revealed**… even the
-righteousness of God, through believing in Jesus Christ, **to all and on all who believe**.
+righteousness of God, through faith in Jesus Christ, **to all and on all who believe**.
 For **there is no difference**.*
 
 Three chapters of prosecution, one sentence of *every mouth stopped*, and then *but

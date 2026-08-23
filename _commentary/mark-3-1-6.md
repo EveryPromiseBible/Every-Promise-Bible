@@ -84,5 +84,5 @@ Mark records the first plot against His life immediately after this.
 
 > **Where Jesus' anger is not recorded.** With the woman caught in adultery. With
 > Zacchaeus, or Matthew at the tax booth, or the woman at the well, or the thief on
-> the blood covenant. The Gospels show Him angry at hardness and at a temple market, and
+> the cross. The Gospels show Him angry at hardness and at a temple market, and
 > nowhere else.

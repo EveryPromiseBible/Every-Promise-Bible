@@ -32,7 +32,7 @@ At the baptism, from heaven: *You are My beloved Son*.
 
 At the transfiguration: *this is My beloved Son*.
 
-And at the blood covenant, from a Roman soldier: *truly this Man was the Son of God*. See the note on
+And at the cross, from a Roman soldier: *truly this Man was the Son of God*. See the note on
 Mark 15:37–39.
 
 Mark's opening line is echoed at three points, and the last one comes from an executioner.

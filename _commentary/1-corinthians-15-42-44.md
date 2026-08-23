@@ -126,7 +126,7 @@ asleep**.*
 **Aparche** — the first sheaf, waved as a pledge that the harvest is coming. The chapter's whole
 argument rests on one resurrection having already happened.
 
-*And if **Christ** is not risen, your believing is futile; you are still in your sins.*
+*And if **Christ** is not risen, your faith is futile; you are still in your sins.*
 
 ## What the chapter ends on
 

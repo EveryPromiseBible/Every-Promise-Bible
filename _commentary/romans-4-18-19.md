@@ -75,5 +75,5 @@ looking.
 > **What Hebrews says Sarah did.** *Sarah herself was given the strength to
 > conceive… **because she counted the One who promised as good for it**.* The Greek
 > is a reckoning word — she assessed His credit and found it sound. She had laughed
-> at the door of the tent, and the New Testament puts her in the roll of believing
+> at the door of the tent, and the New Testament puts her in the roll of faith
 > anyway. See the note on Hebrews 11:8–12.

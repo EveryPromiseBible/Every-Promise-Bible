@@ -25,7 +25,7 @@ sources:
 updated: 2026-08-06
 ---
 
-Chapter 13 has just finished — believing, hope and love, and the greatest of these is
+Chapter 13 has just finished — faith, hope and love, and the greatest of these is
 love. Then, without a break, this: *pursue love.*
 
 ## Two different verbs

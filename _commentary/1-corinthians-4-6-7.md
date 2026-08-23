@@ -35,7 +35,7 @@ man. Paul asks it and does not answer, because there is no answer available anyw
 man.
 
 The second is arithmetic rather than rebuke. Not *you should not boast*, but *count what you are
-holding and tell me where it came from*. Believing, understanding, the church you were born into, the
+holding and tell me where it came from*. Faith, understanding, the church you were born into, the
 capacity to grasp any of it — everything on the inventory arrived.
 
 *By the grace of God I am what I am*, he writes eleven chapters later, about the hardest-working
@@ -47,7 +47,7 @@ factually confused.
 ## Why this is rest and not scolding
 
 A man who has nothing he did not receive has nothing he can lose by comparison, nothing to defend,
-and nothing to keep up. *For by grace you have been saved through believing, and that not of
+and nothing to keep up. *For by grace you have been saved through faith, and that not of
 yourselves; it is the gift of God, not of works, lest anyone should boast.*
 
 Paul closes the door on boasting in the same breath as he throws the door open on the gift. The two

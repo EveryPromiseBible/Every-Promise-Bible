@@ -57,7 +57,7 @@ you are zealous for spiritual gifts, seek to excel to the edifying of the church
 
 ## The nine
 
-The verses following list them: a word of wisdom, a word of knowledge, believing,
+The verses following list them: a word of wisdom, a word of knowledge, faith,
 healings, the working of miracles, prophecy, discerning of spirits, tongues, and
 the interpretation of tongues.
 

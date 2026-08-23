@@ -77,7 +77,7 @@ And the law is four hundred and thirty years later still.
 
 The Greek is **opheilema** — what is owed.
 
-*But to him who does not work but believes on Him who **justifies the ungodly**, his believing is
+*But to him who does not work but believes on Him who **justifies the ungodly**, his faith is
 accounted for righteousness.* See the note on Romans 4:4–5.
 
 **Justifies the ungodly** — the phrase that would have been the hardest for Paul's readers, and

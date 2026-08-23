@@ -46,7 +46,7 @@ argument.
 
 The Greek is singular and concrete: one righteous deed. Paul does not point at
 Christ's whole life of obedience in general but at a single act, and in this
-letter that is the blood covenant.
+letter that is the cross.
 
 Against one trespass, one obedience. The books are balanced by matching pieces.
 

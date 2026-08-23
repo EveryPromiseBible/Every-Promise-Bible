@@ -43,25 +43,25 @@ Corinth manufactured bronze mirrors. The image would have been local.
 
 ## The three
 
-*Believing, hope, love.*
+*Faith, hope, love.*
 
 The Greek is **pistis, elpis, agapē**.
 
 ## The triad elsewhere
 
-Paul uses it repeatedly: *your work of believing, labour of love, and patience of hope*, in what is
+Paul uses it repeatedly: *your work of faith, labour of love, and patience of hope*, in what is
 probably his earliest letter.
 
-And *we have heard of your believing… the love which you have for all the saints, because of the hope
+And *we have heard of your faith… the love which you have for all the saints, because of the hope
 laid up for you in heaven*.
 
 ## The problem with the sentence
 
-Believing and hope look temporary by definition.
+Faith and hope look temporary by definition.
 
 *Hope that is seen is not hope; for why does one still hope for what he sees?*
 
-And believing is *the evidence of things not seen*.
+And faith is *the evidence of things not seen*.
 
 ## What the verse says anyway
 
@@ -80,7 +80,7 @@ The Greek is **meizōn de toutōn hē agapē**.
 The chapter has already said why: love is the only one of the three that describes something God
 does toward us as well as something we do.
 
-God does not have believing or hope. *God is love.*
+God does not have faith or hope. *God is love.*
 
 ## The word
 
@@ -110,13 +110,13 @@ brass or a clanging cymbal**.* See the note on 1 Corinthians 13:1–3.
 
 ## Why love is the greatest
 
-*And now abide believing, hope, love, these three; but **the greatest of these is love**.*
+*And now abide faith, hope, love, these three; but **the greatest of these is love**.*
 
 **Paul** does not say love is the most useful or the most difficult. The chapter has just said the
 other two are temporary in a way love is not — *we know in part, and we prophesy in part, but when
 that which is perfect has come, that which is in part will be done away.*
 
-Believing becomes sight. Hope becomes possession. Love does not become anything, because it is what God
+Faith becomes sight. Hope becomes possession. Love does not become anything, because it is what God
 already is.
 
 *He who does not love does not know God, for **God is love**.*
@@ -126,7 +126,7 @@ already is.
 
 ## Where the three come from
 
-*Therefore, having been justified by **believing**, we have peace with God through our Lord **Jesus
+*Therefore, having been justified by **faith**, we have peace with God through our Lord **Jesus
 Christ**… and rejoice in **hope** of the glory of God… because **the love of God has been poured out in
 our hearts** by the Holy Spirit who was given to us.*
 
@@ -136,5 +136,5 @@ person.
 *In this is love, **not that we loved God, but that He loved us** and sent His Son to be the
 propitiation for our sins.*
 
-> **The odd survivors.** Believing and hope look temporary by definition — Paul says they remain anyway,
+> **The odd survivors.** Faith and hope look temporary by definition — Paul says they remain anyway,
 > and does not explain how.

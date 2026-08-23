@@ -43,7 +43,7 @@ know that when He is revealed, we shall be like Him.*
 
 *"**Hope that is seen is not hope; for why does one still hope for what he sees?**"*
 
-*Now believing is the substance of things hoped for, **the evidence of things not seen**.*
+*Now faith is the substance of things hoped for, **the evidence of things not seen**.*
 
 *Now hope does not disappoint, because **the love of God has been poured out in our hearts by the Holy
 Spirit** who was given to us.*

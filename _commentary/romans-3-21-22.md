@@ -37,8 +37,8 @@ entirely.
 *A **rightness from God** has been **brought out into the open**.*
 
 The Greek is **dikaiosune theou** — the righteousness of God. It is the theme Paul
-announced in chapter 1: *in it the righteousness of God is revealed from believing to
-believing.*
+announced in chapter 1: *in it the righteousness of God is revealed from faith to
+faith.*
 
 **Brought out into the open** — the verb is perfect passive, made manifest and standing
 manifest.
@@ -55,7 +55,7 @@ note on Romans 4:6–8.
 
 ## The channel
 
-*It is a rightness from God that comes **through believing in Jesus Christ**.*
+*It is a rightness from God that comes **through faith in Jesus Christ**.*
 
 Not through effort, descent, or ritual.
 
@@ -88,7 +88,7 @@ being hated *without a cause*.
 ## Where the chapter ends
 
 *Where is boasting then? **It is excluded**. By what law? Of works? No, but **by the law
-of believing**.*
+of faith**.*
 
 > **What has changed at "but now."** Not the verdict on anybody — Paul restates it in the
 > next verse. What has appeared is a righteousness that was never on offer through the

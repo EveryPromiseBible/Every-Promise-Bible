@@ -125,7 +125,7 @@ inference his own argument invites.
 
 He has just said the commandment killed him, and he defends it in the same breath.
 
-*Therefore the law was **our tutor to bring us to Christ**, that we might be justified by believing.*
+*Therefore the law was **our tutor to bring us to Christ**, that we might be justified by faith.*
 
 > **The two things held together.** The commandment is holy, and it is what sin used as a
 > bridgehead. Paul states both and puts the blame on the second party — not on the

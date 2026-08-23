@@ -69,7 +69,7 @@ Read plainly: Pilate, Herod, Caiaphas and the council.
 Peter says it to the crowd in Jerusalem: *I know that you did it in ignorance, as did also
 your rulers*.
 
-And from the blood covenant: *Father, forgive them, for they do not know what they do*.
+And from the cross: *Father, forgive them, for they do not know what they do*.
 
 ## The title
 

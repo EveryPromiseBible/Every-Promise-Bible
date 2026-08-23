@@ -16,7 +16,7 @@ forgiven… blessed is the man to whom the LORD shall not impute sin.*
 
 *"**Then ask when it was credited. Was it after he was circumcised, or before?**"*
 
-Genesis 15 records the believing counted as righteousness. Genesis 17 records the circumcision. The
+Genesis 15 records the faith counted as righteousness. Genesis 17 records the circumcision. The
 rabbis reckoned the gap at fourteen years.
 
 *"**Not while circumcised, but while uncircumcised.**"*
@@ -25,7 +25,7 @@ The verdict was entered on a man who was, at the time, indistinguishable from a 
 
 ## What the sign was for
 
-*And he received the sign of circumcision, **a seal of the righteousness of the believing which he had
+*And he received the sign of circumcision, **a seal of the righteousness of the faith which he had
 while still uncircumcised**.*
 
 **Sphragida** — a seal. It certifies something already true; it does not create it.
@@ -39,9 +39,9 @@ If the righteousness came first, the sign is a receipt. If the sign came first, 
 a wage.
 
 *Now to him who works, the wages are not counted as grace but as debt. But to him who does not work
-but believes on Him who **justifies the ungodly**, his believing is accounted for righteousness.*
+but believes on Him who **justifies the ungodly**, his faith is accounted for righteousness.*
 
-*Therefore it is of believing that it might be **according to grace**, so that the promise might be sure
+*Therefore it is of faith that it might be **according to grace**, so that the promise might be sure
 to all the seed.*
 
 **Paul** settles the whole Jew-and-Gentile question with two chapter numbers in Genesis.
