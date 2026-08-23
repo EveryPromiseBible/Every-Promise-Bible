@@ -25,7 +25,7 @@ The writer is careful not to say the whole generation.
 
 ## The second
 
-*"And **who was it He was sick of for forty years?**"*
+*"And **who was it He was grieved with for forty years?**"*
 
 *"Was it not **the ones who sinned, the ones whose bodies dropped in the desert?**"*
 

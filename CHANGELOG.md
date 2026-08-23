@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-08-23 — Hebrews 3:16–19 in the Illumination: "grieved with," not "sick of"
+
+One clause changed, in "They Never Entered His Rest":
+
+| | |
+|---|---|
+| was | *And **who was it He was sick of for forty years?*** |
+| now | *And **who was it He was grieved with for forty years?*** |
+
+Same word, same problem, as the Hebrews 3:9 fix earlier this month: this is
+verse 17, and it is **προσώχθισα** (prosōchthisa, from προσοχθίζω, G4360)
+again — an anger/indignation word ("was provoked," KJV "was grieved") with
+nothing in it about sickness or nausea. "Sick of" reads as a plain-English
+idiom for being fed up, and it lands God's emotion in a place the Greek
+doesn't go, the same way "sick at heart" did at verse 9. That earlier fix
+only touched verse 9's own quotation of Psalm 95; this note in the writer's
+own commentary, three questions later, still had the old wording.
+
+Now reads *"grieved with,"* matching the word already chosen at 3:9, so the
+same event reads the same way each time the letter mentions it. The Grace
+Commentary note on Hebrews 3:16–19 quoted the old line and has been updated
+to match — nothing else in that note changed.
+
 ## 2026-08-14 — Likes and comments on "What's Changed" entries
 
 The one piece of this site that is not local-only. Every entry in the bell
