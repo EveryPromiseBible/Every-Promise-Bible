@@ -27,14 +27,14 @@ it is unanswerable on its own terms.
 
 ## Why the two cannot be combined
 
-*If the people of the law are the heirs, then faith has been drained of meaning
+*If the people of the law are the heirs, then believing has been drained of meaning
 and the promise has been cancelled.*
 
-Two strong verbs. Faith is *emptied* — made hollow, void of content. The promise
+Two strong verbs. Believing is *emptied* — made hollow, void of content. The promise
 is *abolished*.
 
 Paul's point is not that law is bad but that the two systems cannot run at once.
-A promise received by faith and an inheritance earned by performance are
+A promise received by believing and an inheritance earned by performance are
 different kinds of thing, and running the second empties the first.
 
 ## "What the law brings about is anger"
@@ -48,17 +48,17 @@ matter under judgement. He develops this at length three chapters later.
 
 ## The verse the argument is for
 
-*Therefore **it is of faith that it might be according to grace**, so that the promise might be sure
+*Therefore **it is of believing that it might be according to grace**, so that the promise might be sure
 to all the seed.*
 
-Verse 16, and **Paul** gives the reason for the whole chapter's arithmetic. Faith is not a better
+Verse 16, and **Paul** gives the reason for the whole chapter's arithmetic. Believing is not a better
 qualification than law-keeping. It is the only arrangement under which the thing can be a **gift**
 — and therefore the only one under which it can be **certain**.
 
 **Bebaian** — sure, guaranteed. A promise conditioned on performance is only as reliable as the
 performer.
 
-*For if those who are of the law are heirs, **faith is made void and the promise made of no
+*For if those who are of the law are heirs, **believing is made void and the promise made of no
 effect**.*
 
 ## Where the wrath went

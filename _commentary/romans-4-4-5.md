@@ -64,7 +64,7 @@ forth as a propitiation.* See the note on Romans 3:23–24.
 
 The account was settled. Not waived.
 
-*That He might be **just and the justifier** of the one who has faith in Jesus.*
+*That He might be **just and the justifier** of the one who believes in Jesus.*
 
 ## The result
 

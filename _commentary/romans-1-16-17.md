@@ -26,7 +26,7 @@ The thesis of the whole letter, in two sentences, before Paul has argued anythin
 *I am **not ashamed** of the good news of Christ — not for a moment.*
 
 He is writing to the capital of the empire, about a Jewish carpenter executed by
-Rome on a slave's cross. The message had every social reason to be embarrassing,
+Rome on a slave's blood covenant. The message had every social reason to be embarrassing,
 and he opens by naming the embarrassment and dismissing it.
 
 ## What it is
@@ -36,7 +36,7 @@ and he opens by naming the embarrassment and dismissing it.
 The Greek is **dunamis**. Not that the gospel describes God's power, or points to
 it, or asks for it. It **is** it.
 
-Paul says the same in 1 Corinthians: *the message of the cross is… the power of
+Paul says the same in 1 Corinthians: *the message of the blood covenant is… the power of
 God.*
 
 ## "To rescue"
@@ -66,25 +66,25 @@ Not demanded. Revealed — uncovered, disclosed.
 
 That is the hinge of the letter. The law revealed a righteousness God requires; the
 gospel reveals one God supplies. Paul returns to it in chapter 3: *the
-righteousness of God apart from the law is revealed… through faith in Jesus
+righteousness of God apart from the law is revealed… through believing in Jesus
 Christ.*
 
-## "From faith to faith"
+## "From believing to believing"
 
-*A right standing that comes **from faith and leads on to faith**.*
+*A right standing that comes **from believing and leads on to believing**.*
 
-The Greek is *ek pisteos eis pistin* — out of faith, into faith. It starts there
+The Greek is *ek pisteos eis pistin* — out of believing, into believing. It starts there
 and it goes on there. Nothing switches over to another basis later.
 
 ## The quotation
 
-*"**The one who is right with God will live by faith.**"*
+*"**The one who is right with God will live by believing.**"*
 
 Habakkuk 2:4 — five words in Hebrew, quoted three times in the New Testament
 (here, Galatians 3, Hebrews 10), and the sentence that set Luther off.
 
-It can be read *the righteous shall live by faith* or *the one who is righteous by
-faith shall live*. Paul's argument holds either way, and the letter goes on to make
+It can be read *the righteous shall live by believing* or *the one who is righteous by
+believing shall live*. Paul's argument holds either way, and the letter goes on to make
 both true.
 
 > **When Habakkuk said it.** Standing on a watchtower, having complained twice that

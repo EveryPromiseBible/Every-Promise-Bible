@@ -1,6 +1,6 @@
 ---
 key: Romans 5:6–8
-title: Love proved at the cross
+title: Love proved at the blood covenant
 sources:
   - 2019-07-21 see-his-love-and-receive-his-power
   - 2019-07-28 live-out-your-high-calling

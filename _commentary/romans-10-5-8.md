@@ -22,9 +22,9 @@ It is not a harsh statement. It is simply the arrangement, stated plainly.
 
 ## The second one speaks differently
 
-*But the righteousness that comes from faith **speaks a different way**.*
+*But the righteousness that comes from believing **speaks a different way**.*
 
-Paul personifies it. Faith-righteousness has a voice, and the first thing out of
+Paul personifies it. Believing-righteousness has a voice, and the first thing out of
 its mouth is a prohibition on two questions.
 
 ## The two forbidden questions
@@ -44,7 +44,7 @@ There is nothing to go and get.
 ## What it says instead
 
 *"**The word is near you, in your mouth and in your heart.**" That is the word of
-faith that we preach.*
+believing that we preach.*
 
 Paul is quoting Deuteronomy 30, where Moses says the commandment *is not too
 mysterious for you, nor is it far off. It is not in heaven… nor is it beyond the

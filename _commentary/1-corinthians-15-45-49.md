@@ -83,7 +83,7 @@ The image that was given at creation and damaged is the word used of what is com
 Some in Corinth were saying *there is no resurrection of the dead*.
 
 Paul's answer runs the whole chapter: if there is no resurrection, Christ is not risen, the
-preaching is empty, the faith is futile, and *we are of all men the most pitiable*.
+preaching is empty, the believing is futile, and *we are of all men the most pitiable*.
 
 ## What the resurrection body is like
 

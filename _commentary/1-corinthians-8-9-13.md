@@ -62,7 +62,7 @@ The Greek is **apollutai** — is destroyed, is ruined.
 
 The Greek is **di' hon Christos apethanen**.
 
-Paul sets a dinner invitation against the cross and asks which one the man is worth.
+Paul sets a dinner invitation against the blood covenant and asks which one the man is worth.
 
 ## The charge
 

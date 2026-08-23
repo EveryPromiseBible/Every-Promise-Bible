@@ -108,7 +108,7 @@ him, and it is prosecuting.
 
 ## The answer to the courtroom
 
-*Let us draw near with a true heart in full assurance of faith, **having our hearts sprinkled from
+*Let us draw near with a true heart in full assurance of believing, **having our hearts sprinkled from
 an evil conscience**.* See the note on Hebrews 10:22.
 
 And *how much more shall the blood of Christ… **cleanse your conscience from dead works***. See the

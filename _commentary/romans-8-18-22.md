@@ -158,7 +158,7 @@ Isaiah 55:12–13.
 
 **Revelation** 21, and the groaning creation of Romans 8 is the same one **Christ** is said in
 **Colossians** 1 to have reconciled: *by Him to reconcile all things to Himself, whether things on
-earth or things in heaven, having made peace through the blood of His cross.*
+earth or things in heaven, having made peace through the blood of His blood covenant.*
 
 > **The obstetrics.** *Groaning together, labouring together* — the verbs are birth-pang verbs. Paul
 > describes the noise as coming from a delivery room, not a deathbed.

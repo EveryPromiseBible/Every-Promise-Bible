@@ -31,7 +31,7 @@ Everything in this sentence is the conclusion of that, not a fresh claim.
 
 ## "Having been put right"
 
-*Since we **have been put right with God** through faith.*
+*Since we **have been put right with God** through believing.*
 
 The Greek is aorist passive — done, in the past, to us. Not being put right, and not
 hoping to be.
@@ -59,7 +59,7 @@ and Paul names Him as the channel in the same breath.
 
 ## Brought in
 
-*Through Him we have also been **brought in**, by faith, **to this grace in which we
+*Through Him we have also been **brought in**, by believing, **to this grace in which we
 now stand**.*
 
 The Greek for *brought in* is **prosagoge** — access, introduction. It is the word

@@ -43,8 +43,8 @@ the dead**.*
 Abraham believed God could bring life out of a dead womb — *he did not consider his
 own body, already dead… or the deadness of Sarah's womb.*
 
-The object of faith in both cases is a God who raises the dead. Paul makes them the
-same faith.
+The object of believing in both cases is a God who raises the dead. Paul makes them the
+same believing.
 
 ## The two clauses
 
@@ -53,7 +53,7 @@ could be put right with God**.*
 
 Two events, two prepositions, and both are *because of* in the Greek.
 
-Handed over **because of** our sins — they were the reason He went to the cross.
+Handed over **because of** our sins — they were the reason He went to the blood covenant.
 
 Raised **because of** our justification — and that is where the sentence gets
 interesting. Young's Literal keeps it: *raised up because of our being declared
@@ -77,7 +77,7 @@ earned — from Abraham, who was declared righteous *while still uncircumcised*,
 hundred and thirty years before the law existed.
 
 The chapter ends by extending the same entry to the reader, and then chapter 5
-opens: *therefore, having been justified by faith, we have peace with God.*
+opens: *therefore, having been justified by believing, we have peace with God.*
 
 > **What Abraham did not have.** A law, a temple, a priesthood, a Bible, or a
 > synagogue. He had a promise and a night sky, and the ledger entry was made on the

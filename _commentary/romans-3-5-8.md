@@ -67,7 +67,7 @@ One clause, and he moves on. He does not refute it.
 ## Why the accusation existed
 
 Because of what he actually taught, which is in the next chapter: *to him who does not work
-but believes on Him who justifies the ungodly, his faith is accounted for righteousness*.
+but believes on Him who justifies the ungodly, his believing is accounted for righteousness*.
 See the note on Romans 4:4–5.
 
 And *where sin abounded, grace abounded much more*. See the note on Romans 5:20–21.

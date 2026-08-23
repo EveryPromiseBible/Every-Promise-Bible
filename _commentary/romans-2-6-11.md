@@ -94,7 +94,7 @@ The law forbids it of judges: *you shall not show partiality in judgment*.
 *And you, masters, do the same things to them, giving up threatening, knowing that **your own Master
 also is in heaven, and there is no partiality with Him**.* — Paul, to slave-owners.
 
-*My brethren, do not hold the faith of our Lord Jesus Christ… **with partiality**.* — James, about
+*My brethren, do not hold the believing of our Lord Jesus Christ… **with partiality**.* — James, about
 seating a rich man well and a poor man badly.
 
 Peter, in Cornelius's house: *in truth I perceive that God shows no partiality*.
@@ -104,7 +104,7 @@ Peter, in Cornelius's house: *in truth I perceive that God shows no partiality*.
 *Therefore **by the deeds of the law no flesh will be justified** in His sight.*
 
 *But now the righteousness of God apart from the law is revealed… **even the righteousness of God,
-through faith in Jesus Christ, to all and on all who believe. For there is no difference**.* See
+through believing in Jesus Christ, to all and on all who believe. For there is no difference**.* See
 the note on Romans 3:21–22.
 
 The same phrase — no difference — that closed the judgment closes the offer.

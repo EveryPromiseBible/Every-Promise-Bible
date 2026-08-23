@@ -70,11 +70,11 @@ He rejects one kind of proof and claims another.
 
 ## The reason
 
-*So that **your faith might not rest on the wisdom of men but on the power of God**.*
+*So that **your believing might not rest on the wisdom of men but on the power of God**.*
 
 The Greek for *rest on* is *be in*.
 
-Paul names the purpose of his own weakness: a faith built on a persuasive speaker stands
+Paul names the purpose of his own weakness: a believing built on a persuasive speaker stands
 on the speaker.
 
 ## What Corinth was like

@@ -71,14 +71,14 @@ Grace first, and the sending second — in that order, as in Ephesians: *this gr
 
 *To call people of every nation to **the obedience that comes from trusting Him**.*
 
-The Greek is **eis hupakoen pisteos** — unto obedience of faith.
+The Greek is **eis hupakoen pisteos** — unto obedience of believing.
 
 ## The phrase
 
 **Hupakoe pisteos**.
 
-The genitive can mean *the obedience that faith is*, *the obedience faith produces*, or *obedience
-to the faith*. Commentators divide.
+The genitive can mean *the obedience that believing is*, *the obedience believing produces*, or
+*obedience to the believing*. Commentators divide.
 
 It appears at the start of Romans and again in the last sentence of the letter, framing the whole
 argument.
@@ -107,7 +107,7 @@ Paul's standard opening — a Greek greeting word turned into **charis**, and th
 
 ## What he says next
 
-*First, I thank my God through Jesus Christ for you all, **that your faith is spoken of throughout
+*First, I thank my God through Jesus Christ for you all, **that your believing is spoken of throughout
 the whole world**.*
 
 *For **I am not ashamed of the gospel of Christ, for it is the power of God to salvation**.* See the

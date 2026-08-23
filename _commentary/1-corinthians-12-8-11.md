@@ -20,7 +20,7 @@ Nine items in a list, and the sentence that closes it is about who decides.
 
 - **A word of wisdom**
 - **A word of knowledge**
-- **Faith**
+- **Believing**
 - **Gifts of healings**
 - **The working of miracles**
 - **Prophecy**
@@ -36,10 +36,10 @@ The first two are **a word** of wisdom and **a word** of knowledge — the Greek
 Not wisdom as a quality, and not knowledge as a store of learning. A word of it, for an
 occasion.
 
-## Faith as a gift
+## Believing as a gift
 
-Faith is in the list, which is worth noticing, because every believer is said to have
-faith elsewhere.
+Believing is in the list, which is worth noticing, because every believer is said to have
+believing elsewhere.
 
 This one is listed alongside healings and miracles rather than alongside salvation.
 

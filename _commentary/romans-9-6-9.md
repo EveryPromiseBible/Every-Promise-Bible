@@ -89,7 +89,7 @@ Not his character. He is a passive figure through most of his story.
 He was born to a woman past childbearing after twenty-five years of waiting, which means he
 exists because of a promise rather than because of anything anybody managed.
 
-*And not being weak in faith, he did not consider his own body, already dead… **being fully
+*And not being weak in believing, he did not consider his own body, already dead… **being fully
 convinced that what He had promised He was also able to perform**.* See the note on
 Romans 4:20–22.
 

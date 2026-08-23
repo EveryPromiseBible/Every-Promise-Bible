@@ -1,6 +1,6 @@
 ---
 key: Romans 4:20–22
-title: "He grew strong in faith"
+title: "He grew strong in believing"
 sources:
   - 2019-05-05 believe-right-and-see-good
   - 2021-02-21 your-provision-is-in-the-vision
@@ -27,12 +27,12 @@ his own age in the other.
 
 ## He grew strong
 
-*He **grew strong in faith**.*
+*He **grew strong in believing**.*
 
 The Greek is a passive — he was strengthened. Something was done to him.
 
 And note the direction. Twenty-four years passed between the first promise and this
-chapter, and his faith did not wear down over them; it was built up.
+chapter, and his believing did not wear down over them; it was built up.
 
 ## He gave glory to God
 
@@ -66,7 +66,7 @@ Not his obedience, which was real but patchy. Not his record — he lied about h
 wife to two kings, and took Hagar because the promise seemed slow.
 
 The chapter's whole argument is that this is the point: *to him who does not work
-but believes on Him who justifies the ungodly, his faith is accounted for
+but believes on Him who justifies the ungodly, his believing is accounted for
 righteousness.*
 
 **Justifies the ungodly.** Paul's phrase, three verses into the chapter.
@@ -90,13 +90,13 @@ chapter.
 **Dia** both times. The first is the reason He was handed over; the second is the reason He was
 raised — the justification was accomplished, and the resurrection is the receipt.
 
-*And if **Christ** is not risen, your faith is futile; **you are still in your sins**.*
+*And if **Christ** is not risen, your believing is futile; **you are still in your sins**.*
 
 ## Whose record was not consulted
 
 Abraham's. **Paul** has already stated it in the chapter's fifth verse:
 
-*But to him who does not work but believes on Him who **justifies the ungodly**, his faith is accounted
+*But to him who does not work but believes on Him who **justifies the ungodly**, his believing is accounted
 for righteousness.*
 
 **Ton asebe** — the ungodly. Not the man who has stopped being ungodly.

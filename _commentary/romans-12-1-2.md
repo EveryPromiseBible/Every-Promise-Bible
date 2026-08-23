@@ -16,7 +16,7 @@ The turn in the letter, and it is one word wide.
 
 Eleven chapters come first.
 
-Sin, judgment, justification by faith, Abraham, peace with God, union with Christ, the law, the
+Sin, judgment, justification by believing, Abraham, peace with God, union with Christ, the law, the
 Spirit, no condemnation, the eternal purpose, Israel, and the doxology at the end of chapter 11:
 *oh, the depth of the riches both of the wisdom and knowledge of God!*
 

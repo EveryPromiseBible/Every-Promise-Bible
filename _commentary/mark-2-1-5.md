@@ -62,11 +62,11 @@ from the householder.
 
 ## What Jesus saw
 
-*Jesus **saw their faith**.*
+*Jesus **saw their believing**.*
 
 **Their** — plural. The four, and the man on the mat.
 
-Faith is described as visible. What He saw was a hole in a ceiling and a stretcher coming
+Believing is described as visible. What He saw was a hole in a ceiling and a stretcher coming
 down on ropes.
 
 ## What He said
@@ -100,4 +100,4 @@ Their logic is sound. It is the premise about who is speaking that they have wro
 
 > **What the four did.** Carried him, failed at the door, climbed, dug through a roof,
 > and lowered him into a room full of people. Mark calls the whole sequence *their
-> faith*.
+> believing*.

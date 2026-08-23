@@ -86,8 +86,8 @@ Even the sentence about what He could not do contains healings.
 
 The Greek is **ethaumazen** — He marvelled.
 
-Two things in the Gospels are said to have astonished Jesus. This, and the faith of a Roman
-centurion: *I have not found such great faith, not even in Israel*.
+Two things in the Gospels are said to have astonished Jesus. This, and the believing of a Roman
+centurion: *I have not found such great believing, not even in Israel*.
 
 Unbelief at home, and belief in a Gentile officer.
 

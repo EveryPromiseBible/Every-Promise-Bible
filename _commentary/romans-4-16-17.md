@@ -10,18 +10,18 @@ sources:
 updated: 2026-08-06
 ---
 
-Paul explains why God set the whole thing up on faith rather than on performance,
+Paul explains why God set the whole thing up on believing rather than on performance,
 and then describes the God being believed.
 
-## Why it rests on faith
+## Why it rests on believing
 
-*That is why it rests on faith — **so that it can be a matter of grace**, and so
+*That is why it rests on believing — **so that it can be a matter of grace**, and so
 that **the promise stands guaranteed**.*
 
 Two reasons, and the second is the practical one.
 
 A promise conditional on my keeping is only as certain as my keeping. Move it onto
-faith and it moves onto grace, and a promise resting on grace has nothing shaky
+believing and it moves onto grace, and a promise resting on grace has nothing shaky
 underneath it.
 
 The Greek for *guaranteed* is **bebaios** — firm, valid, the word used of a legally
@@ -29,10 +29,10 @@ binding document.
 
 ## Who it covers
 
-*Not only for those who have the law, but **for those who share the faith of
+*Not only for those who have the law, but **for those who share the believing of
 Abraham**. He is **the father of us all**.*
 
-The line is drawn by faith, not by descent. Paul has already pointed out that
+The line is drawn by believing, not by descent. Paul has already pointed out that
 Abraham was declared righteous while still uncircumcised — before the mark, before
 the law, before anything that would exclude anybody.
 

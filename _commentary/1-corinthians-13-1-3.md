@@ -32,11 +32,11 @@ no skill.
 ## The second
 
 *If I can **prophesy, and understand every mystery and everything there is to know**, and if I
-have **faith enough to move mountains**, and do not have love, **I am nothing at all**.*
+have **believing enough to move mountains**, and do not have love, **I am nothing at all**.*
 
-Four things: prophecy, mysteries, knowledge, and mountain-moving faith.
+Four things: prophecy, mysteries, knowledge, and mountain-moving believing.
 
-Paul takes the highest gift on his own list and the largest promise Jesus made about faith,
+Paul takes the highest gift on his own list and the largest promise Jesus made about believing,
 and weighs them.
 
 The Greek is **outhen eimi** — I am nothing.
@@ -93,7 +93,7 @@ The three things he weighed in verses 1 and 2, listed as the things with an expi
 
 ## The last line
 
-*And now abide faith, hope, love, these three; but **the greatest of these is love**.*
+*And now abide believing, hope, love, these three; but **the greatest of these is love**.*
 
 ## Who it was written to
 
@@ -105,5 +105,5 @@ Factions, lawsuits, drunkenness at the table, chaos in the meetings.
 He does not tell them to want fewer gifts.
 
 > **What the three verdicts measure.** Sound, being, and profit. Tongues without it are noise,
-> prophecy and mountain-moving faith without it make the man nothing, and giving everything
+> prophecy and mountain-moving believing without it make the man nothing, and giving everything
 > away without it gains him nothing.

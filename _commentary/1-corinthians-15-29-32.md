@@ -13,7 +13,7 @@ Paul argues from his own risk: if there is no resurrection, his life makes no se
 The middle of the resurrection chapter.
 
 Some in Corinth were saying *there is no resurrection of the dead*, and Paul has spent twenty-eight
-verses on the consequences: if Christ is not risen, the preaching is empty, the faith is futile,
+verses on the consequences: if Christ is not risen, the preaching is empty, the believing is futile,
 and the dead in Christ have perished.
 
 ## The obscure verse

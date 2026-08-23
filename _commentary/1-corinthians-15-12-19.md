@@ -34,10 +34,10 @@ or fall together, and he says it twice.
 Each consequence follows from the last:
 
 - *Our **preaching is empty*** — the Greek is **kenon**, hollow, containing nothing.
-- *And **your faith is empty** as well.*
+- *And **your believing is empty** as well.*
 - *We are found to be **false witnesses about God***, because we testified that He raised
   Him.
-- *Your faith is **futile***, and *you are **still in your sins***.
+- *Your believing is **futile***, and *you are **still in your sins***.
 - *Those who have **fallen asleep in Christ have perished***.
 
 ## The word for futile

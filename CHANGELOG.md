@@ -1,5 +1,44 @@
 # CHANGELOG
 
+## 2026-08-23 — Literal pass: every "the cross" and "faith" in Mark, 1 Corinthians, Romans
+
+Follow-up to the judgment-based pass below, same day. Chris's instruction, given twice more
+after reviewing that first pass: **every** occurrence of the word "cross" in these three
+books' commentary becomes "the blood covenant," and every occurrence of "faith" becomes
+"believe"/"believed"/"believing" (whichever keeps the sentence grammatical) — including
+inside the notes' quoted excerpts of the Illumination/KJV verse text, even though that
+means a note's quoted line will now read differently from the actual verse displayed
+elsewhere on the site. That mismatch is intentional and known, not a bug to "fix" later.
+
+**What was excluded, on plain word-sense grounds, not editorial judgment:**
+- The verb "cross" meaning *traverse* — "let us cross over to the other side," "they cross
+  a lake" (Mark 4:21–23, 4:35–41, 5:1–5). Different word, not what was asked to change.
+- "In good faith" (Mark 12:28–34) — the idiom meaning *sincerely*, unrelated to religious
+  faith.
+- Sermon-citation slugs in the `sources:` frontmatter (e.g.
+  `2018-12-23 the-christmas-story-from-creation-to-the-cross`,
+  `2021-11-28 faith-to-possess-the-land`) — these are the actual titles of real external
+  sermons being cited, not commentary prose, so changing them would misrepresent what the
+  source was actually called.
+
+**Everything else changed, verse quotes included.** Totals: **73 files touched**, roughly
+90 individual replacements across the three books — Mark's remaining "cross" instances (14)
+and "faith" instances (14 files), 1 Corinthians (10 more "cross," ~20 more "faith," including
+the whole 13:13 "faith, hope, love" triad note), and Romans (7 more "cross," ~45 "faith"
+instances — the densest of the three, since Romans 1–5 is built on the word).
+
+**Where this reads roughest** (flagged for Chris's own pass, not silently smoothed over):
+Mark 8:34–38's explanation of what carrying a literal Roman execution beam meant now reads
+"what a man carrying a blood covenant was" — the sentence was originally about the physical
+object condemned men carried, so the substitution is jarring there specifically. Likewise
+Romans 8:18–22's quoted Colossians 1:20 becomes "the blood of His blood covenant," and
+Mark 10:41's quoted Philippians 2:8 becomes "the death of the blood covenant." These are
+the literal result of a whole-word substitution rule and were left as asked rather than
+special-cased.
+
+`tools/commentary.py build` + `validate`: 2220 notes, 0 unreachable, clean after each
+book.
+
 ## 2026-08-23 — The Grace Commentary tone pass: "the cross" → "the blood covenant," book by book
 
 Chris's brief: the KJV/Illumination text stays untouched — only the commentary's own voice
