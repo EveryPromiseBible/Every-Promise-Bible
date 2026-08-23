@@ -1885,6 +1885,13 @@ const REACTIONS_API = 'https://quiet-meadow-1fde.everypromiseapp.workers.dev';
    generated from commit history, so add to it deliberately. */
 const SITE_UPDATES = [
   {
+    id: 'journal-recent-sermon-jump-2026-08-23',
+    date: 'August 23, 2026',
+    kind: 'feature',
+    ref: 'Journal: tapping a sermon note in "recent entries" now opens it',
+    why: 'Recent entries always jumped to the calendar and the reflection box, even when the entry you tapped was a sermon note rather than a journal reflection — so tapping a sermon note in the list could look like nothing happened, since the box you landed on was empty and the actual notes were still a tab away. Tapping a sermon note now opens straight to that day’s Sermon Notes page, the same way it already worked from My Stuff.'
+  },
+  {
     id: 'heb-3-16-19-2026-08-23',
     date: 'August 23, 2026',
     kind: 'translation',
@@ -6306,10 +6313,18 @@ function jrRenderRecent() {
   }
   ul.innerHTML = rows.map(e => {
     const d = jrParse(e.d);
-    const label = (e.st || '').trim() || (e.j || '').trim().split('\n')[0] ||
-                  (e.s || '').trim().split('\n')[0] || '—';
+    const journal = (e.j || '').trim();
+    const label = (e.st || '').trim() || journal.split('\n')[0] ||
+                  rtText(e.s).split('\n')[0] || '—';
     const short = label.length > 58 ? label.slice(0, 58) + '…' : label;
-    return '<li onclick="jrPick(\'' + e.d + '\', true)">' +
+    /* A day can hold both a reflection and sermon notes; the label above
+       already picked whichever one it is showing, so send the tap to that
+       same place -- sermon notes live on their own page and jrPick alone
+       only ever lands on the calendar/reflection view. */
+    const action = !journal && jrHasSermon(e)
+      ? "jrPick('" + e.d + "', true); jrOpenSermon();"
+      : "jrPick('" + e.d + "', true);";
+    return '<li onclick="' + action + '">' +
            '<span class="jr-rd">' + (d.getMonth() + 1) + '/' + d.getDate() + '</span>' +
            '<span class="jr-rt">' + short.replace(/</g, '&lt;') + '</span></li>';
   }).join('');

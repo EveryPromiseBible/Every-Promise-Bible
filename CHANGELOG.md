@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## 2026-08-23 — Journal: tapping a sermon note in "recent entries" now opens the sermon note
+
+Recent entries always jumped to the calendar/reflection view, even for a row
+whose label came from a sermon note (title, or notes with no reflection text
+that day). The sermon content was there, one tab away, but the reader landed
+on an empty-looking reflection box with no obvious sign of it. Recent entries
+now checks which content it's actually showing for that row and, for a
+sermon-note row, opens straight to the Sermon Notes page — matching how My
+Stuff's saved sermon notes already behaved. Also fixed the preview text for a
+sermon-only day: it was reading the raw HTML of the notes field instead of
+its plain text, so a day with notes but no title could show literal markup
+in the list.
+
 ## 2026-08-23 — Hebrews 3:16–19 in the Illumination: "grieved with," not "sick of"
 
 One clause changed, in "They Never Entered His Rest":
