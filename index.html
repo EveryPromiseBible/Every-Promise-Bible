@@ -273,7 +273,8 @@
      raised marker between units, not its own word-stack, so it never looks
      like a clickable Greek word or shifts the color-cycling index. */
   .mak-verse-num{align-self:flex-start;font-family:var(--mono);font-size:1em;font-weight:700;
-                 color:var(--ink);margin:0.3em 3px 0 0;line-height:1;}
+                 color:var(--ink);margin:0.3em 3px 0 0;line-height:1;cursor:pointer;}
+  .mak-verse-num:hover{color:var(--orange);}
   body.highlight-mode #view-bible .unit.clickable{cursor:cell;}
   /* Read mode: strip the interlinear scaffolding so the English reads as plain,
      tighter prose -- no Greek, no tags, no per-word colour, and normal text flow
@@ -406,6 +407,8 @@
   body.highlight-mode .illum-v:hover{background:var(--hl);box-shadow:0 0 0 5px var(--hl);border-radius:4px;}
   body.highlight-mode .illum-v.il-hl:hover{background:var(--hl-hover);box-shadow:0 0 0 5px var(--hl-hover);}
   .illum-ref{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-right:8px;vertical-align:2px;letter-spacing:0.02em;}
+  body.illum-only-active .illum-ref{cursor:pointer;}
+  body.illum-only-active .illum-ref:hover{color:var(--orange);text-decoration:underline;}
 
   /* Verse commentary. A verse carrying a note gets a small bulb after its
      text; everything else is left alone, so the reading page stays clean and
@@ -3386,6 +3389,7 @@ function makInjectVerseMarkers(idx) {
         const marker = document.createElement('span');
         marker.className = 'mak-verse-num';
         marker.textContent = v;
+        marker.onclick = (ev) => makVerseClick(chapter.ref, Number(v), ev);
         row.insertBefore(marker, unitEls[domI]);
         prevVerse = v;
       }
@@ -3965,7 +3969,8 @@ function buildIllumChapter(ch) {
       h += '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
            ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
            ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
-           '<span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
+           '<span class="illum-ref" onclick="illumRefClick(this,\'' + ilEsc(ch.ref) + '\',event)">' +
+             ilEsc(v[0]) + '</span> ' +
            (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1]));
       if (note) {
         h += '<button class="cmt-bulb" data-cmt="' + ilEsc(key) + '" title="commentary"' +
@@ -4365,10 +4370,36 @@ function makScrollToVerse(n) {
   if (hit) hit.scrollIntoView({ behavior: 'smooth', block: 'center' });
 }
 
-function switchTranslation(tx) {
+/* ---- Illumination <-> Mak: click a verse number, land on the same verse in
+   the other one -- a quick way to flip back and forth and compare the two.
+   Bypasses switchTranslation's own top-of-viewport capture: the reader
+   clicked one specific verse, not whichever one is scrolled to the top right
+   now, so that verse is forced through as the target instead. KJV shares the
+   same .illum-ref markup but is left out on purpose -- only Illumination and
+   Mak were asked for. Mak is New Testament only, so a click on an
+   Illumination verse outside the NT has nothing to land on and is a no-op. */
+function illumRefClick(el, chRef, ev) {
+  if (ev) ev.stopPropagation();
+  if (currentTx !== 'illum') return;
+  if (testamentOf(bookOf(chRef)) !== 'NT') return;
+  switchTranslation('mak', chRef, verseNumOf(el));
+}
+function makVerseClick(chRef, v, ev) {
+  if (ev) ev.stopPropagation();
+  if (currentTx !== 'mak') return;
+  switchTranslation('illum', chRef, v);
+}
+
+function switchTranslation(tx, forceRef, forceVerse) {
   if (tx === currentTx) return;
-  /* Read the place BEFORE anything moves. */
-  if (isVerseTx(currentTx)) {
+  /* Read the place BEFORE anything moves -- unless the caller already knows
+     exactly which verse to land on (a click on one specific verse number, see
+     illumRefClick/makVerseClick below). That click's own verse wins over
+     whatever happens to be scrolled to the top of the screen right now. */
+  if (forceRef) {
+    lastRef = forceRef;
+    lastVerse = forceVerse || null;
+  } else if (isVerseTx(currentTx)) {
     const v = topVerseNum();
     if (v) lastVerse = v;
   } else if (currentTx === 'mak') {
@@ -4385,6 +4416,11 @@ function switchTranslation(tx) {
      study switch has nothing to act on. Force read mode rather than leaving
      a dead control. The devotional is prose and has even less to align. */
   document.body.classList.toggle('illum-active', isVerseTx(tx));
+  /* Scopes the verse-number "click to jump to Mak" affordance to the
+     Illumination specifically -- KJV renders through the same buildIllumChapter
+     markup but was not asked for, so its verse numbers stay inert and should
+     not look clickable either. */
+  document.body.classList.toggle('illum-only-active', tx === 'illum');
   document.body.classList.toggle('dev-active', isDevTx(tx));
   /* Mak is New Testament only, so a testament filter there would be a control
      with nothing to do. Shown for the two whole-Bible translations. */
