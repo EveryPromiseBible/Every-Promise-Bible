@@ -66,7 +66,7 @@ hanging over His own justice.
 
 *And He did it to show His rightness **in this present hour**.*
 
-Now. The cross settles the past accounts and the present ones.
+Now. The blood covenant settles the past accounts and the present ones.
 
 ## The sentence
 
@@ -107,5 +107,5 @@ said of a man before he was circumcised and four hundred years before the law.
 Christ.* See the note on Romans 5:1–2.
 
 > **The problem being solved.** Not how a sinner can be forgiven. How God could have been
-> letting it go for two thousand years and still be called just — and Paul says the cross
-> answers both.
+> letting it go for two thousand years and still be called just — and Paul says the blood
+> covenant answers both.

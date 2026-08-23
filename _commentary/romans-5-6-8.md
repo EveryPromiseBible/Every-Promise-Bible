@@ -62,7 +62,7 @@ That is the top of what human love manages, and Paul says even that is uncommon.
 sinners**, Christ died for us.*
 
 The Greek verb is present tense and continuous — He goes on demonstrating it. The
-cross is described as an exhibit that stays up.
+blood covenant is described as an exhibit that stays up.
 
 *While we were still sinners.* Not after we repented, not once we improved. Still.
 
@@ -86,6 +86,6 @@ the rest follows.
 He never argues that grace merely matches the damage. At every step he says it
 exceeds it.
 
-> **What the cross settles about God's disposition.** Not that He loves us now that
-> something has changed — that He loved us when nothing had. The demonstration is
+> **What the blood covenant settles about God's disposition.** Not that He loves us now
+> that something has changed — that He loved us when nothing had. The demonstration is
 > dated to the worst possible moment on purpose, so that no later moment can be worse.

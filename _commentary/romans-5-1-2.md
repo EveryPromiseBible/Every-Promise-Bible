@@ -50,7 +50,7 @@ hostility.
 Paul uses war language about the previous state without embarrassment: *when we were
 enemies we were reconciled to God through the death of His Son.*
 
-The treaty was signed at the cross and this verse reports its terms.
+The treaty was cut in the blood covenant and this verse reports its terms.
 
 ## "Through our Lord Jesus Christ"
 

@@ -52,8 +52,8 @@ A man who has stopped needing his own verdict has stopped needing yours.
 
 He can only talk this way because the case has already been heard. *There is therefore now no
 condemnation to those who are in Christ Jesus.* The judgment Paul is waiting for is not the one
-that decides whether he is accepted; that was settled at a cross, and the sentence was served by
-somebody else.
+that decides whether he is accepted; that was settled in the blood covenant, and the sentence was
+served by somebody else.
 
 What is left is the assessment of a steward's work by a Master who is glad to have him.
 
