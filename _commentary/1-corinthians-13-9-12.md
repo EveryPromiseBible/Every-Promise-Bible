@@ -51,6 +51,6 @@ people whose scandals fill this letter.
 
 > **He knew, and chose you anyway.** *O Lord, You have searched me and known me… such knowledge is
 > too wonderful for me.* Nothing about you will come to light on that day that is news to Him. The
-> blood covenant was not a response to His best estimate of us; it was cut in answer to complete
-> information. Which is why Paul can write *now that you have come to know God — or rather to be
-> known by God*, and correct himself in the direction of grace every time.
+> cross was not a response to His best estimate of us; it was the answer to complete information.
+> Which is why Paul can write *now that you have come to know God — or rather to be known by God*,
+> and correct himself in the direction of grace every time.

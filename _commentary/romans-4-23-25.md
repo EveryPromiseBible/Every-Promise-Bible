@@ -63,9 +63,9 @@ righteous.*
 
 Not *raised so that we might one day be justified*. **Because** we were.
 
-The debt was settled in the blood covenant, and the resurrection is what happened
-after the settlement — not the means of it but the proof of it. He went in carrying
-the sins and came out without them.
+The debt was settled at the cross, and the resurrection is what happened after the
+settlement — not the means of it but the proof of it. He went in carrying the sins
+and came out without them.
 
 If anything had been left owing, the tomb would still be shut. The empty tomb is
 God's receipt.

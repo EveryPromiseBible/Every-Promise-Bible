@@ -1,53 +1,5 @@
 # CHANGELOG
 
-## 2026-08-23 — The Grace Commentary tone pass: "the cross" → "the blood covenant," book by book
-
-Chris's brief: the KJV/Illumination text stays untouched — only the commentary's own voice
-needed to change. Two things specifically: everywhere the commentary's own prose uses
-*the cross* as shorthand for the atoning death (not a quote of the verse, not a historical
-description of Roman execution), reframe it as *the blood covenant* — Kenyon's term, from
-his book of the same name, for the whole legal-covenant reality the cross secured. And
-everywhere the commentary's own voice frames *faith* as something to maintain or keep up
-(effort language), reframe toward *believing* — resting on a finished legal fact rather than
-gripping something.
-
-Read E. W. Kenyon's *The Blood Covenant* in full first, to calibrate the register: legal
-standing, family rights, a covenant already cut — not the reader's grip on it. Kenyon
-himself rarely swaps out the word "cross" (he still writes "His death on the Cross"); what
-he does is treat the Cross and the Blood Covenant as one reality and lean on the covenant
-framing for what it secured. That's the model followed here.
-
-**Method, per book: read every note in full, edit only where the note's own voice (not a
-quoted verse, not Greek/historical exegesis) uses the target language.** Going in one at a
-time, same order Wuest's word-study pass used (`Weust/STATUS.md`): Mark first, then
-1 Corinthians, then Romans, more to follow.
-
-- **Mark — 59 notes read, 0 changed.** Every "cross" mention was historical narrative
-  (first-century crucifixion practice, or Jesus's own recorded words — "take up his cross"
-  is the KJV text, not the note's voice) and every "faith" mention was either a direct quote
-  or already in Kenyon's own register (Mark 9:14–24's note already reads: *"The faith that
-  works here is not a quantity achieved. It is a request made to the right person, doubt and
-  all."*). Nothing needed touching.
-- **1 Corinthians — 60 notes read, 2 changed.** Chapters 1–2's heavy "cross"/"crucified"
-  language is almost entirely direct quotation of 1:18, 1:23, 1:13, or Paul's own historical
-  argument for why he refused to soften the word — changing it would misquote the verse or
-  break Paul's actual point, so it stays. The two real edits, both closing-callout voice:
-  `1-corinthians-4-1-5.md` ("that was settled at a cross" → "in the blood covenant") and
-  `1-corinthians-13-9-12.md` ("The cross was not a response..." → "The blood covenant was
-  not a response... it was cut in answer to complete information").
-- **Romans — 80 notes read, 4 changed** across `romans-3-25-26.md` (×2),
-  `romans-4-23-25.md`, `romans-5-1-2.md`, `romans-5-6-8.md` (×2) — all own-voice sentences
-  like "the cross settles the past accounts" or "the treaty was signed at the cross," none of
-  them scripture quotations. No "maintain your faith" language turned up anywhere in Romans's
-  own voice either — its justification-by-faith passages were already framed as resting on a
-  finished fact, not gripping one.
-
-`tools/commentary.py build` + `validate` run clean after each book: 2220 notes, 0
-unreachable, all four times. The pattern holding across all three books so far: the rigid
-tone Chris is hearing lives in relatively few sentences — most of "cross" and "faith" in
-this commentary is either scripture being quoted back or grammar being explained, and
-touching either would be the wrong kind of change.
-
 ## 2026-08-14 — Likes and comments on "What's Changed" entries
 
 The one piece of this site that is not local-only. Every entry in the bell
