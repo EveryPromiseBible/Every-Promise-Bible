@@ -23,6 +23,7 @@
   :root {
     --white:#ffffff; --paper:#F1F4F6; --ink:#0F1519; --gray:#6B767E; --line:#E0E6EA;
     --orange:#FF5A1F; --blue:#3B6FE0; --yellow:#F0B90B; --green:#3FA66A; --pink:#E8558C; --purple:#7C5CE0;
+    --exp-note:#A23B2E; /* Expositor's Translation annotations -- the "red-letter" ink, muted */
     /* sampled from the sword in the logo mark, not guessed: its dominant
        saturated pixels sit at #004070-#004878. --sword is the darker working
        value; --sword-soft is for tints and borders. */
@@ -231,6 +232,15 @@
   .switch .knob{position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:var(--white);box-shadow:0 1px 3px rgba(0,0,0,0.25);transition:transform .2s ease;}
   .switch.on .knob{transform:translateX(20px);}
   .mode-toggle .mlabel.active{color:var(--ink);font-weight:700;}
+  /* Expositor's Translation -- inline annotations over the KJV text. Black-letter
+     (the verse) / red-letter (the annotation), same split the source study Bible
+     uses. Hidden by default -- plain KJV is the existing behavior -- and shown
+     only once the reader opts in via the switch, which is itself only visible
+     on the KJV translation. No re-render on toggle: the spans are always in the
+     DOM, this rule just shows or hides them, matching how read-mode/highlight-mode
+     already work. */
+  .exp-note{color:var(--exp-note);}
+  body:not(.exp-mode) .exp-note{display:none;}
   .section{margin-bottom:2.6em;}
   .section-heading-row{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:0.25em;margin-bottom:1.1em;gap:10px;}
   .section-heading{font-family:var(--sans);font-style:italic;font-weight:500;font-size:1.05em;color:var(--head);}
@@ -1492,6 +1502,14 @@
           <div class="switch" id="modeSwitch" onclick="toggleMode()"><div class="knob"></div></div>
           <span class="mlabel" id="readLabel">read</span>
         </div>
+        <!-- Only the KJV carries Expositor's annotations, so this stays hidden
+             for every other translation -- shown/hidden from switchTranslation,
+             same as the testament and chapter-picker controls just above it. -->
+        <div class="mode-toggle" id="expToggleWrap" style="display:none;">
+          <span class="mlabel active" id="expOffLabel">plain</span>
+          <div class="switch" id="expModeSwitch" onclick="toggleExpMode()"><div class="knob"></div></div>
+          <span class="mlabel" id="expOnLabel">notes</span>
+        </div>
       </div>
       <div id="bibleIntro"></div>
       <div id="sectionsContainer"></div>
@@ -1831,6 +1849,7 @@
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
 <script src="data/kjv.js"></script>
+<script src="data/exp_inline.js"></script>
 <script src="data/devotional.js"></script>
 <script src="data/commentary.js"></script>
 <script src="data/lexicon.js"></script>
@@ -3530,6 +3549,43 @@ function toggleMode() {
   document.getElementById('studyLabel').classList.toggle('active', !readMode);
   document.getElementById('readLabel').classList.toggle('active', readMode);
 }
+
+/* ---- Expositor's Translation: inline annotations over the KJV -------------
+   In-memory only, same as readMode/highlightMode -- no reason to persist a
+   display preference across sessions that the other modes don't either. */
+let expMode = false;
+function toggleExpMode() {
+  expMode = !expMode;
+  document.body.classList.toggle('exp-mode', expMode);
+  document.getElementById('expModeSwitch').classList.toggle('on', expMode);
+  document.getElementById('expOffLabel').classList.toggle('active', !expMode);
+  document.getElementById('expOnLabel').classList.toggle('active', expMode);
+}
+
+/* Renders an EXP_INLINE string: KJV wording interleaved with (parenthetical
+   annotations). Escapes both, and wraps only the parenthetical spans in
+   .exp-note -- CSS decides whether they're visible, so this same markup is
+   built once whether or not the reader has the switch on. Only top-level
+   parens are treated as annotation boundaries; nothing in this dataset nests
+   a paren inside a paren (bracketed cross-references use square brackets). */
+function expAnnotateHTML(raw) {
+  let html = '', depth = 0, buf = '';
+  for (const ch of String(raw)) {
+    if (ch === '(') {
+      if (depth === 0) { html += ilEsc(buf); buf = ''; }
+      else buf += ch;
+      depth++;
+    } else if (ch === ')') {
+      depth--;
+      if (depth === 0) { html += '<span class="exp-note">(' + ilEsc(buf) + ')</span>'; buf = ''; }
+      else buf += ch;
+    } else {
+      buf += ch;
+    }
+  }
+  html += depth > 0 ? '<span class="exp-note">(' + ilEsc(buf) + ')</span>' : ilEsc(buf);
+  return html;
+}
 /* Once a choice is made the panel has done its job. On a phone it is stacked
    above the text and would otherwise sit between the reader and what they just
    asked for, so it closes and reopens only from the books button.
@@ -3902,11 +3958,15 @@ function buildIllumChapter(ch) {
       const key = book + ' ' + v[0];
       const note = commentaryFor(key);
       const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
+      /* Expositor's annotations only exist over the KJV, keyed identically to
+         the commentary lookup just above. A verse without an entry (not every
+         verse has been annotated) falls back to the plain KJV rendering. */
+      const expRaw = currentTx === 'kjv' ? EXP_INLINE[key] : null;
       h += '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
            ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
            ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
            '<span class="illum-ref">' + ilEsc(v[0]) + '</span> ' +
-           ilText(v[1]);
+           (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1]));
       if (note) {
         h += '<button class="cmt-bulb" data-cmt="' + ilEsc(key) + '" title="commentary"' +
              ' aria-label="Commentary on ' + ilEsc(key) + '"' +
@@ -4335,6 +4395,10 @@ function switchTranslation(tx) {
      from there. */
   document.getElementById('chapterSelect').style.display = isDevTx(tx) ? '' : 'none';
   document.getElementById('chapterPickerBtn').style.display = isDevTx(tx) ? 'none' : '';
+  /* Expositor's annotations exist only over the KJV. Leaving in whatever state
+     the reader last set it, same as read-mode does across a translation swap --
+     only the switch's visibility changes here, not expMode itself. */
+  document.getElementById('expToggleWrap').style.display = tx === 'kjv' ? '' : 'none';
   if (!isDevTx(tx)) syncChapterPickerLabel();
   if (isDevTx(tx)) {
     if (!readMode) toggleMode();
