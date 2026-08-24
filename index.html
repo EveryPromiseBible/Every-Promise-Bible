@@ -407,8 +407,20 @@
   body.highlight-mode .illum-v:hover{background:var(--hl);box-shadow:0 0 0 5px var(--hl);border-radius:4px;}
   body.highlight-mode .illum-v.il-hl:hover{background:var(--hl-hover);box-shadow:0 0 0 5px var(--hl-hover);}
   .illum-ref{font-family:var(--mono);font-size:0.68em;color:var(--gray);margin-right:8px;vertical-align:2px;letter-spacing:0.02em;}
-  body.illum-only-active .illum-ref{cursor:pointer;}
-  body.illum-only-active .illum-ref:hover{color:var(--orange);text-decoration:underline;}
+  body.verse-jump-active .illum-ref{cursor:pointer;}
+  body.verse-jump-active .illum-ref:hover{color:var(--orange);text-decoration:underline;}
+
+  /* Small popup offered on a verse-number tap, listing the OTHER translations
+     it can jump to -- Illumination, KJV, and Mak all share verse-level
+     navigation, so which two count as "other" depends on where the tap came
+     from. Positioned in JS off the tapped element's own rect, since it can
+     open from three different translations with no single fixed anchor. */
+  .verse-jump-popup{position:fixed;z-index:90;background:var(--sheet);border:1px solid var(--line);
+    border-radius:10px;box-shadow:var(--lift);padding:5px;display:flex;flex-direction:column;gap:1px;min-width:170px;}
+  .verse-jump-popup[hidden]{display:none;}
+  .verse-jump-popup button{all:unset;box-sizing:border-box;width:100%;cursor:pointer;padding:9px 12px;
+    border-radius:6px;font-family:var(--sans);font-size:0.85em;color:var(--ink);}
+  .verse-jump-popup button:hover{background:var(--group);color:var(--orange);}
 
   /* Verse commentary. A verse carrying a note gets a small bulb after its
      text; everything else is left alone, so the reading page stays clean and
@@ -1830,6 +1842,8 @@
   </div>
 </div>
 
+<div class="verse-jump-popup" id="verseJumpPopup" hidden></div>
+
 <div class="overlay" id="updatesOverlay" onclick="if(event.target===this) closeUpdates()">
   <div class="def-card updates-card">
     <button class="def-close" onclick="closeUpdates()" aria-label="close">&times;</button>
@@ -1884,6 +1898,13 @@ const REACTIONS_API = 'https://quiet-meadow-1fde.everypromiseapp.workers.dev';
    why we chose it -- newest first. Kept short and hand-picked; this is not
    generated from commit history, so add to it deliberately. */
 const SITE_UPDATES = [
+  {
+    id: 'verse-jump-choice-2026-08-23',
+    date: 'August 23, 2026',
+    kind: 'feature',
+    ref: 'Verse-number jump now lets you pick the translation',
+    why: 'Tapping a verse number used to jump straight to one fixed destination — Illumination to Mak, or Mak to Illumination, with KJV left out. Now, wherever more than one destination makes sense, a small popup appears next to the tapped verse offering whichever translations you’re not already reading — Illumination, KJV, or Mak. In the Old Testament, where Mak has nothing to show, the tap still jumps straight there, no popup needed.'
+  },
   {
     id: 'illum-mak-verse-jump-fix-2026-08-23',
     date: 'August 23, 2026',
@@ -4431,24 +4452,62 @@ function makScrollToVerse(n) {
   else window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-/* ---- Illumination <-> Mak: click a verse number, land on the same verse in
-   the other one -- a quick way to flip back and forth and compare the two.
-   Bypasses switchTranslation's own top-of-viewport capture: the reader
-   clicked one specific verse, not whichever one is scrolled to the top right
-   now, so that verse is forced through as the target instead. KJV shares the
-   same .illum-ref markup but is left out on purpose -- only Illumination and
-   Mak were asked for. Mak is New Testament only, so a click on an
-   Illumination verse outside the NT has nothing to land on and is a no-op. */
+/* ---- Verse-number jump: tap a verse ref, then choose which OTHER
+   translation to land on there -- a quick way to flip between any two of the
+   three and compare them. Bypasses switchTranslation's own top-of-viewport
+   capture: the reader tapped one specific verse, not whichever one is
+   scrolled to the top right now, so that verse is forced through as the
+   target instead. Illumination and KJV share the same .illum-ref markup, so
+   both get this; Mak gets its own separate markers because it paginates
+   differently (see makScrollToVerse). Mak has no Old Testament, so it drops
+   out of the candidate list on an OT reference rather than landing nowhere --
+   which leaves only one candidate there, and the jump happens immediately
+   with no popup, same as before this had a choice to offer. */
+const VERSE_JUMP_LABEL = { illum: 'Illumination', kjv: 'King James Version', mak: 'Mak Translation' };
+
+function verseJumpCandidates(chRef, from) {
+  const nt = testamentOf(bookOf(chRef)) === 'NT';
+  return ['illum', 'kjv', 'mak'].filter(tx => tx !== from && (tx !== 'mak' || nt));
+}
+
 function illumRefClick(el, chRef, ev) {
   if (ev) ev.stopPropagation();
-  if (currentTx !== 'illum') return;
-  if (testamentOf(bookOf(chRef)) !== 'NT') return;
-  switchTranslation('mak', chRef, verseNumOf(el));
+  if (currentTx !== 'illum' && currentTx !== 'kjv') return;
+  const candidates = verseJumpCandidates(chRef, currentTx);
+  if (!candidates.length) return;
+  const v = verseNumOf(el);
+  if (candidates.length === 1) { switchTranslation(candidates[0], chRef, v); return; }
+  openVerseJumpPopup(el, chRef, v, candidates);
 }
 function makVerseClick(chRef, v, ev) {
   if (ev) ev.stopPropagation();
   if (currentTx !== 'mak') return;
-  switchTranslation('illum', chRef, v);
+  openVerseJumpPopup(ev.target, chRef, v, ['illum', 'kjv']);
+}
+
+let verseJumpOutsideHandler = null;
+function openVerseJumpPopup(anchorEl, chRef, v, candidates) {
+  closeVerseJumpPopup();
+  const pop = document.getElementById('verseJumpPopup');
+  pop.innerHTML = candidates.map(tx =>
+    '<button onclick="verseJumpPick(\'' + tx + '\',\'' + jsq(chRef) + '\',' + v + ')">' +
+    ilEsc(VERSE_JUMP_LABEL[tx]) + '</button>').join('');
+  pop.hidden = false;
+  const r = anchorEl.getBoundingClientRect();
+  const w = pop.offsetWidth || 170;
+  pop.style.left = Math.max(8, Math.min(r.left, window.innerWidth - w - 8)) + 'px';
+  pop.style.top = (r.bottom + 6) + 'px';
+  verseJumpOutsideHandler = () => closeVerseJumpPopup();
+  setTimeout(() => document.addEventListener('click', verseJumpOutsideHandler, { once: true }), 0);
+}
+function verseJumpPick(tx, chRef, v) {
+  closeVerseJumpPopup();
+  switchTranslation(tx, chRef, v);
+}
+function closeVerseJumpPopup() {
+  const pop = document.getElementById('verseJumpPopup');
+  if (pop) pop.hidden = true;
+  if (verseJumpOutsideHandler) { document.removeEventListener('click', verseJumpOutsideHandler); verseJumpOutsideHandler = null; }
 }
 
 function switchTranslation(tx, forceRef, forceVerse) {
@@ -4477,11 +4536,11 @@ function switchTranslation(tx, forceRef, forceVerse) {
      study switch has nothing to act on. Force read mode rather than leaving
      a dead control. The devotional is prose and has even less to align. */
   document.body.classList.toggle('illum-active', isVerseTx(tx));
-  /* Scopes the verse-number "click to jump to Mak" affordance to the
-     Illumination specifically -- KJV renders through the same buildIllumChapter
-     markup but was not asked for, so its verse numbers stay inert and should
-     not look clickable either. */
-  document.body.classList.toggle('illum-only-active', tx === 'illum');
+  /* Scopes the verse-number jump-popup affordance to Illumination and KJV --
+     the two translations that render through buildIllumChapter and carry
+     .illum-ref markup. Mak's own markers get their own always-on hover style
+     (.mak-verse-num), so it needs no entry here. */
+  document.body.classList.toggle('verse-jump-active', tx === 'illum' || tx === 'kjv');
   document.body.classList.toggle('dev-active', isDevTx(tx));
   /* Mak is New Testament only, so a testament filter there would be a control
      with nothing to do. Shown for the two whole-Bible translations. */

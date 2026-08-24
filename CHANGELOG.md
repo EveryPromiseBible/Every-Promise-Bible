@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 2026-08-23 — Verse-number jump now offers a choice of translation, not just one fixed target
+
+Tapping a verse number used to jump straight to one hardcoded destination:
+Illumination to Mak, or Mak to Illumination, with KJV left out entirely. It
+now works from all three translations, and where more than one destination
+makes sense, a small popup appears next to the tapped verse letting you pick
+which one -- Illumination, KJV, or Mak Translation, whichever two you're not
+already reading. In the Old Testament, where Mak has nothing to show, the
+popup is skipped and the tap jumps straight to KJV or the Illumination, same
+as before.
+
 ## 2026-08-23 — Illumination <-> Mak verse jump: fixed a race that stranded readers at the chapter top
 
 Tapping a verse number to jump between the Illumination and Mak (or switching
