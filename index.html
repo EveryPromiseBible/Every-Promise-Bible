@@ -238,8 +238,11 @@
      only once the reader opts in via the switch, which is itself only visible
      on the KJV translation. No re-render on toggle: the spans are always in the
      DOM, this rule just shows or hides them, matching how read-mode/highlight-mode
-     already work. */
-  .exp-note{color:var(--exp-note);}
+     already work. Color alone doesn't survive a black-and-white e-reader, so the
+     verse/annotation split also carries in weight and size: bold verse wording,
+     smaller plain-weight annotation text. */
+  .exp-verse{font-weight:700;}
+  .exp-note{color:var(--exp-note);font-weight:400;font-size:0.86em;}
   body:not(.exp-mode) .exp-note{display:none;}
   .section{margin-bottom:2.6em;}
   .section-heading-row{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:0.25em;margin-bottom:1.1em;gap:10px;}
@@ -1898,6 +1901,13 @@ const REACTIONS_API = 'https://quiet-meadow-1fde.everypromiseapp.workers.dev';
    why we chose it -- newest first. Kept short and hand-picked; this is not
    generated from commit history, so add to it deliberately. */
 const SITE_UPDATES = [
+  {
+    id: 'exp-verse-bold-2026-08-24',
+    date: 'August 24, 2026',
+    kind: 'feature',
+    ref: "Expositor's notes: verse text is now bold, annotations smaller",
+    why: 'The KJV-with-notes view split the verse wording from the commentary by color alone -- black verse, red annotation -- which disappears on a black-and-white e-reader and leaves the two running together. The verse wording now renders bold, and the parenthetical annotations render smaller at normal weight, so the split still reads clearly with or without color.'
+  },
   {
     id: 'verse-jump-choice-2026-08-23',
     date: 'August 23, 2026',
@@ -3636,16 +3646,17 @@ function toggleExpMode() {
 }
 
 /* Renders an EXP_INLINE string: KJV wording interleaved with (parenthetical
-   annotations). Escapes both, and wraps only the parenthetical spans in
-   .exp-note -- CSS decides whether they're visible, so this same markup is
-   built once whether or not the reader has the switch on. Only top-level
-   parens are treated as annotation boundaries; nothing in this dataset nests
-   a paren inside a paren (bracketed cross-references use square brackets). */
+   annotations). Escapes both, and wraps the verse wording in .exp-verse and
+   the parenthetical spans in .exp-note -- CSS decides how each looks (and
+   whether .exp-note is visible), so this same markup is built once whether
+   or not the reader has the switch on. Only top-level parens are treated as
+   annotation boundaries; nothing in this dataset nests a paren inside a
+   paren (bracketed cross-references use square brackets). */
 function expAnnotateHTML(raw) {
   let html = '', depth = 0, buf = '';
   for (const ch of String(raw)) {
     if (ch === '(') {
-      if (depth === 0) { html += ilEsc(buf); buf = ''; }
+      if (depth === 0) { if (buf) html += '<span class="exp-verse">' + ilEsc(buf) + '</span>'; buf = ''; }
       else buf += ch;
       depth++;
     } else if (ch === ')') {
@@ -3656,7 +3667,8 @@ function expAnnotateHTML(raw) {
       buf += ch;
     }
   }
-  html += depth > 0 ? '<span class="exp-note">(' + ilEsc(buf) + ')</span>' : ilEsc(buf);
+  html += depth > 0 ? '<span class="exp-note">(' + ilEsc(buf) + ')</span>'
+                     : (buf ? '<span class="exp-verse">' + ilEsc(buf) + '</span>' : '');
   return html;
 }
 /* Once a choice is made the panel has done its job. On a phone it is stacked

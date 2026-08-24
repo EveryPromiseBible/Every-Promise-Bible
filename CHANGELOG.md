@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-08-24 — Expositor's Translation: verse text now bold, annotations smaller
+
+The KJV-with-Expositor's-notes view split verse wording from commentary by
+color alone -- black-letter verse, red-letter annotation, matching the source
+study Bible. That split disappears on a black-and-white e-reader, leaving the
+two run together. The verse wording is now bold and the parenthetical
+annotations render smaller and at normal weight, so the split holds up
+whether or not color is showing.
+
 ## 2026-08-23 — Verse-number jump now offers a choice of translation, not just one fixed target
 
 Tapping a verse number used to jump straight to one hardcoded destination:
