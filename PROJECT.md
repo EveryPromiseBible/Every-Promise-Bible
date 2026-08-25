@@ -339,6 +339,13 @@ rather than a name — the one everyone calls "Rock of Ages" is headed *"And tha
 rock was Christ."* First lines are how hymnals index and how a reader looks one
 up. Regenerate with `tools/hymns_build.py`; do not hand-edit.
 
+**Exception: #1324.** One hymn, "'Tis So Sweet to Trust in Jesus" (Stead,
+1882), was added by hand *(2026-08-25)* — it isn't from the 1870 book, so it
+carries its own `source` field (shown in the byline alongside author/meter)
+rather than relying on the top-level `source`. It also introduced an optional
+`refrain: ["line", ...]` field, rendered as an italicized, unnumbered block
+after every verse — the only hymn in the set that uses it.
+
 ### Reader settings — `everypromise_settings`
 
 `{ size, font }` — the reading scale and face. Written by `optSet()`, applied by
@@ -471,7 +478,7 @@ Only one media query: `@media(max-width:1000px)` — hides top nav, shows `.bnav
 - Daily reflection, and **sermon notes on their own page** with a formatting bar
 
 ### Hymns
-- 1,323 hymns, indexed by first line, searchable across text, author, theme and metre
+- 1,324 hymns, indexed by first line, searchable across text, author, theme and metre
 - Previous/next follow the search, not the hymnal
 
 ### Options

@@ -1289,6 +1289,8 @@
   .hy-verse{display:flex;gap:16px;margin-bottom:22px;}
   .hy-vn{font-family:var(--mono);font-size:0.66em;color:var(--gray);flex:0 0 14px;padding-top:6px;}
   .hy-lines{font-size:1.05em;line-height:1.9;color:var(--ink);}
+  .hy-refrain .hy-vn{flex:0 0 54px;font-style:italic;}
+  .hy-refrain .hy-lines{font-style:italic;color:var(--head);}
   .hy-byline{font-family:var(--mono);font-size:0.68em;color:var(--gray);border-top:1px solid var(--line);
              padding-top:16px;margin-top:34px;display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;}
   .hy-nav{display:flex;justify-content:space-between;gap:10px;margin-top:26px;}
@@ -7587,7 +7589,7 @@ let hyPageNo = 0;            /* which page of matches is showing */
    window, so `window.HYMNS` reads undefined however well the file loaded. */
 function hyAll() { return (typeof HYMNS !== 'undefined' && HYMNS.hymns) || []; }
 
-/* One lowercase haystack per hymn, built once. Searching 1,323 hymns across
+/* One lowercase haystack per hymn, built once. Searching 1,324 hymns across
    every line on each keystroke is otherwise 25,000 string operations a press. */
 let HY_HAY = null;
 function hyHay() {
@@ -7608,7 +7610,7 @@ function hyFilter() {
   hyRenderList(q);
 }
 
-/* Pages rather than a cap. The hymnal has 1,323 entries and the old list drew
+/* Pages rather than a cap. The hymnal has 1,324 entries and the old list drew
    the first 300 and stopped, so hymn 301 onward could only be reached by
    guessing a search term that narrowed to it -- the last thousand hymns were
    effectively unreachable by browsing. */
@@ -7684,14 +7686,21 @@ function hyOpen(i) {
     ? ilEsc(h.theme) + (h.ref ? '<span>' + ilEsc(h.ref) + '</span>' : '')
     : '';
   theme.style.display = h.theme ? '' : 'none';
+  const refrainHtml = h.refrain
+    ? '<div class="hy-verse hy-refrain">' +
+        '<div class="hy-vn">Refrain</div>' +
+        '<div class="hy-lines">' + h.refrain.map(ilEsc).join('<br>') + '</div>' +
+      '</div>'
+    : '';
   document.getElementById('hyVerses').innerHTML = h.verses.map((v, k) =>
     '<div class="hy-verse">' +
       '<div class="hy-vn">' + (h.verses.length > 1 ? (k + 1) : '') + '</div>' +
       '<div class="hy-lines">' + v.map(ilEsc).join('<br>') + '</div>' +
-    '</div>').join('');
+    '</div>' + refrainHtml).join('');
   const bits = [];
   if (h.author) bits.push('<span>' + ilEsc(h.author) + '</span>');
   if (h.meter) bits.push('<span>' + ilEsc(h.meter) + '</span>');
+  if (h.source) bits.push('<span>' + ilEsc(h.source) + '</span>');
   document.getElementById('hyByline').innerHTML = bits.join('');
 
   /* Previous and next follow the SEARCH, not the hymnal, so paging through
