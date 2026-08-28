@@ -30,7 +30,10 @@ matching however Wuest himself grouped that discussion.
 **Nothing of Wuest's own text is stored anywhere in this repo** — only the
 original commentary and translations built from it.
 
-## Progress — 13 of 16 books done, 1,168 entries
+## Progress — 16 of 16 books done, 1,185 entries
+
+All books Wuest covered with running verse-by-verse commentary are now
+finished.
 
 | Book | Entries | Status |
 |---|---:|---|
@@ -47,29 +50,25 @@ original commentary and translations built from it.
 | 1 Peter | 46 | done |
 | 2 Peter | 21 | done |
 | 1 John | 24 | done |
-| 2 John | — | **not started** |
-| 3 John | — | **not started** |
-| Jude | — | **not started** |
+| 2 John | 4 | done |
+| 3 John | 4 | done |
+| Jude | 9 | done |
 
-The last 3 books were queued and hit a session/usage limit before producing
-usable output — nothing was lost (they never got far enough to write real
-files), they just need to be regenerated.
-
-Every entry's `text` field already has a blank-line break inserted before
-each sentence that introduces a new quoted word/phrase not yet discussed
-in that entry — this splitting was retrofitted onto the first 10 books and
-built in from the start for 1 Peter, 2 Peter, and 1 John; keep doing it
-that way going forward.
+Every entry's `text` field has a blank-line break inserted before each
+sentence that introduces a new quoted word/phrase not yet discussed in
+that entry — retrofitted onto the first 10 books, built in from the start
+for the last 6. A structure pass across all 16 files (every entry has
+exactly `label`/`text`/`translation`, both fields non-empty, full verse
+coverage per book with no gaps or duplicate labels) has been run and
+passes clean as of this commit.
 
 ## Next steps
 
-1. Generate the remaining 3 books (2 John, 3 John, Jude) the same way
-   as the rest — original commentary + literal translation per verse,
-   matching the style in the finished books above.
-2. Consolidate all 16 books, run a final QA pass (structure validation,
-   spot-check a sample from every book, confirm nothing leaked from
-   Wuest's actual prose or his citations of other scholars).
-3. Design and build the site integration — most likely a tab in the
+1. Run a closer human/editorial QA pass on a larger sample than the
+   automated structural check covers — spot-check several entries per
+   book for tone consistency and confirm nothing reads as a close
+   paraphrase of Wuest's own prose or his citations of other scholars.
+2. Design and build the site integration — most likely a tab in the
    Library alongside the translations, plus a "personal" row in the
    word-lookup popup that jumps straight to a tapped word's verse
    commentary when one exists (mirroring how Strong's/Thayer's/
