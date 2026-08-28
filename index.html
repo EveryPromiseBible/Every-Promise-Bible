@@ -240,8 +240,10 @@
      DOM, this rule just shows or hides them, matching how read-mode/highlight-mode
      already work. Color alone doesn't survive a black-and-white e-reader, so the
      verse/annotation split also carries in weight and size: bold verse wording,
-     smaller plain-weight annotation text. */
-  .exp-verse{font-weight:700;}
+     smaller plain-weight annotation text -- but only once notes mode is actually
+     on. In plain mode the verse must read as ordinary KJV text, with nothing
+     about its weight hinting that annotations exist underneath. */
+  body.exp-mode .exp-verse{font-weight:700;}
   .exp-note{color:var(--exp-note);font-weight:400;font-size:0.86em;}
   body:not(.exp-mode) .exp-note{display:none;}
   .section{margin-bottom:2.6em;}
@@ -3637,7 +3639,13 @@ function toggleMode() {
 
 /* ---- Expositor's Translation: inline annotations over the KJV -------------
    In-memory only, same as readMode/highlightMode -- no reason to persist a
-   display preference across sessions that the other modes don't either. */
+   display preference across sessions that the other modes don't either.
+
+   EXP_LAUNCHED gates the switch itself, not the feature -- everything above
+   (data, rendering, toggleExpMode) is fully wired and can be exercised right
+   now from the console. Flip this to true (and it alone) when ready to make
+   the switch visible to readers; nothing else needs to change. */
+const EXP_LAUNCHED = false;
 let expMode = false;
 function toggleExpMode() {
   expMode = !expMode;
@@ -4567,8 +4575,9 @@ function switchTranslation(tx, forceRef, forceVerse) {
   document.getElementById('chapterPickerBtn').style.display = isDevTx(tx) ? 'none' : '';
   /* Expositor's annotations exist only over the KJV. Leaving in whatever state
      the reader last set it, same as read-mode does across a translation swap --
-     only the switch's visibility changes here, not expMode itself. */
-  document.getElementById('expToggleWrap').style.display = tx === 'kjv' ? '' : 'none';
+     only the switch's visibility changes here, not expMode itself. Gated on
+     EXP_LAUNCHED as well, unpublished for now -- see the note above expMode. */
+  document.getElementById('expToggleWrap').style.display = (EXP_LAUNCHED && tx === 'kjv') ? '' : 'none';
   if (!isDevTx(tx)) syncChapterPickerLabel();
   if (isDevTx(tx)) {
     if (!readMode) toggleMode();
