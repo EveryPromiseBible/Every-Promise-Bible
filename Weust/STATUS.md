@@ -30,7 +30,7 @@ matching however Wuest himself grouped that discussion.
 **Nothing of Wuest's own text is stored anywhere in this repo** — only the
 original commentary and translations built from it.
 
-## Progress — 11 of 16 books done, 1,077 entries
+## Progress — 11 of 16 books done, 1,123 entries
 
 | Book | Entries | Status |
 |---|---:|---|
@@ -44,20 +44,25 @@ original commentary and translations built from it.
 | Hebrews | 155 | done |
 | 1 Timothy | 42 | done |
 | 2 Timothy | 35 | done |
-| 1 Peter | — | **not started** |
+| 1 Peter | 46 | done |
 | 2 Peter | — | **not started** |
 | 1 John | — | **not started** |
 | 2 John | — | **not started** |
 | 3 John | — | **not started** |
 | Jude | — | **not started** |
 
-The last 6 books were queued and hit a session/usage limit before producing
+The last 5 books were queued and hit a session/usage limit before producing
 usable output — nothing was lost (they never got far enough to write real
 files), they just need to be regenerated.
 
+Every entry's `text` field already has a blank-line break inserted before
+each sentence that introduces a new quoted word/phrase not yet discussed
+in that entry — this splitting was retrofitted onto the first 10 books and
+built in from the start for 1 Peter; keep doing it that way going forward.
+
 ## Next steps
 
-1. Generate the remaining 6 books (1 & 2 Peter, 1 John, 2 John, 3 John,
+1. Generate the remaining 5 books (2 Peter, 1 John, 2 John, 3 John,
    Jude) the same way as the rest — original commentary + literal
    translation per verse, matching the style in the finished books above.
 2. Consolidate all 16 books, run a final QA pass (structure validation,
