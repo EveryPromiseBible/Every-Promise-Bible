@@ -3635,6 +3635,11 @@ function toggleMode() {
   document.getElementById('modeSwitch').classList.toggle('on', readMode);
   document.getElementById('studyLabel').classList.toggle('active', !readMode);
   document.getElementById('readLabel').classList.toggle('active', readMode);
+  /* On the KJV, the ordinary study/read switch doubles as the unpublished
+     notes switch -- tapping into read quietly turns notes on, tapping back
+     to study turns them off. Nothing else marks that this is happening;
+     see EXP_LAUNCHED above expMode. */
+  if (currentTx === 'kjv' && expMode !== readMode) toggleExpMode();
 }
 
 /* ---- Expositor's Translation: inline annotations over the KJV -------------
@@ -4554,10 +4559,11 @@ function switchTranslation(tx, forceRef, forceVerse) {
      there, same as every other reference to the devotional left in place. */
   ['mak', 'illum', 'kjv', 'dev'].forEach(k =>
     document.getElementById('txcard-' + k)?.classList.toggle('active', tx === k));
-  /* Neither the Illumination nor the KJV carries Greek alignment, so the
-     study switch has nothing to act on. Force read mode rather than leaving
-     a dead control. The devotional is prose and has even less to align. */
-  document.body.classList.toggle('illum-active', isVerseTx(tx));
+  /* The Illumination carries no Greek alignment, so the study switch has
+     nothing to act on there -- force read mode rather than leaving a dead
+     control. The KJV is the exception: its switch is kept live (see below)
+     because it doubles as the unpublished notes switch. */
+  document.body.classList.toggle('illum-active', tx === 'illum');
   /* Scopes the verse-number jump-popup affordance to Illumination and KJV --
      the two translations that render through buildIllumChapter and carry
      .illum-ref markup. Mak's own markers get their own always-on hover style
@@ -4584,7 +4590,8 @@ function switchTranslation(tx, forceRef, forceVerse) {
     populateDevSelect();
     loadDev(0);
   } else if (isVerseTx(tx)) {
-    if (!readMode) toggleMode();
+    if (tx === 'illum' && !readMode) toggleMode();
+    if (tx === 'kjv' && expMode !== readMode) toggleExpMode();
     buildIllumNav();
     /* Follow the reader's place if that chapter exists here. loadIllum moves the
        testament filter itself when the destination is in the other testament. */
