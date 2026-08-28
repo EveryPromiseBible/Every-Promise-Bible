@@ -10,7 +10,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-28 faith-to-possess-the-land
   - 2026-05-24 how-to-hear-gods-voice
-updated: 2026-08-06
+updated: 2026-08-28
 ---
 
 The writer's argument turns on a door that has not been shut.
@@ -66,6 +66,16 @@ The message was not deficient. It sat in them without combining.
 
 Present tense. The entering is described as happening.
 
+## What is not at stake
+
+The rest in view is Canaan, and then something wider — never the redemption
+that got a person out of Egypt in the first place. The wilderness generation
+had already been brought out by the blood of the lamb before Kadesh. What
+they missed was the land, not the exodus.
+
+A redeemed people can still wander instead of resting. That is the danger the
+writer names, and it is a different thing from a redemption coming undone.
+
 ## The quotation
 
 *Just as He said, "**So I swore in My anger: they will never enter My rest**."*
@@ -99,6 +109,7 @@ grace to help in time of need.*
 
 The chapter about a rest that was missed ends at a throne with an open invitation.
 
-> **What the failure was.** Not that the news was withheld or unclear. The writer says
-> the same gospel reached them, and names the missing element as the thing that would
-> have combined with it.
+> **What the failure was.** Not that the news was withheld or unclear, and not that a
+> finished redemption could be taken back. The writer says the same gospel reached
+> them, and names the missing element as the difference between a redeemed people
+> wandering and a redeemed people at rest.

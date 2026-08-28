@@ -4,7 +4,7 @@ title: "While there is still a Today"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-02-28 prophetic-hope-for-the-future
-updated: 2026-08-06
+updated: 2026-08-28
 ---
 
 The application of the psalm, and the instruction in it is about each other.
@@ -74,6 +74,11 @@ Perfect tense: we have become and remain.
 
 The Greek is *the beginning of our confidence steadfast to the end*.
 
+Paired with the tense just above — **we have become and remain** partakers — the
+holding fast is the shape that confidence takes, not a line His grip depends on
+someone reaching. The writer is describing what continuing in Christ looks like,
+not setting a finish a partaker could fail to cross.
+
 ## The quotation again
 
 *As long as it is still being said: "**Today, if you hear His voice, do not let your hearts
@@ -94,5 +99,7 @@ happened to the generation Moses led.
 Hebrew believers under pressure to go back to the temple. The whole letter is written
 against that one move, and this is the first of its warnings.
 
-> **What is prescribed against a hardening heart.** Not more effort. Other people, daily,
-> for as long as the word *Today* is still in use.
+> **What is prescribed against a hardening heart.** Not more effort, and not gripping
+> tighter to something that could slip away. Other people, daily, for as long as the
+> word *Today* is still in use — because the hardening in view is a heart drifting
+> out of fellowship, not a standing coming undone.

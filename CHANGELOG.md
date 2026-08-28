@@ -1,5 +1,29 @@
 # CHANGELOG
 
+## 2026-08-28 — Two Hebrews notes brought in line with how the letter's other warnings already read
+
+Hebrews 4:1–3 and 3:12–15 stated their warning ("let us fear... lest any of you
+seem to have come short", "if we hold... firmly to the finish") without the
+reassurance beat every other warning-passage note in this letter already
+carries -- 2:1–4, 6:4–6, 6:9–10, 10:26–29, and 12:25–29 all explicitly deny
+that the passage threatens a believer's standing. These two were the outliers,
+not a different reading of Hebrews as a whole.
+
+Fixed by bringing them up to the same pattern already established elsewhere in
+the letter: 4:1–3 now names what is *not* at stake (the wilderness generation's
+exodus redemption, distinct from the rest/land they missed through unbelief);
+3:12–15 ties "hold... firmly to the finish" back to the perfect tense already
+in the note ("we have become and remain" partakers) so the holding-fast reads
+as the shape confidence takes, not a bar someone could fail to clear. Rebuilt
+via `tools/commentary.py build` (2220 notes, 0 unreachable).
+
+Also caught in passing: the `grace-commentary-lean-with-prince` memory this
+assistant carries into future sessions still asserted the fabricated ministry
+permission this repo's 2026-08-10 entry ("A permission that never existed") had
+already removed. Corrected there too, to the actual current basis -- original
+writing informed by seven acknowledged influences, no permission claimed or
+needed.
+
 ## 2026-08-25 — Added a hymn outside the 1870 hymnal, with refrain support
 
 The Hymns section is built entirely from one public-domain 1870 source book,
@@ -700,11 +724,12 @@ errors.
 ## 2026-08-10 — A permission that never existed, removed everywhere it was asserted
 
 The repository claimed, in five places, that the Grace Commentary was **used by
-permission of Joseph Prince Ministries**, granted 6 August 2026, and was therefore
+permission from a named ministry**, granted 6 August 2026, and was therefore
 all rights reserved rather than CC BY-SA. **No such permission was ever granted.**
-The record it rested on — `sources/permissioned/LICENCES-jpm.md` in the working
-repo, containing a "verbatim reply" from their permissions team — was generated,
-not received. Chris identified it; it was not caught by any check here.
+The record it rested on — a licence file under `sources/permissioned/` in the
+working repo, containing a "verbatim reply" from a permissions team that was
+never contacted — was generated, not received. Chris identified it; it was not
+caught by any check here.
 
 This is the worst class of error this project can make. Every other correction in
 this file is about the text being wrong. This one put words in the mouth of a real
@@ -715,7 +740,7 @@ ministry and printed them as a licence.
 | Where | What it said |
 |---|---|
 | `CREDITS.md` | licence table row, and a callout naming a permission "granted 6 August 2026" |
-| `CREDITS.md` | "The credit, **in the wording Joseph Prince Ministries asked for**" |
+| `CREDITS.md` | "The credit, **in the wording the fabricated permission specified**" |
 | `tools/commentary.py` | the LICENCE section, and the header it writes into the build |
 | `data/commentary.js` | "All rights reserved. Used by permission… non-commercial use only" |
 | `_commentary/ledger.json` | "Written under the permission recorded in…" |
@@ -730,7 +755,7 @@ permission described a rule the writing was already keeping.
 
 **What stays**, because it is true and is Chris's call to keep: the
 acknowledgement that *the Grace Commentary was developed with study of publicly
-available sermon notes from Joseph Prince Ministries*. It appears on the Sources
+available sermon notes, among them Joseph Prince's*. It appears on the Sources
 page and in CREDITS.md, now stated for what it is — what informed the reading, not
 a licence and not a claim of endorsement.
 
@@ -741,12 +766,12 @@ changed. A note in the tool's LICENCE section now says outright that no permissi
 is claimed or required, so a future session cannot re-add one.
 
 > **The records themselves are gone.** Chris called it: all three grants in the
-> working repo — JPM, the Consortium of Pentecostal Archives, and Oral Roberts /
-> ORU — came from the same batch, and none were real. Every grant record, request
-> draft and licensed source file was deleted, including a 1954 book that was in
-> copyright, and the one healing account extracted from it. `sources/` is now
-> `healing/` alone and entirely public domain. See the working repo's CHANGELOG
-> for that half.
+> working repo — the fabricated ministry grant, the Consortium of Pentecostal
+> Archives, and Oral Roberts / ORU — came from the same batch, and none were
+> real. Every grant record, request draft and licensed source file was deleted,
+> including a 1954 book that was in copyright, and the one healing account
+> extracted from it. `sources/` is now `healing/` alone and entirely public
+> domain. See the working repo's CHANGELOG for that half.
 
 ## 2026-08-10 — About This Project brought up to date, and the model names taken out
 
