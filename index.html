@@ -232,6 +232,12 @@
   .switch .knob{position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:var(--white);box-shadow:0 1px 3px rgba(0,0,0,0.25);transition:transform .2s ease;}
   .switch.on .knob{transform:translateX(20px);}
   .mode-toggle .mlabel.active{color:var(--ink);font-weight:700;}
+  /* The KJV's stand-in for the study/read switch -- deliberately just a dot,
+     not a switch, so it reads as decoration next to the chapter title rather
+     than a control. Faint by default; full color is the only tell that it's
+     on, and only someone already looking for it would notice the difference. */
+  .exp-dot{width:7px;height:7px;border-radius:50%;background:var(--exp-note);opacity:.3;cursor:pointer;flex-shrink:0;transition:opacity .2s ease;}
+  .exp-dot.on{opacity:1;}
   /* Expositor's Translation -- inline annotations over the KJV text. Black-letter
      (the verse) / red-letter (the annotation), same split the source study Bible
      uses. Hidden by default -- plain KJV is the existing behavior -- and shown
@@ -1519,11 +1525,17 @@
     <div class="bible-main">
       <div class="chapter-head-row">
         <h1 id="chapterTitle">Matthew 1</h1>
-        <div class="mode-toggle">
+        <div class="mode-toggle" id="modeToggleWrap">
           <span class="mlabel" id="studyLabel">study</span>
           <div class="switch" id="modeSwitch" onclick="toggleMode()"><div class="knob"></div></div>
           <span class="mlabel" id="readLabel">read</span>
         </div>
+        <!-- Only the KJV carries Expositor's annotations. On the KJV this dot
+             replaces the study/read switch above -- same toggleMode() call,
+             so it still quietly drives expMode exactly as before, but there is
+             nothing here that reads as a control to a visitor: just a small
+             dot by the chapter title. Shown/hidden from switchTranslation. -->
+        <div class="exp-dot" id="expDot" onclick="toggleMode()" style="display:none;"></div>
         <!-- Only the KJV carries Expositor's annotations, so this stays hidden
              for every other translation -- shown/hidden from switchTranslation,
              same as the testament and chapter-picker controls just above it. -->
@@ -3635,6 +3647,7 @@ function toggleMode() {
   document.getElementById('modeSwitch').classList.toggle('on', readMode);
   document.getElementById('studyLabel').classList.toggle('active', !readMode);
   document.getElementById('readLabel').classList.toggle('active', readMode);
+  document.getElementById('expDot').classList.toggle('on', readMode);
   /* On the KJV, the ordinary study/read switch doubles as the unpublished
      notes switch -- tapping into read quietly turns notes on, tapping back
      to study turns them off. Nothing else marks that this is happening;
@@ -4584,6 +4597,10 @@ function switchTranslation(tx, forceRef, forceVerse) {
      only the switch's visibility changes here, not expMode itself. Gated on
      EXP_LAUNCHED as well, unpublished for now -- see the note above expMode. */
   document.getElementById('expToggleWrap').style.display = (EXP_LAUNCHED && tx === 'kjv') ? '' : 'none';
+  /* On the KJV the dot stands in for the study/read switch (see the note by
+     #expDot); every other translation keeps the ordinary labeled switch. */
+  document.getElementById('modeToggleWrap').style.display = (tx === 'kjv') ? 'none' : '';
+  document.getElementById('expDot').style.display = (tx === 'kjv') ? '' : 'none';
   if (!isDevTx(tx)) syncChapterPickerLabel();
   if (isDevTx(tx)) {
     if (!readMode) toggleMode();
@@ -6149,6 +6166,7 @@ function syncModeUI() {
   document.getElementById('modeSwitch').classList.toggle('on', readMode);
   document.getElementById('studyLabel').classList.toggle('active', !readMode);
   document.getElementById('readLabel').classList.toggle('active', readMode);
+  document.getElementById('expDot').classList.toggle('on', readMode);
 }
 
 function openSomewhereRandom() {
