@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-08-29 — Matthew 12:41: fix a pre-existing "re pented" typo in the base KJV text
+
+Chris asked whether the reworded entries read well; re-reading them surfaced a pre-existing
+stray-space typo in the base KJV wording of Matthew 12:41 -- "because they re pented at the
+preaching of Jonah" -- unrelated to the repent->change of mind pass (which never touches base
+text) but flagged for a decision. Chris said fix it. Confirmed `data/kjv.js` has the correct
+"repented" for this verse, then corrected the one word in `data/exp_inline.js` to match.
+
 ## 2026-08-29 — Expositor's Translation: "repent" -> "change of mind" pass complete (whole NT)
 
 Continued the Mark pass below through the rest of the New Testament, book by book: Matthew, Luke,
