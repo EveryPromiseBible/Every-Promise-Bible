@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## 2026-08-29 — Expositor's Translation: "repent" -> "change of mind" pass complete (whole NT)
+
+Continued the Mark pass below through the rest of the New Testament, book by book: Matthew, Luke,
+John, Acts, Romans, 1-2 Corinthians, James, 1-2 Timothy, Hebrews, 2 Peter, Jude, Revelation --
+every book in `data/exp_inline.js` that has any "repent" occurrence. (Several NT books --
+Galatians, Ephesians, Philippians, Colossians, 1-2 Thessalonians, Titus, Philemon, 1 Peter, 1-3
+John -- have zero hits and needed no pass.)
+
+Same rule the whole way through: only parenthetical annotations change; base KJV verse wording,
+including every place the KJV itself prints "repent"/"repentance"/"impenitent", stays exactly as
+printed. 61 of 114 total hits across the NT are base-text-only and were left untouched by design.
+The other 53 were commentary and were reworded, fitting the grammar to the swap case by case
+("already repented in their hearts" -> "a change of mind had already taken place in their
+hearts", "barring Repentance" -> "barring a Change of Mind", "unrepentant" -> restructured as "no
+change of mind", etc.) -- keeping the source's own capitalization convention for doctrinal nouns
+(Repentance/Faith/Salvation are capitalized throughout this translation, so Change of Mind is too).
+
+One nice confirmation along the way: Hebrews 7:21's own parenthetical already glossed the KJV's
+"will not repent" as "the Lord will not change His Mind" -- left untouched, already on-message.
+
+Verified after every book: entry count unchanged, diffs contain only the intended parenthetical
+text, base KJV wording for touched verses unchanged against `data/kjv.js`. Final count: 7,718
+entries (unchanged), 7,743 lines (unchanged). Committed per book/small group as checkpoints
+(commits baa9bb5 through 967abb0).
+
 ## 2026-08-29 — Expositor's Translation: "repent" -> "change of mind" in Mark annotations
 
 Chris asked for "repent" reworded to "change of mind" throughout the KJV commentary (the
