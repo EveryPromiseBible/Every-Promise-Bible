@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-08-29 — Expositor's Translation: "repent" -> "change of mind" in Mark annotations
+
+Chris asked for "repent" reworded to "change of mind" throughout the KJV commentary (the
+Expositor's Translation annotations in `data/exp_inline.js` -- the only commentary that renders
+over the KJV tab; Grace Commentary is Illumination-only and wasn't touched), starting with Mark
+and working forward book by book.
+
+Same method as the earlier Cross->Blood Covenant / Faith->Believing pass: every Mark entry (645)
+was checked for "repent"/"repentance"/"repented" both inside its parenthetical annotations and in
+its base KJV wording. Only the annotation side changes; the base verse text is untouched, even
+where the KJV itself prints "repent" (Mark 1:15, 1:4, 2:17, 6:12 all keep "repent ye"/"the baptism
+of repentance"/etc. exactly as printed -- that's scripture, not commentary).
+
+8 of 645 Mark entries had "repent" inside a parenthetical and were reworded, fitting the grammar
+to the noun-phrase swap ("Chris flagged this might be needed" -- e.g. "already repented in their
+hearts" -> "a change of mind had already taken place in their hearts", "barring Repentance" ->
+"barring a Change of Mind", keeping the source's own capitalization convention for doctrinal nouns).
+2 more entries (2:17, 6:12) had "repent" only in the base KJV wording and were left alone entirely.
+
+Verified: entry count unchanged (645 Mark entries), base KJV wording for all 8 touched verses
+confirmed unchanged against `data/kjv.js` (only whitespace where a paren was removed, everything
+else identical). Next: Luke, then the rest of the NT and OT in canonical order.
+
 ## 2026-08-29 — 40 more Grace Revolution quotes added (two per chapter)
 
 Chris asked for more from a book already pulled from (one per chapter, added earlier). This
