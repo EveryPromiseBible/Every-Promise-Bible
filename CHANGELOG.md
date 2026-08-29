@@ -1,5 +1,109 @@
 # CHANGELOG
 
+## 2026-08-29 — 40 more Grace Revolution quotes added (two per chapter)
+
+Chris asked for more from a book already pulled from (one per chapter, added earlier). This
+book's epub is a Calibre-converted Kindle file, split into `part####_split_###.html` fragments
+rather than one file per chapter, so first mapped fragments to chapters via the `id="chapterNNN"`
+markers in the spine reading order (from `content.opf`), then pulled every `<div class="pq">`
+pull-quote per chapter (4-12 each) and picked two more per chapter that weren't already used,
+avoiding thematic overlap with the first pass. Unlike the Nelson-produced `Eat` epub, this book's
+callouts are already normal-case (not small-caps styled), so no case correction was needed — used
+as printed. Quotes tab is now at 180 entries.
+
+## 2026-08-29 — 24 more Eat Your Way to Life and Health quotes added (two per chapter)
+
+Chris asked for more from the same book. Went back to the full set of inline callouts extracted
+per chapter (9-14 each, `class="quote-text"` in the epub) and picked a second pair per chapter,
+avoiding thematic overlap with the first pass. Same verification as before: cross-checked each
+against the surrounding body prose for an exact normal-case duplicate, and where none existed
+(ch. 6's "He will make you clean", ch. 7's "to access His healing power", ch. 8's "restoration is
+always greater than the original", ch. 11's "night shift", ch. 12's "when you have Him, you have
+everything") used the callout wording as printed, only correcting the small-caps styling. Quotes
+tab is now at 140 entries.
+
+## 2026-08-29 — 12 Joseph Prince quotes added, one per chapter of Eat Your Way to Life and Health
+
+Fifth book of the quotes pull, same approach as the other three living-author Prince books: one
+verbatim pull-quote per chapter (12 chapters), taken from the book's own inline callout lines
+(`class="quote-text"` in the epub) rather than picked freehand, and cross-checked against the
+surrounding body prose where the same sentence also appears in normal case. Two callouts (ch. 2,
+ch. 4) had no exact normal-case duplicate in the body; used the callout wording as printed, only
+correcting the case (the callouts are typeset in small caps by design, not written in caps).
+Thomas Nelson, 2019-08-17, confirmed from `content.opf`. Quotes tab is now at 116 entries.
+
+## 2026-08-29 — 8 Martin Luther quotes added, sourced from Table Talk
+
+Chris asked for Luther quotes, but had no source file for him (unlike the JP/Kenyon books).
+Given the quotes file's own warning that Luther is one of the most misattributed names online,
+declined to pull from memory. Instead fetched Capt. Henry Bell's 1652 English translation of
+Luther's Table Talk (Tischreden, collected by Aurifaber, 1566) from Project Gutenberg (#9841),
+downloaded the raw text, and read it directly rather than through a summarizing tool, to avoid
+any paraphrase risk. Picked 8 short, verified-verbatim lines from the "Brief Sentences of the
+Catechism" and "Of the Law and the Gospel" sections -- these are grace/faith aphorisms Luther
+used to teach his own household, per the collection's own section heading.
+
+Chris flagged one pick -- "We are saved merely by grace and mercy, if we trust thereupon, but
+God must alter our hearts" -- as reading works-based because of the trailing "but" clause.
+Swapped it for "Jesus Christ died for me, and through him I have a gracious God and Father;
+Christ hath made an atonement for me" (Luther's own answer to the devil's accusation that he
+hadn't loved God enough, found earlier in the same collection) -- unconditional, no rider.
+
+Chris then asked for more, so went looking further afield: downloaded Luther's "Concerning
+Christian Liberty" (1520, Gutenberg #1911) the same way -- raw text, read directly, no
+summarizing tool. This is the treatise sola fide comes from, so it was a much richer vein than
+Table Talk for pure-grace lines with no self-effort rider. Added 6, including the "joyous
+exchange" passage ("Christ is full of grace, life, and salvation; the soul is full of sin,
+death, and condemnation...") and the classic "Good works do not make a good man, but a good man
+does good works" -- which states the fruit-not-root relationship explicitly, the direct answer
+to the works-based concern. Quotes tab is now at 104 entries.
+
+## 2026-08-29 — 22 more Joseph Prince quotes added, one per chapter of Destined To Reign
+
+Fourth book of the quotes pull, same approach: one short inline pull-quote per chapter (22
+chapters), verified verbatim against the extracted epub text. This one is self-published (no
+`dc:date`/`dc:publisher` in `content.opf`) -- copyright year and ISBN pulled instead from the
+book's own copyright page (`Ops/002.html`): "Copyright Joseph Prince, 2011", Joseph Prince
+Teaching Resources. Quotes tab is now at 90 entries.
+
+## 2026-08-29 — 21 more Joseph Prince quotes added, one per chapter of The Power of Right Believing
+
+Third book of the quotes pull, same living-author fair-use approach as Grace Revolution: one
+short pull-quote per chapter (21 chapters), pulled from the book's own inline callout lines rather
+than picked freehand. `FaithWords`, 2013-10-22, confirmed from `content.opf`. Every line checked
+verbatim against the extracted epub text. Quotes tab is now at 68 entries.
+
+## 2026-08-29 — 20 Joseph Prince quotes added to the Quotes tab, one per chapter of Grace Revolution
+
+Second book of the quotes pull. Unlike Kenyon (public domain), Prince is a living author and the
+quotes file's own rule limits a living author to "fair use of a sentence, not a chapter." Chris
+asked for a full chapter-by-chapter sweep anyway (20 chapters), so each entry was kept to the
+book's own inline pull-quotes -- one or two sentences the publisher itself set off as a callout in
+the chapter -- rather than picking arbitrary longer passages. Every line checked verbatim against
+the extracted epub text (`FaithWords`, 2015-10-27, confirmed from `content.opf`).
+
+## 2026-08-29 — 17 E. W. Kenyon quotes added to the Quotes tab, one per chapter of The Blood Covenant
+
+Chris asked for quotes pulled from favorite books; supplied `The Blood Covenant`
+(E. W. Kenyon, 1949) as an epub. Extracted the text chapter by chapter (18
+chapters, Foreword + appendix excluded) and picked one standalone, verbatim
+line per chapter -- chapter 1 skipped, nothing in it stood alone outside of
+Jesus' own words already quoted elsewhere. Every line checked against the
+extracted chapter text before being added; none paraphrased.
+
+Chris also recalled a passage from "chapter one" about Israel as God's
+peculiar people, "flowing with milk and honey," blessed with "running water" --
+searched the full text (all 18 chapters + Foreword) for "milk", "honey",
+"water", "spring", "well", "irrigat", "river": none of those words appear
+together as Chris described. Likely a different edition or a different Kenyon
+work; left out rather than reconstructed from memory, per the quotes file's
+own rule against misattribution.
+
+Chris then pasted the actual source of that memory: it's ch. 7's "BLESSINGS OF
+THE COVENANT" section -- "irrigated" hillsides and Jerusalem as "the richest
+city," not water or milk and honey. Added as a second ch. 7 quote alongside
+the "peculiar people... treasure of the heart of God" line already there.
+
 ## 2026-08-28 — Two Hebrews notes brought in line with how the letter's other warnings already read
 
 Hebrews 4:1–3 and 3:12–15 stated their warning ("let us fear... lest any of you
