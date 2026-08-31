@@ -1103,19 +1103,60 @@ const QUOTES = [
     source: "Eat Your Way to Life and Health, ch. 12, 2019"
   },
   {
-    text: "I thought, ‘I'm going to walk into that Sunday service, take the " +
+    text: "I was only 24 years old when I was pastoring a church and traveling in " +
+          "missions. That church felt like my firstborn child. I loved those " +
+          "people. I had poured my life into that church.\n\n " +
+          "One time I went to Africa, and what was supposed to be a short trip " +
+          "turned into three months. When I finally came home, the elders told me " +
+          "they were removing me as pastor. And the man they were going to put in " +
+          "my place was the executive pastor I had hired myself.\n\n " +
+          "I was hurt. I was angry. I was ready to fight.\n\n " +
+          "I thought, ‘I'm going to walk into that Sunday service, take the " +
           "microphone, and tell everybody what happened.’ And I knew there were " +
-          "people who would follow me out of that church. But the Holy Spirit " +
-          "stopped me. He reminded me of the story in 1 Kings 3, when two women " +
-          "came before Solomon, both claiming the same baby. Solomon said, " +
-          "‘Divide the living child in two.’ One woman was willing to divide " +
-          "the child. But the real mother cried out, ‘Give her the living " +
-          "child, and in no wise slay it.’ And I felt the Lord speak to me: " +
-          "‘If you claim this church is your baby, and you force this issue, " +
-          "what happens to the baby?’ ... So I walked away. ... I moved to " +
-          "Florida. And it was there that I met Reinhard Bonnke. ... Sometimes " +
-          "the rejection is mercy. Sometimes the closed door is protection. " +
-          "... Let the baby live.",
+          "people who would follow me out of that church.\n\n " +
+          "But the Holy Spirit stopped me.\n\n " +
+          "He reminded me of the story in 1 Kings 3, when two women came before " +
+          "Solomon, both claiming the same baby.\n\n " +
+          "Solomon said, ‘Divide the living child in two.’\n\n " +
+          "One woman was willing to divide the child. But the real mother cried " +
+          "out, ‘Give her the living child, and in no wise slay it.’\n\n " +
+          "And I felt the Lord speak to me:\n\n " +
+          "‘If you claim this church is your baby, and you force this issue, what " +
+          "happens to the baby?’\n\n " +
+          "In that moment, I realized I had a choice.\n\n " +
+          "I could fight for my rights.\n\n " +
+          "Or I could love the baby enough to let it live.\n\n " +
+          "So I walked away.\n\n " +
+          "It wasn't because it didn't hurt. It hurt deeply. It wasn't because I " +
+          "didn't have an argument. I had plenty of arguments. It wasn't because " +
+          "what happened was right.\n\n " +
+          "I walked away because I realized that sometimes obedience means " +
+          "releasing something you have every right to fight for.\n\n " +
+          "I moved to Florida. And it was there that I met Reinhard Bonnke.\n\n " +
+          "Looking back, I realized that the very rejection I thought was going to " +
+          "destroy me became the doorway into an assignment I could never have " +
+          "imagined.\n\n " +
+          "Sometimes the rejection is mercy.\n\n " +
+          "Sometimes the closed door is protection.\n\n " +
+          "Sometimes God allows something to be taken from your hands because He " +
+          "is trying to put something greater into them.\n\n " +
+          "Prayer isn't a tool we use to force God's hand. Prayer isn't about " +
+          "manipulating God or fighting our enemies.\n\n " +
+          "Prayer is where we become quiet enough to see what God is already " +
+          "doing.\n\n " +
+          "We have to learn to trust Him even when we don't understand the " +
+          "process.\n\n " +
+          "Precept upon precept. Line upon line.\n\n " +
+          "That's how you learn to walk with God.\n\n " +
+          "That's how you learn to enjoy God.\n\n " +
+          "Because if you're constantly fighting for what you think is yours, " +
+          "you'll live frustrated.\n\n " +
+          "But when you can surrender it into God's hands, you can finally have " +
+          "peace.\n\n " +
+          "So sometimes you have to stop fighting.\n\n " +
+          "Sometimes you have to walk away.\n\n " +
+          "Sometimes you have to release what you love.\n\n " +
+          "Let the baby live.",
     who: "Daniel Kolenda",
     source: "“Let the Baby Live”"
   }
