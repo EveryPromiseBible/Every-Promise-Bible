@@ -1101,22 +1101,5 @@ const QUOTES = [
     text: "When you have Jesus, you have all you need.",
     who: "Joseph Prince",
     source: "Eat Your Way to Life and Health, ch. 12, 2019"
-  },
-  {
-    text: "I thought, ‘I'm going to walk into that Sunday service, take the " +
-          "microphone, and tell everybody what happened.’ And I knew there were " +
-          "people who would follow me out of that church. But the Holy Spirit " +
-          "stopped me. He reminded me of the story in 1 Kings 3, when two women " +
-          "came before Solomon, both claiming the same baby. Solomon said, " +
-          "‘Divide the living child in two.’ One woman was willing to divide " +
-          "the child. But the real mother cried out, ‘Give her the living " +
-          "child, and in no wise slay it.’ And I felt the Lord speak to me: " +
-          "‘If you claim this church is your baby, and you force this issue, " +
-          "what happens to the baby?’ ... So I walked away. ... I moved to " +
-          "Florida. And it was there that I met Reinhard Bonnke. ... Sometimes " +
-          "the rejection is mercy. Sometimes the closed door is protection. " +
-          "... Let the baby live.",
-    who: "Daniel Kolenda",
-    source: "“Let the Baby Live”"
   }
 ];
