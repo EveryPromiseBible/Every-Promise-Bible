@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-08-31 — Quote paragraph breaks now render
+
+Noticed while reviewing the restored Kolenda quote: the `\n\n` paragraph breaks already used
+throughout `data/quotes.js` (Spurgeon's "framed banknote" sermon included) were inert — `.qt-text`
+and `.qt-item p` had no `white-space` rule, so HTML collapsed every multi-paragraph quote into one
+dense block on both the single-quote card and the all-quotes list. Added `white-space:pre-line` to
+both selectors. Data-only change was never going to fix this; it's a rendering gap that affected
+every quote with a paragraph break, not just Kolenda's.
+
 ## 2026-08-31 — Daniel Kolenda quote restored, syntax fixed
 
 Overrode the removal below at the user's explicit instruction. The entry that prompted the removal
