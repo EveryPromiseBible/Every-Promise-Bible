@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2026-08-31 — Daniel Kolenda quote restored, syntax fixed
+
+Overrode the removal below at the user's explicit instruction. The entry that prompted the removal
+had also been corrupted separately: it was saved with raw line breaks inside a double-quoted JS
+string and a curly closing quote instead of a straight one, which broke the file's parse. Reformatted
+as the file's standard multi-line concatenation (`"..." + "\n\n " + "..."`), matching the Spurgeon
+quotes above it, with no wording changes.
+
+## 2026-08-31 — Daniel Kolenda quote removed
+
+Chris wanted the full "Let the Baby Live" testimony in the file; declined to publish it in full
+since Kolenda is a living author and it's his copyrighted piece, not a book excerpt in the public
+domain the way the Spurgeon sermon above is. Chris asked to drop it rather than leave the trimmed
+excerpt up. Removed entirely. Quotes tab is back to 181 entries.
+
 ## 2026-08-31 — Daniel Kolenda: merged into a single quote, from "Let the Baby Live"
 
 Chris first supplied this as a third-person retelling of Kolenda's story (being removed as
