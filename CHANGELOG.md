@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## 2026-08-31 — 2 Daniel Kolenda quotes added, from "Let the Baby Live"
+
+Chris first supplied this as a third-person retelling of Kolenda's story (being removed as
+pastor at 24, the two-women-before-Solomon moment, the move to Florida). Flagged that attributing
+third-person narration to Kolenda as if it were his own quote would misattribute it -- the file's
+own rule -- and asked for the real thing instead. Chris then supplied the actual first-person
+piece, titled "Let the Baby Live." Since he's a living author, the file's fair-use rule (a
+sentence, not a chapter) applies same as it does to Joseph Prince, so pulled two short standalone
+lines rather than the whole testimony: "Let the baby live." and "Sometimes the rejection is
+mercy. Sometimes the closed door is protection." No further publication detail was given, so
+`source` cites only the piece's own title. Quotes tab is now at 183 entries.
+
 ## 2026-08-31 — 1 Charles Spurgeon quote added: the framed banknote illustration
 
 Chris supplied the full text directly (with sermon title and date), so added as given rather than

@@ -1101,5 +1101,15 @@ const QUOTES = [
     text: "When you have Jesus, you have all you need.",
     who: "Joseph Prince",
     source: "Eat Your Way to Life and Health, ch. 12, 2019"
+  },
+  {
+    text: "Let the baby live.",
+    who: "Daniel Kolenda",
+    source: "“Let the Baby Live”"
+  },
+  {
+    text: "Sometimes the rejection is mercy. Sometimes the closed door is protection.",
+    who: "Daniel Kolenda",
+    source: "“Let the Baby Live”"
   }
 ];
