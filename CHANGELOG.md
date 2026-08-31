@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-08-31 — 1 Charles Spurgeon quote added: the framed banknote illustration
+
+Chris supplied the full text directly (with sermon title and date), so added as given rather than
+re-sourced -- the "banknote framed on the cottage wall" illustration from "Though He Were Dead,"
+Sept. 14, 1884, grouped with the existing Spurgeon entry. Longer than the usual quote (several
+paragraphs, `\n\n` breaks between them) -- fine for a public-domain author per the file's own
+fair-use rule, which only caps living authors to a sentence. Quotes tab is now at 181 entries.
+
 ## 2026-08-29 — Matthew 12:41: fix a pre-existing "re pented" typo in the base KJV text
 
 Chris asked whether the reworded entries read well; re-reading them surfaced a pre-existing

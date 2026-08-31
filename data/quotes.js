@@ -144,6 +144,47 @@ const QUOTES = [
     who: "Charles Spurgeon"
   },
   {
+    text: "We do with the promises often as a poor old couple did with a precious " +
+          "document, which might have cheered their old age had they used it according " +
+          "to its real value.\n\n " +
+          "A gentleman stepping into a poor woman’s house saw framed and glazed upon " +
+          "the wall a French note for a thousand francs. He said to the old folks, “How " +
+          "came you by this?”\n\n " +
+          "They informed him that a poor French soldier had been taken in by them and " +
+          "nursed until he died, and he had given them that little picture when he was " +
+          "dying as a memorial of him. They thought it such a pretty souvenir that they " +
+          "had framed it, and there it was adorning the cottage wall.\n\n " +
+          "They were greatly surprised when they were told that it was worth a sum " +
+          "which would be quite a little fortune for them if they would but turn it " +
+          "into money.\n\n " +
+          "Are we not equally unpractical with far more precious things? Have you not " +
+          "certain of the words of your great Lord framed and glazed in your hearts, " +
+          "and do you not say to yourselves, “They are so sweet and precious”? and yet " +
+          "you have never turned them into actual blessing—never used them in the hour " +
+          "of need?\n\n " +
+          "Oh that we had grace to turn God’s bullion of gospel into current coin, and " +
+          "use them as our present spending money.\n\n " +
+          "Moreover, Martha made another blunder, and that was setting the promise in " +
+          "the remote distance. This is a common folly, this distancing the promises of " +
+          "the Most High.\n\n " +
+          "Telescopes are meant to bring objects near to the eye, but I have known " +
+          "people use the mental telescope in the wrong way: they always put the big " +
+          "end of it to their eye, and then the glass sends the object further " +
+          "away!\n\n " +
+          "Her brother was to be raised that very day: she might so have understood the " +
+          "Saviour, but instead of it she looked at His words through the wrong end of " +
+          "the glass, and said, “I know that he will rise again in the resurrection at " +
+          "the last day.”\n\n " +
+          "Brethren, do not refuse the present blessing. ... Do not say in your heart, " +
+          "“My Lord delayeth His coming”; or dream that His words of love are only for " +
+          "the dim future.\n\n " +
+          "In the ages to come marvels shall be revealed, but even the present hour is " +
+          "bejewelled with loving-kindness. To-day the Lord has rest, and peace, and " +
+          "joy to give to you. Lose not these treasures by unbelief.",
+    who: "Charles Spurgeon",
+    source: "“Though He Were Dead,” Sept. 14, 1884"
+  },
+  {
     text: "The true preaching of the gospel of salvation by grace alone always leads to " +
           "the possibility of this charge being brought against it. There is no better " +
           "test as to whether a man is really preaching the New Testament gospel of " +
