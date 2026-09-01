@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 2026-08-31 — KJV Expositor's annotations shelved
+
+Moved `data/exp_inline.js` (and its .bak backups) to `_shelved/exp_inline.js`, not deleted — the
+user wants to revisit this reword project later. Removed the script tag that loaded it and guarded
+the one render-path reference (`EXP_INLINE[key]` in the Illumination-style renderer) so the KJV tab
+falls back to plain text instead of throwing when the global doesn't exist. Also closed a loophole
+where the small "exp-dot" on the KJV tab (a stand-in for the study/read switch) could silently
+flip the unpublished commentary on via its coupling with `toggleMode()`, even though the labeled
+switch was already hidden behind `EXP_LAUNCHED = false`. Illumination and Mak are untouched — this
+feature only ever existed on the KJV tab. Verified locally: all three translations render with no
+console errors, and the KJV renders as plain text with the dot now inert with respect to the
+commentary. To restore: bring the script tag back, move the file back to `data/`, and flip
+`EXP_LAUNCHED` when ready.
+
 ## 2026-08-31 — Quote paragraph breaks now render
 
 Noticed while reviewing the restored Kolenda quote: the `\n\n` paragraph breaks already used

@@ -1885,7 +1885,9 @@
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
 <script src="data/kjv.js"></script>
-<script src="data/exp_inline.js"></script>
+<!-- Expositor's Translation annotations, shelved for now -- the file moved to
+     _shelved/exp_inline.js (not deleted). To bring it back: restore this
+     script tag and see EXP_LAUNCHED in the JS below. -->
 <script src="data/devotional.js"></script>
 <script src="data/commentary.js"></script>
 <script src="data/lexicon.js"></script>
@@ -3651,8 +3653,11 @@ function toggleMode() {
   /* On the KJV, the ordinary study/read switch doubles as the unpublished
      notes switch -- tapping into read quietly turns notes on, tapping back
      to study turns them off. Nothing else marks that this is happening;
-     see EXP_LAUNCHED above expMode. */
-  if (currentTx === 'kjv' && expMode !== readMode) toggleExpMode();
+     see EXP_LAUNCHED above expMode. Gated on EXP_LAUNCHED so this coupling
+     itself is inert while the feature is unpublished -- otherwise the dot
+     would still be able to switch notes on even with the labeled switch
+     hidden. Flips back on automatically once EXP_LAUNCHED does. */
+  if (EXP_LAUNCHED && currentTx === 'kjv' && expMode !== readMode) toggleExpMode();
 }
 
 /* ---- Expositor's Translation: inline annotations over the KJV -------------
@@ -4073,8 +4078,10 @@ function buildIllumChapter(ch) {
       const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
       /* Expositor's annotations only exist over the KJV, keyed identically to
          the commentary lookup just above. A verse without an entry (not every
-         verse has been annotated) falls back to the plain KJV rendering. */
-      const expRaw = currentTx === 'kjv' ? EXP_INLINE[key] : null;
+         verse has been annotated) falls back to the plain KJV rendering.
+         EXP_INLINE itself is shelved for now (see the script tags above) --
+         guarded here so the KJV renders as plain text without it. */
+      const expRaw = (currentTx === 'kjv' && typeof EXP_INLINE !== 'undefined') ? EXP_INLINE[key] : null;
       h += '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
            ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
            ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
