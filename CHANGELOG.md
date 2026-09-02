@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Tempted mood
+
+**Tempted (82 promises): 82 flagged instances fixed.** Same method as the passes below. Largest single
+mood-batch so far, with heavy overlap across the Romans 8:33-34 "no condemnation" cluster and the
+Hebrews 7:25 intercession verses, which had 4-7 flagged lines apiece — differentiated by pointing to a
+distinct clause of the same verse each time rather than reusing one insight in five variations.
+Example, Romans 8:34 ("Who is he that condemneth? It is Christ that died, yea rather, that is risen
+again, who is even at the right hand of God, who also maketh intercession for us"), which had four
+flagged lines ("He is praying for you now.", "Your accuser has no standing.", "The case against you is
+closed.", "You are not on trial." — all reused elsewhere) → four lines each keyed to a different clause:
+died-then-risen-then-interceding as a stacked sequence; the question answering itself in the same verse;
+"yea rather" as a mid-sentence self-correction; and the right hand of God as the location of the
+interceding.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 228 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted done; 13 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Provision mood
 
 **Provision (33 promises): 36 flagged instances fixed.** Same method as the Angry/Stressed pass below.
