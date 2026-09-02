@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Peaceful mood
+
+**Peaceful (63 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Isaiah
+9:6 and Ephesians 2:16 (3 flagged lines each), John 10:11, John 10:14, Psalm 139:1-3, Ephesians 1:7,
+Hebrews 8:12, 2 Corinthians 5:19/13:11, Ecclesiastes 3:14, Exodus 33:11, Malachi 3:17, 2 Thessalonians
+2:13, 1 Peter 1:2, Psalm 112:6, Matthew 20:28, and Ezekiel 34:31/John 10:11 sharing "You are not a
+stray" (2 apiece) — each keyed to a distinct clause, verb, or named detail.
+
+Ran `tools/law_scan.py`'s `classify()` against all 63 new lines before applying: 0 flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 747 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting, Tired, Overwhelmed, Healing, Anxious, Peaceful done; 5 of 17 moods
+remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Anxious mood
 
 **Anxious (64 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Psalm
