@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Tired mood
+
+**Tired (65 flagged instances) fixed.** Same method as the passes below. Hebrews 10:14 ("For by one
+offering he hath perfected for ever them that are sanctified") had the heaviest single-verse overlap
+yet in this pass — 4 flagged lines — differentiated by "one offering" vs. "for ever" vs. the tense of
+"perfected/sanctified" vs. the grammatical subject "he". Philippians 3:20-21 (3 lines) and 2 Corinthians
+12:10, Psalm 107:9, Psalm 121:3-4, Psalm 54:4, Isaiah 25:4, Matthew 9:36, Hebrews 6:10, Isaiah 42:3,
+and Romans 8:17 (2 lines apiece) got the same clause-by-clause treatment.
+
+Ran `tools/law_scan.py`'s `classify()` (the correct entry point, per the Waiting-mood correction) against
+all 65 new lines before applying, not after: 0 flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 508 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting, Tired done; 9 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Confused mood
 
 **Confused (77 flagged instances) fixed.** Same method as the passes below. Heaviest overlap so far on
