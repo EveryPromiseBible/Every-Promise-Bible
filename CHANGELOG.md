@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Healing mood
+
+**Healing (60 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: 1 John
+2:12 and Revelation 1:18 (3 flagged lines each), Job 19:25, Matthew 4:16, Ezekiel 36:9, Hebrews 2:17,
+John 14:19, Nehemiah 9:31, John 6:40, Matthew 12:15/8:16, and Psalm 30:2/Jeremiah 30:17 (2 apiece) —
+each keyed to a distinct clause, verb, or named detail of its own verse.
+
+Ran `tools/law_scan.py`'s `classify()` against all 60 new lines before applying: 0 flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 620 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting, Tired, Overwhelmed, Healing done; 7 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Overwhelmed mood
 
 **Overwhelmed (52 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Psalm
