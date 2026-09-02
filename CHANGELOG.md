@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Joyful mood
+
+**Joyful (67 flagged instances) fixed.** Same method as the passes below. This batch turned up two
+genuinely broken entries along the way, not just generic drift: Revelation 19:9 and Luke 14:15 both
+had a meditation that was just Revelation 19:9's own verse text ("Blessed are they which are called
+unto the marriage supper of the Lamb") copy-pasted as if it were commentary — on Revelation 19:9
+itself, that meant a meditation that just restated the verse it was supposedly illuminating. Both
+rewritten with actual content instead of an echo.
+
+Also re-ran `tools/law_scan.py` against just this batch's 67 new lines (not the whole corpus) as a
+spot-check that verse-specificity isn't quietly reintroducing law-shaped language: zero flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 295 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful done; 12 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Tempted mood
 
 **Tempted (82 promises): 82 flagged instances fixed.** Same method as the passes below. Largest single
