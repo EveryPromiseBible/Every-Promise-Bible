@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Provision mood
+
+**Provision (33 promises): 36 flagged instances fixed.** Same method as the Angry/Stressed pass below.
+Example, Psalm 115:12 ("The Lord hath been mindful of us: he will bless us; he will bless the house
+of Israel; he will bless the house of Aaron"), which had two flagged lines: "He has not forgotten your
+name." and "You are not overlooked by God." (both reused elsewhere on unrelated verses) → "Three times
+in one verse — the LORD hath been mindful, and then blesses, blesses, blesses again." and "Israel and
+Aaron both named — the priestly house included right alongside the whole nation."
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 146 of 843 flagged instances fixed (Angry, Stressed, Provision
+done; 14 of 17 moods remain).
+
 ## 2026-09-01 — Promise meditation fidelity pass begins: Angry + Stressed moods
 
 New pass, distinct from the 2026-07-20 grace-lens audit (which fixed law/self-effort *tone*). This one
