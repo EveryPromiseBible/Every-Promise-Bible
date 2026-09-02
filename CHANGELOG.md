@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Overwhelmed mood
+
+**Overwhelmed (52 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Psalm
+3:3 and Numbers 10:35 (3 flagged lines each), Joshua 1:5 and Revelation 2:8 (3 each), Psalm 34:4, Psalm
+116:1-2, Lamentations 3:31-32, Deuteronomy 20:4, Isaiah 41:17, Mark 6:50, Psalm 46:2/142:4-5, and Psalm
+35:10 (2 apiece) — each differentiated by clause, word order, or which specific verb/noun the verse uses.
+
+Ran `tools/law_scan.py`'s `classify()` against all 52 new lines before applying: 0 flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 560 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting, Tired, Overwhelmed done; 8 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Tired mood
 
 **Tired (65 flagged instances) fixed.** Same method as the passes below. Hebrews 10:14 ("For by one
