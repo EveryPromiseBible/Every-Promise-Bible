@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Anxious mood
+
+**Anxious (64 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Psalm
+118:6 and Haggai 2:5 (3 flagged lines each), Isaiah 54:4, Psalm 121:7-8/91:5, Genesis 26:24, Zechariah
+2:8, Psalm 17:8, 1 John 2:25, Leviticus 26:6, Isaiah 41:14, John 18:9, Proverbs 2:8, Psalm 139:5, Romans
+8:32, 2 Timothy 4:17, and Joel 2:27/Romans 10:11 (2 apiece) — each keyed to a distinct clause or word.
+
+Ran `tools/law_scan.py`'s `classify()` against all 64 new lines before applying: 0 flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 684 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting, Tired, Overwhelmed, Healing, Anxious done; 6 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Healing mood
 
 **Healing (60 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: 1 John
