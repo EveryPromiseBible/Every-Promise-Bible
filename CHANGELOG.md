@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Confused mood
+
+**Confused (77 flagged instances) fixed.** Same method as the passes below. Heaviest overlap so far on
+verses that recur across multiple flagged generic lines: Hebrews 13:8 ("Jesus Christ the same
+yesterday, and to day, and for ever") had four flagged lines ("You can count on Him tomorrow.", "He is
+the same today as yesterday.", "His heart toward you is steady.", "What He was, He still is."), rewritten
+to each key off a different piece of the verse's own three-tense structure rather than repeating "He
+doesn't change" four ways. 1 Corinthians 1:30 (three flagged lines) and Colossians 2:10 (two) got the
+same treatment against their "wisdom, righteousness, sanctification, redemption" list.
+
+Also re-ran `tools/law_scan.py` against just this batch's 77 new lines (not the whole corpus): zero
+flagged as law-shaped.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 372 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused done; 11 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Joyful mood
 
 **Joyful (67 flagged instances) fixed.** Same method as the passes below. This batch turned up two
