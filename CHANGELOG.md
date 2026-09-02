@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-09-01 — "The Thirteenth Disciple" de-repetition pass, all 31 days
+
+Went through the whole 31-day devotional day by day fixing the repetition the user flagged: the same
+handful of beats (stars, sleeping outside, someone silently handing the 13th disciple something,
+"He thought: X. He thought: Y." as a closing tag, the same clipped "Yes."/"No." exchange) were
+recurring so often they read as a formula rather than texture. Fixed 4 literal duplicate-paragraph
+bugs in the source data (Days 10, 12, 13, 17 — a whole paragraph pasted twice), dozens of the
+"He thought about X. He thought about Y. He thought about Z." pile-ups, and several near-verbatim
+repeated closing lines across different days (e.g. Day 17 and Day 19 both originally ended on
+"ordinary and not ordinary at all... always"). Added a mix of grace/friendship beats between Jesus
+and the disciples (and the 13th disciple specifically) at points where He was otherwise only
+observed from a distance — varied the mechanism (touch, a direct question, a wordless gesture,
+reciprocal service) rather than defaulting to one.
+
+Also resolved a structural issue: Day 29 ("Breakfast on the Shore") had drifted past its own scope
+into the Great Commission and the Bethany Ascension, which Day 31 ("I Am With You Always") already
+owns fully — same verses, same closing line. Trimmed Day 29 back to its natural ending (the shore
+walk where Jesus rests a hand on the 13th disciple's shoulder); left Day 31 untouched. Day 30's full
+Emmaus retelling was judged intentional, not a duplicate of Day 28's brief mention of it.
+
+No content was added that isn't grounded in the day's own harmony/scripture references. Verified
+after each day: file parses as valid JSON, no literal duplicate paragraphs anywhere in the book.
+
 ## 2026-08-31 — KJV Expositor's annotations shelved
 
 Moved `data/exp_inline.js` (and its .bak backups) to `_shelved/exp_inline.js`, not deleted — the
