@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Broken mood
+
+**Broken (49 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Matthew
+5:4 (3 flagged lines, the mourning beatitude), Ephesians 2:4-5, Isaiah 53:6, Jeremiah 31:3, Psalm 89:33,
+Matthew 12:50, Matthew 18:11, Matthew 1:21, 1 Corinthians 6:20, Psalm 34:15, and Luke 7:13-14 (2 apiece)
+— each keyed to a distinct clause, verb, or narrative detail of its own verse.
+
+Ran `tools/law_scan.py`'s `classify()` against all 49 new lines before applying: 0 flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 796 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting, Tired, Overwhelmed, Healing, Anxious, Peaceful, Broken done; 4 of
+17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Peaceful mood
 
 **Peaceful (63 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Isaiah
