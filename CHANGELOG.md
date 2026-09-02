@@ -11,11 +11,35 @@ doesn't change" four ways. 1 Corinthians 1:30 (three flagged lines) and Colossia
 same treatment against their "wisdom, righteousness, sanctification, redemption" list.
 
 Also re-ran `tools/law_scan.py` against just this batch's 77 new lines (not the whole corpus): zero
-flagged as law-shaped.
+flagged as law-shaped. *(Correction, same day: that check was silently broken — it called a function
+name that doesn't exist in `law_scan.py` and treated every line as unflagged. Re-run for real against
+the correct `classify()` entry point caught 2 genuine false-positive trips — Romans 10:4 read "the law's
+demand" which matched the OBLIGATION pattern, and Proverbs 2:6 read "not... to unlock" which matched
+LEVER despite the negation. Both reworded to drop the trigger word without changing the point; both now
+correctly classify clean. See the Waiting-mood entry below for the fixed verification method.)*
 
 Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
 carries exactly 15. Running total: 372 of 843 flagged instances fixed (Angry, Stressed, Provision,
 Tempted, Joyful, Confused done; 11 of 17 moods remain).
+
+## 2026-09-02 — Promise meditation fidelity pass: Waiting mood
+
+**Waiting (71 flagged instances) fixed.** Same method as the passes below. Notable overlap clusters:
+Psalm 20:4, Psalm 145:19, and 1 Corinthians 1:9 each had three flagged lines, Psalm 31:24 had three,
+and 1 Kings 8:57 / Psalm 102:27 / Hebrews 1:12 shared the "unchanging" theme across two verses each —
+each rewritten to a distinct clause or word of its own verse rather than restating the same insight.
+
+Also caught and fixed a bug in the verification step itself: the law_scan self-check used in this and
+the prior (Confused) batch was calling `law_scan.scan_text()`, a function that does not exist in
+`tools/law_scan.py` — the real entry point is `classify()`. Because the check was written with a
+`hasattr` guard, the missing function silently produced "0 flagged" every time instead of erroring,
+which is worse than no check at all. Fixed to call `classify()` directly; re-running it against this
+batch's 71 new lines and the Confused batch's 77 found 2 genuine false-positive trips in Confused
+(documented above) and 0 in Waiting. All future batches will call `classify()`.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 443 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting done; 10 of 17 moods remain).
 
 ## 2026-09-02 — Promise meditation fidelity pass: Joyful mood
 
