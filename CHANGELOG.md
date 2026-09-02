@@ -1,5 +1,32 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: complete (Hopeful, Grateful, Encouraged, and project close)
+
+**Final 24 flagged instances fixed — 843 of 843, project complete.** The last 3 moods (Hopeful, Grateful,
+Encouraged) had almost total overlap with each other — nearly every remaining flagged line carried all
+three mood tags — so this batch closed all three at once instead of running them separately. Psalm 66:20
+had 3 flagged lines ("nor his mercy from me" / "he did not turn away" / "Christ opened the way to Him"),
+each keyed to a different clause or framing of the same verse.
+
+Ran `tools/law_scan.py`'s `classify()` against all 24 new lines before applying: 0 flagged.
+
+**Project summary**: started 2026-09-01 after the user said too many meditations had "drifted so far
+toward an uplifting grace message that they no longer connect to what the specific verse actually says."
+Detection method: exact-duplicate meditation text filtered by Jaccard similarity < 0.15 on verse
+vocabulary, isolating genuine cross-topic drift from legitimate reuse of shared-formula verses (471 raw
+duplicate groups → 393 genuine-drift groups / 843 flagged instances, ~2.5% of the corpus). Worked
+mood-by-mood per the user's direction, smallest to largest, across all 17 moods. Every one of the 843
+flagged lines was replaced with a rewrite naming something specific to its own verse — a word, a number,
+a narrative beat, a grammatical detail, a cross-reference — never a reworded restatement of the same
+generic sentiment. Two distinct defect classes were caught and documented along the way, beyond plain
+drift: a verse's own text pasted back as its own "commentary" (Revelation 19:9, Luke 14:15), and a
+broken self-verification step (the law_scan check silently no-op'd for two batches before being caught
+and fixed in the Waiting-mood entry above).
+
+Final verification: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged throughout,
+every promise still carries exactly 15 meditations, and the master flagged-instance list confirms 0 of
+843 remaining unfixed.
+
 ## 2026-09-02 — Promise meditation fidelity pass: Lonely mood
 
 **Lonely (23 flagged instances) fixed.** Same method as the passes below. Isaiah 54:5 had 3 flagged
