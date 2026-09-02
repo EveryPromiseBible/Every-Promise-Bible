@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 2026-09-01 — The Thirteenth Disciple restored to the live library
+
+Re-added the "devotionals" card to the Library (dv.01, `#txcard-dev`), the search index entries, the
+onboarding tour step, the random-landing pool entry, and the About page stats line — everything that
+commit 14e52b9 ("Pull the devotional from the live library... while it gets reworked further")
+deliberately removed back on 2026-08-19. The rework it was waiting on is the de-repetition pass
+below. `switchTranslation()`'s handling of `dev` had already evolved safely (guarded with `?.`) in
+the time since, so that one function needed no change. Verified locally: the card appears, the intro
+page and individual days render with no console errors, and a search for text unique to an edited day
+(Day 8's "ruffled his hair" line) returns the correct match.
+
 ## 2026-09-01 — "The Thirteenth Disciple" de-repetition pass, all 31 days
 
 Went through the whole 31-day devotional day by day fixing the repetition the user flagged: the same

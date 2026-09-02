@@ -1559,10 +1559,11 @@
             <div class="lib-card" id="txcard-kjv" onclick="switchTranslation('kjv')"><div class="lswatch" style="background:#1a6fa8;"></div><div class="lcode">tx.03</div><div class="lname">King James Version</div></div>
           </div>
         </div>
-        <!-- "devotionals" group (The Thirteenth Disciple, dv.01) pulled from the
-             live library while it's being reworked further -- data/devotional.js,
-             loadDev()/buildDevDay()/isDevTx() etc. are all untouched, so restoring
-             is just re-adding this card block. -->
+        <div class="lib-group"><div class="glabel">devotionals</div>
+          <div class="lib-grid lib-grid-tx">
+            <div class="lib-card" id="txcard-dev" onclick="switchTranslation('dev')"><div class="lswatch" style="background:#7a5c2e;"></div><div class="lcode">dv.01</div><div class="lname">The Thirteenth Disciple</div></div>
+          </div>
+        </div>
         <div class="lib-group" id="libBooksGroup"><div class="glabel">your books</div>
           <div class="lib-grid lib-grid-tx" id="libBooks"></div>
           <input type="file" id="bookFile" accept=".epub,application/epub+zip"
@@ -4574,9 +4575,6 @@ function switchTranslation(tx, forceRef, forceVerse) {
     if (v) lastVerse = v;
   }
   currentTx = tx;
-  /* 'dev' (txcard-dev) is pulled from the live library for now, so its card
-     does not exist in the DOM -- guarded with ?. rather than assuming it's
-     there, same as every other reference to the devotional left in place. */
   ['mak', 'illum', 'kjv', 'dev'].forEach(k =>
     document.getElementById('txcard-' + k)?.classList.toggle('active', tx === k));
   /* The Illumination carries no Greek alignment, so the study switch has
@@ -4686,7 +4684,8 @@ function toggleSearchSource(tx) {
 const SEARCH_SOURCES = [
   { tx: 'mak',   label: 'Mak Translation' },
   { tx: 'illum', label: 'Illumination Translation' },
-  { tx: 'kjv',   label: 'King James Version' }
+  { tx: 'kjv',   label: 'King James Version' },
+  { tx: 'dev',   label: 'The Thirteenth Disciple' }
 ];
 
 /* A synopsis field flattened to the text a reader would search for. The label
@@ -4741,9 +4740,17 @@ function buildSearchIndex() {
     });
   });
 
-  /* The devotional (dv.01) is pulled from the live library for now -- see the
-     note by the old "devotionals" library group -- so it's left out of the
-     search index too rather than indexing a source readers can't reach. */
+  /* The devotional has no verse numbers, so a paragraph is the unit and the day
+     is the grouping. Both blocks are indexed: the opening carries as much of the
+     day as the body does. */
+  DEVOTIONAL.days.forEach((d, k) => {
+    const label = 'Day ' + d.n + ' · ' + d.title;
+    d.opening.forEach(p =>
+      rows.push({ src: 'dev', book: label, ref: label + ' · opening', text: p,
+                  go: k + 1, para: p }));
+    d.body.forEach(b =>
+      rows.push({ src: 'dev', book: label, ref: label, text: b.t, go: k + 1, para: b.t }));
+  });
 
   rows.forEach(r => { r.lc = r.text.toLowerCase(); });
   SEARCH_ALL = rows;
@@ -5576,6 +5583,13 @@ const TOUR = [
     body: 'The Authorized Version of 1769, unedited. It is here so the older wording is always one tap away — and so the Illumination can be read against the text it was made from.',
     go: () => { switchTranslation('kjv'); } },
 
+  { title: 'dv.01 — The Thirteenth Disciple',
+    tint: '#7a5c2e',
+    spot: '#txcard-dev',
+    body: '<p>Thirty-one days from the Jordan to the Ascension, walked beside a thirteenth disciple who is never named. He is not a doctrine. He is a witness — and he is your place on the road.</p>' +
+          '<p>Every miracle, teaching and resurrection appearance in it is drawn from Scripture, with the four Gospels harmonised so that no account contradicts another, the references at the head of each day, and Christ&rsquo;s words kept as close to the record as they can be.</p>',
+    go: () => { switchTranslation('dev'); } },
+
   { title: 'Your Own Books',
     tint: '#1a8c6f',
     spot: '#libBooksGroup',
@@ -6159,6 +6173,7 @@ const RANDOM_POOL = [
   { tx: 'illum', weight: 3 },
   { tx: 'mak',   weight: 2 },
   { tx: 'hymn',  weight: 2 },
+  { tx: 'dev',   weight: 1 },
   /* A quote is the shortest thing here -- a few seconds against a chapter -- so
      it is drawn least often. Landing on one repeatedly would make the app feel
      like a quote app that also has a Bible in it. */
@@ -7423,10 +7438,11 @@ function optAboutHtml() {
       ['Promises', optCount(() => PROMISES.length) + ' verses, fifteen meditations written on each'],
       ['Hymnal', optCount(() => hyAll().length) + ' hymns, whole texts rather than the two or ' +
                       'three verses that usually survive'],
+      ['Devotional', optCount(() => DEVOTIONAL.days.length) + ' days, from the Jordan to the Ascension'],
       ['Your own books', 'Add any EPUB and mark it exactly the way you mark the Bible']
     ]) +
 
-    '<p>One search covers all three translations and the book synopses at ' +
+    '<p>One search covers all three translations, the book synopses and the devotional at ' +
     'once, and every result says which source it came from.</p>' +
 
     '<h3>Everything here is open source</h3>' +
