@@ -1,5 +1,38 @@
 # CHANGELOG
 
+## 2026-09-01 — Promise meditation fidelity pass begins: Angry + Stressed moods
+
+New pass, distinct from the 2026-07-20 grace-lens audit (which fixed law/self-effort *tone*). This one
+fixes meditations that drifted so far toward generic uplift that they stopped engaging their own
+verse's specific content — Chris's description after reading a large stretch of the corpus: lines
+like "Belonging came before behaving" reused verbatim across Psalm 100:3 (creation), Deuteronomy 32:9
+(covenant), Song of Solomon 2:16 (bridal imagery) and James 1:18 (new birth), true in a broad sense but
+answering none of them specifically.
+
+**Detection method**: exact-duplicate meditation text alone is not the signal — most duplicates in the
+corpus are *correct*, because clusters of KJV verses literally share the same formula ("gracious and
+merciful, slow to anger" appears near-verbatim 6+ times). The real signal is a duplicate whose covered
+verses share almost no vocabulary with each other (Jaccard similarity on verse content-words < 0.15).
+That filter took 471 raw duplicate groups down to 393 genuine-drift groups / 843 flagged instances
+corpus-wide (~2.5% of the corpus's 33,390 meditations) — similar scale to the 2026-07-20 pass (1.15%).
+
+**Working by mood** (Chris's call, since every one of the 2,226 promises carries at least one of the
+17 mood tags — no gaps, so mood-by-mood covers the whole corpus), smallest first, deduping promises
+that carry multiple moods so nothing gets touched twice.
+
+- **Angry (154 promises): 42 flagged instances fixed.**
+- **Stressed (49 promises): 68 flagged instances fixed** (5 of its 73 raw flags had already been
+  fixed via Angry's overlap).
+
+Each replacement names something specific to its own verse — a Hebrew/Greek word, a number, a
+narrative detail, a contrast — matching the style the healthy ~97% of the corpus already uses.
+Example, Numbers 14:18 ("The LORD is longsuffering, and of great mercy, forgiving iniquity and
+transgression"): "Mercy is great, not measured." (reused on 4 unrelated verses) →
+"Iniquity and transgression — two different words for two different kinds of failure, both covered."
+
+Verified after each mood: all 4 data blobs parse, promise count (2,226) and total meditation count
+(33,390) unchanged, every promise still carries exactly 15 meditations. 15 of 17 moods remain.
+
 ## 2026-09-01 — The Thirteenth Disciple restored to the live library
 
 Re-added the "devotionals" card to the Library (dv.01, `#txcard-dev`), the search index entries, the
