@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## 2026-09-02 — Promise meditation fidelity pass: Lonely mood
+
+**Lonely (23 flagged instances) fixed.** Same method as the passes below. Isaiah 54:5 had 3 flagged
+lines (Maker/husband/Redeemer, the Lord of hosts, and covenant-by-name), Luke 1:78-79, John 10:3, Psalm
+34:22, and Hebrews 2:11 had 2 apiece — each keyed to a distinct clause or word.
+
+Ran `tools/law_scan.py`'s `classify()` against all 23 new lines before applying: 0 flagged.
+
+Verified: all 4 data blobs parse, 2,226 promises / 33,390 meditations unchanged, every promise still
+carries exactly 15. Running total: 819 of 843 flagged instances fixed (Angry, Stressed, Provision,
+Tempted, Joyful, Confused, Waiting, Tired, Overwhelmed, Healing, Anxious, Peaceful, Broken, Lonely done;
+3 of 17 moods remain).
+
 ## 2026-09-02 — Promise meditation fidelity pass: Broken mood
 
 **Broken (49 flagged instances) fixed.** Same method as the passes below. Heaviest overlaps: Matthew
