@@ -1,5 +1,40 @@
 # CHANGELOG
 
+## 2026-09-06 — The KJV is now navigated by the book's own Synopsis outline
+
+Each book's Illumination intro page already carried a real analytical outline under its "SYNOPSIS"
+field — Roman numeral, then letter, then number, each line ending in its own verse range (e.g. Genesis:
+*"I. Creation and the first world, 1–11"* → *"A. The making of the universe, 1:1–2:3"* → *"1. Light, sky,
+sea and dry land, 1:1–13"*). It sat there as static reference text. It now drives real navigation in the
+KJV reading view: the finest breakdown available at each point in the outline becomes a clickable,
+collapsed-by-default section — tap the heading, the verses for that part drop down — grouped under its
+Roman-numeral ancestor as a plain label above.
+
+**KJV only, not the Illumination.** KJV stores one verse per array entry and can be freely regrouped to
+any boundary; the Illumination already fuses several verses into one prose paragraph per section, and
+those existing boundaries can't be resliced to a different (outline-derived) one without rewriting that
+prose — a different job than this one.
+
+**Data validated before building anything on it**: parsed the trailing verse reference off all 4,451
+outline lines across all 66 books. First pass: 121 failures. Root-caused (not just patched around) two
+real gaps — a comma immediately followed by a closing quote before the number (`"I am Joseph," 45:1–28`),
+and phrasing like `chapters 1–8` instead of a bare number — bringing it to 15 failures (99.66%), all of
+them either Psalms' own non-sequential entries or a handful of multi-range citations that safely fall back
+to no navigation on that one line rather than a wrong one.
+
+**Psalms is excluded entirely.** Its own SYNOPSIS field says plainly it is "a categorised index... the
+entries do not constitute a developing argument" — a reference list, not a walkthrough, so it keeps its
+existing behavior rather than being forced into a sequence that was never there.
+
+Verified live, not just read: all 1,189 KJV chapters render with zero errors. 1,032 (87%) get full
+synopsis-driven navigation with every verse accounted for; 150 (Psalms, by design) fall back unchanged;
+7 chapters have a handful of verses outside outline coverage and render those plainly alongside the
+folded parts, rather than dropping them.
+
+New: `parseSynRef`, `synopsisLeaves`, `buildKjvSynopsisChapter`, `renderIllumVerseP` (the last one factors
+the single-verse `<p>` out of `buildIllumChapter` so both the new folded rendering and the plain fallback
+build an identical element — same highlight class, same Expositor's lookup, same click handlers).
+
 ## 2026-09-06 — Grace Commentary moved from the Illumination's bulb into the Mak word popup
 
 The 💡 bulb and inline note panel are gone from the Illumination reading view — it now renders as plain

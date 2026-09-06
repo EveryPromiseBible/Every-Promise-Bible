@@ -408,6 +408,24 @@
   .illum-head-row{display:flex;align-items:baseline;justify-content:space-between;gap:14px;margin:30px 0 10px;max-width:34em;}
   .illum-head-row:first-of-type{margin-top:6px;}
   .illum-head-row .illum-head{margin:0;}
+  /* KJV-only: the book's own Synopsis outline, used as real navigation. The
+     Roman-numeral level is a plain label (it can span several chapters, so
+     it is never itself a click target here) grouping the letter/number-level
+     entries beneath it, each of which is a real <details> a reader opens to
+     read that part -- see buildKjvSynopsisChapter. */
+  .syn-group-label{font-family:var(--mono);font-size:0.66em;font-weight:700;
+    color:var(--gray);text-transform:uppercase;letter-spacing:0.08em;
+    margin:34px 0 4px;max-width:34em;}
+  .syn-group-label:first-child{margin-top:6px;}
+  details.syn-fold{max-width:34em;border-top:1px solid var(--line);padding-top:10px;margin-top:10px;}
+  details.syn-fold:first-of-type{border-top:none;}
+  details.syn-fold > summary.syn-fold-h{list-style:none;cursor:pointer;
+    font-weight:600;color:var(--ink);font-size:0.98em;padding-bottom:6px;
+    display:flex;align-items:baseline;gap:8px;}
+  details.syn-fold > summary.syn-fold-h::-webkit-details-marker{display:none;}
+  details.syn-fold > summary.syn-fold-h::before{content:'\203A';display:inline-block;
+    color:var(--gray);transition:transform 0.15s;flex-shrink:0;}
+  details.syn-fold[open] > summary.syn-fold-h::before{transform:rotate(90deg);}
   .illum-v{margin:0 0 15px;line-height:1.75;max-width:34em;color:var(--ink);}
   /* Verse-level highlighting. The Illumination has no word units and no Greek to
      key on, so a highlight is anchored to the verse REFERENCE -- which survives
@@ -4045,11 +4063,167 @@ let ilChapter = null;
    reference did not move once. */
 function ilVerseKey(tx, chRef, vRef) { return tx + '|' + chRef + '|' + vRef; }
 
+/* ---- KJV chapter navigation, built from the book's own Synopsis outline --
+   ILLUMINATION_INTROS[book] carries a real analytical outline (Roman numeral
+   -> letter -> number), each line ending in its own verse range -- e.g.
+   Genesis: "I. Creation and the first world, 1-11" -> "A. The making of the
+   universe, 1:1-2:3" -> "1. Light, sky, sea and dry land, 1:1-13". KJV only,
+   not the Illumination: KJV stores one verse per array entry and can be
+   regrouped to any boundary; the Illumination already fuses several verses
+   into one prose paragraph per section, so its existing boundaries can't be
+   resliced to a different (outline-derived) one without rewriting that
+   prose, which is a different job than this. */
+
+/* Psalms' own SYNOPSIS says plainly it is "a categorised index... the
+   entries do not constitute a developing argument" -- a reference list, not
+   a sequential walkthrough, so it is excluded rather than forced into a
+   reading order that isn't there. */
+const SYN_EXCLUDE_BOOKS = new Set(['Psalms']);
+
+/* Matches the trailing verse reference on an outline line: a chapter, an
+   optional :verse, an optional closing quote mark before it (many lines end
+   a quoted phrase right before the reference, e.g. `"I am Joseph," 45:1-28`),
+   an optional "chapters" word (2 Kings phrases some this way), and an
+   optional range to a second chapter[:verse]. Verified against all 4,451
+   outline lines across all 66 books: 4,436 parse; the 15 that don't are
+   Psalms' non-sequential entries (already excluded above) plus a handful of
+   multi-range citations (e.g. "74:1-23; 79:1-13") that fall back to no
+   navigation for that one line rather than a wrong one. */
+const SYN_REF_RE = /,\s*["”’']?\s*(?:chapters?\s+)?(\d+)[a-z]?(?::(\d+)[a-z]?)?(?:\s*[–—-]\s*(\d+)[a-z]?(?::(\d+)[a-z]?)?)?\s*\.?\s*$/;
+
+function parseSynRef(text) {
+  const m = SYN_REF_RE.exec(text);
+  if (!m) return null;
+  const c1 = +m[1];
+  const hasV1 = m[2] !== undefined;
+  const v1 = hasV1 ? +m[2] : 1;
+  let c2, v2;
+  if (m[3] !== undefined) {
+    if (m[4] !== undefined) { c2 = +m[3]; v2 = +m[4]; }
+    else if (hasV1) { c2 = c1; v2 = +m[3]; }
+    else { c2 = +m[3]; v2 = Infinity; }
+  } else {
+    c2 = c1;
+    v2 = hasV1 ? v1 : Infinity;
+  }
+  return { c1: c1, v1: v1, c2: c2, v2: v2 };
+}
+
+/* Flattens the outline to its LEAVES -- the finest breakdown given at each
+   point -- each carrying its own ancestor chain, so the coarser levels above
+   it (the Roman numeral, and any letter level above a number level) are
+   still known for grouping even though only the leaf itself becomes a real
+   section. An item is a leaf when nothing deeper immediately follows it. */
+let _synLeavesCache = {};
+function synopsisLeaves(book) {
+  if (SYN_EXCLUDE_BOOKS.has(book)) return null;
+  if (book in _synLeavesCache) return _synLeavesCache[book];
+  const fields = (typeof ILLUMINATION_INTROS !== 'undefined') ? ILLUMINATION_INTROS[book] : null;
+  const syn = fields && fields.find(f => f.label === 'SYNOPSIS' && f.kind === 'outline');
+  if (!syn) { _synLeavesCache[book] = null; return null; }
+  const items = [];
+  syn.items.forEach(it => {
+    const r = parseSynRef(it.text);
+    if (r) items.push({ lvl: it.lvl || 0, text: it.text, c1: r.c1, v1: r.v1, c2: r.c2, v2: r.v2 });
+  });
+  const stack = [];
+  const leaves = [];
+  items.forEach((it, i) => {
+    stack[it.lvl] = it;
+    stack.length = it.lvl + 1;
+    const next = items[i + 1];
+    if (!next || next.lvl <= it.lvl) leaves.push({ lvl: it.lvl, text: it.text,
+      c1: it.c1, v1: it.v1, c2: it.c2, v2: it.v2, ancestors: stack.slice(0, it.lvl) });
+  });
+  _synLeavesCache[book] = leaves.length ? leaves : null;
+  return _synLeavesCache[book];
+}
+
+/* One verse <p>, factored out of buildIllumChapter so the synopsis-driven
+   grouping below and the plain fallback render an identical verse element --
+   same highlight class, same Expositor's lookup, same click handlers. si/vi
+   still index the real (single, for KJV) section and its real verse array,
+   so highlighting and everything keyed off them keeps working exactly as
+   before; only the visual grouping around them is new. */
+function renderIllumVerseP(v, si, vi, ch, book) {
+  const key = book + ' ' + v[0];
+  const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
+  const expRaw = (currentTx === 'kjv' && typeof EXP_INLINE !== 'undefined') ? EXP_INLINE[key] : null;
+  return '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
+       ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
+       ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
+       '<span class="illum-ref" onclick="illumRefClick(this,\'' + ilEsc(ch.ref) + '\',event)">' +
+         ilEsc(v[0]) + '</span> ' +
+       (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1])) +
+       '</p>';
+}
+
+/* Returns the chapter's HTML built from the outline, or null to signal "no
+   usable coverage here, render the chapter the plain way" -- a book with no
+   parseable SYNOPSIS, or a chapter none of its leaves reach, changes nothing
+   about how that chapter has always read. Verses a leaf doesn't reach (a gap
+   in coverage, or before the first / after the last leaf touching this
+   chapter) render plainly and ungrouped, same as today, rather than being
+   dropped. */
+function buildKjvSynopsisChapter(ch, book) {
+  const leaves = synopsisLeaves(book);
+  const verses = (ch.sections[0] && ch.sections[0].verses) || [];
+  if (!leaves || !verses.length) return null;
+  const chNum = +ch.ref.slice(book.length).trim();
+  if (!chNum) return null;
+  const relevant = leaves.filter(lf => chNum >= lf.c1 && chNum <= lf.c2);
+  if (!relevant.length) return null;
+
+  const assign = new Array(verses.length).fill(-1);
+  verses.forEach((v, vi) => {
+    const vNum = +String(v[0]).split(':').pop();
+    for (let li = 0; li < relevant.length; li++) {
+      const lf = relevant[li];
+      const afterStart = (chNum > lf.c1) || (chNum === lf.c1 && vNum >= lf.v1);
+      const beforeEnd = (chNum < lf.c2) || (chNum === lf.c2 && vNum <= lf.v2);
+      if (afterStart && beforeEnd) { assign[vi] = li; break; }
+    }
+  });
+
+  let h = '', curTopText = null, vi = 0;
+  while (vi < verses.length) {
+    const li = assign[vi];
+    const start = vi;
+    while (vi < verses.length && assign[vi] === li) vi++;
+    const run = verses.slice(start, vi);
+    if (li === -1) {
+      run.forEach((v, k) => { h += renderIllumVerseP(v, 0, start + k, ch, book); });
+    } else {
+      const lf = relevant[li];
+      const topText = lf.ancestors.length ? lf.ancestors[0].text : lf.text;
+      if (topText !== curTopText) {
+        h += '<div class="syn-group-label">' + ilEsc(topText) + '</div>';
+        curTopText = topText;
+      }
+      h += '<details class="syn-fold"><summary class="syn-fold-h">' + ilEsc(lf.text) + '</summary>';
+      run.forEach((v, k) => { h += renderIllumVerseP(v, 0, start + k, ch, book); });
+      h += '</details>';
+    }
+  }
+  return h;
+}
+
 function buildIllumChapter(ch) {
   let h = '';
   ilChapter = ch;
   if (ch.title) h += '<div class="illum-chap-title">' + ilEsc(ch.title) + '</div>';
   const book = bookOf(ch.ref);
+
+  /* KJV only (see buildKjvSynopsisChapter): the book's own Synopsis outline
+     replaces the (always-empty, for KJV) section heading with a real,
+     clickable breakdown of the chapter. Returns null when there is nothing
+     usable to build from -- no outline, or this chapter falls outside every
+     leaf's range -- and the chapter renders exactly as it always has. */
+  if (currentTx === 'kjv') {
+    const synH = buildKjvSynopsisChapter(ch, book);
+    if (synH !== null) return h + synH;
+  }
+
   ch.sections.forEach((s, si) => {
     if (s.heading) {
       const sk = secKey(currentTx, ch.ref, si);
@@ -4065,25 +4239,7 @@ function buildIllumChapter(ch) {
              '</div>' +
            '</div>';
     }
-    s.verses.forEach((v, vi) => {
-      const key = book + ' ' + v[0];
-      const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
-      /* Expositor's annotations only exist over the KJV, keyed identically to
-         the commentary lookup that used to sit just above (Grace Commentary
-         moved into the Mak word popup -- see commentaryVerseLookup). A verse
-         without an entry (not every verse has been annotated) falls back to
-         the plain KJV rendering. EXP_INLINE itself is shelved for now (see
-         the script tags above) -- guarded here so the KJV renders as plain
-         text without it. */
-      const expRaw = (currentTx === 'kjv' && typeof EXP_INLINE !== 'undefined') ? EXP_INLINE[key] : null;
-      h += '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
-           ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
-           ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
-           '<span class="illum-ref" onclick="illumRefClick(this,\'' + ilEsc(ch.ref) + '\',event)">' +
-             ilEsc(v[0]) + '</span> ' +
-           (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1]));
-      h += '</p>';
-    });
+    s.verses.forEach((v, vi) => { h += renderIllumVerseP(v, si, vi, ch, book); });
   });
   return h;
 }
