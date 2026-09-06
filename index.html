@@ -359,7 +359,7 @@
   .lib-group{margin-bottom:32px;}
   .glabel{font-family:var(--mono);font-size:0.68em;color:var(--gray);text-transform:lowercase;margin-bottom:12px;}
   .lib-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
-  /* ---- Illumination synopsis: set as a reference page ----
+  /* ---- Per-book Synopsis (KJV): set as a reference page ----
      Dense multi-column type with the label leading its field inline, the way a
      study-Bible book introduction reads. Fields are kept whole across column
      breaks so a label never sits alone at the foot of a column. */
@@ -3892,14 +3892,19 @@ let ILLUM_NAV = [];
 
 /* The Illumination and the KJV share a data shape, so they share a reader.
    Mak keeps its own path because its sections are Greek-aligned word triples.
-   The KJV carries no introductions -- it is the text unedited, which is the
-   point of having it -- so its navigation has no synopsis entries. */
+   The per-book Synopsis (author, date, purpose, themes, outline) lives on
+   the KJV, not the Illumination: it is reference material about the text,
+   and the KJV is the unedited text a reference page belongs beside. The
+   Illumination carries none of its own -- it has its own whole-translation
+   Introduction instead (buildIllumIntro), and its chapters already lead with
+   a heading per section, so a second layer of book-level reference would be
+   redundant with the paraphrase itself. */
 const CORPUS = {
   illum: { get books(){ return ILLUMINATION_BOOKS; }, get chapters(){ return ILLUMINATION; },
-           get intros(){ return ILLUMINATION_INTROS; },
+           intros: null,
            label: 'The Illumination Translation · 66 books' },
   kjv:   { get books(){ return KJV_BOOKS; }, get chapters(){ return KJV; },
-           intros: null,
+           get intros(){ return ILLUMINATION_INTROS; },
            label: 'The Authorized Version, 1769 · 66 books' },
   /* The KJV text, recast so Jesus narrates His own gospel and His own
      letters in the first person -- see VoiceOfJesus/STATUS.md for the
@@ -3958,11 +3963,12 @@ function populateIllumSelect() {
   buildIllumNav();
   const sel = document.getElementById('chapterSelect');
   /* Above the books and outside any optgroup, so it stays reachable whichever
-     testament is filtered. The KJV has no introduction by design -- it is the
-     text unedited -- so it gets no entry. Neither does the Jesus Bible: it
-     keeps its per-book intros (still driven by corpus().intros below, via
-     hasSyn in navFor) without a separate whole-translation page. */
-  let out = (corpus().intros && currentTx !== 'jesus') ? '<option value="intro">Introduction</option>' : '';
+     testament is filtered. This is the whole-translation Introduction page
+     (buildIllumIntro), which only the Illumination has. The KJV instead gets
+     a per-book Synopsis entry before each book (driven by corpus().intros
+     below, via hasSyn in navFor); the Jesus Bible gets a per-book intro the
+     same way. Neither is a whole-translation page, so neither belongs here. */
+  let out = (currentTx === 'illum') ? '<option value="intro">Introduction</option>' : '';
   let current = null;
   ILLUM_NAV.forEach((d, i) => {
     if (testamentOf(d.book) !== illumTestament) return;
@@ -4003,7 +4009,6 @@ function buildIllumIntro() {
   const sections = ILLUMINATION.reduce((a, c) => a + c.sections.length, 0);
   const blocks   = ILLUMINATION.reduce((a, c) =>
                      a + c.sections.reduce((m, s) => m + s.verses.length, 0), 0);
-  const synopses = Object.keys(ILLUMINATION_INTROS).length;
   const books    = ILLUMINATION_BOOKS.length;
 
   return `
@@ -4023,9 +4028,10 @@ function buildIllumIntro() {
       single thought rather than chopped into numbered fragments &mdash; you read a
       paragraph, not a list.</p>
 
-      <p>Each book opens with a <strong>synopsis of its own</strong>: author, date,
-      purpose, themes, key verses and a full outline. It sits above that book's
-      first chapter in the list, the way this page sits above Genesis.</p>
+      <p>Looking for a book's author, date, purpose, themes and full outline?
+      That reference material sits in the <strong>King James Version</strong>
+      instead, one synopsis above each book's first chapter &mdash; this
+      translation is the paraphrase itself, not the reference page about it.</p>
 
       <div class="intro-table-wrap">
         <table>
@@ -4034,7 +4040,6 @@ function buildIllumIntro() {
             <tr><td>Chapters</td><td>${n(chapters)}</td></tr>
             <tr><td>Sections, each with its own heading</td><td>${n(sections)}</td></tr>
             <tr><td>Verse blocks</td><td>${n(blocks)}</td></tr>
-            <tr><td>Synopses, one per book</td><td>${n(synopses)}</td></tr>
           </tbody>
         </table>
       </div>
@@ -4057,8 +4062,8 @@ function buildIllumSynopsis(book) {
   const fields = (corpus().intros || {})[book] || [];
   /* The Jesus Bible's per-book intro is one short paragraph in His own voice
      (grounded in this book's existing AUTHOR/PURPOSE/THEMES fields, not a
-     paraphrase of them), not the Illumination's dense reference-page fields
-     array -- so it renders as plain running text rather than the labelled
+     paraphrase of them), not the KJV's dense reference-page fields array --
+     so it renders as plain running text rather than the labelled
      multi-column layout below. */
   if (typeof fields === 'string') {
     return '<div class="il-syn"><div class="il-bookhead">' + ilEsc(book) + '</div>' +
@@ -4342,8 +4347,10 @@ function renderIllumNav(i) {
   const nav = document.getElementById('chapterNav');
   if (!nav) return;
   /* 'intro' sits before the first book and has nothing before it, matching how
-     renderChapterNav already treats the Mak Introduction. */
-  const hasIntro = !!corpus().intros;
+     renderChapterNav already treats the Mak Introduction. Whole-translation
+     Introduction, not the per-book Synopsis/intro entries in nav -- only the
+     Illumination has one of those. */
+  const hasIntro = currentTx === 'illum';
   const prev = i === 'intro' ? null : (i > 0 ? i - 1 : (hasIntro ? 'intro' : null));
   const next = i === 'intro' ? 0 : (i + 1 < ILLUM_NAV.length ? i + 1 : null);
   const label = j => j === 'intro' ? 'Introduction' : illumLabel(ILLUM_NAV[j]);
@@ -4531,7 +4538,7 @@ function navPickerBooks() {
     return { hasIntro: true, books };
   }
   const nav = navFor(currentTx);
-  const hasSyn = !!corpus().intros;
+  const synLabel = currentTx === 'jesus' ? 'Introduction' : 'Synopsis';
   const map = {}, books = [];
   nav.forEach((d, i) => {
     if (testamentOf(d.book) !== illumTestament) return;
@@ -4540,13 +4547,15 @@ function navPickerBooks() {
       books.push(map[d.book]);
     }
     if (d.type === 'syn') {
-      map[d.book].entries.push({ value: String(i), label: 'Synopsis', special: true });
+      map[d.book].entries.push({ value: String(i), label: synLabel, special: true });
     } else {
       const num = map[d.book].entries.filter(e => !e.special).length + 1;
       map[d.book].entries.push({ value: String(i), label: String(num) });
     }
   });
-  return { hasIntro: hasSyn, books };
+  /* hasIntro here means the whole-translation Introduction page, distinct
+     from the per-book entries pushed above -- only the Illumination has one. */
+  return { hasIntro: currentTx === 'illum', books };
 }
 
 let navPickerData = null;
@@ -4913,10 +4922,10 @@ function buildSearchIndex() {
     });
   });
 
-  /* The two verse translations. The Illumination also carries a synopsis for
-     every book, which is real text a reader may well be looking for -- the
-     themes, the outline, the key words -- so it is indexed alongside the
-     chapters and lands on the synopsis page. */
+  /* The two verse translations. The KJV also carries a synopsis for every
+     book, which is real text a reader may well be looking for -- the themes,
+     the outline, the key words -- so it is indexed alongside the chapters
+     and lands on the synopsis page. */
   /* Walked in NAVIGATION order, so each book's synopsis is followed by that
      book's chapters. Indexing all 66 synopses first and all the chapters after
      would put a book under two separate headings, and -- worse -- a common word
@@ -5762,7 +5771,7 @@ const TOUR = [
   { title: 'tx.02 — The Illumination',
     tint: 'var(--yellow)',
     spot: '#txcard-illum',
-    body: 'The whole Bible, all 66 books, retold thought by thought. Every chapter has a title, every section a heading, and each book opens with a synopsis of its own — so you can follow along with the writer every time he changes his train of thought, and gain a greater understanding of what he&rsquo;s saying.',
+    body: 'The whole Bible, all 66 books, retold thought by thought. Every chapter has a title, every section a heading, and the verses are grouped into blocks of a single thought — so you can follow along with the writer every time he changes his train of thought, and gain a greater understanding of what he&rsquo;s saying.',
     go: () => { switchTranslation('illum'); loadIllum(navIndexForRef('illum', 'John 15')); } },
 
   { title: 'The Grace Commentary',
@@ -5813,7 +5822,7 @@ const TOUR = [
   { title: 'tx.03 — The King James Version',
     tint: '#1a6fa8',
     spot: '#txcard-kjv',
-    body: 'The Authorized Version of 1769, unedited. It is here so the older wording is always one tap away — and so the Illumination can be read against the text it was made from.',
+    body: 'The Authorized Version of 1769, unedited. It is here so the older wording is always one tap away — and so the Illumination can be read against the text it was made from. Each book also opens with a synopsis of its own: author, date, purpose, themes and a full outline you can tap through to follow the writer&rsquo;s train of thought chapter by chapter.',
     go: () => { switchTranslation('kjv'); } },
 
   { title: 'dv.01 — The Thirteenth Disciple',
@@ -6879,7 +6888,7 @@ function jrShowMain() {
    opened by different functions. Mak takes an index straight into CHAPTERS.
    The Illumination and KJV go through loadIllum, which does NOT take a chapter
    index -- it takes a position in that translation's NAVIGATION list, and the
-   Illumination's nav interleaves a synopsis entry before each book. Psalms 1 is
+   KJV's nav interleaves a synopsis entry before each book. Psalms 1 is
    chapter 478 but nav position 497, so passing the chapter index would quietly
    open the wrong text. The nav is searched for the entry that owns the chapter
    instead of the offset being computed, so added or removed synopses cannot

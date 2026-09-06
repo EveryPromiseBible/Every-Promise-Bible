@@ -1,5 +1,31 @@
 # CHANGELOG
 
+## 2026-09-06 — The per-book Synopsis reference page moved from the Illumination to the KJV
+
+The dense reference page for each book — author, date written, purpose, to whom written, main
+themes, key words, key verses, and the full outline — used to sit above each book's chapter 1 in
+the **Illumination**. It now sits there in the **King James Version** instead, alongside the KJV's
+own outline-fold chapter navigation (added earlier this session), which already reads the same
+`ILLUMINATION_INTROS` data. The Illumination no longer carries a per-book synopsis at all; it keeps
+its own whole-translation Introduction page, unchanged.
+
+This meant separating two things that used to be the same flag: "does this translation have a
+per-book Synopsis/intro entry in its chapter list" (generic, now true for the KJV and the Jesus
+Bible, false for the Illumination) versus "does this translation have its own whole-translation
+Introduction page" (specific to the Illumination's `buildIllumIntro`, never generic). Fixed
+everywhere the two had been conflated under one `corpus().intros` check: the chapter-select
+dropdown's "Introduction" option, the chapter nav's "previous" link back to it, and the mobile
+book-picker's top row and its hardcoded "Synopsis" label (now "Introduction" for the Jesus Bible,
+matching the existing per-book-page convention). Updated the Illumination's own Introduction page
+to stop claiming it has per-book synopses and to point readers at the KJV instead, and updated
+several stale code comments and one guided-tour step that described the old arrangement.
+
+Verified live: all 1,255 KJV destinations (including all 66 Synopsis pages), all 1,189 Illumination
+chapters plus its Introduction, and all 34 Jesus Bible destinations render with zero errors; the
+mobile book picker shows "Synopsis" rows only under the KJV, no top-level "Introduction" row for the
+KJV or the Jesus Bible, and the Illumination keeps its single top-level "Introduction" row with no
+per-book rows.
+
 ## 2026-09-06 — Fixed: the KJV synopsis navigation was silently dropping a whole outline tier
 
 The KJV outline-navigation feature (added earlier this session) only ever showed the Roman-numeral group
