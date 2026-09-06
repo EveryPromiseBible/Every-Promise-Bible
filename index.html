@@ -412,20 +412,31 @@
   .illum-head-row{display:flex;align-items:baseline;justify-content:space-between;gap:14px;margin:30px 0 10px;max-width:34em;}
   .illum-head-row:first-of-type{margin-top:6px;}
   .illum-head-row .illum-head{margin:0;}
-  /* KJV-only: the book's own Synopsis outline, used as real navigation. The
-     Roman-numeral level is a plain label (it can span several chapters, so
-     it is never itself a click target here) grouping the letter/number-level
-     entries beneath it, each of which is a real <details> a reader opens to
-     read that part -- see buildKjvSynopsisChapter. */
-  .syn-group-label{font-family:var(--mono);font-size:0.66em;font-weight:700;
-    color:var(--gray);text-transform:uppercase;letter-spacing:0.08em;
-    margin:34px 0 4px;max-width:34em;}
+  /* KJV-only: the book's own Synopsis outline, used as real navigation.
+     Every ancestor level prints as its own label -- Roman numeral, letter,
+     and so on -- not just the outermost, and each is a plain heading (never
+     a click target here) grouping the leaf-level entries beneath it, each
+     of which is a real <details> a reader opens to read that part -- see
+     buildKjvSynopsisChapter. Numbering and weight matches the reference
+     synopsis page's own convention (.il-rn/.il-l0/.il-l1 above): the Roman
+     numeral is bold with a rust numeral; every level under it is normal
+     weight with a plain gray numeral, so depth reads by indent and weight
+     rather than by color alone. */
+  .syn-group-label{margin:28px 0 8px;max-width:34em;line-height:1.4;}
   .syn-group-label:first-child{margin-top:6px;}
-  details.syn-fold{max-width:34em;border-top:1px solid var(--line);padding-top:10px;margin-top:10px;}
+  .syn-group-lvl0{font-size:1.1em;font-weight:600;color:var(--ink);}
+  .syn-group-lvl0 .syn-num{color:#9a3d16;}
+  .syn-group-lvl1,.syn-group-lvl2,.syn-group-lvl3{font-size:0.96em;font-weight:400;
+    color:var(--ink);margin-left:1.15em;}
+  .syn-group-lvl2{margin-left:2.3em;}
+  .syn-num{font-weight:600;color:var(--gray);}
+  details.syn-fold{max-width:34em;border-top:1px solid var(--line);padding-top:10px;margin-top:10px;
+    margin-left:1.15em;}
   details.syn-fold:first-of-type{border-top:none;}
   details.syn-fold > summary.syn-fold-h{list-style:none;cursor:pointer;
     font-weight:600;color:var(--ink);font-size:0.98em;padding-bottom:6px;
-    display:flex;align-items:baseline;gap:8px;}
+    display:flex;align-items:baseline;gap:6px;}
+  details.syn-fold > summary.syn-fold-h .syn-num{font-weight:400;color:var(--gray);}
   details.syn-fold > summary.syn-fold-h::-webkit-details-marker{display:none;}
   details.syn-fold > summary.syn-fold-h::before{content:'\203A';display:inline-block;
     color:var(--gray);transition:transform 0.15s;flex-shrink:0;}
@@ -4152,7 +4163,8 @@ function synopsisLeaves(book) {
   const items = [];
   syn.items.forEach(it => {
     const r = parseSynRef(it.text);
-    if (r) items.push({ lvl: it.lvl || 0, text: it.text, c1: r.c1, v1: r.v1, c2: r.c2, v2: r.v2 });
+    if (r) items.push({ lvl: it.lvl || 0, num: it.num, text: it.text,
+      c1: r.c1, v1: r.v1, c2: r.c2, v2: r.v2 });
   });
   const stack = [];
   const leaves = [];
@@ -4160,7 +4172,7 @@ function synopsisLeaves(book) {
     stack[it.lvl] = it;
     stack.length = it.lvl + 1;
     const next = items[i + 1];
-    if (!next || next.lvl <= it.lvl) leaves.push({ lvl: it.lvl, text: it.text,
+    if (!next || next.lvl <= it.lvl) leaves.push({ lvl: it.lvl, num: it.num, text: it.text,
       c1: it.c1, v1: it.v1, c2: it.c2, v2: it.v2, ancestors: stack.slice(0, it.lvl) });
   });
   _synLeavesCache[book] = leaves.length ? leaves : null;
@@ -4213,7 +4225,7 @@ function buildKjvSynopsisChapter(ch, book) {
     }
   });
 
-  let h = '', curTopText = null, vi = 0;
+  let h = '', curAncestors = [], vi = 0;
   while (vi < verses.length) {
     const li = assign[vi];
     const start = vi;
@@ -4223,12 +4235,26 @@ function buildKjvSynopsisChapter(ch, book) {
       run.forEach((v, k) => { h += renderIllumVerseP(v, 0, start + k, ch, book); });
     } else {
       const lf = relevant[li];
-      const topText = lf.ancestors.length ? lf.ancestors[0].text : lf.text;
-      if (topText !== curTopText) {
-        h += '<div class="syn-group-label">' + ilEsc(topText) + '</div>';
-        curTopText = topText;
-      }
-      h += '<details class="syn-fold"><summary class="syn-fold-h">' + ilEsc(lf.text) + '</summary>';
+      /* Print EVERY ancestor level that changed since the last leaf, and
+         every level after it once one has changed -- not just the
+         outermost (Roman numeral). A book that goes three levels deep on
+         every branch (Genesis: numeral, letter, number) was silently
+         losing the whole middle "letter" tier when only ancestors[0] was
+         shown, because that tier never got printed as a leaf OR as a
+         label. A book where some branches stop at the letter level
+         (Romans does this often) naturally shows fewer labels there,
+         because that letter IS the leaf and needs no label of its own. */
+      let changed = false;
+      lf.ancestors.forEach((anc, li2) => {
+        if (!changed && curAncestors[li2] === anc.text) return;
+        changed = true;
+        h += '<div class="syn-group-label syn-group-lvl' + li2 + '">' +
+             '<span class="syn-num">' + ilEsc(anc.num) + '.</span> ' + ilEsc(anc.text) + '</div>';
+        curAncestors[li2] = anc.text;
+      });
+      curAncestors.length = lf.ancestors.length;
+      h += '<details class="syn-fold"><summary class="syn-fold-h">' +
+           '<span class="syn-num">' + ilEsc(lf.num) + '.</span> ' + ilEsc(lf.text) + '</summary>';
       run.forEach((v, k) => { h += renderIllumVerseP(v, 0, start + k, ch, book); });
       h += '</details>';
     }

@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## 2026-09-06 — Fixed: the KJV synopsis navigation was silently dropping a whole outline tier
+
+The KJV outline-navigation feature (added earlier this session) only ever showed the Roman-numeral group
+label (`ancestors[0]`) above each leaf fold. That happened to look complete on Romans, because Romans'
+outline is a *mix* — many of its lettered sections (A, B, C...) have no numbered children and so are
+leaves themselves, meaning nothing was actually missing there. Genesis's outline is uniformly three levels
+deep (every Roman numeral has lettered children, every letter has numbered children), so its entire middle
+"lettered" tier (A. The making of the universe, B. The garden, C. The fall...) was being silently discarded
+— never shown as a label, never shown as a fold, just gone. Caught by the user reviewing Genesis directly
+against the reference synopsis page.
+
+Fixed in `buildKjvSynopsisChapter`: now walks and prints **every** ancestor level that changed since the
+last leaf (not just index 0), each nested and indented under the one above it. Restyled to match the
+existing reference synopsis page's own convention exactly (`.il-rn`/`.il-l0`/`.il-l1`) rather than the
+small mono-label style it had before: the Roman numeral is bold with its rust-colored numeral, every level
+under it is normal weight with a plain gray numeral, and every label/fold heading now carries its actual
+letter or number (I., A., 1.) the way the reference page does, so depth reads by indent, weight, and
+numbering together — not by guessing.
+
+Verified live: Genesis 2 now shows all three levels (I → A → fold "4" → B → folds "1", "2") instead of just
+one; Romans 8 now surfaces its own previously-hidden middle tier (F. Life in the Spirit, G. Present
+suffering and coming glory) with a lettered-only entry (H.) rendering as its own fold since it has no
+further children, exactly as the outline data says it should. Full regression: all 1,189 KJV chapters
+re-render with zero errors.
+
 ## 2026-09-06 — The Jesus Bible: a fourth translation, Mark and Romans so far
 
 A new translation card in the Bible section (tx.04, red swatch for the red-letter tradition), alongside
