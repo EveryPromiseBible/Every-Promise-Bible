@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2026-09-06 — Section headings for the Jesus Bible
+
+Mark and Romans in the Jesus Bible were a single unbroken block of verses per chapter — the
+underlying data shape matches the KJV (one flat verse list), which has no headings of its own. Split
+each chapter into headed sections instead, reusing the Illumination's own section headings and verse
+ranges for these two books rather than writing a second set: the Illumination already breaks Mark and
+Romans into named thought-units with exact verse boundaries (original content from this project), so
+the Jesus Bible's existing verse text was resliced at those same points and given the same heading
+text. Renders through the same `illum-head-row` path the Illumination and, now, the KJV's synopsis
+folds already use — no rendering code changed.
+
+Verified: every one of Mark's 678 and Romans' 433 verses is accounted for across the new sections with
+no gaps or overlaps (267 headings total), and all 34 Jesus Bible nav destinations render with zero
+errors.
+
 ## 2026-09-06 — The per-book Synopsis reference page moved from the Illumination to the KJV
 
 The dense reference page for each book — author, date written, purpose, to whom written, main

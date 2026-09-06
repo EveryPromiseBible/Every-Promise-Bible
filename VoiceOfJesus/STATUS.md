@@ -158,3 +158,10 @@ whole-translation intro page, only the per-book ones.
 Coverage is partial by design (2 of 66 books): the "jump to this verse in
 another translation" popup, search indexing, and reading-plan generation are
 left untouched rather than half-wired against an incomplete corpus.
+
+Each chapter is also broken into headed sections now, reusing the
+Illumination's own section headings and verse-range boundaries for Mark and
+Romans (original content from this project, not Towns' wording) rather than
+authoring a second set — the Jesus Bible's verses are sliced at the same
+points and carry the same heading text, verified to cover every verse in
+both books with no gaps or overlaps.
