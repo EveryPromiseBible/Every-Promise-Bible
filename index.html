@@ -454,39 +454,17 @@
      the glow, which looks like a line struck through the bulb. The off state
      therefore keeps its two drop-shadows at zero radius and transparent rather
      than dropping them from the list. */
-  .cmt-bulb{display:inline-block;margin-left:5px;padding:0;border:none;
-    background:none;font-size:0.9em;line-height:1;cursor:pointer;
-    vertical-align:-1px;
-    filter:grayscale(0) opacity(1) drop-shadow(0 0 5px rgba(240,185,11,0.95))
-    drop-shadow(0 0 11px rgba(240,185,11,0.5));
-    transition:filter 0.25s ease,transform 0.25s ease;}
-  /* Touch reports no hover. Left unguarded, a tap on iOS leaves :hover latched
-     on until the reader taps something else, so a closed bulb keeps the opened
-     bulb's scale. */
-  @media (hover:hover){
-    .cmt-bulb:hover{filter:grayscale(0) opacity(1) drop-shadow(0 0 6px rgba(240,185,11,1))
-      drop-shadow(0 0 14px rgba(240,185,11,0.6));transform:scale(1.12);}}
-  /* .open must follow :hover -- equal specificity, so source order decides
-     which wins while the pointer is over an opened bulb. */
-  .cmt-bulb.open{filter:grayscale(1) opacity(0.55) drop-shadow(0 0 0 rgba(240,185,11,0))
-    drop-shadow(0 0 0 rgba(240,185,11,0));transform:scale(1.12);}
-  @media (hover:hover){
-    .cmt-bulb.open:hover{filter:grayscale(1) opacity(0.85) drop-shadow(0 0 0 rgba(240,185,11,0))
-      drop-shadow(0 0 0 rgba(240,185,11,0));}}
-  @media (prefers-reduced-motion:reduce){
-    .cmt-bulb{transition:none;}
-    .cmt-bulb:hover,.cmt-bulb.open{transform:none;}}
-  .cmt-panel{display:none;margin:14px 0 22px;padding:18px 20px;max-width:34em;
-    background:#fffaf0;border:1px solid #f0dfae;border-left:3px solid #e8a800;
-    border-radius:8px;}
-  .cmt-panel.open{display:block;}
+  /* Grace Commentary content, now rendered inside a .def-fold in the word
+     popup (see .cmt-block below) rather than as its own floating panel with a
+     bulb toggle -- the fold's native <details> disclosure does the opening and
+     closing, so none of the old bulb/panel/close chrome is needed any more. */
   .cmt-title{font-family:var(--mono);font-size:0.7em;letter-spacing:0.09em;
     text-transform:uppercase;color:#8a6300;font-weight:700;margin:0 0 12px;}
-  .cmt-panel h4{font-size:0.95em;font-weight:600;color:var(--ink);margin:16px 0 6px;}
-  .cmt-panel h4:first-of-type{margin-top:0;}
-  .cmt-panel p{font-size:0.92em;line-height:1.7;margin:0 0 10px;color:var(--ink);}
-  .cmt-panel ul{margin:0 0 10px;padding-left:20px;}
-  .cmt-panel li{font-size:0.92em;line-height:1.65;margin:0 0 6px;color:var(--ink);}
+  .cmt-block h4{font-size:0.95em;font-weight:600;color:var(--ink);margin:16px 0 6px;}
+  .cmt-block h4:first-of-type{margin-top:0;}
+  .cmt-block p{font-size:0.92em;line-height:1.7;margin:0 0 10px;color:var(--ink);}
+  .cmt-block ul{margin:0 0 10px;padding-left:20px;}
+  .cmt-block li{font-size:0.92em;line-height:1.65;margin:0 0 6px;color:var(--ink);}
   .cmt-note{background:#fff3d6;border-radius:6px;padding:12px 14px;margin-top:12px;}
   .cmt-note p{margin:0;font-size:0.9em;}
   /* Paging for a long note. Rendered up front, shown one at a time. */
@@ -499,10 +477,6 @@
   .cmt-pg:hover{border-color:#c98f00;color:#7a5600;}
   .cmt-pg.on{background:#e8a800;border-color:#e8a800;color:#fff;font-weight:700;}
   .cmt-pg-of{font-family:var(--mono);font-size:0.62em;color:#a08a4a;margin-left:auto;}
-  .cmt-close{display:block;margin-top:14px;background:none;border:none;padding:0;
-    font-family:var(--mono);font-size:0.68em;letter-spacing:0.08em;text-transform:uppercase;
-    color:#8a6300;cursor:pointer;}
-  .cmt-close:hover{text-decoration:underline;}
   /* Nothing in this translation is Greek-anchored, so the study control has
      nothing to act on. Hidden rather than left as a dead switch. */
   body.illum-active #modeSwitch,
@@ -911,6 +885,14 @@
   /* Each word in the tapped phrase gets its Greek word as a header, so a
      multi-word popup shows which word the collapsed Strong's/Word Picture/
      Abbott sections below belong to. */
+  /* Groups the four dictionary folds under one label and the verse-level
+     commentary folds (Weust, Grace Commentary) under another, so a reader
+     scanning a long popup can tell "look this word up" from "read about this
+     passage" at a glance. Only printed once per group, and the second label
+     is skipped entirely when neither commentary source has an entry. */
+  .def-group-label{font-family:var(--mono);font-size:0.6em;font-weight:700;
+    color:var(--gray);text-transform:uppercase;letter-spacing:0.1em;
+    padding:14px 26px 0;}
   .def-word-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;padding:20px 26px 12px;}
   .dwh-gk{font-family:var(--grk);font-size:1.5em;font-weight:600;}
   .dwh-tr{font-family:var(--mono);font-size:0.8em;color:var(--gray);font-style:italic;}
@@ -939,6 +921,7 @@
   .def-fold > summary .src-dot.wordpic{background:var(--green);}
   .def-fold > summary .src-dot.thayer{background:var(--purple);}
   .def-fold > summary .src-dot.weust{background:var(--pink);}
+  .def-fold > summary .src-dot.commentary{background:var(--yellow);}
   .def-fold > summary .src-line{flex:1;height:1px;background:var(--line);}
   .def-fold > summary .fold-caret{font-size:0.9em;transition:transform 0.15s;}
   .def-fold[open] > summary .fold-caret{transform:rotate(90deg);}
@@ -2536,6 +2519,7 @@ function showDefinition(eng, grk, tag, verseRef) {
        multi-word popup does not collapse one word's sections when another's is
        opened. */
     const grp = 'defsec-' + idx;
+    html += '<div class="def-group-label">Lexicons</div>';
     html += `<details class="def-fold" name="${grp}"><summary><span class="src-dot strongs"></span>strong's<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
       <div class="def-source-block">`;
     if (entry) {
@@ -2593,15 +2577,24 @@ function showDefinition(eng, grk, tag, verseRef) {
       needThayer = true;
     }
 
-    /* ---- 5. WEUST section (collapsed; verse-keyed, not per-word) ----
-       Original word-study commentary for this word's verse, when there is
-       one -- keyed by chapter:verse rather than Strong's number, since it's
-       written as running commentary on a passage, not a flat dictionary.
-       Silently absent otherwise, same as Word Picture. */
+    /* ---- 5. WEUST and GRACE COMMENTARY sections (collapsed; verse-keyed,
+       not per-word) ---- Both are running commentary on the whole passage a
+       word sits in, not a flat dictionary entry for the word itself, so both
+       are keyed by chapter:verse and silently absent when the verse has no
+       entry -- same as Word Picture. Grouped under one "Commentaries" label,
+       printed once and only when at least one of the two actually has
+       something to show. */
     const weustHit = verseRef ? weustVerseLookup(verseRef) : null;
+    const cmtHit = verseRef ? commentaryVerseLookup(verseRef) : null;
+    if (weustHit || cmtHit) html += '<div class="def-group-label">Commentaries</div>';
     if (weustHit) {
       html += `<details class="def-fold" name="${grp}"><summary><span class="src-dot weust"></span>weust<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
         <div class="def-source-block">${renderWeust(weustHit, verseRef, eng)}</div></details>`;
+    }
+    if (cmtHit) {
+      const foldId = 'cmtfold-' + idx + '-' + cmtId(cmtHit.key);
+      html += `<details class="def-fold cmt-fold" name="${grp}"><summary><span class="src-dot commentary"></span>grace commentary 💡<span class="src-line"></span><span class="fold-caret">&#8250;</span></summary>
+        <div class="def-source-block cmt-block" id="${foldId}">${renderCommentary(cmtHit, foldId)}</div></details>`;
     }
 
     html += '</div>';
@@ -2709,6 +2702,87 @@ function renderWeust(entry, verseRef, eng) {
   }).join('') + '</div>';
   html += `<div class="weust-translation"><div class="weust-translation-label">Literal translation</div><p>${esc(entry.translation)}</p></div>`;
   return html;
+}
+
+/* ---- Grace Commentary: verse-keyed, range-based lookup -------------------
+   Lives in the word popup rather than as a bulb over the Illumination's
+   prose, because the note itself is constantly citing the Greek word by name
+   -- tense, mood, root -- which is exactly what a reader tapping a Greek word
+   is already doing. COMMENTARY (data/commentary.js) keys on the note's own
+   range, e.g. "Mark 1:9–11", so a lookup is the same containment check
+   weustVerseLookup does against WEUST -- built once into a per-book index
+   rather than scanning every key on every tap. */
+let _commentaryIndex = null;
+function commentaryVerseLookup(verseRef) {
+  const m = /^(.+) (\d+):(\d+)$/.exec(verseRef || '');
+  if (!m || typeof COMMENTARY === 'undefined') return null;
+  if (!_commentaryIndex) {
+    _commentaryIndex = {};
+    Object.keys(COMMENTARY).forEach(key => {
+      const km = /^(.+) (\d+):(\d+)(?:[–-](\d+))?$/.exec(key);
+      if (!km) return;
+      const book = km[1];
+      (_commentaryIndex[book] || (_commentaryIndex[book] = [])).push({
+        c1: +km[2], v1: +km[3], c2: +km[2], v2: km[4] ? +km[4] : +km[3], key
+      });
+    });
+  }
+  const book = m[1], c = +m[2], v = +m[3];
+  const ranges = _commentaryIndex[book];
+  if (!ranges) return null;
+  const hit = ranges.find(r =>
+    (c > r.c1 || (c === r.c1 && v >= r.v1)) && (c < r.c2 || (c === r.c2 && v <= r.v2)));
+  return hit ? { key: hit.key, entry: COMMENTARY[hit.key] } : null;
+}
+/* Same block shapes the retired Illumination panel rendered -- headings,
+   lists, note callouts, paging for a long entry -- just without the
+   bulb-toggle chrome, since the popup's own <details> disclosure already
+   opens and closes this section. */
+function renderCommentary(hit, foldId) {
+  const c = hit.entry;
+  const pages = [[]];
+  c.blocks.forEach(b => {
+    if (b.k === 'pg') pages.push([]);
+    else pages[pages.length - 1].push(b);
+  });
+  let h = '<div class="cmt-title">' + ilEsc(hit.key) + ' &middot; ' + ilEsc(c.title) + '</div>';
+  pages.forEach((blocks, i) => {
+    h += '<div class="cmt-page' + (i === 0 ? ' on' : '') + '" data-pg="' + i + '">';
+    blocks.forEach(b => {
+      if (b.k === 'h') h += '<h4>' + cmtText(b.t) + '</h4>';
+      else if (b.k === 'ul') h += '<ul>' + b.items.map(x => '<li>' + cmtText(x) + '</li>').join('') + '</ul>';
+      else if (b.k === 'note') h += '<div class="cmt-note"><p>' + cmtText(b.t) + '</p></div>';
+      else h += '<p>' + cmtText(b.t) + '</p>';
+    });
+    h += '</div>';
+  });
+  if (pages.length > 1) {
+    h += '<div class="cmt-pager">';
+    for (let i = 0; i < pages.length; i++) {
+      h += '<button class="cmt-pg' + (i === 0 ? ' on' : '') + '" onclick="cmtFoldPage(\'' +
+           foldId + '\',' + i + ')">' + (i + 1) + '</button>';
+    }
+    h += '<span class="cmt-pg-of">' + pages.length + ' pages</span></div>';
+  }
+  return h;
+}
+function cmtFoldPage(foldId, n) {
+  const p = document.getElementById(foldId);
+  if (!p) return;
+  p.querySelectorAll('.cmt-page').forEach(el => el.classList.toggle('on', Number(el.dataset.pg) === n));
+  p.querySelectorAll('.cmt-pg').forEach((el, i) => el.classList.toggle('on', i === n));
+}
+function cmtId(key) { return 'cmt-' + key.replace(/[^A-Za-z0-9]+/g, '-'); }
+/* Commentary text is authored in markdown, so **emphasis** has to become bold
+   rather than showing its asterisks. Escaping happens FIRST and the markers
+   are converted after, so nothing in the source can inject markup -- only the
+   two asterisk pairs this line looks for ever become a tag. Bold first, then
+   italic -- the other order would let the italic rule eat one asterisk from
+   each side of a **bold** run and leave the markers showing. */
+function cmtText(s) {
+  return ilEsc(s)
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, '$1<em>$2</em>');
 }
 
 /* ---- Thayer's lazy loader ----------------------------------------------- */
@@ -3956,92 +4030,10 @@ function buildIllumSynopsis(book) {
   return h + '</div></div>';
 }
 
-/* ---- verse commentary ----
-   Notes hang off the Illumination only: they discuss the choices made in THIS
-   translation's wording, so showing them over the KJV would be commenting on a
-   text that did not make those choices. A verse with no note is untouched. */
-function commentaryFor(key) {
-  return (typeof COMMENTARY !== 'undefined' && currentTx === 'illum')
-    ? COMMENTARY[key] : null;
-}
-function cmtId(key) { return 'cmt-' + key.replace(/[^A-Za-z0-9]+/g, '-'); }
-
-/* Commentary text is authored in markdown, so **emphasis** has to become bold
-   rather than showing its asterisks. Escaping happens FIRST and the markers are
-   converted after, so nothing in the source can inject markup -- only the two
-   asterisk pairs this line looks for ever become a tag. */
-/* Bold first, then italic -- the other order would let the italic rule eat one
-   asterisk from each side of a **bold** run and leave the markers showing. The
-   commentary quotes the verse it sits under constantly, and a quotation wants
-   italics, so single asterisks have to mean something rather than render raw. */
-function cmtText(s) {
-  return ilEsc(s)
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, '$1<em>$2</em>');
-}
-
-/* A long note is paged rather than scrolled. A commentary that runs past a
-   screen and a half stops being something a reader dips into mid-chapter, so a
-   'pg' block (a --- rule in the markdown source) starts a new page, and the
-   pages are turned in place without rebuilding the chapter around them. Every
-   page is rendered up front and hidden with CSS: the note is a few kilobytes,
-   and building them lazily would cost more code than it saves. */
-function buildCommentaryPanel(key) {
-  const c = commentaryFor(key);
-  if (!c) return '';
-  const pages = [[]];
-  c.blocks.forEach(b => {
-    if (b.k === 'pg') pages.push([]);
-    else pages[pages.length - 1].push(b);
-  });
-
-  let h = '<div class="cmt-panel" id="' + cmtId(key) + '">' +
-          '<div class="cmt-title">' + ilEsc(key) + ' &middot; ' + ilEsc(c.title) + '</div>';
-
-  pages.forEach((blocks, i) => {
-    h += '<div class="cmt-page' + (i === 0 ? ' on' : '') + '" data-pg="' + i + '">';
-    blocks.forEach(b => {
-      if (b.k === 'h') h += '<h4>' + cmtText(b.t) + '</h4>';
-      else if (b.k === 'ul')
-        h += '<ul>' + b.items.map(x => '<li>' + cmtText(x) + '</li>').join('') + '</ul>';
-      else if (b.k === 'note') h += '<div class="cmt-note"><p>' + cmtText(b.t) + '</p></div>';
-      else h += '<p>' + cmtText(b.t) + '</p>';
-    });
-    h += '</div>';
-  });
-
-  if (pages.length > 1) {
-    h += '<div class="cmt-pager">';
-    for (let i = 0; i < pages.length; i++) {
-      h += '<button class="cmt-pg' + (i === 0 ? ' on' : '') +
-           '" onclick="cmtPage(\'' + key + '\',' + i + ')">' + (i + 1) + '</button>';
-    }
-    h += '<span class="cmt-pg-of">' + pages.length + ' pages</span></div>';
-  }
-
-  return h + '<button class="cmt-close" onclick="toggleCommentary(\'' + key +
-         '\')">close</button></div>';
-}
-
-function cmtPage(key, n) {
-  const p = document.getElementById(cmtId(key));
-  if (!p) return;
-  p.querySelectorAll('.cmt-page').forEach(el =>
-    el.classList.toggle('on', Number(el.dataset.pg) === n));
-  p.querySelectorAll('.cmt-pg').forEach((el, i) => el.classList.toggle('on', i === n));
-  /* Back to the top of the note, not the top of the page -- a reader turning to
-     page 2 wants its first line, and the panel may be taller than the screen. */
-  p.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
-function toggleCommentary(key) {
-  const p = document.getElementById(cmtId(key));
-  if (!p) return;
-  const open = p.classList.toggle('open');
-  const dot = document.querySelector('.cmt-bulb[data-cmt="' + key + '"]');
-  if (dot) dot.classList.toggle('open', open);
-  if (open) p.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-}
+/* Grace Commentary lookup/render (commentaryVerseLookup, renderCommentary,
+   cmtFoldPage, cmtId, cmtText) now lives with the Weust helpers above, since
+   both are verse-keyed commentary sections in the word popup rather than an
+   Illumination reading-view feature. */
 
 /* The chapter currently on screen. The Illumination reader builds HTML strings
    rather than DOM nodes, so its click handlers arrive as onclick attributes
@@ -4075,13 +4067,14 @@ function buildIllumChapter(ch) {
     }
     s.verses.forEach((v, vi) => {
       const key = book + ' ' + v[0];
-      const note = commentaryFor(key);
       const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
       /* Expositor's annotations only exist over the KJV, keyed identically to
-         the commentary lookup just above. A verse without an entry (not every
-         verse has been annotated) falls back to the plain KJV rendering.
-         EXP_INLINE itself is shelved for now (see the script tags above) --
-         guarded here so the KJV renders as plain text without it. */
+         the commentary lookup that used to sit just above (Grace Commentary
+         moved into the Mak word popup -- see commentaryVerseLookup). A verse
+         without an entry (not every verse has been annotated) falls back to
+         the plain KJV rendering. EXP_INLINE itself is shelved for now (see
+         the script tags above) -- guarded here so the KJV renders as plain
+         text without it. */
       const expRaw = (currentTx === 'kjv' && typeof EXP_INLINE !== 'undefined') ? EXP_INLINE[key] : null;
       h += '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
            ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
@@ -4089,13 +4082,7 @@ function buildIllumChapter(ch) {
            '<span class="illum-ref" onclick="illumRefClick(this,\'' + ilEsc(ch.ref) + '\',event)">' +
              ilEsc(v[0]) + '</span> ' +
            (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1]));
-      if (note) {
-        h += '<button class="cmt-bulb" data-cmt="' + ilEsc(key) + '" title="commentary"' +
-             ' aria-label="Commentary on ' + ilEsc(key) + '"' +
-             ' onclick="toggleCommentary(\'' + key + '\')">💡</button>';
-      }
       h += '</p>';
-      if (note) h += buildCommentaryPanel(key);
     });
   });
   return h;
@@ -4119,10 +4106,8 @@ function ilNote(si) {
 }
 
 function ilHighlightVerse(el, si, vi, ev) {
-  /* Only while the highlighter is on, so ordinary reading and the commentary
-     dots are untouched. */
+  /* Only while the highlighter is on, so ordinary reading is untouched. */
   if (!highlightMode || !ilChapter) return;
-  if (ev && ev.target && ev.target.closest && ev.target.closest('.cmt-bulb')) return;
   const s = ilChapter.sections[si], v = s.verses[vi];
   const key = ilVerseKey(currentTx, ilChapter.ref, v[0]);
   const at = highlights.findIndex(x => x.key === key);
@@ -5564,16 +5549,48 @@ const TOUR = [
     body: 'The whole Bible, all 66 books, retold thought by thought. Every chapter has a title, every section a heading, and each book opens with a synopsis of its own — so you can follow along with the writer every time he changes his train of thought, and gain a greater understanding of what he&rsquo;s saying.',
     go: () => { switchTranslation('illum'); loadIllum(navIndexForRef('illum', 'John 15')); } },
 
-  { title: 'The Grace Commentary 💡',
+  { title: 'The Grace Commentary',
     tint: 'var(--yellow)',
-    spot: '.cmt-panel.open',
-    body: 'Verse blocks in the Illumination carry a bulb. Tap it and a note opens on that passage. It is a commentary built from personal notes, rewritten, out of the sermons and writings of <b>Martin Luther</b>, <b>Charles Spurgeon</b>, <b>George M&uuml;ller</b>, <b>Joseph Prince</b>, <b>Martyn Lloyd-Jones</b>, <b>John Bunyan</b> and <b>John Newton</b> — often explaining the Hebrew or Greek behind the verse, through the lens of grace.',
+    spot: '.cmt-fold',
+    body: 'Tap a word in Mak, and where a note exists for that passage, a &ldquo;grace commentary&rdquo; tab appears alongside the lexicons &mdash; watch it show up now, right under Thayer&rsquo;s. Tap that tab and the note opens: a running commentary, built from personal notes, rewritten, out of the sermons and writings of <b>Martin Luther</b>, <b>Charles Spurgeon</b>, <b>George M&uuml;ller</b>, <b>Joseph Prince</b>, <b>Martyn Lloyd-Jones</b>, <b>John Bunyan</b> and <b>John Newton</b> &mdash; often explaining the Hebrew or Greek behind the verse, through the lens of grace.',
     go: () => {
-      if (currentTx !== 'illum') switchTranslation('illum');
-      loadIllum(navIndexForRef('illum', 'John 15'));
+      /* Clear first, immediately: if an earlier word popup is still open
+         (the reader tapped one, or a previous tour run left one behind), its
+         old fold is still sitting in the DOM, already open -- and hiding the
+         overlay alone is not enough, because the tour's own spotlight search
+         still finds that old .cmt-fold and un-hides its ancestor to light it
+         up. Emptying the card is what actually removes it, so there is
+         nothing for the spotlight to find until this step's own click
+         creates a fresh one. */
+      if (typeof closeDef === 'function') closeDef();
+      const _defCard = document.getElementById('defCard');
+      if (_defCard) _defCard.innerHTML = '';
+      if (currentTx !== 'mak') switchTranslation('mak');
+      if (readMode) toggleMode();
+      const at = (typeof makIndexForRef === 'function') ? makIndexForRef('John 15') : -1;
+      if (at >= 0) loadChapter(at, true);
+      /* Beat one: tap the word, so the popup -- lexicons, then the grace
+         commentary tab beneath them -- is what the reader sees appear.
+         Beat two, several seconds later so the closed tab is actually seen
+         and not just flashed past: tap the tab itself to open the note. Same
+         pacing philosophy as the Strong's/Thayer's demo above -- under three
+         seconds and the reader sees something happen, not what it was. */
       setTimeout(() => {
-        const b = document.querySelector('.cmt-bulb');
-        if (b && !b.classList.contains('open')) { b.click(); b.scrollIntoView({ block: 'center' }); }
+        const units = [...document.querySelectorAll('#sectionsContainer .unit.clickable')];
+        const pick = units.find(u => ['1', '2', '3', '4'].includes(u.dataset.verse || ''));
+        if (pick) pick.click();
+        setTimeout(() => {
+          const fold = document.querySelector('.cmt-fold');
+          /* 'start' rather than 'center': the tab is one summary line, and
+             centering it would just pull whatever Strong's (open by default)
+             happens to be showing up around it. Pinning it to the top of the
+             card is what actually reads as "here is the new tab," and it is
+             still closed at this point -- nothing but the label is visible. */
+          if (fold) fold.scrollIntoView({ block: 'start' });
+          setTimeout(() => {
+            if (fold) { fold.open = true; fold.scrollIntoView({ block: 'start' }); }
+          }, 2600);
+        }, 300);
       }, 320);
     } },
 
@@ -5652,8 +5669,8 @@ let tourAt = -1;
 
 /* The spotlit element is re-resolved a moment after the step runs as well as
    immediately: some steps create the thing they point at -- the commentary
-   panel does not exist until the bulb has been clicked -- so looking once,
-   straight away, would find nothing. */
+   fold does not exist until the word popup has been opened -- so looking
+   once, straight away, would find nothing. */
 /* Raising the spotlit element above the backdrop only keeps it sharp if nothing
    between it and the page traps it. An ancestor that forms a STACKING CONTEXT
    does exactly that: its children can never paint above it, however high their
@@ -7434,7 +7451,9 @@ function optAboutHtml() {
                       'word for word from the Greek'],
       ['King James', 'The Authorized Version of 1769, unedited'],
       ['Grace Commentary', optCount(() => Object.keys(COMMENTARY).length) +
-                      ' notes, opened from the bulb beside a verse'],
+                      ' notes &mdash; tap a word in the Mak, and where one exists a ' +
+                      '&ldquo;grace commentary&rdquo; tab appears alongside the lexicons; ' +
+                      'tap that tab to open it'],
       ['Promises', optCount(() => PROMISES.length) + ' verses, fifteen meditations written on each'],
       ['Hymnal', optCount(() => hyAll().length) + ' hymns, whole texts rather than the two or ' +
                       'three verses that usually survive'],

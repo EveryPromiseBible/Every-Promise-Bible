@@ -1,5 +1,37 @@
 # CHANGELOG
 
+## 2026-09-06 — Grace Commentary moved from the Illumination's bulb into the Mak word popup
+
+The 💡 bulb and inline note panel are gone from the Illumination reading view — it now renders as plain
+text, nothing else. The same commentary content now lives as a "grace commentary 💡" fold inside the Mak
+word-lookup popup, appearing only when the tapped word's verse falls inside a note's range, right beside
+Strong's/Word Picture/Abbott-Smith/Thayer's and the existing Weust fold.
+
+**Why the move.** The notes constantly cite the Greek itself by name — root, tense, mood ("Mark's favourite
+word is *euthus*," "the Greek is *schizomenous*") — which is exactly what a reader tapping a Greek word is
+already doing, not something an Illumination prose reader has asked about yet.
+
+**New popup structure**: the five/six sources are now grouped under two labels — **Lexicons** (Strong's,
+Word Picture, Abbott-Smith, Thayer's; always shown) and **Commentaries** (Weust, Grace Commentary; shown
+only when at least one has an entry for that verse). The lookup is a range-containment check against
+`COMMENTARY`'s own keys (e.g. "Mark 1:9–11"), the same shape `weustVerseLookup` already used against
+`WEUST` — built once into a per-book index rather than scanning every key on every tap.
+
+Removed as dead code once the bulb was gone: `commentaryFor` (was gated to `currentTx === 'illum'`),
+`buildCommentaryPanel`, `toggleCommentary`, `cmtPage`, and the `.cmt-bulb`/`.cmt-panel`/`.cmt-close` CSS.
+Replaced by `commentaryVerseLookup`, `renderCommentary`, `cmtFoldPage` alongside the Weust helpers.
+`cmtId`/`cmtText` (markdown bold/italic escaping) carried over unchanged.
+
+The guided tour's Grace Commentary step (`tx.02` area) now demonstrates the new location: switches to Mak,
+loads John 15, taps a word in verses 1–4 (which carries a note), and opens the new fold — rather than
+tapping a bulb in the Illumination that no longer exists.
+
+Verified in a live browser pass (not just read): the fold opens and renders correctly on John 15:1 (ἐγώ,
+no Weust entry — group label correctly reads "Commentaries" with only the Grace Commentary fold present),
+the "Lexicons"-only case on Acts 1:2 (no commentary or Weust entry — "Commentaries" label correctly absent
+entirely), zero `.cmt-bulb` elements remain anywhere after the Illumination change, and no console errors
+on load or on either interaction.
+
 ## 2026-09-02 — Promise meditation fidelity pass: complete (Hopeful, Grateful, Encouraged, and project close)
 
 **Final 24 flagged instances fixed — 843 of 843, project complete.** The last 3 moods (Hopeful, Grateful,
