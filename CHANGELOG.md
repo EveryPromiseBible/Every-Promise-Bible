@@ -1,5 +1,41 @@
 # CHANGELOG
 
+## 2026-09-06 — The Jesus Bible: a fourth translation, Mark and Romans so far
+
+A new translation card in the Bible section (tx.04, red swatch for the red-letter tradition), alongside
+Mak/Illumination/KJV: the KJV text recast so Jesus narrates His own gospel and His own letters in the
+first person. Built from `VoiceOfJesus/mark.json` and `romans.json` (see `VoiceOfJesus/STATUS.md` for the
+full method and rule set worked out against Elmer Towns' *The Bible by Jesus* — never quoting or
+paraphrasing his text, only using his technique the way the Weust files use Wuest's word selection).
+
+**Wiring**: `data/jesus.js` (`JESUS_BOOKS`, `JESUS`) reuses the exact same chapter/section/verse shape as
+`KJV` — one verse per entry — so it drops straight into the existing `buildIllumChapter` reader via a new
+`CORPUS.jesus` entry, no new rendering code needed. Treated like the Illumination for anything assuming no
+Greek alignment (forced read mode, `illum-active` styling) since this is re-voiced KJV wording, not a fresh
+translation from the Greek. Book-count coverage is intentionally partial right now (2 of 66 books), so the
+testament filter — which would otherwise offer an Old Testament with nothing in it — is hidden for this
+translation the same way it already is for Mak (NT-only), and switching in from a book this translation
+doesn't have yet lands on Mark 1 rather than erroring.
+
+Verified live: all 32 chapters (Mark's 16, Romans' 16) render with zero errors, the book picker correctly
+shows only Mark and Romans, switching among all four translations back and forth works cleanly, and verse
+highlighting works the same as it does on the KJV. Cross-translation features that assume full 66-book
+coverage (the "jump to this verse in another translation" popup, search indexing, reading-plan generation)
+are deliberately left untouched for now rather than half-wired against a 2-book translation — clicking a
+verse reference in the Jesus Bible safely no-ops instead of erroring.
+
+**Intro pages, added the same session**: a short intro for Mark and for Romans (`JESUS_INTROS`), in the
+same voice Towns opens each book with — *"I sent Mark..."*, *"I sent Paul to set in order..."* — but
+composed fresh from this project's own existing AUTHOR/PURPOSE/THEMES/TO WHOM WRITTEN fields for each book
+(already in `ILLUMINATION_INTROS`), not from Towns' wording or Towns' theology. `buildIllumSynopsis` now
+branches on whether a book's intro data is a plain string (Jesus Bible: one paragraph) or the Illumination's
+structured fields array (dense reference page), so both share the one function. A whole-translation
+Introduction page was drafted and wired up the same way as Illumination's, then deliberately removed at the
+user's request — the Jesus Bible keeps only the per-book intros, no separate translation-level page.
+Verified: whole nav sequence (34 destinations — 2 book intros + 32 chapters) loads with zero errors, no
+"Introduction" option appears in its chapter picker, and Previous/Next links between each book's intro and
+its chapters resolve correctly.
+
 ## 2026-09-06 — The KJV is now navigated by the book's own Synopsis outline
 
 Each book's Illumination intro page already carried a real analytical outline under its "SYNOPSIS"

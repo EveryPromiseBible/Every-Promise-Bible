@@ -371,6 +371,10 @@
   .il-bookhead{font-size:2em;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;
     margin:0 0 20px;padding-bottom:12px;border-bottom:1.5px solid var(--line);}
   .il-cols{column-count:3;column-gap:34px;column-rule:1px solid var(--line);font-size:0.86em;line-height:1.52;}
+  /* The Jesus Bible's per-book intro: one paragraph, read as prose, not a
+     reference page -- so it gets a comfortable single reading column
+     instead of il-cols' three-column dense layout. */
+  .il-jesus-intro{max-width:34em;font-size:1.02em;line-height:1.75;font-style:italic;}
   @media (max-width:1150px){ .il-cols{column-count:2;} }
   @media (max-width:720px){ .il-cols{column-count:1;} }
   .il-field{break-inside:avoid;-webkit-column-break-inside:avoid;page-break-inside:avoid;margin:0 0 15px;}
@@ -1558,6 +1562,7 @@
             <div class="lib-card active" id="txcard-mak" onclick="switchTranslation('mak')"><div class="lswatch" style="background:var(--orange);"></div><div class="lcode">tx.01</div><div class="lname">Mak Translation</div></div>
             <div class="lib-card" id="txcard-illum" onclick="switchTranslation('illum')"><div class="lswatch" style="background:var(--yellow);"></div><div class="lcode">tx.02</div><div class="lname">Illumination Translation</div></div>
             <div class="lib-card" id="txcard-kjv" onclick="switchTranslation('kjv')"><div class="lswatch" style="background:#1a6fa8;"></div><div class="lcode">tx.03</div><div class="lname">King James Version</div></div>
+            <div class="lib-card" id="txcard-jesus" onclick="switchTranslation('jesus')"><div class="lswatch" style="background:#b0362c;"></div><div class="lcode">tx.04</div><div class="lname">The Jesus Bible</div></div>
           </div>
         </div>
         <div class="lib-group"><div class="glabel">devotionals</div>
@@ -1887,6 +1892,7 @@
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
 <script src="data/kjv.js"></script>
+<script src="data/jesus.js"></script>
 <!-- Expositor's Translation annotations, shelved for now -- the file moved to
      _shelved/exp_inline.js (not deleted). To bring it back: restore this
      script tag and see EXP_LAUNCHED in the JS below. -->
@@ -3883,10 +3889,18 @@ const CORPUS = {
            label: 'The Illumination Translation · 66 books' },
   kjv:   { get books(){ return KJV_BOOKS; }, get chapters(){ return KJV; },
            intros: null,
-           label: 'The Authorized Version, 1769 · 66 books' }
+           label: 'The Authorized Version, 1769 · 66 books' },
+  /* The KJV text, recast so Jesus narrates His own gospel and His own
+     letters in the first person -- see VoiceOfJesus/STATUS.md for the
+     method. Same data shape as the KJV (one verse per entry), so it reuses
+     this same reader. Only Mark and Romans exist so far; more books arrive
+     the same way, book by book. */
+  jesus: { get books(){ return JESUS_BOOKS; }, get chapters(){ return JESUS; },
+           get intros(){ return JESUS_INTROS; },
+           label: 'The Jesus Bible · Mark, Romans so far' }
 };
 const NAV_CACHE = {};
-function isVerseTx(tx) { return tx === 'illum' || tx === 'kjv'; }
+function isVerseTx(tx) { return tx === 'illum' || tx === 'kjv' || tx === 'jesus'; }
 function corpus() { return CORPUS[currentTx]; }
 
 function ilEsc(s) {
@@ -3912,7 +3926,10 @@ function navFor(tx) {
 function buildIllumNav() { ILLUM_NAV = navFor(currentTx); }
 
 function illumLabel(d) {
-  return d.type === 'syn' ? d.book + ' — Synopsis' : corpus().chapters[d.ci].ref;
+  if (d.type !== 'syn') return corpus().chapters[d.ci].ref;
+  /* The Jesus Bible's per-book page is a short personal paragraph, not a
+     reference synopsis, so it earns its own label. */
+  return d.book + (currentTx === 'jesus' ? ' — Introduction' : ' — Synopsis');
 }
 
 /* 1,255 destinations is too many for one dropdown, and HTML will not nest an
@@ -3931,8 +3948,10 @@ function populateIllumSelect() {
   const sel = document.getElementById('chapterSelect');
   /* Above the books and outside any optgroup, so it stays reachable whichever
      testament is filtered. The KJV has no introduction by design -- it is the
-     text unedited -- so it gets no entry. */
-  let out = corpus().intros ? '<option value="intro">Introduction</option>' : '';
+     text unedited -- so it gets no entry. Neither does the Jesus Bible: it
+     keeps its per-book intros (still driven by corpus().intros below, via
+     hasSyn in navFor) without a separate whole-translation page. */
+  let out = (corpus().intros && currentTx !== 'jesus') ? '<option value="intro">Introduction</option>' : '';
   let current = null;
   ILLUM_NAV.forEach((d, i) => {
     if (testamentOf(d.book) !== illumTestament) return;
@@ -4025,6 +4044,15 @@ function buildIllumIntro() {
    column, so a label is never orphaned from what it introduces. */
 function buildIllumSynopsis(book) {
   const fields = (corpus().intros || {})[book] || [];
+  /* The Jesus Bible's per-book intro is one short paragraph in His own voice
+     (grounded in this book's existing AUTHOR/PURPOSE/THEMES fields, not a
+     paraphrase of them), not the Illumination's dense reference-page fields
+     array -- so it renders as plain running text rather than the labelled
+     multi-column layout below. */
+  if (typeof fields === 'string') {
+    return '<div class="il-syn"><div class="il-bookhead">' + ilEsc(book) + '</div>' +
+           '<div class="il-jesus-intro">' + ilText(fields) + '</div></div>';
+  }
   let h = '<div class="il-syn"><div class="il-bookhead">' + ilEsc(book) + '</div>' +
           '<div class="il-cols">';
   fields.forEach(f => {
@@ -4716,22 +4744,25 @@ function switchTranslation(tx, forceRef, forceVerse) {
     if (v) lastVerse = v;
   }
   currentTx = tx;
-  ['mak', 'illum', 'kjv', 'dev'].forEach(k =>
+  ['mak', 'illum', 'kjv', 'jesus', 'dev'].forEach(k =>
     document.getElementById('txcard-' + k)?.classList.toggle('active', tx === k));
   /* The Illumination carries no Greek alignment, so the study switch has
      nothing to act on there -- force read mode rather than leaving a dead
      control. The KJV is the exception: its switch is kept live (see below)
-     because it doubles as the unpublished notes switch. */
-  document.body.classList.toggle('illum-active', tx === 'illum');
-  /* Scopes the verse-number jump-popup affordance to Illumination and KJV --
-     the two translations that render through buildIllumChapter and carry
-     .illum-ref markup. Mak's own markers get their own always-on hover style
-     (.mak-verse-num), so it needs no entry here. */
-  document.body.classList.toggle('verse-jump-active', tx === 'illum' || tx === 'kjv');
+     because it doubles as the unpublished notes switch. The Jesus Bible has
+     no Greek alignment either (it is KJV wording re-voiced, not a fresh
+     translation from the Greek), so it shares the Illumination's treatment. */
+  document.body.classList.toggle('illum-active', tx === 'illum' || tx === 'jesus');
+  /* Scopes the verse-number jump-popup affordance to the three translations
+     that render through buildIllumChapter and carry .illum-ref markup. Mak's
+     own markers get their own always-on hover style (.mak-verse-num), so it
+     needs no entry here. */
+  document.body.classList.toggle('verse-jump-active', tx === 'illum' || tx === 'kjv' || tx === 'jesus');
   document.body.classList.toggle('dev-active', isDevTx(tx));
   /* Mak is New Testament only, so a testament filter there would be a control
-     with nothing to do. Shown for the two whole-Bible translations. */
-  document.getElementById('testamentSelect').style.display = isVerseTx(tx) ? '' : 'none';
+     with nothing to do -- same reasoning for the Jesus Bible while it is still
+     just Mark and Romans. Shown only for the whole-Bible translations. */
+  document.getElementById('testamentSelect').style.display = (isVerseTx(tx) && tx !== 'jesus') ? '' : 'none';
   /* The book/chapter picker covers Mak, Illumination and the KJV -- the three
      translations with actual books and chapters. The devotional's own flat
      day list keeps the native dropdown; there is no book structure to pick
@@ -4753,8 +4784,11 @@ function switchTranslation(tx, forceRef, forceVerse) {
     populateDevSelect();
     loadDev(0);
   } else if (isVerseTx(tx)) {
-    if (tx === 'illum' && !readMode) toggleMode();
+    if ((tx === 'illum' || tx === 'jesus') && !readMode) toggleMode();
     if (tx === 'kjv' && expMode !== readMode) toggleExpMode();
+    /* The Jesus Bible is NT-only so far (Mark, Romans) -- land on that
+       testament rather than an Old Testament filter with nothing in it. */
+    if (tx === 'jesus') illumTestament = 'NT';
     buildIllumNav();
     /* Follow the reader's place if that chapter exists here. loadIllum moves the
        testament filter itself when the destination is in the other testament. */
