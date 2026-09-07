@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-09-07 — Fixed: KJV outline weight depended on fold-vs-label, not depth
+
+User-reported, from a screenshot of Hebrews 3: the outline's lettered line ("B.") showed normal weight
+while another lettered line right above it ("A.") showed bold, and the numbered lines below ("1.", "2.",
+"3.") were bold too, when they should read lighter than the letters. The cause: weight was being set by
+whether a branch happened to render as a plain group-label div (normal weight, unless it was the
+outermost Roman numeral) or as a clickable `<details>` fold (always bold, regardless of depth) — not by
+its actual outline level. "A." is a fold (it has no further children) so it was always bold; "B." is a
+label (it has children of its own) so it was normal weight — same depth, different look, purely because
+of which one had sub-points.
+
+Fixed by giving fold `<details>` elements the same `syn-fold-lvl0/1/2/3` level class the label divs
+already carry, and driving weight from that level everywhere: level 0 (Roman numeral) bold and a touch
+bigger, level 1 (letters) bold, level 2+ (numbers) normal — the same regardless of whether a given branch
+renders as a label or a fold. Verified against Genesis (which reaches all three levels) and re-ran the
+full 1,255-destination KJV regression: zero errors.
+
 ## 2026-09-06 — The Jesus Bible is no longer its own translation card; it's a KJV toggle
 
 Removed "The Jesus Bible" (tx.04) from the translations list. In its place, a small dot beside the
