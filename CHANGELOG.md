@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-09-06 — The Jesus Bible is no longer its own translation card; it's a KJV toggle
+
+Removed "The Jesus Bible" (tx.04) from the translations list. In its place, a small dot beside the
+chapter title on the King James Version — previously an unused stand-in for the study/read switch,
+built for the still-shelved Expositor's Translation feature and doing nothing visible since that
+feature was never launched — now toggles that chapter's text between the plain KJV wording and the
+Jesus Bible's first-person recasting of the same verses, wherever a Jesus Bible version exists (Mark,
+Romans, Galatians so far; the dot only appears on chapters those books cover). The Synopsis
+outline-fold navigation above the verses — Roman numeral, letter, number — is unaffected either way;
+only the wording inside each fold changes, since the outline is rebuilt from the same source regardless
+of which chapter's verses get sliced into it.
+
+Detached the dot fully from the old `toggleMode()`/`expMode` machinery it was piggybacking on (that
+coupling only ever existed because the dot used to double as both controls at once — with the dot now
+doing something unrelated, keeping that coupling around would have been actively wrong, not just
+unused). `data/jesus.js` itself is untouched; only how a reader reaches it changed. The per-book
+"I sent Mark..." style intros aren't rendered anywhere for now, since the page they lived on no longer
+exists and surfacing them elsewhere wasn't asked for — left as valid, unused data rather than deleted.
+
+Verified: all 1,255 KJV destinations render with zero errors with the toggle both on and off; Illumination's
+1,189 destinations are unaffected; the outline headings are byte-identical before and after toggling on a
+covered chapter, with only the verse text underneath changing.
+
 ## 2026-09-06 — A second Jesus Bible pass: three dangling "Who/Whom" references fixed
 
 A further read-through (user-requested, following the "we/us" fix above) checked every verse across

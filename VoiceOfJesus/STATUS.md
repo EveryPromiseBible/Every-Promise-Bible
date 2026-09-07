@@ -273,29 +273,45 @@ Paul "I."
   "himself" (11 total) in the output was checked and is another speaker's
   words about Him, not a missed narrator reference.
 
-## Site integration — done, as its own translation
+## Site integration — no longer its own translation; a KJV overlay instead
 
-Not a tab inside the KJV reader after all: it lives as **"The Jesus Bible,"**
-a fourth translation card (tx.04) alongside Mak/Illumination/KJV in the Bible
-section, built from `data/jesus.js` (`JESUS_BOOKS`, `JESUS`, `JESUS_INTROS`)
-— generated straight from this directory's `mark.json`/`romans.json`/
-`galatians.json`, same shape as `KJV` (one verse per entry), so it reuses the
-existing `buildIllumChapter` reader with no new rendering code. `CORPUS.jesus`
-wires it in; `isVerseTx` includes it; the testament filter is hidden (NT-only
-coverage so far, like Mak). Each finished book gets a short intro in Jesus's
-own voice (`JESUS_INTROS`, e.g. *"I sent Mark..."*, *"I sent Paul to set in
-order..."*, *"I sent Paul to the churches of Galatia..."*) composed from this
-project's own existing AUTHOR/PURPOSE/THEMES fields per book, not from Towns'
-wording — there is deliberately no separate whole-translation intro page,
-only the per-book ones.
+Originally shipped as **"The Jesus Bible,"** a fourth translation card (tx.04)
+alongside Mak/Illumination/KJV. The user asked to remove that card and fold
+its content into the KJV reader instead, reached by the small dot beside the
+chapter title (`#kjvJesusDot`, `toggleKjvJesus()`) that was previously an
+unused stand-in for the study/read switch on the KJV (see the shelved
+Expositor's Translation notes below — that dot's old wiring to `toggleMode`/
+`expMode` has been removed; it is fully independent now).
 
-Coverage is partial by design (3 of 66 books): the "jump to this verse in
-another translation" popup, search indexing, and reading-plan generation are
-left untouched rather than half-wired against an incomplete corpus.
+The dot appears only on a KJV chapter the Jesus Bible also covers (checked
+per chapter via `jesusChapterForRef(ref)` against `JESUS`, called from
+`loadIllum` — `updateKjvJesusDot`). Toggling it on swaps which verse text
+`buildKjvSynopsisChapter` slices into the Synopsis outline-fold navigation:
+the Jesus Bible's chapter (flattened across its own headed sections, which
+this function ignores) instead of the plain KJV's. The outline's own
+headings (Roman numeral / letter / number, from `ILLUMINATION_INTROS`'s
+SYNOPSIS field) are unaffected either way — only the wording inside each
+fold changes. Falls back to plain KJV wherever no Jesus Bible chapter exists
+for that reference, whatever the toggle's state.
 
-Each chapter is also broken into headed sections now, reusing the
-Illumination's own section headings and verse-range boundaries for Mark and
-Romans (original content from this project, not Towns' wording) rather than
-authoring a second set — the Jesus Bible's verses are sliced at the same
-points and carry the same heading text, verified to cover every verse in
-both books with no gaps or overlaps.
+`data/jesus.js` (`JESUS_BOOKS`, `JESUS`, `JESUS_INTROS`) is untouched by this
+change — only how a reader reaches it. `JESUS_INTROS` (the short per-book
+intros in Jesus's own voice, e.g. *"I sent Mark..."*) is no longer rendered
+anywhere: it had lived on the Jesus Bible's own per-book page, which no
+longer exists now that Jesus isn't a `currentTx` value. Left as valid,
+unused data rather than deleted, in case it gets a new home later; not
+resurrected here since it wasn't part of what was asked. `CORPUS.jesus`,
+`isVerseTx`'s jesus branch, and every `currentTx === 'jesus'` conditional
+across `switchTranslation`/`illumLabel`/`navPickerBooks` were removed as
+dead code once the card went away.
+
+Coverage is still partial by design (3 of 66 books): the "jump to this verse
+in another translation" popup, search indexing, and reading-plan generation
+remain untouched.
+
+Each Jesus Bible chapter is still broken into headed sections in its own
+data (reusing the Illumination's own section headings and verse-range
+boundaries for Mark, Romans, and Galatians) — that structure just isn't what
+renders when viewed through the KJV dot, since `buildKjvSynopsisChapter`
+always imposes its own outline-based grouping regardless of the input
+chapter's own sections.
