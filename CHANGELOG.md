@@ -1,5 +1,34 @@
 # CHANGELOG
 
+## 2026-09-06 — Fixed a theological gap in the Jesus Bible's Romans: collective "we" wrongly included Jesus
+
+A full theological review of all three finished Jesus Bible books (Mark, Romans, Galatians), requested
+by the user, found that Romans — written before the Galatians work discovered that collective
+"we/us/our" needs to convert to direct "ye/you" address — left about 60 such verses unconverted. That
+put statements in Jesus's own mouth that are false of Him: "while we were yet sinners, I died for us"
+(5:8) has Jesus calling Himself a former sinner; "we are buried with me... we believe that we shall also
+live with me" (6:4-8) has Jesus buried with Himself; "we ourselves groan... waiting for the adoption...
+the redemption of our body" (8:23) has Jesus's body still awaiting resurrection and Jesus needing
+adoption, when He's the natural Son; "make intercession for us" (8:34) has Jesus interceding for
+Himself. Mark and Galatians were both clean on this — Galatians because the rule was built there, Mark
+because gospel narrative doesn't raise the same problem.
+
+Checked against Elmer Towns' actual Romans before fixing: his practice is exactly this fix. He addresses
+the reader as "you" throughout every one of these passages ("while you were a great sinner," "you were
+buried with Me," "you too groan... your body," "intercede for you") and keeps chapter 16's greetings
+entirely third-person ("Paul... he... his"), which also caught a few smaller misses there (Paul's own
+apostolic call in 1:5, "our sister"/"our helper" in the greetings). One place deliberately left alone:
+3:5's "our unrighteousness" sits inside the KJV's own "(I speak as a man)" bracket, voicing a
+hypothetical objector rather than the narrator — Towns handles the same passage the same way, quoting it
+as someone else's argument.
+
+Fixed ~60 verses (converting to "ye/you/your," a few to third-person "Paul," hortatory "let us" to direct
+imperatives), re-spliced into `data/jesus.js`, and re-verified: still 433/433 verses, chapter counts
+unchanged, 22 residual "we/us/our" instances remain and every one is now a checked, deliberate exception
+(rhetorical "what shall we say" formulas, Abraham/Isaac as "our father" — true of Jesus by physical
+descent — and direct Old Testament quotations). All 41 Jesus Bible destinations render live with zero
+errors. Full writeup in `VoiceOfJesus/STATUS.md`.
+
 ## 2026-09-06 — The Jesus Bible: Galatians added
 
 Third book in the Jesus Bible, following the same method as Mark and Romans: the KJV wording is kept

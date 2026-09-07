@@ -134,6 +134,56 @@ survivor is an idiom, a title, a quotation, or the deliberate "my Father,
 the God of X" combined form), only 2 residual "Jesus Christ" (both the
 opening self-naming).
 
+## Fixed after the fact: collective "we/us/our" wrongly self-included Jesus
+
+A rule discovered while building Galatians (see below) exposed a real gap in
+the original Romans pass, done in an earlier session before that rule
+existed: roughly 60 verses left Paul's collective "we/us/our" — describing
+the shared condition of sinners in need of grace — unconverted, which put
+statements in Jesus's own mouth that are false of Him. *"While **we** were
+yet sinners, I died for us"* (5:8) has Jesus calling Himself a former
+sinner. *"**We** are buried with me... if **we** be dead with me, **we**
+believe that **we** shall also live with me"* (6:4-8) has Jesus buried with
+Himself. *"**We** ourselves groan... waiting for the adoption... the
+redemption of **our** body"* (8:23) has Jesus's own body still awaiting
+resurrection and Jesus needing adoption, when He is the natural Son, not an
+adopted one. *"Who also make intercession for **us**"* (8:34) has Jesus
+interceding for Himself. Caught on a user-requested theological review of
+all three finished books, not by the verse-count/residual-word checks,
+since none of those check pronouns without an explicit "God"/"Christ" noun
+attached.
+
+Checked against Towns' actual Romans (`Chapter046.html`) before fixing, and
+his practice is exactly the fix: he addresses the reader directly as "you"
+throughout every one of these passages — *"while you were a great
+sinner"* (5:8), *"you were buried with Me"* (6:6), *"you too groan... your
+body"* (8:23), *"intercede for you"* (8:34) — never self-inclusive "we" for
+Jesus. Chapter 16's greetings he keeps entirely third-person ("Paul... he...
+his"), confirming a handful of smaller misses there too (*"our sister"* →
+*"his sister"*, *"our helper"* → *"his helper"*, matching Paul's own
+perspective rather than the narrator's).
+
+Fixed by converting the self-inclusive "we/us/our" to direct "ye/you/your"
+address (or, for a few of Paul's own personal asides that were missed
+entirely, to third-person "Paul" — 1:5's apostolic call, 3:8's "as we be
+slanderously reported"), and converting hortatory "let us" to a direct
+imperative ("let us not judge one another" → "judge not one another"),
+matching the Galatians precedent throughout. One deliberate exception left
+alone: 3:5's "our unrighteousness" sits inside the KJV's own "(I speak as a
+man)" bracket, voicing a hypothetical objector rather than the narrator's
+own claim — Towns handles the same diatribe (3:7-8) by explicitly quoting
+it as someone else's argument, so the existing parenthetical already does
+the same job and the pronoun was left as-is. Also left alone throughout:
+rhetorical "what shall we say"/"we know"/"we conclude" formulas (no false
+claim about Jesus), Abraham/Isaac as "our father" (true of Jesus too by
+physical descent), and direct Old Testament quotations (8:36, 9:29, 10:16 —
+citation rule as always).
+
+Re-verified after the fix: still 433/433 verses, chapter counts unchanged;
+22 residual we/us/our instances remain, every one now checked and
+deliberate (the categories above); re-spliced into `data/jesus.js` and all
+41 Jesus Bible destinations render live with zero errors.
+
 ## Epistle rules (Galatians) — confirms Romans, adds two patterns
 
 Read against Elmer Towns' actual Galatians chapter (his book treats the
