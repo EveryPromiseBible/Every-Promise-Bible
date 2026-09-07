@@ -3,14 +3,14 @@ key: Genesis 12:4–9
 title: So Abram went
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The first obedience in the Abraham story, and the route is marked by altars.
 
 ## The command he is obeying
 
-*"Get out of your country, from your family and from your father's house, to a land that I will
+**12:1**: *"Get out of your country, from your family and from your father's house, to a land that I will
 show you."*
 
 Three separations, and no destination given.
@@ -19,7 +19,7 @@ Hebrews notes it: *he went out, **not knowing where he was going**.*
 
 ## The obedience
 
-*So Abram went, **just as the LORD had told him**.*
+**12:4** *So Abram went, **just as the LORD had told him**.*
 
 Three words in Hebrew — **vayyelekh Avram**. And Abram went.
 
@@ -27,7 +27,7 @@ No discussion is recorded.
 
 ## The passenger
 
-*And **Lot went with him**.*
+Still **12:4**: *And **Lot went with him**.*
 
 Genesis mentions it in the same breath.
 
@@ -38,14 +38,14 @@ angels, the cave — starts in this clause. See the note on Genesis 13:5–13.
 
 ## The age
 
-*Abram was **75 years old** when he set out from Haran.*
+The end of **12:4**: *Abram was **75 years old** when he set out from Haran.*
 
 Not a young man starting out. The promise about descendants is made to somebody at an age when
 the question is settled.
 
 ## What he took
 
-*His wife Sarai, his nephew Lot, **all the possessions they had gathered**, and **the people
+**12:5** *His wife Sarai, his nephew Lot, **all the possessions they had gathered**, and **the people
 they had acquired in Haran**.*
 
 A household, not a solitary pilgrim. Chapter 14 records three hundred and eighteen trained men
@@ -53,22 +53,22 @@ born in it.
 
 ## The arrival
 
-*They set out for the land of Canaan, and **there they arrived**.*
+The rest of **12:5**: *They set out for the land of Canaan, and **there they arrived**.*
 
 ## Shechem
 
-*Abram traveled through the land as far as **Shechem, to the great tree of Moreh**.*
+**12:6** *Abram traveled through the land as far as **Shechem, to the great tree of Moreh**.*
 
 **Moreh** means *teacher*, and the tree was probably a local shrine site.
 
-*At that time **the Canaanites lived in the land**.*
+The rest of **12:6**: *At that time **the Canaanites lived in the land**.*
 
 The narrator adds it before the promise, not after. The land he is being given has people in
 it.
 
 ## The promise
 
-*Then the LORD appeared to Abram and said, "**To your offspring I will give this land**."*
+**12:7** *Then the LORD appeared to Abram and said, "**To your offspring I will give this land**."*
 
 The first appearance. The call in verse 1 was a voice in Haran; this is the LORD appearing, in
 the country.
@@ -78,13 +78,13 @@ children.
 
 ## The first altar
 
-*So Abram **built an altar there to the LORD, who had appeared to him**.*
+The rest of **12:7**: *So Abram **built an altar there to the LORD, who had appeared to him**.*
 
 The reason is given. He builds where God showed up.
 
 ## The second
 
-*From there he moved on toward the hills east of Bethel and pitched his tent, with **Bethel to
+**12:8** *From there he moved on toward the hills east of Bethel and pitched his tent, with **Bethel to
 the west and Ai to the east**. There he **built another altar** to the LORD and **called on the
 name of the LORD**.*
 
@@ -105,7 +105,7 @@ Hebrews 11:8–12.
 
 ## The continuing
 
-*Then Abram journeyed on, **continuing toward the Negev**.*
+**12:9** *Then Abram journeyed on, **continuing toward the Negev**.*
 
 Which is where the famine finds him, and the next paragraph is Egypt and the lie about his
 wife. See the note on Genesis 12:10–20.

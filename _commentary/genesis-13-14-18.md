@@ -8,14 +8,14 @@ sources:
   - 2021-02-28 prophetic-hope-for-the-future
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-05-01 guard-the-imaginations-of-your-heart
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 God speaks to Abram at the moment he has just given away the best land.
 
 ## The timing
 
-*After **Lot had gone**.*
+**13:14** *After **Lot had gone**.*
 
 Abram had offered his nephew first choice: *if you take the left, then I will go to the
 right*. Lot *lifted his eyes and saw all the plain of Jordan, that it was well watered
@@ -38,7 +38,7 @@ exactly that way: *after Lot had gone*.
 
 ## The instruction
 
-*"**Look around you, from where you are**."*
+Still **13:14**: *"**Look around you, from where you are**."*
 
 The Hebrew is *lift up your eyes now and look from the place where you are*.
 
@@ -48,17 +48,17 @@ Lot had lifted his eyes and chosen. Abram is told to lift his and look at what i
 
 ## The four directions
 
-*"To the **north and south**, the **east and west**."*
+The end of **13:14**: *"To the **north and south**, the **east and west**."*
 
 ## The promise
 
-*"**All the land you see I will give to you and your offspring forever**."*
+**13:15** *"**All the land you see I will give to you and your offspring forever**."*
 
 The whole of it, including the plain Lot took.
 
 ## The offspring
 
-*"I will make your offspring **like the dust of the earth** — **if anyone could count the
+**13:16** *"I will make your offspring **like the dust of the earth** — **if anyone could count the
 dust, then your descendants could be counted**."*
 
 Dust here; stars in chapter 15, when he is taken outside at night; sand on the seashore in
@@ -71,7 +71,7 @@ this land.
 
 ## The walking
 
-*"**Go, walk through the length and breadth of the land**, for **I am giving it to you**."*
+**13:17** *"**Go, walk through the length and breadth of the land**, for **I am giving it to you**."*
 
 Present participle: *I am giving*.
 
@@ -91,7 +91,7 @@ possession.*
 
 ## What he did
 
-*So Abram **moved his tent** and went to live near **the great trees of Mamre at Hebron**,
+**13:18** *So Abram **moved his tent** and went to live near **the great trees of Mamre at Hebron**,
 and there **he built an altar to the LORD**.*
 
 He moves, and builds. Genesis marks his route by altars — Shechem, Bethel, and now Hebron.

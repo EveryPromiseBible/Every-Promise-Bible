@@ -5,7 +5,7 @@ sources:
   - 2019-02-17 find-answers-in-your-darkest-times
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The chapter opens with the greatest promise in the Old Testament and closes with
@@ -13,7 +13,7 @@ the man who received it lying to a foreign king about his wife.
 
 ## "Went down"
 
-*Abram **went down** to Egypt.*
+**12:10** *Abram **went down** to Egypt.*
 
 The verb is geographical — Egypt is lower ground — and Genesis uses it that way
 consistently. But the direction is the whole shape of the story.
@@ -27,7 +27,7 @@ he sees a famine and he moves.
 
 ## The plan
 
-*"Say you are my sister, **so that I will be treated well for your sake** and my
+**12:13** *"Say you are my sister, **so that I will be treated well for your sake** and my
 life will be spared because of you."*
 
 He works out the arithmetic before he crosses the border. His wife is the price
@@ -38,7 +38,7 @@ usable. It is the kind of lie that can be defended.
 
 ## What he gained
 
-*Pharaoh treated Abram well for her sake, and Abram acquired sheep and cattle,
+**12:16** *Pharaoh treated Abram well for her sake, and Abram acquired sheep and cattle,
 donkeys, male and female servants, and **camels**.*
 
 The plan worked. He came out of Egypt richer than he went in.
@@ -52,7 +52,7 @@ What he picked up in Egypt he took home with him.
 
 ## Who protected the promise
 
-*But the LORD struck Pharaoh and his household with serious diseases because of
+**12:17** *But the LORD struck Pharaoh and his household with serious diseases because of
 Sarai, Abram's wife.*
 
 Abram does not fix this. He does not pray, confess, or intervene. God moves
@@ -63,14 +63,14 @@ the One who made it while the man who received it is silent.
 
 ## The rebuke
 
-*"What have you done to me? Why didn't you tell me she was your wife?"*
+**12:18** *"What have you done to me? Why didn't you tell me she was your wife?"*
 
 A pagan king rebukes the friend of God, and every word of the rebuke is just.
 Abram has no reply recorded.
 
 ## Where he goes next
 
-*Abram went **up** from Egypt… to the place where his tent had been at the
+**Genesis 13:3–4**: *Abram went **up** from Egypt… to the place where his tent had been at the
 beginning… to the place of the altar he had made there at first, and there Abram
 called on the name of the LORD.*
 
@@ -92,7 +92,7 @@ had was a promise, and the promise was not on the table at any point in the epis
 
 ## Who protected it
 
-*But the LORD struck Pharaoh… because of Sarai, Abram's wife.*
+Still **12:17**: *But the LORD struck Pharaoh… because of Sarai, Abram's wife.*
 
 Abram does not pray, confess or intervene. He is silent for the whole rescue, and God moves on
 a foreign palace to get the mother of the promised son back out of it.
@@ -100,6 +100,6 @@ a foreign palace to get the mother of the promised son back out of it.
 The covenant was defended by the One who made it, while the man who received it said nothing.
 
 > **What is not said.** Not one sentence of condemnation from God. The next time
-> He speaks to Abram, in chapter 13, it is to enlarge the promise: *lift up your
+> He speaks to Abram, in chapter 13, it is to enlarge the promise, **Genesis 13:14–15**: *lift up your
 > eyes and look… all the land you see I will give to you.* The detour is recorded
 > in full, and it does not cost him the covenant.

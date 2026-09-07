@@ -6,14 +6,14 @@ sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-10-30 take-back-your-identity-in-christ
   - 2025-09-07 walk-in-gods-gifts-for-you
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 He goes back the way he came, and stops at the exact spot he left.
 
 ## Up from Egypt
 
-*So Abram **went up from Egypt** to the Negev, with his wife and everything he had.*
+**13:1** *So Abram **went up from Egypt** to the Negev, with his wife and everything he had.*
 
 The Hebrew is always *up* from Egypt and *down* into it, regardless of the map. The
 direction of travel in Scripture is theological before it is geographical.
@@ -23,7 +23,7 @@ took her into the palace. See the note on Genesis 12:10–20.
 
 ## What he came out with
 
-*Abram had become **very wealthy in livestock, silver, and gold**.*
+**13:2** *Abram had become **very wealthy in livestock, silver, and gold**.*
 
 The Hebrew is **kabed** — heavy. The word for glory shares the root.
 
@@ -34,7 +34,7 @@ Nothing is taken back off him. Verse 2 sits there without a word of comment.
 
 ## Everything he had
 
-*With his wife and **everything he had**, and Lot went with him.*
+**13:1**: *With his wife and **everything he had**, and Lot went with him.*
 
 Sarai is back. Lot is still with him — and the wealth in this verse is what makes them
 part company nine verses later, because *the land was not able to support them dwelling
@@ -42,13 +42,13 @@ together.*
 
 ## The return route
 
-*From the Negev he journeyed **from place to place** until he came back to Bethel.*
+**13:3** *From the Negev he journeyed **from place to place** until he came back to Bethel.*
 
 The Hebrew is *by his journeys* — the same stages, in reverse. He retraces the trip.
 
 ## The place
 
-*To **the spot between Bethel and Ai** where he **had first pitched his tent and built
+The rest of **13:3**, then **13:4**: *To **the spot between Bethel and Ai** where he **had first pitched his tent and built
 an altar**.*
 
 Bethel means *house of God*. Ai means *ruin*. He pitches between them, as he had
@@ -59,7 +59,7 @@ wording, so the reader knows it is the same ground.
 
 ## What he does there
 
-*There Abram **called on the name of the LORD once more**.*
+The end of **13:4**: *There Abram **called on the name of the LORD once more**.*
 
 He goes back to the altar and picks up where he stopped.
 

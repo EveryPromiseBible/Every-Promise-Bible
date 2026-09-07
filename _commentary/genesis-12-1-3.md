@@ -8,14 +8,14 @@ sources:
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-06-11 blessed-with-father-abrahams-blessings
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Everything after Babel starts here, with one man and a sentence.
 
 ## The three things to leave
 
-*"**Leave your country, your people, and your father's household**."*
+**12:1** *"**Leave your country, your people, and your father's household**."*
 
 Three, and they narrow as they go — nation, clan, then the household he was raised
 in.
@@ -24,7 +24,7 @@ The last is the hardest and it is named last.
 
 ## Where to
 
-*"**Go to the land I will show you.**"*
+Still **12:1**: *"**Go to the land I will show you.**"*
 
 Not a land I have shown you. **Will** show.
 
@@ -35,7 +35,7 @@ He is given a direction and no destination.
 
 ## The seven
 
-Count the promises:
+Count the promises, **12:2–3**:
 
 - **I will make you into a great nation**
 - **I will bless you**
@@ -49,7 +49,7 @@ Seven, and six of them begin with *I will*.
 
 ## The name
 
-*"I will make **your name great**."*
+**12:2**: *"I will make **your name great**."*
 
 Babel is the chapter immediately before this. *Come, let us build ourselves a city,
 and a tower whose top is in the heavens; and **let us make a name for ourselves**.*
@@ -59,7 +59,7 @@ is scattered; one man is given one and told to walk.
 
 ## The last clause
 
-*"**Through you all the families of the earth will be blessed.**"*
+**12:3**: *"**Through you all the families of the earth will be blessed.**"*
 
 The nations were just divided in chapter 10 and scattered in chapter 11.
 
@@ -74,7 +74,7 @@ nations shall be blessed.*
 No law, no covenant sign, no Scripture, no priest and no tabernacle. A sentence, and
 a road.
 
-*So Abram departed as the LORD had spoken to him* — the next verse — *and Abram was
+**12:4**: *So Abram departed as the LORD had spoken to him… and Abram was
 seventy-five years old.*
 
 ## The Illumination's note on it

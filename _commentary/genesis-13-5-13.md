@@ -3,54 +3,54 @@ key: Genesis 13:5–13
 title: Lot looked out
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The parting of the two men, and Genesis tells you how each of them chose.
 
 ## The problem
 
-*Now Lot, who was traveling with Abram, **also had flocks and herds and tents**.*
+**13:5** *Now Lot, who was traveling with Abram, **also had flocks and herds and tents**.*
 
 The wealth is the trouble. Both men have done well, and the land cannot carry two operations.
 
-*But the land could not support them both while they stayed together, for **their possessions
+**13:6** *But the land could not support them both while they stayed together, for **their possessions
 were too great**.*
 
 ## The friction
 
-*Quarreling broke out **between Abram's herders and Lot's**.*
+**13:7** *Quarreling broke out **between Abram's herders and Lot's**.*
 
 Between the staff, not the principals. That is how it usually starts.
 
 ## The parenthesis
 
-*(The **Canaanites and Perizzites** were also living in the land at that time.)*
+The rest of **13:7**: *(The **Canaanites and Perizzites** were also living in the land at that time.)*
 
 Genesis drops it in as an aside, and it is not decorative. The neighbours are watching two
 relatives fall out over grazing rights.
 
 ## The offer
 
-*"**Let there be no strife between you and me**, or between our herders, **for we are
+**13:8** *"**Let there be no strife between you and me**, or between our herders, **for we are
 family**."*
 
 The Hebrew is *for we are men, brothers*.
 
-*"Isn't the **whole land before you**? Let us part ways. **If you go to the left, I will go to
+**13:9** *"Isn't the **whole land before you**? Let us part ways. **If you go to the left, I will go to
 the right**; if you go to the right, I will go to the left."*
 
 Abram is the elder and the one the land was promised to. He gives away first choice.
 
 ## The looking
 
-*Lot **looked out and saw** that the whole plain of the Jordan was **well watered**.*
+**13:10** *Lot **looked out and saw** that the whole plain of the Jordan was **well watered**.*
 
 The Hebrew is **vayyissa Lot et-enav vayyar** — Lot lifted up his eyes and saw.
 
 ## The comparison
 
-*Like **the garden of the LORD**, like **the land of Egypt**.*
+Still **13:10**: *Like **the garden of the LORD**, like **the land of Egypt**.*
 
 Two comparisons in one clause, and they do not belong together.
 
@@ -61,7 +61,7 @@ The narrator lets both stand.
 
 ## The note in brackets
 
-*(This was **before the LORD destroyed Sodom and Gomorrah**.)*
+Still **13:10**: *(This was **before the LORD destroyed Sodom and Gomorrah**.)*
 
 Genesis tells the reader what Lot cannot see. The best-watered land in the region is going to
 be a salt waste.
@@ -70,13 +70,13 @@ The choosing is done on visible evidence, and the visible evidence is accurate a
 
 ## The choice
 
-*So Lot **chose for himself** the whole plain of the Jordan.*
+**13:11** *So Lot **chose for himself** the whole plain of the Jordan.*
 
 The Hebrew is **vayyivchar-lo** — chose for himself.
 
 ## The two settlements
 
-*Abram settled **in the land of Canaan**, while Lot **lived among the cities of the plain and
+**13:12** *Abram settled **in the land of Canaan**, while Lot **lived among the cities of the plain and
 pitched his tents near Sodom**.*
 
 The Hebrew is *pitched his tent as far as Sodom* — a drift, not an arrival.
@@ -88,7 +88,7 @@ Three stages, and Genesis records each one without comment.
 
 ## The last line
 
-*Now the people of Sodom were **wicked, sinning greatly against the LORD**.*
+**13:13** *Now the people of Sodom were **wicked, sinning greatly against the LORD**.*
 
 Placed immediately after the description of where he pitched.
 
