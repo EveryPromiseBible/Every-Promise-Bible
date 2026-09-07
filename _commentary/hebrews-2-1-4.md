@@ -4,7 +4,7 @@ title: Swept past it
 sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-12
+updated: 2026-09-07
 ---
 
 The first of the letter's warnings, and the danger it names is drifting rather than rebelling.
@@ -21,7 +21,7 @@ Seven Old Testament quotations, all showing Him higher than the angels.
 
 ## The instruction
 
-*We must give what we have heard **a far closer hearing than we have been giving it**.*
+**2:1** *We must give what we have heard **a far closer hearing than we have been giving it**.*
 
 The Greek is **dei** — it is necessary, one must — paired with **perissoteros prosechein**, to
 give more abundant heed. Not a debt owed; a necessity that follows from who Christ is, the
@@ -29,7 +29,7 @@ subject of the whole chapter before this one.
 
 ## The danger
 
-*Or at some point **we will be swept right past it**.*
+Still **2:1**: *Or at some point **we will be swept right past it**.*
 
 The Greek is **pararuomen** — to flow past, to drift by. A nautical word: a ship carried past
 its harbour by a current.
@@ -40,7 +40,7 @@ Nothing has to be decided for this to happen. That is the point of choosing the 
 
 ## The argument from the lesser
 
-*The message that came **through angels** held firm, and **every violation of it, every refusal
+**2:2** *The message that came **through angels** held firm, and **every violation of it, every refusal
 to obey, was paid back exactly what it was owed**.*
 
 The Greek is **endikon misthapodosian** — a just recompense.
@@ -54,7 +54,7 @@ Exodus 19:10–13.
 
 ## The question
 
-*Then **how will we escape, if we treat a rescue this enormous as nothing?**"*
+**2:3** *Then **how will we escape, if we treat a rescue this enormous as nothing?**"*
 
 The Greek is **telikautes** — so great.
 
@@ -67,11 +67,11 @@ Nobody in that parable was hostile. They had other things on.
 
 ## The three witnesses
 
-*The Lord was the first to speak of it.*
+Still **2:3**: *The Lord was the first to speak of it.*
 
 *The people who heard Him **made it certain to us**.*
 
-*And **God signed His name to it alongside them**.*
+**2:4** *And **God signed His name to it alongside them**.*
 
 Three tiers: the Lord, the hearers, and God's own confirmation.
 
@@ -80,7 +80,7 @@ the reasons Hebrews is not thought to be by an eyewitness.
 
 ## The signature
 
-*With **signs**, with **wonders**, with **powers of every kind at work**, and with **gifts of
+The rest of **2:4**: *With **signs**, with **wonders**, with **powers of every kind at work**, and with **gifts of
 the Holy Spirit handed out however He wanted**.*
 
 The Greek is **sunepimarturountos** — bearing witness alongside. One word.
@@ -97,7 +97,7 @@ departing from the living God*. See the note on Hebrews 3:12–15.
 
 ## What is being drifted past
 
-*So great a salvation.*
+Back to **2:3**: *So great a salvation.*
 
 The Greek word order puts the size first. The thing at risk is not standing; it is attention.
 

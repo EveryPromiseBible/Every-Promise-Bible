@@ -16,14 +16,14 @@ sources:
   - 2025-02-16 count-on-your-forgiveness
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-06-22 no-more-fear-of-death
-updated: 2026-08-11
+updated: 2026-09-07
 ---
 
 The opening sentence of the letter, and it ends on a posture.
 
 ## How God used to speak
 
-*In piece after piece, and in one way after another, and through the prophets.*
+**1:1** *In piece after piece, and in one way after another, and through the prophets.*
 
 Two words in Greek, both beginning with the same sound — in many portions and in
 many manners. Fragments, over centuries, by dreams and visions and voices and
@@ -33,7 +33,7 @@ Nothing about that is criticised. It is simply described as partial.
 
 ## How He speaks now
 
-*He has spoken to us **in a Son**.*
+**1:2** *He has spoken to us **in a Son**.*
 
 No article in the Greek — not *through the Son* as one more prophet in the line,
 but in the manner of a Son. The mode of communication has changed, not just the
@@ -41,7 +41,7 @@ messenger.
 
 ## What is said about Him
 
-*God's own glory, blazing out. He is exactly what God is, pressed into view.*
+**1:3** *God's own glory, blazing out. He is exactly what God is, pressed into view.*
 
 The second image is from a seal pressed into wax — the exact impression, every
 feature reproduced. The word is **charakter**, which is where our word comes
@@ -52,7 +52,7 @@ up like a pillar. Carrying it forward, by speaking.
 
 ## The last clause
 
-*And when He had cleansed our sins away Himself, **He sat down**.*
+**1:3** *And when He had cleansed our sins away Himself, **He sat down**.*
 
 Priests in the tabernacle did not sit. There was no chair in it — the work never
 finished, because the sacrifices never finished.
@@ -62,7 +62,7 @@ whole argument in one verb: the sitting proves the work is over.
 
 ## What happened before He sat
 
-The order of the clauses is the gospel in one line: *when He had **by Himself purged our sins**, He
+The order of the clauses is the gospel in one line, still **1:3**: *when He had **by Himself purged our sins**, He
 sat down.*
 
 **Di heautou** — through Himself, alone. No assistant, no repetition, nothing brought by anyone
@@ -75,6 +75,6 @@ lampstand and a lid of mercy, and nowhere to rest, since the work was never fini
 
 Jesus Christ sat because there was nothing left to do about your sins.
 
-> **Where He sat.** *At the right hand of Majesty, in the heights.* Not merely
+> **Where He sat.** **1:3**: *At the right hand of Majesty, in the heights.* Not merely
 > resting — the position of authority beside the throne. Finished, and seated in
 > the place of rule.

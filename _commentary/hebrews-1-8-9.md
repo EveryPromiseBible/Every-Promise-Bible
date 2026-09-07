@@ -3,14 +3,14 @@ key: Hebrews 1:8–9
 title: The oil of gladness
 sources:
   - 2024-07-21 freedom-from-the-spirit-of-depression
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The fourth of seven quotations, and the Father addresses the Son as God.
 
 ## The frame
 
-*But **to the Son He says**.*
+**1:8** *But **to the Son He says**.*
 
 The Greek is **pros de ton huion**.
 
@@ -19,7 +19,7 @@ one is the strongest.
 
 ## The address
 
-*"**God, Your throne stands forever and ever**."*
+Still **1:8**: *"**God, Your throne stands forever and ever**."*
 
 The Greek is **ho thronos sou ho Theos eis ton aiona tou aionos**.
 
@@ -45,7 +45,7 @@ Hebrews follows the Septuagint's vocative reading and builds an argument on it.
 
 ## The sceptre
 
-*"And **the scepter You rule by is a scepter of what is right**."*
+The rest of **1:8**: *"And **the scepter You rule by is a scepter of what is right**."*
 
 The Greek is **rhabdos euthutetos** — a rod of uprightness.
 
@@ -53,7 +53,7 @@ The instrument of rule is described by its moral character rather than its power
 
 ## The two verbs
 
-*"You **loved what is right** and **hated what is lawless**."*
+**1:9** *"You **loved what is right** and **hated what is lawless**."*
 
 The Greek is **egapesas dikaiosunen kai emisesas anomian**.
 
@@ -63,7 +63,7 @@ The pair is the point: loving one and hating the other are the same posture.
 
 ## The consequence
 
-*"**That is why** God, Your God, has poured over You the oil of gladness."*
+Still **1:9**: *"**That is why** God, Your God, has poured over You the oil of gladness."*
 
 The Greek is **dia touto** — on account of this.
 
@@ -85,7 +85,7 @@ The image here is festal rather than official: oil poured over somebody at a cel
 
 ## The measure
 
-*"And **given You more of it than anyone beside You**."*
+The end of **1:9**: *"And **given You more of it than anyone beside You**."*
 
 The Greek is **para tous metochous sou** — beyond Your companions.
 

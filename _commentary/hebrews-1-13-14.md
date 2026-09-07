@@ -3,7 +3,7 @@ key: Hebrews 1:13–14
 title: Spirits sent out on errands
 sources:
   - 2024-01-21 live-with-a-heavenly-perspective
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The last of seven quotations, and it closes a case about seating.
@@ -17,7 +17,7 @@ Seven Old Testament quotations follow, each asked as *to which of the angels did
 
 ## The question
 
-*And did He ever say to an angel, "**Sit at My right hand until I make Your enemies a stool for Your
+**1:13** *And did He ever say to an angel, "**Sit at My right hand until I make Your enemies a stool for Your
 feet**"?*
 
 Psalm 110:1, the most quoted Old Testament verse in the New Testament. See the note on
@@ -31,7 +31,7 @@ Every quotation in the chapter is framed to produce it.
 
 ## What angels do instead of sit
 
-*Are not they every one of them **spirits in God's service, sent out on errands**?*
+**1:14** *Are not they every one of them **spirits in God's service, sent out on errands**?*
 
 The Greek is **leitourgika pneumata eis diakonian apostellomena**.
 
@@ -47,7 +47,7 @@ The whole chapter turns on posture: the Son sat down, and the angels are dispatc
 
 ## Who they are sent for
 
-*For the sake of **the people who are going to inherit salvation**.*
+The rest of **1:14**: *For the sake of **the people who are going to inherit salvation**.*
 
 The Greek is **dia tous mellontas kleronomein soterian**.
 
@@ -91,7 +91,7 @@ an angel of the God to whom I belong and whom I serve*.
 
 ## What the next verse says
 
-*Therefore **we must give the more earnest heed to the things we have heard**, lest we drift away.*
+**2:1** *Therefore **we must give the more earnest heed to the things we have heard**, lest we drift away.*
 
 The Greek is **pararuomen** — lest we drift, as a boat slips its mooring.
 

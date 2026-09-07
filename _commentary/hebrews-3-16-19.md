@@ -4,7 +4,7 @@ title: "Unbelief was what kept them out"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-06-13 he-goes-ahead-of-you
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Three questions and an answer, and the writer makes the reader do the work.
@@ -16,8 +16,8 @@ supplies it, and the effect is that the conclusion is drawn rather than announce
 
 ## The first
 
-*"**Some of them heard and pushed Him to it anyway** — though **not all of the ones Moses
-brought out of Egypt did**."*
+**3:16** *"**Some of them heard and pushed Him to it anyway** — though **not all of the ones
+Moses brought out of Egypt did**."*
 
 The exception matters. Caleb and Joshua came out of Egypt and went in.
 
@@ -25,7 +25,7 @@ The writer is careful not to say the whole generation.
 
 ## The second
 
-*"And **who was it He was grieved with for forty years?**"*
+**3:17** *"And **who was it He was grieved with for forty years?**"*
 
 *"Was it not **the ones who sinned, the ones whose bodies dropped in the desert?**"*
 
@@ -35,7 +35,7 @@ Forty years of walking, and a funeral every few days.
 
 ## The third
 
-*"And **who did He swear about, that they would never enter His rest?**"*
+**3:18** *"And **who did He swear about, that they would never enter His rest?**"*
 
 *"**The ones who refused to believe**."*
 
@@ -46,7 +46,7 @@ refuses to believe the Son will not see life*. See the note on John 3:31–36.
 
 ## The conclusion
 
-*"So we can see it plainly: **they could not get in. Unbelief was what kept them out**."*
+**3:19** *"So we can see it plainly: **they could not get in. Unbelief was what kept them out**."*
 
 The Greek is *because of unbelief* — **di' apistian**.
 
@@ -57,14 +57,14 @@ Numbers 13:26–33.
 
 ## What the writer does with it
 
-He turns it on the reader immediately. The next verse: *therefore, since a promise remains
-of entering His rest, **let us fear lest any of you seem to have come short of it**.* See the
-note on Hebrews 4:1–3.
+He turns it on the reader immediately. The next verse, **4:1**: *therefore, since a promise
+remains of entering His rest, **let us fear lest any of you seem to have come short of it**.*
+See the note on Hebrews 4:1–3.
 
 ## The diagnosis he gives there
 
-*The good news came to us **just as it came to them**. But **hearing it did them no good,
-because it never mixed with any faith** in the ones who heard it.*
+**4:2** *The good news came to us **just as it came to them**. But **hearing it did them no
+good, because it never mixed with any faith** in the ones who heard it.*
 
 The Greek is **sunkerannumi** — blended, compounded into one substance.
 
@@ -86,20 +86,20 @@ heard, were on the road, and stopped at the border.
 
 ## Where the argument lands
 
-*There remains therefore a **Sabbath rest** for the people of God.* See the note on
+**4:9** *There remains therefore a **Sabbath rest** for the people of God.* See the note on
 Hebrews 4:8–11.
 
 The offer outlives the generation that missed it.
 
 ## What the rest turned out to be
 
-The writer diagnoses unbelief, and then in the next breath says what belief gets you: *for **we who
-have believed do enter that rest**.*
+The writer diagnoses unbelief, and then in the next breath says what belief gets you —
+**4:3**: *for **we who have believed do enter that rest**.*
 
-And he defines the rest by a comparison nobody expects: *he who has entered His rest has himself
-also ceased from his works, **as God did from His**.* The model for Christian rest is the seventh day
-of creation — a rest entered not because the work is going well but because it is finished and
-somebody else finished it.
+And he defines the rest by a comparison nobody expects, **4:10**: *he who has entered His
+rest has himself also ceased from his works, **as God did from His**.* The model for
+Christian rest is the seventh day of creation — a rest entered not because the work is going
+well but because it is finished and somebody else finished it.
 
 That is why the alternative to unbelief in this letter is never harder marching. It is Jesus Christ,
 seated, and a people who stop trying to add to a completed work and go in.

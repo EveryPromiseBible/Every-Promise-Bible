@@ -1,14 +1,14 @@
 ---
 key: Hebrews 1:4–5
 title: "The name He came into"
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The letter opens by placing the Son above the angels, and the ground given is not power. It is a
 name and a relationship.
 
 ## Inherited, not awarded
 
-*That set Him as far above the angels as **the name He has come into** is above theirs.*
+**1:4** *That set Him as far above the angels as **the name He has come into** is above theirs.*
 
 **Kekleronomeken** — has inherited. A perfect tense, and an inheritance word: this is not a title
 voted to Him for services rendered. It came to Him as a Son, which is the point of the two
@@ -16,7 +16,7 @@ quotations that follow.
 
 ## "You are My Son"
 
-*"You are My Son; **today I have become Your Father**."*
+**1:5** *"You are My Son; **today I have become Your Father**."*
 
 Psalm 2, and the New Testament tells us where that *today* landed. Preaching in Antioch, Paul says
 God fulfilled the promise *in that He has raised up Jesus, as it is also written in the second
@@ -28,7 +28,7 @@ creation was told.
 
 ## "I will be a Father to Him"
 
-The second quotation is Nathan's word to David: *I will be a Father to him, and he shall be a son to
+Still **1:5**, its second half: the second quotation is Nathan's word to David: *I will be a Father to him, and he shall be a son to
 Me* — spoken in the first instance about Solomon, a boy who built a temple and then lost his way.
 
 Hebrews lifts it out and asks the question that settles the argument: *did God ever say that to an
