@@ -8,14 +8,14 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2022-05-01 guard-the-imaginations-of-your-heart
   - 2023-04-16 unveiling-jesus-heart-to-serve-you
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two ingredients, and the account is careful about which one came from where.
 
 ## The verb
 
-*Then the LORD God **stooped down and formed** a man from the dust of the ground.*
+**2:7** *Then the LORD God **stooped down and formed** a man from the dust of the ground.*
 
 The Hebrew is **yatsar** — the potter's word. It is used of a craftsman working clay,
 and it implies hands.
@@ -25,7 +25,7 @@ and light was. This one is made by hand.
 
 ## The dust
 
-*From **the dust of the ground**.*
+Still **2:7**: *From **the dust of the ground**.*
 
 **Adamah** is ground, soil. **Adam** is the man. The name and the material are the
 same word.
@@ -35,7 +35,7 @@ frame; He remembers that we are dust.*
 
 ## The breath
 
-*And He **breathed into his nostrils the breath of life**.*
+Still **2:7**: *And He **breathed into his nostrils the breath of life**.*
 
 Face to face. Whatever this is, it is not done at a distance.
 
@@ -44,7 +44,7 @@ and of human life.
 
 ## What the two make
 
-*And the man became **a living soul** — dust and breath, earth and God, joined
+The end of **2:7**: *And the man became **a living soul** — dust and breath, earth and God, joined
 together.*
 
 **Nephesh chayyah** — a living being. The whole man is the soul; the account does not
@@ -54,12 +54,12 @@ Dust on its own is dirt. Breath on its own is not a man. The person is the join.
 
 ## What was not there yet
 
-*No fields yet green, no plants yet sprung up, for the LORD God had **not sent
+**2:5** *No fields yet green, no plants yet sprung up, for the LORD God had **not sent
 rain**, and there was **no one to work the ground**.*
 
 Two absences named, and only one of them is about the man.
 
-*Instead a mist rose up from the earth and watered the whole surface of the soil.*
+**2:6** *Instead a mist rose up from the earth and watered the whole surface of the soil.*
 
 The ground is watered before there is anybody to farm it. He arrives into a place
 already provided for. See the note on Genesis 2:1–3.

@@ -9,7 +9,7 @@ sources:
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2024-03-31 death-has-been-defeated
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The sixth day, and the account changes register for it.
@@ -25,7 +25,7 @@ hovering over the waters in verse 2.
 
 ## The image
 
-*In the image of God He created them; male and female He created them.*
+**1:27** *In the image of God He created them; male and female He created them.*
 
 Said three times in one verse, which is how Hebrew emphasises. And the second
 clause is part of the definition, not an afterthought — the image is carried by
@@ -37,7 +37,7 @@ representation, placed where the king is not visibly present.
 
 ## What they are given
 
-*Have children, and multiply, and fill the earth, and tend it. I am placing it
+**1:28–29**: *Have children, and multiply, and fill the earth, and tend it. I am placing it
 all in your care.*
 
 The older translations say *subdue* and *have dominion*, and the words are strong.
@@ -46,7 +46,7 @@ else, by people made to look like Him.
 
 ## "Very good"
 
-*Then God looked over everything He had made — and it was not merely good, it was
+**1:31** *Then God looked over everything He had made — and it was not merely good, it was
 very good.*
 
 The refrain through the chapter has been *good*, five times. Only at the end,

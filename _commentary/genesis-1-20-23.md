@@ -3,14 +3,14 @@ key: Genesis 1:20–23
 title: Life fills sea and sky
 sources:
   - 2024-03-31 death-has-been-defeated
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The fifth day, and two new words appear for the first time.
 
 ## The command
 
-*God said, "**Let the waters swarm with living things**, and let birds fly across the sky."*
+**1:20** *God said, "**Let the waters swarm with living things**, and let birds fly across the sky."*
 
 The Hebrew is **yishretzu hammayim sheretz nephesh chayyah** — let the waters swarm with swarms of
 living soul.
@@ -28,7 +28,7 @@ the man: *and man became a **living soul***.
 
 ## The new verb
 
-*So **God made the great creatures of the sea**.*
+**1:21** *So **God made the great creatures of the sea**.*
 
 The Hebrew is **vayyivra** — and God created.
 
@@ -40,7 +40,7 @@ The three uses mark the three thresholds: matter, animal life, and human life.
 
 ## The great creatures
 
-*The **great creatures of the sea**.*
+Still **1:21**: *The **great creatures of the sea**.*
 
 The Hebrew is **hattanninim haggedolim** — the great sea monsters.
 
@@ -52,11 +52,11 @@ Genesis lists them as things God made on a Thursday.
 
 ## The verdict
 
-*And **God saw that it was good**.*
+The end of **1:21**: *And **God saw that it was good**.*
 
 ## The blessing
 
-*Then **He blessed them**: "Have young, multiply, fill the seas and the skies."*
+**1:22** *Then **He blessed them**: "Have young, multiply, fill the seas and the skies."*
 
 The Hebrew is **vayvarech otam Elohim** — and God blessed them.
 
@@ -86,7 +86,7 @@ Three days of forming, three days of filling, and the pairs line up.
 
 ## The refrain
 
-*Evening came, then morning — **the fifth day**.*
+**1:23** *Evening came, then morning — **the fifth day**.*
 
 The Hebrew is **vayehi-erev vayehi-voqer** — and there was evening and there was morning.
 

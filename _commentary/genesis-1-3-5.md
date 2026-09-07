@@ -9,21 +9,21 @@ sources:
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2025-05-11 speak-it-by-faith-before-you-see-it
   - 2025-11-09 live-the-heavenly-life-on-earth
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The first recorded action of God toward a dark world is that He spoke.
 
 ## What He was looking at
 
-The verse before: *the earth was without form and void, and darkness was on the
+The verse before, **1:2**: *the earth was without form and void, and darkness was on the
 face of the deep.*
 
 That is the situation. Formless, empty, dark.
 
 ## What He did about it
 
-*Then God **spoke**. "Let there be light."*
+**1:3** *Then God **spoke**. "Let there be light."*
 
 He did not repair the darkness, examine it, or comment on how dark it was. He
 said what He wanted to be there.
@@ -48,9 +48,9 @@ Whatever this light is, it does not come from a lamp.
 
 ## "God looked at the light and loved what He saw"
 
-The first thing called **good** in the Bible.
+**1:4**: the first thing called **good** in the Bible.
 
-And He *drew a line between the light and the darkness*. He separated them rather
+And He, still **1:4**, *drew a line between the light and the darkness*. He separated them rather
 than mixing them or managing the balance.
 
 ## What the pattern is
@@ -65,7 +65,7 @@ tongue.* See the note on Proverbs 18:17–24.
 
 ## Evening, then morning
 
-*Evening came, then morning — the first day.*
+**1:5** *Evening came, then morning — the first day.*
 
 The Hebrew day runs from dark to light, not light to dark. Every one of the six
 days is counted that way.

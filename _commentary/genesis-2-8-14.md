@@ -4,14 +4,14 @@ title: The garden of Eden
 sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2026-04-05 proof-of-your-righteousness-in-christ
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 A garden planted for one man, and the text gives the map.
 
 ## The planting
 
-*The LORD God **planted a garden in the east, in a place called Eden**.*
+**2:8** *The LORD God **planted a garden in the east, in a place called Eden**.*
 
 The Hebrew is **vayyitta** — He planted. A gardener's verb.
 
@@ -19,7 +19,7 @@ The Hebrew is **vayyitta** — He planted. A gardener's verb.
 
 ## The placing
 
-*And there **He placed the man He had formed**.*
+The rest of **2:8**: *And there **He placed the man He had formed**.*
 
 The man was made outside it and put in.
 
@@ -28,7 +28,7 @@ caused him to rest there.
 
 ## The trees
 
-*He made every kind of tree grow up from the ground — trees **lovely to look at and good to eat
+**2:9** *He made every kind of tree grow up from the ground — trees **lovely to look at and good to eat
 from**.*
 
 Beauty first, then food. The Hebrew is **nechmad lemareh vetov lema'achal**.
@@ -38,7 +38,7 @@ it was **pleasant to the eyes***.
 
 ## The two in the middle
 
-*And in the very middle of the garden stood **two trees: the tree of life, and the tree of the
+The rest of **2:9**: *And in the very middle of the garden stood **two trees: the tree of life, and the tree of the
 knowledge of good and evil**.*
 
 Both in the middle. The forbidden one is not fenced off in a corner.
@@ -48,7 +48,7 @@ one tree. See the note on Genesis 2:15–17.
 
 ## The river
 
-*A river flowed out of Eden to water the garden, and from there **it split into four streams**.*
+**2:10** *A river flowed out of Eden to water the garden, and from there **it split into four streams**.*
 
 The Hebrew is **ve'nahar yotze me'eden** — a river going out from Eden.
 
@@ -56,7 +56,7 @@ It rises in Eden and waters the garden, and divides after leaving.
 
 ## The first
 
-*The **Pishon**, winding through the land of **Havilah**, where there is gold — and **the gold of
+**2:11–12** *The **Pishon**, winding through the land of **Havilah**, where there is gold — and **the gold of
 that land is good**, along with **bdellium and onyx stone**.*
 
 The narrator stops the geography to grade the gold.
@@ -77,7 +77,7 @@ Bible, before there is anything to build.
 
 ## The rest
 
-*The **Gihon**, flowing through the land of **Cush**. The third was the **Tigris**, running east of
+**2:13–14** *The **Gihon**, flowing through the land of **Cush**. The third was the **Tigris**, running east of
 Assyria. And the fourth was the **Euphrates**.*
 
 Two of the four are still on the map. Two are not identifiable.
@@ -86,7 +86,7 @@ Two of the four are still on the map. Two are not identifiable.
 
 ## What the man is given to do
 
-*Then the LORD God took the man and put him in the garden of Eden **to tend and keep it**.*
+**2:15**: *Then the LORD God took the man and put him in the garden of Eden **to tend and keep it**.*
 
 The Hebrew is **le'ovdah uleshomrah** — to serve it and to guard it.
 

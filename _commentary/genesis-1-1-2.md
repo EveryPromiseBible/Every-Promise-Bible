@@ -7,14 +7,14 @@ sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
   - 2025-11-09 live-the-heavenly-life-on-earth
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses, and everything the Bible says afterwards assumes them.
 
 ## The first sentence
 
-*In the beginning, **God made it all** — the heavens above and the earth below.*
+**1:1** *In the beginning, **God made it all** — the heavens above and the earth below.*
 
 The Hebrew is seven words: **bereshit bara Elohim et hashamayim ve'et ha'arets**.
 
@@ -40,7 +40,7 @@ object, used twice. The first and last letters of the alphabet, aleph and tav.
 
 ## The state
 
-*At first the earth was **formless and empty**.*
+**1:2** *At first the earth was **formless and empty**.*
 
 The Hebrew is **tohu va-vohu** — an assonant pair, untranslatable neatly. Waste and void.
 
@@ -60,14 +60,14 @@ Form, then fill. The structure is stated in verse 2 and worked through in order.
 
 ## The darkness
 
-*And **darkness lay over the deep waters**.*
+The rest of **1:2**: *And **darkness lay over the deep waters**.*
 
 The Hebrew is **tehom** — the deep. The word for the primeval ocean, and for what bursts open
 in the flood.
 
 ## The Spirit
 
-*But God was not far off: the **Spirit of God was already there, hovering** over the waters.*
+The end of **1:2**: *But God was not far off: the **Spirit of God was already there, hovering** over the waters.*
 
 The Hebrew is **merachefet** — a participle. Hovering, fluttering, brooding.
 

@@ -6,7 +6,7 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2025-07-13 freedom-from-a-guilty-conscience
   - 2026-02-08 superabounding-grace-for-unresolved-guilt
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 God's first recorded words after the fall are a question, and He already knows
@@ -14,7 +14,7 @@ the answer.
 
 ## The sound
 
-*They heard the sound of the LORD God walking in the garden in the cool of the
+**3:8** *They heard the sound of the LORD God walking in the garden in the cool of the
 day.*
 
 The detail implies a habit. This was not the first evening He had walked there —
@@ -22,7 +22,7 @@ what is new is that nobody comes out to meet Him.
 
 ## The question
 
-*Where are you?*
+**3:9** *Where are you?*
 
 Not an inquiry. It is the opening of a conversation with people who have hidden,
 and it invites them to say where they have got to.
@@ -32,15 +32,15 @@ naked?* and *what have you done?* God asks; He does not announce.
 
 ## What Adam actually admits
 
-*I heard You in the garden, and I was afraid, because I was naked, so I hid.*
+**3:10** *I heard You in the garden, and I was afraid, because I was naked, so I hid.*
 
 Notice what is in the answer and what is missing. Fear, nakedness, hiding — all
 true. The eating is not mentioned until God names it.
 
-Then, when it is named: *the woman You gave me — she gave me the fruit, and I
+Then, when it is named, **3:12**: *the woman You gave me — she gave me the fruit, and I
 ate.* Two people blamed in one sentence, and one of them is God.
 
-The woman's answer is shorter and does the same: *the serpent deceived me.*
+The woman's answer is shorter and does the same, **3:13**: *the serpent deceived me.*
 
 ## What is not said
 
@@ -49,7 +49,7 @@ conversation between God and guilty people in the Bible.
 
 ## The first question in the Bible
 
-*Where are you?*
+Still **3:9**: *Where are you?*
 
 God asks it of two people hiding in the bushes because they are ashamed, and He asks it before
 He says anything about what they had done.

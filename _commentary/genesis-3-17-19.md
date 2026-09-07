@@ -10,14 +10,14 @@ sources:
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2026-05-17 license-to-live-holy-versus-license-to-sin
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The sentence on the man, and what is cursed in it is not the man.
 
 ## What is cursed
 
-*"**The ground is cursed** because of you."*
+**3:17** *"**The ground is cursed** because of you."*
 
 Not Adam. The serpent is cursed in verse 14 and the ground is cursed here, and the
 man is not.
@@ -27,9 +27,9 @@ was made out of and named after. See the note on Genesis 2:4–7.
 
 ## The three things
 
-- *"In **toil** you will eat from it all the days of your life"*
-- *"It will bring you **thorns and thistles**"*
-- *"By **the sweat of your brow** you will eat your bread"*
+- the rest of **3:17**: *"In **toil** you will eat from it all the days of your life"*
+- **3:18**: *"It will bring you **thorns and thistles**"*
+- **3:19**: *"By **the sweat of your brow** you will eat your bread"*
 
 Toil, thorns, and sweat. Work itself was not the curse — he had been given the garden
 *to tend and keep it* before any of this. What changed is what work costs.
@@ -49,7 +49,7 @@ the note on Matthew 27:27–31.
 
 ## Sweat
 
-*"By the sweat of your brow you will eat your bread."*
+**3:19** *"By the sweat of your brow you will eat your bread."*
 
 And in a garden on the Mount of Olives: *His sweat became like great drops of blood
 **falling to the ground**.* See the note on Luke 22:39–46.
@@ -58,7 +58,7 @@ The sweat of a man's face, and the cursed ground receiving it.
 
 ## "Until you return to the ground"
 
-*"For out of it you were taken. **Dust you are, and to dust you will return.**"*
+The rest of **3:19**: *"For out of it you were taken. **Dust you are, and to dust you will return.**"*
 
 The account closes the loop it opened. He was formed from dust and breathed into;
 now the dust part is named as the destination.

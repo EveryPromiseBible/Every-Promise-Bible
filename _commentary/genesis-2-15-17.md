@@ -15,7 +15,7 @@ sources:
   - 2026-04-05 proof-of-your-righteousness-in-christ
   - 2026-05-17 license-to-live-holy-versus-license-to-sin
   - 2026-05-24 how-to-hear-gods-voice
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The first command God gives a human being is usually remembered as a
@@ -23,7 +23,7 @@ prohibition. Read the sentence and the proportions are the other way round.
 
 ## Count the words
 
-*Eat freely from any tree in the garden — all of it is yours to enjoy. Only one
+**2:16–17**: *Eat freely from any tree in the garden — all of it is yours to enjoy. Only one
 tree is not for you.*
 
 In Hebrew the permission is emphatic — the verb is doubled, a construction that
@@ -35,7 +35,7 @@ of it.
 
 ## What is at stake in the one tree
 
-*The tree of the knowledge of good and evil.* Not a magic fruit. The name
+The rest of **2:17**: *The tree of the knowledge of good and evil.* Not a magic fruit. The name
 describes what taking it would mean: deciding for yourself what counts as good
 and what counts as evil, rather than receiving that from God.
 

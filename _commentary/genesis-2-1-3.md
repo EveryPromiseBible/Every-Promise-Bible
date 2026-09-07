@@ -6,7 +6,7 @@ sources:
   - 2021-10-31 where-is-holiness-in-grace
   - 2023-07-02 the-art-of-slowing-down
   - 2024-01-07 break-the-cycle-of-misfortune
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The first thing declared holy in the Bible is not a place or a person. It is a
@@ -14,7 +14,7 @@ day, and it is a day off.
 
 ## "It was finished"
 
-*And so it was finished — the heavens, the earth, and everything in them, **down to
+**2:1** *And so it was finished — the heavens, the earth, and everything in them, **down to
 the smallest detail**.*
 
 The Hebrew is *all the host of them*, and the verb is completion.
@@ -24,7 +24,7 @@ on John 19:28–30.
 
 ## Why He rested
 
-*On that seventh day He rested. **Not because He was weary, but because the work was
+**2:2** *On that seventh day He rested. **Not because He was weary, but because the work was
 whole and good.**"*
 
 Isaiah says it outright: *the everlasting God, the LORD, the Creator of the ends of
@@ -34,7 +34,7 @@ The rest is not recovery. It is what you do when a thing is done.
 
 ## What was blessed
 
-*So God **blessed the seventh day and set it apart as holy**.*
+**2:3** *So God **blessed the seventh day and set it apart as holy**.*
 
 The first use of the word **holy** in Scripture, and it is applied to a day.
 

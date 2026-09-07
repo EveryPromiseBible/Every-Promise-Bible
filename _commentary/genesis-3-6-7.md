@@ -7,7 +7,7 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2021-03-28 your-healing-is-his-priority
   - 2022-05-01 guard-the-imaginations-of-your-heart
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The serpent had promised that their eyes would be opened and they would be like
@@ -15,7 +15,7 @@ God, knowing good and evil. The eyes did open. Everything else was a lie.
 
 ## The three things she saw
 
-*The fruit seemed good to eat, pleasing to the eye, and desirable for the wisdom
+**3:6** *The fruit seemed good to eat, pleasing to the eye, and desirable for the wisdom
 it promised.*
 
 Three appraisals, made in order, before a hand moves. The tree had been there the
@@ -27,7 +27,7 @@ note on 1 John 2:16–17.
 
 ## "Who was with her"
 
-*She took some and ate, and gave some to her husband, **who was with her**, and
+The rest of **3:6**: *She took some and ate, and gave some to her husband, **who was with her**, and
 he ate too.*
 
 Four words that are easy to skim. Adam was not away in another part of the
@@ -35,7 +35,7 @@ garden. He was standing there through the entire conversation, and said nothing.
 
 ## What the opened eyes actually showed them
 
-*Suddenly they saw their own nakedness, and they felt exposed.*
+**3:7** *Suddenly they saw their own nakedness, and they felt exposed.*
 
 The promise was knowledge of good and evil. The delivery was self-consciousness —
 the first thing the new sight produced was shame about themselves.
@@ -46,7 +46,7 @@ they could see.
 
 ## The fig leaves
 
-*So they sewed fig leaves together and made coverings for themselves.*
+The rest of **3:7**: *So they sewed fig leaves together and made coverings for themselves.*
 
 The first human response to guilt is a covering they make. It does not last —
 before the chapter ends God makes them garments of skin, which required a death

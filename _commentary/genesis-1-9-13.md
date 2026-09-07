@@ -7,14 +7,14 @@ sources:
   - 2024-03-31 death-has-been-defeated
   - 2025-02-02 the-power-of-his-resurrection
   - 2025-02-16 count-on-your-forgiveness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The third day, and it happens twice.
 
 ## The gathering
 
-*"**Let the waters be gathered into one place, and let dry ground appear**." And it was so.*
+**1:9** *"**Let the waters be gathered into one place, and let dry ground appear**." And it was so.*
 
 The Hebrew for *dry ground* is **yabbashah**.
 
@@ -26,7 +26,7 @@ Genesis 1's vocabulary.
 
 ## The naming
 
-*He named the dry ground **"land,"** and the gathered waters He named **"seas."***
+**1:10** *He named the dry ground **"land,"** and the gathered waters He named **"seas."***
 
 Third and fourth of the namings. Day and night, heaven, and now land and seas.
 
@@ -34,15 +34,15 @@ After this God stops naming things, and in chapter 2 Adam starts.
 
 ## The verdict
 
-*And God saw that it was good.*
+The rest of **1:10**: *And God saw that it was good.*
 
-Said twice on this day — once after the land appears and once after it turns green.
+Said twice on this day (also **1:12**) — once after the land appears and once after it turns green.
 
 The third day is the only one that gets the verdict twice.
 
 ## The second command
 
-*"Now let the land **grow green**," He said — **and it did**.*
+**1:11** *"Now let the land **grow green**," He said — **and it did**.*
 
 The Hebrew is *let the earth bring forth grass* — **tadshe ha-arets deshe**, a verb and noun
 from the same root.
@@ -52,13 +52,13 @@ apart.
 
 ## The three kinds
 
-*Grass, and **seed-bearing plants**, and **trees heavy with fruit**.*
+Still **1:11**: *Grass, and **seed-bearing plants**, and **trees heavy with fruit**.*
 
 Ascending: ground cover, plants that seed, trees whose fruit contains the seed.
 
 ## The clause
 
-*Each carrying **its own seed to make more of its kind**.*
+The end of **1:11**: *Each carrying **its own seed to make more of its kind**.*
 
 The Hebrew is *whose seed is in itself, according to its kind* — **zera** and **min**.
 
@@ -77,7 +77,7 @@ a day without the star it depends on.
 
 ## The evening and the morning
 
-*Evening came, then morning — the third day.*
+**1:13** *Evening came, then morning — the third day.*
 
 Evening first, in every one of the six. Which is why the Jewish day still starts at sunset.
 

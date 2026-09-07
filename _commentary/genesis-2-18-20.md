@@ -3,14 +3,14 @@ key: Genesis 2:18–20
 title: The first thing that is not good
 sources:
   - 2021-07-25 speak-life-not-death
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Seven times in Genesis 1 something is good. Here, for the first time, something is not.
 
 ## The verdict
 
-*"**It is not good for the man to be alone**."*
+**2:18** *"**It is not good for the man to be alone**."*
 
 The Hebrew is **lo tov**.
 
@@ -20,7 +20,7 @@ The first deficiency named in Scripture is loneliness in a perfect garden.
 
 ## The remedy
 
-*"I will make **a companion who is just right for him**."*
+The rest of **2:18**: *"I will make **a companion who is just right for him**."*
 
 The Hebrew is **ezer kenegdo**.
 
@@ -34,7 +34,7 @@ A help that matches, standing across from him.
 
 ## The interruption
 
-*So out of the ground the LORD God **formed every animal of the field and every bird of the
+**2:19** *So out of the ground the LORD God **formed every animal of the field and every bird of the
 sky**.*
 
 The Hebrew is **yatsar** — the potter's verb, the same one used of the man two verses
@@ -44,7 +44,7 @@ Made of the same material, by the same method.
 
 ## The parade
 
-*And **He brought them to the man to see what he would call them**.*
+Still **2:19**: *And **He brought them to the man to see what he would call them**.*
 
 The Hebrew is *to see what he would call it*.
 
@@ -52,7 +52,7 @@ God brings them, and waits.
 
 ## The authority
 
-*Whatever the man named each living creature, **that became its name**.*
+The end of **2:19**: *Whatever the man named each living creature, **that became its name**.*
 
 No corrections are recorded. The naming stands.
 
@@ -68,7 +68,7 @@ After Adam, God does not name anything else in the chapter.
 
 ## The result
 
-*He gave names to all the livestock, the birds, and the wild animals — but among them all,
+**2:20** *He gave names to all the livestock, the birds, and the wild animals — but among them all,
 **there was no true partner to match him**.*
 
 The Hebrew repeats the phrase from verse 18: *there was not found a helper corresponding to
@@ -87,7 +87,7 @@ happens next.
 
 The deep sleep, the rib, and the first recorded human speech:
 
-*"This is now **bone of my bones and flesh of my flesh**; she shall be called Woman, because
+**2:23**: *"This is now **bone of my bones and flesh of my flesh**; she shall be called Woman, because
 she was taken out of Man."*
 
 The first thing a human being says is a poem about somebody else.
@@ -111,7 +111,7 @@ Lord*.
 
 ## The verdict reversed
 
-*Therefore a man shall leave his father and mother and be joined to his wife, and **they
+**2:24**: *Therefore a man shall leave his father and mother and be joined to his wife, and **they
 shall become one flesh**.*
 
 Quoted by Jesus on marriage, and by Paul on Christ and the church. See the note on

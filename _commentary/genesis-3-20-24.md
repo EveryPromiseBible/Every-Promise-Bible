@@ -7,7 +7,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2026-04-05 proof-of-your-righteousness-in-christ
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Three things happen in these five verses, and they do not obviously belong
@@ -15,7 +15,7 @@ together: a name, a set of clothes, and an expulsion.
 
 ## The name
 
-*The man named his wife Eve, because she would become the mother of all who
+**3:20** *The man named his wife Eve, because she would become the mother of all who
 live.*
 
 He does it immediately after being told he will return to dust. Standing under a
@@ -26,7 +26,7 @@ earlier.
 
 ## The clothing
 
-*The LORD God, tender even in judgment, made garments of animal skin and clothed
+**3:21** *The LORD God, tender even in judgment, made garments of animal skin and clothed
 them Himself — covering what they could not cover on their own.*
 
 They had made coverings out of fig leaves. Those are not mentioned again.
@@ -37,10 +37,10 @@ skins. He clothes them.
 
 ## The expulsion
 
-*He drove the man out, and east of the garden He stationed cherubim and a flaming
+**3:24** *He drove the man out, and east of the garden He stationed cherubim and a flaming
 sword.*
 
-The stated reason is the tree of life: *he must not reach out and take also from
+The stated reason is the tree of life, **3:22**: *he must not reach out and take also from
 the tree of life and live forever.*
 
 Read as pure punishment that is bleak. Read as it stands, it is a mercy —
@@ -55,7 +55,7 @@ The next time cherubim appear in Scripture they are hammered out of gold at
 either end of the mercy seat, wings over it, looking down at the place where the
 blood goes. Same creatures. The sword is gone, and the way is open.
 
-> **The last line of the chapter.** *To guard the way to the tree of life.* Not
+> **The last line of the chapter.** The end of **3:24**: *To guard the way to the tree of life.* Not
 > to abolish it — to guard the road. Revelation ends with that tree in the middle
 > of the city, its leaves for the healing of the nations, and no sword mentioned
 > anywhere.

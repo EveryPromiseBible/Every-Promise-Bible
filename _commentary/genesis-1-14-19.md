@@ -3,13 +3,13 @@ key: Genesis 1:14–19
 title: Lights hung for appointed times
 sources:
   - 2019-06-30 prosper-through-prophetic-preaching
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 Day four, and the sun arrives three days after the light did.
 
 ## What they are for
 
-*"Let lights appear in the sky to separate day from night, and **to mark the seasons, the
+**1:14** *"Let lights appear in the sky to separate day from night, and **to mark the seasons, the
 days, and the years**."*
 
 The Hebrew for *seasons* is **mo'adim** — and it is not a word about weather. It is the word
@@ -39,7 +39,7 @@ The light did not come from the sun. The sun was made to carry light that alread
 
 ## The greater and the lesser
 
-*"**The brighter one to rule the day, the softer one to rule the night**."*
+**1:16** *"**The brighter one to rule the day, the softer one to rule the night**."*
 
 The moon makes nothing. It has no light in it at all — every beam it throws down at night is
 light it received and is passing on.
@@ -49,7 +49,7 @@ had just said *I am the light of the world*, and the order matters.
 
 ## The four words
 
-*"**And He made the stars as well**."*
+The end of **1:16**: *"**And He made the stars as well**."*
 
 Every star in the universe, in a subordinate clause at the end of a sentence about a calendar.
 
