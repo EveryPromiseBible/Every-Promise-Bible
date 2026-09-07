@@ -9,7 +9,7 @@ sources:
   - 2022-05-08 own-your-new-creation-identity
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2022-10-09 hope-for-the-end-times
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The first time the word **grace** appears in the Bible, and it lands in the darkest
@@ -17,7 +17,7 @@ paragraph before it.
 
 ## What God saw
 
-*Every inclination of the human heart was **only evil, all the time**.*
+**6:5** *Every inclination of the human heart was **only evil, all the time**.*
 
 Three absolutes stacked: every, only, all the time. The Hebrew leaves no room —
 *every imagination of the thoughts of his heart was only evil continually.*
@@ -27,7 +27,7 @@ It is the shaping impulse, what the heart is bent toward before any act.
 
 ## What it did to God
 
-*And it **grieved the LORD deeply** that He had made humankind; **His heart was
+**6:6** *And it **grieved the LORD deeply** that He had made humankind; **His heart was
 filled with pain**.*
 
 The Hebrew is **atsab** — to hurt, to wound, to cause sorrow. It is the same root
@@ -38,13 +38,13 @@ chapters after *very good*.
 
 ## The sentence
 
-*"I will wipe from the earth the human race I have created."*
+**6:7** *"I will wipe from the earth the human race I have created."*
 
 The Hebrew is to blot out, to erase — the word for wiping a dish.
 
 ## The turn
 
-*But Noah — **Noah found grace in the eyes of the LORD**.*
+**6:8** *But Noah — **Noah found grace in the eyes of the LORD**.*
 
 The Hebrew is **chen**. This is its first occurrence in Scripture, and it arrives at
 the bottom of the worst page in Genesis.
@@ -54,9 +54,9 @@ something.
 
 ## The order of the verses
 
-Verse 8: *Noah found grace.*
+**6:8**: *Noah found grace.*
 
-Verse 9: *Noah was a just man, perfect in his generations, and Noah walked with
+**6:9**: *Noah was a just man, perfect in his generations, and Noah walked with
 God.*
 
 Grace comes first, and the character is described afterwards. The book does not say

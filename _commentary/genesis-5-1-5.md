@@ -6,21 +6,21 @@ sources:
   - 2021-07-18 christ-consciousness-brings-life
   - 2021-07-25 speak-life-not-death
   - 2022-10-09 hope-for-the-end-times
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The first genealogy in Scripture, and it is built around a refrain.
 
 ## The heading
 
-*This is **the written record** of Adam's descendants.*
+**5:1** *This is **the written record** of Adam's descendants.*
 
 The Hebrew is **sepher toledoth** — the book of the generations. Genesis is structured
 around this formula; it appears eleven times and divides the book.
 
 ## The restatement
 
-*On the day God created humanity, **He made them in the likeness of God**. **Male and
+The rest of **5:1**, then **5:2**: *On the day God created humanity, **He made them in the likeness of God**. **Male and
 female** He created them, and **He blessed them** and called them "Mankind."*
 
 Moses goes back to chapter 1 and repeats it before starting the list.
@@ -30,14 +30,14 @@ restates the original terms anyway.
 
 ## The name
 
-*And **called them "Mankind"** on the day they were made.*
+The end of **5:2**: *And **called them "Mankind"** on the day they were made.*
 
 The Hebrew is **adam** — the word for humanity and the man's name. God gives the same
 name to both.
 
 ## The change of preposition
 
-*He had a son **in his own likeness, in his own image**.*
+**5:3** *He had a son **in his own likeness, in his own image**.*
 
 Verse 1 has Adam made in the likeness of **God**. Verse 3 has Seth in the likeness of
 **Adam**.
@@ -56,11 +56,11 @@ The line does not run through the firstborn.
 
 ## The numbers
 
-*Adam lived another **800 years**… Altogether Adam lived **930 years**.*
+**5:4–5**: *Adam lived another **800 years**… Altogether Adam lived **930 years**.*
 
 ## The refrain
 
-*And then **he died**.*
+The end of **5:5**: *And then **he died**.*
 
 It comes at the end of every entry in the chapter. Seth died. Enosh died. Cainan died.
 Mahalalel, Jared, Methuselah, Lamech — *and he died*, eight times.
@@ -69,7 +69,7 @@ It is the drumbeat of the chapter.
 
 ## The one exception
 
-*Enoch walked with God; and he was not, for God took him.*
+**5:24**: *Enoch walked with God; and he was not, for God took him.*
 
 The only man in the list the refrain is not said of. See the note on Hebrews 11:4–7.
 

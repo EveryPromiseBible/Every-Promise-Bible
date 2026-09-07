@@ -6,7 +6,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2021-10-10 understand-the-times
   - 2021-12-05 benefits-of-praying-in-tongues
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Genesis 5 is a genealogy with a refrain. Every entry ends the same way, and one
@@ -19,7 +19,7 @@ does not.
 Eight times in the chapter, like a drumbeat. Even Methuselah, who outlives
 everyone, ends with those two words.
 
-Then Enoch: *Enoch walked with God, and then he was no more, because God took
+Then Enoch, **5:24**: *Enoch walked with God, and then he was no more, because God took
 him.*
 
 The sentence everybody else gets is missing from his.
@@ -31,13 +31,13 @@ walking — not a journey with a destination, but a way of going about.
 
 Only one other person in Genesis is described this way: Noah.
 
-And the detail worth noticing is when it started. *When Enoch was 65, he fathered
+And the detail worth noticing is when it started, **5:21–22**: *When Enoch was 65, he fathered
 Methuselah. And Enoch walked with God — closely, faithfully — for 300 years after
 that.* The walking begins when the child arrives.
 
 ## The shortest life in the chapter
 
-365 years, in a list where the others run to eight and nine hundred. By the
+**5:23**: 365 years, in a list where the others run to eight and nine hundred. By the
 standards of the genealogy he barely got started.
 
 The chapter measures everyone in years. Enoch is the one it does not need to.

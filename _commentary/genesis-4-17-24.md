@@ -1,13 +1,13 @@
 ---
 key: Genesis 4:17–24
 title: Seventy-sevenfold
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The line that walked away from God builds the first city and invents most of civilisation.
 
 ## What Cain does with exile
 
-*Cain built a city and **named it after his son**.*
+**4:17** *Cain built a city and **named it after his son**.*
 
 The man told he would be *a fugitive and a wanderer* builds a walled town and puts a family
 name on it. The first city in Scripture is founded by a man running from a sentence.
@@ -26,7 +26,7 @@ His name.
 
 ## The boast
 
-*"Adah and Zillah, hear my voice. **I have killed a man for wounding me**, a young man for
+**4:23** *"Adah and Zillah, hear my voice. **I have killed a man for wounding me**, a young man for
 injuring me."*
 
 The first recorded poem in the Bible, and it is a song about a killing. He performs it to his
@@ -36,7 +36,7 @@ two wives.
 
 ## The arithmetic
 
-*"If Cain is avenged seven times, then **Lamech seventy-seven**."*
+**4:24** *"If Cain is avenged seven times, then **Lamech seventy-seven**."*
 
 God had set a mark on Cain to stop the killing. Lamech takes the number that protected his
 ancestor and multiplies it into a threat.
@@ -65,7 +65,7 @@ Two Lamechs, two songs, and the next chapter follows the one who wanted comfort.
 
 ## What the chapter does next
 
-*And Seth also had a son, and he named him Enosh. **Then men began to call on the name of the
+**4:26**: *And Seth also had a son, and he named him Enosh. **Then men began to call on the name of the
 LORD**.*
 
 The very next verse after the boast.

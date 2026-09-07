@@ -7,7 +7,7 @@ sources:
   - 2014-04-13 noah-the-real-story
   - 2021-08-01 release-his-glory-in-your-life
   - 2022-10-09 hope-for-the-end-times
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Four verses that look like a detour, and they are the reason for the flood.
@@ -24,7 +24,7 @@ The enemy heard it too. He heard it before Adam was out of the gate.
 
 ## The sons of God
 
-*The **sons of God** saw that the daughters of men were beautiful, and they took wives from
+**6:2** *The **sons of God** saw that the daughters of men were beautiful, and they took wives from
 among them, whomever they chose.*
 
 The Hebrew is **bene ha'elohim**. The phrase occurs in the Hebrew Bible outside this chapter
@@ -42,7 +42,7 @@ and did not spare the ancient world, but saved Noah, one of eight people*. See t
 
 ## The Nephilim
 
-*There were **giants** on the earth in those days.*
+**6:4** *There were **giants** on the earth in those days.*
 
 The Hebrew is **nephilim**, from **naphal** — to fall. The fallen ones.
 
@@ -63,7 +63,7 @@ born*. See the note on Revelation 12:5–6.
 
 ## The hundred and twenty years
 
-*"**My Spirit shall not strive with man forever**, for he is indeed flesh; yet his days shall
+**6:3** *"**My Spirit shall not strive with man forever**, for he is indeed flesh; yet his days shall
 be one hundred and twenty years."*
 
 A limit set on the span of a human life. The chapter before this records men living eight and
@@ -71,7 +71,7 @@ nine hundred years; from here the numbers come down.
 
 ## Noah
 
-*Noah was a just man, **perfect in his generations**.*
+**6:9**: *Noah was a just man, **perfect in his generations**.*
 
 The Hebrew is **tamim** — whole, sound, without blemish. It is the technical word Leviticus
 uses of an animal fit for the altar.

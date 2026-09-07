@@ -3,14 +3,14 @@ key: Genesis 5:25–32
 title: The longest life, and what it was waiting for
 sources:
   - 2025-01-19 discern-the-times-we-live-in
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The oldest man who ever lived, and the year he died is the year the flood came.
 
 ## The list
 
-*When Methuselah was 187, he fathered Lamech… **969 years in all**, and then he died.*
+**5:25, 27**: *When Methuselah was 187, he fathered Lamech… **969 years in all**, and then he died.*
 
 The longest recorded lifespan in Scripture.
 
@@ -55,7 +55,7 @@ Nine hundred and sixty-nine years of patience, in a chapter that keeps saying *a
 
 ## Lamech's line
 
-*When Lamech was 182, he fathered a son and **named him Noah**, saying, "**This one will bring us
+**5:28–29**: *When Lamech was 182, he fathered a son and **named him Noah**, saying, "**This one will bring us
 comfort** from our labor and from the painful toil of our hands, **because of the ground the LORD has
 cursed**."*
 
@@ -89,7 +89,7 @@ Two men with the same name in two lines. One boasts about a killing. One names a
 
 ## The last verse
 
-*And when Noah was 500 years old, he fathered **Shem, Ham, and Japheth**.*
+**5:32** *And when Noah was 500 years old, he fathered **Shem, Ham, and Japheth**.*
 
 The chapter of deaths ends with three births, and the next verse begins the flood account.
 

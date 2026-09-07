@@ -6,13 +6,13 @@ sources:
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
   - 2020-08-09 break-free-from-the-chains-of-condemnation
   - 2021-10-31 where-is-holiness-in-grace
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The first death in the Bible is a murder, and God's response introduces an image
 the rest of scripture keeps using.
 
-## "Your brother's blood is crying out to me"
+## "Your brother's blood is crying out to me" (4:10)
 
 The Hebrew noun is plural — *bloods*, which the rabbis noticed and commented on
 for centuries: not one life only but every life that would have come from it.
@@ -25,10 +25,10 @@ That is what innocent blood does. It does not go quiet.
 
 ## The question and the dodge
 
-*Where is your brother Abel?* — God asks a question He does not need answered,
+**4:9** *Where is your brother Abel?* — God asks a question He does not need answered,
 exactly as He did in the garden.
 
-*Am I my brother's keeper?* is Cain's answer, and it is a good deal more brazen
+Still **4:9**: *Am I my brother's keeper?* is Cain's answer, and it is a good deal more brazen
 than Adam's. He does not hide; he throws the question back.
 
 ## What happens to Cain

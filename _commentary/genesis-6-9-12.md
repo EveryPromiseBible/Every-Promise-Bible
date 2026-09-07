@@ -5,12 +5,14 @@ sources:
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2014-04-13 noah-the-real-story
   - 2022-10-09 hope-for-the-end-times
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Three things are said about Noah, and then three about the world he lived in.
 
 ## What is said about him
+
+**6:9**:
 
 - **righteous** — right, in the sense of standing straight with God
 - **blameless among the people of his time** — the word is used of sacrificial
@@ -31,7 +33,7 @@ verses call corrupt and violent, he was the one who was not.
 
 ## What is said about the world
 
-*The earth was corrupt in God's sight and full of violence. God looked at the
+**6:11–12**: *The earth was corrupt in God's sight and full of violence. God looked at the
 earth and saw how ruined it was.*
 
 The Hebrew word for *corrupt* and the word for *ruined* are the same root — and
@@ -43,6 +45,6 @@ penalty for it.
 
 > **What kept Noah afloat.** Hebrews says he built the ark *by faith*, moved with
 > godly fear, having been warned about things not yet seen. And Genesis, before
-> any of the building starts, says the thing the whole account rests on: *Noah
+> any of the building starts, says the thing the whole account rests on: **6:8**: *Noah
 > found favour in the eyes of the LORD.* The favour comes first, in the verse
 > before this paragraph.
