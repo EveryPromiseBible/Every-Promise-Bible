@@ -3,14 +3,14 @@ key: Hebrews 9:25–26
 title: Once, at the close of the ages
 sources:
   - 2023-12-24 make-room-for-christ
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The argument turns on a single adverb, and the writer spells out what the alternative would cost.
 
 ## The comparison
 
-*He did not go in to **offer Himself over and over**, the way the high priest walks into the holy
+**9:25** *He did not go in to **offer Himself over and over**, the way the high priest walks into the holy
 place **year after year with blood that is not his own**.*
 
 The Greek is **en haimati allotrio** — with blood belonging to another.
@@ -27,7 +27,7 @@ Hebrews 9:6–7.
 
 ## The consequence
 
-*If that were so, **He would have had to suffer again and again since the world was founded**.*
+The rest of **9:25**: *If that were so, **He would have had to suffer again and again since the world was founded**.*
 
 The Greek is **apo kataboles kosmou** — from the foundation of the world.
 
@@ -42,7 +42,7 @@ The absurdity is the proof.
 
 ## The turn
 
-*But as it is, **He has appeared one time**.*
+**9:26** *But as it is, **He has appeared one time**.*
 
 The Greek is **hapax** — once, once for all.
 
@@ -52,7 +52,7 @@ body of Jesus Christ **once for all***.
 
 ## The timing
 
-*At **the close of the ages**.*
+Still **9:26**: *At **the close of the ages**.*
 
 The Greek is **epi sunteleia ton aionon** — at the completion of the ages.
 
@@ -61,7 +61,7 @@ running toward.
 
 ## The effect
 
-*And by sacrificing Himself **He has canceled sin**.*
+The end of **9:26**: *And by sacrificing Himself **He has canceled sin**.*
 
 The Greek is **eis athetesin tes hamartias** — for the putting away of sin.
 
@@ -72,7 +72,7 @@ of its weakness*.
 
 ## What follows
 
-*And as it is appointed for men to die once, but after this the judgment, so Christ was offered
+**9:27** *And as it is appointed for men to die once, but after this the judgment, so Christ was offered
 once to bear the sins of many.*
 
 *To those who eagerly wait for Him **He will appear a second time, apart from sin, for salvation**.*
@@ -84,7 +84,7 @@ Hebrews names them in these verses.
 
 He **has appeared** — at the close of the ages, to put away sin.
 
-He **now appears** — *in the presence of God for us*, verse 24.
+He **now appears** — *in the presence of God for us*, **9:24**.
 
 He **will appear** — a second time, apart from sin.
 

@@ -3,7 +3,7 @@ key: Hebrews 9:23–24
 title: "There He is now, standing before God's face on our account"
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer has spent a chapter on the tabernacle, and here he says what all of it
@@ -11,7 +11,7 @@ was a model of.
 
 ## Copies and the real thing
 
-*Christ did not walk into a holy place that hands had built, a stand-in for the
+**9:24** *Christ did not walk into a holy place that hands had built, a stand-in for the
 real one. He walked into heaven itself.*
 
 The Greek for *stand-in* is **antitypos** — a corresponding figure, a copy made
@@ -30,7 +30,7 @@ year in a tent, He did once, in the real one.
 
 ## The present tense
 
-*And there He is now, standing before God's face on our account.*
+Still **9:24**: *And there He is now, standing before God's face on our account.*
 
 Not *went and returned*. He is there, presently, in front of God — and the phrase
 is *on our behalf*, in our interest.
@@ -48,7 +48,7 @@ Which is why the letter can tell its readers to walk right up to the throne. The
 boldness is not confidence in ourselves; it is knowledge of who is already
 standing there.
 
-> **The line just after.** He did not go in *to offer Himself again and again*,
+> **The line just after (9:25–26).** He did not go in *to offer Himself again and again*,
 > as the high priest entered yearly with blood that was not his own. Once, at the
 > end of the ages, to put away sin by the sacrifice of Himself. The visit is not
 > repeated because it does not need to be.
