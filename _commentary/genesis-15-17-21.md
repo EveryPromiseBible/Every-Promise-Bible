@@ -4,14 +4,14 @@ title: God Himself moving through
 sources:
   - 2025-09-14 trust-the-way-of-grace
   - 2026-01-04 hope-that-anchors-your-soul
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The oath is sworn by one party, and the other one is asleep.
 
 ## The hour
 
-*When **the sun had fully set and darkness came**.*
+**15:17** *When **the sun had fully set and darkness came**.*
 
 Abram laid the pieces out in daylight and drove birds off them all afternoon. See the note on
 Genesis 15:9–11.
@@ -20,7 +20,7 @@ Nothing happened until dark.
 
 ## What appears
 
-*A **smoking firepot and a blazing torch** appeared.*
+Still **15:17**: *A **smoking firepot and a blazing torch** appeared.*
 
 The Hebrew is **tannur ashan** — a smoking oven. And **lappid esh** — a torch of fire.
 
@@ -28,7 +28,7 @@ The Hebrew is **tannur ashan** — a smoking oven. And **lappid esh** — a torc
 
 ## The movement
 
-*And **passed between the pieces** — God Himself moving through, sealing the covenant.*
+The end of **15:17**: *And **passed between the pieces** — God Himself moving through, sealing the covenant.*
 
 The Hebrew is **avar bein hagezarim** — passed between the pieces.
 
@@ -57,7 +57,7 @@ If it fails, the penalty falls on the party who walked.
 
 ## The grant
 
-*"**To your offspring I give this land**, from **the river of Egypt** to **the great river, the
+**15:18** *"**To your offspring I give this land**, from **the river of Egypt** to **the great river, the
 Euphrates**."*
 
 The Hebrew is **natatti** — I have given. Perfect tense, for land not entered for four hundred more
@@ -71,7 +71,7 @@ Reached, briefly, under Solomon.
 
 ## The list
 
-*The land of the **Kenites, Kenizzites, Kadmonites, Hittites, Perizzites, Rephaites, Amorites,
+**15:19–21**: *The land of the **Kenites, Kenizzites, Kadmonites, Hittites, Perizzites, Rephaites, Amorites,
 Canaanites, Girgashites, and Jebusites**.*
 
 Ten nations. The lists elsewhere usually give six or seven.

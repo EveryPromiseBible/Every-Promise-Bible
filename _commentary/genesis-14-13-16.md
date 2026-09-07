@@ -3,7 +3,7 @@ key: Genesis 14:13–16
 title: Three hundred and eighteen
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The one military campaign in Abram's life, and he fights it for a nephew who had left.
@@ -13,18 +13,18 @@ The one military campaign in Abram's life, and he fights it for a nephew who had
 Four kings against five. The armies of Sodom and Gomorrah routed, the survivors falling into
 the tar pits, and the victors carrying off everything.
 
-*They also took Lot, Abram's brother's son who dwelt in Sodom, and his goods, and departed.*
+**14:12**: *They also took Lot, Abram's brother's son who dwelt in Sodom, and his goods, and departed.*
 
 Genesis adds the clause: *who dwelt in Sodom*. The choice made in chapter 13 has a cost, and it
 arrives now. See the note on Genesis 13:5–13.
 
 ## The messenger
 
-*But **one who had escaped** came and reported this to Abram.*
+**14:13** *But **one who had escaped** came and reported this to Abram.*
 
 ## The title
 
-*Abram **the Hebrew**.*
+Still **14:13**: *Abram **the Hebrew**.*
 
 The first use of the word in Scripture.
 
@@ -35,7 +35,7 @@ world first has to deal with him.
 
 ## The allies
 
-*Living near the great trees of **Mamre the Amorite**, a brother of **Eshcol and Aner** — all
+The end of **14:13**: *Living near the great trees of **Mamre the Amorite**, a brother of **Eshcol and Aner** — all
 allies of Abram.*
 
 Three Amorite chiefs, named. Abram had treaty relations with the locals.
@@ -45,7 +45,7 @@ take their portion*. See the note on Genesis 14:21–24.
 
 ## The trigger
 
-*When Abram heard that **his relative had been taken captive**.*
+**14:14** *When Abram heard that **his relative had been taken captive**.*
 
 The Hebrew is *his brother*.
 
@@ -54,7 +54,7 @@ is mentioned.
 
 ## The force
 
-*He mustered the **318 trained men born in his household**.*
+Still **14:14**: *He mustered the **318 trained men born in his household**.*
 
 The Hebrew is **chanikav** — his trained men, or initiated ones. The word occurs once in the
 Bible.
@@ -65,13 +65,13 @@ Three hundred and eighteen, against a coalition that had just destroyed five cit
 
 ## The pursuit
 
-*And set out in pursuit **as far as Dan**.*
+The end of **14:14**: *And set out in pursuit **as far as Dan**.*
 
 The northern limit of the country. He chases them the length of the land.
 
 ## The tactics
 
-*During the night Abram **divided his men to attack them**, and he routed them, chasing them
+**14:15** *During the night Abram **divided his men to attack them**, and he routed them, chasing them
 **as far as Hobah, north of Damascus**.*
 
 A night attack in separate columns, which is what a smaller force does.
@@ -80,7 +80,7 @@ Past Damascus. Well outside the country, into Syria.
 
 ## What he got back
 
-*He recovered **all the goods** and brought back **his relative Lot**, along with his
+**14:16** *He recovered **all the goods** and brought back **his relative Lot**, along with his
 possessions, **the women, and the other people**.*
 
 The order in the Hebrew puts the goods first and then Lot, and then everybody else — including

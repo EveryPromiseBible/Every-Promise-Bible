@@ -4,7 +4,7 @@ title: Abram's honest ache
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-11-07 win-the-battle-over-bitterness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 God has just said something enormous, and Abram answers with the one thing he does not
@@ -17,7 +17,7 @@ reward**."* See the note on Genesis 15:1.
 
 ## The answer
 
-*But Abram **answered from the heart, laying his ache before God**.*
+**15:2** *But Abram **answered from the heart, laying his ache before God**.*
 
 *"LORD God, **what could You possibly give me? I go on childless**."*
 
@@ -34,7 +34,7 @@ the point is. Genesis records the complaint and then records the answer.
 
 ## The problem stated
 
-*"The one who **stands to inherit everything I own is a servant in my house, Eliezer of
+The rest of **15:2**: *"The one who **stands to inherit everything I own is a servant in my house, Eliezer of
 Damascus**."*
 
 Under the customs of the region, a childless man could adopt a trusted servant as heir.
@@ -44,7 +44,7 @@ He has done the sensible thing and it is not what he wants.
 
 ## The restatement
 
-*"You've **given me no children of my own** — a servant born under my roof will be my
+**15:3** *"You've **given me no children of my own** — a servant born under my roof will be my
 heir."*
 
 He says it twice. The second version is blunter.
@@ -56,7 +56,7 @@ his eighties here, and Isaac arrives when he is a hundred.
 
 ## The answer
 
-*"**This one shall not be your heir, but one who will come from your own body shall be your
+**15:4**: *"**This one shall not be your heir, but one who will come from your own body shall be your
 heir**."*
 
 And then outside, at night: *"Look now toward heaven, and count the stars if you are able to

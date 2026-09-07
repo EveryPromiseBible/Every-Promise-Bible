@@ -3,7 +3,7 @@ key: Genesis 15:7–8
 title: How can I know?
 sources:
   - dgi our-covenant-keeping-god
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 He has just been counted righteous for believing, and the next thing out of his mouth is a
@@ -11,7 +11,7 @@ question.
 
 ## The self-introduction
 
-*"**I am the LORD who brought you out of Ur of the Chaldeans** to give you this land as your own."*
+**15:7** *"**I am the LORD who brought you out of Ur of the Chaldeans** to give you this land as your own."*
 
 The Hebrew is **ani YHWH asher hotzetika me'Ur Kasdim**.
 
@@ -24,14 +24,14 @@ God identifies Himself by something He has already done, and then states what it
 
 ## The tense
 
-*To give you this land.*
+The end of **15:7**: *To give you this land.*
 
 He is standing in it, and it is not his. He will die owning one field with a cave in it, bought at
 full price for four hundred shekels. See the note on Genesis 23:17–20.
 
 ## The question
 
-*"**LORD God, how can I know for certain that I will possess it**?"*
+**15:8** *"**LORD God, how can I know for certain that I will possess it**?"*
 
 The Hebrew is **bammah eda** — by what shall I know?
 
@@ -85,7 +85,7 @@ The certainty he asked for does not rest on him, which is the point of putting h
 
 ## What is promised in the same breath
 
-*"To your offspring I give this land, from the river of Egypt to the great river, the Euphrates."*
+**15:18**: *"To your offspring I give this land, from the river of Egypt to the great river, the Euphrates."*
 
 The Hebrew is **natatti** — I have given. Perfect tense, for land not entered for four hundred more
 years.

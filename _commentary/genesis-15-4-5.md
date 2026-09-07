@@ -7,7 +7,7 @@ sources:
   - 2019-12-22 the-stars-tell-the-story-of-jesus
   - 2020-10-04 the-secret-to-health-and-healing-revealed
   - 2021-02-21 your-provision-is-in-the-vision
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 God takes a childless old man outside at night and gives him something to look
@@ -15,23 +15,23 @@ at.
 
 ## The correction
 
-*"**No. That man will not be your heir.**"*
+**15:4** *"**No. That man will not be your heir.**"*
 
 Abram had proposed Eliezer of Damascus, his steward. It was the sensible legal
 arrangement of that world for a man with no son.
 
-God refuses the workaround. *A son from your own body — he will be your heir.*
+God refuses the workaround, the rest of **15:4**: *A son from your own body — he will be your heir.*
 
 ## Outside
 
-*And God **led him outside into the night**.*
+**15:5** *And God **led him outside into the night**.*
 
 He is taken out of the tent. Whatever conversation was happening indoors, it
 continues under the sky.
 
 ## The word
 
-*"Look up. **Count the stars**, if you can even number them."*
+Still **15:5**: *"Look up. **Count the stars**, if you can even number them."*
 
 The Hebrew verb is **saphar** — and it carries both senses at once. To count, and
 to recount: to tell, to declare, to narrate.

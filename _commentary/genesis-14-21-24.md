@@ -5,14 +5,14 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Abram turns down a fortune in a single sentence, and gives his reason.
 
 ## The offer
 
-*"**Give me the people and keep the goods for yourself.**"*
+**14:21** *"**Give me the people and keep the goods for yourself.**"*
 
 By the war conventions of the time everything was Abram's — he had won it. The king
 of Sodom is asking for a favour and calling it a deal.
@@ -21,7 +21,7 @@ It is a fortune, offered legitimately, with no strings visible.
 
 ## The oath
 
-*"**I have raised my hand to the LORD, God Most High, Creator of heaven and earth,
+**14:22** *"**I have raised my hand to the LORD, God Most High, Creator of heaven and earth,
 and sworn an oath.**"*
 
 He had already sworn — the Hebrew is past tense. This was decided before the king
@@ -34,14 +34,14 @@ He takes the priest's language and swears by it.
 
 ## The refusal
 
-*"I will accept nothing belonging to you, **not even a thread or the strap of a
+**14:23** *"I will accept nothing belonging to you, **not even a thread or the strap of a
 sandal**."*
 
 The two most worthless items he can name. A loose thread and a sandal lace.
 
 ## The reason
 
-*"**So that you can never say, 'I made Abram rich.'**"*
+The rest of **14:23**: *"**So that you can never say, 'I made Abram rich.'**"*
 
 That is the whole of it. Not that the money was dirty, or that he did not need it.
 
@@ -50,7 +50,7 @@ in particular.
 
 ## What he did take
 
-*"I will take nothing but **what my men have eaten** and **the share belonging to
+**14:24** *"I will take nothing but **what my men have eaten** and **the share belonging to
 the men who went with me** — Aner, Eshcol, and Mamre. **Let them have their
 share**."*
 
@@ -73,7 +73,7 @@ See the note on Genesis 14:17–20.
 
 ## What God says next
 
-The very next verse — Genesis 15:1:
+The very next verse, **Genesis 15:1**:
 
 *"Do not be afraid, Abram. **I am your shield, your exceedingly great reward.**"*
 

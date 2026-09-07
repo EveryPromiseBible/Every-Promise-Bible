@@ -14,7 +14,7 @@ sources:
   - 2021-08-22 greater-shalom-and-security
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2024-09-15 step-out-and-possess-the-land
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 A priest-king appears in three verses, blesses Abram, and vanishes from the
@@ -22,7 +22,7 @@ narrative entirely.
 
 ## Two kings come out
 
-*The **king of Sodom** came out to meet him… And **Melchizedek king of Salem**
+**14:17–18**: *The **king of Sodom** came out to meet him… And **Melchizedek king of Salem**
 brought out bread and wine.*
 
 Both arrive at the same moment, and Abram deals with both. One offers him goods;
@@ -41,14 +41,14 @@ Salem is the older name of Jerusalem.
 
 ## What he brought
 
-*Bread and wine.*
+**14:18**: *Bread and wine.*
 
 Not a sacrifice, though he is called *priest of God Most High*. There is no altar
 and no animal in the passage.
 
 Bread and wine, carried out to a man coming back from a battle.
 
-## Who he was priest of
+## Who he was priest of (14:18)
 
 ***El Elyon***, God Most High — and he uses the title twice more in his blessing:
 *Creator of heaven and earth*.
@@ -58,7 +58,7 @@ God by name. Abram accepts the blessing without hesitation.
 
 ## The blessing
 
-*"**Blessed be Abram** by God Most High… and **blessed be God Most High**, who
+**14:19–20**: *"**Blessed be Abram** by God Most High… and **blessed be God Most High**, who
 delivered your enemies into your hand."*
 
 He blesses the man and then blesses God, and the second half tells Abram who won
@@ -66,7 +66,7 @@ the battle he had just fought.
 
 ## The tenth
 
-*Then Abram gave him **a tenth of everything**.*
+**14:20**: *Then Abram gave him **a tenth of everything**.*
 
 The first tithe in Scripture, and everything about the setting matters:
 

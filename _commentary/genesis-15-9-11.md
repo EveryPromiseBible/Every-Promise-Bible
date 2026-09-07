@@ -3,14 +3,14 @@ key: Genesis 15:9–11
 title: The pieces laid opposite
 sources:
   - 2025-09-14 trust-the-way-of-grace
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 He asks how he can know, and is told to fetch five animals.
 
 ## The question behind it
 
-*"Lord GOD, **how shall I know that I will inherit it**?"*
+**15:8**: *"Lord GOD, **how shall I know that I will inherit it**?"*
 
 The verse before. He has just been counted righteous for believing — and then asks for
 confirmation. See the note on Genesis 15:6.
@@ -19,7 +19,7 @@ The request is not rebuked. It is answered with a ceremony.
 
 ## The list
 
-*"Bring Me **a heifer three years old, a goat three years old, a ram three years old, along with a
+**15:9** *"Bring Me **a heifer three years old, a goat three years old, a ram three years old, along with a
 turtledove and a young pigeon**."*
 
 Five creatures.
@@ -33,13 +33,13 @@ Three years old, three times. Full-grown, at the height of value.
 
 ## What he does
 
-*Abram brought them all. He **cut the larger animals in two and laid each half opposite the other**.*
+**15:10** *Abram brought them all. He **cut the larger animals in two and laid each half opposite the other**.*
 
 The Hebrew is **vayebatter otam battavek** — he cut them in the middle.
 
 ## The birds
 
-*But **he did not divide the birds**.*
+The rest of **15:10**: *But **he did not divide the birds**.*
 
 Leviticus later says the same of a bird offering: *he shall split it at its wings, but shall not
 divide it completely*.
@@ -68,7 +68,7 @@ Jeremiah describes the ritual and its penalty, and applies it.
 
 ## The waiting
 
-*When **birds of prey came down on the carcasses, Abram drove them away**.*
+**15:11** *When **birds of prey came down on the carcasses, Abram drove them away**.*
 
 The Hebrew is **ha'ayit** — birds of prey, collective.
 
