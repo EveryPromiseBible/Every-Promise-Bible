@@ -3,7 +3,7 @@ key: Genesis 19:12–14
 title: He seemed to be joking
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The warning goes out and comes back with nobody.
@@ -11,21 +11,21 @@ The warning goes out and comes back with nobody.
 ## What has just happened
 
 The mob at the door, Lot going out to them and shutting it behind him, and the angels pulling
-him back in and striking the men outside with blindness — *so that they became weary trying to
+him back in and striking the men outside with blindness, **19:11**: *so that they became weary trying to
 find the door*.
 
 The visitors have stopped being guests.
 
 ## The question
 
-*"**Do you have anyone else here — sons-in-law, sons, daughters, anyone in the city who belongs
+**19:12** *"**Do you have anyone else here — sons-in-law, sons, daughters, anyone in the city who belongs
 to you?**"*
 
 Four categories, and the list is generous. Anyone connected to him.
 
 ## The instruction
 
-*"**Get them out**, for we are about to destroy this place."*
+The rest of **19:12**: *"**Get them out**, for we are about to destroy this place."*
 
 The rescue is offered on the basis of relationship to Lot, not on the basis of what anybody
 else has done.
@@ -35,7 +35,7 @@ on Joshua 6:22–25.
 
 ## The reason
 
-*"**The outcry to the LORD against its people is so great** that He has sent us."*
+**19:13** *"**The outcry to the LORD against its people is so great** that He has sent us."*
 
 The Hebrew is **za'aqah** — a cry, a scream. The word for the shout of someone being wronged.
 
@@ -48,7 +48,7 @@ The same word is used of Israel in Egypt: *their cry came up to God because of t
 
 ## The errand
 
-*So Lot went out and spoke to **the men pledged to marry his daughters**.*
+**19:14** *So Lot went out and spoke to **the men pledged to marry his daughters**.*
 
 He goes back into the city, at night, after a mob has just tried to break his door down.
 
@@ -56,13 +56,13 @@ Whatever else is true of him, he went.
 
 ## What he says
 
-*"**Hurry — get out of this place, for the LORD is about to destroy the city**."*
+Still **19:14**: *"**Hurry — get out of this place, for the LORD is about to destroy the city**."*
 
 Accurate, urgent, and short.
 
 ## The reaction
 
-*But to them **he seemed to be joking**.*
+The end of **19:14**: *But to them **he seemed to be joking**.*
 
 The Hebrew is **kimtsacheq** — as one who mocks, jests. From **tsachaq**, to laugh.
 
@@ -85,7 +85,7 @@ He had spent a long time being one of them.
 
 The sons-in-law stay.
 
-And in the morning it is *your wife and your two daughters **who are here***. See the note on
+And in the morning, **19:15**: *your wife and your two daughters **who are here***. See the note on
 Genesis 19:15–17.
 
 The angels' phrasing implies there were others who were not.

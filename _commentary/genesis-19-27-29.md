@@ -3,14 +3,14 @@ key: Genesis 19:27–29
 title: God remembered Abraham
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Three verses of aftermath, and the last one explains the whole chapter.
 
 ## The morning
 
-*Early the next morning Abraham returned to **the place where he had stood before the LORD**.*
+**19:27** *Early the next morning Abraham returned to **the place where he had stood before the LORD**.*
 
 He goes back to the exact spot.
 
@@ -22,7 +22,7 @@ He is there at first light, which means he had not stopped thinking about it.
 
 ## What he sees
 
-*He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw **dense
+**19:28** *He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw **dense
 smoke rising from the land, like smoke from a furnace**.*
 
 The Hebrew is **kevshan** — a smelting kiln.
@@ -42,7 +42,7 @@ the text does not say he ever found out.
 
 ## The verse
 
-*So when God destroyed the cities of the plain, **He remembered Abraham**, and He brought Lot
+**19:29** *So when God destroyed the cities of the plain, **He remembered Abraham**, and He brought Lot
 out of the catastrophe.*
 
 The Hebrew is **vayyizkor Elohim et-Avraham**.
@@ -76,7 +76,7 @@ Both are in Scripture and neither cancels the other.
 
 ## The clause at the end
 
-*Out of the catastrophe that overthrew **the cities where Lot had lived**.*
+The rest of **19:29**: *Out of the catastrophe that overthrew **the cities where Lot had lived**.*
 
 The Hebrew is *in which Lot dwelt*.
 

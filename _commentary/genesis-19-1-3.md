@@ -3,14 +3,14 @@ key: Genesis 19:1–3
 title: Lot in the gate
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The same day, the second household, and Genesis writes it as a deliberate echo.
 
 ## The two who came on
 
-*The **two angels** arrived at Sodom **in the evening**.*
+**19:1** *The **two angels** arrived at Sodom **in the evening**.*
 
 Three men visited Abraham at noon. Two go on to Sodom by evening. See the note on
 Genesis 18:1–5.
@@ -20,7 +20,7 @@ Sodom, but Abraham still stood before the LORD*.
 
 ## Where Lot is
 
-*And Lot was **sitting at the city gate**.*
+Still **19:1**: *And Lot was **sitting at the city gate**.*
 
 The gate is the town's council chamber, its court and its exchange. Elders sat there; business
 was transacted there; Boaz calls the ten elders to the gate to settle Ruth's case.
@@ -34,7 +34,7 @@ Three chapters, three stages.
 
 ## What he does
 
-*When he saw them, **he got up to meet them and bowed with his face to the ground**.*
+The end of **19:1**: *When he saw them, **he got up to meet them and bowed with his face to the ground**.*
 
 Exactly what Abraham did. Genesis uses nearly identical wording.
 
@@ -42,7 +42,7 @@ Whatever else is true of Lot, his instincts about strangers are his uncle's.
 
 ## The invitation
 
-*"My lords, please **come to your servant's house. Wash your feet, spend the night**, and go on
+**19:2** *"My lords, please **come to your servant's house. Wash your feet, spend the night**, and go on
 your way early in the morning."*
 
 The same offer, and one addition: *early in the morning*.
@@ -51,7 +51,7 @@ He wants them off the street, and he wants them gone before the town is up.
 
 ## The refusal
 
-*"**No**," they answered, "**we will spend the night in the square**."*
+The rest of **19:2**: *"**No**," they answered, "**we will spend the night in the square**."*
 
 The Hebrew is **barechov** — the open place, the same word Isaiah uses for where truth stumbles.
 See the note on Isaiah 59:12–15a.
@@ -60,7 +60,7 @@ Two strangers proposing to sleep in the open square of that city.
 
 ## The insistence
 
-*But he **urged them so strongly** that they went with him.*
+**19:3** *But he **urged them so strongly** that they went with him.*
 
 The Hebrew is **vayyiphtsar-bam me'od** — he pressed them greatly.
 
@@ -68,7 +68,7 @@ He knows what will happen if they stay out, and the rest of the chapter proves h
 
 ## The meal
 
-*He prepared a meal for them, **baking unleavened bread**, and they ate.*
+The rest of **19:3**: *He prepared a meal for them, **baking unleavened bread**, and they ate.*
 
 The Hebrew is **matstsot** — unleavened.
 
@@ -94,12 +94,12 @@ arithmetic.
 
 ## What happens that night
 
-*Now before they lay down, the men of the city, the men of Sodom, both old and young, all the
+**19:4**: *Now before they lay down, the men of the city, the men of Sodom, both old and young, all the
 people from every quarter, surrounded the house.*
 
 And Lot goes out to them, shuts the door behind him, and offers them his daughters.
 
-*And they said, "Stand back!… This one came in to stay here, and **he keeps acting as a
+**19:9**: *And they said, "Stand back!… This one came in to stay here, and **he keeps acting as a
 judge**."*
 
 They name his position in the gate and use it against him.

@@ -3,14 +3,14 @@ key: Genesis 19:15–17
 title: They grabbed his hand
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Four people leave a city, and none of them walks out under their own power.
 
 ## The urging
 
-*At dawn the angels **urged Lot on**.*
+**19:15** *At dawn the angels **urged Lot on**.*
 
 The Hebrew is **va'ya'itsu** — they pressed, they hurried him.
 
@@ -21,14 +21,14 @@ The pressing has reversed direction.
 
 ## The instruction
 
-*"**Quick — take your wife and your two daughters who are here**, or you will be swept away."*
+The rest of **19:15**: *"**Quick — take your wife and your two daughters who are here**, or you will be swept away."*
 
 *Who are here* — the phrase implies others who are not. The sons-in-law stayed. See the note on
 Genesis 19:12–14.
 
 ## The hesitation
 
-*When he **hesitated**.*
+**19:16** *When he **hesitated**.*
 
 The Hebrew is **vayyitmahmah** — he lingered, he delayed.
 
@@ -39,7 +39,7 @@ is dawn, and he is being told to leave all of it in the next few minutes.
 
 ## The hands
 
-*The men **grabbed his hand and the hands of his wife and daughters**.*
+Still **19:16**: *The men **grabbed his hand and the hands of his wife and daughters**.*
 
 The Hebrew is **vayyachaziqu** — they seized, took firm hold.
 
@@ -49,7 +49,7 @@ Isaiah has the same word for God: *I, the LORD your God, will hold your right ha
 
 ## The reason given
 
-*For **the LORD was merciful to them**.*
+Still **19:16**: *For **the LORD was merciful to them**.*
 
 The Hebrew is **bechemlat YHWH alav** — in the LORD's compassion toward him.
 
@@ -57,11 +57,11 @@ Genesis supplies the motive for the dragging, and it is not impatience.
 
 ## The delivery
 
-*And **led them safely out of the city**.*
+The end of **19:16**: *And **led them safely out of the city**.*
 
 ## The three commands
 
-*"**Run for your life!**"*
+**19:17**: *"**Run for your life!**"*
 
 *"**Don't look back, and don't stop anywhere in the plain**."*
 
@@ -73,20 +73,20 @@ Escape, do not look, do not stop, and go up.
 
 He argues.
 
-*"Please, no, my lords! Indeed now, your servant has found favour in your sight… **but I cannot
+**19:18–20**: *"Please, no, my lords! Indeed now, your servant has found favour in your sight… **but I cannot
 escape to the mountains, lest some evil overtake me and I die**. See now, this city is near
 enough to flee to, and it is a little one. Please let me escape there."*
 
 He is standing outside a city about to be destroyed, having been carried out by the wrist,
 negotiating the destination.
 
-And it is granted: *see, I have favoured you concerning this thing also*.
+And it is granted, **19:21**: *see, I have favoured you concerning this thing also*.
 
 The town is called **Zoar** — *little*, and it is named for his argument.
 
 ## The delay clause
 
-*"**Hurry, escape there, for I cannot do anything until you arrive there**."*
+**19:22** *"**Hurry, escape there, for I cannot do anything until you arrive there**."*
 
 The angel says the destruction is waiting on him.
 

@@ -3,7 +3,7 @@ key: Genesis 19:23–26
 title: She looked back
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The destruction takes one verse. The sentence before it and the sentence after it are about
@@ -11,7 +11,7 @@ two people.
 
 ## The timing
 
-*The sun had risen over the land **when Lot reached Zoar**.*
+**19:23** *The sun had risen over the land **when Lot reached Zoar**.*
 
 The angel had said it: *hurry, escape there, for I cannot do anything until you arrive there*.
 See the note on Genesis 19:15–17.
@@ -20,7 +20,7 @@ The account keeps the two clocks together. He arrives, and the sun is up, and th
 
 ## What fell
 
-*Then the LORD **rained down burning sulfur** on Sodom and Gomorrah — **out of the heavens from
+**19:24** *Then the LORD **rained down burning sulfur** on Sodom and Gomorrah — **out of the heavens from
 the LORD**.*
 
 The Hebrew is **gophrith va'esh** — brimstone and fire.
@@ -30,7 +30,7 @@ commentators have argued over it for centuries.
 
 ## The extent
 
-*He overthrew **those cities and the entire plain, all who lived in the cities, and everything
+**19:25** *He overthrew **those cities and the entire plain, all who lived in the cities, and everything
 that grew in the land**.*
 
 The Hebrew for *overthrew* is **vayyahaphok** — turned upside down.
@@ -44,7 +44,7 @@ Genesis 13:5–13.
 
 ## The wife
 
-*But **Lot's wife looked back**, and she **became a pillar of salt**.*
+**19:26** *But **Lot's wife looked back**, and she **became a pillar of salt**.*
 
 The Hebrew is **vattabbet** — she looked, she gazed. Not a glance over the shoulder; the verb
 suggests regarding something with attention.
@@ -53,7 +53,7 @@ And *from behind him* — she had fallen behind Lot, which means she had slowed.
 
 ## What the instruction had been
 
-*"Do not look behind you, nor stay anywhere in the plain."*
+**19:17**: *"Do not look behind you, nor stay anywhere in the plain."*
 
 Given to all four of them, at the edge of the city, by the same messenger.
 
