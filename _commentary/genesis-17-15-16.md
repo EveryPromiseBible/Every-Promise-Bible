@@ -4,14 +4,14 @@ title: Sarai becomes Sarah
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
   - 2019-05-08 practical-marriage-and-relationship-truths
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The wife gets a new name too, and hers is the more improbable of the two.
 
 ## The change
 
-*"As for Sarai your wife, **you are no longer to call her Sarai; her name will be
+**17:15** *"As for Sarai your wife, **you are no longer to call her Sarai; her name will be
 Sarah**."*
 
 The difference in Hebrew is one letter. **Sarai** to **Sarah** — and the letter
@@ -33,7 +33,7 @@ narrative.
 
 ## What God says over her
 
-*"**I will bless her**, and I will give you a son by her. **I will bless her so that
+**17:16** *"**I will bless her**, and I will give you a son by her. **I will bless her so that
 she will become nations; kings of peoples will come from her.**"*
 
 *I will bless her* — twice in one verse.
@@ -42,7 +42,7 @@ she will become nations; kings of peoples will come from her.**"*
 
 ## Who has to say the name
 
-Abraham does. *You are no longer to call her Sarai.*
+Abraham does, still **17:15**: *You are no longer to call her Sarai.*
 
 So for the year before Isaac, a man of ninety-nine called *father of a multitude*
 was addressing his ninety-year-old barren wife as *princess*, and the whole
@@ -50,7 +50,7 @@ household heard both names every day. See the note on Genesis 17:3–8.
 
 ## What Abraham did in the next verse
 
-*Then Abraham fell on his face **and laughed**, and said in his heart, "Shall a
+**17:17**: *Then Abraham fell on his face **and laughed**, and said in his heart, "Shall a
 child be born to a man who is a hundred years old? And shall Sarah, who is ninety
 years old, bear a child?"*
 

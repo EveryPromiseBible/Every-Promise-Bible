@@ -7,14 +7,14 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2021-12-05 benefits-of-praying-in-tongues
   - 2025-01-12 the-third-day
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Thirteen years of silence end with a new name for God.
 
 ## The age
 
-*When Abram was **ninety-nine years old**.*
+**17:1** *When Abram was **ninety-nine years old**.*
 
 Ishmael was born when Abram was eighty-six, at the end of chapter 16.
 
@@ -25,7 +25,7 @@ The silence begins after the attempt to produce the heir by arrangement.
 
 ## The name
 
-*"**I am God Almighty**."*
+Still **17:1**: *"**I am God Almighty**."*
 
 The Hebrew is **El Shaddai**, and this is the first time it appears in Scripture.
 
@@ -44,7 +44,7 @@ The name given at that moment is the one about sufficiency.
 
 ## The instruction
 
-*"**Walk before Me, and be blameless**."*
+The end of **17:1**: *"**Walk before Me, and be blameless**."*
 
 The Hebrew is **tamim** — complete, whole, without blemish. It is the word used of a
 sacrificial animal, and of Noah: *Noah was a just man, **perfect** in his generations*.
@@ -55,13 +55,13 @@ Enoch and Noah *walked with*. Abram is told to walk before.
 
 ## The covenant
 
-*"I will **make My covenant between Me and you**, and **I will multiply you greatly**."*
+**17:2** *"I will **make My covenant between Me and you**, and **I will multiply you greatly**."*
 
 The Hebrew for *multiply* is doubled — *multiply you exceedingly*.
 
 ## What Abram does
 
-*Then Abram **fell on his face**.*
+**17:3**: *Then Abram **fell on his face**.*
 
 ## What happens in the chapter
 
@@ -73,17 +73,17 @@ commentary has noted it for a very long time.
 
 ## The laugh
 
-*Then Abraham **fell on his face and laughed**, and said in his heart, "Shall a child be
+**17:17** *Then Abraham **fell on his face and laughed**, and said in his heart, "Shall a child be
 born to a man who is a hundred years old? And shall Sarah, who is ninety years old, bear a
 child?"*
 
-And: *"**Oh, that Ishmael might live before You!**"*
+And, **17:18**: *"**Oh, that Ishmael might live before You!**"*
 
 He has a son already and would rather the promise attached to him.
 
 ## The answer
 
-*"**No, Sarah your wife shall bear you a son**, and you shall call his name **Isaac**."*
+**17:19** *"**No, Sarah your wife shall bear you a son**, and you shall call his name **Isaac**."*
 
 **Yitzhaq** — *he laughs*. The name is given in the same conversation as the laughing.
 

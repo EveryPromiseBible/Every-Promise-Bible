@@ -8,7 +8,7 @@ sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2023-02-26 power-to-renew-your-youth
   - 2026-05-31 speak-by-faith-not-by-sight
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 God changes a man's name to a claim that is not yet true, and makes him answer to
@@ -19,7 +19,7 @@ it.
 Ninety-nine years old. Twenty-four years since the promise was first made. One son,
 Ishmael, by a servant girl, and none by Sarah.
 
-*Abram fell facedown.*
+**17:3**: *Abram fell facedown.*
 
 ## The two names
 
@@ -27,12 +27,12 @@ Ishmael, by a servant girl, and none by Sarah.
 
 **Abraham** — *ab hamon*, father of a multitude.
 
-*"No longer will you be called Abram; your name will be Abraham, **for I have made
+**17:5** *"No longer will you be called Abram; your name will be Abraham, **for I have made
 you the father of many nations**."*
 
 ## The tense
 
-*I **have made** you.* Past tense, completed, spoken to a childless man.
+Still **17:5**: *I **have made** you.* Past tense, completed, spoken to a childless man.
 
 Not *I will make you*, though the promises around it are future — *nations will
 come from you, kings will be among your descendants*. This one clause is put in the
@@ -55,10 +55,10 @@ records no complaint from him about it.
 
 ## Sarai too
 
-A few verses on: *As for Sarai your wife, you shall not call her name Sarai, but
+A few verses on, **17:15**: *As for Sarai your wife, you shall not call her name Sarai, but
 **Sarah** shall be her name.*
 
-**Sarah** means princess. *And I will bless her, and she shall be a mother of
+**Sarah** means princess. **17:16**: *And I will bless her, and she shall be a mother of
 nations; kings of peoples shall be from her.*
 
 Ninety years old, barren her whole life, and renamed princess and mother of
@@ -73,7 +73,7 @@ The Hebrew is **olam** — perpetual, without a stated end.
 
 ## What Abraham does with it
 
-*Abraham fell facedown **and laughed**.* That is verse 17, and Genesis reports it
+**17:17**: *Abraham fell facedown **and laughed**.* Genesis reports it
 without softening.
 
 He laughs, Sarah laughs in the next chapter, and the boy is named **Isaac** — *he
