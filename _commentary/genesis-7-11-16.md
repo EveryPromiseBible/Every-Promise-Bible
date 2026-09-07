@@ -4,7 +4,7 @@ title: "Then the LORD shut him in"
 sources:
   - 2014-04-13 noah-the-real-story
   - 2022-07-31 rest-for-your-soul-in-restless-times
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The last line of this passage is five words long in Hebrew and it is the point of
@@ -12,7 +12,7 @@ the whole chapter.
 
 ## The date
 
-*In the six hundredth year of Noah's life, on **the seventeenth day of the second
+**7:11** *In the six hundredth year of Noah's life, on **the seventeenth day of the second
 month**.*
 
 Genesis dates it to the day. Whatever else this account is, it is written as a
@@ -20,7 +20,7 @@ record rather than a legend.
 
 ## Where the water came from
 
-*The **great deep burst open** and the **floodgates of the heavens were flung
+The rest of **7:11**: *The **great deep burst open** and the **floodgates of the heavens were flung
 wide**.*
 
 Both directions at once — up from below and down from above. The Hebrew for the
@@ -30,14 +30,14 @@ The rain is mentioned second, and it is the lesser half.
 
 ## Who went in
 
-*Noah, his sons Shem, Ham, and Japheth, his wife, and his three sons' wives.*
+**7:13** *Noah, his sons Shem, Ham, and Japheth, his wife, and his three sons' wives.*
 
 Eight. And every kind of creature *coming to Noah two by two* — the animals come to
 him; he does not go after them.
 
 ## The sentence
 
-*Then **the LORD shut him in** — sealed the door with His own hand, safe inside.*
+**7:16** *Then **the LORD shut him in** — sealed the door with His own hand, safe inside.*
 
 The Hebrew is *and the LORD shut behind him*. Noah did not close the door.
 

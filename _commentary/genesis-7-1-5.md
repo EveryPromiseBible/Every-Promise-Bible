@@ -6,14 +6,14 @@ sources:
   - 2014-04-13 noah-the-real-story
   - 2021-06-06 set-apart-for-lasting-success
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 One sentence, and the two halves of it do not obviously match.
 
 ## The mismatch
 
-*Go into the ark, **you and all your household**, for I have seen that **you
+**7:1** *Go into the ark, **you and all your household**, for I have seen that **you
 alone** are righteous in this generation.*
 
 The reason given is about one man. The invitation covers eight people.
@@ -39,7 +39,7 @@ from outside. He is calling him in from somewhere He already is.
 
 ## The word He uses
 
-*"**Come** into the ark."*
+Still **7:1**: *"**Come** into the ark."*
 
 Not *go*. **Bo** — come. You say it to invite somebody toward where you already are.
 
@@ -60,7 +60,7 @@ antitype which now saves us — baptism.*
 Peter reads the boat as a picture on purpose, and the thing that saved them was going through
 the water inside something else.
 
-> **The last line.** *And Noah did everything the LORD commanded him.* It is the
+> **The last line.** **7:5**: *And Noah did everything the LORD commanded him.* It is the
 > fourth time Genesis says it in two chapters. The obedience is recorded flatly,
 > without commentary, and then the rain starts seven days later — which is how
 > long Noah had to sit in a finished boat under a clear sky.

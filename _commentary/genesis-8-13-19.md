@@ -3,14 +3,14 @@ key: Genesis 8:13–19
 title: Coming out of the ark
 sources:
   - 2014-04-13 noah-the-real-story
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The ground has been dry for nearly two months and Noah is still inside.
 
 ## What he does when he sees dry land
 
-*Noah **removed the covering** from the ark and looked out — and the surface of the
+**8:13** *Noah **removed the covering** from the ark and looked out — and the surface of the
 ground was dry.*
 
 He looks. He does not leave.
@@ -23,7 +23,7 @@ way. See the note on Genesis 7:11–16.
 
 ## The word
 
-*Then God said to Noah, "**Come out** of the ark."*
+**8:16** *Then God said to Noah, "**Come out** of the ark."*
 
 He went in when God said *come in*, and he comes out when God says *come out*.
 
@@ -32,7 +32,7 @@ them.
 
 ## The list
 
-*"You, your wife, your sons, and their wives."*
+Still **8:16**: *"You, your wife, your sons, and their wives."*
 
 Note the order. Going in, it was *you and your sons, your wife, and your sons'
 wives* — the men and then the women.
@@ -40,7 +40,7 @@ wives* — the men and then the women.
 Coming out: *you, your wife, your sons, and their wives* — the couples together.
 A year of confinement and the households are paired.
 
-## "So they can multiply and fill the earth"
+## "So they can multiply and fill the earth" (8:17)
 
 The same commission given to Adam in Genesis 1 — *be fruitful and multiply, and
 fill the earth.*
@@ -49,7 +49,7 @@ The world is being restarted with the original sentence.
 
 ## Every one that went in
 
-*Every animal, every creeping thing, and every bird **came out of the ark, kind by
+**8:19** *Every animal, every creeping thing, and every bird **came out of the ark, kind by
 kind**.*
 
 The Hebrew is *by their families*.
@@ -70,7 +70,7 @@ He steps out onto ground that is completely dry and completely emptied.
 
 ## What he does first
 
-The next verse: *Noah built an altar to the LORD, and took of every clean animal
+**8:20**: *Noah built an altar to the LORD, and took of every clean animal
 and every clean bird, and offered burnt offerings.*
 
 He had been given the clean animals by sevens rather than twos — the extra ones,

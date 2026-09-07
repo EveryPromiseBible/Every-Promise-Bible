@@ -3,14 +3,14 @@ key: Genesis 8:1–5
 title: "God remembered Noah"
 sources:
   - 2014-04-13 noah-the-real-story
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The turning point of the flood account is a verb about memory.
 
 ## "God remembered"
 
-*But **God remembered Noah**, and all the wild animals and livestock with him in
+**8:1** *But **God remembered Noah**, and all the wild animals and livestock with him in
 the ark.*
 
 The Hebrew is **zakar**. It does not mean God had forgotten — it is the word for
@@ -24,7 +24,7 @@ Every time it appears, something moves immediately afterwards.
 
 ## What moved
 
-*And God sent **a wind** over the earth, and the waters began to subside.*
+The rest of **8:1**: *And God sent **a wind** over the earth, and the waters began to subside.*
 
 The Hebrew for wind is **ruach** — also breath, also Spirit. The same word as
 Genesis 1:2, where *the Spirit of God hovered over the face of the waters.*
@@ -34,14 +34,14 @@ its own opening.
 
 ## The closing
 
-*The springs of the deep and the floodgates of the heavens **were closed**.*
+**8:2** *The springs of the deep and the floodgates of the heavens **were closed**.*
 
 The two sources that were split open in chapter 7 are shut. Both directions, in
 reverse order.
 
 ## The date
 
-*On **the seventeenth day of the seventh month**, the ark came to rest on the
+**8:4** *On **the seventeenth day of the seventh month**, the ark came to rest on the
 mountains of Ararat.*
 
 Hold that date. The flood began on the seventeenth day of the second month.
@@ -68,7 +68,7 @@ above everything the water had covered.
 
 ## What Noah does about it
 
-Nothing, for months. The waters *kept receding until, on the first day of the tenth
+Nothing, for months. The waters, **8:5**, *kept receding until, on the first day of the tenth
 month, the tops of the mountains appeared* — and he waits, and sends a raven, and
 then a dove, three times.
 

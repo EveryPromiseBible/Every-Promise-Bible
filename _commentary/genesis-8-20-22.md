@@ -4,7 +4,7 @@ title: Seedtime and harvest
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2022-05-01 guard-the-imaginations-of-your-heart
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The first thing built on the new earth is an altar, and God's answer to it holds the
@@ -12,7 +12,7 @@ world's weather in place.
 
 ## The first act
 
-*Then Noah **built an altar to the LORD**.*
+**8:20** *Then Noah **built an altar to the LORD**.*
 
 The first altar named in Scripture. Cain and Abel brought offerings; nobody had built
 one before this.
@@ -21,7 +21,7 @@ He is standing on a planet with eight people on it, and this is what he does fir
 
 ## The cost
 
-*Taking **some of every clean animal and bird**, he offered burnt offerings on it.*
+The rest of **8:20**: *Taking **some of every clean animal and bird**, he offered burnt offerings on it.*
 
 Every clean species had come aboard by sevens rather than twos — the extra ones are on
 this altar.
@@ -31,7 +31,7 @@ burns.
 
 ## The aroma
 
-*The LORD **smelled the pleasing aroma**.*
+**8:21** *The LORD **smelled the pleasing aroma**.*
 
 The Hebrew is *a soothing savour* — **reyach nichoach**, a restful smell. It becomes the
 standard phrase for accepted sacrifice through the whole of Leviticus.
@@ -41,21 +41,21 @@ sweet-smelling aroma.*
 
 ## What He says in His heart
 
-*And said **in His heart**.*
+Still **8:21**: *And said **in His heart**.*
 
 Moses records it as an interior resolution, not an announcement. The promise is made
 before Noah is told it.
 
 ## "Never again"
 
-*"**Never again** will I curse the ground because of humankind… and **never again** will
+Still **8:21**: *"**Never again** will I curse the ground because of humankind… and **never again** will
 I destroy all living creatures as I have done."*
 
 Twice, in one breath.
 
 ## The reason attached
 
-*"**Even though** every inclination of the human heart is bent toward evil **from
+Still **8:21**: *"**Even though** every inclination of the human heart is bent toward evil **from
 childhood**."*
 
 That is nearly word for word what God said before the flood — *every intent of the
@@ -69,7 +69,7 @@ changed is that there is an altar in front of Him.
 
 ## What is promised
 
-*"As long as the earth endures, **seedtime and harvest, cold and heat, summer and
+**8:22** *"As long as the earth endures, **seedtime and harvest, cold and heat, summer and
 winter, day and night will never cease**."*
 
 Four pairs. Every one is a cycle, and the guarantee is that they keep turning.

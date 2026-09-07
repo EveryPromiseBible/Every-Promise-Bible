@@ -3,7 +3,7 @@ key: Genesis 9:8–17
 title: The bow in the cloud
 sources:
   - 2014-04-13 noah-the-real-story
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 God makes a promise and then puts up something to look at, and the thing He puts
@@ -11,7 +11,7 @@ up is a weapon.
 
 ## The word
 
-*"I have set **my rainbow** in the clouds."*
+**9:13** *"I have set **my rainbow** in the clouds."*
 
 The Hebrew is **qeshet** — and it is simply the word for a bow. The war bow, the
 hunting bow, the thing David sang about, the weapon Jonathan gave away.
@@ -24,7 +24,7 @@ earth. Whatever is left in it is aimed at Himself.
 
 ## Who has to remember
 
-*"Whenever I bring clouds over the earth and the rainbow appears, **I will remember
+**9:14–15**: *"Whenever I bring clouds over the earth and the rainbow appears, **I will remember
 my covenant**."*
 
 Said three times in the passage: *I will remember*, *I will see it and remember*,
@@ -38,7 +38,7 @@ Genesis 8:1–5.
 
 ## Who the covenant is with
 
-*"With you and your descendants after you, and **with every living creature** that
+**9:9–10**: *"With you and your descendants after you, and **with every living creature** that
 was with you — the birds, the livestock, and all the wild animals."*
 
 He says it four times over. The animals are named as parties to it.
@@ -56,7 +56,7 @@ included Ham, and Noah is drunk and naked in his tent within a few verses.
 
 ## Who brings the clouds
 
-*"**Whenever I bring clouds** over the earth."*
+**9:14**: *"**Whenever I bring clouds** over the earth."*
 
 He does not promise there will be no more clouds. He says He is the one bringing
 them, and that when they come, the bow shows up in them.
@@ -77,7 +77,7 @@ the comparison Himself. See the note on Isaiah 54:9–10.
 
 ## The last line
 
-*"This is the sign of the covenant I have established between me and **all life on
+**9:17** *"This is the sign of the covenant I have established between me and **all life on
 the earth**."*
 
 > **The other place the bow turns up.** Ezekiel 1, and Revelation 4: *there was a
