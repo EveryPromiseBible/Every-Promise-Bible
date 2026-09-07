@@ -5,14 +5,14 @@ sources:
   - 2022-05-15 perceive-gods-wisdom-in-your-heart
   - 2024-05-19 believe-right-and-live-right
   - 2025-03-30 freedom-from-failure-consciousness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses, and the second is an argument from the existence of a second covenant.
 
 ## The comparison
 
-*The work He has been given is **finer by far**.*
+**8:6** *The work He has been given is **finer by far**.*
 
 The Greek is **diaphoroteras leitourgias** — a more excellent ministry.
 
@@ -20,7 +20,7 @@ The Greek is **diaphoroteras leitourgias** — a more excellent ministry.
 
 ## The ratio
 
-*Exactly as much finer as **the covenant He stands in the middle of is better than the old
+Still **8:6**: *Exactly as much finer as **the covenant He stands in the middle of is better than the old
 one**.*
 
 The Greek is **kreittonos diathekes mesites** — mediator of a better covenant.
@@ -39,7 +39,7 @@ mediator*.
 
 ## The promises
 
-*And that covenant was **set up on better promises**.*
+The end of **8:6**: *And that covenant was **set up on better promises**.*
 
 The Greek is **nenomothetetai** — enacted, made law.
 
@@ -56,7 +56,7 @@ All four are *I will*.
 
 ## The argument
 
-*If there had been **nothing wrong with the first one**, **no one would have gone looking for a
+**8:7** *If there had been **nothing wrong with the first one**, **no one would have gone looking for a
 second**.*
 
 The Greek is **ei amemptos** — if faultless.
@@ -78,7 +78,7 @@ not arguing against Scripture; he is quoting it.
 
 ## Where the fault lay
 
-*Because **finding fault with them**, He says…*
+**8:8** *Because **finding fault with them**, He says…*
 
 The Greek grammar is ambiguous and can be read as finding fault with the covenant or with the
 people.
@@ -90,7 +90,7 @@ The fault is in the material it was working with.
 
 ## The conclusion of the chapter
 
-*In that He says, "**A new covenant**," **He has made the first obsolete**. Now what is becoming
+**8:13** *In that He says, "**A new covenant**," **He has made the first obsolete**. Now what is becoming
 obsolete and growing old is ready to vanish away.*
 
 The Greek is **pepalaioken** — has made old.

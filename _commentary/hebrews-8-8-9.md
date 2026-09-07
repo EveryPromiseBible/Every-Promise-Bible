@@ -4,7 +4,7 @@ title: "The days are coming"
 sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2025-03-30 freedom-from-failure-consciousness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer begins the longest Old Testament quotation in the New Testament, and the first
@@ -12,7 +12,7 @@ thing he does is say where the fault lay.
 
 ## The clause before
 
-*For **if that first covenant had been faultless, then no place would have been sought for a
+**8:7** *For **if that first covenant had been faultless, then no place would have been sought for a
 second**.*
 
 An argument from the existence of the promise. A replacement was promised, so the first
@@ -20,7 +20,7 @@ was not final.
 
 ## Where the blame goes
 
-*But God does **lay the blame on them**.*
+**8:8** *But God does **lay the blame on them**.*
 
 The Greek is **memphomenos autois** — finding fault with them.
 
@@ -37,7 +37,7 @@ in the New Testament — six verses straight.
 
 ## The announcement
 
-*"Look, **the days are coming**, says the Lord, when I will make **a new covenant** with the
+Still **8:8**: *"Look, **the days are coming**, says the Lord, when I will make **a new covenant** with the
 house of Israel and with the house of Judah."*
 
 The Greek is **kaine** — new in kind, not merely recent.
@@ -47,14 +47,14 @@ judgment.
 
 ## Both houses
 
-*The house of Israel **and** the house of Judah.*
+Also in **8:8**: *The house of Israel **and** the house of Judah.*
 
 The kingdom had been split for centuries and the northern tribes had been gone for over a
 hundred years when Jeremiah wrote. The promise names both.
 
 ## The comparison
 
-*"It will **not be like the covenant I made with their fathers** on the day I **took them by
+**8:9** *"It will **not be like the covenant I made with their fathers** on the day I **took them by
 the hand and led them out of the land of Egypt**."*
 
 The tenderness of the image is the point. *Took them by the hand* — the way you lead a
@@ -64,7 +64,7 @@ Jeremiah does not describe the first covenant as harsh. He describes it as a han
 
 ## What went wrong
 
-*"**They did not stay inside that covenant of Mine**, and so **I turned away from them**."*
+The rest of **8:9**: *"**They did not stay inside that covenant of Mine**, and so **I turned away from them**."*
 
 The Hebrew of Jeremiah adds a clause the Greek renders differently: *though I was a husband
 to them*.
@@ -80,7 +80,7 @@ Four promises, all in the first person, and nothing required in return.
 
 ## The writer's conclusion
 
-*In that He says, "A new covenant," **He has made the first obsolete**. Now what is becoming
+**8:13** *In that He says, "A new covenant," **He has made the first obsolete**. Now what is becoming
 obsolete and growing old **is ready to vanish away**.*
 
 The Greek is **peleroken** — made old. And **aphanismou** — disappearance.
