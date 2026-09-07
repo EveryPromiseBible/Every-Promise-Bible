@@ -4,7 +4,7 @@ title: The oath
 sources:
   - 2020-05-03 experience-abundance-in-times-of-famine
   - 2020-05-24 find-power-in-his-presence
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer has been building a case out of Genesis 14 and Psalm 110, and here he adds
@@ -12,7 +12,7 @@ one more piece: an oath.
 
 ## What is being compared
 
-*"Those other priests **were made priests with no oath sworn over them**."*
+**7:20** *"Those other priests **were made priests with no oath sworn over them**."*
 
 Aaron's line was appointed by command. Exodus says *take Aaron your brother, and his
 sons with him* — an instruction, not a vow.
@@ -22,7 +22,7 @@ priesthood and found none.
 
 ## The oath that does exist
 
-*"**The Lord has sworn it and will not change His mind: You are a priest forever —
+**7:21** *"**The Lord has sworn it and will not change His mind: You are a priest forever —
 Melchizedek's kind of priest**."*
 
 Psalm 110:4, the verse after the one about the footstool. See the note on
@@ -39,7 +39,7 @@ a man, that He should lie, nor a son of man, that He should repent.*
 An oath is a promise with a second layer under it. God swearing means the thing is
 placed beyond revision.
 
-The writer makes the point outright a chapter earlier: *God, determining to show more
+The writer makes the point outright a chapter earlier, **6:17**: *God, determining to show more
 abundantly to the heirs of promise the immutability of His counsel, **confirmed it by an
 oath**.*
 
@@ -47,14 +47,14 @@ oath**.*
 
 The Greek is **eis ton aiona** — into the age.
 
-A Levitical priest served from thirty to fifty and died. The writer says as much:
+A Levitical priest served from thirty to fifty and died. The writer says as much, **7:23**:
 *there have been many priests, because they were prevented by death from continuing.*
 
 The oath's subject does not vacate the post.
 
 ## The conclusion
 
-*"**That is the measure of it: Jesus has become the guarantee of a better
+**7:22** *"**That is the measure of it: Jesus has become the guarantee of a better
 covenant**."*
 
 The Greek for *guarantee* is **engyos** — a surety, the person who stands good for

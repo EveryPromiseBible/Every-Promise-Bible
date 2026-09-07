@@ -3,7 +3,7 @@ key: Hebrews 7:1–2
 title: King of righteousness, king of peace
 sources:
   - 2021-08-22 greater-shalom-and-security
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 A man who appears in three verses of Genesis and one line of a psalm, and Hebrews builds a
@@ -11,7 +11,7 @@ chapter on him.
 
 ## Who he is
 
-*Melchizedek **ruled Salem** and was **priest of God Most High**.*
+**7:1** *Melchizedek **ruled Salem** and was **priest of God Most High**.*
 
 Both offices in one person, which was not how Israel worked. Kings came from Judah and
 priests from Levi, and the one king who tried to burn incense came out a leper.
@@ -30,7 +30,7 @@ He arrives, blesses, and leaves. Genesis says nothing else about him.
 
 ## The meeting
 
-*Abraham was on his way back from **cutting down the kings** when Melchizedek met him and
+**7:1–2** *Abraham was on his way back from **cutting down the kings** when Melchizedek met him and
 **blessed him**, and Abraham **gave him a tenth of everything**.*
 
 The tithe is a hundred and fifty years before the law that requires it.
@@ -40,7 +40,7 @@ blessed by the better*.
 
 ## The first name
 
-*Start with his name: it means **king of righteousness**.*
+**7:2** *Start with his name: it means **king of righteousness**.*
 
 The Hebrew is **malki-tsedeq** — my king is righteousness, or king of righteousness.
 
@@ -48,7 +48,7 @@ The Hebrew is **malki-tsedeq** — my king is righteousness, or king of righteou
 
 ## The second
 
-*Then take the place he ruled, **Salem, which means peace** — so, king of peace.*
+Still **7:2**: *Then take the place he ruled, **Salem, which means peace** — so, king of peace.*
 
 **Shalem**, from **shalom**. And Salem is Jerusalem — the psalm says so: *in Salem also is
 His tabernacle, and His dwelling place in Zion*.
@@ -70,7 +70,7 @@ Every time, in that order.
 
 ## What Hebrews says next
 
-*Without father, without mother, without genealogy, having neither beginning of days nor end
+**7:3** *Without father, without mother, without genealogy, having neither beginning of days nor end
 of life, but made like the Son of God, **remains a priest continually**.*
 
 Not a claim that he had no parents. An argument from the silence of the record: Genesis gives
@@ -91,7 +91,7 @@ thousand before Hebrews.
 
 ## Why the argument matters
 
-Jesus is from Judah. *For it is evident that our Lord arose from Judah, of which tribe Moses
+Jesus is from Judah. **7:14**: *For it is evident that our Lord arose from Judah, of which tribe Moses
 spoke nothing concerning priesthood.*
 
 Under Levitical rules He could not be a priest at all. Hebrews answers by pointing at a

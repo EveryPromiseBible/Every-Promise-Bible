@@ -1,14 +1,14 @@
 ---
 key: Hebrews 7:23–25
 title: "The priesthood that never changes hands"
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The argument is almost comically simple, and it turns entirely on the fact that one Priest did not
 stay dead.
 
 ## Why there had to be so many
 
-*There had to be a great many of those priests, because **death kept stopping them from staying in
+**7:23** *There had to be a great many of those priests, because **death kept stopping them from staying in
 office**.*
 
 Aaron's line ran for roughly fourteen centuries, and every man in it was interrupted the same way.
@@ -18,7 +18,7 @@ Whatever comfort a worshipper took from his priest, he took it knowing the man w
 
 ## A priesthood that cannot be handed on
 
-*But He goes on forever, so **His priesthood never passes to anyone else**.*
+**7:24** *But He goes on forever, so **His priesthood never passes to anyone else**.*
 
 **Aparabatos** — untransferable, not passing to a successor. It is a legal term, and it appears once
 in the Bible.
@@ -28,7 +28,7 @@ thing that has ever vacated it is death, and He has been through that already an
 
 ## Completely, and for good
 
-*Which is why He is able to save, **completely and for good**, everyone who comes to God through
+**7:25** *Which is why He is able to save, **completely and for good**, everyone who comes to God through
 Him.*
 
 **Eis to panteles** — to the uttermost. The phrase carries both dimensions at once: all the way
@@ -39,7 +39,7 @@ being come to. Your salvation is as secure as His pulse.
 
 ## What He is doing now
 
-*He is always alive, and **He lives to speak to God on their behalf**.*
+The rest of **7:25**: *He is always alive, and **He lives to speak to God on their behalf**.*
 
 **Entynchanein** — to approach someone on another's behalf, to petition.
 

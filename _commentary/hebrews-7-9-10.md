@@ -6,7 +6,7 @@ sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer makes an argument about a man who was not born yet, and he knows how it
@@ -14,14 +14,14 @@ sounds.
 
 ## "You could even put it this way"
 
-He flags it himself — *so to speak*, in most translations. He is aware he is
+**7:9**. He flags it himself — *so to speak*, in most translations. He is aware he is
 pressing something.
 
 And then he presses it.
 
 ## The claim
 
-*Levi, **who collects the tenth, paid it himself** — paid it through Abraham. **He
+**7:9–10** *Levi, **who collects the tenth, paid it himself** — paid it through Abraham. **He
 was still inside his forefather's body** when Melchizedek came out to meet him.*
 
 Levi is Abraham's great-grandson. He is four generations away and centuries from

@@ -4,7 +4,7 @@ title: "The lesser is blessed by the greater"
 sources:
   - 2019-08-04 the-overflow-life-for-you
   - 2019-12-29 you-have-a-destiny
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer states a rule nobody disputes and uses it to settle a question about
@@ -12,7 +12,7 @@ rank.
 
 ## The rule
 
-*And **nobody argues with this: the lesser is blessed by the greater**.*
+**7:7** *And **nobody argues with this: the lesser is blessed by the greater**.*
 
 The Greek is *beyond all contradiction*.
 
@@ -22,7 +22,7 @@ outranked whom.
 
 ## What it is being applied to
 
-*This man is **not out of their line at all** — and he **took a tenth from Abraham**
+**7:6** *This man is **not out of their line at all** — and he **took a tenth from Abraham**
 and **spoke a blessing over the man who held the promises**.*
 
 Two facts about Melchizedek, and both point the same way: he received from Abraham,
@@ -49,7 +49,7 @@ all, and he collected from Abraham himself.
 The whole chapter is establishing that a priesthood exists which is not Aaron's, and
 which is better.
 
-*If perfection were through the Levitical priesthood… what further need was there
+**7:11**: *If perfection were through the Levitical priesthood… what further need was there
 that another priest should rise according to the order of Melchizedek?*
 
 Psalm 110 promised one, a thousand years after Abraham and centuries after Levi.
@@ -66,11 +66,11 @@ was carried up. See the note on Acts 1:9–11.
 
 ## The chapter's conclusion
 
-*Therefore He is also **able to save to the uttermost** those who come to God through
+**7:25** *Therefore He is also **able to save to the uttermost** those who come to God through
 Him, since **He always lives to make intercession for them**.*
 
 The Greek for *to the uttermost* is completely, to the end, all the way through.
 
-> **The one who is greater.** *Here mortal men receive tithes, but there He receives
+> **The one who is greater.** **7:8**: *Here mortal men receive tithes, but there He receives
 > them, **of whom it is witnessed that He lives**.* One verse later, and it is the
-> writer's own summary of the difference. See the note on Hebrews 7:8.
+> writer's own summary of the difference.

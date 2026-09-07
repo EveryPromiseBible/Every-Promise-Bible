@@ -4,7 +4,7 @@ title: "Think how big a figure this must be"
 sources:
   - 2019-05-26 the-truth-about-tithing-under-grace
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer asks his readers to work out the rank of a man from a single
@@ -12,14 +12,14 @@ transaction.
 
 ## The instruction
 
-*Now **think how big a figure this must be**.*
+**7:4** *Now **think how big a figure this must be**.*
 
 The Greek is *consider* — **theoreo**, to look at attentively, the root of *theory*.
 He is asking for deliberate observation rather than agreement.
 
 ## The evidence
 
-*Abraham himself, **the father of the whole family**, handed him a tenth of what he
+The rest of **7:4**: *Abraham himself, **the father of the whole family**, handed him a tenth of what he
 had taken.*
 
 The argument is entirely about who gave to whom.
@@ -32,7 +32,7 @@ And Abraham gave.
 
 ## The rule the argument runs on
 
-Stated three verses later: *beyond all contradiction, **the lesser is blessed by the
+Stated three verses later, **7:7**: *beyond all contradiction, **the lesser is blessed by the
 better**.*
 
 Melchizedek blessed Abraham and received a tenth from him. On that rule alone,
@@ -40,7 +40,7 @@ Melchizedek outranks him.
 
 ## The comparison with Levi
 
-*The law tells **Levi's sons** who take up the priesthood **to collect a tenth from
+**7:5** *The law tells **Levi's sons** who take up the priesthood **to collect a tenth from
 the people** — from their own brothers, who came out of Abraham exactly as they
 did.*
 
@@ -56,7 +56,7 @@ Melchizedek has no genealogy at all, and Abraham paid him.
 
 ## Where it is going
 
-*If perfection were through the Levitical priesthood… what further need was there
+**7:11** *If perfection were through the Levitical priesthood… what further need was there
 that another priest should rise according to the order of Melchizedek?*
 
 The whole chapter is establishing that a better priesthood was promised — in Psalm
@@ -68,15 +68,13 @@ order of Melchizedek.*
 
 ## And the clause that follows
 
-*Here mortal men receive tithes, but there **He receives them, of whom it is
+**7:8** *Here mortal men receive tithes, but there **He receives them, of whom it is
 witnessed that He lives**.*
 
-That is verse 8, and it is the writer's own contrast: the Levites died and were
-replaced, generation after generation. The other one is testified to be alive.
+The writer's own contrast: the Levites died and were replaced, generation after
+generation. The other one is testified to be alive.
 
-See the note on Hebrews 7:8.
-
-> **What the chapter concludes about Him.** *Therefore He is also able to save to
+> **What the chapter concludes about Him.** **7:25**: *Therefore He is also able to save to
 > the uttermost those who come to God through Him, since **He always lives to make
 > intercession for them**.* The permanence of the priesthood is the whole point, and
 > the argument for it started with one afternoon in a valley.
