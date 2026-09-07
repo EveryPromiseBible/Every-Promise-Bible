@@ -4,14 +4,14 @@ title: Copy the people who held on
 sources:
   - 2026-01-04 hope-that-anchors-your-soul
   - 2026-07-05 dont-lose-heart-keep-on-praying
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The remedy for going soft is not effort. It is imitation.
 
 ## The desire
 
-*What we want is for **every one of you** to keep that same eagerness **right through to the end**.*
+**6:11** *What we want is for **every one of you** to keep that same eagerness **right through to the end**.*
 
 The Greek is **hekaston humōn** — each one of you. And **achri telous** — until the end.
 
@@ -27,7 +27,7 @@ They had already done it. The instruction is to keep going at the pace they set.
 
 ## The goal
 
-*Until **what you hope for is a settled certainty**.*
+The rest of **6:11**: *Until **what you hope for is a settled certainty**.*
 
 The Greek is **pros tēn plērophorian tēs elpidos** — to the full assurance of hope.
 
@@ -40,7 +40,7 @@ in **full assurance of faith***. See the note on Hebrews 10:22.
 
 ## The warning
 
-*We do not want you **going soft**.*
+**6:12** *We do not want you **going soft**.*
 
 The Greek is **nōthroi** — sluggish, dull, slow-moving.
 
@@ -52,7 +52,7 @@ Same adjective. They went dull in the ears first; the danger now is going dull a
 
 ## The instruction
 
-*Copy the people who **trusted God, held on, and came into what He promised**.*
+The rest of **6:12**: *Copy the people who **trusted God, held on, and came into what He promised**.*
 
 The Greek is **mimētai** — imitators. The root of *mimic*.
 
@@ -106,7 +106,7 @@ he supplies the list — the whole roll of Hebrews 11, ending with the crowd in 
 
 And then he tells them where to look, and it is not at the crowd:
 
-*Let us run with endurance the race that is set before us, **looking unto Jesus, the author and
+**12:1–2**: *Let us run with endurance the race that is set before us, **looking unto Jesus, the author and
 finisher of our faith***.
 
 **Archegon kai teleioten** — the one who starts it and the one who completes it. The examples are

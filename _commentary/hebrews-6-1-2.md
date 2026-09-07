@@ -3,14 +3,14 @@ key: Hebrews 6:1–2
 title: Past the beginner's lesson
 sources:
   - 2025-09-14 trust-the-way-of-grace
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Six items are named as foundation, and every one of them could be taught in a synagogue.
 
 ## The instruction
 
-*So let us **leave the beginner's lesson about Christ behind** and be **carried on to full growth**.*
+**6:1** *So let us **leave the beginner's lesson about Christ behind** and be **carried on to full growth**.*
 
 The Greek is **aphentes ton tēs archēs tou Christou logon** — leaving the word of the beginning of
 Christ.
@@ -32,13 +32,13 @@ The rebuke is that they are still on the first lesson years later.
 
 ## The foundation
 
-*We are **not laying that foundation down a second time**.*
+Still **6:1**: *We are **not laying that foundation down a second time**.*
 
 Six items follow, in three pairs.
 
 ## The first pair
 
-*Turning away from **everything we did that led nowhere**, and **trusting God**.*
+The end of **6:1**: *Turning away from **everything we did that led nowhere**, and **trusting God**.*
 
 The Greek is **metanoias apo nekrōn ergōn** — repentance from dead works. And **pisteōs epi Theon**
 — faith toward God.
@@ -54,7 +54,7 @@ Not sins. Works — the kind done to establish a standing.
 
 ## The second pair
 
-*Teaching about **the washings**, and **hands placed on people**.*
+**6:2** *Teaching about **the washings**, and **hands placed on people**.*
 
 The Greek is **baptismōn didachēs** — of washings, plural. Not the word for Christian baptism used
 elsewhere; the general word for ceremonial washings.
@@ -63,7 +63,7 @@ Laying on of hands: ordination, blessing, the transfer of a sacrifice's identity
 
 ## The third pair
 
-*The dead raised, and **a judgment whose verdict stands forever**.*
+The rest of **6:2**: *The dead raised, and **a judgment whose verdict stands forever**.*
 
 The Greek is **anastaseōs nekrōn kai krimatos aiōniou**.
 
@@ -103,7 +103,7 @@ Presence behind the veil*. See the note on Hebrews 6:19–20.
 
 ## The clause
 
-*And **this we will do if God permits**.*
+**6:3** *And **this we will do if God permits**.*
 
 The sentence after the six items. Even the going on is not put down as the readers' achievement.
 

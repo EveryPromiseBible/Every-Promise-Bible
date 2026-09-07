@@ -4,14 +4,14 @@ title: "So God went further"
 sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2026-01-04 hope-that-anchors-your-soul
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer explains how human oaths work and then says God submitted to the procedure.
 
 ## How it works among people
 
-*People **swear by someone greater than themselves**, and once an oath is given **to
+**6:16** *People **swear by someone greater than themselves**, and once an oath is given **to
 settle a matter, the argument is over**.*
 
 The Greek is *an oath for confirmation is to them an end of all dispute* —
@@ -21,7 +21,7 @@ That was the legal function. Where evidence ran out, an oath closed the case.
 
 ## What God did
 
-*So **God went further**.*
+**6:17** *So **God went further**.*
 
 The Greek is *God, wanting more abundantly* — **perissoteron**, over and above.
 
@@ -29,7 +29,7 @@ He had already promised. The oath is on top of a promise that was already given.
 
 ## Who it was for
 
-*He wanted **the people who would inherit what He promised** to be **in no doubt**.*
+Still **6:17**: *He wanted **the people who would inherit what He promised** to be **in no doubt**.*
 
 The Greek is **tois kleronomois tes epangelias** — the heirs of the promise.
 
@@ -38,7 +38,7 @@ category.
 
 ## What they were to be in no doubt about
 
-*That **His mind on this would never change**.*
+Also in **6:17**: *That **His mind on this would never change**.*
 
 The Greek is **to ametatheton tes boules autou** — the unchangeableness of His purpose.
 
@@ -46,7 +46,7 @@ The oath does not make the purpose firmer. It makes the firmness visible.
 
 ## The mechanism
 
-*So **He backed it with an oath**.*
+The end of **6:17**: *So **He backed it with an oath**.*
 
 The Greek is *He interposed Himself with an oath* — **mesiteuo**, from the same root as
 **mesites**, mediator. He stepped in between.
@@ -68,7 +68,7 @@ The two are the promise and the oath.
 
 ## Where the paragraph ends
 
-*This hope we have as **an anchor of the soul**, both sure and steadfast, and **which
+**6:19–20** *This hope we have as **an anchor of the soul**, both sure and steadfast, and **which
 enters the Presence behind the veil**, where the forerunner has entered for us — even
 Jesus.*
 

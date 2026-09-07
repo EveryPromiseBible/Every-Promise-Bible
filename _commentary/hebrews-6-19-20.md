@@ -3,14 +3,14 @@ key: Hebrews 6:19–20
 title: The anchor inside the veil
 sources:
   - 2026-01-04 hope-that-anchors-your-soul
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 An anchor goes down. This one goes up, and inward.
 
 ## The image
 
-*That hope is **our anchor**. **It holds; it does not slip**.*
+**6:19** *That hope is **our anchor**. **It holds; it does not slip**.*
 
 The Greek is **agkuran… asphalē te kai bebaian** — safe and firm.
 
@@ -21,7 +21,7 @@ made to stumble.
 
 ## Where it is
 
-*And it **reaches all the way inside, past the curtain**.*
+The rest of **6:19**: *And it **reaches all the way inside, past the curtain**.*
 
 The Greek is **eiserchomenēn eis to esōteron tou katapetasmatos** — entering into the inner side of
 the veil.
@@ -46,7 +46,7 @@ Matthew 27:48–50.
 
 ## Who is in there
 
-*Where **Jesus has already gone in ahead of us, for our sake**.*
+**6:20** *Where **Jesus has already gone in ahead of us, for our sake**.*
 
 The Greek is **prodromos** — forerunner. The word appears once in the New Testament.
 
@@ -61,7 +61,7 @@ A forerunner implies followers. A high priest going in alone did not.
 
 ## The title
 
-*Made **High Priest forever — Melchizedek's kind of priest**.*
+The rest of **6:20**: *Made **High Priest forever — Melchizedek's kind of priest**.*
 
 The Greek is **kata tēn taxin Melchisedek** — according to the order of Melchizedek.
 

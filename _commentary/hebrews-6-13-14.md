@@ -5,14 +5,14 @@ sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2026-01-04 hope-that-anchors-your-soul
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses, and the whole point is the absence of anybody higher.
 
 ## The problem
 
-*When God made Abraham a promise, **there was no one greater for Him to swear by**.*
+**6:13** *When God made Abraham a promise, **there was no one greater for Him to swear by**.*
 
 An oath works by staking something larger than yourself. A man swears by God because God
 outranks him and will hold him to it.
@@ -21,7 +21,7 @@ For God there is no such party.
 
 ## What He did about it
 
-*So **He swore by His own name**.*
+The rest of **6:13**: *So **He swore by His own name**.*
 
 The Hebrew of Genesis 22 is *by Myself I have sworn*.
 
@@ -31,7 +31,7 @@ everything that exists.
 
 ## The quotation
 
-*"**Bless you I will; multiply you I will**."*
+**6:14** *"**Bless you I will; multiply you I will**."*
 
 The Greek doubles both verbs — *blessing I will bless you, and multiplying I will
 multiply you*. It is the Hebrew intensive construction carried straight over.
@@ -49,7 +49,7 @@ laid on the wood.
 
 ## What the writer says about Abraham next
 
-*And so, **after he had patiently endured, he obtained the promise**.*
+**6:15** *And so, **after he had patiently endured, he obtained the promise**.*
 
 The Greek is **makrothumesas** — long-tempered, slow to burn.
 
@@ -92,7 +92,7 @@ God picked the scene of a father not sparing a son as the occasion to bind Himse
 is standing on the same picture when he writes *He who **did not spare His own Son**, but delivered
 Him up for us all, how shall He not with Him also freely give us all things?*
 
-And the writer says what the oath was for: *that **we** might have strong consolation*. God did not
+And the writer says what the oath was for, **6:18**: *that **we** might have strong consolation*. God did not
 need the oath. It was sworn so that people prone to doubt would have two immovable things to hold —
 His promise and His word about His promise — with Jesus already through the veil as the guarantee.
 

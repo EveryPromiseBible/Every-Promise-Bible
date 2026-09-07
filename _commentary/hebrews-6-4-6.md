@@ -4,7 +4,7 @@ title: The impossible thing
 sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2022-08-21 the-powerful-benefits-of-gods-word
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The hardest paragraph in the letter, and the first thing to see is who it is written to
@@ -20,19 +20,19 @@ The temple was still standing. The offerings were still being made daily.
 
 ## The word
 
-*It is **impossible**.*
+**6:4** *It is **impossible**.*
 
 The Greek is **adunaton** — without power, incapable. The writer uses it four times in
 this letter:
 
-- *It is **impossible** for the blood of bulls and goats to take away sins.*
-- *Without faith it is **impossible** to please Him.*
+- **10:4**: *It is **impossible** for the blood of bulls and goats to take away sins.*
+- **11:6**: *Without faith it is **impossible** to please Him.*
 - *It is **impossible** for God to lie.* See the note on Hebrews 6:18.
 - And this one.
 
 ## The five descriptions
 
-*Have once been **given light**, have **tasted the gift** that came down from heaven, have
+**6:4–5** *Have once been **given light**, have **tasted the gift** that came down from heaven, have
 been **given a share in the Holy Spirit**, have **tasted how good the word of God is** and
 **the powers of the age that is coming**.*
 
@@ -45,7 +45,7 @@ powers of the coming age — these people had seen all of it at close range.
 
 ## What they then do
 
-*And then **turn their backs on it all**.*
+**6:6** *And then **turn their backs on it all**.*
 
 The Greek is **parapesontas** — to fall away alongside, to defect.
 
@@ -54,13 +54,13 @@ to the sacrifices.
 
 ## What is impossible
 
-*It is **impossible to make them new again so that they change their minds**.*
+Still **6:6**: *It is **impossible to make them new again so that they change their minds**.*
 
 The Greek is *to renew them again to repentance* — **metanoia**, a change of mind.
 
 ## The reason given
 
-*They are **crucifying the Son of God over again, on their own account**, and **putting Him
+The rest of **6:6**: *They are **crucifying the Son of God over again, on their own account**, and **putting Him
 on show for people to jeer at**.*
 
 The Greek is **anastauroo** (crucify again) and **paradeigmatizo** (expose to public
