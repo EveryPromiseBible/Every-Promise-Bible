@@ -62,8 +62,9 @@ commentary on selected verses.
 |---|---:|---|
 | Mark | 678 | done |
 | Romans | 433 | done |
+| Galatians | 149 | done |
 
-14 more books remain, in the order Wuest covered them: Galatians, Ephesians,
+13 more books remain, in the order Wuest covered them: Ephesians,
 Philippians, Colossians, Titus, Hebrews, 1 Timothy, 2 Timothy, 1 Peter,
 2 Peter, 1 John, 2 John, 3 John, Jude.
 
@@ -133,6 +134,54 @@ survivor is an idiom, a title, a quotation, or the deliberate "my Father,
 the God of X" combined form), only 2 residual "Jesus Christ" (both the
 opening self-naming).
 
+## Epistle rules (Galatians) — confirms Romans, adds two patterns
+
+Read against Elmer Towns' actual Galatians chapter (his book treats the
+whole epistle as one continuous piece rather than six files, but marks each
+KJV chapter's start inline, so it was read complete before any verse was
+written, then re-checked chapter by chapter as each was drafted). His
+technique confirms every Romans rule above and adds:
+
+1. **Collective "we/us/our" describing the shared condition under the law or
+   in Christ converts to "ye/you/your"** rather than staying plural-Paul or
+   becoming Jesus's own "we." *"Our liberty which we have in Christ Jesus"*
+   (2:4) → *"your liberty which ye have in me."* *"The law was our
+   schoolmaster to bring us unto Christ"* (3:24) → *"the law was your
+   schoolmaster to bring you unto me."* Matches Towns turning the same verses
+   into direct "you" address (*"taking away the freedom you all have in
+   Me"*). Hortatory-subjunctive *"let us"* becomes a direct imperative
+   instead of an odd *"let ye"* — *"let us not be weary in well doing"*
+   (6:9) → *"be ye not weary in well doing."*
+2. **Paul's own quoted speech to a named historical figure stays his own
+   words, not Jesus's** — 2:14's rebuke to Peter (*"If thou, being a Jew,
+   livest after the manner of Gentiles..."*) is introduced by *"Paul said
+   unto Peter"* and keeps its own "thou," the same way Mark leaves another
+   speaker's quoted words alone (rule 3). But the argument Paul makes to
+   Peter turns universal by 2:15, and Towns pivots there too — from that
+   point through 2:21 the whole passage converts to Jesus's own direct
+   address (*"Ye are crucified with me... yet not ye, but I live in
+   you"*), matching Towns' block-quote of the same verses in Jesus's voice
+   (*"You were crucified with Me... Now I live within you"*).
+
+"God" converts to "my Father" by the same rule as Romans, with the same
+kind of exceptions: the idiom **"God forbid"** (2:17, 3:21, 6:14, all kept);
+the monotheistic creedal formula, here **"God is one"** (3:20, kept, same
+logic as Romans' "one God"); and the fixed covenant phrase **"the Israel of
+God"** (6:16, kept, same logic as Romans' "the God of the Jews"). No direct
+Old Testament quotation in Galatians carries the word "God," so that
+exception never comes up.
+
+Verification run: 149/149 verses present, chapter-by-chapter counts match
+`KJV.json` exactly (24/21/29/31/26/18). Every residual "God" (5 total) is
+one of the three listed exceptions; zero residual "Christ" or "Jesus"
+anywhere — every explicit reference converted; zero residual "we/us/our."
+Every verse carrying "Paul" by name falls inside the autobiographical
+stretches (1:1-24, 2:1-14, 4:11-20, 5:2-3/10-12/21, 6:11) with no leak into
+the doctrinal first-person sections, and every surviving first-person
+pronoun inside those same autobiographical stretches checks out as Jesus's
+own self-reference (*"my Father," "me," "my brother"*), never a missed
+Paul "I."
+
 ## Verification run on Mark
 
 - 678/678 verses present, chapter-by-chapter counts match `KJV.json` exactly.
@@ -145,17 +194,18 @@ opening self-naming).
 Not a tab inside the KJV reader after all: it lives as **"The Jesus Bible,"**
 a fourth translation card (tx.04) alongside Mak/Illumination/KJV in the Bible
 section, built from `data/jesus.js` (`JESUS_BOOKS`, `JESUS`, `JESUS_INTROS`)
-— generated straight from this directory's `mark.json`/`romans.json`, same
-shape as `KJV` (one verse per entry), so it reuses the existing
-`buildIllumChapter` reader with no new rendering code. `CORPUS.jesus` wires
-it in; `isVerseTx` includes it; the testament filter is hidden (NT-only
+— generated straight from this directory's `mark.json`/`romans.json`/
+`galatians.json`, same shape as `KJV` (one verse per entry), so it reuses the
+existing `buildIllumChapter` reader with no new rendering code. `CORPUS.jesus`
+wires it in; `isVerseTx` includes it; the testament filter is hidden (NT-only
 coverage so far, like Mak). Each finished book gets a short intro in Jesus's
 own voice (`JESUS_INTROS`, e.g. *"I sent Mark..."*, *"I sent Paul to set in
-order..."*) composed from this project's own existing AUTHOR/PURPOSE/THEMES
-fields per book, not from Towns' wording — there is deliberately no separate
-whole-translation intro page, only the per-book ones.
+order..."*, *"I sent Paul to the churches of Galatia..."*) composed from this
+project's own existing AUTHOR/PURPOSE/THEMES fields per book, not from Towns'
+wording — there is deliberately no separate whole-translation intro page,
+only the per-book ones.
 
-Coverage is partial by design (2 of 66 books): the "jump to this verse in
+Coverage is partial by design (3 of 66 books): the "jump to this verse in
 another translation" popup, search indexing, and reading-plan generation are
 left untouched rather than half-wired against an incomplete corpus.
 

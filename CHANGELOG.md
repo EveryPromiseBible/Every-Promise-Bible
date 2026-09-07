@@ -1,5 +1,31 @@
 # CHANGELOG
 
+## 2026-09-06 — The Jesus Bible: Galatians added
+
+Third book in the Jesus Bible, following the same method as Mark and Romans: the KJV wording is kept
+throughout, and only person/voice shifts to put Jesus in the narrator's seat. Elmer Towns' Galatians
+was read complete (his book treats the whole epistle as one continuous piece rather than six files, but
+marks each KJV chapter's start inline) before writing began, then re-checked chapter by chapter as each
+was drafted — his actual text is never quoted or paraphrased, only his technique.
+
+Galatians confirmed every epistle rule already established from Romans (Paul's autobiography demotes
+to third person "Paul"; his doctrinal argument and every explicit Christ-reference stay in Jesus's own
+first-person voice; "God" converts to "my Father" except for the idiom "God forbid," the monotheistic
+formula "God is one," and the fixed phrase "the Israel of God") and surfaced two new patterns: collective
+"we/us/our" describing the shared condition under the law converts to direct "ye/you" address rather than
+staying plural, and Paul's own quoted rebuke to Peter (2:14) stays his own words before the argument turns
+universal at 2:15 and pivots into Jesus's direct address through 2:21 — matching Towns' own pivot point
+on the same verses. Full technique notes in `VoiceOfJesus/STATUS.md`.
+
+Wired in exactly like Mark and Romans: section headings reused from the Illumination's own Galatians
+headings and verse-range boundaries, and a short per-book intro in Jesus's own voice ("I sent Paul to
+the churches of Galatia...") composed from this project's own AUTHOR/PURPOSE/THEMES data, not Towns'.
+
+Verified: 149/149 verses present, chapter-by-chapter counts match `KJV.json` exactly (24/21/29/31/26/18);
+every residual "God" is one of the three listed exceptions, zero residual "Christ"/"Jesus", zero residual
+"we/us/our"; every "Paul" mention falls inside the autobiographical stretches with no leak into the
+doctrinal sections. All 41 Jesus Bible nav destinations render live with zero errors.
+
 ## 2026-09-06 — Section headings for the Jesus Bible
 
 Mark and Romans in the Jesus Bible were a single unbroken block of verses per chapter — the

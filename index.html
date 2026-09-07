@@ -3909,11 +3909,11 @@ const CORPUS = {
   /* The KJV text, recast so Jesus narrates His own gospel and His own
      letters in the first person -- see VoiceOfJesus/STATUS.md for the
      method. Same data shape as the KJV (one verse per entry), so it reuses
-     this same reader. Only Mark and Romans exist so far; more books arrive
-     the same way, book by book. */
+     this same reader. Only Mark, Romans, and Galatians exist so far; more
+     books arrive the same way, book by book. */
   jesus: { get books(){ return JESUS_BOOKS; }, get chapters(){ return JESUS; },
            get intros(){ return JESUS_INTROS; },
-           label: 'The Jesus Bible · Mark, Romans so far' }
+           label: 'The Jesus Bible · Mark, Romans, Galatians so far' }
 };
 const NAV_CACHE = {};
 function isVerseTx(tx) { return tx === 'illum' || tx === 'kjv' || tx === 'jesus'; }
@@ -4796,7 +4796,7 @@ function switchTranslation(tx, forceRef, forceVerse) {
   document.body.classList.toggle('dev-active', isDevTx(tx));
   /* Mak is New Testament only, so a testament filter there would be a control
      with nothing to do -- same reasoning for the Jesus Bible while it is still
-     just Mark and Romans. Shown only for the whole-Bible translations. */
+     New Testament only. Shown only for the whole-Bible translations. */
   document.getElementById('testamentSelect').style.display = (isVerseTx(tx) && tx !== 'jesus') ? '' : 'none';
   /* The book/chapter picker covers Mak, Illumination and the KJV -- the three
      translations with actual books and chapters. The devotional's own flat
@@ -4821,8 +4821,8 @@ function switchTranslation(tx, forceRef, forceVerse) {
   } else if (isVerseTx(tx)) {
     if ((tx === 'illum' || tx === 'jesus') && !readMode) toggleMode();
     if (tx === 'kjv' && expMode !== readMode) toggleExpMode();
-    /* The Jesus Bible is NT-only so far (Mark, Romans) -- land on that
-       testament rather than an Old Testament filter with nothing in it. */
+    /* The Jesus Bible is NT-only so far -- land on that testament rather
+       than an Old Testament filter with nothing in it. */
     if (tx === 'jesus') illumTestament = 'NT';
     buildIllumNav();
     /* Follow the reader's place if that chapter exists here. loadIllum moves the
