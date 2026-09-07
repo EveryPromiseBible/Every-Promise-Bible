@@ -3,7 +3,7 @@ key: Genesis 21:1–2
 title: "Right on time, at the very season God had spoken of"
 sources:
   - 2018-09-23 the-key-to-robust-faith
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Twenty-five years after the promise, two verses record its arrival, and they are
@@ -11,7 +11,7 @@ almost entirely made of repetition.
 
 ## The repeated phrase
 
-*The LORD came to Sarah, just as He had said He would. He did for her exactly
+**21:1–2**: *The LORD came to Sarah, just as He had said He would. He did for her exactly
 what He had promised… right on time, at the very season God had spoken of.*
 
 Three times in two verses: as He said, as He promised, at the appointed time. The
@@ -33,14 +33,14 @@ None of that is edited out, and none of it changes the timetable.
 ## The name
 
 Isaac means *he laughs*. The child is named after the reaction the promise
-provoked, and Sarah says so herself in the verses following: *God has brought me
+provoked, and Sarah says so herself in the verses following, **21:6**: *God has brought me
 laughter, and everyone who hears about this will laugh with me.*
 
 The joke told at God's expense becomes the boy's name.
 
 ## "At the very season God had spoken of"
 
-*The LORD did for Sarah **exactly what He had promised**… **at the very time God had said**.*
+Still **21:1–2**: *The LORD did for Sarah **exactly what He had promised**… **at the very time God had said**.*
 
 The Hebrew is **lammo'ed** — at the appointed time. The same root as the **mo'adim**, the fixed
 feasts. See the note on Genesis 1:14–19.

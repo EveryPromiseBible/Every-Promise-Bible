@@ -4,14 +4,14 @@ title: The feast and the demand
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 A party for a small boy, and it ends a household.
 
 ## The occasion
 
-*The child grew and was **weaned**, and on that day Abraham **threw a great feast**.*
+**21:8** *The child grew and was **weaned**, and on that day Abraham **threw a great feast**.*
 
 Weaning in that world came at two or three, and it was a milestone worth marking — the
 child had survived the most dangerous years.
@@ -20,7 +20,7 @@ Abraham is about a hundred and three.
 
 ## What Sarah saw
 
-*But Sarah noticed **Ishmael — the son Hagar the Egyptian had borne to Abraham — mocking**.*
+**21:9** *But Sarah noticed **Ishmael — the son Hagar the Egyptian had borne to Abraham — mocking**.*
 
 The Hebrew is **metsacheq** — playing, laughing, making sport.
 
@@ -34,7 +34,7 @@ the one born according to the Spirit.* See the note on Galatians 4:28–31.
 
 ## How the text names them
 
-*Ishmael — **the son Hagar the Egyptian had borne to Abraham**.*
+Still **21:9**: *Ishmael — **the son Hagar the Egyptian had borne to Abraham**.*
 
 The narrator gives the full lineage in the middle of the sentence.
 
@@ -43,13 +43,13 @@ before Isaac was born.
 
 ## The demand
 
-*"**Send this slave woman and her son away**."*
+**21:10** *"**Send this slave woman and her son away**."*
 
 Sarah does not use either name. *This slave woman*, and *her son*.
 
 ## The reason
 
-*"That boy **will never share the inheritance with my son, with Isaac**."*
+The rest of **21:10**: *"That boy **will never share the inheritance with my son, with Isaac**."*
 
 The Hebrew is *shall not be heir with my son*.
 
@@ -57,7 +57,7 @@ The issue named is the estate. Paul quotes this clause as Scripture speaking.
 
 ## Abraham
 
-*The words **cut Abraham deeply**, for **Ishmael was his son too, and he loved him**.*
+**21:11** *The words **cut Abraham deeply**, for **Ishmael was his son too, and he loved him**.*
 
 The Hebrew is *the matter was very grievous in Abraham's sight because of his son*.
 
@@ -65,11 +65,11 @@ Genesis records the father's grief and does not minimise it.
 
 ## What God says
 
-The next verse: *do not let it be displeasing in your sight because of the lad and because
+**21:12**: *do not let it be displeasing in your sight because of the lad and because
 of your bondwoman. **Whatever Sarah has said to you, listen to her voice**, for in Isaac
 your seed shall be called.*
 
-And: *yet I will also make a nation of the son of the bondwoman, **because he is your
+And, **21:13**: *yet I will also make a nation of the son of the bondwoman, **because he is your
 seed***.
 
 Both. The demand is upheld and Ishmael is provided for.

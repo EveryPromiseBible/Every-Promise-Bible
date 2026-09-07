@@ -3,7 +3,7 @@ key: Genesis 21:14–16
 title: A bowshot away
 sources:
   - 2021-08-22 greater-shalom-and-security
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The hardest paragraph in the Abraham story, and it is written from Hagar's side.
@@ -20,7 +20,7 @@ nation, because he is your seed*.
 
 ## The morning
 
-*So Abraham **rose early in the morning**.*
+**21:14** *So Abraham **rose early in the morning**.*
 
 The same phrase used when he sets out for Moriah with Isaac a chapter later.
 
@@ -28,7 +28,7 @@ Twice in two chapters Abraham gets up early to do something to a son.
 
 ## The provisions
 
-*He took **bread and a skin of water**, set them **on Hagar's shoulders**, gave her the boy,
+Still **21:14**: *He took **bread and a skin of water**, set them **on Hagar's shoulders**, gave her the boy,
 and **sent her away**.*
 
 That is the whole outfit. Bread and one waterskin, for a woman and a teenager going into a
@@ -38,7 +38,7 @@ Abraham is by this point an extremely wealthy man with hundreds of servants and 
 
 ## Where she goes
 
-*She wandered off into the **wilderness of Beersheba**.*
+The end of **21:14**: *She wandered off into the **wilderness of Beersheba**.*
 
 The Hebrew is *she departed and wandered*.
 
@@ -50,7 +50,7 @@ She is the first person in Scripture to give God a name.
 
 ## When the water runs out
 
-*When the water was gone, she **laid the child under one of the bushes**.*
+**21:15** *When the water was gone, she **laid the child under one of the bushes**.*
 
 The Hebrew is *she cast the child*. Not gently.
 
@@ -59,7 +59,7 @@ born and weaned since. The word for *child* here is used across a wide range of 
 
 ## The distance
 
-*Then **walked a little distance away — about a bowshot** — and sat down.*
+**21:16** *Then **walked a little distance away — about a bowshot** — and sat down.*
 
 A hundred yards or so. Far enough not to hear, close enough to see.
 
@@ -71,23 +71,23 @@ gets measured in.
 
 ## The sentence
 
-*"**I cannot watch him die**," she whispered.*
+Still **21:16**: *"**I cannot watch him die**," she whispered.*
 
 The Hebrew is *let me not see the death of the child*.
 
 ## The weeping
 
-*And she sat there and **wept aloud**.*
+The end of **21:16**: *And she sat there and **wept aloud**.*
 
 The Hebrew is *she lifted her voice and wept*.
 
 ## What happens next
 
-*And **God heard the voice of the lad**.*
+**21:17** *And **God heard the voice of the lad**.*
 
 Not hers. His.
 
-The verse she is not told about: *what ails you, Hagar? Fear not, for **God has heard the
+Still **21:17**, the verse she is not told about: *what ails you, Hagar? Fear not, for **God has heard the
 voice of the lad where he is**.*
 
 **Ishmael** means *God hears*. The name Hagar was told to give him thirteen years earlier,
@@ -98,7 +98,7 @@ his name has said so all along.
 
 ## What she is shown
 
-*Then **God opened her eyes**, and she saw a well of water.*
+**21:19** *Then **God opened her eyes**, and she saw a well of water.*
 
 Not created. Opened her eyes.
 
@@ -106,7 +106,7 @@ It was there.
 
 ## What became of him
 
-*So God was with the lad; and he grew and dwelt in the wilderness, and became an archer.*
+**21:20** *So God was with the lad; and he grew and dwelt in the wilderness, and became an archer.*
 
 Twelve sons, twelve princes, and he is at Abraham's funeral: *and his sons Isaac and Ishmael
 buried him in the cave of Machpelah*.

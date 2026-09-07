@@ -5,10 +5,10 @@ sources:
   - 2019-01-06 release-the-blessings-of-the-latter-rain
   - 2018-12-23 the-christmas-story-from-creation-to-the-cross
   - 2018-09-23 the-key-to-robust-faith
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
-*So Abraham prayed to God, and God healed Abimelech.* It is the first time
+**20:17**: *So Abraham prayed to God, and God healed Abimelech.* It is the first time
 anyone in scripture prays for someone else's healing, and the circumstances are
 uncomfortable.
 
@@ -24,7 +24,7 @@ Abimelech acted *with a clear conscience and clean hands*.
 
 ## What God says to do about it
 
-Earlier in the chapter God tells Abimelech to return the woman, and adds: *he is
+Earlier in the chapter, **20:7**, God tells Abimelech to return the woman, and adds: *he is
 a prophet, and he will pray for you, and you will live*.
 
 The instruction is not that Abraham deserves to be heard. It is simply what is to
@@ -32,7 +32,7 @@ happen. God assigns the intercession to the person in the wrong.
 
 ## The detail at the end
 
-*For the LORD had closed up every womb in Abimelech's household.* The reason for
+**20:18**: *For the LORD had closed up every womb in Abimelech's household.* The reason for
 the healing is only explained after it is granted — the writer holds it back to
 the last line of the chapter.
 
@@ -41,7 +41,7 @@ Isaac, prays for another household's fertility and is answered.
 
 ## Who he prayed for
 
-*So Abraham prayed to God, and **God healed Abimelech**, his wife, and his female servants.*
+Still **20:17**: *So Abraham prayed to God, and **God healed Abimelech**, his wife, and his female servants.*
 
 The first recorded prayer for healing in Scripture, and Abraham prays it for the king who had
 taken his wife into a harem — a situation Abraham had personally caused by lying about her, for
