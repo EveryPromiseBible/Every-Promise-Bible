@@ -6,20 +6,20 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-11-24 stay-near-the-scent-of-water
   - 2026-03-01 silence-the-enemys-accusations
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The argument of the whole letter in two sentences, and it runs from the lesser to the greater.
 
 ## The invitation
 
-*Think it through.*
+**9:13**. *Think it through.*
 
 The Greek is **ei gar** — for if. Hebrews sets up a conditional and lets the reader finish it.
 
 ## The granted premise
 
-*The blood of bulls and goats, and **the ashes of a burned young cow** sprinkled over people who had
+Still **9:13**: *The blood of bulls and goats, and **the ashes of a burned young cow** sprinkled over people who had
 been made unclean, **set them apart and got them clean on the outside**.*
 
 Hebrews concedes that the old system worked.
@@ -36,7 +36,7 @@ Numbers 19:1–10.
 
 ## What they achieved
 
-*Set them apart and got them clean **on the outside**.*
+From **9:13** again: *Set them apart and got them clean **on the outside**.*
 
 The Greek is **pros ten tes sarkos katharoteta** — to the purity of the flesh.
 
@@ -47,7 +47,7 @@ the service perfect **in regard to the conscience***.
 
 ## The comparison
 
-*Then **how much more** will the blood of Christ do.*
+**9:14** *Then **how much more** will the blood of Christ do.*
 
 The Greek is **poso mallon**.
 
@@ -56,7 +56,7 @@ Romans 5.
 
 ## The three clauses about Him
 
-*Who through **the eternal Spirit** offered **Himself** to God with **no flaw in Him anywhere**.*
+Still **9:14**: *Who through **the eternal Spirit** offered **Himself** to God with **no flaw in Him anywhere**.*
 
 The Greek is **dia pneumatos aioniou** — through eternal Spirit.
 
@@ -72,7 +72,7 @@ Every animal was brought. This one is described as offering itself.
 
 ## The effect
 
-*To **scour your conscience clean of all that dead work**.*
+Also in **9:14**: *To **scour your conscience clean of all that dead work**.*
 
 The Greek is **kathariei ten suneidesin humon apo nekron ergon** — will cleanse your conscience
 from dead works.
@@ -95,7 +95,7 @@ category and applies it to religious effort.
 
 ## The purpose
 
-*So that **you can serve the living God**.*
+The end of **9:14**: *So that **you can serve the living God**.*
 
 The Greek is **latreuein Theo zonti** — to serve as a priest serves.
 
@@ -110,7 +110,7 @@ could not do.
 
 ## What follows
 
-*And for this reason **He is the Mediator of the new covenant**… that those who are called may
+**9:15** *And for this reason **He is the Mediator of the new covenant**… that those who are called may
 receive the promise of the eternal inheritance.*
 
 *And **without shedding of blood there is no remission**.* See the note on
@@ -118,7 +118,7 @@ Hebrews 9:21–22.
 
 ## Where the chapter ends
 
-*So Christ was offered once to bear the sins of many. To those who eagerly wait for Him **He will
+**9:28** *So Christ was offered once to bear the sins of many. To those who eagerly wait for Him **He will
 appear a second time, apart from sin, for salvation**.*
 
 > **The premise granted.** Hebrews does not say the old system failed. It says it cleansed the

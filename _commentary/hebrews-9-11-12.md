@@ -7,7 +7,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2025-02-23 live-by-faith-not-by-your-feelings
   - 2025-03-09 boldness-to-enter-the-holiest
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses, and every clause is a comparison with what the high priest used to do.
@@ -24,11 +24,11 @@ One man, one day, once a year, and never without blood.
 
 ## The turn
 
-*But **Christ has come**.*
+**9:11** *But **Christ has come**.*
 
 ## The title
 
-*He is the **High Priest of everything good that was on its way**.*
+Still **9:11**: *He is the **High Priest of everything good that was on its way**.*
 
 The Greek is *high priest of good things to come*.
 
@@ -38,7 +38,7 @@ Hebrews 10:1–2.
 
 ## The tent
 
-*He passed through **a greater tent, a truer one, which no human hands put up** — it does not
+The rest of **9:11**: *He passed through **a greater tent, a truer one, which no human hands put up** — it does not
 belong to this made world at all.*
 
 The Greek is **ou cheiropoietou** — not hand-made. And **ou tautes tes ktiseos** — not of this
@@ -49,14 +49,14 @@ tabernacle was a copy, and the writer says so: *the copies of the things in the 
 
 ## What He did not bring
 
-*And He did **not bring the blood of goats and calves**.*
+**9:12** *And He did **not bring the blood of goats and calves**.*
 
 The two animals of the Day of Atonement: a bull for the priest's own sin, and goats for the
 people's.
 
 ## What He did bring
 
-*He brought **His own**.*
+Still **9:12**: *He brought **His own**.*
 
 Three words in the English and two in the Greek — **dia tou idiou haimatos**.
 
@@ -69,7 +69,7 @@ sacrifices, first for His own sins and then for the people's, for this He did on
 
 ## The frequency
 
-*He went into the holy place **one time only**.*
+Also in **9:12**: *He went into the holy place **one time only**.*
 
 The Greek is **ephapax** — once for all. The letter's key word, and it uses it three times.
 
@@ -78,7 +78,7 @@ ritual, because it had not worked.
 
 ## The result
 
-*And He came away **having bought us back forever**.*
+The end of **9:12**: *And He came away **having bought us back forever**.*
 
 The Greek is **aionian lutrosin heuramenos** — having obtained eternal redemption.
 
@@ -89,7 +89,7 @@ annually.
 
 ## The argument that follows
 
-*For if the blood of bulls and goats… sanctifies for the purifying of the flesh, **how much
+**9:13–14** *For if the blood of bulls and goats… sanctifies for the purifying of the flesh, **how much
 more shall the blood of Christ**, who through the eternal Spirit offered Himself without spot
 to God, **cleanse your conscience from dead works to serve the living God**?*
 
@@ -97,7 +97,7 @@ The old system reached the flesh. The claim here is that this one reaches the co
 
 ## The will
 
-*For where there is a testament, there must also of necessity be the death of the testator. For
+**9:16–17** *For where there is a testament, there must also of necessity be the death of the testator. For
 a testament is in force after men are dead, since it has no power at all while the testator
 lives.*
 
@@ -105,11 +105,11 @@ A pun that works in Greek and not in Hebrew: **diatheke** means both *covenant* 
 
 ## The three appearings
 
-*He has appeared to put away sin by the sacrifice of Himself.*
+**9:26** *He has appeared to put away sin by the sacrifice of Himself.*
 
-*Now to appear in the presence of God for us.*
+**9:24** *Now to appear in the presence of God for us.*
 
-*To those who eagerly wait for Him He will appear a second time, apart from sin, for
+**9:28** *To those who eagerly wait for Him He will appear a second time, apart from sin, for
 salvation.*
 
 Past, present, future — in three consecutive sentences.

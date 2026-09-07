@@ -5,14 +5,14 @@ sources:
   - 2025-03-09 boldness-to-enter-the-holiest
   - 2025-07-13 freedom-from-a-guilty-conscience
   - 2025-08-24 the-power-of-a-cleansed-conscience
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The first room was not an entrance. It was a closed door with furniture in it.
 
 ## Who is speaking
 
-*The **Holy Spirit was saying something** by all of this.*
+**9:8** *The **Holy Spirit was saying something** by all of this.*
 
 The Greek is **touto delountos tou Pneumatos tou Hagiou** — the Holy Spirit signifying this.
 
@@ -20,7 +20,7 @@ The architecture is treated as speech. The floor plan is the sentence.
 
 ## What He was saying
 
-*As long as **that front room was still standing**, **the road into the holiest place had not yet been
+The rest of **9:8**: *As long as **that front room was still standing**, **the road into the holiest place had not yet been
 opened**.*
 
 The Greek is **mēpō pephanerōsthai tēn tōn hagiōn hodon** — the way of the holies not yet having
@@ -39,13 +39,13 @@ The daily work in the outer room was, by its continuing, evidence that the inner
 
 ## The word for picture
 
-*The whole arrangement was **a picture of the time they were living in**.*
+**9:9** *The whole arrangement was **a picture of the time they were living in**.*
 
 The Greek is **parabolē eis ton kairon ton enestēkota** — a parable for the present time.
 
 ## What the offerings could not do
 
-*Gifts were brought and sacrifices were made, and **not one of them could reach the conscience of
+The rest of **9:9**: *Gifts were brought and sacrifices were made, and **not one of them could reach the conscience of
 the worshiper and leave him finished**.*
 
 The Greek is **kata suneidēsin teleiōsai** — to perfect as to conscience.
@@ -56,7 +56,7 @@ The Greek is **kata suneidēsin teleiōsai** — to perfect as to conscience.
 
 The body. The outside.
 
-*It was all a matter of **food and drink and one washing after another** — **rules about the body**.*
+**9:10** *It was all a matter of **food and drink and one washing after another** — **rules about the body**.*
 
 The Greek is **dikaiōmata sarkos** — ordinances of flesh. And **baptismois** — washings.
 
@@ -75,7 +75,7 @@ The argument is from the calendar: a sacrifice that worked would not need repeat
 
 ## The time limit
 
-*Laid on the people **until the time came for everything to be put right**.*
+The rest of **9:10**: *Laid on the people **until the time came for everything to be put right**.*
 
 The Greek is **mechri kairou diorthōseōs** — until a time of setting straight.
 

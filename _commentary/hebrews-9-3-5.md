@@ -3,14 +3,14 @@ key: Hebrews 9:3–5
 title: The tent that stood on earth
 sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 An inventory of the inner room, and then the writer stops himself.
 
 ## The curtain
 
-*Behind **a second curtain** was another room.*
+**9:3** *Behind **a second curtain** was another room.*
 
 The Greek is **meta to deuteron katapetasma**.
 
@@ -18,7 +18,7 @@ Two curtains: one at the entrance to the holy place, and one before the innermos
 
 ## The name
 
-*And this one they called **the holiest place there was**.*
+The rest of **9:3**: *And this one they called **the holiest place there was**.*
 
 The Greek is **Hagia Hagion** — Holy of Holies. A Hebrew superlative rendered into Greek.
 
@@ -26,7 +26,7 @@ The high priest entered once a year, on the Day of Atonement, with blood.
 
 ## What was in it
 
-*The **gold vessel they burned incense in**.*
+**9:4** *The **gold vessel they burned incense in**.*
 
 **Thumiaterion** — a censer, or the golden altar of incense.
 
@@ -35,13 +35,13 @@ matches its function: it stood immediately before the curtain and its smoke went
 
 ## The chest
 
-*And **the covenant chest, gold over every inch of it**.*
+Still **9:4**: *And **the covenant chest, gold over every inch of it**.*
 
 The ark. Acacia wood overlaid with gold inside and out.
 
 ## The three contents
 
-*Inside the chest **a gold jar of the bread from heaven**, and **the staff of Aaron that had budded**,
+The rest of **9:4**: *Inside the chest **a gold jar of the bread from heaven**, and **the staff of Aaron that had budded**,
 and **the stone tablets the covenant was written on**.*
 
 ## What the three are
@@ -65,7 +65,7 @@ Three records of failure, sealed in a gold box under the mercy seat.
 
 ## What is above
 
-*Above the chest were **the shining winged figures**, their wings spread **over the place where mercy
+**9:5** *Above the chest were **the shining winged figures**, their wings spread **over the place where mercy
 was given**.*
 
 The Greek is **Cheroubim doxes** — cherubim of glory. And **hilasterion** — the place of
@@ -88,7 +88,7 @@ Blood was sprinkled on it once a year, over the record of the broken covenant in
 
 ## The interruption
 
-*There is **far more that could be said about all of this, but not now**.*
+The rest of **9:5**: *There is **far more that could be said about all of this, but not now**.*
 
 The Greek is **peri hon ouk estin nun legein kata meros** — concerning which it is not now to speak
 in detail.

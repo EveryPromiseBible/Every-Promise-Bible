@@ -4,14 +4,14 @@ title: "Only one day a year, and never without blood"
 sources:
   - 2019-07-14 jesus-unveiled-secrets-from-moses-40-days
   - 2025-03-09 boldness-to-enter-the-holiest
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses describing an arrangement, and every clause in them is a restriction.
 
 ## The outer room
 
-*The priests were **in and out of the front room every day**, doing the work of the
+**9:6** *The priests were **in and out of the front room every day**, doing the work of the
 worship.*
 
 Daily traffic. The lampstand to trim, the bread to change, the incense morning and
@@ -21,7 +21,7 @@ Ordinary priests, ordinary access, ordinary work.
 
 ## The inner room
 
-*But the inner room — **only the high priest** went in there, and **only one day a
+**9:7** *But the inner room — **only the high priest** went in there, and **only one day a
 year**, and **never without blood**.*
 
 Three limits stacked in one sentence:
@@ -41,7 +41,7 @@ pain of death.
 
 ## For himself first
 
-*Which he offered **for himself** and for the sins the people had blundered into.*
+The rest of **9:7**: *Which he offered **for himself** and for the sins the people had blundered into.*
 
 The high priest could not represent anybody until he had dealt with himself.
 
@@ -58,7 +58,7 @@ did not realise they had done, and nothing at all for deliberate, high-handed si
 
 ## What the writer concludes from it
 
-*The Holy Spirit indicating this, that **the way into the Holiest of All was not yet
+**9:8** *The Holy Spirit indicating this, that **the way into the Holiest of All was not yet
 made manifest** while the first tabernacle was still standing.*
 
 The closed curtain was a message. As long as that room was shut, the point was being
