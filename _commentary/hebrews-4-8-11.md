@@ -13,7 +13,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-10-30 take-back-your-identity-in-christ
   - 2023-07-02 the-art-of-slowing-down
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer's whole case rests on one word in a psalm and on a name that means two
@@ -21,7 +21,7 @@ things.
 
 ## The argument
 
-*If **Joshua had given them rest**, God would **not have spoken later on about another
+**4:8** *If **Joshua had given them rest**, God would **not have spoken later on about another
 day**.*
 
 Joshua brought them into Canaan. The land was taken, the tribes settled, and the book
@@ -41,14 +41,14 @@ Both mean *the LORD saves*.
 
 ## What follows
 
-*So **there is still a Sabbath rest waiting to be kept** by the people of God.*
+**4:9** *So **there is still a Sabbath rest waiting to be kept** by the people of God.*
 
 The Greek is **sabbatismos** — a Sabbath-keeping. The word appears once in the New
 Testament, here, and the writer appears to have coined it.
 
 ## What it consists of
 
-*Anyone who has entered His rest **has stopped working himself**, the way **God stopped
+**4:10** *Anyone who has entered His rest **has stopped working himself**, the way **God stopped
 when His own work was done**.*
 
 The comparison is Genesis 2. God rested on the seventh day, and He did it because the
@@ -58,7 +58,7 @@ That is the model given: rest as the response to completion.
 
 ## The instruction
 
-*So **let us work hard at entering that rest**.*
+**4:11** *So **let us work hard at entering that rest**.*
 
 The Greek is **spoudazo** — be diligent, make every effort, hurry.
 
@@ -67,7 +67,7 @@ them there.
 
 ## What the effort is against
 
-*So that **nobody falls by copying the same refusal to believe**.*
+The rest of **4:11**: *So that **nobody falls by copying the same refusal to believe**.*
 
 The Greek is *the same example of disobedience* — and the word for disobedience in this
 letter is consistently tied to unbelief. Three verses earlier: *they could not enter in
@@ -85,11 +85,11 @@ leader and return to Egypt.*
 
 ## Where the chapter goes next
 
-*For the word of God is living and powerful, and sharper than any two-edged sword…
+**4:12** *For the word of God is living and powerful, and sharper than any two-edged sword…
 piercing even to the division of soul and spirit, and is a discerner of the thoughts and
 intents of the heart.*
 
-And then, immediately: *seeing then that we have a great High Priest… **let us therefore
+And then, immediately, **4:16**: *seeing then that we have a great High Priest… **let us therefore
 come boldly to the throne of grace**, that we may obtain mercy and find grace to help in
 time of need.*
 

@@ -3,14 +3,14 @@ key: Hebrews 4:4–7
 title: He marks off a day and calls it Today
 sources:
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 An argument built entirely out of two Old Testament quotations and the gap between them.
 
 ## The first quotation
 
-*Somewhere He speaks about the seventh day like this: "**And on the seventh day God stopped,
+**4:4** *Somewhere He speaks about the seventh day like this: "**And on the seventh day God stopped,
 with all His work behind Him**."*
 
 Genesis 2:2. See the note on Genesis 2:1–3.
@@ -27,14 +27,14 @@ formula and this one does not.
 
 ## The second quotation
 
-*And here again: "**They will never enter My rest**."*
+**4:5** *And here again: "**They will never enter My rest**."*
 
 Psalm 95, about the wilderness generation. *So I swore in My wrath, "They shall not enter My
 rest."*
 
 ## The deduction
 
-*So **it still stands open for some to come in**.*
+**4:6** *So **it still stands open for some to come in**.*
 
 The Greek is **apoleipetai** — it remains, it is left over.
 
@@ -43,7 +43,7 @@ unoccupied.
 
 ## Why they did not
 
-*And the ones who **got the good news first did not come in, because they would not
+The rest of **4:6**: *And the ones who **got the good news first did not come in, because they would not
 believe**.*
 
 The Greek is **di' apeitheian** — through disobedience, or unpersuadedness.
@@ -55,7 +55,7 @@ They had the message. They lacked the mixing.
 
 ## The dating argument
 
-*So He **marks off a day again and calls it Today**, speaking through David **all that long
+**4:7** *So He **marks off a day again and calls it Today**, speaking through David **all that long
 time afterward**.*
 
 This is the hinge, and it is a chronological argument.
@@ -65,12 +65,12 @@ Joshua brought them into the land. If the land had been the rest, the subject wo
 But David, four hundred years after Joshua, writes *today, if you will hear His voice* — which
 means the offer was still open in his lifetime.
 
-The writer says so explicitly two verses later: *for if Joshua had given them rest, then He
+The writer says so explicitly two verses later, **4:8**: *for if Joshua had given them rest, then He
 would not afterward have spoken of another day*.
 
 ## The word
 
-*Today.*
+Still **4:7**: *Today.*
 
 The Greek is **semeron**, and Hebrews uses it four times in this argument.
 
@@ -78,7 +78,7 @@ The whole case rests on a single adverb in a psalm.
 
 ## The warning attached
 
-*"Today, if you hear His voice, **do not let your hearts turn to stone**."*
+Still **4:7**: *"Today, if you hear His voice, **do not let your hearts turn to stone**."*
 
 The Greek is **me sklerunete** — do not harden.
 
@@ -86,12 +86,12 @@ The same clause appears three times in Hebrews 3 and 4. It is the refrain.
 
 ## What follows
 
-*There remains therefore **a rest for the people of God**.*
+**4:9** *There remains therefore **a rest for the people of God**.*
 
 The Greek is **sabbatismos** — a Sabbath-keeping, a Sabbath rest. The word occurs once in the
 New Testament and the writer appears to have coined it.
 
-*For he who has entered His rest **has himself also ceased from his works as God did from
+**4:10** *For he who has entered His rest **has himself also ceased from his works as God did from
 His**.*
 
 The comparison is to the seventh day. Not a pause in the work — the work finished.
@@ -108,7 +108,7 @@ goes into stopping.
 
 ## What comes immediately after
 
-*For the word of God is living and powerful, and sharper than any two-edged sword.*
+**4:12** *For the word of God is living and powerful, and sharper than any two-edged sword.*
 
 And then the high priest *who was in all points tempted as we are, yet without sin* — and *let
 us therefore come boldly to the throne of grace*. See the note on Hebrews 4:14–16.
