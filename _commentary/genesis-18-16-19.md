@@ -1,13 +1,13 @@
 ---
 key: Genesis 18:16–19
 title: Should I hide this from Abraham
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 God stops on a road and asks Himself whether to tell a man what He is about to do.
 
 ## The question
 
-*Then the LORD said, "**Should I hide from Abraham what I am about to do?**"*
+**18:17** *Then the LORD said, "**Should I hide from Abraham what I am about to do?**"*
 
 It is asked out loud, and nobody in the passage answers it but Him.
 
@@ -16,7 +16,7 @@ there, and has not asked.
 
 ## The reason given
 
-*"**Abraham will surely become a great and mighty nation**, and **all nations on earth will be
+**18:18** *"**Abraham will surely become a great and mighty nation**, and **all nations on earth will be
 blessed through him**."*
 
 The reason for telling him is not that he needs to know. It is who he is to God.
@@ -48,7 +48,7 @@ example. The distinction is not affection. It is disclosure.
 
 ## What being told makes possible
 
-*But **Abraham remained standing before the LORD**.* The next paragraph is the intercession —
+**18:22**: *But **Abraham remained standing before the LORD**.* The next paragraph is the intercession —
 fifty, forty-five, forty, thirty, twenty, ten. See the note on Genesis 18:20–22.
 
 He could not have prayed it if he had not been told it. The disclosure is what creates the
@@ -57,7 +57,7 @@ Himself.
 
 ## The middle clause
 
-*"For I have chosen him, so that **he will teach his children and his household after him to
+**18:19** *"For I have chosen him, so that **he will teach his children and his household after him to
 keep the way of the LORD**."*
 
 The Hebrew for *chosen* is **yada** — to know. *I have known him.*

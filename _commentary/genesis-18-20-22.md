@@ -1,13 +1,13 @@
 ---
 key: Genesis 18:20–22
 title: And Abraham remained standing
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The visitors leave for Sodom and one man does not move.
 
 ## The outcry
 
-*"**The outcry against Sodom and Gomorrah is so great**, and their sin so grievous."*
+**18:20** *"**The outcry against Sodom and Gomorrah is so great**, and their sin so grievous."*
 
 The Hebrew is **za'aqah** — a scream, the noise made by somebody being wronged.
 
@@ -20,7 +20,7 @@ neither did she strengthen the hand of the poor and needy*.
 
 ## "I will go down and see"
 
-*"**I will go down and see** whether what they have done is as bad as the outcry that has
+**18:21** *"**I will go down and see** whether what they have done is as bad as the outcry that has
 reached Me. If not, I will know."*
 
 He does not need to. The going down is a courtesy the passage records twice — He said the same
@@ -30,7 +30,7 @@ Judgement in Genesis is never remote. It is described as arriving in person and 
 
 ## Who leaves and who stays
 
-*The men turned and went toward Sodom, **but Abraham remained standing before the LORD**.*
+**18:22** *The men turned and went toward Sodom, **but Abraham remained standing before the LORD**.*
 
 Two of the three go on. One stays, and Abraham stays with Him.
 
@@ -41,7 +41,7 @@ with a city below them.
 
 ## What standing means
 
-*Then Abraham came near and said, "**Would You also destroy the righteous with the wicked?**"*
+**18:23** *Then Abraham came near and said, "**Would You also destroy the righteous with the wicked?**"*
 
 Fifty, forty-five, forty, thirty, twenty, ten. Six times he lowers the number and six times
 the answer comes back yes. See the note on Genesis 18:27–33.

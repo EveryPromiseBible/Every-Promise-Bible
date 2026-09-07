@@ -4,14 +4,14 @@ title: Three men at noon
 sources:
   - 2021-11-21 be-like-righteous-abraham-not-like-righteous-lot
   - 2022-02-20 stay-strong-and-healthy-gods-way
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The narrator tells you who it is in the first line, and then describes three men.
 
 ## The disclosure
 
-*The LORD appeared to Abraham near the great trees of Mamre.*
+**18:1** *The LORD appeared to Abraham near the great trees of Mamre.*
 
 Genesis says it before anything happens. The reader knows; Abraham does not.
 
@@ -20,7 +20,7 @@ Genesis 13:14–18.
 
 ## The hour
 
-*While he sat at the entrance of his tent **in the heat of the day**.*
+The rest of **18:1**: *While he sat at the entrance of his tent **in the heat of the day**.*
 
 Noon, when nobody travels and nobody works.
 
@@ -28,7 +28,7 @@ He is doing the one sensible thing available: sitting in the shade of a doorway.
 
 ## The arrival
 
-*Abraham **looked up and saw three men standing nearby**.*
+**18:2** *Abraham **looked up and saw three men standing nearby**.*
 
 The Hebrew is *and behold, three men were standing over against him*.
 
@@ -36,7 +36,7 @@ Standing, already there. No approach is described.
 
 ## The response
 
-*He **hurried** from his tent to meet them and **bowed low to the ground**.*
+The rest of **18:2**: *He **hurried** from his tent to meet them and **bowed low to the ground**.*
 
 He is ninety-nine years old, and three days out from circumcision — chapter 17 records it, and
 chapter 18 opens immediately after.
@@ -46,7 +46,7 @@ verses that follow.
 
 ## The address
 
-*"**My lord**," he said, "if I have found favor in your eyes, **please don't pass by your
+**18:3** *"**My lord**," he said, "if I have found favor in your eyes, **please don't pass by your
 servant**."*
 
 The Hebrew is **adonai** — which is a form used both of a human superior and of God, and the
@@ -56,12 +56,12 @@ Whatever Abraham thought he was looking at, he treats it as somebody he does not
 
 ## The offer, as stated
 
-*"Let **a little water** be brought so you can wash your feet and rest under the tree. Let me
+**18:4–5**: *"Let **a little water** be brought so you can wash your feet and rest under the tree. Let me
 bring you **something to eat**, so you can be refreshed."*
 
 The Hebrew is *a morsel of bread*.
 
-## The offer, as delivered
+## The offer, as delivered (18:6-8)
 
 Three seahs of fine meal, kneaded into cakes.
 

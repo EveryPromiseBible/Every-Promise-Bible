@@ -3,19 +3,19 @@ key: Genesis 18:6–8
 title: He stood near them under the tree
 sources:
   - 2023-02-26 power-to-renew-your-youth
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 A ninety-nine-year-old man runs twice in three verses.
 
 ## Where he is
 
-*The LORD appeared to him by the terebinth trees of Mamre, as **he was sitting in the tent door in
+**18:1**: *The LORD appeared to him by the terebinth trees of Mamre, as **he was sitting in the tent door in
 the heat of the day**.*
 
 Noon. The hour nobody moves.
 
-*So he lifted his eyes and looked, and behold, three men were standing by him. **When he saw them,
+**18:2**: *So he lifted his eyes and looked, and behold, three men were standing by him. **When he saw them,
 he ran from the tent door to meet them**.*
 
 He is thirteen years past the last appearance and three days past his own circumcision, and he
@@ -23,7 +23,7 @@ runs.
 
 ## What he offers
 
-*"Please let a little water be brought, and wash your feet, and rest yourselves under the tree. And
+**18:4–5**: *"Please let a little water be brought, and wash your feet, and rest yourselves under the tree. And
 **I will bring a morsel of bread**."*
 
 The Hebrew is **pat-lechem** — a piece of bread.
@@ -32,7 +32,7 @@ He describes it as a snack.
 
 ## The first run
 
-*Abraham **hurried into the tent** to Sarah. "**Quick**," he said, "take **three measures of fine
+**18:6** *Abraham **hurried into the tent** to Sarah. "**Quick**," he said, "take **three measures of fine
 flour**, knead it, and bake bread."*
 
 The Hebrew is **shelosh se'im qemach solet** — three seahs of fine flour.
@@ -44,7 +44,7 @@ For three visitors.
 
 ## The second
 
-*Then **he ran to the herd**, chose **a tender, good calf**, and gave it to a servant, **who quickly
+**18:7** *Then **he ran to the herd**, chose **a tender, good calf**, and gave it to a servant, **who quickly
 made it ready**.*
 
 The Hebrew is **rats** — he ran.
@@ -59,7 +59,7 @@ Four words for haste in three verses, all of them about an old man and his house
 
 ## The table
 
-*He brought **curds and milk and the calf** that had been prepared, and set it before them.*
+**18:8** *He brought **curds and milk and the calf** that had been prepared, and set it before them.*
 
 The Hebrew is **chemah vechalav** — curds and milk. The pair used of the promised land.
 
@@ -67,7 +67,7 @@ The Hebrew is **chemah vechalav** — curds and milk. The pair used of the promi
 
 Sit down.
 
-*While they ate, **he stood near them under the tree**.*
+The end of **18:8**: *While they ate, **he stood near them under the tree**.*
 
 The Hebrew is **vehu omed aleihem** — and he was standing over them.
 
@@ -81,22 +81,22 @@ Forty pounds of flour, a calf, curds and milk, and he stands.
 
 ## The question
 
-*Then they said to him, "**Where is Sarah your wife?**"*
+**18:9**: *Then they said to him, "**Where is Sarah your wife?**"*
 
-*"I will certainly return to you according to the time of life, and behold, **Sarah your wife shall
+**18:10**: *"I will certainly return to you according to the time of life, and behold, **Sarah your wife shall
 have a son**."*
 
 Sarah is listening at the tent door behind him, and she laughs. See the note on
 Genesis 18:9–15.
 
-*"**Is anything too hard for the LORD?**"*
+**18:14**: *"**Is anything too hard for the LORD?**"*
 
 ## What happens after the meal
 
-*Then the men rose from there and looked toward Sodom, and Abraham went with them to send them on
+**18:16**: *Then the men rose from there and looked toward Sodom, and Abraham went with them to send them on
 the way.*
 
-*And the LORD said, "**Shall I hide from Abraham what I am doing?**"*
+**18:17**: *And the LORD said, "**Shall I hide from Abraham what I am doing?**"*
 
 And then the negotiation: fifty, forty-five, forty, thirty, twenty, ten. See the note on
 Genesis 18:20–22.
