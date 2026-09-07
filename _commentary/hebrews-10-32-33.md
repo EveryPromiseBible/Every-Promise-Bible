@@ -1,21 +1,21 @@
 ---
 key: Hebrews 10:32–33
 title: "Remember the early days"
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 After the sharpest warning in the letter, the writer does something pastoral: he tells them to
 remember what they were like.
 
 ## After the light
 
-*Right after **the light first reached you**.*
+**10:32** *Right after **the light first reached you**.*
 
 **Photisthentes** — having been enlightened. A passive: something happened *to* them. The writer
 dates their courage from an event they did not arrange.
 
 ## A contest
 
-*You **stood your ground through a long, hard fight** with suffering.*
+The rest of **10:32**: *You **stood your ground through a long, hard fight** with suffering.*
 
 **Athlesin** — an athletic contest, the root of *athlete*. Not a misfortune that fell on them; a
 bout they were in.
@@ -25,14 +25,14 @@ This vocabulary belongs to ordinary believers, not to heroes.
 
 ## Made a spectacle
 
-*Sometimes you were **put on show**, insulted and knocked about in front of everyone.*
+**10:33** *Sometimes you were **put on show**, insulted and knocked about in front of everyone.*
 
 **Theatrizomenoi** — theatred. Held up in public as entertainment, which is exactly what Paul says
 happened to the apostles: *we have been made a spectacle to the world.*
 
 ## The half they chose
 
-*Other times **you stood shoulder to shoulder with the ones being treated that way**.*
+The rest of **10:33**: *Other times **you stood shoulder to shoulder with the ones being treated that way**.*
 
 That is the striking half. Being publicly shamed was not their choice. Standing next to somebody
 else who was being publicly shamed was — and they did it, knowing what it would cost, because they
@@ -43,7 +43,7 @@ jail with food where everyone could see you do it.
 
 ## Why they could afford it
 
-*And **joyfully accepted the plundering of your goods**, knowing that you have a better and enduring
+**10:34**: *And **joyfully accepted the plundering of your goods**, knowing that you have a better and enduring
 possession for yourselves.*
 
 There is the mechanism, and it is not stoicism. They could watch their property go because they had

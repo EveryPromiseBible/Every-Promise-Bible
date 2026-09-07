@@ -10,7 +10,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-03-06 keys-to-counter-the-four-horsemen
   - 2025-09-21 transformed-by-beholding-jesus
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The whole of chapter 11 was a list of names. Chapter 12 begins with *therefore*,
@@ -18,7 +18,7 @@ and turns the list into a stadium.
 
 ## The crowd
 
-*Look at the size of the crowd around us, **every one of them a witness**.*
+**12:1** *Look at the size of the crowd around us, **every one of them a witness**.*
 
 The Greek is *so great a cloud of witnesses*. Abel, Enoch, Noah, Abraham, Sarah,
 Moses, Rahab, Gideon, Samson, David — and the ones at the end of the chapter who
@@ -29,7 +29,7 @@ the ones whose evidence has already been given.
 
 ## Two things to drop
 
-*Strip off **whatever weighs us down**, and **the sin that keeps winding itself
+The rest of **12:1**: *Strip off **whatever weighs us down**, and **the sin that keeps winding itself
 around our legs**.*
 
 Two separate items. The first is a weight — not necessarily sinful, just heavy.
@@ -39,14 +39,14 @@ robe tangling your stride.
 
 ## The track
 
-*Run without quitting, all the way down **the track that has been staked out in
+The end of **12:1**: *Run without quitting, all the way down **the track that has been staked out in
 front of us**.*
 
 The course is laid out. Nobody in the passage is choosing a route.
 
 ## The one instruction
 
-*Do not take your eyes off Jesus.*
+**12:2** *Do not take your eyes off Jesus.*
 
 The Greek verb is **aphorao** — it means to look away *from* one thing in order to
 look *at* another. Both halves are in the single word.
@@ -56,7 +56,7 @@ looked away from.
 
 ## What He is called
 
-*He is where our faith **starts** and He is the One who brings it to the
+Still **12:2**: *He is where our faith **starts** and He is the One who brings it to the
 **finish**.*
 
 **Archegos** — the originator, the pioneer, the one who goes first. And
@@ -67,17 +67,17 @@ and the instruction is simply to keep looking at the One holding both.
 
 ## How He ran
 
-*A joy was waiting for Him, and to get to it **He went through the cross and
+Still **12:2**: *A joy was waiting for Him, and to get to it **He went through the cross and
 counted the shame as nothing**.*
 
 The joy was in front of Him, not behind. He was looking at something too.
 
-*And now He has **taken His seat** at the right hand of God's throne.* Every other
+The end of **12:2**: *And now He has **taken His seat** at the right hand of God's throne.* Every other
 priest stood. He sat down.
 
 ## The last line
 
-*In your fight with sin **you have not yet had to bleed**.*
+**12:4** *In your fight with sin **you have not yet had to bleed**.*
 
 Written to people under real pressure who thought they had reached their limit.
 He puts their situation beside His and leaves it there.

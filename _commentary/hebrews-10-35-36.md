@@ -3,14 +3,14 @@ key: Hebrews 10:35–36
 title: Do not fling it away
 sources:
   - 2026-07-05 dont-lose-heart-keep-on-praying
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The warning is not that the confidence will be taken. It is that it can be thrown out.
 
 ## The verb
 
-*So **do not fling away your confidence**.*
+**10:35** *So **do not fling away your confidence**.*
 
 The Greek is **mē apobalēte** — do not cast off, do not throw away.
 
@@ -31,7 +31,7 @@ A man who throws that away still belongs and stops approaching.
 
 ## The attached clause
 
-*There is **a great reward tied to it**.*
+The rest of **10:35**: *There is **a great reward tied to it**.*
 
 The Greek is **megalēn misthapodosian** — great recompense.
 
@@ -51,7 +51,7 @@ beginners.
 
 ## The requirement
 
-*What you need is **staying power**.*
+**10:36** *What you need is **staying power**.*
 
 The Greek is **hupomonēs gar echete chreian** — you have need of endurance.
 
@@ -59,7 +59,7 @@ The Greek is **hupomonēs gar echete chreian** — you have need of endurance.
 
 ## The order
 
-*So that **when you have done what God wants, you will receive what He promised**.*
+The rest of **10:36**: *So that **when you have done what God wants, you will receive what He promised**.*
 
 The Greek is **to thelēma tou Theou poiēsantes komisēsthe tēn epangelian**.
 
@@ -83,7 +83,7 @@ From Habakkuk, who was told to write the vision and wait: *though it tarries, wa
 
 ## The line after that
 
-*But we are **not of those who draw back to perdition**, but of those who believe to the saving of the
+**10:39**: *But we are **not of those who draw back to perdition**, but of those who believe to the saving of the
 soul.*
 
 The Greek is **hupostolēs** — a shrinking back, a furling of sails.
@@ -95,7 +95,7 @@ Hebrews 11:1–3.
 
 Chapter 11 is the answer to this instruction: a list of people who did exactly this.
 
-*These all died in faith, **not having received the promises**, but having seen them afar off.*
+**Hebrews 11:13**: *These all died in faith, **not having received the promises**, but having seen them afar off.*
 
 ## The parallel earlier
 

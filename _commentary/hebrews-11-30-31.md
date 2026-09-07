@@ -3,7 +3,7 @@ key: Hebrews 11:30–31
 title: Rahab in the roll of honour
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two sentences, side by side, and the pairing is the point.
@@ -19,7 +19,7 @@ Jericho." He did not, and neither did James.
 
 ## What her faith is said to consist of
 
-*Since she had welcomed the spies in peace.*
+**11:31** *Since she had welcomed the spies in peace.*
 
 Not a confession, not a sacrifice, not a long obedience. She let two men in and
 did not turn them over. The writer treats a single act of hospitality toward
@@ -27,7 +27,7 @@ God's people as the visible form of faith in her case.
 
 ## The contrast in the sentence
 
-*Did not die with those who refused to believe.* The Greek word is about
+Still **11:31**: *Did not die with those who refused to believe.* The Greek word is about
 disobedience through unbelief — refusing to be persuaded.
 
 Everyone in Jericho had the same evidence, as she says herself on the roof. The

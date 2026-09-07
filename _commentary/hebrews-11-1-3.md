@@ -10,7 +10,7 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2026-01-04 hope-that-anchors-your-soul
   - 2026-07-19 weapons-in-times-of-adversity
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The nearest thing to a definition of faith in Scripture, and it is built out of two
@@ -18,7 +18,7 @@ legal words.
 
 ## The two halves
 
-*What we are **hoping for**, faith **already has hold of**; what **no one has ever
+**11:1** *What we are **hoping for**, faith **already has hold of**; what **no one has ever
 seen**, faith is **sure of**.*
 
 The Greek behind *already has hold of* is **hupostasis** — literally *that which
@@ -45,7 +45,7 @@ certainty; they simply concern something not yet visible.
 
 ## What it was for
 
-*It is what **the people of long ago were praised for**.*
+**11:2** *It is what **the people of long ago were praised for**.*
 
 The rest of the chapter is that list — Abel, Enoch, Noah, Abraham, Sarah, Isaac,
 Jacob, Joseph, Moses, Rahab, Gideon, David, and the ones at the end who were sawn in
@@ -53,12 +53,12 @@ two and wandered in sheepskins.
 
 None of them are commended for achievements. They are commended for believing.
 
-And the chapter says of all of them: *these all died in faith, **not having received
+And the chapter says of all of them, **11:13**: *these all died in faith, **not having received
 the promises**, but having seen them afar off.*
 
 ## The example given first
 
-*Faith is why we understand that **everything there is came into being at God's
+**11:3** *Faith is why we understand that **everything there is came into being at God's
 word**.*
 
 Of everything the writer could have opened with, he takes creation.
@@ -66,14 +66,14 @@ Of everything the writer could have opened with, he takes creation.
 Nobody watched it. There were no witnesses to Genesis 1, and no experiment can be
 run. It is held by faith, and the writer treats that as the model case.
 
-*So that **what we can see did not come from anything that can be seen**.*
+The rest of **11:3**: *So that **what we can see did not come from anything that can be seen**.*
 
 The visible came out of the invisible — which is the same relationship this chapter
 says faith has to its object.
 
 ## Where the chapter goes
 
-*Without faith it is impossible to please Him, for he who comes to God must believe
+**11:6**: *Without faith it is impossible to please Him, for he who comes to God must believe
 that He is, and that He is a rewarder of those who diligently seek Him.*
 
 Two things to believe: that He exists, and what He is like toward those who look for
@@ -84,7 +84,7 @@ Him.
 The chapter that defines faith ends by pointing away from every example in it. One sentence past the
 last name:
 
-*Looking unto **Jesus, the author and finisher of our faith**, who for the joy that was set before
+**Hebrews 12:2**: *Looking unto **Jesus, the author and finisher of our faith**, who for the joy that was set before
 Him endured the cross.*
 
 **Archegos** — the one who goes first and opens the way. **Teleiotes** — the one who brings a thing
@@ -94,7 +94,7 @@ Which resolves the anxiety this chapter can produce in an honest reader. You are
 generate the substance and evidence out of yourself. Faith has an author, and He is also its
 completer, and the writer names Him.
 
-> **How the roll of faith ends.** *And all these, having obtained a good testimony
+> **How the roll of faith ends.** **11:39–40**: *And all these, having obtained a good testimony
 > through faith, **did not receive the promise**, God having provided something better
 > for us, that they should not be made perfect apart from us.* The list waits for the
 > reader.

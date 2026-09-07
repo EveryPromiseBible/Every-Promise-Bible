@@ -15,7 +15,7 @@ sources:
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
   - 2024-03-31 death-has-been-defeated
   - 2025-03-09 boldness-to-enter-the-holiest
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The letter's argument turns here from explanation to invitation, and it opens
@@ -23,7 +23,7 @@ with a place nobody was allowed to enter.
 
 ## Where the way leads
 
-*The way into the holiest place is open to us now, and we can walk in without a
+**10:19** *The way into the holiest place is open to us now, and we can walk in without a
 flinch.*
 
 The holiest place is behind the curtain — one man, one day a year, with blood and
@@ -35,12 +35,12 @@ somebody with the right to speak in the room. The same word the letter used at
 
 ## What makes it open
 
-*Because of the blood of Jesus.* Not because of improvement, and not because the
+The rest of **10:19**: *Because of the blood of Jesus.* Not because of improvement, and not because the
 holiness of the place has been reduced.
 
 ## "A road that is alive"
 
-*He opened up a road for us that no one had ever walked before, a road that is
+**10:20** *He opened up a road for us that no one had ever walked before, a road that is
 alive.*
 
 Two claims. It is **new** — the Greek word originally meant freshly slaughtered,
@@ -51,7 +51,7 @@ image on purpose, because the way is a person.
 
 ## Through the curtain
 
-*It runs straight through the curtain, which is His own body.*
+The rest of **10:20**: *It runs straight through the curtain, which is His own body.*
 
 Matthew records the temple curtain torn in two from top to bottom at the moment
 Jesus died. Hebrews puts the two together: the torn veil and the torn body are
@@ -61,10 +61,10 @@ See the note on Matthew 27:51–53.
 
 ## The priest at the end
 
-*And we have a great Priest set over God's household.*
+**10:21** *And we have a great Priest set over God's household.*
 
 Three things are now in place — an open way, a road that lives, and a priest
-already inside. The next verse begins *let us draw near*, and the rest of the
+already inside. **10:22** begins *let us draw near*, and the rest of the
 chapter is what to do about it.
 
 ## What stood in front of the curtain
@@ -79,7 +79,7 @@ The incense was what made the approach survivable. See the note on Exodus 30:34�
 
 ## What is in the room now
 
-*And we have **a great Priest set over God's household**.*
+Still **10:21**: *And we have **a great Priest set over God's household**.*
 
 Not waiting outside once a year. Inside, permanently, and the way to Him is described as
 open.

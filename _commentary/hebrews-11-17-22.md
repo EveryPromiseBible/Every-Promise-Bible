@@ -4,7 +4,7 @@ title: The test, and three deathbeds
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2021-11-07 win-the-battle-over-bitterness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Four generations, and three of the four entries are about dying men still talking about
@@ -12,14 +12,14 @@ the future.
 
 ## Abraham
 
-*Faith is why Abraham, **when he was put to the test, offered Isaac up**.*
+**11:17** *Faith is why Abraham, **when he was put to the test, offered Isaac up**.*
 
 The Greek verb is perfect: he **has offered**. As far as the writer is concerned it was
 done.
 
 ## The contradiction
 
-*The man who **had been handed the promises** was offering up **his only son**, the son
+The rest of **11:17**, then **11:18**: *The man who **had been handed the promises** was offering up **his only son**, the son
 about whom he had been told, **It is through Isaac that your line will be named**.*
 
 The writer states the problem baldly. The promise and the command are about the same
@@ -30,7 +30,7 @@ promise.
 
 ## What Abraham concluded
 
-*He had **worked it out that God could raise the dead**.*
+**11:19** *He had **worked it out that God could raise the dead**.*
 
 The Greek is **logizomai** — to reckon, to calculate. It is the same accounting word
 James uses. See the note on James 1:2.
@@ -45,7 +45,7 @@ No resurrection had ever happened.
 
 ## "In a manner of speaking"
 
-*And in a manner of speaking, **that is how he got him back**.*
+The rest of **11:19**: *And in a manner of speaking, **that is how he got him back**.*
 
 The Greek is *in a parable* — **en parabole**. Isaac did not die, but the writer says
 Abraham received him back as from the dead.
@@ -55,7 +55,7 @@ heaven. See the note on Genesis 22:11–12.
 
 ## Isaac
 
-*Faith is why Isaac blessed Jacob and Esau **with an eye on what was still to come**.*
+**11:20** *Faith is why Isaac blessed Jacob and Esau **with an eye on what was still to come**.*
 
 The one blessing recorded of Isaac is the one he was tricked into. He gave it to the
 wrong son in the dark, and when he found out he *trembled exceedingly* — and then said
@@ -65,7 +65,7 @@ Hebrews calls that faith, and lists it without mentioning the deception.
 
 ## Jacob
 
-*Faith is why Jacob, **dying**, blessed **each of Joseph's sons**, and **worshiped bent
+**11:21** *Faith is why Jacob, **dying**, blessed **each of Joseph's sons**, and **worshiped bent
 over the head of his staff**.*
 
 He crossed his hands deliberately and put the right hand on the younger — and when
@@ -77,7 +77,7 @@ country he would not be buried in.
 
 ## Joseph
 
-*Faith is why Joseph, at the end of his life, **spoke of Israel going out**, and **left
+**11:22** *Faith is why Joseph, at the end of his life, **spoke of Israel going out**, and **left
 instructions about his bones**.*
 
 Second in command of Egypt, who had been in the country for eighty years, whose sons
@@ -99,7 +99,7 @@ All four are commended for what they said about a future they would not be in.
 
 ## The figure he received him back in
 
-The writer supplies Abraham's reasoning on the mountain: *concluding that God was able to raise him
+The writer supplies Abraham's reasoning on the mountain, still **11:19**: *concluding that God was able to raise him
 up, even from the dead, from which he also received him **in a figure***.
 
 **En parabole** — in a likeness, a parable. Something happened on Moriah that was a picture of

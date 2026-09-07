@@ -9,14 +9,14 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-07-03 fresh-supply-for-todays-needs
   - 2025-01-19 discern-the-times-we-live-in
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Three men before the flood, and the chapter's refrain starts here: *faith is why*.
 
 ## Abel
 
-*Faith is why Abel brought God **a better offering** than Cain did.*
+**11:4** *Faith is why Abel brought God **a better offering** than Cain did.*
 
 The Greek is **pleiona** — a fuller, greater sacrifice.
 
@@ -25,7 +25,7 @@ ground, Abel brought of the firstborn of his flock and of their fat.
 
 ## What the offering did
 
-*And **that offering is what marked him out as righteous**, since **God Himself vouched
+Still **11:4**: *And **that offering is what marked him out as righteous**, since **God Himself vouched
 for what he gave**.*
 
 The righteousness follows the offering, and the testimony is God's rather than the
@@ -36,7 +36,7 @@ order.
 
 ## "He has not stopped speaking"
 
-*He is **dead, and he has not stopped speaking**.*
+The end of **11:4**: *He is **dead, and he has not stopped speaking**.*
 
 The first man to die, and the writer puts him in the present tense.
 
@@ -49,7 +49,7 @@ something else. See the note on Hebrews 12:18–24.
 
 ## Enoch
 
-*Faith is why Enoch was **taken away without ever meeting death**; **nobody could find
+**11:5** *Faith is why Enoch was **taken away without ever meeting death**; **nobody could find
 him**, because God had taken him.*
 
 Genesis gives him six verses. *And Enoch walked with God, and he was not, for God took
@@ -59,16 +59,16 @@ He is one of two men in Scripture who did not die. The other is Elijah.
 
 ## What was said of him
 
-*Before he was taken, this had been said of him: **God was glad of him**.*
+The rest of **11:5**: *Before he was taken, this had been said of him: **God was glad of him**.*
 
 The Greek is *he pleased God*. That is the whole of the character reference.
 
 ## The rule drawn out of it
 
-*And **nobody makes God glad without faith**.*
+**11:6**: *And **nobody makes God glad without faith**.*
 
 The writer stops the narrative to state the principle, and then defines what the faith
-consists of:
+consists of, still **11:6**:
 
 - *Anyone coming to God has to believe **He is really there**.*
 - *And that **He pays back the ones who go after Him in earnest**.*
@@ -80,7 +80,7 @@ The Greek for *pays back* is **misthapodotes**, a rewarder, one who gives wages.
 
 ## Noah
 
-*Faith is why Noah, **warned by God about things no one could see coming**, was afraid
+**11:7** *Faith is why Noah, **warned by God about things no one could see coming**, was afraid
 and **built an ark so his household would live**.*
 
 A hundred and twenty years of carpentry on dry ground, on the strength of a warning
@@ -91,7 +91,7 @@ faith rather than the opposite of it.
 
 ## What the ark did
 
-*That ark was **his verdict on the world**, and what he inherited from it was **the
+The rest of **11:7**: *That ark was **his verdict on the world**, and what he inherited from it was **the
 righteousness faith brings**.*
 
 The building of it condemned everything around it, without a word being recorded from

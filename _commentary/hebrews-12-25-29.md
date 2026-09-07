@@ -7,7 +7,7 @@ sources:
   - 2021-03-07 come-to-the-feast-of-healing
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Read on its own, this sounds like the letter ending on a threat: do not turn Him
@@ -20,11 +20,11 @@ mountains, it is doing almost the opposite.
 The sentence about shaking has a *so that* in it, and everything depends on
 where it points:
 
-> the taking away of everything that can be shaken … **so that what cannot be
+> **12:27**: the taking away of everything that can be shaken … **so that what cannot be
 > shaken is left standing**
 
 The shaking is not the goal. It is the method. The goal is what is still there
-afterwards. And the writer tells you immediately what that is: *the kingdom we
+afterwards. And the writer tells you immediately what that is, **12:28**: *the kingdom we
 are being given can never be shaken.*
 
 The Greek makes it plainer than English does. The things that go are described
@@ -34,11 +34,11 @@ the shaking. It is that it is not the kind of thing shaking touches.
 
 ## Being given, not built
 
-*The kingdom we are being given.* Not earned, not held onto by strength, not
+Still **12:28**: *The kingdom we are being given.* Not earned, not held onto by strength, not
 kept by performance. Receiving is the only verb in the sentence, and it is
 passive.
 
-That matters for how the next line reads. *Let us hold on to grace, and by it
+That matters for how the next line reads, the rest of **12:28**: *Let us hold on to grace, and by it
 worship God.* A person who thinks the shaking is aimed at them will hold on to
 their own record. The writer says hold on to grace — and then says it is *by*
 that grace that acceptable worship happens at all.
@@ -47,7 +47,7 @@ that grace that acceptable worship happens at all.
 
 ## The fire at the end
 
-*Our God is a fire that burns things up.* This is the last line of the chapter
+**12:29** *Our God is a fire that burns things up.* This is the last line of the chapter
 and it is often read as the sting in the tail.
 
 But it is a quotation from Deuteronomy, and it is the same image the passage has
@@ -65,7 +65,7 @@ everything of that second kind goes, and the point of saying so is not to
 frighten anybody. It is so that a reader knows now which of the things they are
 standing on will still be there.
 
-> **On "how much less will we get away with turning our backs."** The warning is
+> **On "how much less will we get away with turning our backs" (12:25).** The warning is
 > real and should not be softened. But notice its shape: it is about *refusing
 > to hear the One who is speaking* — turning away from the voice. It is not a
 > warning about failing. It is a warning about not listening, addressed to

@@ -5,7 +5,7 @@ sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
   - 2019-02-24 the-healing-power-of-the-holy-communion
   - 2024-05-19 believe-right-and-live-right
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 This is the passage people reach for when something has gone wrong and they want
@@ -40,12 +40,12 @@ he offers them is that they are being brought up at all.
 
 ## What it says about the pain, exactly
 
-*No discipline feels like a good thing while it is happening — it feels
+**12:11** *No discipline feels like a good thing while it is happening — it feels
 miserable.* The passage does not spiritualise that, and neither should any
 reading of it. It concedes the misery outright.
 
-Then it says the outcome is *a harvest of peace and righteousness* — and notice
-that both of those are given, not achieved. Two verses earlier the same writer
+Then it says, still **12:11**, the outcome is *a harvest of peace and righteousness* — and notice
+that both of those are given, not achieved. Two verses earlier, **12:10**, the same writer
 says God does it *so that we come to share His holiness*. Share. His. Whatever
 this upbringing produces, the passage never describes it as the reader manufacturing
 something to present back.
@@ -76,7 +76,7 @@ So what remains for a son is the other sense of the word: upbringing, formation,
 child in a family he already belongs to. Nothing punitive is left to distribute. That account was
 settled at a cross, and *there is therefore now no condemnation to those who are in Christ Jesus*.
 
-> **On "He lays the lash on every son."** The line quotes Proverbs, and it is
+> **On "He lays the lash on every son" (12:6).** The line quotes Proverbs, and it is
 > the hardest sentence here. In its own context the image is a father's
 > correction, not a judge's sentence — and the writer's use of it lands on the
 > word *son*, which is the noun the whole passage keeps returning to. The

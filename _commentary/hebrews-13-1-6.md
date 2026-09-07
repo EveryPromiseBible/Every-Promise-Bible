@@ -7,7 +7,7 @@ sources:
   - 2020-03-29 what-to-focus-on-in-dark-times
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 One of the most quoted promises in the Bible, and it is quoted almost entirely
@@ -15,7 +15,7 @@ out of its sentence.
 
 ## What the promise is given as a reason for
 
-*Keep your way of life free of the love of money, and be satisfied with what you
+**13:5** *Keep your way of life free of the love of money, and be satisfied with what you
 have, **because** He has said it Himself: I will never let go of you, and I will
 never walk away.*
 
@@ -37,7 +37,7 @@ because he wants it to be unmissable.
 
 ## The response
 
-*So we can say it right out: The Lord is the One helping me — I will not be
+**13:6** *So we can say it right out: The Lord is the One helping me — I will not be
 afraid of anything anyone can do to me.*
 
 He gives the promise and then supplies the answer, quoting Psalm 118. The
@@ -46,7 +46,7 @@ back.
 
 ## Who is speaking the promise
 
-*For **He Himself has said**, "I will never leave you nor forsake you."*
+Still **13:5**: *For **He Himself has said**, "I will never leave you nor forsake you."*
 
 **Autos gar eireken** — *He Himself* has spoken, in the perfect tense: said it, and it stands said.
 

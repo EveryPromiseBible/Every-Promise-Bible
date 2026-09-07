@@ -4,7 +4,7 @@ title: "You shaped a body for Me instead"
 sources:
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
   - 2020-10-04 the-secret-to-health-and-healing-revealed
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer puts a psalm into Christ's mouth and dates it: *as He came into the world*.
@@ -13,12 +13,12 @@ The writer puts a psalm into Christ's mouth and dates it: *as He came into the w
 
 Psalm 40, written by David, quoted here as words spoken at the incarnation.
 
-*"Sacrifices and offerings **were not what You wanted** — **You shaped a body for Me
+**10:5** *"Sacrifices and offerings **were not what You wanted** — **You shaped a body for Me
 instead**."*
 
 ## The four categories
 
-*Sacrifices, offerings, whole animals burned, offerings made for sin.*
+Together, **10:5–6**: *Sacrifices, offerings, whole animals burned, offerings made for sin.*
 
 Four of the five Levitical offerings, named one after another and all dismissed in the
 same breath.
@@ -28,7 +28,7 @@ He is saying they were never the thing wanted.
 
 ## "None of it gave You any pleasure"
 
-The Greek is *You did not delight in them*.
+The end of **10:6**, the Greek is *You did not delight in them*.
 
 The prophets had said the same for centuries — *I desire mercy and not sacrifice*,
 *to obey is better than sacrifice* — while the altar kept burning.
@@ -46,20 +46,20 @@ and serves forever. See the note on Exodus 21:2–6, and on Psalms 40:6–8.
 
 ## "Here I am"
 
-*"So I said, **Here I am**."*
+**10:7** *"So I said, **Here I am**."*
 
 The answer Abraham gives, and Moses at the bush, and Samuel in the night, and Isaiah
 in the temple. It is the standard reply of a person reporting for a task.
 
 ## "It stands written about Me in the scroll"
 
-The Greek is *in the volume of the book it is written of Me*.
+Still **10:7**, the Greek is *in the volume of the book it is written of Me*.
 
 Said before the ministry begins, about a book already finished.
 
 ## The purpose
 
-*"**I have come to do what You want, God**."*
+The end of **10:7**: *"**I have come to do what You want, God**."*
 
 That sentence is the entire point of the quotation. The writer says so in the next
 verse: *He takes away the first that He may establish the second.*
@@ -68,7 +68,7 @@ The first is the sacrifices. The second is the will.
 
 ## What it buys
 
-*By that will **we have been sanctified** through the offering of the body of Jesus
+**10:10**: *By that will **we have been sanctified** through the offering of the body of Jesus
 Christ **once for all**.*
 
 The Greek is **ephapax** — once, finally, not to be repeated.

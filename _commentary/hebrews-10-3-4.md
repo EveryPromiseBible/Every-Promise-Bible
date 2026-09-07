@@ -4,14 +4,14 @@ title: A reminder of sins
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2021-05-02 inside-out-transformation
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two short verses, and they say what the sacrifices actually accomplished.
 
 ## What they did
 
-*Instead, those sacrifices **drag the sins back into memory, year after year**.*
+**10:3** *Instead, those sacrifices **drag the sins back into memory, year after year**.*
 
 The Greek is **anamnesis** — a calling to mind, a remembrance.
 
@@ -30,7 +30,7 @@ year.
 
 ## The reason
 
-*Because there is **no way that the blood of bulls and goats can take sins away**.*
+**10:4** *Because there is **no way that the blood of bulls and goats can take sins away**.*
 
 The Greek is **adunaton** — impossible. The same word the writer uses of God lying, of
 pleasing Him without faith, and of renewing an apostate. See the note on

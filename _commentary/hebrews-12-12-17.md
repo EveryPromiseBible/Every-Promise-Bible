@@ -5,7 +5,7 @@ sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
   - 2020-11-22 what-it-means-to-fall-from-grace
   - 2021-11-07 win-the-battle-over-bitterness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 This passage gets quoted in two directions at once. One crowd reads *chase
@@ -16,7 +16,7 @@ the sentence that ties them together.
 
 ## Read the order of the sentence
 
-The warning is one sentence with two halves, and the halves are joined:
+The warning is one sentence with two halves, and the halves are joined, **12:15**:
 
 - **Watch that nobody misses out on God's grace**
 - **and that nothing bitter takes root**
@@ -36,7 +36,7 @@ where Moses warns against a root among the people producing poison — someone
 who hears the covenant and decides privately he will be fine on his own terms.
 That is the person in the picture. Not a wounded person. A self-sufficient one.
 
-Which is why the next line lands where it does: *nobody sexually immoral or
+Which is why the next line lands where it does, **12:16**: *nobody sexually immoral or
 godless like Esau*. Esau is not introduced as an example of lust. He is
 introduced as a man who traded what was already his for something immediate,
 because he did not value it. Missing the grace comes first. The visible failure
@@ -46,7 +46,7 @@ comes after.
 
 ## The other half: what "holiness" is doing here
 
-*Chase peace with everybody, and chase holiness; without it nobody is going to
+**12:14** *Chase peace with everybody, and chase holiness; without it nobody is going to
 see the Lord.* Read alone, that reads like a bar to clear.
 
 But look where it sits. Seven lines earlier, the same writer says God disciplines
@@ -54,7 +54,7 @@ us *so that we come to share His holiness* — His, given, shared. The word is t
 same one. Holiness here is not a standard the reader manufactures and presents;
 it is something being handed to them, that they are told to go after.
 
-The image in the surrounding verses is medical, not judicial: hands gone limp,
+The image in the surrounding verses (**12:12–13**) is medical, not judicial: hands gone limp,
 knees giving way, a limb about to be thrown out of joint — *healed instead*. The
 writer is treating an injury, not setting an entrance exam.
 

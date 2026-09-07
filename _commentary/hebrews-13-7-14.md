@@ -3,18 +3,18 @@ key: Hebrews 13:7–14
 title: Outside the gate
 sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The letter's closing chapter, and it moves from remembering leaders to walking out of a city.
 
 ## The leaders
 
-*Remember your leaders, **the ones who spoke God's word to you**.*
+**13:7** *Remember your leaders, **the ones who spoke God's word to you**.*
 
 They are identified by what they did rather than by rank.
 
-*Look hard at **how their lives turned out**, and copy their faith.*
+The rest of **13:7**: *Look hard at **how their lives turned out**, and copy their faith.*
 
 The Greek is **ten ekbasin tes anastrophes** — the outcome of their conduct, the way out, the
 exit.
@@ -24,7 +24,7 @@ you endured a great struggle with sufferings*.
 
 ## The hinge
 
-*Jesus Christ does not change — **not yesterday, not today, not ever**.*
+**13:8** *Jesus Christ does not change — **not yesterday, not today, not ever**.*
 
 The Greek is **echthes kai semeron ho autos kai eis tous aionas**.
 
@@ -33,23 +33,23 @@ change; the message does not.
 
 ## The warning
 
-*Do not get swept along by **all sorts of strange teaching**.*
+**13:9** *Do not get swept along by **all sorts of strange teaching**.*
 
 The Greek is **poikilais** — variegated, many-coloured. And **xenais**, foreign.
 
 ## The heart
 
-*It is good for the heart to be **settled by grace, not by rules about food**.*
+The rest of **13:9**: *It is good for the heart to be **settled by grace, not by rules about food**.*
 
 The Greek is **bebaiousthai** — established, made firm.
 
-*Which have **never done any good for the people who lived by them**.*
+Still **13:9**: *Which have **never done any good for the people who lived by them**.*
 
 Blunt, and about a whole system.
 
 ## The altar
 
-*We have **an altar of our own**, and those who serve at the tent **have no claim on what is
+**13:10** *We have **an altar of our own**, and those who serve at the tent **have no claim on what is
 eaten from it**.*
 
 This reverses the usual arrangement. In Leviticus the priests ate from the altar — that was
@@ -59,7 +59,7 @@ Here the priests are the ones excluded.
 
 ## The rule behind it
 
-*The bodies of the animals **whose blood the high priest carries into the holy place** for sin
+**13:11** *The bodies of the animals **whose blood the high priest carries into the holy place** for sin
 are **burned outside the camp**.*
 
 Leviticus 6, the last verse of the chapter: if the blood went inside, the body went outside and
@@ -69,7 +69,7 @@ That is the sin offering of the Day of Atonement.
 
 ## The application
 
-*That is why **Jesus suffered outside the gate**, so that He could **set the people apart as
+**13:12** *That is why **Jesus suffered outside the gate**, so that He could **set the people apart as
 holy by His blood**.*
 
 Golgotha was outside the wall. John records it: *He went out to the place called the Place of a
@@ -80,7 +80,7 @@ off it.
 
 ## The instruction
 
-*So **let us go out to Him there, past the edge of the camp, and carry the disgrace He
+**13:13** *So **let us go out to Him there, past the edge of the camp, and carry the disgrace He
 carried**.*
 
 The Greek is **ton oneidismon autou pherontes** — bearing His reproach.
@@ -92,7 +92,7 @@ He tells them to leave it and stand where the bodies were burnt.
 
 ## The reason
 
-*No city here lasts. **We are after the one that is coming**.*
+**13:14** *No city here lasts. **We are after the one that is coming**.*
 
 The Greek is **ouk echomen menousan polin** — we have no abiding city.
 
@@ -100,10 +100,10 @@ Jerusalem fell within a few years of this letter, by most datings.
 
 ## What follows immediately
 
-*Therefore by Him let us **continually offer the sacrifice of praise to God**, that is, the
+**13:15**: *Therefore by Him let us **continually offer the sacrifice of praise to God**, that is, the
 fruit of our lips, giving thanks to His name.*
 
-*But do not forget to do good and to share, for **with such sacrifices God is well pleased**.*
+**13:16**: *But do not forget to do good and to share, for **with such sacrifices God is well pleased**.*
 
 An altar, outside the camp, and the offerings on it are words and generosity.
 

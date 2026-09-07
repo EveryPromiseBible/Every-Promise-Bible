@@ -11,7 +11,7 @@ sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
   - 2024-05-12 busy-outside-restful-inside
   - 2024-05-19 believe-right-and-live-right
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer quotes Jeremiah for the second time in the letter, and this time he quotes
@@ -19,14 +19,14 @@ it in two halves with a joint in the middle.
 
 ## Who is called the speaker
 
-*The **Holy Spirit** tells us the same thing.*
+**10:15** *The **Holy Spirit** tells us the same thing.*
 
 Jeremiah wrote it. The writer of Hebrews attributes it to the Spirit, in the present
 tense — *tells us*, not *told them*.
 
 ## "First He says"
 
-*"This is the covenant I will make with them once those days are over, says the Lord.
+**10:16** *"This is the covenant I will make with them once those days are over, says the Lord.
 **I will put My laws inside their hearts**, and I will **write them on their minds**."*
 
 The verb is God's. He puts, He writes.
@@ -37,7 +37,7 @@ Exodus 31:18.
 
 ## "Then He adds"
 
-*"**And their sins and their lawless deeds I will remember no more**."*
+**10:17** *"**And their sins and their lawless deeds I will remember no more**."*
 
 The writer separates the two clauses deliberately — *first He says… then He adds* —
 so the second one lands on its own.
@@ -59,13 +59,13 @@ Not remembering is not acting on. The record is not consulted.
 
 ## What the writer concludes from it
 
-*Now **where there is remission of these, there is no longer an offering for sin**.*
+**10:18**: *Now **where there is remission of these, there is no longer an offering for sin**.*
 
 That is his argument, and it is an argument about sacrifices, not about feelings. If
 the sins are not remembered, there is nothing left for another offering to address.
 
 The Day of Atonement came round every year precisely because there was a remembering
-— *in those sacrifices there is a reminder of sins every year.*
+— **10:3**: *in those sacrifices there is a reminder of sins every year.*
 
 ## The old covenant's wording
 

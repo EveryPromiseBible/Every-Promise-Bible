@@ -13,7 +13,7 @@ sources:
   - 2024-11-03 the-transformative-power-of-gods-word
   - 2025-07-13 freedom-from-a-guilty-conscience
   - 2026-01-18 pray-for-the-much-more
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Three instructions in a row, and the reason attached to the first one is not about the
@@ -28,14 +28,14 @@ Three *let us* clauses follow: draw near, hold fast, and consider one another.
 
 ## Holding on
 
-*Let us **not let go of what we openly believe**, and let us **not wobble**.*
+**10:23** *Let us **not let go of what we openly believe**, and let us **not wobble**.*
 
 The Greek is *let us hold fast the confession of our hope **without wavering*** —
 **aklines**, unbending, not leaning.
 
 ## The reason
 
-*The One who made the promise **keeps His word**.*
+The rest of **10:23**: *The One who made the promise **keeps His word**.*
 
 The Greek is **pistos** — faithful, reliable.
 
@@ -47,7 +47,7 @@ was nobody greater. See the notes on Hebrews 6:13–14 and Hebrews 6:16–17.
 
 ## The second instruction
 
-*Let us **give some thought to one another**, and **look for ways to spark love and good
+**10:24** *Let us **give some thought to one another**, and **look for ways to spark love and good
 work** in each other.*
 
 The Greek for *give thought* is **katanoeo** — to observe closely, to study.
@@ -65,7 +65,7 @@ which is why the observing comes first in the sentence.
 
 ## The third
 
-*Do not **drop out of gathering together**, the way **some have gotten into the habit** of
+**10:25** *Do not **drop out of gathering together**, the way **some have gotten into the habit** of
 doing.*
 
 The Greek is **episunagoge** — a gathering together, from the same root as synagogue.
@@ -75,14 +75,14 @@ hypothetical.
 
 ## Why they were dropping out
 
-The letter says elsewhere: *you had compassion on me in my chains, and joyfully accepted
+The letter says elsewhere, **10:34**: *you had compassion on me in my chains, and joyfully accepted
 the plundering of your goods.*
 
 Meeting had cost them property and put them in reach of the authorities.
 
 ## What to do instead
 
-*Keep **encouraging each other**.*
+Still **10:25**: *Keep **encouraging each other**.*
 
 The Greek is **parakalountes** — from the same root as **parakletos**, the word for the
 Helper. See the note on John 14:15–17.
@@ -91,7 +91,7 @@ They are asked to do for each other what the Spirit is called.
 
 ## The frequency
 
-*All the more **as you see the Day coming closer**.*
+The end of **10:25**: *All the more **as you see the Day coming closer**.*
 
 The pressure that made them stop is the reason given for doing it more.
 
@@ -108,7 +108,7 @@ against starts with people quietly not turning up.
 The three instructions do not open the paragraph. Two statements do, and everything after them is a
 consequence:
 
-*Therefore, brethren, **having boldness to enter the Holiest by the blood of Jesus**, by a new and
+**10:19–24**: *Therefore, brethren, **having boldness to enter the Holiest by the blood of Jesus**, by a new and
 living way which He consecrated for us, through the veil, that is, His flesh, and **having a High
 Priest over the house of God** — let us draw near… let us hold fast… let us consider one another.*
 

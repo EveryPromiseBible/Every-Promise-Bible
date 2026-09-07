@@ -16,7 +16,7 @@ sources:
   - 2021-11-07 win-the-battle-over-bitterness
   - 2022-01-09 gods-way-of-acceleration
   - 2023-09-10 living-heavenly-minded-in-tough-times
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 This is one of the most carefully built passages in the New Testament, and its
@@ -26,14 +26,14 @@ first.
 
 ## The first mountain
 
-*What you have come to is not a mountain a hand can touch* — fire, gloom, dark,
+**12:18–19** *What you have come to is not a mountain a hand can touch* — fire, gloom, dark,
 howling storm, a trumpet, a voice. This is Sinai, where the law was given, and
 the writer describes it entirely in terms of what it did to the people standing
 at the bottom of it:
 
-- they begged for the voice to stop
-- they could not bear the command that was given
-- even Moses said he was terrified and shaking
+- **12:19**: they begged for the voice to stop
+- **12:20**: they could not bear the command that was given
+- **12:21**: even Moses said he was terrified and shaking
 
 Nothing in the description is about the law being wrong. Everything in it is
 about what happens to people who come to God that way. It is unbearable — and
@@ -42,7 +42,7 @@ shaking.
 
 ## The rule at the foot of it
 
-*If even an animal so much as touches the mountain, **it is to be stoned**, or run
+**12:20** *If even an animal so much as touches the mountain, **it is to be stoned**, or run
 through with a spear.*
 
 Exodus records the boundary: a line drawn round the base, and a death penalty for
@@ -53,7 +53,7 @@ or the trumpet. A cow that wandered.
 
 ## The angels
 
-*Angels in numbers no one can count.*
+**12:22** *Angels in numbers no one can count.*
 
 The Greek is **muriasin** — myriads, tens of thousands, and the word behind
 *myriad*. It is the largest number the language had, used as a plural.
@@ -65,15 +65,15 @@ Here they are listed among the things the reader has already come to.
 
 ## The second mountain
 
-*What you have come to is Mount Zion* — and then a list that does not stop:
+**12:22** *What you have come to is Mount Zion* — and then a list that does not stop:
 
-- the city of the living God, the Jerusalem above
-- angels in numbers nobody can count
-- the great gathering, every name on record in heaven
-- God the Judge of all
-- righteous people brought to completion
-- Jesus, standing between God and us
-- blood that says something better than Abel's
+- still **12:22**: the city of the living God, the Jerusalem above
+- still **12:22**: angels in numbers nobody can count
+- **12:23**: the great gathering, every name on record in heaven
+- still **12:23**: God the Judge of all
+- still **12:23**: righteous people brought to completion
+- **12:24**: Jesus, standing between God and us
+- still **12:24**: blood that says something better than Abel's
 
 Notice the tense. Not *will come to*. **Have come to.** The writer is not
 describing a destination for later; he is telling people where they are already
@@ -118,6 +118,6 @@ them, and it does it not by pressure but by telling them where they already are.
 
 > **On the fire at the end.** The next lines say our God is a fire that burns
 > things up, and it is often read as a threat bolted onto the comfort. Look at
-> what the fire is doing in context: it takes away *everything that can be
+> what the fire is doing in context, **12:27**: it takes away *everything that can be
 > shaken* so that *what cannot be shaken is left standing*. It is not aimed at
 > the person. It is aimed at what will not hold them.

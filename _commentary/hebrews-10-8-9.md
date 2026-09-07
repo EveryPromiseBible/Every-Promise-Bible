@@ -5,14 +5,14 @@ sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer takes the psalm he has just quoted and separates it into two halves.
 
 ## The method
 
-*First He says… **then** He says.*
+**10:8–9**: *First He says… **then** He says.*
 
 He has quoted Psalm 40 whole in the verses before. See the note on Hebrews 10:5–7.
 
@@ -21,14 +21,14 @@ argument.
 
 ## The first half
 
-*"Sacrifices and offerings, whole animals burned, offerings made for sin — **You did not
+**10:8** *"Sacrifices and offerings, whole animals burned, offerings made for sin — **You did not
 want them, and they gave You no pleasure**."*
 
 Four categories, listed twice in the chapter.
 
 ## The clause he adds
 
-*And **those are the very things the law requires**.*
+The rest of **10:8**: *And **those are the very things the law requires**.*
 
 The writer inserts this himself. It is not in the psalm.
 
@@ -39,14 +39,14 @@ He wants the reader to notice that the psalm is dismissing what the law demands.
 
 ## The second half
 
-*Then He says, "**Here I am. I have come to do what You want**."*
+**10:9** *Then He says, "**Here I am. I have come to do what You want**."*
 
 The Greek is the standard reply of a person reporting for duty — the answer Abraham,
 Moses, Samuel and Isaiah all give.
 
 ## The conclusion
 
-*He **cancels the first arrangement** in order to **put the second one in its place**.*
+The rest of **10:9**: *He **cancels the first arrangement** in order to **put the second one in its place**.*
 
 The Greek is **anairei** — takes away, removes, abolishes. It is also the word for
 putting a person to death.
@@ -71,7 +71,7 @@ The Greek makes the purpose explicit.
 
 ## What it accomplishes
 
-The next verse: *by that will **we have been sanctified** through the offering of the
+**10:10**: *by that will **we have been sanctified** through the offering of the
 body of Jesus Christ **once for all**.*
 
 **By that will** — not by the blood alone, in the writer's phrasing. By the willingness

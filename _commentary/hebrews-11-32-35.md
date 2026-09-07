@@ -7,7 +7,7 @@ sources:
   - 2018-08-12 live-long-live-strong
   - 2020-05-17 expect-good-in-times-of-trouble
   - 2021-07-25 speak-life-not-death
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 This is the passage people quote for triumph, and it is the passage that makes
@@ -15,7 +15,7 @@ the chapter honest — because of where it stops.
 
 ## The first list
 
-*Brought down kingdoms, dealt out justice, got hold of promises, shut lions'
+**11:33–35**: *Brought down kingdoms, dealt out justice, got hold of promises, shut lions'
 mouths, put fires out, got clear of the sword, were made strong where they had
 been weak, turned fierce in battle, sent foreign armies running. Women got their
 dead back alive.*
@@ -24,7 +24,7 @@ Every item is a deliverance. Faith that worked, visibly, in this life.
 
 ## Then the turn
 
-*And others were tortured and would not take the way out, so that they could rise
+The rest of **11:35**: *And others were tortured and would not take the way out, so that they could rise
 to something better.*
 
 One word — *others* — and the same faith produces the opposite outcome. The
@@ -47,17 +47,18 @@ but an exercise of it.
 
 ## What they were holding out for
 
-Halfway through the turn, the writer explains why the ones who were tortured refused rescue: *not
+Halfway through the turn, the writer explains why the ones who were tortured refused rescue, still
+**11:35**: *not
 accepting deliverance, **that they might obtain a better resurrection**.*
 
 They were not being stubborn. They were making a comparison, and they had already priced both
 sides.
 
-He says the same of Moses a few verses earlier — that he *esteemed **the reproach of Christ** greater
+He says the same of Moses a few verses earlier, **11:26**: *esteemed **the reproach of Christ** greater
 riches than the treasures in Egypt, for he looked to the reward*. The writer puts the name of Christ
 into an account set four centuries before Bethlehem, because that is what the whole chapter is
 about: people who preferred a Person they had not yet seen to everything that was on the table.
 
-> **The end of the chapter.** *None of them received what was promised.* All of
+> **The end of the chapter.** **11:39**: *None of them received what was promised.* All of
 > them — the delivered and the destroyed alike — are described as still waiting.
 > Whatever this chapter is doing, it is not sorting people by outcome.

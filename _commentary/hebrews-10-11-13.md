@@ -16,14 +16,14 @@ sources:
   - 2025-07-13 freedom-from-a-guilty-conscience
   - 2025-09-14 trust-the-way-of-grace
   - 2026-05-17 license-to-live-holy-versus-license-to-sin
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The whole argument of the letter turns on a piece of furniture that was not there.
 
 ## The old arrangement
 
-*Every priest **stands** ministering daily and offering **repeatedly the same
+**10:11** *Every priest **stands** ministering daily and offering **repeatedly the same
 sacrifices**, which **can never take away sins**.*
 
 Four words doing the work: stands, daily, repeatedly, never.
@@ -40,7 +40,7 @@ A priest's work was never finished, so there was nothing to sit on.
 
 ## The contrast
 
-*But this Man, after He had offered **one sacrifice for sins forever**, **sat down** at
+**10:12** *But this Man, after He had offered **one sacrifice for sins forever**, **sat down** at
 the right hand of God.*
 
 **One**, and **forever**, and then the posture.
@@ -49,7 +49,7 @@ The sitting is the proof. You sit when the job is done.
 
 ## What He is doing now
 
-*From that time waiting till **His enemies are made His footstool**.*
+**10:13** *From that time waiting till **His enemies are made His footstool**.*
 
 Psalm 110, which Jesus had quoted at the Pharisees Himself: *the LORD said to my Lord,
 sit at My right hand until I make Your enemies Your footstool.* See the note on
@@ -57,7 +57,7 @@ Matthew 22:41–46.
 
 ## The verse that follows
 
-*For by **one offering He has perfected forever** those who are being sanctified.*
+**10:14**: *For by **one offering He has perfected forever** those who are being sanctified.*
 
 Two tenses in one sentence, and both are true at once. **Perfected forever** — done,
 complete, permanent. **Being sanctified** — in progress.
@@ -69,7 +69,7 @@ The finished thing and the ongoing thing are not in competition.
 The writer quotes Jeremiah 31: *their sins and their lawless deeds **I will remember no
 more**.*
 
-Then his own conclusion: *now where there is remission of these, **there is no longer
+Then his own conclusion, **10:18**: *now where there is remission of these, **there is no longer
 an offering for sin**.*
 
 If the debt is forgotten, there is nothing left to pay.

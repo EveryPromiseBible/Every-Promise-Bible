@@ -1,14 +1,14 @@
 ---
 key: Hebrews 11:13–16
 title: "They waved at it from a long way off"
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The roll of faith stops halfway through so the writer can say what all of these people had in
 common, and it is not success.
 
 ## They died still waiting
 
-*Every one of them died still believing, and **none of them got what was promised**.*
+**11:13** *Every one of them died still believing, and **none of them got what was promised**.*
 
 That sentence is placed in the middle of the chapter that exists to commend them. The writer is not
 apologising for it. Faith, in this letter, is not a technique for obtaining things; it is what these
@@ -16,7 +16,7 @@ people were doing while not obtaining them.
 
 ## Greeting it from the deck
 
-*They only saw it a long way off and **waved to it**.*
+The rest of **11:13**: *They only saw it a long way off and **waved to it**.*
 
 **Aspasamenoi** — greeted, saluted, the word for the welcome you give someone you know. The picture
 is a traveller on a ship raising a hand to a coastline he has not landed on.
@@ -25,7 +25,7 @@ They were not squinting at something doubtful. They recognised it.
 
 ## The chance to go back
 
-*If they had been thinking about the country they left, **they had chances enough to turn around and
+**11:15** *If they had been thinking about the country they left, **they had chances enough to turn around and
 go back**.*
 
 Abraham's road to Haran was open the whole time. Nobody was preventing him. The writer says the
@@ -34,7 +34,7 @@ does not do.
 
 ## The sentence that ought to be impossible
 
-*So **God is not embarrassed to have them call Him their God**.*
+**11:16** *So **God is not embarrassed to have them call Him their God**.*
 
 **Ouk epaischynetai** — He is not ashamed. It is the second time this letter uses that phrase, and
 the first was about Jesus: *He is not ashamed to call them brothers.*
@@ -45,7 +45,7 @@ a man who fought Him — and puts the names in the title.
 
 ## What He had ready
 
-*He has **a city standing ready** for them.*
+The rest of **11:16**: *He has **a city standing ready** for them.*
 
 **Hetoimasen** — He prepared it, aorist. It was finished before any of them died disappointed.
 

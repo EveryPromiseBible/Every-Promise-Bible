@@ -8,7 +8,7 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2025-09-21 transformed-by-beholding-jesus
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Six sentences about Moses, each beginning the same way — *faith is why* — and the
@@ -16,7 +16,7 @@ middle one is a calculation.
 
 ## What the parents did
 
-*Faith is why Moses, newly born, was hidden by his parents for three months:
+**11:23** *Faith is why Moses, newly born, was hidden by his parents for three months:
 they could see he was a beautiful child, and the king's order did not frighten
 them.*
 
@@ -25,7 +25,7 @@ an infanticide order and are credited with it before Moses does anything at all.
 
 ## The weighing
 
-*He weighed the disgrace of Christ against everything stored up in Egypt and
+**11:24–26**: *He weighed the disgrace of Christ against everything stored up in Egypt and
 found the disgrace worth more.*
 
 The verb is a commercial one — reckoning, estimating value. This is not
@@ -39,10 +39,10 @@ crucifixion. The writer is claiming the same reproach runs through both.
 ## "He could see the One nobody can see"
 
 The line is a deliberate contradiction, and it explains how the arithmetic came
-out that way. Moses walked away from Egypt *without a thought for how furious the
+out that way. Moses walked away from Egypt, **11:27**: *without a thought for how furious the
 king would be* because the invisible was, to him, the more solid of the two.
 
-> **The list ends in water.** *Faith is why they walked through the Red Sea as
+> **The list ends in water.** **11:29**: *Faith is why they walked through the Red Sea as
 > though it were dry ground — and when the Egyptians tried the same thing, the
 > water swallowed them.* The same act, performed by two parties, with opposite
 > outcomes. The writer's point across the whole chapter is that the difference

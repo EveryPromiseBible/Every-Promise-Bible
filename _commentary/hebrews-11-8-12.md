@@ -12,7 +12,7 @@ sources:
   - 2025-05-11 speak-it-by-faith-before-you-see-it
   - 2025-09-07 walk-in-gods-gifts-for-you
   - 2025-09-21 transformed-by-beholding-jesus
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Three times in five verses the writer says *faith is why*, and each one is
@@ -20,7 +20,7 @@ attached to something that looks like a disadvantage.
 
 ## Faith is why he went
 
-*Faith is why Abraham obeyed when he was called… **he went out without knowing
+**11:8** *Faith is why Abraham obeyed when he was called… **he went out without knowing
 where he was going**.*
 
 Genesis 12 records the instruction: *get out of your country… to a land that I will
@@ -30,7 +30,7 @@ He had a direction and no destination.
 
 ## Faith is why he camped
 
-*Faith is why he **lived as a foreigner in the very land he had been promised**,
+**11:9** *Faith is why he **lived as a foreigner in the very land he had been promised**,
 camping in tents.*
 
 That is the strange one. The land was his by promise, and he spent his life in it
@@ -39,12 +39,12 @@ as a resident alien in a tent.
 The only piece of it he ever owned outright was a burial cave he paid four hundred
 shekels for, to bury Sarah in.
 
-*With Isaac and Jacob, who were promised the same thing he was* — three generations
+The rest of **11:9**: *with Isaac and Jacob, who were promised the same thing he was* — three generations
 in tents, in a country deeded to them.
 
 ## What he was actually waiting for
 
-*He was **waiting for the city with real foundations, the one God designed and
+**11:10** *He was **waiting for the city with real foundations, the one God designed and
 built**.*
 
 The contrast is between a tent and a city, and between pegs and foundations.
@@ -54,12 +54,12 @@ he was not aiming at the land.
 
 ## Faith is why Sarah conceived
 
-*Faith is why **Sarah herself was given the strength to conceive** and bore a child
+**11:11** *Faith is why **Sarah herself was given the strength to conceive** and bore a child
 when her body was long past it.*
 
 The Greek is that she received power for the laying down of seed.
 
-And the reason given: *because she **counted the One who promised as good for
+And the reason given, the rest of **11:11**: *because she **counted the One who promised as good for
 it**.*
 
 The verb is a reckoning word — she assessed His credit and judged it sound. It is
@@ -77,7 +77,7 @@ laughing.
 
 ## The arithmetic at the end
 
-*So from **one man, and one whose body was finished**, came descendants past
+**11:12** *So from **one man, and one whose body was finished**, came descendants past
 counting — as many as the **stars** overhead, as many as the **grains of sand**
 along the shore.*
 
@@ -101,7 +101,7 @@ would work out — a sight of a day, and Someone in it. And the promise he was t
 reading, a Person all along: *He does not say "and to seeds," as of many, but as of one — "and to
 your Seed," **who is Christ***.
 
-> **What the chapter says a few verses later.** *These all died in faith, **not
+> **What the chapter says a few verses later.** **11:13**: *These all died in faith, **not
 > having received the promises**, but having seen them afar off, and were assured of
 > them, and embraced them.* Every one of them died still waiting, and the chapter
 > calls it faith rather than failure.

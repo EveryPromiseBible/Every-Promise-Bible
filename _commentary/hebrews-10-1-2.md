@@ -14,7 +14,7 @@ sources:
   - 2025-07-13 freedom-from-a-guilty-conscience
   - 2025-08-24 the-power-of-a-cleansed-conscience
   - 2026-01-25 reign-with-much-more
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer's argument turns on a question he expects the reader to answer for
@@ -22,7 +22,7 @@ themselves.
 
 ## The image
 
-*The law **threw a shadow** of the good that was coming; **it never showed the thing
+**10:1** *The law **threw a shadow** of the good that was coming; **it never showed the thing
 itself**.*
 
 The Greek is **skia** (shadow) against **eikon** — the image, the actual form.
@@ -39,14 +39,14 @@ and sabbaths: *these are a shadow of things to come, **but the substance is of C
 
 ## The repetition
 
-*So **year after year**, with **the same sacrifices offered without end**.*
+Still **10:1**: *So **year after year**, with **the same sacrifices offered without end**.*
 
 The Day of Atonement, every year, the same ritual. And the daily offerings, morning and
 evening, for centuries.
 
 ## What it could not do
 
-*It could **never bring the people who came to worship all the way to completion**.*
+The end of **10:1**: *It could **never bring the people who came to worship all the way to completion**.*
 
 The Greek is **teleiosai** — to bring to the end, to perfect, to finish.
 
@@ -55,7 +55,7 @@ arrived anywhere.
 
 ## The question
 
-*If it could, **would not the offerings have stopped?**"*
+**10:2** *If it could, **would not the offerings have stopped?**"*
 
 The writer puts the test in the reader's hands. A treatment that works is discontinued.
 
@@ -64,7 +64,7 @@ day, which was the visible proof of his point.
 
 ## The consequence
 
-*Once the worshipers had been cleansed, **they would not have gone on carrying any sense
+The rest of **10:2**: *Once the worshipers had been cleansed, **they would not have gone on carrying any sense
 of their sins**.*
 
 The Greek is **suneidesin hamartion** — a consciousness of sins.
@@ -74,7 +74,7 @@ abstract. The awareness of it in the worshipper.
 
 ## What the sacrifices did instead
 
-The next verse: *but in those sacrifices **there is a reminder of sins every year**.*
+**10:3**: *but in those sacrifices **there is a reminder of sins every year**.*
 
 The Greek is **anamnesis** — the same word Jesus uses of the bread: *do this in
 remembrance of Me.* See the note on Luke 22:19–20.
@@ -83,7 +83,7 @@ One annual reminder of sins; one ongoing remembrance of Him.
 
 ## The blunt statement
 
-*For it is **not possible that the blood of bulls and goats could take away sins**.*
+**10:4** *For it is **not possible that the blood of bulls and goats could take away sins**.*
 
 The writer says it outright, about a system God Himself commanded.
 

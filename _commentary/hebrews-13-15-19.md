@@ -4,7 +4,7 @@ title: A sacrifice made of words
 sources:
   - 2018-11-18 dare-to-pray-bold-prayers
   - 2020-05-03 experience-abundance-in-times-of-famine
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The letter has spent twelve chapters explaining that the sacrifices are finished.
@@ -12,7 +12,7 @@ Then it names three that are not.
 
 ## The first
 
-*Through Him let us keep bringing God an offering of praise, words out of our
+**13:15** *Through Him let us keep bringing God an offering of praise, words out of our
 mouths thanking His name.*
 
 The phrase is from Hosea — *the fruit of our lips*. Under the old system you
@@ -24,7 +24,7 @@ present-tense keeping on rather than an occasion.
 
 ## The second and third
 
-*Do not forget to do good and to share what you have; those are the offerings God
+**13:16** *Do not forget to do good and to share what you have; those are the offerings God
 takes pleasure in.*
 
 Praise, then generosity — and the writer uses sacrificial vocabulary for both.
@@ -36,7 +36,7 @@ people.
 
 ## The instruction about leaders
 
-*They stay awake over your souls, and they will have to give an account, so let
+**13:17** *They stay awake over your souls, and they will have to give an account, so let
 it be a glad job for them and not a groaning one — groaning would do you no
 good.*
 
@@ -46,7 +46,7 @@ sheep.
 
 ## The request
 
-*Pray for us… I ask it all the more urgently, so that I can be given back to you
+**13:18–19**: *Pray for us… I ask it all the more urgently, so that I can be given back to you
 sooner.*
 
 The writer of the most theologically dense letter in the New Testament ends by

@@ -4,7 +4,7 @@ title: No sacrifice left
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The second great warning of the letter, and it uses the same argument as the good news
@@ -17,7 +17,7 @@ against that one move, and the temple was still standing when it was sent.
 
 ## The sin
 
-*If we **choose to keep on sinning after we have received the truth and come to know
+**10:26** *If we **choose to keep on sinning after we have received the truth and come to know
 it**.*
 
 The Greek is *if we sin **wilfully*** — **hekousios**, deliberately, of one's own choice.
@@ -28,7 +28,7 @@ ignorance.
 
 ## The consequence
 
-*No **sacrifice for sins is left**.*
+The rest of **10:26**: *No **sacrifice for sins is left**.*
 
 The Greek is *there no longer remains a sacrifice for sins*.
 
@@ -46,7 +46,7 @@ is the same fact either way.
 
 ## What is described instead
 
-*Only **a terror of waiting for judgment**, and **a fire, burning with His anger, that will
+**10:27** *Only **a terror of waiting for judgment**, and **a fire, burning with His anger, that will
 swallow up everyone who sets himself against God**.*
 
 The Greek is *a certain fearful expectation of judgment, and fiery indignation*.
@@ -72,12 +72,12 @@ up. He is tracing where a road goes.
 
 ## What comes after
 
-*But **recall the former days** in which, after you were illuminated, you endured a great
-struggle with sufferings… **you had compassion on me in my chains**.*
+**10:32**: *But **recall the former days** in which, after you were illuminated, you endured a great
+struggle with sufferings…* **10:34**: *and **you had compassion on me in my chains**.*
 
-*Therefore **do not cast away your confidence**, which has great reward.*
+**10:35**: *Therefore **do not cast away your confidence**, which has great reward.*
 
-And then: *"**But we are not of those who draw back to perdition, but of those who
+And then, **10:39**: *"**But we are not of those who draw back to perdition, but of those who
 believe** to the saving of the soul."*
 
 The writer includes himself and them in the second category, five verses after the

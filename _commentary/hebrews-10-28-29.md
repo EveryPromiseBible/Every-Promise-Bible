@@ -3,7 +3,7 @@ key: Hebrews 10:28–29
 title: Three things done to the blood
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer defines the sin he has just warned about, and the definition is entirely about
@@ -11,7 +11,7 @@ how the sacrifice is treated.
 
 ## The comparison
 
-*Anyone who **threw out the law of Moses died with no mercy shown him**, on the word of
+**10:28** *Anyone who **threw out the law of Moses died with no mercy shown him**, on the word of
 **two or three witnesses**.*
 
 Deuteronomy's standard for a capital case. No conviction on one voice — the same rule
@@ -19,14 +19,14 @@ that governed the cities of refuge. See the note on Numbers 35:16–21.
 
 ## The argument's shape
 
-*How much **heavier a punishment** do you think a man will deserve.*
+**10:29** *How much **heavier a punishment** do you think a man will deserve.*
 
 The writer uses this form repeatedly — the lesser to the greater. If that was true under
 the old arrangement, how much more under this one.
 
 ## The three descriptions
 
-Every one is about the Son and His blood:
+Still **10:29**, every one is about the Son and His blood:
 
 **Walked all over the Son of God.** The Greek is **katapateo** — to trample underfoot. It
 is the word used of salt that has lost its savour, and of pearls before swine.
@@ -43,7 +43,7 @@ outrage. It appears once in the New Testament.
 
 ## The clause in the middle
 
-*The blood **that made him holy**.*
+Still **10:29**: *The blood **that made him holy**.*
 
 The Greek is *by which he was sanctified*.
 
@@ -67,19 +67,18 @@ what *treating the blood as common* amounts to.
 
 ## What follows
 
-*For we know Him who said, "**Vengeance is Mine, I will repay**," says the Lord. And
+**10:30**: *For we know Him who said, "**Vengeance is Mine, I will repay**," says the Lord. And
 again, "The LORD will judge His people."*
 
-*It is a fearful thing to fall into the hands of the living God.*
+**10:31**: *It is a fearful thing to fall into the hands of the living God.*
 
 ## And then
 
-*But **recall the former days** in which, after you were illuminated, you endured a great
+**10:32**: *But **recall the former days** in which, after you were illuminated, you endured a great
 struggle with sufferings.*
 
-The writer turns immediately to what they had already come through, and ends the chapter:
-
-*But **we are not of those who draw back** to perdition, **but of those who believe** to
+The writer turns immediately to what they had already come through, and ends the chapter,
+**10:39**: *But **we are not of those who draw back** to perdition, **but of those who believe** to
 the saving of the soul.*
 
 He puts himself and them in the second category.
