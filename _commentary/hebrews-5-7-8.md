@@ -3,14 +3,14 @@ key: Hebrews 5:7–8
 title: Prayers and tears
 sources:
   - 2023-05-21 walk-where-jesus-walked-tbn-special
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Two verses about Gethsemane, written by somebody who was not there.
 
 ## The setting
 
-*While He was here **in flesh and blood**.*
+**5:7** *While He was here **in flesh and blood**.*
 
 The Greek is **en tais hemerais tes sarkos autou** — in the days of His flesh.
 
@@ -19,7 +19,7 @@ the order of Melchizedek — and then this.
 
 ## What He did
 
-*He **carried His prayers and His pleading** to the One who was able to save Him from death.*
+Still **5:7**: *He **carried His prayers and His pleading** to the One who was able to save Him from death.*
 
 The Greek is **deeseis te kai hiketerias** — supplications and entreaties.
 
@@ -28,7 +28,7 @@ occurs once in the New Testament.
 
 ## How
 
-*Praying them **out loud**, **weeping** as He prayed.*
+Still **5:7**: *Praying them **out loud**, **weeping** as He prayed.*
 
 The Greek is **meta krauges ischuras kai dakruon** — with strong crying and tears.
 
@@ -43,7 +43,7 @@ The Gospels do not mention the tears. Hebrews does.
 
 ## To whom
 
-*To the One who was **able to save Him from death**.*
+Still **5:7**: *To the One who was **able to save Him from death**.*
 
 The Greek is **ton dunamenon sozein auton ek thanatou** — the one able to save Him out of death.
 
@@ -51,7 +51,7 @@ The preposition can mean *from* — spare Him it — or *out of* — bring Him t
 
 ## The answer
 
-*And **He was heard**.*
+The end of **5:7**: *And **He was heard**.*
 
 The Greek is **eisakoustheis** — he was heard, he was heeded.
 
@@ -62,7 +62,7 @@ resolving the tension.
 
 ## Why He was heard
 
-*Because of **how He held God in awe**.*
+Also in **5:7**: *Because of **how He held God in awe**.*
 
 The Greek is **apo tes eulabeias** — from His godly fear, His reverent submission.
 
@@ -77,7 +77,7 @@ The request was made, and the second half was made too.
 
 ## The next sentence
 
-*He was **the Son**, and even so **He learned obedience**.*
+**5:8** *He was **the Son**, and even so **He learned obedience**.*
 
 The Greek is **kaiper on huios emathen aph' hon epathen ten hupakoen**.
 
@@ -94,7 +94,7 @@ He knew obedience as an attribute. He came to know it as a cost.
 
 ## The next verse
 
-*And having been perfected, He became the author of eternal salvation to all who obey Him.*
+**5:9** *And having been perfected, He became the author of eternal salvation to all who obey Him.*
 
 The Greek is **teleiotheis** — having been completed, brought to the goal.
 
@@ -102,7 +102,7 @@ Not moral improvement. Completion of a course.
 
 ## What the chapter is arguing
 
-*For **every high priest taken from among men**… can have compassion on those who are ignorant and
+**5:1–2** *For **every high priest taken from among men**… can have compassion on those who are ignorant and
 going astray, since he himself is also subject to weakness.*
 
 The qualification for priesthood is having been in the position of the people you represent.
@@ -112,7 +112,7 @@ The qualification for priesthood is having been in the position of the people yo
 
 ## Where the letter goes next
 
-*Of whom we have much to say, and hard to explain, since **you have become dull of hearing**.*
+**5:11** *Of whom we have much to say, and hard to explain, since **you have become dull of hearing**.*
 
 The author breaks off into a rebuke about milk and solid food, and does not return to Melchizedek
 until chapter 7.

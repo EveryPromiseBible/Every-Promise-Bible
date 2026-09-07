@@ -5,14 +5,14 @@ sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2020-11-01 no-longer-a-slave-to-fear
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer breaks off mid-argument and explains why.
 
 ## The interruption
 
-*There is **a great deal to say about all this**, and **it is hard to get across**.*
+**5:11** *There is **a great deal to say about all this**, and **it is hard to get across**.*
 
 He has just named Melchizedek for the fourth time and is about to open the argument. See
 the note on Hebrews 5:9–10.
@@ -22,31 +22,31 @@ again.
 
 ## Where the fault is
 
-*Because **you have gotten lazy about listening**.*
+The rest of **5:11**: *Because **you have gotten lazy about listening**.*
 
 The Greek is **nothroi tais akoais** — sluggish, dull, in the hearing.
 
 He does not say the subject is beyond them. He says the difficulty is at their end.
 
-**Nothros** appears twice in the letter, here and at the end of chapter 6: *that you do
+**Nothros** appears twice in the letter, here and at the end of chapter 6, **6:12**: *that you do
 not become **sluggish**, but imitate those who through faith and patience inherit the
 promises.*
 
 ## The expectation
 
-*By this time **you ought to be the ones teaching**.*
+**5:12** *By this time **you ought to be the ones teaching**.*
 
 Enough time has passed. The letter is written to a congregation that had been going long
 enough to have produced teachers.
 
-Chapter 10 fills in what they had been through: *you had compassion on me in my chains,
+Chapter 10 fills in what they had been through, **10:34**: *you had compassion on me in my chains,
 and joyfully accepted the plundering of your goods.*
 
 These are not new converts. They had lost property for it.
 
 ## Where they actually are
 
-*Instead **somebody has to start you over at the beginning**, with **the simplest things
+Still **5:12**: *Instead **somebody has to start you over at the beginning**, with **the simplest things
 God has said**.*
 
 The Greek is **ta stoicheia** — the elements, the ABCs. It is the word for the letters of
@@ -54,7 +54,7 @@ the alphabet.
 
 ## The diet
 
-*You have ended up **needing milk, not solid food**.*
+The end of **5:12**: *You have ended up **needing milk, not solid food**.*
 
 The Greek is that they have *come to have need* of it — a state arrived at, not a state
 never left.
@@ -63,10 +63,10 @@ They had been further on and had come back.
 
 ## What the next verses say
 
-*For everyone who partakes only of milk is unskilled in the word of righteousness, for he
+**5:13** *For everyone who partakes only of milk is unskilled in the word of righteousness, for he
 is a babe.*
 
-*But **solid food belongs to those who are of full age**, that is, those who **by reason of
+**5:14** *But **solid food belongs to those who are of full age**, that is, those who **by reason of
 use have their senses exercised to discern both good and evil**.*
 
 The Greek for *exercised* is **gegumnasmena** — trained, from the root of *gymnasium*. It
@@ -74,7 +74,7 @@ is a word about practice rather than information.
 
 ## What he does next
 
-*Therefore, **leaving the discussion of the elementary principles of Christ, let us go on
+**6:1** *Therefore, **leaving the discussion of the elementary principles of Christ, let us go on
 to perfection**.*
 
 He refuses to go back over the foundations, lists six of them, and then delivers the

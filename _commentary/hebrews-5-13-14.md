@@ -4,7 +4,7 @@ title: Food you have to chew
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2020-11-15 five-times-more-favor-and-provision
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The writer explains the difference between the two diets, and the test he gives is not
@@ -12,7 +12,7 @@ about knowledge.
 
 ## The condition
 
-*Anyone who is **still living on milk cannot handle what is said about righteousness**.*
+**5:13** *Anyone who is **still living on milk cannot handle what is said about righteousness**.*
 
 The Greek is **apeiros logou dikaiosunes** — inexperienced in the word of righteousness.
 
@@ -22,7 +22,7 @@ Not that they have not been told. That they have not handled it.
 
 ## The name
 
-*He is **a baby**.*
+Still **5:13**: *He is **a baby**.*
 
 The Greek is **nepios** — infant, literally *non-speaking*.
 
@@ -31,14 +31,14 @@ Galatians 4:1–3.
 
 ## The other diet
 
-*Food you have to chew belongs to **grown men and women**.*
+**5:14** *Food you have to chew belongs to **grown men and women**.*
 
 The Greek is **teleion** — the mature, the complete. From **telos**, the end a thing is
 aiming at.
 
 ## The definition
 
-*People who have **worked their senses hard enough, and long enough**, to **tell what is
+The rest of **5:14**: *People who have **worked their senses hard enough, and long enough**, to **tell what is
 good from what is evil**.*
 
 The Greek is **gegumnasmena** — trained, exercised. From the root of *gymnasium*.
@@ -62,14 +62,14 @@ repeatedly until they can tell the difference without stopping to think.
 
 ## The reproach
 
-*By this time **you ought to be the ones teaching**.*
+**5:12** *By this time **you ought to be the ones teaching**.*
 
-Verse 12, and the diagnosis is that they had gone backwards: *you have come to have need
+The diagnosis is that they had gone backwards: *you have come to have need
 of milk*.
 
 ## What the writer does about it
 
-*Therefore, **leaving the discussion of the elementary principles of Christ, let us go on to
+**6:1** *Therefore, **leaving the discussion of the elementary principles of Christ, let us go on to
 perfection**.*
 
 The Greek for *perfection* is **teleioteta** — the noun of the word he has just used for

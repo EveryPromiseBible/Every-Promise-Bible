@@ -3,24 +3,24 @@ key: Hebrews 5:9–10
 title: "Carried all the way through to the finish"
 sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses that finish one of the hardest paragraphs in the letter.
 
 ## What comes before
 
-*Who, in the days of His flesh, when He had offered up **prayers and supplications, with
+**5:7** *Who, in the days of His flesh, when He had offered up **prayers and supplications, with
 vehement cries and tears** to Him who was able to save Him from death, and was heard
 because of His godly fear.*
 
-*Though He was a Son, yet **He learned obedience by the things which He suffered**.*
+**5:8** *Though He was a Son, yet **He learned obedience by the things which He suffered**.*
 
 Gethsemane, in the writer's account of it.
 
 ## The completion
 
-*And when He had been **carried all the way through to the finish**.*
+**5:9** *And when He had been **carried all the way through to the finish**.*
 
 The Greek is **teleiotheis** — perfected, brought to the end, completed.
 
@@ -32,7 +32,7 @@ way through the experience.
 
 ## What He became
 
-*He became **the reason everyone who obeys Him is saved**, and **saved forever**.*
+The rest of **5:9**: *He became **the reason everyone who obeys Him is saved**, and **saved forever**.*
 
 The Greek is *the author of eternal salvation* — **aitios**, the cause, the responsible
 party.
@@ -41,7 +41,7 @@ party.
 
 ## Who is named
 
-*God Himself **named Him High Priest** — Melchizedek's kind of priest.*
+**5:10** *God Himself **named Him High Priest** — Melchizedek's kind of priest.*
 
 The Greek is **prosagoreutheis** — designated, addressed by a title. It occurs once in
 the New Testament.
@@ -71,7 +71,7 @@ oath and holds it *forever*.
 
 ## What the tears have to do with the priesthood
 
-The writer's argument earlier in the chapter: *for every high priest taken from among men
+The writer's argument earlier in the chapter, **5:1–2**: *for every high priest taken from among men
 is appointed for men… **he can have compassion on those who are ignorant and going
 astray, since he himself is also subject to weakness**.*
 
@@ -87,8 +87,8 @@ sin.* See the note on Hebrews 4:14–16.
 *The author of eternal salvation to all who **obey** Him* is a phrase that has frightened people
 unnecessarily, and the letter itself defines the word two chapters earlier.
 
-Asking who was shut out of the land, the writer says *those who **did not obey***, and then in the
-very next sentence restates it: *so we see that they could not enter in **because of unbelief***. The
+Asking who was shut out of the land, the writer says (**3:18**) *those who **did not obey***, and then in the
+very next sentence restates it (**3:19**): *so we see that they could not enter in **because of unbelief***. The
 same people, the same failure, and he swaps the two words as equivalents.
 
 The disobedience Hebrews is worried about is refusing to believe a promise. So the obedience that
