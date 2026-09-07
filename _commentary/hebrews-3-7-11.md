@@ -3,14 +3,14 @@ key: Hebrews 3:7–11
 title: "Today, if you hear His voice"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-12
+updated: 2026-09-07
 ---
 
 The writer quotes Psalm 95 in full, and attributes it to the Holy Spirit.
 
 ## Who is speaking
 
-*So — and **this is the Holy Spirit speaking**.*
+**3:7** *So — and **this is the Holy Spirit speaking**.*
 
 David wrote the psalm. The writer of Hebrews attributes it to the Spirit, in the present
 tense.
@@ -19,7 +19,7 @@ He does the same in chapter 10 with Jeremiah. See the note on Hebrews 10:15–17
 
 ## The word
 
-*"**Today**, if you hear His voice."*
+Still **3:7**: *"**Today**, if you hear His voice."*
 
 The whole argument of the next two chapters hangs on this word.
 
@@ -29,13 +29,13 @@ note on Hebrews 4:8–11.
 
 ## The warning
 
-*"**Do not let your hearts turn to stone**."*
+**3:8** *"**Do not let your hearts turn to stone**."*
 
 The Greek is **skleruno** — to harden. The root of *sclerosis*.
 
 ## The place
 
-*"The way they did when they **pushed Him to it**, out in the desert **on the day they put
+The rest of **3:8**: *"The way they did when they **pushed Him to it**, out in the desert **on the day they put
 Him on trial**."*
 
 Two Hebrew place names underlie this: **Meribah**, contention, and **Massah**, testing. See
@@ -46,7 +46,7 @@ stones.
 
 ## The charge
 
-*"That was where your ancestors **tried Me, and tested Me, and watched what I did for forty
+**3:9** *"That was where your ancestors **tried Me, and tested Me, and watched what I did for forty
 years**."*
 
 The Hebrew is *proved Me, and saw My works*.
@@ -55,19 +55,19 @@ They had the evidence. Forty years of it.
 
 ## The verdict
 
-*"So **I grieved over that generation**."*
+**3:10** *"So **I grieved over that generation**."*
 
 The Greek is **prosochthisa** — was grieved, was disgusted with.
 
 ## The diagnosis
 
-*"**Their hearts are always wandering off, and they have never learned My ways**."*
+The rest of **3:10**: *"**Their hearts are always wandering off, and they have never learned My ways**."*
 
 Not His acts — they saw those daily. His ways.
 
 ## The oath
 
-*"And **in My anger I swore an oath: they will never enter My rest**."*
+**3:11** *"And **in My anger I swore an oath: they will never enter My rest**."*
 
 The strongest negative construction in the language.
 

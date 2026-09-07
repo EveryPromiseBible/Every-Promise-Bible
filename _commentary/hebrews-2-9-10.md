@@ -1,14 +1,14 @@
 ---
 key: Hebrews 2:9–10
 title: "But we see Jesus"
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The previous sentence admitted that the world is not under anybody's feet as far as we can tell.
 This one is the answer, and it is four words long.
 
 ## The turn
 
-*What we do see is **Jesus**.*
+**2:9** *What we do see is **Jesus**.*
 
 This is the first time the letter uses the human name on its own. Eight verses of Son, radiance,
 heir, upholder of all things — and then, at the moment the argument touches the visible world going
@@ -18,7 +18,7 @@ We do not yet see everything under man's feet. We see Him.
 
 ## A little lower, for a little while
 
-*He was set **a little under the angels, because He was going to suffer death**.*
+Still **2:9**: *He was set **a little under the angels, because He was going to suffer death**.*
 
 The phrase from the psalm is used again, and now the timing sense of it is doing the work: not
 permanently lower, but lower for a while, and the reason given is a purpose rather than a status. He
@@ -27,7 +27,7 @@ desperately needed done.
 
 ## By God's grace
 
-*So that **by God's grace** He might taste death for every person there is.*
+The end of **2:9**: *So that **by God's grace** He might taste death for every person there is.*
 
 **Chariti theou** — by the grace of God. The cross is not presented here as a transaction God was
 talked into. It is His grace in action, and it is the reason the word *grace* belongs at the centre
@@ -45,7 +45,7 @@ the thing that terrifies the human race, and He did it on behalf of people who h
 
 ## The file-leader
 
-*He brought **the One who leads them out to safety** all the way to completeness by way of
+**2:10** *He brought **the One who leads them out to safety** all the way to completeness by way of
 suffering.*
 
 **Archegos** — the one who goes first: a founder, a pioneer, the man at the head of the column. And
@@ -54,8 +54,8 @@ suffering.*
 Nothing morally deficient was being fixed. He was being qualified — by going down the road first,
 under the conditions, so that nobody following Him could reach a place He had not already been.
 
-*Bringing many sons to glory.* The destination is stated before the suffering is described, and the
-number is *many*.
+Earlier in the same verse: *bringing many sons to glory.* The destination is stated before the
+suffering is described, and the number is *many*.
 
 > **The one thing you can actually see.** Everything else in your field of view can argue against
 > Psalm 8, and the writer agrees with you about that. Then he points: *we see Jesus*, crowned, in

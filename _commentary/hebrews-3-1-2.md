@@ -4,14 +4,14 @@ title: "The High Priest of the faith we own out loud"
 sources:
   - 2019-04-28 the-key-to-live-blessed
   - 2026-03-08 set-apart-for-holiness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses, and the title given to Jesus in them is unusual.
 
 ## What the readers are called
 
-*Brothers **set apart as holy**, sharing in **a call that came down from
+**3:1** *Brothers **set apart as holy**, sharing in **a call that came down from
 heaven**.*
 
 Before anything is asked of them, two things are said about them. They are holy,
@@ -22,7 +22,7 @@ used later of *partakers of Christ*.
 
 ## The instruction
 
-*Think hard about **Christ Jesus**.*
+Still **3:1**: *Think hard about **Christ Jesus**.*
 
 The Greek is **katanoeo** — to fix the mind on, to observe closely, to consider
 attentively. It is the word used of Peter looking into the tomb.
@@ -32,7 +32,7 @@ carefully.
 
 ## The two titles
 
-*The One God sent* — **apostolos**, the sent one. The only time in the New
+Still **3:1**: *The One God sent* — **apostolos**, the sent one. The only time in the New
 Testament the word is applied to Jesus.
 
 *The **High Priest** of the faith we own out loud.*
@@ -64,16 +64,16 @@ holding. It is *He who promised is faithful.* See the note on Hebrews 4:14–16.
 
 ## Faithful as Moses was
 
-*He was faithful to the God who appointed Him, **just as Moses was faithful in all
+**3:2** *He was faithful to the God who appointed Him, **just as Moses was faithful in all
 God's house**.*
 
 Moses is not disparaged. He is called faithful in the same clause.
 
-And then the argument turns on a distinction: *this One has been counted worthy of
+And then the argument turns on a distinction, **3:3**: *this One has been counted worthy of
 more glory than Moses, inasmuch as He who built the house has more honour than the
 house.* Moses was faithful **in** the house, as a servant. Christ is faithful
 **over** it, as a Son.
 
-> **Who "the house" is.** *Whose house we are, if we hold fast the confidence and
+> **Who "the house" is.** **3:6**: *Whose house we are, if we hold fast the confidence and
 > the rejoicing of the hope firm to the end.* The letter has just called them holy
 > brothers, and now it calls them the building.

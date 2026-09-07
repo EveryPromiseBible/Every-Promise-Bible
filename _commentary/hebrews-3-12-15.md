@@ -4,14 +4,14 @@ title: "While there is still a Today"
 sources:
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2021-02-28 prophetic-hope-for-the-future
-updated: 2026-08-28
+updated: 2026-09-07
 ---
 
 The application of the psalm, and the instruction in it is about each other.
 
 ## The warning
 
-*Watch out, brothers, that **not one of you turns out to have a heart gone bad and
+**3:12** *Watch out, brothers, that **not one of you turns out to have a heart gone bad and
 unbelieving**.*
 
 The Greek is **kardia ponera apistias** — an evil heart of unbelief.
@@ -21,7 +21,7 @@ he puts it in the same phrase as the badness.
 
 ## The direction
 
-*A heart that **walks away from the living God**.*
+The rest of **3:12**: *A heart that **walks away from the living God**.*
 
 The Greek is **apostenai** — to stand off, to withdraw. The root of *apostasy*.
 
@@ -29,7 +29,7 @@ The image is of stepping back rather than of falling.
 
 ## The instruction
 
-*Keep at each other **every single day**.*
+**3:13** *Keep at each other **every single day**.*
 
 The Greek is **parakaleite** — exhort, encourage, urge alongside. It is from the same root
 as **parakletos**, the Helper. See the note on John 14:15–17.
@@ -44,13 +44,13 @@ Hebrews 10:23–25.
 
 ## The window
 
-*For as long as **there is still a Today to say it in**.*
+Still **3:13**: *For as long as **there is still a Today to say it in**.*
 
 The word from the psalm, turned into a deadline.
 
 ## The reason
 
-*So that **none of you gets hardened by sin and its lying**.*
+The end of **3:13**: *So that **none of you gets hardened by sin and its lying**.*
 
 The Greek is **apate tes hamartias** — the deceitfulness of sin.
 
@@ -61,7 +61,7 @@ through it killed me.* See the note on Romans 7:9–12.
 
 ## The claim
 
-*We have **come to share in Christ**.*
+**3:14** *We have **come to share in Christ**.*
 
 The Greek is **metochoi** — partakers, sharers. The word is used earlier in the chapter of
 *partakers of the heavenly calling*.
@@ -70,7 +70,7 @@ Perfect tense: we have become and remain.
 
 ## The condition
 
-*If we **hold what we were sure of at the start firmly to the finish**.*
+The rest of **3:14**: *If we **hold what we were sure of at the start firmly to the finish**.*
 
 The Greek is *the beginning of our confidence steadfast to the end*.
 
@@ -81,7 +81,7 @@ not setting a finish a partaker could fail to cross.
 
 ## The quotation again
 
-*As long as it is still being said: "**Today, if you hear His voice, do not let your hearts
+**3:15** *As long as it is still being said: "**Today, if you hear His voice, do not let your hearts
 turn to stone**."*
 
 The writer repeats the psalm's opening for the second of three times.

@@ -12,7 +12,7 @@ sources:
   - 2025-06-22 no-more-fear-of-death
   - 2026-03-01 silence-the-enemys-accusations
   - 2026-03-08 set-apart-for-holiness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 This is one of the plainest statements in the New Testament about why the
@@ -21,11 +21,11 @@ or example.
 
 ## The reason given
 
-*Since the children are made of flesh and blood, He took on the same flesh and
+**2:14** *Since the children are made of flesh and blood, He took on the same flesh and
 blood Himself* — and then a purpose clause, which is the point of the sentence:
 
 - **so that by dying He could break the one who held the power of death**
-- **and set free the people who had spent their whole lives as slaves because
+- (**2:15**) **and set free the people who had spent their whole lives as slaves because
   they were afraid to die**
 
 He became human in order to die. Not primarily to teach, not to demonstrate. The
@@ -45,7 +45,7 @@ hands and he was left with nothing to hold over anybody.
 
 ## The slavery is a fear, not a fate
 
-Look closely at what the passage says people were enslaved by. Not death. **Fear
+**2:15** — look closely at what the passage says people were enslaved by. Not death. **Fear
 of death** — and *their whole lives*, which is the phrase that gives it away.
 
 The slavery being described is not what happens at the end. It is what fear of
@@ -58,7 +58,7 @@ treats the cross as the thing that unlocks it.
 The last line uses a vivid verb — reaching out and seizing, taking a grip on. It
 is used elsewhere of catching hold of someone who is sinking.
 
-*It is not angels He takes hold of; it is Abraham's children.* The writer is
+**2:16** *It is not angels He takes hold of; it is Abraham's children.* The writer is
 answering an unspoken question about why the rescue took the form it did. It took
 that form because of who was being grabbed.
 

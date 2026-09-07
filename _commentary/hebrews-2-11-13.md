@@ -3,14 +3,14 @@ key: Hebrews 2:11–13
 title: Not ashamed to call them brothers
 sources:
   - 2026-03-08 set-apart-for-holiness
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Three quotations are produced to prove one point: He says *brothers* about them.
 
 ## The common origin
 
-*The One who makes them holy and the ones being made holy **all come from a single source**.*
+**2:11** *The One who makes them holy and the ones being made holy **all come from a single source**.*
 
 The Greek is **ex henos pantes** — of one, all.
 
@@ -24,7 +24,7 @@ Active and passive of the same verb. One does it; the others are having it done.
 
 ## The conclusion
 
-*That is why **He is not embarrassed to call them brothers**.*
+The rest of **2:11**: *That is why **He is not embarrassed to call them brothers**.*
 
 The Greek is **ouk epaischunetai** — He is not ashamed.
 
@@ -36,7 +36,7 @@ The letter does not say it would be absurd for Him to be ashamed. It says He is 
 
 ## The first quotation
 
-*"**I will tell My brothers Your name; in the middle of the gathered assembly I will sing Your
+**2:12** *"**I will tell My brothers Your name; in the middle of the gathered assembly I will sing Your
 praise**."*
 
 Psalm 22. The psalm that opens *My God, My God, why have You forsaken Me?* See the note on
@@ -58,7 +58,7 @@ them.
 
 ## The second quotation
 
-*"**I will put My trust in Him**."*
+**2:13** *"**I will put My trust in Him**."*
 
 From Isaiah 8, in the Septuagint. A prophet's line in a time when the nation would not listen.
 
@@ -69,7 +69,7 @@ them, which is the argument.
 
 ## The third
 
-*"**Here I am, and the children God gave Me**."*
+Still **2:13**: *"**Here I am, and the children God gave Me**."*
 
 The next verse of Isaiah 8. Given as spoken by Him.
 
@@ -99,7 +99,7 @@ The Greek is **katargēsē** — render inoperative, put out of work.
 
 ## Why He had to be a brother
 
-*Therefore, in all things He had to be made like His brethren, that He might be **a merciful and
+**2:17** *Therefore, in all things He had to be made like His brethren, that He might be **a merciful and
 faithful High Priest**.*
 
 The letter's whole argument for the priesthood runs through the word *brothers*.
@@ -115,8 +115,8 @@ Said about men who had run.
 The reason the writer gives for the lack of shame is one clause: *both **He who sanctifies** and
 **those who are being sanctified** are all of one.*
 
-The sanctifying is His work, not theirs. And the letter says later exactly when it happened: *by
-that will **we have been sanctified** through the offering of the body of Jesus Christ **once for
+The sanctifying is His work, not theirs. And the letter says later exactly when it happened, **10:10**:
+*by that will **we have been sanctified** through the offering of the body of Jesus Christ **once for
 all**.* A perfect tense, an aorist offering, and a definite article on *once*.
 
 So the brotherhood is not a compliment paid to promising relatives. He made them holy, at His own
