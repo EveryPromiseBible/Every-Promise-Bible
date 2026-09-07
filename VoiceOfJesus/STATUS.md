@@ -184,6 +184,40 @@ Re-verified after the fix: still 433/433 verses, chapter counts unchanged;
 deliberate (the categories above); re-spliced into `data/jesus.js` and all
 41 Jesus Bible destinations render live with zero errors.
 
+## A second pass found: dangling "Who/Whom" left a first-person antecedent
+
+Requested by the user as a further read-through after the we/us fix.
+Scanned every verse across all three books that opens with "Who," "Whom," or
+"Which" (the KJV's own device for continuing a thought across a verse
+break) and checked whether its antecedent — the previous verse's final
+noun — had been converted to first person. Three had: **Romans 3:25**
+("Whom my Father hath set forth..." following 3:24's "...redemption that is
+in **me**") and **Romans 5:2** ("By whom also ye have access..." following
+5:1's "...through **me**, your Lord") both opened a new verse-paragraph with
+a third-person relative pronoun pointing back at a first-person "me" one
+verse up — grammatically broken once read as separate paragraphs, since
+"whom" has no visible antecedent of its own person. **Galatians 1:4** had
+the same shape ("Who gave myself..." following 1:3's "...and from **me**")
+though there the internal wording ("myself," "I might deliver") was already
+first person, just introduced by a third-person "Who."
+
+Fixed by restructuring each into a self-contained first-person clause
+instead: 3:25 → *"My Father hath set forth me to be a propitiation..."*
+(active SVO, matches Towns' own paraphrase of the same verses — *"My Father
+sent Me to take the punishment for your sins"*); 5:2 → *"By **me** also ye
+have access..."* (one-word swap); Galatians 1:4 → *"**I** gave myself for
+your sins..."* (one-word swap). Checked every other verse-initial
+"Who/Whom/Which" in all three books (18 more instances) — every other one's
+antecedent was already third-person (a named person, "they," "the
+Gentiles," a title like "my Father"), so no further mismatch exists.
+
+Also re-scanned all three books for "is dead"/"am dead" and the same family
+of idioms ("is/am come, risen, gone, fled, departed") that caused the
+Galatians 2:21 error: every remaining instance either refers to someone
+other than Jesus (correctly left alone) or refers to Jesus's own
+resurrection, which is genuinely true of Him — no further instance of a
+false present-state claim.
+
 ## Epistle rules (Galatians) — confirms Romans, adds two patterns
 
 Read against Elmer Towns' actual Galatians chapter (his book treats the

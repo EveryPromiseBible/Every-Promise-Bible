@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## 2026-09-06 — A second Jesus Bible pass: three dangling "Who/Whom" references fixed
+
+A further read-through (user-requested, following the "we/us" fix above) checked every verse across
+Mark, Romans, and Galatians that opens with "Who," "Whom," or "Which" — the KJV's own device for
+continuing a thought across a verse break — for cases where the antecedent one verse up had been
+converted to first person, leaving a third-person pronoun with nothing but "me" to point back at.
+Found three: Romans 3:25 ("Whom my Father hath set forth..." after 3:24's "...redemption that is in
+me"), Romans 5:2 ("By whom also ye have access..." after 5:1's "...through me, your Lord"), and
+Galatians 1:4 ("Who gave myself..." after 1:3's "...and from me"). Fixed by restructuring each into a
+self-contained first-person clause — 3:25 now reads "My Father hath set forth me to be a
+propitiation...", matching Elmer Towns' own paraphrase of the same verses ("My Father sent Me to take
+the punishment for your sins"). Checked all 18 other verse-initial "Who/Whom/Which" instances in the
+three books; every other one's antecedent was already third-person, so no further mismatch exists.
+
+Also re-scanned all three books for the "is dead"/"am dead" family of idioms that caused the earlier
+Galatians 2:21 error (is/am + come, risen, gone, fled, departed) — every remaining instance is either
+about someone other than Jesus or about His own genuine resurrection, so no further false-state claim
+survives.
+
+Re-spliced into `data/jesus.js`; all three books' verse counts unchanged (678/433/149), all 41 Jesus
+Bible destinations render live with zero errors.
+
 ## 2026-09-06 — Fixed a theological gap in the Jesus Bible's Romans: collective "we" wrongly included Jesus
 
 A full theological review of all three finished Jesus Bible books (Mark, Romans, Galatians), requested
