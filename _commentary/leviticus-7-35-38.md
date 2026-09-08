@@ -3,34 +3,34 @@ key: Leviticus 7:35–38
 title: The list of six
 sources:
   - 2021-08-29 secrets-of-the-peace-offering
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 The end of the sacrificial manual, and it signs off with an inventory.
 
 ## The portion
 
-*This is **the portion set apart for Aaron and his sons** from the offerings made by fire.*
+**7:35** *This is **the portion set apart for Aaron and his sons** from the offerings made by fire.*
 
 The Hebrew is **mishchat** — a word connected to anointing. Some read it as *the anointing
 portion*: what came to them by virtue of being anointed.
 
 ## The date it started
 
-*Given on **the day they were presented to serve the LORD as priests**. On the day they were
+Still **7:35**: *Given on **the day they were presented to serve the LORD as priests**.* **7:36**: *On the day they were
 anointed.*
 
 The income began with the office. The oil and the portion are attached to the same day.
 
 ## The duration
 
-*For **every generation to come**.*
+Still **7:36**: *For **every generation to come**.*
 
 The Hebrew is **choq olam** — a perpetual statute, and it recurs through the whole book.
 
 ## The list
 
-*The **burnt offering**, the **grain offering**, the **sin offering**, the **guilt offering**,
+**7:37** *The **burnt offering**, the **grain offering**, the **sin offering**, the **guilt offering**,
 the **ordination offering**, and the **peace offering**.*
 
 Six named, and the peace offering is last.
@@ -66,11 +66,11 @@ not explain why.
 
 ## Where the instructions came from
 
-*The commands the LORD gave Moses **on Mount Sinai**.*
+**7:38** *The commands the LORD gave Moses **on Mount Sinai**.*
 
 ## Where they were given to the people
 
-*There in **the Wilderness of Sinai**.*
+Still **7:38**: *There in **the Wilderness of Sinai**.*
 
 Two locations in one sentence — the mountain where Moses received them and the desert floor
 where he passed them on.
