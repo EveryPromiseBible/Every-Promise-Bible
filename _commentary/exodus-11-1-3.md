@@ -5,7 +5,7 @@ sources:
   - 2018-08-26 gods-plan-to-prosper-you-in-the-end-times
   - 2019-04-14 positioned-for-his-provision
   - 2020-04-05 how-to-be-unshakable-in-times-of-crisis
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 
 Three verses of instruction between the darkness and the last plague, and the
@@ -35,7 +35,7 @@ The favour is not attributed to Israel's charm or to Egyptian generosity. The
 text says God had gone ahead of the request and changed how these people saw
 their slaves.
 
-And then a line about Moses himself: *a great man in that land, respected by
+And then a line about Moses himself, **11:3**: *a great man in that land, respected by
 Pharaoh's officials and by the people alike*. The man who had fled Egypt as a
 wanted murderer is, by the end, the most respected person in it.
 
@@ -44,17 +44,17 @@ wanted murderer is, by the end, the most respected person in it.
 They went in as guests, were made slaves, worked four hundred years unpaid, and walked out
 carrying the silver of the people who had held them.
 
-*He also brought them out with **silver and gold**, and there was none feeble among His
+**Psalm 105:37**: *He also brought them out with **silver and gold**, and there was none feeble among His
 tribes.*
 
 Two things in one verse of the psalm: paid, and healthy. Neither was earned on the way out.
 
 ## Where the pattern goes
 
-Paul says it of the cross: *having **disarmed principalities and powers**, He made a public
+Paul says it of the cross, **Colossians 2:15**: *having **disarmed principalities and powers**, He made a public
 spectacle of them, **triumphing over them** in it.*
 
-And: *when He ascended on high, **He led captivity captive**, and **gave gifts to men**.*
+And, **Ephesians 4:8**: *when He ascended on high, **He led captivity captive**, and **gave gifts to men**.*
 
 The same shape at a larger scale — a captivity ended, the captor stripped, and the freed people
 leaving with their hands full of what somebody else paid for.
