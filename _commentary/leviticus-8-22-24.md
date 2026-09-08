@@ -3,7 +3,7 @@ key: Leviticus 8:22–24
 title: Ear, thumb, and toe
 sources:
   - 2026-03-01 silence-the-enemys-accusations
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 Three points of blood on a priest, and each one marks a place where a man makes contact with the
@@ -11,7 +11,7 @@ world.
 
 ## The animal
 
-*Then Moses presented **the second ram, the ram of ordination**.*
+**8:22** *Then Moses presented **the second ram, the ram of ordination**.*
 
 The Hebrew is **eil hammillu'im** — the ram of fillings.
 
@@ -25,7 +25,7 @@ This is the third animal of the day, and the only one whose blood goes on a pers
 
 ## The identification
 
-*Aaron and his sons **laid their hands on its head**.*
+Still **8:22**: *Aaron and his sons **laid their hands on its head**.*
 
 The Hebrew is **samak** — to lean, to press down with weight.
 
@@ -33,7 +33,7 @@ Not a touch. The full weight of the man goes onto the animal.
 
 ## The first mark
 
-*Moses took some of its blood and put it on **the lobe of Aaron's right ear**.*
+**8:23** *Moses took some of its blood and put it on **the lobe of Aaron's right ear**.*
 
 The Hebrew is **tenuk ozen** — the lobe, the extremity.
 
@@ -41,11 +41,11 @@ The Hebrew is **tenuk ozen** — the lobe, the extremity.
 
 Hears. The first faculty consecrated in a priest is the one he receives with.
 
-*Faith comes by hearing.* And before any service is required, the sense that takes instruction in.
+**Romans 10:17**: *Faith comes by hearing.* And before any service is required, the sense that takes instruction in.
 
 ## The second
 
-*On **the thumb of his right hand**.*
+**8:23** again: *On **the thumb of his right hand**.*
 
 **Bohen yado** — the thumb.
 
@@ -53,7 +53,7 @@ The digit that makes a hand able to grip. Without it, the hand cannot work.
 
 ## The third
 
-*And on **the big toe of his right foot**.*
+**8:23** again: *And on **the big toe of his right foot**.*
 
 **Bohen raglo** — the same word for thumb, applied to the foot.
 
@@ -71,7 +71,7 @@ All three are the right. The side of strength and precedence.
 
 ## The sons
 
-*He brought Aaron's sons close and **did the same for each of them**.*
+**8:24** *He brought Aaron's sons close and **did the same for each of them**.*
 
 The Hebrew is **vayaqrev** — he brought near.
 
@@ -79,7 +79,7 @@ No difference between the high priest and the rest. Each man gets the same three
 
 ## The rest of the blood
 
-*Then he **splashed the rest of the blood against the altar on every side**.*
+Still **8:24**: *Then he **splashed the rest of the blood against the altar on every side**.*
 
 Most of it does not go on the men.
 
@@ -99,7 +99,7 @@ A priest being installed and a leper being restored are marked the same way.
 
 ## The seven days
 
-*You shall not go outside the door of the tabernacle of meeting for seven days.*
+**8:33**: *You shall not go outside the door of the tabernacle of meeting for seven days.*
 
 The ordination takes a week, and on the eighth day the glory appears and fire comes out from before
 the LORD. See the note on Leviticus 9:22–24.
