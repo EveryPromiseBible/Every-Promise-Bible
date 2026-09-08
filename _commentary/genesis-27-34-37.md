@@ -3,14 +3,14 @@ key: Genesis 27:34–37
 title: "What is there left that I can do for you?"
 sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The blessing has already gone, and this is the sound of finding out.
 
 ## The cry
 
-*He let out **a loud and bitter cry**.*
+**27:34** *He let out **a loud and bitter cry**.*
 
 The Hebrew is *a great and exceedingly bitter cry*.
 
@@ -19,13 +19,13 @@ diligently with tears**.*
 
 ## What he asks for
 
-*"**Bless me — me too, my father!**"*
+The rest of **27:34**: *"**Bless me — me too, my father!**"*
 
 Not the birthright, which he had already sold for stew. The blessing.
 
 ## Isaac's answer
 
-*"**Your brother came deceitfully and took your blessing**."*
+**27:35** *"**Your brother came deceitfully and took your blessing**."*
 
 Isaac names it accurately. He does not defend Jacob and does not soften it.
 
@@ -38,7 +38,7 @@ Hebrews 11:17–22.
 
 ## Esau's complaint
 
-*"**Isn't he rightly named Jacob?** This is **the second time** he has taken advantage of
+**27:36** *"**Isn't he rightly named Jacob?** This is **the second time** he has taken advantage of
 me. **He took my birthright, and now he has taken my blessing**."*
 
 **Yaaqov** — heel-grabber, supplanter. Esau turns the name into a verb.
@@ -48,11 +48,11 @@ of red stew, and Genesis says he *despised* it.
 
 ## The plea
 
-*"**Haven't you saved even one blessing for me?**"*
+The end of **27:36**: *"**Haven't you saved even one blessing for me?**"*
 
 ## What was given away
 
-*"I have made him **lord over you**, and I have given him **all his relatives as
+**27:37** *"I have made him **lord over you**, and I have given him **all his relatives as
 servants**, and I have **sustained him with grain and new wine**."*
 
 Three items, and Isaac lists them as things already handed over:
@@ -71,7 +71,7 @@ note on Genesis 14:17–20.
 
 ## The question at the end
 
-*"So **what is there left that I can do for you, my son?**"*
+The rest of **27:37**: *"So **what is there left that I can do for you, my son?**"*
 
 It is a real question, and there is no answer to it. The blessing was one thing, and it
 had been spoken.

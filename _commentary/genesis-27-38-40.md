@@ -3,7 +3,7 @@ key: Genesis 27:38–40
 title: "Away from the dew of heaven"
 sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Esau asks a second time, and what he gets back is the first blessing with the key word
@@ -11,11 +11,11 @@ reversed.
 
 ## The question
 
-*"**Do you have only one blessing**, my father? Bless me too, my father!"*
+**27:38** *"**Do you have only one blessing**, my father? Bless me too, my father!"*
 
 ## The weeping
 
-*And **Esau wept aloud**.*
+The rest of **27:38**: *And **Esau wept aloud**.*
 
 The Hebrew is *Esau lifted up his voice and wept*. It is the third description of his
 crying in five verses.
@@ -29,7 +29,7 @@ Three things: dew, fatness, grain and wine.
 
 ## What Esau is given
 
-*"Your dwelling will be **away from the richness of the earth, away from the dew of
+**27:39** *"Your dwelling will be **away from the richness of the earth, away from the dew of
 heaven above**."*
 
 The same two nouns, in reverse order, with one preposition changed.
@@ -48,7 +48,7 @@ Edom is the country south-east of the Dead Sea — rock, cliffs, and very little
 
 ## The sword
 
-*"**You will live by the sword**."*
+**27:40** *"**You will live by the sword**."*
 
 Esau's descendants become Edom, and the Old Testament records the relationship: refusing
 Israel passage in Numbers, subdued by David, in revolt under Joram, condemned in Obadiah
@@ -59,13 +59,13 @@ Jacob's line produces the Messiah.
 
 ## The service
 
-*"And **you will serve your brother**."*
+Still **27:40**: *"And **you will serve your brother**."*
 
 The oracle before they were born: *the older shall serve the younger.*
 
 ## The one thing given to him
 
-*"**But when you grow restless, you will throw his yoke from off your neck**."*
+The end of **27:40**: *"**But when you grow restless, you will throw his yoke from off your neck**."*
 
 The Hebrew for *grow restless* is to become restive, to roam, to break loose.
 
@@ -83,7 +83,7 @@ Abraham*.
 
 ## What Esau does next
 
-*"**The days of mourning for my father are at hand; then I will kill my brother Jacob**."*
+**27:41**: *"**The days of mourning for my father are at hand; then I will kill my brother Jacob**."*
 
 Rebekah hears of it and sends Jacob to Haran, telling Isaac it is about finding a wife.
 She says *stay with him a few days*.

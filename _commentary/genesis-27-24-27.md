@@ -4,7 +4,7 @@ title: "The smell of a field the LORD has blessed"
 sources:
   - 2020-03-15 dwell-safely-in-the-secret-place
   - 2021-08-22 greater-shalom-and-security
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 A blind old man checks four times and is fooled by the fifth sense.
@@ -13,27 +13,27 @@ A blind old man checks four times and is fooled by the fifth sense.
 
 Isaac tests everything he can.
 
-**Hearing** — *the voice is Jacob's voice.* He gets it right and does not act on it.
+**Hearing**, **27:22**: *the voice is Jacob's voice.* He gets it right and does not act on it.
 
-**Touch** — Rebekah had put the goatskins on Jacob's hands and neck, and *the hands
+**Touch** — Rebekah had put the goatskins on Jacob's hands and neck, and, still **27:22**: *the hands
 are the hands of Esau.*
 
-**Taste** — *bring me some of your game to eat.* Two kids from the flock, cooked the
+**Taste**, **27:25**: *bring me some of your game to eat.* Two kids from the flock, cooked the
 way Isaac liked venison.
 
-**Speech** — *"Are you really my son Esau?" "I am."*
+**Speech**, **27:24**: *"Are you really my son Esau?" "I am."*
 
 Four tests, and Jacob passes them with a lie, a costume and his mother's cooking.
 
 ## The kiss
 
-*"**Come here, my son, and kiss me.**" So he went and kissed him.*
+**27:26–27**: *"**Come here, my son, and kiss me.**" So he went and kissed him.*
 
 The fifth test, and Isaac may not have known he was running one.
 
 ## What settled it
 
-*And **when Isaac caught the scent of his clothes**, he blessed him.*
+**27:27** *And **when Isaac caught the scent of his clothes**, he blessed him.*
 
 Rebekah had put *the choice clothes of her elder son Esau, which were with her in the
 house*, on Jacob.
@@ -42,7 +42,7 @@ Esau's clothes — a hunter's, worn outdoors, in the open country.
 
 ## The line
 
-*"Ah, **the smell of my son is like the smell of a field the LORD has blessed**."*
+The rest of **27:27**: *"Ah, **the smell of my son is like the smell of a field the LORD has blessed**."*
 
 That is what tips it. Not evidence, not proof — a smell.
 
@@ -59,7 +59,7 @@ Isaac blesses what he can smell, and what he can smell is the elder brother's co
 
 ## What it cost
 
-Esau's cry when he finds out: *"Bless me — me also, O my father!"* And *he cried with
+Esau's cry when he finds out, **27:34**: *"Bless me — me also, O my father!"* And *he cried with
 an exceedingly great and bitter cry.*
 
 Jacob runs that night, and is away twenty years. He never sees his mother again;
@@ -70,14 +70,14 @@ though he sought it diligently with tears.*
 
 ## What Isaac had been told before the boys were born
 
-*"**The older shall serve the younger.**"*
+**Genesis 25:23**: *"**The older shall serve the younger.**"*
 
 Rebekah had it from the LORD during the pregnancy. The blessing went where it had been
 said it would go, and the family tore itself apart getting it there.
 
 ## What Isaac does afterwards
 
-He trembles violently — *Isaac trembled exceedingly* — and then says: *I have blessed
+He trembles violently, **27:33**: *Isaac trembled exceedingly* — and then says: *I have blessed
 him, **and indeed he shall be blessed**.*
 
 He does not withdraw it. Whatever a blessing was in that world, once said it stood.

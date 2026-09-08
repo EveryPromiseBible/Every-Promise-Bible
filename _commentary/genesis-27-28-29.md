@@ -7,7 +7,7 @@ sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-05-31 activate-the-gifts-of-the-spirit
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Isaac blesses the son in front of him, believing he is blessing the other one,
@@ -15,7 +15,7 @@ and the words cannot be taken back.
 
 ## What is asked for
 
-*May God give you the dew of heaven and the richness of the earth — an abundance
+**27:28** *May God give you the dew of heaven and the richness of the earth — an abundance
 of grain and new wine.*
 
 **Dew** first. In a land with no summer rainfall, dew was what kept vines and
@@ -42,7 +42,7 @@ something, and why nothing can be done afterward.
 
 ## And then rule
 
-*May nations serve you… be lord over your brothers… may those who curse you be
+**27:29**: *May nations serve you… be lord over your brothers… may those who curse you be
 cursed, and those who bless you be blessed.*
 
 The last line is the promise made to Abraham, handed down. Isaac is passing on
@@ -51,7 +51,7 @@ the covenant, not merely wishing his son well.
 ## The deception
 
 Jacob is wearing Esau's clothes with goatskins on his hands and neck, and he
-lies twice — *I am Esau your firstborn*, and then *the LORD your God gave me
+lies twice — **27:19**: *I am Esau your firstborn*, and then, **27:20**: *the LORD your God gave me
 success*.
 
 Genesis does not hide any of it, and Jacob spends twenty years in exile as a
@@ -60,7 +60,7 @@ note on Genesis 29:21–25.
 
 ## What happens when Isaac finds out
 
-*Isaac trembled violently* — and then says something remarkable: *I blessed him,
+**27:33**: *Isaac trembled violently* — and then says something remarkable: *I blessed him,
 and indeed he will be blessed.*
 
 He does not revoke it. Not because he could not have tried, but because he
