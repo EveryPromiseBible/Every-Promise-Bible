@@ -1,20 +1,20 @@
 ---
 key: Genesis 30:31–36
 title: Give me nothing at all
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 Jacob is offered a blank cheque by his father-in-law and asks for the animals nobody wants.
 
 ## The offer
 
-*"**What shall I give you?**" Laban asked.*
+**30:31** *"**What shall I give you?**" Laban asked.*
 
 Twenty years of work have made Laban rich — he says so himself: *I have learned by experience
 that the LORD has blessed me for your sake*. He is willing to name a price.
 
 ## The answer
 
-*"**Give me nothing at all**," Jacob said.*
+The rest of **30:31**: *"**Give me nothing at all**," Jacob said.*
 
 The Hebrew is *you shall not give me anything*.
 
@@ -24,7 +24,7 @@ note on Genesis 14:21–24.
 
 ## What he asks for instead
 
-*"Let me go through all your flock today and **set aside from it every speckled and spotted
+**30:32** *"Let me go through all your flock today and **set aside from it every speckled and spotted
 sheep, every dark lamb, and the spotted and speckled goats** — these will be my wages."*
 
 In the flocks of that region sheep were normally white and goats were normally dark. He is
@@ -36,7 +36,7 @@ He asks to be paid in the animals that would be culled from a breeding programme
 
 Because they are checkable.
 
-*"**So my honesty will speak for me in days to come**: whenever you inspect my wages, any goat
+**30:33** *"**So my honesty will speak for me in days to come**: whenever you inspect my wages, any goat
 that is not speckled or spotted, and any lamb that is not dark, will count as stolen."*
 
 The Hebrew is *my righteousness will answer for me*. He designs the wage so that any dispute
@@ -47,14 +47,14 @@ proposes terms that can be audited at a glance.
 
 ## What Laban does immediately
 
-*But **that very day** Laban removed the male goats that were streaked and spotted… **every one
+**30:35** *But **that very day** Laban removed the male goats that were streaked and spotted… **every one
 that had any white on it** — and all the dark lambs, and **he handed them over to his sons**.*
 
 The deal is struck and the stock is stripped out the same afternoon. Not by Jacob, who had the
 right to it, but by Laban, who takes the whole of the agreed wage out of the flock before
 Jacob can separate it.
 
-*Then he put **a three-day journey** between himself and Jacob.*
+**30:36** *Then he put **a three-day journey** between himself and Jacob.*
 
 Far enough that the two flocks could not mix, and Jacob is left tending plain animals with no
 possible way to breed a marked one.

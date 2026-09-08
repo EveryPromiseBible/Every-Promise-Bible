@@ -3,32 +3,32 @@ key: Genesis 30:25–30
 title: Blessed because of you
 sources:
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The man who wants to leave is the reason the household is rich, and both of them know it.
 
 ## The timing
 
-*After **Rachel had given birth to Joseph**, Jacob said to Laban, "Send me on my way."*
+**30:25** *After **Rachel had given birth to Joseph**, Jacob said to Laban, "Send me on my way."*
 
 The birth of the son he had waited for is the moment he decides to go home.
 
 ## The request
 
-*"Give me **my wives and my children — the ones I worked for** — and let me go."*
+**30:26** *"Give me **my wives and my children — the ones I worked for** — and let me go."*
 
 Fourteen years of labour for two wives, and a further six still to come.
 
 ## The claim
 
-*"**You know how faithfully I have served you**."*
+The end of **30:26**: *"**You know how faithfully I have served you**."*
 
 The Hebrew is **et-avodati asher avadtika** — my service which I have served you.
 
 ## Laban's answer
 
-*"**If I have found favor in your eyes — please stay**."*
+**30:27** *"**If I have found favor in your eyes — please stay**."*
 
 The Hebrew is **im-na matzati chen be'eineika**.
 
@@ -37,7 +37,7 @@ own employee.
 
 ## The admission
 
-*"**I have learned by divination** that **the LORD has blessed me because of you**."*
+The end of **30:27**: *"**I have learned by divination** that **the LORD has blessed me because of you**."*
 
 The Hebrew is **nichashti** — I have divined, or observed omens.
 
@@ -50,7 +50,7 @@ LORD.
 
 ## The promise
 
-*"**Name your wages**," he said, "**and I will pay them**."*
+**30:28** *"**Name your wages**," he said, "**and I will pay them**."*
 
 The Hebrew is **noqvah sekareka alai**.
 
@@ -58,11 +58,11 @@ An open cheque, from a man the story has already shown swapping brides in the da
 
 ## Jacob's answer
 
-*"You know how I have served you, and **how your livestock have fared under my care**."*
+**30:29** *"You know how I have served you, and **how your livestock have fared under my care**."*
 
 ## The arithmetic
 
-*"**What little you had before I came has grown into a great herd**."*
+**30:30** *"**What little you had before I came has grown into a great herd**."*
 
 The Hebrew is **me'at asher-hayah leka lefanai vayifrotz larov** — the little you had before me has
 burst out to abundance.
@@ -71,13 +71,13 @@ burst out to abundance.
 
 ## The reason
 
-*"And **the LORD has blessed you wherever I set my foot**."*
+Still **30:30**: *"And **the LORD has blessed you wherever I set my foot**."*
 
 The Hebrew is **leragli** — at my foot.
 
 ## The turn
 
-*"But now — **when will I do something for my own household**?"*
+The end of **30:30**: *"But now — **when will I do something for my own household**?"*
 
 The Hebrew is **matai e'eseh gam-anoki levetti**.
 

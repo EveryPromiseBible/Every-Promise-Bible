@@ -3,7 +3,7 @@ key: Genesis 30:22–24
 title: God remembered Rachel
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Three verses at the end of a long domestic war, and they are the turning point of Genesis.
@@ -17,12 +17,12 @@ sons and a daughter, named as moves in an argument — *the LORD has looked on m
 *now this time my husband will become attached to me*, *with great wrestlings I have wrestled
 with my sister*.
 
-Rachel had said to Jacob: *give me children, or else I die*. And he had answered angrily:
-*am I in the place of God, who has withheld from you the fruit of the womb?*
+Rachel had said to Jacob, **30:1**: *give me children, or else I die*. And he had answered angrily,
+**30:2**: *am I in the place of God, who has withheld from you the fruit of the womb?*
 
 ## The verb
 
-*Then **God remembered Rachel**.*
+**30:22** *Then **God remembered Rachel**.*
 
 The Hebrew is **zakar**.
 
@@ -34,7 +34,7 @@ Every time it appears, something changes immediately afterwards.
 
 ## The two clauses
 
-*He **listened to her** and **opened her womb**.*
+The rest of **30:22**: *He **listened to her** and **opened her womb**.*
 
 The Hebrew is *God listened to her*, which means she had been asking. None of the praying is
 recorded.
@@ -46,7 +46,7 @@ He opened both, at different times, for different reasons.
 
 ## The first name
 
-*She said, "**God has taken away my disgrace**."*
+**30:23** *She said, "**God has taken away my disgrace**."*
 
 The Hebrew is **asaph** — gathered up, removed. And **cherpah**, reproach.
 
@@ -54,7 +54,7 @@ Barrenness was a public shame, and she names the removal of it before she names 
 
 ## The second name
 
-*She named him **Joseph**, saying, "**May the LORD add to me another son**."*
+**30:24** *She named him **Joseph**, saying, "**May the LORD add to me another son**."*
 
 The Hebrew is **yoseph** — may He add. From **yasaph**.
 
