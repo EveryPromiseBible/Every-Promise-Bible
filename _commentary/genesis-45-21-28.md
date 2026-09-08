@@ -6,7 +6,7 @@ sources:
   - 2020-09-20 the-mystery-of-melchizedek-live-at-hillsong-sydney
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Joseph sends his brothers home loaded with gifts, and the last thing he says to
@@ -14,7 +14,7 @@ them is oddly practical.
 
 ## What each of them got
 
-*To each of them he gave a new set of clothing, but to Benjamin he gave three
+**45:22** *To each of them he gave a new set of clothing, but to Benjamin he gave three
 hundred pieces of silver and five sets of clothing.*
 
 He has just revealed himself and forgiven them outright. Then he hands out
@@ -27,7 +27,7 @@ the whole thing was God's doing.
 
 ## The parting instruction
 
-*"Don't quarrel on the way."*
+**45:24** *"Don't quarrel on the way."*
 
 The Hebrew can mean do not be agitated, or do not fall out with one another. Both
 fit the situation.
@@ -42,20 +42,20 @@ it.
 
 ## What convinced Jacob
 
-*Jacob's heart went numb; he could not believe them.* Words did not do it.
+**45:26**: *Jacob's heart went numb; he could not believe them.* Words did not do it.
 
-*But when he saw the carts Joseph had sent to carry him, the spirit of their
+**45:27**: *But when he saw the carts Joseph had sent to carry him, the spirit of their
 father Jacob revived.* The carts did — physical evidence that somebody in Egypt
 had made arrangements for an old man to travel.
 
 ## What convinced him
 
-*Jacob's heart went numb; **he could not believe them**.*
+**45:26** again: *Jacob's heart went numb; **he could not believe them**.*
 
 Words did not do it. The report was true, delivered by eyewitnesses, and he could not take it
 in.
 
-*But when he saw **the carts Joseph had sent to carry him**, the spirit of their father Jacob
+**45:27** again: *But when he saw **the carts Joseph had sent to carry him**, the spirit of their father Jacob
 revived.*
 
 Physical evidence, sent from the one who was alive, arranged for an old man's body.
@@ -69,7 +69,7 @@ argument, something they could look at.
 
 ## Who is named in the message
 
-*"Don't quarrel on the way."*
+**45:24** again: *"Don't quarrel on the way."*
 
 He has forgiven them outright and then anticipates the argument about who suggested what at
 the pit, and heads it off before they get on the road.
@@ -79,7 +79,7 @@ the pit, and heads it off before they get on the road.
 The one who had most to answer for is named separately, so he could not assume the message was
 for everybody but him.
 
-> **What he says.** *It is enough. My son Joseph is still alive. I will go and see
+> **What he says.** **45:28**: *It is enough. My son Joseph is still alive. I will go and see
 > him before I die.* The Hebrew for *it is enough* is one word — rav, plenty,
 > abundance. He has just been told he owns Egypt's best, and what he says is
 > enough, and then names the only thing he actually wants.
