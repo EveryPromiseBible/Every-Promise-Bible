@@ -3,14 +3,14 @@ key: Genesis 37:1–4
 title: The coat
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Four verses of setup, and every one of them adds a reason for what happens next.
 
 ## The heading
 
-*This is the account of his family.*
+**37:2** *This is the account of his family.*
 
 The Hebrew is **toledot** — generations. Genesis is organised by these headings, ten of them,
 and this is the last.
@@ -20,19 +20,19 @@ Joseph.
 
 ## The age
 
-*Joseph, **seventeen years old**, was tending the flocks with his brothers.*
+Still **37:2**: *Joseph, **seventeen years old**, was tending the flocks with his brothers.*
 
 Seventeen. The number turns up again at the end: Jacob lives *seventeen years* in Egypt.
 
 ## Which brothers
 
-*The sons of **Bilhah and Zilpah**, his father's wives.*
+Still **37:2**: *The sons of **Bilhah and Zilpah**, his father's wives.*
 
 The maids' sons — Dan, Naphtali, Gad and Asher. The lowest-status four.
 
 ## The report
 
-*And Joseph **brought their father a bad report about them**.*
+The end of **37:2**: *And Joseph **brought their father a bad report about them**.*
 
 The Hebrew is **dibbatam ra'ah** — their evil report. The noun means slander or whispering
 elsewhere in Scripture.
@@ -41,21 +41,21 @@ Genesis does not say whether it was true. It says he brought it.
 
 ## The favouritism
 
-*Now **Israel loved Joseph more than all his other sons**.*
+**37:3** *Now **Israel loved Joseph more than all his other sons**.*
 
 Stated flatly. Jacob grew up in a house where his mother preferred him and his father
 preferred Esau, and does the same thing to his own children.
 
 ## The reason given
 
-*Because he was **the child of his old age**.*
+Still **37:3**: *Because he was **the child of his old age**.*
 
 Benjamin is younger. The real reason is upstream: Joseph is Rachel's, and Rachel was the one
 he worked fourteen years for. See the note on Genesis 29:15–20.
 
 ## The coat
 
-*And he made him **a beautiful coat, richly woven**.*
+The end of **37:3**: *And he made him **a beautiful coat, richly woven**.*
 
 The Hebrew is **ketonet passim**. What it means exactly is uncertain — a long-sleeved robe
 reaching to the ankles, or a coat of many colours, from the Greek version.
@@ -70,7 +70,7 @@ Ten men out in the fields in short tunics, and one boy in a garment for royalty.
 
 ## The result
 
-*But when his brothers saw that their father loved him more than any of them, **they hated
+**37:4** *But when his brothers saw that their father loved him more than any of them, **they hated
 him**, and **they could not speak a kind word to him**.*
 
 The Hebrew is *they could not speak peaceably to him* — **shalom**.
@@ -86,10 +86,10 @@ Every party in the story contributes something.
 
 ## What the coat becomes
 
-*So they took Joseph's tunic, killed a kid of the goats, and **dipped the tunic in the
+**37:31**: *So they took Joseph's tunic, killed a kid of the goats, and **dipped the tunic in the
 blood**.*
 
-*And they sent the tunic of many colours, and they brought it to their father and said, "We
+**37:32**: *And they sent the tunic of many colours, and they brought it to their father and said, "We
 have found this. Do you know whether it is your son's tunic or not?"*
 
 Jacob had once brought his blind father goatskins to feel and a dish of goat meat, saying *I
@@ -99,13 +99,13 @@ He is now deceived by his sons with a goat.
 
 ## The last line of the paragraph
 
-*They could not speak a kind word to him.*
+**37:4**: *They could not speak a kind word to him.*
 
 Genesis reports the silence before it reports anything they did.
 
 ## The beloved son, hated for being loved
 
-*Israel loved Joseph more than all his other sons.* And two verses later: *they hated him.*
+**37:3**: *Israel loved Joseph more than all his other sons.* And two verses later, **37:4**: *they hated him.*
 
 The second clause is caused by the first. He is not hated for anything he withheld from
 them. He is hated for being loved by his father.

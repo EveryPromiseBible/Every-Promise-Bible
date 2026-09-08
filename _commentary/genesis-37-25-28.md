@@ -3,21 +3,21 @@ key: Genesis 37:25–28
 title: Then they sat down to eat
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Five words in the middle of the story that are worse than anything else in it.
 
 ## What has just happened
 
-They stripped him of the coat and threw him into a pit. The account notes: *the pit was
+They stripped him of the coat and threw him into a pit. The account notes, **37:24**: *the pit was
 empty; there was no water in it*.
 
 Reuben had talked them out of killing him, meaning to come back for him later.
 
 ## The meal
 
-*Then **they sat down to eat**.*
+**37:25** *Then **they sat down to eat**.*
 
 Their brother is in a hole a few yards away.
 
@@ -30,7 +30,7 @@ He was audible while they ate.
 
 ## The caravan
 
-*Looking up, they saw a **caravan of Ishmaelites coming from Gilead**, their camels loaded
+The rest of **37:25**: *Looking up, they saw a **caravan of Ishmaelites coming from Gilead**, their camels loaded
 with **spices, balm, and myrrh**, on their way down to Egypt.*
 
 Ishmaelites — descendants of Abraham's other son. Family, at a distance.
@@ -42,7 +42,7 @@ Balm of Gilead, on the way to Egypt, passing a pit.
 
 ## Judah's proposal
 
-*"**What do we gain if we kill our brother and cover up his blood?** Come, **let us sell him
+**37:26–27**: *"**What do we gain if we kill our brother and cover up his blood?** Come, **let us sell him
 to the Ishmaelites and not lay our hands on him**. After all, **he is our brother, our own
 flesh**."*
 
@@ -54,13 +54,13 @@ Judah's suggestion saves his life and it is not why he makes it.
 
 ## The agreement
 
-*His brothers agreed.*
+The end of **37:27**: *His brothers agreed.*
 
 The Hebrew is *and his brothers listened*.
 
 ## The price
 
-*And **sold him to the Ishmaelites for twenty pieces of silver**.*
+**37:28**: *And **sold him to the Ishmaelites for twenty pieces of silver**.*
 
 Leviticus 27 sets the valuation for a male between five and twenty years old: *twenty
 shekels*.
@@ -74,7 +74,7 @@ Both transactions are proposed by a man called Judah.
 
 ## What Reuben finds
 
-*Then Reuben returned to the pit, and indeed **Joseph was not in the pit**; and he **tore his
+**37:29–30**: *Then Reuben returned to the pit, and indeed **Joseph was not in the pit**; and he **tore his
 clothes**. And he returned to his brothers and said, "**The lad is no more; and I, where shall
 I go?**"*
 
@@ -82,12 +82,12 @@ He had a plan and was too slow.
 
 ## What they do next
 
-Kill a goat, dip the coat, and send it to their father with a question: *do you know whether
+Kill a goat, dip the coat, and send it to their father with a question, **37:32**: *do you know whether
 it is your son's tunic or not?*
 
 They never say the word *dead*. They let him say it.
 
-*And he said, "It is my son's tunic. A wild beast has devoured him."*
+**37:33**: *And he said, "It is my son's tunic. A wild beast has devoured him."*
 
 ## What Judah does next
 
@@ -96,12 +96,12 @@ by Tamar at the roadside.
 
 Genesis interrupts the Joseph story for a whole chapter to tell it.
 
-The man who says *what profit is there* in chapter 37 is the man who says, in chapter 44,
+The man who says *what profit is there* in chapter 37 is the man who says, in **44:33**:
 *let your servant remain instead of the lad as a slave to my lord*.
 
 ## Where the line runs
 
-Through Judah. *Judah, you are he whom your brothers shall praise… the sceptre shall not
+Through Judah. **49:8, 10**: *Judah, you are he whom your brothers shall praise… the sceptre shall not
 depart from Judah.*
 
 > **The sentence Genesis leaves standing.** *Then they sat down to eat.* Nothing is added to

@@ -5,14 +5,14 @@ sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2024-07-28 provision-in-the-place-of-nearness
   - 2024-08-04 win-the-battle-over-temptation
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 A father sends a son to check on brothers who hate him, and the son says yes.
 
 ## Where the brothers are
 
-*Joseph's brothers went off to graze their father's flocks **near Shechem**.*
+**37:12** *Joseph's brothers went off to graze their father's flocks **near Shechem**.*
 
 Shechem, of all places. It is where Simeon and Levi had massacred every male in the city after
 their sister was violated, and where Jacob had said *you have troubled me, making me obnoxious
@@ -22,7 +22,7 @@ They have taken the flocks to a town their family is hated in.
 
 ## What has already happened
 
-The coat of many colours, and *when his brothers saw that their father loved him more than all
+The coat of many colours, and **37:4**: *when his brothers saw that their father loved him more than all
 his brothers, **they hated him and could not speak peaceably to him***.
 
 Then the dreams — the sheaves bowing, the sun and moon and eleven stars — and *they hated him even
@@ -32,14 +32,14 @@ The chapter has established the hatred three times before this errand.
 
 ## The sending
 
-*Israel said to Joseph, "Your brothers are pasturing the flocks at Shechem. **Come, I am going to
+**37:13** *Israel said to Joseph, "Your brothers are pasturing the flocks at Shechem. **Come, I am going to
 send you to them**."*
 
 Jacob is called **Israel** here, the covenant name, in the verse where he sends his son.
 
 ## The answer
 
-*"**I am ready**," Joseph answered.*
+The end of **37:13**: *"**I am ready**," Joseph answered.*
 
 The Hebrew is **hinneni** — here I am.
 
@@ -50,7 +50,7 @@ He is seventeen, and he knows what his brothers think of him.
 
 ## The errand
 
-*"**Go and see whether all is well with your brothers** and with the flocks, and bring word back to
+**37:14** *"**Go and see whether all is well with your brothers** and with the flocks, and bring word back to
 me."*
 
 The Hebrew is **re'eh et-shelom achecha** — see the **shalom** of your brothers.
@@ -59,13 +59,13 @@ He is sent to check on their peace.
 
 ## The distance
 
-*He sent him **from the Valley of Hebron**, and Joseph came to Shechem.*
+The rest of **37:14**: *He sent him **from the Valley of Hebron**, and Joseph came to Shechem.*
 
 Fifty miles, on foot, through hill country.
 
 ## The man in the field
 
-*A man found him **wandering in the fields** and asked, "**What are you looking for?**"*
+**37:15** *A man found him **wandering in the fields** and asked, "**What are you looking for?**"*
 
 The Hebrew is **to'eh** — wandering, straying. The word used of a lost sheep.
 
@@ -73,13 +73,13 @@ The man is unnamed and appears once. Without him the errand fails and the story 
 
 ## The answer
 
-*"**I am looking for my brothers**," he said. "Can you tell me where they are grazing the flock?"*
+**37:16** *"**I am looking for my brothers**," he said. "Can you tell me where they are grazing the flock?"*
 
 The Hebrew is **et-achai anochi mevaqqesh** — my brothers I am seeking.
 
 ## The redirection
 
-*"They have moved on from here. **I heard them say, 'Let us go to Dothan.'**"*
+**37:17** *"They have moved on from here. **I heard them say, 'Let us go to Dothan.'**"*
 
 Dothan is another fifteen miles north. He had gone fifty and the flock had moved on.
 
@@ -87,7 +87,7 @@ A stranger happened to overhear where.
 
 ## What he does
 
-*So **Joseph followed after his brothers and found them at Dothan**.*
+The rest of **37:17**: *So **Joseph followed after his brothers and found them at Dothan**.*
 
 He keeps going.
 
@@ -129,7 +129,7 @@ him.* See the note on Genesis 37:18–24.
 
 ## What the errand actually was
 
-*See whether all is well with your brothers* — **re'eh et-shelom achecha**. He is sent to ask
+**37:14**: *See whether all is well with your brothers* — **re'eh et-shelom achecha**. He is sent to ask
 after their **shalom**.
 
 He is stripped and dropped down a hole by the men whose peace he came to enquire about, and

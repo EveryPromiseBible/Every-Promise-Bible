@@ -3,14 +3,14 @@ key: Genesis 37:18–24
 title: The pit was empty
 sources:
   - 2024-08-04 win-the-battle-over-temptation
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 They see him coming from a distance and have time to plan.
 
 ## The sighting
 
-*They spotted him **in the distance**, and **before he reached them they schemed to kill him**.*
+**37:18** *They spotted him **in the distance**, and **before he reached them they schemed to kill him**.*
 
 The Hebrew is **vayyitnakkelu oto lahamito** — they plotted against him to kill him.
 
@@ -18,7 +18,7 @@ The coat is visible from a long way off. They know who it is before they can see
 
 ## The name they use
 
-*"**Here comes the dreamer**," they said to one another.*
+**37:19** *"**Here comes the dreamer**," they said to one another.*
 
 The Hebrew is **ba'al hachalomot** — the master of dreams, the lord of dreams.
 
@@ -26,14 +26,14 @@ Not his name. The thing about him they hate.
 
 ## The plan
 
-*"Now is our chance. Let us kill him and **throw him into one of these pits**, and we will say **a wild
+**37:20** *"Now is our chance. Let us kill him and **throw him into one of these pits**, and we will say **a wild
 animal devoured him**."*
 
 They compose the cover story before the act.
 
 ## The line
 
-*"**Then we will see what becomes of his dreams**."*
+The end of **37:20**: *"**Then we will see what becomes of his dreams**."*
 
 The Hebrew is **venir'eh mah-yihyu chalomotav**.
 
@@ -42,18 +42,18 @@ comment.
 
 ## Reuben
 
-*But **Reuben heard this and tried to save him**.*
+**37:21** *But **Reuben heard this and tried to save him**.*
 
 The eldest, and the one who had slept with his father's concubine.
 
 ## What he proposes
 
-*"Let us not take his life. **Shed no blood**. Throw him into this pit here in the wilderness, **but do
+**37:22** *"Let us not take his life. **Shed no blood**. Throw him into this pit here in the wilderness, **but do
 not lay a hand on him**."*
 
 ## His reason
 
-*For **he meant to rescue Joseph later and bring him back to their father**.*
+The rest of **37:22**: *For **he meant to rescue Joseph later and bring him back to their father**.*
 
 The narrator tells the reader what Reuben intended. The brothers are not told.
 
@@ -61,14 +61,14 @@ He does not argue for Joseph. He redirects them, planning to come back.
 
 ## What happens to the plan
 
-He is absent when the traders pass. *Then Reuben returned to the pit, and indeed Joseph was not in
+He is absent when the traders pass. **37:29**: *Then Reuben returned to the pit, and indeed Joseph was not in
 the pit; and he tore his clothes.*
 
-*"The lad is no more; and I, where shall I go?"*
+**37:30**: *"The lad is no more; and I, where shall I go?"*
 
 ## The stripping
 
-*So when Joseph reached his brothers, they **stripped off his coat, the beautiful coat he was
+**37:23** *So when Joseph reached his brothers, they **stripped off his coat, the beautiful coat he was
 wearing**.*
 
 The Hebrew names it twice — **et-kuttonto et-ketonet hapassim** — his tunic, the tunic of many
@@ -78,11 +78,11 @@ The narrator lingers on the garment that started the trouble.
 
 ## The pit
 
-*And took him and **threw him into the pit**.*
+**37:24** *And took him and **threw him into the pit**.*
 
 ## The detail
 
-*The pit was empty; **there was no water in it**.*
+The rest of **37:24**: *The pit was empty; **there was no water in it**.*
 
 The Hebrew is **vehabbor req eyn bo mayim**.
 
@@ -95,7 +95,7 @@ sale.
 
 ## What they do next
 
-*And they **sat down to eat a meal**.*
+**37:25**: *And they **sat down to eat a meal**.*
 
 Chapter 42 records what they heard from the pit: *we saw the anguish of his soul when he pleaded
 with us, and we would not hear*.
@@ -117,7 +117,7 @@ day, to save many people alive."* See the note on Genesis 50:15–21.
 
 ## The coat comes off first
 
-*They stripped him of his coat, the beautiful coat he was wearing.*
+**37:23**: *They stripped him of his coat, the beautiful coat he was wearing.*
 
 *And they **stripped Him** and put a scarlet robe on Him… and when they had mocked Him, they
 took the robe off Him.* In both accounts the garment goes first, and in both it is the thing
@@ -128,7 +128,7 @@ Then a hole in the ground, and men sitting down to a meal a few yards from it. *
 
 ## What the empty pit is
 
-*The pit was empty; there was no water in it.*
+**37:24**: *The pit was empty; there was no water in it.*
 
 He goes down into it alive and he comes up out of it alive, and between those two facts his
 father counts him dead for twenty-two years.
