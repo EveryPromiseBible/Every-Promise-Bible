@@ -1,21 +1,21 @@
 ---
 key: Exodus 19:3–6
 title: I brought you to Myself
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 The sentence in the middle of this passage is the point of the entire exodus, and the
 Illumination stops to say it twice.
 
 ## What He did
 
-*"You have seen for yourselves what I did to Egypt, and how I **carried you on eagles' wings
+**19:4** *"You have seen for yourselves what I did to Egypt, and how I **carried you on eagles' wings
 and brought you to Myself**."*
 
 Everything in that sentence is His. They saw, and He did.
 
 ## The bird
 
-*As an eagle **stirs up its nest, hovers over its young**, spreading out its wings, taking
+**Deuteronomy 32:11**: *As an eagle **stirs up its nest, hovers over its young**, spreading out its wings, taking
 them up, carrying them on its wings.*
 
 The verb for *hovers* there is **rachaph** — and it occurs three times in the whole Hebrew
@@ -26,7 +26,7 @@ The same word for the Spirit over the deep and for a bird carrying its young out
 
 ## Where they were brought
 
-*"**I brought you to Myself.**"*
+**19:4** again: *"**I brought you to Myself.**"*
 
 Not to Sinai. Not to Canaan. The stated destination of the rescue is a Person.
 
@@ -38,10 +38,10 @@ all for.
 
 Read verse 4 and then verse 5, and notice that the grammar changes.
 
-Verse 4 is entirely what He has done. Verse 5 begins **im-shamoa tishme'u** — *if you will
+Verse 4 is entirely what He has done. **19:5** begins **im-shamoa tishme'u** — *if you will
 indeed listen*.
 
-The people answer it three verses later: *all that the LORD has spoken **we will do***. They
+The people answer it three verses later, **19:8**: *all that the LORD has spoken **we will do***. They
 took the *if*, and they took it confidently.
 
 ## What happened to that
@@ -62,16 +62,16 @@ against is the one being offered on this page.
 
 ## What they were called
 
-*"You will be for Me **a kingdom of priests, a holy nation**."*
+**19:6** *"You will be for Me **a kingdom of priests, a holy nation**."*
 
-Peter takes the phrase and hands it, finished, to people who have done nothing to earn it:
-*you are a chosen generation, **a royal priesthood, a holy nation**, His own special people…
+Peter takes the phrase and hands it, finished, to people who have done nothing to earn it,
+**1 Peter 2:9–10**: *you are a chosen generation, **a royal priesthood, a holy nation**, His own special people…
 who once were not a people but are now the people of God, who had not obtained mercy but now
 have obtained mercy.*
 
 At Sinai it is offered on condition. In Peter it is stated as a fact about the readers, and
 the reason given is mercy.
 
-> **The clause the Illumination repeats.** *I brought you to Myself.* Everything before it is
+> **The clause the Illumination repeats.** **19:4** again: *I brought you to Myself.* Everything before it is
 > Egypt, and everything after it is the mountain — and the destination named in between is
 > neither.

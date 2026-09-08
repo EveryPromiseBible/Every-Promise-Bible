@@ -6,7 +6,7 @@ sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
   - 2020-11-22 what-it-means-to-fall-from-grace
   - 2026-03-29 freed-from-the-dominion-of-sin
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 A nation makes a promise, and the whole shape of the next fifteen hundred years
@@ -14,7 +14,7 @@ turns on it.
 
 ## What God had just offered
 
-The verses before: *you have seen what I did to the Egyptians, and how **I bore you
+The verses before, **19:4**: *you have seen what I did to the Egyptians, and how **I bore you
 on eagles' wings and brought you to Myself**.*
 
 That is the account of everything up to this point. Grace, from the blood on the
@@ -23,7 +23,7 @@ required of them and nothing had been withheld.
 
 ## The answer
 
-*And all the people answered **together, as one**: "**We will do everything the LORD
+**19:8** *And all the people answered **together, as one**: "**We will do everything the LORD
 has said.**"*
 
 The Hebrew is emphatic — *all that the LORD has spoken we will do.*
@@ -31,7 +31,7 @@ The Hebrew is emphatic — *all that the LORD has spoken we will do.*
 They say it before they have heard what it is. The commandments are not given until
 chapter 20.
 
-They said the same again after Sinai — *all the words which the LORD has said we will
+They said the same again after Sinai, **Exodus 24:3**: *all the words which the LORD has said we will
 do* — and a third time when the covenant was ratified with blood.
 
 ## Six weeks later
@@ -49,7 +49,7 @@ things shall live by them.* See the note on Romans 10:5–8.
 
 ## The cloud
 
-*"**I am coming to you in a dense cloud**, so that the people will hear Me speaking
+**19:9** *"**I am coming to you in a dense cloud**, so that the people will hear Me speaking
 with you."*
 
 The Hebrew is a thick cloud, a heavy darkness.
@@ -58,12 +58,12 @@ And what follows in the chapter is a mountain fenced off, with a boundary and a 
 penalty for touching it, thunder and lightning and a trumpet blast that grew louder
 and louder, and a mountain shaking and smoking like a furnace.
 
-*And the people trembled.* They ask Moses to speak instead: *let not God speak with
+**Exodus 20:18**: *And the people trembled.* They ask Moses to speak instead, **20:19**: *let not God speak with
 us, lest we die.*
 
 ## The last clause
 
-*Then Moses **told the LORD what the people had said**.*
+Still **19:9**: *Then Moses **told the LORD what the people had said**.*
 
 He carries their answer up. The verse says it twice — he brought their words back —
 and the repetition is the writer's way of marking the moment as decisive.
@@ -77,7 +77,7 @@ city of the living God… to Jesus the Mediator of the new covenant.*
 Two mountains, and Hebrews says Christians are standing at the other one. See the
 note on Hebrews 12:18–24.
 
-> **What was on the mountain before the law.** *I bore you on eagles' wings and
+> **What was on the mountain before the law.** **19:4** again: *I bore you on eagles' wings and
 > brought you to Myself.* That sentence was already true, without any promise from
 > them, and it stayed true — the covenant they proposed did not create the
 > relationship, and breaking it did not end it.
