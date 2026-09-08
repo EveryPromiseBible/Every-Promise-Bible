@@ -3,24 +3,24 @@ key: Genesis 32:9–12
 title: I crossed with nothing but my staff
 sources:
   - 2022-08-07 encounter-true-grace-and-experience-success
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The first extended prayer in the Bible, and it is prayed by a frightened man.
 
 ## Where he is
 
-Twenty years out of the country, coming home, and the messengers have just returned: *we came to
+Twenty years out of the country, coming home, and the messengers have just returned, **32:6**: *we came to
 your brother Esau, and he also is coming to meet you, **and four hundred men are with him***.
 
-*So Jacob was greatly afraid and distressed.* He divides the camp in two, so that if one is
+**32:7**: *So Jacob was greatly afraid and distressed.* He divides the camp in two, so that if one is
 struck the other may escape.
 
 Then he prays.
 
 ## The address
 
-*"**God of my father Abraham, God of my father Isaac** — LORD, **You who said to me, 'Go back to
+**32:9** *"**God of my father Abraham, God of my father Isaac** — LORD, **You who said to me, 'Go back to
 your country and your people, and I will do you good'**."*
 
 He starts with the covenant line, and then with the specific instruction that put him on this
@@ -30,7 +30,7 @@ He is not where he is by choice. He was told to come.
 
 ## The word he uses of himself
 
-*"**I am not worthy of the least** of all the kindness and faithfulness You have shown me, Your
+**32:10** *"**I am not worthy of the least** of all the kindness and faithfulness You have shown me, Your
 servant."*
 
 The Hebrew is **qatonti** — I am small. One word, a verb: *I have been made little*.
@@ -47,7 +47,7 @@ Hebrew pair.
 
 ## The measure
 
-*"**I crossed this Jordan with nothing but my staff**, and now **I have become two camps**."*
+The rest of **32:10**: *"**I crossed this Jordan with nothing but my staff**, and now **I have become two camps**."*
 
 Twenty years earlier he had left with what he could carry, running from a brother he had cheated
 out of a blessing. See the note on Genesis 28:10–15.
@@ -64,20 +64,20 @@ small*.
 
 ## The request
 
-*"**Rescue me, I pray, from the hand of my brother, from the hand of Esau**."*
+**32:11** *"**Rescue me, I pray, from the hand of my brother, from the hand of Esau**."*
 
 He names him twice — *my brother*, and then *Esau*. The relationship and the man.
 
 ## The honesty
 
-*"**For I am afraid of him** — afraid he will come and strike us all down, **the mothers with the
+The rest of **32:11**: *"**For I am afraid of him** — afraid he will come and strike us all down, **the mothers with the
 children**."*
 
 He does not dress it up. The specific fear is stated, including who he thinks will die.
 
 ## The last argument
 
-*"**But You said**, 'I will surely do you good, and make your descendants like the sand of the sea,
+**32:12** *"**But You said**, 'I will surely do you good, and make your descendants like the sand of the sea,
 too many to count.'"*
 
 He ends by quoting God back to God.
@@ -96,13 +96,13 @@ limp.
 
 ## What Esau does
 
-*But Esau ran to meet him, and embraced him, and fell on his neck and kissed him, and they wept.*
+**Genesis 33:4**: *But Esau ran to meet him, and embraced him, and fell on his neck and kissed him, and they wept.*
 
 The four hundred men turn out to be an escort.
 
 ## What Jacob says to him
 
-*"**I have seen your face as though I had seen the face of God**, and you were pleased with me."*
+**Genesis 33:10**: *"**I have seen your face as though I had seen the face of God**, and you were pleased with me."*
 
 Which is what he had said about the place he prayed in: *I have seen God face to face, and my life
 is preserved*.
