@@ -3,7 +3,7 @@ key: Genesis 49:3–4
 title: Reuben — unstable as water
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The firstborn gets the longest list of titles in the chapter and loses everything
@@ -11,7 +11,7 @@ in the next line.
 
 ## What he was
 
-*"Reuben, you are **my firstborn, my might, the first sign of my strength** —
+**49:3** *"Reuben, you are **my firstborn, my might, the first sign of my strength** —
 first in rank and first in power."*
 
 Four titles stacked, and every one of them is genuine. The double portion, the
@@ -22,7 +22,7 @@ Jacob lists it in full before taking it away.
 
 ## The turn
 
-*"**Yet** you are as unruly as the churning waters, and you will no longer hold
+**49:4** *"**Yet** you are as unruly as the churning waters, and you will no longer hold
 first place."*
 
 The older rendering is *unstable as water*, and it is the phrase the tribe is
@@ -33,7 +33,7 @@ no way of holding a line.
 
 ## What he did
 
-*"For you **climbed into your father's bed** and defiled it — you went up onto my
+Still **49:4**: *"For you **climbed into your father's bed** and defiled it — you went up onto my
 couch."*
 
 Genesis 35 records it in one sentence and moves on: *Reuben went and lay with
@@ -71,7 +71,7 @@ the natural man is: unstable, and then violent.
 
 ## What he lost, and how
 
-*"**Unstable as water, you shall not excel.**"*
+**49:4** again: *"**Unstable as water, you shall not excel.**"*
 
 Reuben was the firstborn — *my might and the beginning of my strength, the excellency of
 dignity and the excellency of power*. Jacob lists the standing first and then removes it, in
@@ -82,7 +82,7 @@ until this deathbed.
 
 ## Where it went
 
-*The birthright was given to the sons of Joseph… **yet Judah prevailed over his brothers, and
+**1 Chronicles 5:1–2**: *The birthright was given to the sons of Joseph… **yet Judah prevailed over his brothers, and
 from him came a ruler**.*
 
 Chronicles spells out the split: the double portion went to Joseph, and the sceptre to Judah.
@@ -102,7 +102,7 @@ Reuben held the title by birth order and forfeited it by an act. The One the tit
 lands on holds it by resurrection, and there is no act that can put Him out of it — which is
 also why the brothers counted in with Him cannot be put out either.
 
-> **Where the birthright went.** *The birthright was given to the sons of Joseph* —
+> **Where the birthright went.** **1 Chronicles 5:1** again: *The birthright was given to the sons of Joseph* —
 > 1 Chronicles 5 says so outright, and explains why: *because he defiled his
 > father's bed.* The double portion went to Joseph, the kingship went to Judah, and
 > the priesthood went to Levi. What Reuben held alone was split three ways and

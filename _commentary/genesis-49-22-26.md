@@ -3,7 +3,7 @@ key: Genesis 49:22–26
 title: Joseph — branches over the wall
 sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The longest of the twelve blessings, and Jacob spends most of it on titles for
@@ -11,7 +11,7 @@ God.
 
 ## The vine
 
-*"Joseph is a fruitful vine, a fruitful vine **beside a spring**, whose branches
+**49:22** *"Joseph is a fruitful vine, a fruitful vine **beside a spring**, whose branches
 **climb over a wall**."*
 
 Three things: fruitful, next to water, and not staying inside the boundary.
@@ -21,7 +21,7 @@ stop it.
 
 ## The archers
 
-*"With bitterness archers attacked him; they shot at him and pressed him hard.
+**49:23–24**: *"With bitterness archers attacked him; they shot at him and pressed him hard.
 **But his bow stayed steady**, and his arms were made strong **by the hands of the
 Mighty One of Jacob**."*
 
@@ -33,7 +33,7 @@ strong by somebody else's hands.
 
 ## The names for God, stacked
 
-Four in two lines, and Jacob is running out of ways to say it:
+**49:24–25**: four in two lines, and Jacob is running out of ways to say it:
 
 - **the Mighty One of Jacob**
 - **the Shepherd** — the first time in Scripture God is called this
@@ -45,7 +45,7 @@ occurrence of the word.
 
 ## The blessings
 
-*"Blessings of the skies above, blessings of the deep that lies below, blessings
+**49:25–26**: *"Blessings of the skies above, blessings of the deep that lies below, blessings
 of the breast and womb… **greater than the blessings of the ancient mountains**."*
 
 Above, below, and the family line. And then a comparison — greater than the
@@ -57,7 +57,7 @@ anyone can point at.
 Joseph's portion was Samaria. And Jacob's well was on that ground — *near the
 piece of ground Jacob had given to his son Joseph.*
 
-*A fruitful vine beside a spring.*
+**49:22** again: *A fruitful vine beside a spring.*
 
 There was a wall between Jew and Samaritan, and it was absolute: *Jews have no
 dealings with Samaritans.* His disciples marvelled that He was talking with her.
@@ -67,7 +67,7 @@ asked a woman for a drink. See the note on John 4:1–6.
 
 The branches ran over the wall on Joseph's own land.
 
-> **The last line.** *Let all these rest on the head of Joseph, on the brow of
+> **The last line.** **49:26** again: *Let all these rest on the head of Joseph, on the brow of
 > **the prince among his brothers**.* The Hebrew is the one separated from his
 > brothers — the same word used of a Nazirite, one set apart. It is exactly what
 > they did to him, turned into a title.

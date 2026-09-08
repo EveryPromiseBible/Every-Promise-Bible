@@ -3,14 +3,14 @@ key: Genesis 49:8–12
 title: Judah — the sceptre and the vine
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The fourth son, and the chapter changes register completely.
 
 ## The name
 
-*"Judah, your brothers will **praise** you."*
+**49:8** *"Judah, your brothers will **praise** you."*
 
 **Yehudah** means praise. Leah named him: *now I will praise the LORD.*
 
@@ -29,7 +29,7 @@ the battlefield. See the note on 2 Chronicles 20:16–19.
 
 ## The lion
 
-*"Judah is a **young lion**… like a lion he crouches and lies down — who would dare
+**49:9** *"Judah is a **young lion**… like a lion he crouches and lies down — who would dare
 rouse him?"*
 
 Three stages of one animal in two lines: the young lion that has come up from the
@@ -40,7 +40,7 @@ prevailed.*
 
 ## The sceptre
 
-*"The sceptre will not depart from Judah, nor the ruler's staff from between his
+**49:10** *"The sceptre will not depart from Judah, nor the ruler's staff from between his
 feet, **until he to whom it belongs shall come**, and the obedience of the peoples
 will be his."*
 
@@ -52,7 +52,7 @@ carries the sense of rest, tranquility.
 
 ## The donkey and the vine
 
-*"He will **tie his donkey to the vine**, his colt to the choicest branch."*
+**49:11** *"He will **tie his donkey to the vine**, his colt to the choicest branch."*
 
 Nobody ties livestock to a vine. A donkey would strip it in an hour, and a vine is
 the most carefully tended plant a man owns.
@@ -65,7 +65,7 @@ donkey.* They found it *tied* at a doorway, and He rode it into Jerusalem.
 
 ## The wine
 
-*"He will **wash his garments in wine**, his robes in **the blood of grapes**."*
+Still **49:11**: *"He will **wash his garments in wine**, his robes in **the blood of grapes**."*
 
 Not spilled on. Washed in.
 

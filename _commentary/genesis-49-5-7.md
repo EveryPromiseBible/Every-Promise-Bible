@@ -3,7 +3,7 @@ key: Genesis 49:5–7
 title: Simeon and Levi — the anger, not the men
 sources:
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The only curse in the chapter, and it is aimed carefully.
@@ -22,7 +22,7 @@ They waited until the men could not defend themselves, and killed the town.
 
 ## "In their fury they crippled oxen"
 
-*"In their anger they killed men, and in their fury they **crippled oxen**."*
+**49:6** *"In their anger they killed men, and in their fury they **crippled oxen**."*
 
 The Hebrew is to hamstring — cut the tendon so the animal can never work again.
 
@@ -31,7 +31,7 @@ purpose, on animals that had done nothing, because the rage had to go somewhere.
 
 ## What is cursed
 
-*"**Cursed be their anger, so fierce, and their fury, so cruel.**"*
+**49:7** *"**Cursed be their anger, so fierce, and their fury, so cruel.**"*
 
 Read it exactly. Not *cursed be Simeon and Levi*. Their anger is cursed, and their
 fury.
@@ -41,7 +41,7 @@ in the whole chapter and it is laid on a temper rather than a person.
 
 ## The sentence
 
-*"I will **scatter** them throughout Jacob and **disperse** them across Israel."*
+Still **49:7**: *"I will **scatter** them throughout Jacob and **disperse** them across Israel."*
 
 They had used their unity to do it — two brothers acting together. So they are
 separated.
@@ -72,7 +72,7 @@ Then Judah.
 
 ## What happened to the curse
 
-*"I will **divide them in Jacob and scatter them in Israel**."*
+**49:7** again: *"I will **divide them in Jacob and scatter them in Israel**."*
 
 Said over Simeon and Levi for what they did at Shechem, and it is a sentence of dispersal.
 Neither tribe will hold a block of territory of its own.
@@ -101,7 +101,7 @@ the work of ministry**.*
 Aaron is a Levite. Moses is a Levite. The tribe under a curse for violence produces the man who
 stands between God and the people on the Day of Atonement.
 
-> **What Jacob says he will not do.** *"Let me not enter their council; let me not
+> **What Jacob says he will not do.** **49:6** again: *"Let me not enter their council; let me not
 > join their gathering."* He will not be associated with the decision. He had said
 > nothing at the time except that they had made him stink among the inhabitants of
 > the land — and he says the rest of it here, twenty chapters later, dying.

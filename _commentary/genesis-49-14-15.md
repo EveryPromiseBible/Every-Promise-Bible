@@ -3,7 +3,7 @@ key: Genesis 49:14–15
 title: Issachar — the donkey between the burdens
 sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The saddest of the twelve, and it describes a man who could have had rest and
@@ -11,7 +11,7 @@ chose a load instead.
 
 ## The blessing
 
-*"Issachar is a **strong donkey**, resting among the sheepfolds. When he sees how
+**49:14–15**: *"Issachar is a **strong donkey**, resting among the sheepfolds. When he sees how
 good his resting place is and how pleasant the land, **he will bend his shoulder
 to the load and submit to hard labour**."*
 
@@ -66,7 +66,7 @@ donkey carries, one on each side.
 Whatever the Hebrew word is exactly, the picture is a strong animal lying down
 under weight it did not have to carry.
 
-> **What the tribe was later known for.** *The sons of Issachar, who had
+> **What the tribe was later known for.** **1 Chronicles 12:32**: *The sons of Issachar, who had
 > understanding of the times, to know what Israel ought to do.* Two hundred chiefs
 > of them came to David at Hebron. The tribe that bowed its shoulder to a load
 > became the tribe that could read a season.

@@ -4,7 +4,7 @@ title: "What will happen in the days to come"
 sources:
   - 2019-03-31 secrets-of-jesus-hidden-in-the-tribes-of-israel
   - 2019-04-07 secrets-of-jesus-hidden-in-the-tribes-of-israel-part-2
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 An old man on a bed calls twelve grown sons around him, and what follows is the
@@ -12,7 +12,7 @@ longest piece of poetry in Genesis.
 
 ## "The days to come"
 
-*"I will tell you what will happen to you **in the days to come**."*
+**49:1** *"I will tell you what will happen to you **in the days to come**."*
 
 The Hebrew is **acharit ha-yamim** — the latter days, the end of the days. It is
 the standard prophetic phrase; Isaiah, Hosea, Micah and Daniel all use it.
@@ -22,7 +22,7 @@ twenty-five verses of it.
 
 ## Both names
 
-*"Come together and listen, sons of **Jacob**. Listen to **Israel** your father."*
+**49:2** *"Come together and listen, sons of **Jacob**. Listen to **Israel** your father."*
 
 Both names in one sentence, and Genesis never uses them carelessly. Jacob is the
 supplanter, the man who grabbed a heel; Israel is the name he was given at
@@ -42,7 +42,7 @@ sees.
 ## Where the weight falls
 
 Two of the twelve get far more than the rest — Judah, and Joseph. Judah gets the
-sceptre and the line: *the sceptre shall not depart from Judah… until Shiloh
+sceptre and the line, **49:10**: *the sceptre shall not depart from Judah… until Shiloh
 comes.*
 
 And what is said over the others is short. A single line each, in most cases —
@@ -61,6 +61,6 @@ Luke 24:13–16.
 Each of these sons became a tribe, and each tribe was given a piece of ground —
 and Jesus walked that ground, town by town.
 
-> **How the chapter ends.** *He drew his feet up into the bed, breathed his last,
+> **How the chapter ends.** **49:33**: *He drew his feet up into the bed, breathed his last,
 > and was gathered to his people.* Twenty-five verses of prophecy and then a man
 > pulling his feet up onto a bed. Genesis notices things like that.
