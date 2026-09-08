@@ -6,14 +6,14 @@ sources:
   - 2019-09-29 is-the-bible-still-relevant-today
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-09-25 new-covenant-keys-to-interpreting-the-bible
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 The most important verse in Leviticus about why any of the sacrifices worked.
 
 ## The prohibition
 
-*If anyone… **eats blood in any form**, the LORD Himself will **set His face against
+**17:10** *If anyone… **eats blood in any form**, the LORD Himself will **set His face against
 that person** and cut him off.*
 
 It applies to Israelites and to *any foreigner living among them* alike.
@@ -23,7 +23,7 @@ book.
 
 ## The reason
 
-*For **the life of every creature is in its blood**.*
+**17:11** *For **the life of every creature is in its blood**.*
 
 Stated as fact. Not a ritual convention — a claim about what blood is.
 
@@ -32,7 +32,7 @@ hunting law. See the note on Leviticus 17:13–14.
 
 ## The purpose
 
-*And the LORD has **given that blood to you upon the altar** for one gracious
+**17:11** again: *And the LORD has **given that blood to you upon the altar** for one gracious
 purpose: **to make atonement for your souls**.*
 
 Note the verb: **given**. The blood is described as a gift, assigned to a use.
@@ -45,17 +45,17 @@ Genesis 6:13–22 and Job 33:23–24.
 
 ## The clause
 
-*It is the blood — **the life given in your place** — that covers you and sets you
+**17:11** again: *It is the blood — **the life given in your place** — that covers you and sets you
 free.*
 
 Substitution, stated in the law itself. A life instead of a life.
 
-Hebrews draws the conclusion: *without shedding of blood there is no remission.*
+Hebrews draws the conclusion, **9:22**: *without shedding of blood there is no remission.*
 
 ## What the arrangement could not do
 
-The same letter says it: *it is not possible that the blood of bulls and goats could
-take away sins*, which is why the sacrifices had to be repeated *year by year
+The same letter says it, **10:4**: *it is not possible that the blood of bulls and goats could
+take away sins*, which is why the sacrifices had to be repeated, **10:1**: *year by year
 continually.*
 
 The system held the place for something.
@@ -67,7 +67,7 @@ being cut off.
 
 And then, in an upper room:
 
-*"Drink from it, all of you. **This is My blood** of the new covenant, poured out for
+**Matthew 26:28**: *"Drink from it, all of you. **This is My blood** of the new covenant, poured out for
 many for the forgiveness of sins."*
 
 The one command Leviticus will not bend, He bends over a cup — and to the same men
@@ -75,10 +75,10 @@ who had kept the food laws all their lives. See the note on Matthew 26:26–30.
 
 ## What it cost Him to say it
 
-In John 6 He said it plainly in a synagogue: *unless you eat the flesh of the Son of
+In John 6 He said it plainly in a synagogue, **6:53**: *unless you eat the flesh of the Son of
 Man and drink His blood, you have no life in you.*
 
-*From that time many of His disciples went back and walked with Him no more.* See the
+**6:66**: *From that time many of His disciples went back and walked with Him no more.* See the
 note on John 6:47–51.
 
 > **What the chapter is called.** Leviticus 17 is the chapter of the altar and the
