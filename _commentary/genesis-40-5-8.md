@@ -3,7 +3,7 @@ key: Genesis 40:5–8
 title: Why do you look so downcast
 sources:
   - 2023-07-16 redefine-success-gods-way
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 A prisoner with a life sentence notices that two other men are having a bad morning.
@@ -26,7 +26,7 @@ Court officials, and he is a foreign slave with a criminal record.
 
 ## The night
 
-*One night, **both men dreamed** — each his own dream, and **each dream carried its own meaning**.*
+**40:5** *One night, **both men dreamed** — each his own dream, and **each dream carried its own meaning**.*
 
 The Hebrew is **ish chalomo belaylah echad** — each man his dream in one night.
 
@@ -34,7 +34,7 @@ Two dreams, one night, and the narrator says in advance that each had its own in
 
 ## The morning
 
-*In the morning Joseph came to them and **saw that something was wrong; their faces were heavy with
+**40:6** *In the morning Joseph came to them and **saw that something was wrong; their faces were heavy with
 worry**.*
 
 The Hebrew is **zo'aphim** — troubled, sullen, downcast.
@@ -48,19 +48,19 @@ prison, walks in and sees that two other men's faces are wrong.
 
 ## The question
 
-*So he asked Pharaoh's officials… "**Why do you look so downcast today?**"*
+**40:7** *So he asked Pharaoh's officials… "**Why do you look so downcast today?**"*
 
 He has more reason to be downcast than either of them, and he asks them.
 
 ## Their answer
 
-*"We've both had dreams, and **there's no one here to tell us what they mean**."*
+**40:8** *"We've both had dreams, and **there's no one here to tell us what they mean**."*
 
 Egypt had a professional class of dream interpreters. In prison they have none.
 
 ## The reply
 
-*Gently Joseph answered, "**Doesn't the meaning of dreams belong to God? Tell me what you saw**."*
+The rest of **40:8**: *Gently Joseph answered, "**Doesn't the meaning of dreams belong to God? Tell me what you saw**."*
 
 The Hebrew is **halo lelohim pitronim** — do not interpretations belong to God?
 
@@ -80,26 +80,26 @@ He had dreams then, and no interpretation for anyone. Now he interprets and asks
 
 ## What he does ask for
 
-*"**But remember me when it is well with you**, and please show kindness to me… for indeed I was
+**40:14**: *"**But remember me when it is well with you**, and please show kindness to me… for indeed I was
 stolen away from the land of the Hebrews."*
 
 One request, to the man he told would live. See the note on Genesis 40:9–15.
 
 ## What happens
 
-*Yet the chief butler **did not remember Joseph, but forgot him**.*
+**40:23**: *Yet the chief butler **did not remember Joseph, but forgot him**.*
 
 The last verse of the chapter.
 
 ## How long
 
-*Then it came to pass, **at the end of two full years**, that Pharaoh had a dream.*
+**Genesis 41:1**: *Then it came to pass, **at the end of two full years**, that Pharaoh had a dream.*
 
 Two more years, and then the butler remembers: *I remember my faults this day*.
 
 ## What comes of it
 
-*Then Pharaoh sent and called Joseph, and **they brought him quickly out of the dungeon**.*
+**Genesis 41:14**: *Then Pharaoh sent and called Joseph, and **they brought him quickly out of the dungeon**.*
 
 The Hebrew is **vayritzuhu** — and they made him run.
 
@@ -116,7 +116,7 @@ criminals, **one on the right hand and the other on the left**.*
 
 ## "Remember me"
 
-*"But **remember me** when it is well with you."*
+**40:14**: *"But **remember me** when it is well with you."*
 
 That is what Joseph asked of a condemned man who was about to be lifted up — and *the chief
 butler did not remember Joseph, but forgot him*.

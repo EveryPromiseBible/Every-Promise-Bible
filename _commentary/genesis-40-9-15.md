@@ -1,14 +1,14 @@
 ---
 key: Genesis 40:9–15
 title: The vine, the cup, and the third day
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 A prisoner tells a dream about grapes, and every element of it turns up again at a table in
 Jerusalem.
 
 ## The dream
 
-*"**There was a vine in front of me**, and on the vine were **three branches**. As it budded,
+**40:9–10**: *"**There was a vine in front of me**, and on the vine were **three branches**. As it budded,
 it blossomed, and its clusters ripened into grapes."*
 
 Bud, blossom, ripe fruit — three stages, compressed into one sentence. In the dream the whole
@@ -16,7 +16,7 @@ growing season happens at once.
 
 ## What he does with it
 
-*"Pharaoh's cup was in my hand, so I **took the grapes, pressed them into Pharaoh's cup**, and
+**40:11** *"Pharaoh's cup was in my hand, so I **took the grapes, pressed them into Pharaoh's cup**, and
 **placed the cup in Pharaoh's hand**."*
 
 The cupbearer's actual job, performed in the dream from the vine to the king's hand without a
@@ -24,7 +24,7 @@ step missing.
 
 ## The interpretation
 
-*"**The three branches are three days.** In three days Pharaoh will **lift up your head** and
+**40:12–13**: *"**The three branches are three days.** In three days Pharaoh will **lift up your head** and
 restore you to your place."*
 
 The Hebrew for *lift up your head* is **yissa et-roshecha** — a court idiom for reinstatement,
@@ -60,14 +60,14 @@ years before there is a Passover.
 
 ## What Joseph asks for
 
-*"**Only remember me when it goes well with you.** Show me kindness — mention me to Pharaoh,
+**40:14**: *"**Only remember me when it goes well with you.** Show me kindness — mention me to Pharaoh,
 and get me out of this place."*
 
 He interprets for nothing and then asks one thing, of the man who is about to be restored.
 
 ## His statement of the case
 
-*"I was **stolen away from the land of the Hebrews**, and even here I've **done nothing to
+**40:15** *"I was **stolen away from the land of the Hebrews**, and even here I've **done nothing to
 deserve a prison cell**."*
 
 Two sentences, and they are the only self-defence Joseph makes in the whole book. He does not
@@ -78,7 +78,7 @@ prisoner.
 
 ## What happens
 
-*Yet the chief butler **did not remember Joseph, but forgot him**.*
+**40:23**: *Yet the chief butler **did not remember Joseph, but forgot him**.*
 
 Two more years.
 
