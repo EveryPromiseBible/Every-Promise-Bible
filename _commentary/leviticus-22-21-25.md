@@ -3,28 +3,28 @@ key: Leviticus 22:21–25
 title: The animal is the one inspected
 sources:
   - 2025-09-21 transformed-by-beholding-jesus
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 Nothing in the chapter examines the worshipper. The priest looks at the lamb.
 
 ## The requirement
 
-*It must be **perfect and whole, with no defect at all**.*
+**22:21** *It must be **perfect and whole, with no defect at all**.*
 
 The Hebrew is **tamim** — complete, sound, without blemish. And **lo yihyeh-bo mum** — no defect in
 it.
 
 ## The word
 
-**Tamim** is used of Noah — *perfect in his generations*. And of the command to Abram: *walk before
+**Tamim** is used of Noah, **Genesis 6:9**: *perfect in his generations*. And of the command to Abram, **Genesis 17:1**: *walk before
 Me and be **tamim***.
 
 ## The list of disqualifications
 
-*Blind, or injured, or maimed, or covered with **warts or sores or scabs**.*
+**22:22** *Blind, or injured, or maimed, or covered with **warts or sores or scabs**.*
 
-Six conditions, and then four more: *bruised or crushed or torn or cut*.
+Six conditions, and then four more, **22:24**: *bruised or crushed or torn or cut*.
 
 ## What the list is doing
 
@@ -32,7 +32,7 @@ It is exhaustive on purpose. There is no borderline case left for the worshipper
 
 ## The odd allowance
 
-*You may present an ox or a lamb **with a limb too long or too short** as a **freewill gift**, but **it
+**22:23** *You may present an ox or a lamb **with a limb too long or too short** as a **freewill gift**, but **it
 will not be accepted for a vow**.*
 
 The Hebrew is **sarua veqalut** — stretched out or drawn up.
@@ -45,13 +45,13 @@ A vow is a promise. What discharges an obligation is held to the stricter standa
 
 ## The foreign animals
 
-*You must not accept such animals **from a foreigner's hand** to offer as the bread of your God.*
+**22:25** *You must not accept such animals **from a foreigner's hand** to offer as the bread of your God.*
 
 The loophole is closed in advance: an unfit animal cannot be laundered through a purchase.
 
 ## The reason given
 
-*Their deformity is in them, and **they will not be accepted for you**.*
+Still **22:25**: *Their deformity is in them, and **they will not be accepted for you**.*
 
 The Hebrew is **lo yeratzu lakem** — they will not be accepted on your behalf.
 
@@ -77,9 +77,9 @@ Acceptance is transferred. The worshipper is received on the standing of the thi
 Four days between the selection of the Passover lamb and its killing: *you shall keep it until the
 fourteenth day*. See the note on Exodus 12:1–13.
 
-Four days of the same questioning in the temple courts, and then: *I find no fault in Him*.
+Four days of the same questioning in the temple courts, and then, **Luke 23:4**: *I find no fault in Him*.
 
-Pilate says it three times. Herod finds nothing. The centurion says *certainly this was a righteous
+Pilate says it three times. Herod finds nothing. The centurion says, **23:47**: *certainly this was a righteous
 man*.
 
 ## Peter's word for it
