@@ -15,7 +15,7 @@ sources:
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2025-09-21 transformed-by-beholding-jesus
   - 2026-05-17 license-to-live-holy-versus-license-to-sin
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 
 The most important sentence in the passage is the one that says who the mark was
@@ -24,7 +24,7 @@ for, and it is not the person inside the house.
 ## "When I see the blood"
 
 Not *when you see it*. Not *when the destroyer sees it*. The seeing is God's, and
-the text says it twice, once at the start of the promise and once at the end —
+the text says it twice, **12:13** and **12:23**, once at the start of the promise and once at the end —
 the second time as a plain repetition, as though the point were too important to
 risk being missed.
 
@@ -57,7 +57,7 @@ was where it could be seen.
 
 ## The four days
 
-*In the tenth day of this month they shall take to them every man a lamb… and you
+**12:3, 6**: *In the tenth day of this month they shall take to them every man a lamb… and you
 shall keep it up **until the fourteenth day**.*
 
 Four days in the house before it is killed. Long enough for a family to look it
@@ -73,7 +73,7 @@ Matthew 21:23–27.
 
 ## The month starts here
 
-*This month is now the first of months for you, the very start of your year.*
+**12:2**: *This month is now the first of months for you, the very start of your year.*
 Before a single Israelite has walked out of Egypt, God resets the calendar. The
 year now begins at the lamb.
 
