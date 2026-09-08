@@ -3,14 +3,14 @@ key: Leviticus 2:11–13
 title: The salt of the covenant
 sources:
   - 2020-05-24 find-power-in-his-presence
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 Two things are kept off the altar and one thing is never allowed to be missing.
 
 ## What is excluded
 
-*No grain offering you bring to the LORD is to be made with **yeast**, for **you must not
+**2:11** *No grain offering you bring to the LORD is to be made with **yeast**, for **you must not
 burn any yeast or honey** as an offering by fire to the LORD.*
 
 Yeast and honey. Both are ordinary, both are good, and both are barred from the fire.
@@ -29,7 +29,7 @@ Both change on their own, and neither of them keeps.
 
 ## What they are still good for
 
-*You may bring these as **an offering of firstfruits**, but they are **not to be burned on
+**2:12** *You may bring these as **an offering of firstfruits**, but they are **not to be burned on
 the altar** as a pleasing fragrance.*
 
 They can be brought. They cannot go on the fire.
@@ -41,13 +41,13 @@ Not on the altar; in the hands.
 
 ## The requirement
 
-*Season **every** grain offering with salt.*
+**2:13** *Season **every** grain offering with salt.*
 
 The Hebrew is emphatic. Every one.
 
 ## The name given to it
 
-*Never leave out **the salt of the covenant of your God**.*
+Still **2:13**: *Never leave out **the salt of the covenant of your God**.*
 
 Not the salt of seasoning. The salt of the covenant.
 
@@ -56,9 +56,9 @@ Not the salt of seasoning. The salt of the covenant.
 In that part of the world, sharing salt made an agreement binding. The phrase turns up
 twice more:
 
-- Numbers, of the priests' portion: *it is **a covenant of salt** forever before the
+- **Numbers 18:19**, of the priests' portion: *it is **a covenant of salt** forever before the
   LORD.*
-- 2 Chronicles, of David's throne: *the LORD God of Israel gave the dominion over Israel
+- **2 Chronicles 13:5**, of David's throne: *the LORD God of Israel gave the dominion over Israel
   to David forever, to him and his sons, **by a covenant of salt**.*
 
 Both times it means unbreakable.
@@ -73,14 +73,14 @@ every offering.
 
 ## The instruction repeated
 
-*With **all** your offerings, bring salt.*
+**2:13** again: *With **all** your offerings, bring salt.*
 
 Leviticus says it three ways in one verse — *season with salt*, *never leave out*, *with
 all your offerings*.
 
 ## Where the picture goes
 
-*"**You are the salt of the earth**; but if the salt loses its flavour, how shall it be
+**Matthew 5:13**: *"**You are the salt of the earth**; but if the salt loses its flavour, how shall it be
 seasoned?"*
 
 And Paul: *let your speech always be with grace, **seasoned with salt**.* See the note on
