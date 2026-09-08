@@ -3,20 +3,20 @@ key: Exodus 3:16–18
 title: A word for the elders
 sources:
   - 2020-12-13 declare-you-are-highly-favored
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Moses is given the message and told, in advance, what the response will be.
 
 ## The errand
 
-*"**Go, gather the elders of Israel together**, and tell them."*
+**3:16** *"**Go, gather the elders of Israel together**, and tell them."*
 
 Not Pharaoh first. The elders.
 
 ## The credentials
 
-*"**The LORD, the God of your fathers, has appeared to me — the God of Abraham, Isaac, and
+Still **3:16**: *"**The LORD, the God of your fathers, has appeared to me — the God of Abraham, Isaac, and
 Jacob**."*
 
 Three names. The elders would know them; the God of the burning bush is being identified by
@@ -30,7 +30,7 @@ message.
 
 ## The two verbs
 
-*"**I have watched over you**, and **I have seen what is being done to you in Egypt**."*
+The end of **3:16**: *"**I have watched over you**, and **I have seen what is being done to you in Egypt**."*
 
 The Hebrew for *watched over* is **paqad** — to visit, to attend to, to take account of.
 
@@ -42,20 +42,20 @@ would have recognised it.
 
 ## The promise
 
-*"And **I promise to bring you up out of your misery in Egypt into the land**."*
+**3:17** *"And **I promise to bring you up out of your misery in Egypt into the land**."*
 
 **Up out of**, and **into**. Both halves.
 
 ## The six nations
 
-*The Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the
+Still **3:17**: *The Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the
 Jebusites.*
 
 The list is given so nobody thinks the land is empty.
 
 ## The description
 
-*"**A land flowing with milk and honey**."*
+Still **3:17**: *"**A land flowing with milk and honey**."*
 
 The phrase enters Scripture here and is used about twenty times afterward.
 
@@ -64,14 +64,14 @@ grazing and growing.
 
 ## The guarantee about the response
 
-*"**The elders will listen to you**."*
+**3:18** *"**The elders will listen to you**."*
 
 Told in advance.
 
 Moses' next line, in chapter 4, is *but suppose they will not believe me* — and God gives
 him three signs anyway.
 
-Exodus 4 records what actually happened: *so the people believed; and when they heard that
+**Exodus 4:31**: *so the people believed; and when they heard that
 the LORD had visited the children of Israel and that He had looked on their affliction,
 then they bowed their heads and worshipped.*
 
@@ -79,7 +79,7 @@ then they bowed their heads and worshipped.*
 
 ## The request to Pharaoh
 
-*"Now please **let us take a three-day journey into the wilderness** to offer sacrifices to
+Still **3:18**: *"Now please **let us take a three-day journey into the wilderness** to offer sacrifices to
 the LORD our God."*
 
 A limited, reasonable ask. It is what Moses is instructed to say, and it is the same
@@ -90,7 +90,7 @@ leave the children; go but leave the flocks.
 
 ## The next sentence
 
-*"But **I am sure that the king of Egypt will not let you go, no, not even by a mighty
+**3:19–20**: *"But **I am sure that the king of Egypt will not let you go, no, not even by a mighty
 hand**. So I will stretch out My hand and strike Egypt."*
 
 He is told the elders will listen and that Pharaoh will not, before either happens.

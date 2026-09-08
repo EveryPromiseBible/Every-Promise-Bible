@@ -4,7 +4,7 @@ title: Who am I
 sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
   - 2022-12-13 prosperity-with-a-purpose
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 He asks the wrong question and gets an answer to a different one.
@@ -19,7 +19,7 @@ Pharaoh**."* See the note on Exodus 3:7–10.
 
 ## The objection
 
-*"**Who am I**, that I should go to Pharaoh — that I should bring the Israelites out of Egypt?"*
+**3:11** *"**Who am I**, that I should go to Pharaoh — that I should bring the Israelites out of Egypt?"*
 
 The Hebrew is **mi anochi**.
 
@@ -28,13 +28,13 @@ The Hebrew is **mi anochi**.
 He is eighty. He left Egypt forty years ago as a fugitive, having killed a man and buried him in
 the sand.
 
-The Israelites had already rejected him once: *who made you a prince and a judge over us?*
+The Israelites had already rejected him once, **Exodus 2:14**: *who made you a prince and a judge over us?*
 
 He has no standing in Egypt and no standing with the people.
 
 ## The answer
 
-*And God said, "**I will be with you**."*
+**3:12** *And God said, "**I will be with you**."*
 
 The Hebrew is **ki-ehyeh immach** — for I will be with you.
 
@@ -59,7 +59,7 @@ note on Exodus 3:13–15.
 
 ## The sign
 
-*"And here is the sign that it is I who sent you: **when you have brought the people out of Egypt,
+Still **3:12**: *"And here is the sign that it is I who sent you: **when you have brought the people out of Egypt,
 you will worship God on this very mountain**."*
 
 ## The problem with the sign
@@ -88,13 +88,13 @@ The sign is fulfilled, and the book records it happening.
 
 Moses raises four more.
 
-*Suppose they will not believe me.* — the staff, the hand, the water.
+**Exodus 4:1**: *Suppose they will not believe me.* — the staff, the hand, the water.
 
-*I am not eloquent… I am slow of speech and slow of tongue.*
+**Exodus 4:10**: *I am not eloquent… I am slow of speech and slow of tongue.*
 
-*O my Lord, please send by the hand of whomever else You may send.*
+**Exodus 4:13**: *O my Lord, please send by the hand of whomever else You may send.*
 
-*So the anger of the LORD was kindled against Moses*, and Aaron is appointed.
+**Exodus 4:14**: *So the anger of the LORD was kindled against Moses*, and Aaron is appointed.
 
 Five objections in one conversation, and only the last one draws anger.
 
@@ -102,7 +102,7 @@ Five objections in one conversation, and only the last one draws anger.
 
 Every one of them is about Moses. God's answers are almost never about Moses.
 
-*"**I will be with you**." "**I AM WHO I AM**." "**Who has made man's mouth?**"*
+**3:12** again: *"**I will be with you**."* **Exodus 3:14**: *"**I AM WHO I AM**."* **Exodus 4:11**: *"**Who has made man's mouth?**"*
 
 ## What Hebrews says
 

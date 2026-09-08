@@ -3,21 +3,21 @@ key: Exodus 3:13–15
 title: "I AM"
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Moses asks for a name and gets one that is a sentence.
 
 ## The question
 
-*"They ask me, 'What is his name?' **What shall I tell them?**"*
+**3:13** *"They ask me, 'What is his name?' **What shall I tell them?**"*
 
 A reasonable question in that world. Every nation had gods with names, and a name
 was what you had to know in order to call on one.
 
 ## The answer
 
-*"**I AM WHO I AM.**"*
+**3:14** *"**I AM WHO I AM.**"*
 
 The Hebrew is **ehyeh asher ehyeh** — the verb *to be*, first person, twice, with
 *who* between them.
@@ -28,13 +28,13 @@ world was tied to.
 
 ## Then the short form
 
-*"Say to the Israelites: **'I AM has sent me to you.'**"*
+Still **3:14**: *"Say to the Israelites: **'I AM has sent me to you.'**"*
 
 He takes His own sentence and gives Moses one word out of it to carry.
 
 ## And then the third form
 
-*"Say to the Israelites, '**the LORD**, the God of your fathers — the God of
+**3:15** *"Say to the Israelites, '**the LORD**, the God of your fathers — the God of
 Abraham, the God of Isaac, and the God of Jacob — has sent me to you.'"*
 
 **The LORD**, in capitals, is **YHWH**, and it is built from the same verb. The
@@ -45,7 +45,7 @@ pure existence is given to Moses fastened to a family.
 
 ## "This is My name forever"
 
-*The name you are to remember Me by **from generation to generation**.*
+Still **3:15**: *The name you are to remember Me by **from generation to generation**.*
 
 Hebrew for *remember* here is the memorial word — the name is given as something
 to be kept in mind, generation after generation.

@@ -4,14 +4,14 @@ title: The bush that would not burn up
 sources:
   - 2021-03-07 come-to-the-feast-of-healing
   - 2026-07-19 weapons-in-times-of-adversity
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Forty years of sheep, and then a shrub.
 
 ## Where he is
 
-*Moses was **tending the flock of his father-in-law Jethro**, the priest of Midian.*
+**3:1** *Moses was **tending the flock of his father-in-law Jethro**, the priest of Midian.*
 
 The man raised in Pharaoh's household is working for his wife's father.
 
@@ -23,7 +23,7 @@ Exodus 18:19–23.
 
 ## How far out
 
-*One day he led the sheep out **past the edge of the wilderness** and came to **Horeb, the
+Still **3:1**: *One day he led the sheep out **past the edge of the wilderness** and came to **Horeb, the
 mountain of God**.*
 
 The Hebrew is *the back side of the desert*.
@@ -36,7 +36,7 @@ The proof of the call is only verifiable after obeying it.
 
 ## The appearance
 
-*There **the angel of the LORD appeared to him in a flame of fire, from the heart of a
+**3:2** *There **the angel of the LORD appeared to him in a flame of fire, from the heart of a
 bush**.*
 
 The Hebrew for *bush* is **seneh** — a thornbush. Not a tree, and not impressive.
@@ -45,7 +45,7 @@ The same three-letter root that gives the mountain its other name.
 
 ## What he saw
 
-*Moses looked — and the bush was on fire, **burning and burning, yet it was not burning
+Still **3:2**: *Moses looked — and the bush was on fire, **burning and burning, yet it was not burning
 up**.*
 
 The Hebrew is a participle: burning, continuous, and *the bush was not consumed*.
@@ -55,7 +55,7 @@ sacrifices, the mountain itself when God descends on it *in fire*.
 
 ## What he said
 
-*"**I have to go closer**," Moses said to himself. "**I have to see this strange thing. Why
+**3:3** *"**I have to go closer**," Moses said to himself. "**I have to see this strange thing. Why
 doesn't the bush turn to ash?**"*
 
 The Hebrew is *I will now turn aside*.

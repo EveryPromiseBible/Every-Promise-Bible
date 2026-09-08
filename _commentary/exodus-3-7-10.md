@@ -5,14 +5,14 @@ sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2025-06-22 no-more-fear-of-death
   - 2026-01-25 reign-with-much-more
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Four hundred years of silence, and then four verbs in a row.
 
 ## The four
 
-*I have seen it — I have truly seen the misery of my people… I have heard them
+**3:7–8**: *I have seen it — I have truly seen the misery of my people… I have heard them
 crying out… **and I know their pain**. So I have come down to rescue them.*
 
 Seen, heard, known, come down. The Hebrew doubles the first — *seeing I have
@@ -33,7 +33,7 @@ reasonably have concluded otherwise.
 
 ## Where He is bringing them
 
-*Out of that land into a good land, a wide-open land, a land flowing with milk and
+**3:8** again: *Out of that land into a good land, a wide-open land, a land flowing with milk and
 honey.*
 
 The Hebrew for *wide-open* is spacious, broad — a word used elsewhere of being
@@ -45,7 +45,7 @@ He does not describe it as adequate. He describes it as generous.
 
 ## The last line
 
-*Now go. I am sending you to Pharaoh.*
+**3:10**: *Now go. I am sending you to Pharaoh.*
 
 Four verbs of divine action, and then the fifth verb is Moses'. The rescue God
 has just described in the first person arrives through a reluctant eighty-year-old
@@ -53,7 +53,7 @@ with a stick.
 
 ## The fourth verb
 
-Seen, heard, known — and then **I have come down**.
+Seen, heard, known — and then, **3:8** again, **I have come down**.
 
 He does not say He will send help, arrange circumstances, or raise up a movement. He says He
 is coming down Himself, and then in the same breath sends a man with a stick.
