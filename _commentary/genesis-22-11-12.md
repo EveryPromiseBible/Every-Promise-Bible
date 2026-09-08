@@ -9,14 +9,14 @@ sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-11-17 goodness-and-grace-beyond-compare
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The hand is already up. Everything in these two verses is about timing.
 
 ## The interruption
 
-*But the angel of the LORD **called to him from heaven** — "**Abraham! Abraham!**"*
+**22:11** *But the angel of the LORD **called to him from heaven** — "**Abraham! Abraham!**"*
 
 The doubled name. It is how the urgent moments in Scripture open — *Moses, Moses* at the
 bush; *Samuel, Samuel* in the night; *Simon, Simon* at the supper table. See the note on
@@ -24,7 +24,7 @@ Luke 22:31–34.
 
 ## The answer
 
-*"**Here I am**," he answered.*
+Still **22:11**: *"**Here I am**," he answered.*
 
 The Hebrew is **hinneni** — the same word he gave when God first called him at the top of
 the chapter, and the same word he gave Isaac on the way up when the boy asked where the
@@ -38,13 +38,13 @@ You want.* See the note on Hebrews 10:5–7.
 
 ## The command
 
-*"**Do not lay a hand on the boy**," the voice said. "**Do nothing to him**."*
+**22:12** *"**Do not lay a hand on the boy**," the voice said. "**Do nothing to him**."*
 
 Twice, in two forms. The prohibition is absolute and immediate.
 
 ## What is now known
 
-*"**Now I know** that you honor God, for you have **not held back your son, your only
+Still **22:12**: *"**Now I know** that you honor God, for you have **not held back your son, your only
 son**, from me."*
 
 The Hebrew for *honor God* is *you are one who fears God* — **yare Elohim**.

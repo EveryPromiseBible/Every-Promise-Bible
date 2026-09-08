@@ -4,14 +4,14 @@ title: He took the knife
 sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2025-09-14 trust-the-way-of-grace
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses, six verbs, and no speech at all.
 
 ## The arrival
 
-*When they came to **the place God had shown him**.*
+**22:9** *When they came to **the place God had shown him**.*
 
 The Hebrew is **el-hammaqom asher amar-lo ha'Elohim**.
 
@@ -47,7 +47,7 @@ The silence over these two verses is the loudest thing in Genesis.
 
 ## The altar
 
-*Abraham **built an altar there and arranged the wood on it**.*
+Still **22:9**: *Abraham **built an altar there and arranged the wood on it**.*
 
 He builds it himself, stone by stone, with his son watching.
 
@@ -55,7 +55,7 @@ However long that took, Isaac stood there.
 
 ## The binding
 
-*He **bound his son Isaac**.*
+Still **22:9**: *He **bound his son Isaac**.*
 
 The Hebrew is **vayya'aqod** — and he bound.
 
@@ -79,13 +79,13 @@ The narrative does not say so. It says he was bound, and does not record a strug
 
 ## The position
 
-*And **laid him on the altar, on top of the wood**.*
+The end of **22:9**: *And **laid him on the altar, on top of the wood**.*
 
 The wood he had carried up.
 
 ## The hand
 
-*Then Abraham **reached out his hand and took the knife**.*
+**22:10** *Then Abraham **reached out his hand and took the knife**.*
 
 The Hebrew is **vayyishlach Avraham et-yado vayyiqqach et-hamma'achelet**.
 
@@ -93,9 +93,9 @@ The verse ends there.
 
 ## What stops it
 
-*But the Angel of the LORD called to him from heaven and said, "**Abraham, Abraham!**"*
+**22:11**: *But the Angel of the LORD called to him from heaven and said, "**Abraham, Abraham!**"*
 
-*"Do not lay your hand on the lad, or do anything to him."* See the note on
+**22:12**: *"Do not lay your hand on the lad, or do anything to him."* See the note on
 Genesis 22:11–12.
 
 The name twice, which is how urgency is spoken in Hebrew.
@@ -108,7 +108,7 @@ The narrator does not draw it out and does not need to.
 
 ## What was intended
 
-*"For **now I know that you fear God**, since you have not withheld your son, your only son, from
+The rest of **22:12**: *"For **now I know that you fear God**, since you have not withheld your son, your only son, from
 Me."*
 
 The Hebrew is **velo chasachta** — and you have not withheld.

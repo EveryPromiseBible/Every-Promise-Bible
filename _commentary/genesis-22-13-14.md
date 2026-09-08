@@ -6,21 +6,21 @@ sources:
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-09-01 answers-for-lifes-demands
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 He looks up expecting nothing and finds an animal that has been stuck there for some time.
 
 ## Where the knife stopped
 
-*"Abraham, Abraham!"… "**Do not lay your hand on the lad**… for now I know that you fear God."*
+**22:11–12**: *"Abraham, Abraham!"… "**Do not lay your hand on the lad**… for now I know that you fear God."*
 See the note on Genesis 22:11–12.
 
 The name twice, which is how urgency is spoken in Hebrew.
 
 ## The lift of the eyes
 
-*Abraham **looked up**, and there in a thicket was **a ram, caught by its horns**.*
+**22:13** *Abraham **looked up**, and there in a thicket was **a ram, caught by its horns**.*
 
 The Hebrew is **vayissa Avraham et-einav** — and Abraham lifted his eyes.
 
@@ -36,7 +36,7 @@ grown male sheep, which is the animal a lamb becomes.
 
 ## The horns
 
-*Caught by its horns.*
+Still **22:13**: *Caught by its horns.*
 
 The Hebrew is **ne'echaz basvach bekarnav** — held fast in a thicket by its horns.
 
@@ -47,7 +47,7 @@ Whatever hour it wandered in, it was before Abraham lifted his eyes.
 
 ## The substitution
 
-*He went and took the ram and offered it up **in place of his son**.*
+The end of **22:13**: *He went and took the ram and offered it up **in place of his son**.*
 
 The Hebrew is **tachat beno** — in the place of, instead of, under.
 
@@ -56,7 +56,7 @@ statute.
 
 ## The naming
 
-*So Abraham named that place **The LORD Will Provide**.*
+**22:14** *So Abraham named that place **The LORD Will Provide**.*
 
 The Hebrew is **YHWH Yireh** — the LORD will see.
 
@@ -66,7 +66,7 @@ It is the same word Abraham used to Isaac on the way up: *God will see for Himse
 
 ## The proverb
 
-*And **to this day people say, "On the mountain of the LORD it will be provided."**"*
+The rest of **22:14**: *And **to this day people say, "On the mountain of the LORD it will be provided."**"*
 
 The Hebrew is **behar YHWH yera'eh** — on the mountain of the LORD it will be seen.
 

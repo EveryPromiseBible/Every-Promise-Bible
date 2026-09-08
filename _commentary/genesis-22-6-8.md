@@ -3,14 +3,14 @@ key: Genesis 22:6–8
 title: Where is the lamb
 sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 A boy carries the wood and asks the only question that matters.
 
 ## The load
 
-*Abraham took **the wood for the offering and laid it on Isaac's shoulders**.*
+**22:6** *Abraham took **the wood for the offering and laid it on Isaac's shoulders**.*
 
 The Hebrew is **vayyasem al-Yitzchaq beno** — and he put it on Isaac his son.
 
@@ -21,14 +21,14 @@ The son carries the wood his father prepared.
 
 ## What the father carries
 
-*He himself carried **the fire and the knife**.*
+Still **22:6**: *He himself carried **the fire and the knife**.*
 
 The two dangerous things. Isaac is old enough to carry a load up a mountain and his father keeps
 the blade.
 
 ## The refrain
 
-*And **the two of them walked on together**.*
+The end of **22:6**: *And **the two of them walked on together**.*
 
 The Hebrew is **vayyelchu shenehem yachdav**.
 
@@ -42,11 +42,11 @@ The first words either of them speaks to the other are in verse 7.
 
 ## The question
 
-*Then Isaac spoke up. "**Father?**"*
+**22:7** *Then Isaac spoke up. "**Father?**"*
 
 The Hebrew is **avi** — my father.
 
-*"**Yes, my son**," Abraham answered.*
+Still **22:7**: *"**Yes, my son**," Abraham answered.*
 
 **Hinneni beni** — here I am, my son.
 
@@ -55,20 +55,20 @@ Three times **hinneni**, and one of them is to the boy.
 
 ## The observation
 
-*"We have the fire and the wood," Isaac said.*
+Still **22:7**: *"We have the fire and the wood," Isaac said.*
 
 He has been carrying one and watching the other. He has done this before and knows what is
 missing.
 
 ## The question itself
 
-*"But **where is the lamb for the offering?**"*
+The rest of **22:7**: *"But **where is the lamb for the offering?**"*
 
 The Hebrew is **ayyeh hasseh le'olah** — where is the lamb for the burnt offering?
 
 ## The answer
 
-*"**God will provide the lamb for Himself, my son**."*
+**22:8** *"**God will provide the lamb for Himself, my son**."*
 
 The Hebrew is **Elohim yir'eh-lo hasseh** — God will see for Himself the lamb.
 
@@ -97,7 +97,7 @@ The Greek is **logisamenos** — having calculated.
 
 ## The repeat
 
-*And **the two of them walked on together**.*
+The end of **22:8**: *And **the two of them walked on together**.*
 
 Same clause, after the answer. The conversation changes nothing about the walking.
 

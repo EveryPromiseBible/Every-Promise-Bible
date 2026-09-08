@@ -5,14 +5,14 @@ sources:
   - 2020-07-05 strong-encouragement-in-times-of-famine
   - 2021-10-17 gods-heart-for-your-family
   - 2022-05-08 own-your-new-creation-identity
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The voice comes a second time, and this one is an oath.
 
 ## The second call
 
-*The angel of the LORD called to Abraham from heaven **a second time**.*
+**22:15** *The angel of the LORD called to Abraham from heaven **a second time**.*
 
 The first stopped the knife. See the note on Genesis 22:11–12.
 
@@ -21,7 +21,7 @@ place has been named.
 
 ## The oath
 
-*"**I swear by myself**, declares the LORD."*
+**22:16** *"**I swear by myself**, declares the LORD."*
 
 The only time in Genesis God does this.
 
@@ -30,7 +30,7 @@ argument out of that one clause. See the note on Hebrews 6:13–14.
 
 ## The reason given
 
-*"**Because you have done this** and **have not held back your son, your only son**."*
+The rest of **22:16**: *"**Because you have done this** and **have not held back your son, your only son**."*
 
 The same phrase as verse 12, repeated word for word.
 
@@ -41,14 +41,14 @@ up for us all.*
 
 ## The blessing
 
-*"**I will surely bless you**."*
+**22:17** *"**I will surely bless you**."*
 
 The Hebrew doubles the verb — *blessing I will bless you*. Hebrews carries it straight
 over into Greek. See the note on Hebrews 6:13–14.
 
 ## The two measures
 
-*"I will make your descendants **as many as the stars in the sky** and **as the sand on
+Still **22:17**: *"I will make your descendants **as many as the stars in the sky** and **as the sand on
 the seashore**."*
 
 Both had been used before — the stars in Genesis 15, when Abram was taken outside at
@@ -58,14 +58,14 @@ Here both, together, at the end of the hardest thing he ever did.
 
 ## The gates
 
-*"Your descendants will **possess the gates of their enemies**."*
+The end of **22:17**: *"Your descendants will **possess the gates of their enemies**."*
 
 The gate was where a city's business was done and where it was defended. To hold the gate
 is to hold the city.
 
 ## The last promise
 
-*"And **through your offspring all nations on earth will be blessed**."*
+**22:18** *"And **through your offspring all nations on earth will be blessed**."*
 
 This is the clause that reaches past Israel. It was in the first call, in Genesis 12, and
 it is repeated here at the end.
@@ -75,7 +75,7 @@ Paul reads it precisely: *He does not say, "And to seeds," as of many, but as of
 
 ## What it rests on
 
-*"**Because you have obeyed my voice**."*
+The rest of **22:18**: *"**Because you have obeyed my voice**."*
 
 Stated twice in the paragraph — *because you have done this*, and *because you have
 obeyed*.

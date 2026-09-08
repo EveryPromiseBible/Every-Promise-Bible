@@ -9,7 +9,7 @@ sources:
   - 2024-08-18 live-by-the-power-of-the-gospel
   - 2024-09-01 answers-for-lifes-demands
   - 2025-09-14 trust-the-way-of-grace
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The opening of the hardest chapter in Genesis, and the reader is told at the start what
@@ -17,7 +17,7 @@ Abraham is not told.
 
 ## What the reader knows
 
-*Sometime later, **God tested Abraham**.*
+**22:1** *Sometime later, **God tested Abraham**.*
 
 The Hebrew is **nissah** — to test, to prove, to put to the trial.
 
@@ -28,7 +28,7 @@ James 1:13.
 
 ## The call
 
-*He called to him, "**Abraham**." And Abraham answered, "**Here I am**."*
+The rest of **22:1**: *He called to him, "**Abraham**." And Abraham answered, "**Here I am**."*
 
 The Hebrew is **hinneni** — here I am, at your disposal.
 
@@ -37,7 +37,7 @@ voice that stops him. See the note on Genesis 22:11–12.
 
 ## The four descriptions
 
-*"**Take your son — your only son, Isaac, the one you love**."*
+**22:2** *"**Take your son — your only son, Isaac, the one you love**."*
 
 Four, and each narrows:
 
@@ -55,7 +55,7 @@ a father to give up the son.
 
 ## The destination
 
-*"**Go to the land of Moriah**."*
+Still **22:2**: *"**Go to the land of Moriah**."*
 
 2 Chronicles: *Solomon began to build the house of the LORD at Jerusalem **on Mount
 Moriah***.
@@ -65,7 +65,7 @@ took.
 
 ## The instruction
 
-*"There, **on a mountain I will show you**, offer him up to me as a burnt offering."*
+The end of **22:2**: *"There, **on a mountain I will show you**, offer him up to me as a burnt offering."*
 
 **A mountain I will show you** — the same construction as the original call: *get out of
 your country… **to a land that I will show you***.
@@ -78,17 +78,17 @@ Anything. No reason is given, no assurance offered, and no alternative mentioned
 
 ## The line Moses adds
 
-*Every word landed heavier than the last: **your son, your only son, the one you love**.*
+Still **22:2**: *Every word landed heavier than the last: **your son, your only son, the one you love**.*
 
 ## What Abraham did
 
-*So Abraham **rose early in the morning**, saddled his donkey, split the wood, and went.*
+**22:3**: *So Abraham **rose early in the morning**, saddled his donkey, split the wood, and went.*
 
 Genesis gives no conversation with Sarah and no night of wrestling. It gives an itinerary.
 
 ## What he said at the foot of the hill
 
-*"Stay here with the donkey; the lad and I will go yonder and worship, **and we will come
+**22:5**: *"Stay here with the donkey; the lad and I will go yonder and worship, **and we will come
 back to you**."*
 
 Plural. Hebrews explains it: *he had worked it out that God could raise the dead.* See the
@@ -96,9 +96,9 @@ note on Hebrews 11:17–22.
 
 ## What he said on the way up
 
-Isaac: *"Behold, the fire and the wood, but **where is the lamb** for a burnt offering?"*
+Isaac, **22:7**: *"Behold, the fire and the wood, but **where is the lamb** for a burnt offering?"*
 
-And the answer: *"My son, **God will provide for Himself the lamb**."*
+And the answer, **22:8**: *"My son, **God will provide for Himself the lamb**."*
 
 ## What was on the mountain
 
