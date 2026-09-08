@@ -3,14 +3,14 @@ key: Exodus 2:23–25
 title: And God knew
 sources:
   - dgi just-a-groan-will-reach-the-throne
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Four verbs with God as the subject, and the last one has no object.
 
 ## The time
 
-*Years passed, and **the king of Egypt died**.*
+**2:23** *Years passed, and **the king of Egypt died**.*
 
 Moses is eighty by the end of this stretch. Forty years in Pharaoh's house, forty in Midian keeping
 another man's sheep.
@@ -19,13 +19,13 @@ The king whose death is reported here is the one he fled from.
 
 ## What did not change
 
-*The Israelites **still groaned under their slavery**.*
+Still **2:23**: *The Israelites **still groaned under their slavery**.*
 
 A new Pharaoh, and the same bricks.
 
 ## The sound
 
-*And they **cried out**, and their **cry for help rose up to God**.*
+The end of **2:23**: *And they **cried out**, and their **cry for help rose up to God**.*
 
 The Hebrew is **vayyiz'aqu** — they cried out. And **vatta'al shav'atam** — their cry went up.
 
@@ -38,7 +38,7 @@ in pain, and says it went up.
 
 ## The first verb
 
-*God **heard** their groaning.*
+**2:24** *God **heard** their groaning.*
 
 The Hebrew is **vayyishma Elohim et-na'aqatam**.
 
@@ -46,7 +46,7 @@ The Hebrew is **vayyishma Elohim et-na'aqatam**.
 
 ## The second
 
-*And He **remembered** His covenant with Abraham, with Isaac, and with Jacob.*
+Still **2:24**: *And He **remembered** His covenant with Abraham, with Isaac, and with Jacob.*
 
 The Hebrew is **vayyizkor**.
 
@@ -70,13 +70,13 @@ The groaning in this verse is inside a period God had already named.
 
 ## The third
 
-*God **looked on** the people of Israel.*
+**2:25** *God **looked on** the people of Israel.*
 
 The Hebrew is **vayyar Elohim** — and God saw.
 
 ## The fourth
 
-*And **God knew**.*
+Still **2:25**: *And **God knew**.*
 
 The Hebrew is **vayyeda Elohim**.
 

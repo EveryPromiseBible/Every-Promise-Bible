@@ -4,7 +4,7 @@ title: Drawn from the water
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2024-06-30 own-your-calling-and-portion
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The decree said put him in the Nile. She put him in the Nile.
@@ -17,7 +17,7 @@ exactly what the law required — and seals him first.
 
 ## The basket
 
-*A basket of **papyrus**, sealed with **tar and pitch**.*
+**2:3** *A basket of **papyrus**, sealed with **tar and pitch**.*
 
 The Hebrew word for the basket is **tebah**. It occurs in only one other place in
 the whole Bible: Noah's ark.
@@ -31,7 +31,7 @@ inside and out with pitch.*
 
 ## Where she put it
 
-*Among the reeds along the bank of the Nile.*
+Still **2:3**: *Among the reeds along the bank of the Nile.*
 
 The Hebrew for reeds is **suph** — the same word in *Yam Suph*, the Sea of Reeds,
 which is the sea that will open for this child eighty years later.
@@ -40,27 +40,27 @@ He is drawn out of the reeds, and he brings a nation out through the reeds.
 
 ## Who comes down to the river
 
-*Then **Pharaoh's daughter** came down to bathe at the river.*
+**2:5** *Then **Pharaoh's daughter** came down to bathe at the river.*
 
 Of everyone in Egypt who could have found that basket, it is found by the
 daughter of the man who signed the order.
 
-*Her heart went out to him.* And she names the problem out loud: *"This is one of
+**2:6**: *Her heart went out to him.* And she names the problem out loud: *"This is one of
 the Hebrew children."* She knows precisely what she is looking at and takes him
 anyway.
 
 ## The sister
 
-*The baby's sister **stepped forward**.*
+**2:4** *The baby's sister **stepped forward**.*
 
 Miriam has been standing at a distance watching. She waits for the right moment
 and speaks to a princess.
 
-*"Shall I go and find a Hebrew woman to nurse the child for you?"*
+**2:7**: *"Shall I go and find a Hebrew woman to nurse the child for you?"*
 
 ## What the mother got
 
-*"Take this child and nurse him for me, **and I will pay you**."*
+**2:9** *"Take this child and nurse him for me, **and I will pay you**."*
 
 She is handed back her own son, with the protection of the palace over him, and
 Egypt pays her wages to raise him.
@@ -70,7 +70,7 @@ salaried, and safe.
 
 ## The name
 
-*She named him **Moses**, saying, "I drew him out of the water."*
+**2:10** *She named him **Moses**, saying, "I drew him out of the water."*
 
 The Egyptian princess gives him a Hebrew name, or one that works in both
 languages. And it becomes the name of a man whose whole life is drawing people

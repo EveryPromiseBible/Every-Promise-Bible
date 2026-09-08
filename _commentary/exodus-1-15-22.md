@@ -3,14 +3,14 @@ key: Exodus 1:15–22
 title: The midwives who feared God
 sources:
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Two women are named in this passage. The king of Egypt is not.
 
 ## Who gets a name
 
-*The Hebrew midwives, **Shiphrah and Puah**.*
+**1:15** *The Hebrew midwives, **Shiphrah and Puah**.*
 
 The most powerful man in the world is *the king of Egypt* and *Pharaoh*, a title,
 never a name. Two midwives are recorded by name and have been read out loud for
@@ -20,7 +20,7 @@ The writer's judgement about who mattered is built into the sentence.
 
 ## The order
 
-*They were to **put the newborn Hebrew boys to death**.*
+**1:16** *They were to **put the newborn Hebrew boys to death**.*
 
 The boys only. It is the same shape as Haman's decree — an administrative
 solution to a people who are increasing, carried out through the ordinary
@@ -31,7 +31,7 @@ on what is weakest and cannot resist.
 
 ## What they did
 
-*But the midwives **feared God**, and they refused to do it; they let the boys
+**1:17** *But the midwives **feared God**, and they refused to do it; they let the boys
 live.*
 
 The reason given is not compassion, courage or ethics. It is fear of God, and the
@@ -42,7 +42,7 @@ phrase, on the opposite side.
 
 ## What they said
 
-*When the king demanded why, they answered that the Hebrew mothers were strong
+**1:18–19**: *When the king demanded why, they answered that the Hebrew mothers were strong
 and gave birth before they could arrive.*
 
 They lie to Pharaoh's face. The text records it without a word of criticism, and
@@ -50,7 +50,7 @@ the next sentence is about God being kind to them.
 
 ## What they were given
 
-*So **God was kind to the midwives**, and because they honoured Him, **He gave
+**1:20–21**: *So **God was kind to the midwives**, and because they honoured Him, **He gave
 them families of their own**.*
 
 Two women who spent their lives delivering other women's babies were given
@@ -60,7 +60,7 @@ The reward matches the work exactly.
 
 ## The escalation
 
-*At last Pharaoh ordered **all his people** that every newborn Hebrew boy was to
+**1:22** *At last Pharaoh ordered **all his people** that every newborn Hebrew boy was to
 be cast into the Nile.*
 
 The private instruction failed, so it becomes public policy. Every Egyptian is
@@ -71,7 +71,7 @@ made the instrument.
 
 ## What the New Testament calls it
 
-*By faith **Moses, when he was born, was hidden three months by his parents**, because they saw
+**Hebrews 11:23**: *By faith **Moses, when he was born, was hidden three months by his parents**, because they saw
 he was a beautiful child; and **they were not afraid of the king's command**.*
 
 Hebrews puts the whole episode under one heading, and the heading is faith.
@@ -79,7 +79,7 @@ Hebrews puts the whole episode under one heading, and the heading is faith.
 Two midwives and a Levite couple, none of them in a position to refuse anything, and the roll
 call of faith has them in it beside Abraham and Moses.
 
-> **What comes of it.** *Still the people kept increasing.* Said in the middle of
+> **What comes of it.** **1:20** again: *Still the people kept increasing.* Said in the middle of
 > the chapter and true at the end of it. And the very next paragraph has a Levite
 > woman putting her son into the Nile in a basket, into the hands of Pharaoh's own
 > daughter. See the note on Exodus 2:1–10.
