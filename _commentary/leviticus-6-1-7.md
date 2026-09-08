@@ -5,14 +5,14 @@ sources:
   - 2021-04-25 your-failure-isnt-final
   - 2021-05-09 made-right-in-his-sight
   - 2023-02-19 much-more-restoration-is-coming
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 A law about property, and it starts by calling the offence something else.
 
 ## Who is sinned against
 
-*If someone sins and acts **unfaithfully against the LORD** by **deceiving a neighbor**.*
+**6:2** *If someone sins and acts **unfaithfully against the LORD** by **deceiving a neighbor**.*
 
 The Hebrew is **ma'al** — treachery, breach of trust. The word used of Achan's theft at
 Jericho and of Uzziah entering the temple.
@@ -21,7 +21,7 @@ The victim is the neighbour. The party named as offended is God.
 
 ## The five ways
 
-*About something **entrusted to him**, or **left in his care**, or **stolen**, or by
+Still **6:2**: *About something **entrusted to him**, or **left in his care**, or **stolen**, or by
 **cheating his neighbor**, or by **finding lost property and lying about it**.*
 
 Five, and only one of them is theft in the ordinary sense.
@@ -32,14 +32,14 @@ Each one is deniable. Every item on the list is a wrong that could be argued abo
 
 ## The oath
 
-*Swearing falsely about any such sin.*
+**6:3**: *Swearing falsely about any such sin.*
 
 That is what turns it from a civil matter into a trespass against the LORD. He is invoked
 as witness to the lie.
 
 ## The restitution
 
-*He must **return what he took**… he must **pay it back in full, add a fifth of its value**,
+**6:4–5**: *He must **return what he took**… he must **pay it back in full, add a fifth of its value**,
 and give it all to the owner.*
 
 A hundred per cent, plus twenty. The Hebrew is *its fifth he shall add to it*.
@@ -48,18 +48,18 @@ The owner ends up better off than before the theft.
 
 ## The timing
 
-*On **the day he brings his guilt offering**.*
+**6:5** again: *On **the day he brings his guilt offering**.*
 
 The payment and the sacrifice happen on the same day, and the neighbour is paid first in the
 order of the sentence.
 
-Jesus says the same thing about the altar: *if you bring your gift to the altar, and there
+Jesus says the same thing about the altar, **Matthew 5:23–24**: *if you bring your gift to the altar, and there
 remember that your brother has something against you, leave your gift there… first be
 reconciled to your brother, and then come and offer your gift*.
 
 ## The offering
 
-*A **ram without flaw** from the flock, **of the proper value**.*
+**6:6** *A **ram without flaw** from the flock, **of the proper value**.*
 
 The Hebrew for the offering is **asham** — the guilt offering, or trespass offering.
 
@@ -76,7 +76,7 @@ comes with restitution attached.
 
 ## What it says at the end
 
-*The priest **makes things right for him** before the LORD, and **he is forgiven** for
+**6:7** *The priest **makes things right for him** before the LORD, and **he is forgiven** for
 whatever he did that made him guilty.*
 
 The Hebrew is *and it shall be forgiven him* — a passive. Nothing is said about what he
@@ -84,7 +84,7 @@ feels afterwards.
 
 ## Who initiates it
 
-The whole procedure assumes a confession. Numbers 5 makes it explicit: *when a man or woman
+The whole procedure assumes a confession. Numbers 5 makes it explicit, **5:6–7**: *when a man or woman
 commits any sin… then he shall confess the sin which he has committed*.
 
 Nobody catches him. He comes forward, having sworn an oath that he did not do it.
