@@ -4,7 +4,7 @@ title: "I have all I need"
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Two brothers meet after twenty years, and the argument is about a gift.
@@ -21,14 +21,14 @@ He limps into this meeting.
 
 ## What actually happened
 
-*But Esau **ran to meet him, and embraced him, and fell on his neck and kissed him, and they
+**33:4** *But Esau **ran to meet him, and embraced him, and fell on his neck and kissed him, and they
 wept**.*
 
 Nothing Jacob planned for was needed.
 
 ## The question
 
-*Esau asked, "**What did you mean by all those herds I met on the way?**"*
+**33:8** *Esau asked, "**What did you mean by all those herds I met on the way?**"*
 
 Two hundred female goats, twenty males, two hundred ewes, twenty rams, thirty camels with
 their young, forty cows, ten bulls, twenty female donkeys and ten foals — sent in separate
@@ -38,7 +38,7 @@ Esau wants to know what it was for.
 
 ## The answer
 
-*"**To find favor in your eyes, my lord**."*
+The rest of **33:8**: *"**To find favor in your eyes, my lord**."*
 
 The Hebrew is **chen** — grace.
 
@@ -46,7 +46,7 @@ Jacob is still buying safety from a man who has already embraced him.
 
 ## Esau's reply
 
-*"**I already have plenty, my brother. Keep what is yours**."*
+**33:9** *"**I already have plenty, my brother. Keep what is yours**."*
 
 The Hebrew is **yesh li rav** — I have much.
 
@@ -54,7 +54,7 @@ The Hebrew is **yesh li rav** — I have much.
 
 ## Jacob's insistence
 
-*"No, please… if I have found favor in your eyes, then **accept this gift from my hand**."*
+**33:10** *"No, please… if I have found favor in your eyes, then **accept this gift from my hand**."*
 
 The Hebrew for *gift* here is **berakah** — blessing. Not the ordinary word for a present.
 
@@ -62,7 +62,7 @@ He is handing back a blessing to the brother he took one from.
 
 ## The sentence
 
-*"For **seeing your face is like seeing the face of God**, now that you have received me so
+The rest of **33:10**: *"For **seeing your face is like seeing the face of God**, now that you have received me so
 kindly."*
 
 He had said the same thing about the night before: *I have seen God face to face, and my
@@ -72,9 +72,9 @@ Two faces in two nights, and he uses the same phrase for both.
 
 ## The two claims
 
-Esau: *I have **plenty**.* — **rav**, much.
+Esau, **33:9**: *I have **plenty**.* — **rav**, much.
 
-Jacob: *God has been gracious to me, and **I have all I need**.* — **yesh li kol**, I have
+Jacob, **33:11**: *God has been gracious to me, and **I have all I need**.* — **yesh li kol**, I have
 everything.
 
 The Hebrew words are different and the difference is the point. Much, and all.
@@ -83,7 +83,7 @@ Jacob is the one who arrived expecting to be killed.
 
 ## The reason he gives
 
-*For **God has been gracious to me**.*
+Still **33:11**: *For **God has been gracious to me**.*
 
 The Hebrew is **channani** — from the same root as the favour he keeps asking Esau for.
 
@@ -91,7 +91,7 @@ He is asking a man for grace while saying God has already given him it.
 
 ## The outcome
 
-*So Jacob **urged him, and Esau accepted it**.*
+The end of **33:11**: *So Jacob **urged him, and Esau accepted it**.*
 
 ## What happens after
 
@@ -107,7 +107,7 @@ The two brothers meet once more, at their father Isaac's burial, and bury him to
 Jacob had spent the night wrestling and the morning arranging his family in order of how much
 he could afford to lose. He bows seven times on the way across.
 
-*But **Esau ran to meet him, and embraced him, and fell on his neck and kissed him**, and they
+**33:4**: *But **Esau ran to meet him, and embraced him, and fell on his neck and kissed him**, and they
 wept.*
 
 ## Where those verbs go
@@ -123,7 +123,7 @@ Esau reached him before any of it was needed.
 
 ## What Jacob says
 
-*"**I have all I need.**"*
+**33:11**: *"**I have all I need.**"*
 
 The Hebrew is **yesh-li kol** — I have everything. Esau had said **yesh-li rav** — I have
 plenty.
@@ -131,7 +131,7 @@ plenty.
 One is a man with a lot. The other is a man with enough, and he says it on the morning he
 found out he was not going to be killed.
 
-*"I have seen your face **as though I had seen the face of God**, and you were pleased with
+**33:10**: *"I have seen your face **as though I had seen the face of God**, and you were pleased with
 me."*
 
 Said the day after Peniel, about his brother's face, using the same word. See the note on
