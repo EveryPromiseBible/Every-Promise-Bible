@@ -4,14 +4,14 @@ title: What is that in your hand
 sources:
   - 2021-04-04 stand-on-favor-ground
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 
 God answers an objection by asking about an object.
 
 ## The objection
 
-*"**But what if they don't believe me? What if they won't listen and say, 'The LORD never
+**4:1** *"**But what if they don't believe me? What if they won't listen and say, 'The LORD never
 appeared to you'?**"*
 
 Moses' third objection. He has already asked *who am I* and *what is Your name*.
@@ -20,13 +20,13 @@ The bush is still burning while this conversation happens. See the note on Exodu
 
 ## The question
 
-*"**What is that in your hand?**"*
+**4:2** *"**What is that in your hand?**"*
 
 God does not answer the objection. He asks about equipment.
 
 ## The answer
 
-*"A staff."*
+Still **4:2**: *"A staff."*
 
 The Hebrew is **matteh** — a shepherd's stick.
 
@@ -35,13 +35,13 @@ mentions. A piece of wood, worn to his grip.
 
 ## The instruction
 
-*"**Throw it on the ground**."*
+**4:3** *"**Throw it on the ground**."*
 
 One verb. Let go of the only thing you have.
 
 ## What it became
 
-*Moses threw it down, and **it became a snake, and he ran from it**.*
+Still **4:3**: *Moses threw it down, and **it became a snake, and he ran from it**.*
 
 The Hebrew is **nachash** — the word in Genesis 3. See the note on Genesis 3:1–5.
 
@@ -49,7 +49,7 @@ He does not stay to watch. The text says he fled.
 
 ## The second instruction
 
-*"**Reach out and take it by the tail**."*
+**4:4** *"**Reach out and take it by the tail**."*
 
 Every instinct in a man who handles snakes says the head. Take it by the tail and it can
 turn on your arm.
@@ -58,13 +58,13 @@ There is no promise attached. He is told to grab the dangerous end of the wrong 
 
 ## What happened
 
-*So he **reached out and grabbed it**, and **in his hand it turned back into a staff**.*
+Still **4:4**: *So he **reached out and grabbed it**, and **in his hand it turned back into a staff**.*
 
 The transformation happens on contact.
 
 ## The stated purpose
 
-*"**This is so they may believe**," God said, "that the LORD, **the God of their fathers**
+**4:5** *"**This is so they may believe**," God said, "that the LORD, **the God of their fathers**
 — the God of Abraham, the God of Isaac, and the God of Jacob — has appeared to you."*
 
 The sign is for the audience, not for Moses. His objection was *they will not believe me*,
@@ -105,7 +105,7 @@ Elisha asks the widow the same kind of question — *what do you have in the hou
 **Nachash** — the word from the garden. The thing that ruined everything is on the ground in
 front of him, and he runs from it. See the note on Genesis 3:1–5.
 
-Then: *reach out and take it by the tail.*
+Then, **4:4** again: *reach out and take it by the tail.*
 
 He is told to pick up the serpent, and in his hand it stops being one.
 
