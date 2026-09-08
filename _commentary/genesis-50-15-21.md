@@ -4,14 +4,14 @@ title: "You meant it for evil"
 sources:
   - 2020-06-28 release-the-power-of-the-spirit-with-this-truth
   - 2021-04-11 all-things-work-for-your-good
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Seventeen years after the reconciliation, the brothers are still not sure.
 
 ## What triggers it
 
-*When Joseph's brothers saw that **their father was dead**.*
+**50:15** *When Joseph's brothers saw that **their father was dead**.*
 
 Jacob has just been buried at Machpelah, with a state procession of Egyptian officials
 and chariots.
@@ -20,7 +20,7 @@ They waited until the funeral was over.
 
 ## The fear
 
-*"**What if Joseph still holds a grudge against us** and pays us back for all the wrong we
+Still **50:15**: *"**What if Joseph still holds a grudge against us** and pays us back for all the wrong we
 did him?"*
 
 The Hebrew is *what if Joseph hates us*.
@@ -33,11 +33,11 @@ Seventeen years of provision, and they think it was for their father's sake.
 
 ## The message
 
-*So they **sent word** to Joseph.*
+**50:16** *So they **sent word** to Joseph.*
 
 They do not come. They send.
 
-*"Before he died, **your father gave this command**: 'Say to Joseph: Please forgive your
+**50:16–17**: *"Before he died, **your father gave this command**: 'Say to Joseph: Please forgive your
 brothers' offense.'"*
 
 Genesis never records Jacob saying it. Whether he did or not, they put the request in a
@@ -45,14 +45,14 @@ dead man's mouth rather than their own.
 
 ## What they call themselves
 
-*"Now please forgive the offense of **the servants of the God of your father**."*
+**50:17** *"Now please forgive the offense of **the servants of the God of your father**."*
 
 They reach for the strongest connection they have and it is still second-hand — *your*
 father's God.
 
 ## His reaction
 
-*When their message came to him, **Joseph wept**.*
+The end of **50:17**: *When their message came to him, **Joseph wept**.*
 
 The Hebrew says nothing more. It is the seventh time Genesis records him weeping.
 
@@ -60,7 +60,7 @@ He weeps because after seventeen years they sent a message.
 
 ## The prostration
 
-*Then his brothers came and **threw themselves down before him**. "**We are your
+**50:18** *Then his brothers came and **threw themselves down before him**. "**We are your
 slaves**," they said.*
 
 The dream from chapter 37 — the sheaves bowing — completes itself here, and by then
@@ -68,7 +68,7 @@ nobody in the room wants it.
 
 ## His answer
 
-*"**Don't be afraid. Am I in the place of God?**"*
+**50:19** *"**Don't be afraid. Am I in the place of God?**"*
 
 The Hebrew is *am I in God's stead?*
 
@@ -77,7 +77,7 @@ hold.
 
 ## The sentence
 
-*"**You meant it for evil against me, but God meant it for good**."*
+**50:20** *"**You meant it for evil against me, but God meant it for good**."*
 
 The Hebrew uses the same verb twice — **chashab**, to weave, to devise, to reckon. Both
 parties intended, and the intentions ran in opposite directions over the same event.
@@ -86,19 +86,19 @@ He does not soften what they did. *You meant it for evil* stays in the sentence.
 
 ## What the good was
 
-*"**To bring about what is happening today — the saving of many lives**."*
+Still **50:20**: *"**To bring about what is happening today — the saving of many lives**."*
 
 Not his promotion. The survival of a region through seven years of famine, and of the
 family the covenant ran through. See the note on Genesis 41:53–57.
 
 ## What he does about it
 
-*"So don't be afraid. **I will provide for you and your little ones**."*
+**50:21** *"So don't be afraid. **I will provide for you and your little ones**."*
 
 The Hebrew for *provide* is **kul** — to sustain, to nourish. The same word he had used
 in chapter 45.
 
-*And he **comforted them and spoke tenderly to them**.*
+Still **50:21**: *And he **comforted them and spoke tenderly to them**.*
 
 The Hebrew is *spoke to their heart*.
 

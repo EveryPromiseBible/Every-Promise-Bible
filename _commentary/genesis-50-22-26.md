@@ -3,14 +3,14 @@ key: Genesis 50:22–26
 title: Carry my bones up
 sources:
   - 2021-07-18 christ-consciousness-brings-life
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The last paragraph of Genesis, and it ends with a box.
 
 ## The span
 
-*Joseph stayed in Egypt, along with his father's whole family, and he **lived a hundred and
+**50:22** *Joseph stayed in Egypt, along with his father's whole family, and he **lived a hundred and
 ten years**.*
 
 A hundred and ten was the ideal lifespan in Egyptian literature — the number that turns up in
@@ -20,7 +20,7 @@ Genesis gives him the Egyptian ideal and then has him ask to be buried elsewhere
 
 ## What he saw
 
-*He saw **the third generation of Ephraim's children**, and the children of **Makir son of
+**50:23** *He saw **the third generation of Ephraim's children**, and the children of **Makir son of
 Manasseh** were **placed on his knees** as his own.*
 
 Great-grandchildren on the knees of the man his brothers threw in a pit.
@@ -30,7 +30,7 @@ Manasseh in the chapter before.
 
 ## The announcement
 
-*"I am about to die, but **God will surely come to your aid** and bring you up out of this
+**50:24** *"I am about to die, but **God will surely come to your aid** and bring you up out of this
 land."*
 
 The Hebrew is **paqod yiphqod** — visiting He will visit. The verb doubled for certainty.
@@ -39,14 +39,14 @@ He says it twice, in two consecutive sentences.
 
 ## The destination
 
-*"To the land He promised on oath to **Abraham, Isaac, and Jacob**."*
+Still **50:24**: *"To the land He promised on oath to **Abraham, Isaac, and Jacob**."*
 
 Three names. The promise is quoted back, generations later, by a man who is prime minister of
 somewhere else.
 
 ## The oath
 
-*And Joseph **made the sons of Israel swear an oath**: "God will surely come to your aid, and
+**50:25** *And Joseph **made the sons of Israel swear an oath**: "God will surely come to your aid, and
 then you must **carry my bones up from this place**."*
 
 Not *bury me there*. His father Jacob had asked for that and got it — a full state funeral,
@@ -64,7 +64,7 @@ attached to it.
 
 ## The last verse of Genesis
 
-*So Joseph died at the age of a hundred and ten. They **embalmed him, and he was placed in a
+**50:26** *So Joseph died at the age of a hundred and ten. They **embalmed him, and he was placed in a
 coffin in Egypt**.*
 
 The Hebrew word is **aron** — the same word as the ark of the covenant.
@@ -74,7 +74,7 @@ See the note on Genesis 1:1–2.
 
 ## Who kept the promise
 
-*And **Moses took the bones of Joseph with him**, for he had placed the children of Israel
+**Exodus 13:19**: *And **Moses took the bones of Joseph with him**, for he had placed the children of Israel
 under solemn oath, saying, "God will surely visit you, and you shall carry up my bones from
 here with you."*
 
@@ -85,7 +85,7 @@ Somebody remembered.
 
 ## Where they ended up
 
-*The bones of Joseph, which the children of Israel had brought up out of Egypt, they buried
+**Joshua 24:32**: *The bones of Joseph, which the children of Israel had brought up out of Egypt, they buried
 at Shechem, in the plot of ground which Jacob had bought.*
 
 Joshua 24, the last chapter of that book. Four hundred years in transit, and then a field
@@ -93,7 +93,7 @@ Jacob had paid for.
 
 ## Why Hebrews names it
 
-*By faith **Joseph, when he was dying, made mention of the departure of the children of
+**Hebrews 11:22**: *By faith **Joseph, when he was dying, made mention of the departure of the children of
 Israel, and gave instructions concerning his bones**.*
 
 Of everything in Joseph's life — the dreams, the pit, Potiphar's house, the prison, the
