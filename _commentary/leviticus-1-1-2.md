@@ -3,14 +3,14 @@ key: Leviticus 1:1–2
 title: The word for offering
 sources:
   - 2021-08-22 greater-shalom-and-security
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 The first sentence of the book, and it starts with a voice.
 
 ## Where it comes from
 
-*The LORD **called to Moses** and spoke to him **from the Tent of Meeting**.*
+**1:1** *The LORD **called to Moses** and spoke to him **from the Tent of Meeting**.*
 
 The Hebrew for *called* is **vayyiqra** — and it is the Hebrew name of the whole book.
 
@@ -30,14 +30,14 @@ Not a shrine to visit. A rendezvous.
 
 ## The address
 
-*"Speak to **the Israelites**."*
+**1:2** *"Speak to **the Israelites**."*
 
 To everybody, not to the priests. Chapters 1 to 7 tell the people what to bring; chapters 6
 onward turn and tell the priests what to do with it. See the note on Leviticus 6:24–30.
 
 ## The condition
 
-*"**When any of you wants to bring an offering** to the LORD."*
+Still **1:2**: *"**When any of you wants to bring an offering** to the LORD."*
 
 The Hebrew is *when a man of you brings near*, and the burnt offering in particular is
 voluntary. Nothing here is a summons.
@@ -54,11 +54,11 @@ and the verb for a battle joining.
 The word for the gift is a word about proximity. What is being described is not a payment but
 an approach.
 
-Mark keeps it in Greek letters and translates it: *Corban — that is, a gift*.
+Mark keeps it in Greek letters and translates it, **7:11**: *Corban — that is, a gift*.
 
 ## What is acceptable
 
-*"Bring one **from the herd or the flock** — an animal from among **your own cattle, sheep,
+**1:2** again: *"Bring one **from the herd or the flock** — an animal from among **your own cattle, sheep,
 or goats**."*
 
 Domestic animals only. Nothing wild, nothing hunted.
@@ -66,7 +66,7 @@ Domestic animals only. Nothing wild, nothing hunted.
 Which means it cost something. A man could not go out and find one; he had to take it from
 what he was living on.
 
-David makes the same point at Araunah's threshing floor: *I will not offer burnt offerings to
+David makes the same point at Araunah's threshing floor, **2 Samuel 24:24**: *I will not offer burnt offerings to
 the LORD my God with that which costs me nothing*.
 
 ## The three grades
@@ -87,7 +87,7 @@ Leviticus puts the voluntary ones first.
 
 ## What the book is for
 
-*"You shall be holy, for I am holy."*
+**Leviticus 19:2**: *"You shall be holy, for I am holy."*
 
 And the sentence that recurs like a refrain: *I am the LORD your God*.
 
