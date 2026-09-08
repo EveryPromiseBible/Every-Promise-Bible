@@ -3,14 +3,14 @@ key: Genesis 35:27–29
 title: His sons buried him together
 sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 Jacob gets home, and the chapter closes with two brothers at a graveside.
 
 ## The arrival
 
-*At last Jacob **came home to his father Isaac at Mamre**, near Kiriath-arba — that is, Hebron.*
+**35:27** *At last Jacob **came home to his father Isaac at Mamre**, near Kiriath-arba — that is, Hebron.*
 
 The Hebrew is **vayyavo Ya'aqov el-Yitzchaq aviv** — and Jacob came to Isaac his father.
 
@@ -25,7 +25,7 @@ Esau said it about this funeral.
 
 ## What the place is
 
-*Where **Abraham and Isaac had lived as strangers in the land**.*
+The rest of **35:27**: *Where **Abraham and Isaac had lived as strangers in the land**.*
 
 The Hebrew is **gar** — sojourned, lived as a resident alien.
 
@@ -33,7 +33,7 @@ Three generations, in the country they were given, described as guests in it.
 
 ## The span
 
-*Isaac lived **a hundred and eighty years**.*
+**35:28** *Isaac lived **a hundred and eighty years**.*
 
 The longest life of the three patriarchs, and the least eventful.
 
@@ -42,7 +42,7 @@ and then his sons'.
 
 ## The formula
 
-*Then Isaac breathed his last and died, **an old man full of years**, and he was **gathered to his
+**35:29** *Then Isaac breathed his last and died, **an old man full of years**, and he was **gathered to his
 people**.*
 
 The Hebrew is **zaqen usava yamim** — old and satisfied of days.
@@ -53,13 +53,13 @@ The same word used of Abraham. See the note on Genesis 25:7–10.
 
 Blind, in a tent, deceived by his wife and his younger son over a bowl of stew and a goatskin.
 
-*Who? Where is the one who hunted game and brought it to me?… **and indeed he shall be blessed**.*
+**Genesis 27:33**: *Who? Where is the one who hunted game and brought it to me?… **and indeed he shall be blessed**.*
 
 He trembled violently, and did not revoke it.
 
 ## The burial
 
-*His sons **Esau and Jacob buried him together**.*
+The end of **35:29**: *His sons **Esau and Jacob buried him together**.*
 
 The Hebrew names Esau first — the older son, in the correct order.
 
@@ -86,7 +86,7 @@ without comment either time.
 
 Chapter 36 is Esau's genealogy — kings and chiefs of Edom, a full chapter of it.
 
-*Now these are the generations of Esau, who is Edom.*
+**Genesis 36:1**: *Now these are the generations of Esau, who is Edom.*
 
 Genesis gives the rejected line its list before returning to Jacob's.
 
@@ -94,7 +94,7 @@ Genesis gives the rejected line its list before returning to Jacob's.
 
 Machpelah, the field Abraham bought from Ephron for four hundred shekels.
 
-Jacob names it on his own deathbed: *there they buried Abraham and Sarah his wife, **there they
+Jacob names it on his own deathbed, **Genesis 49:31**: *there they buried Abraham and Sarah his wife, **there they
 buried Isaac and Rebekah his wife**, and there I buried Leah*.
 
 ## The chapter this closes
@@ -104,5 +104,5 @@ to Bethlehem, and Reuben's sin with Bilhah.
 
 Four graves and a scandal, and then this.
 
-> **The sentence.** *His sons Esau and Jacob buried him together.* Twenty years earlier one of them
+> **The sentence.** **35:29**: *His sons Esau and Jacob buried him together.* Twenty years earlier one of them
 > had said he would kill the other at exactly this funeral.
