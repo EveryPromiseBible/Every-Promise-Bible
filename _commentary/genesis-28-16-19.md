@@ -3,14 +3,14 @@ key: Genesis 28:16–19
 title: "Surely the LORD is in this place"
 sources:
   - 2020-02-16 anointing-oil-for-healing-and-protection
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 A man wakes up on a rock and discovers where he had been sleeping.
 
 ## What he says
 
-*"**Surely the LORD is in this place — and I never knew it.**"*
+**28:16** *"**Surely the LORD is in this place — and I never knew it.**"*
 
 Both halves are true and the second is the point.
 
@@ -19,14 +19,14 @@ it was anything. See the note on Genesis 28:10–15.
 
 ## The awe
 
-*A **holy awe** came over him.*
+**28:17** *A **holy awe** came over him.*
 
 The Hebrew is that he was afraid — the fear that comes with realising what you have
 been standing next to.
 
 ## What he calls it
 
-*"**How full of wonder this place is.** This is nothing less than **the house of
+Still **28:17**: *"**How full of wonder this place is.** This is nothing less than **the house of
 God**. This is **the very gate of heaven**."*
 
 Two names for it, and neither is what it looked like. It was open ground with stones
@@ -37,7 +37,7 @@ doorway, in a field.
 
 ## The stone
 
-*He took **the stone he had rested his head on**, and he set it up as a pillar, and he
+**28:18** *He took **the stone he had rested his head on**, and he set it up as a pillar, and he
 **poured oil over the top of it**.*
 
 The pillow becomes a pillar.
@@ -56,7 +56,7 @@ He uses what he had on a stone he had slept on.
 
 ## The name
 
-*He named that place **Bethel** — the house of God — though the town had **once been
+**28:19** *He named that place **Bethel** — the house of God — though the town had **once been
 called Luz**.*
 
 **Luz** means almond, or a turning aside.
@@ -65,7 +65,7 @@ The town had a name already. He renames it after what he had not known was there
 
 ## What he does next
 
-*Then Jacob made a vow: "If God will be with me, and keep me in this way… and give me
+**28:20–21**: *Then Jacob made a vow: "If God will be with me, and keep me in this way… and give me
 bread to eat and clothing to put on, so that I come back to my father's house in
 peace, **then the LORD shall be my God**."*
 

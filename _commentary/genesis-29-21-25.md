@@ -3,11 +3,11 @@ key: Genesis 29:21–25
 title: "When morning came — there was Leah"
 sources:
   - 2018-07-29 practical-leadership-keys-to-living-holy
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Four words in this passage do more work than the rest of the chapter, and in
-Hebrew they land as bluntly as they do here: *when morning came — there was
+Hebrew they land as bluntly as they do here, **29:25**: *when morning came — there was
 Leah.*
 
 ## What Jacob had already done
@@ -15,18 +15,18 @@ Leah.*
 To feel this you have to remember the last time a father, a firstborn and a
 disguise appeared together in this family. Jacob had gone in to his blind father
 wearing his brother's clothes with goat's hair on his hands, and when Isaac asked
-who he was, he said: *I am Esau your firstborn.*
+who he was, he said, **Genesis 27:19**: *I am Esau your firstborn.*
 
 Now Jacob is the one in the dark, and it is a firstborn substituted for a
 younger sibling that undoes him.
 
-Laban even says it out loud a few verses later — *it is not done here to give the
+Laban even says it out loud a few verses later, **29:26**: *it is not done here to give the
 younger before the firstborn*. It is the exact thing Jacob did, spoken back to
 him as local custom.
 
 ## The question he asks
 
-*What have you done to me? Didn't I serve you for Rachel? Why have you deceived
+**29:25**: *What have you done to me? Didn't I serve you for Rachel? Why have you deceived
 me?*
 
 The Hebrew word for *deceived* is the one used of Jacob in the earlier story.

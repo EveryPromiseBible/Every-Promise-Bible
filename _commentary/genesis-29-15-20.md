@@ -3,14 +3,14 @@ key: Genesis 29:15–20
 title: They seemed like a few days
 sources:
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Seven years, and the narrator tells us how long they felt.
 
 ## The offer
 
-*"**Just because you're my relative, should you work for me for nothing? Tell me — what
+**29:15** *"**Just because you're my relative, should you work for me for nothing? Tell me — what
 should your wages be?**"*
 
 Laban, being generous-sounding. He will use the same tone repeatedly, and change Jacob's
@@ -20,7 +20,7 @@ Jacob has arrived with nothing, running from a brother who wants to kill him.
 
 ## The two daughters
 
-*The **older was named Leah**, the **younger, Rachel**.*
+**29:16** *The **older was named Leah**, the **younger, Rachel**.*
 
 Older and younger, and Genesis notes it because the story turns on birth order — as Jacob's
 own story has already turned on it.
@@ -30,7 +30,7 @@ the younger.
 
 ## The descriptions
 
-*Leah's eyes were **tender**, but Rachel was **beautiful in form and lovely to look at**.*
+**29:17** *Leah's eyes were **tender**, but Rachel was **beautiful in form and lovely to look at**.*
 
 The Hebrew for *tender* is **rakkot** — soft, weak, delicate. Translators have argued about
 it for centuries: weak eyes, or lovely eyes.
@@ -40,14 +40,14 @@ Leah's favour.
 
 ## The clause
 
-*And **Jacob loved Rachel**.*
+**29:18** *And **Jacob loved Rachel**.*
 
 Four words in Hebrew, and everything that follows comes out of them — the two wives, the
 rivalry, the concubines, the twelve sons, the favouritism toward Joseph.
 
 ## The price
 
-*"**I will work seven years for you in exchange for Rachel**, your younger daughter."*
+The rest of **29:18**: *"**I will work seven years for you in exchange for Rachel**, your younger daughter."*
 
 The bride price, paid in labour because he has no property.
 
@@ -55,7 +55,7 @@ Seven years is a large offer. Jacob names the term himself.
 
 ## Laban's answer
 
-*"**Better that I give her to you than to another man. Stay here with me**."*
+**29:19** *"**Better that I give her to you than to another man. Stay here with me**."*
 
 Neither yes nor no, precisely. He does not say *I agree*.
 
@@ -63,7 +63,7 @@ That ambiguity is where the trick lives, and Jacob does not hear it.
 
 ## The sentence
 
-*So Jacob served seven years for Rachel — and **they seemed to him like only a few days,
+**29:20** *So Jacob served seven years for Rachel — and **they seemed to him like only a few days,
 because he loved her so**.*
 
 The Hebrew is *they were in his eyes as a few days*.
@@ -75,10 +75,10 @@ inside.
 
 The wedding, the veil, the dark, and the morning: *and behold, it was Leah!*
 
-*"**What is this you have done to me?** Did I not serve you for Rachel? Why then have you
+**29:25** *"**What is this you have done to me?** Did I not serve you for Rachel? Why then have you
 deceived me?"*
 
-And Laban's answer: *it must not be done so in our country, **to give the younger before the
+And Laban's answer, **29:26**: *it must not be done so in our country, **to give the younger before the
 firstborn***.
 
 The deceiver is beaten with his own sentence. Jacob had gone in to his blind father wearing
@@ -86,13 +86,13 @@ his brother's clothes and goatskin on his hands, and said *I am Esau your firstb
 
 ## The second seven
 
-*Then Jacob… served with Laban still another seven years for Rachel.*
+**29:30**: *Then Jacob… served with Laban still another seven years for Rachel.*
 
 Fourteen in total, and the second seven are not described as feeling like a few days.
 
 ## What the sisters got
 
-*When the LORD saw that **Leah was unloved, He opened her womb**; but Rachel was barren.*
+**29:31**: *When the LORD saw that **Leah was unloved, He opened her womb**; but Rachel was barren.*
 
 Leah has six sons and a daughter. Rachel has two, and dies giving birth to the second. See
 the note on Genesis 35:16–20.
@@ -107,7 +107,7 @@ mother, and renamed **Benjamin**, son of my right hand, by his father.
 
 ## The service, and what it was for
 
-*So Jacob served seven years for Rachel, and **they seemed only a few days to him because of
+**29:20**: *So Jacob served seven years for Rachel, and **they seemed only a few days to him because of
 the love he had for her**.*
 
 Seven years of labour, priced by the man who wanted her, and the account says the length of it
@@ -118,7 +118,7 @@ that He might present her to Himself a glorious church, not having spot or wrink
 
 ## What he got instead
 
-*When morning came — **there was Leah**.*
+**29:25**: *When morning came — **there was Leah**.*
 
 He served for one bride and was handed another, and then served seven more years. The man who
 had put on his brother's clothes to deceive a father in the dark is deceived in the dark about
