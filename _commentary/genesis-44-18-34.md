@@ -1,13 +1,13 @@
 ---
 key: Genesis 44:18–34
 title: Let me stay in place of the boy
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The longest speech in Genesis, made by the brother who first suggested selling Joseph.
 
 ## Who is speaking
 
-*Then **Judah came close to him** and said, "Please, my lord, let your servant speak a word."*
+**44:18** *Then **Judah came close to him** and said, "Please, my lord, let your servant speak a word."*
 
 Twenty-two years earlier: *what profit is there if we kill our brother and cover up his blood?
 Come, let us sell him to the Ishmaelites*. See the note on Genesis 37:25–28.
@@ -31,7 +31,7 @@ them. The entire case is about what this will do to an old man in Canaan.
 
 ## The line he quotes
 
-*"Your servant, our father, said to us, 'You know **my wife bore me two sons**. One went away
+**44:27–28**: *"Your servant, our father, said to us, 'You know **my wife bore me two sons**. One went away
 from me, and I said, "He's surely been torn to pieces," and **I have never seen him since**.'"*
 
 Judah is quoting Jacob's grief over Joseph, out loud, to Joseph.
@@ -41,14 +41,14 @@ man across the room is the subject of it.
 
 ## The knot
 
-*"**Since his life is bound up with the boy's life** — when he sees the boy is gone, **he will
+**44:30–31**: *"**Since his life is bound up with the boy's life** — when he sees the boy is gone, **he will
 die**."*
 
 The Hebrew is *his soul is bound to his soul*.
 
 ## The offer
 
-*"**So please, let me stay here as my lord's slave in place of the boy**, and let the boy go
+**44:33** *"**So please, let me stay here as my lord's slave in place of the boy**, and let the boy go
 home with his brothers."*
 
 **In place of.** The Hebrew is **tachat hanna'ar** — under, instead of, in the position of the
@@ -65,7 +65,7 @@ tell, walks free.
 
 ## What he had pledged
 
-*"**Your servant guaranteed the boy's safety to my father.** I said, 'If I don't bring him back
+**44:32** *"**Your servant guaranteed the boy's safety to my father.** I said, 'If I don't bring him back
 to you, let me bear the blame before you all my life.'"*
 
 He made that pledge in chapter 43 to break a deadlock, and it cost nothing at the time. He is
@@ -73,7 +73,7 @@ keeping it at the moment it costs everything. See the note on Genesis 43:1–7.
 
 ## The last line
 
-*"**How can I go back to my father if the boy is not with me?** I could not bear to see the
+**44:34** *"**How can I go back to my father if the boy is not with me?** I could not bear to see the
 misery that would fall upon my father."*
 
 He stops there. There is no closing argument and no appeal to justice.
