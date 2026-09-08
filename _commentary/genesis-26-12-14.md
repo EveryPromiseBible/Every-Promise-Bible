@@ -13,7 +13,7 @@ sources:
   - 2022-11-06 prosper-gods-way-during-recession
   - 2022-12-13 prosperity-with-a-purpose
   - 2025-10-19 prioritize-character-success
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Three verses, and the timing is everything.
@@ -29,7 +29,7 @@ food was.
 
 ## The harvest
 
-*Isaac planted crops in that land, and that same year he reaped a hundredfold,
+**26:12** *Isaac planted crops in that land, and that same year he reaped a hundredfold,
 because the LORD blessed him.*
 
 A hundredfold was extraordinary in ordinary conditions — Jesus uses it as the top
@@ -50,7 +50,7 @@ does with land he intends to remain on.
 
 ## What followed
 
-*His wealth kept increasing until he became very wealthy… so many flocks and
+**26:13–14**: *His wealth kept increasing until he became very wealthy… so many flocks and
 herds and servants that the Philistines grew envious of him.*
 
 The chapter does not stop there, and it is worth reading on: the envy leads to

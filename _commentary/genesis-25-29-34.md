@@ -3,7 +3,7 @@ key: Genesis 25:29–34
 title: "So Esau treated his birthright as though it were nothing"
 sources:
   - 2018-10-14 boldness-to-inherit-every-blessing
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The narrator waits until the last line to say what the story was about, and then
@@ -11,7 +11,7 @@ says it flatly.
 
 ## The verdict
 
-*So Esau treated his birthright as though it were nothing.*
+**25:34**: *So Esau treated his birthright as though it were nothing.*
 
 Not *Jacob cheated him*. Genesis is perfectly willing to record Jacob's
 manipulation elsewhere and does not spare him — but the summary of this scene
@@ -29,7 +29,7 @@ That is what was on one side of the trade. On the other side: lentils.
 
 ## The speed of it
 
-*Esau ate and drank, then got up and left.*
+Still **25:34**: *Esau ate and drank, then got up and left.*
 
 Four verbs in a row, with no pause between them. The Hebrew reads as a rapid
 sequence — he did not linger, did not reflect, did not appear to think anything
@@ -40,7 +40,7 @@ the writer wants you to see.
 
 ## "I'm about to die"
 
-*Look, I'm about to die. What good is a birthright to me?*
+**25:32**: *Look, I'm about to die. What good is a birthright to me?*
 
 He was not about to die. He had come in from hunting, tired and hungry, and
 talked himself into an emergency — and used the emergency to justify letting go

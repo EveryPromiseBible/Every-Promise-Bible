@@ -1,20 +1,20 @@
 ---
 key: Genesis 26:26–29
 title: The men who sent him away come back
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The people who ran him out of town arrive at his tent asking for a treaty.
 
 ## Who turns up
 
-*Then **Abimelech came to him from Gerar**, with **Ahuzzath his adviser** and **Phicol the
+**26:26** *Then **Abimelech came to him from Gerar**, with **Ahuzzath his adviser** and **Phicol the
 commander of his army**.*
 
 A king, a counsellor and a general. This is a state delegation, and it has travelled to him.
 
 ## What they had done
 
-*"**Go away from us, for you are much mightier than we**."* They had stopped up his father's
+**26:16**: *"**Go away from us, for you are much mightier than we**."* They had stopped up his father's
 wells with earth and told him to leave.
 
 Then his herdsmen dug at Esek and Gerar's herdsmen claimed it. Then Sitnah, and they claimed
@@ -22,14 +22,14 @@ that too. See the note on Genesis 26:22.
 
 ## What Isaac says
 
-*"**Why have you come to me, since you were hostile to me and sent me away?**"*
+**26:27** *"**Why have you come to me, since you were hostile to me and sent me away?**"*
 
 He says it plainly. He does not pretend the history is not there, and he does not refuse them
 either.
 
 ## Their answer
 
-*"**We have seen clearly that the LORD is with you.**"*
+**26:28** *"**We have seen clearly that the LORD is with you.**"*
 
 The Hebrew is *seeing we have seen* — the doubled form, for certainty.
 
@@ -42,7 +42,7 @@ Genesis 39:1–6.
 
 ## The revision of history
 
-*"**Just as we did not harm you but always treated you well and sent you away in peace.**"*
+**26:29** *"**Just as we did not harm you but always treated you well and sent you away in peace.**"*
 
 That is not what happened. They stopped his wells and drove him out.
 
@@ -51,7 +51,7 @@ feast, and they ate and drank*.
 
 ## The last clause
 
-*"**And now you are blessed by the LORD.**"*
+The end of **26:29**: *"**And now you are blessed by the LORD.**"*
 
 The men who sent him away pronounce the blessing over him themselves.
 
@@ -72,7 +72,7 @@ for a covenant is the chapter in which he yields three times.
 
 ## What is dug that afternoon
 
-*It came to pass the same day that Isaac's servants came and told him about the well which they
+**26:32**: *It came to pass the same day that Isaac's servants came and told him about the well which they
 had dug, and said, "**We have found water**."*
 
 He names it Shibah, and the town is Beersheba to this day.
@@ -93,7 +93,7 @@ peaceably with all men**… Do not be overcome by evil, but **overcome evil with
 
 ## What he serves them
 
-*So he **made them a feast**, and they ate and drank.*
+**26:30**: *So he **made them a feast**, and they ate and drank.*
 
 The men who stopped his wells and drove him out get dinner, and the well his servants were
 digging that same afternoon comes in with water.

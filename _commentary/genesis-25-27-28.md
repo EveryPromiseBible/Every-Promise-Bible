@@ -4,7 +4,7 @@ title: Two boys, two parents
 sources:
   - 2020-05-31 activate-the-gifts-of-the-spirit
   - 2021-11-07 win-the-battle-over-bitterness
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 Two verses of family description, and everything that goes wrong for the next twenty
@@ -12,7 +12,7 @@ years is in them.
 
 ## The two men
 
-*Esau became **a skilled hunter, a man of the open country**, while Jacob was **a quiet
+**25:27** *Esau became **a skilled hunter, a man of the open country**, while Jacob was **a quiet
 man, staying among the tents**.*
 
 The Hebrew for *quiet* is **tam** — complete, sound, whole. It is the same word used of
@@ -28,7 +28,7 @@ household; Esau is out.
 
 ## The parents
 
-*Isaac loved Esau, **because he had a taste for wild game**, but Rebekah loved Jacob.*
+**25:28** *Isaac loved Esau, **because he had a taste for wild game**, but Rebekah loved Jacob.*
 
 Moses gives the reason for one and not the other.
 
@@ -36,7 +36,7 @@ Isaac's reason is his stomach. It is stated as flatly as that, and it will be th
 mechanism of the deception in chapter 27 — a bowl of savoury food and a father who could
 no longer see.
 
-Rebekah's reason is not given. What she had been told is: *two nations are in your womb…
+Rebekah's reason is not given. What she had been told is, **25:23**: *two nations are in your womb…
 and **the older shall serve the younger**.*
 
 ## What was already said
@@ -52,7 +52,7 @@ The younger was named as the heir before either of them had a personality.
 Six verses later, Esau comes in from the field exhausted and sells the birthright for a
 bowl of red stew.
 
-*Thus Esau **despised** his birthright* — the Hebrew is to hold in contempt, to treat as
+**25:34**: *Thus Esau **despised** his birthright* — the Hebrew is to hold in contempt, to treat as
 worthless.
 
 Hebrews calls him *a profane person, who for one morsel of food sold his birthright.*

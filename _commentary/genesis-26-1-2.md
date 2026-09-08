@@ -8,14 +8,14 @@ sources:
   - 2022-10-30 take-back-your-identity-in-christ
   - 2022-11-06 prosper-gods-way-during-recession
   - 2022-12-13 prosperity-with-a-purpose
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 A famine, and a father's example, and a different instruction.
 
 ## The comparison
 
-*A famine in the land — **different from the earlier one in Abraham's time**.*
+**26:1** *A famine in the land — **different from the earlier one in Abraham's time**.*
 
 Genesis makes the reader think of it. In that one, Abram *went down to Egypt to stay
 awhile, for the famine was severe* — with no word from God anywhere in the passage,
@@ -26,14 +26,14 @@ Isaac is standing in the same situation his father handled badly.
 
 ## Where he went
 
-*Isaac went to **Abimelech, king of the Philistines, in Gerar**.*
+The rest of **26:1**: *Isaac went to **Abimelech, king of the Philistines, in Gerar**.*
 
 Gerar is on the way to Egypt, not in it. He has started moving in the familiar
 direction.
 
 ## The word
 
-*"**Do not go down to Egypt. Live in the land I tell you to live in.**"*
+**26:2** *"**Do not go down to Egypt. Live in the land I tell you to live in.**"*
 
 Two commands, and the second one does not name the place. He is told to stay and to
 be told later.
@@ -47,7 +47,7 @@ He is told to stay in the country with the famine in it.
 
 ## What follows
 
-*"Stay in this land, and **I will be with you and bless you**… I will perform the oath
+**26:3**: *"Stay in this land, and **I will be with you and bless you**… I will perform the oath
 which I swore to Abraham your father."* See the note on Genesis 26:3–5.
 
 The promise is attached to the staying.
@@ -79,7 +79,7 @@ called them by the names which his father had called them.*
 
 ## Why this son does not leave
 
-*"**Do not go down to Egypt.** Live in the land I tell you about."*
+**26:2**: *"**Do not go down to Egypt.** Live in the land I tell you about."*
 
 His father had gone down in a famine and come back out in disgrace. See the note on
 Genesis 12:10–20.
@@ -93,7 +93,7 @@ Isaac and Jacob, the heirs with him of the same promise**.*
 
 ## What is promised in a famine
 
-*"I will be with you and bless you… and **in your seed all the nations of the earth shall be
+**26:3–4**: *"I will be with you and bless you… and **in your seed all the nations of the earth shall be
 blessed**."*
 
 The same sentence given to Abraham, repeated to the second generation without a single

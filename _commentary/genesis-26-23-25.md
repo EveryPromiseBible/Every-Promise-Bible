@@ -1,7 +1,7 @@
 ---
 key: Genesis 26:23–25
 title: For My servant Abraham’s sake
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 God appears to Isaac the night he arrives at Beersheba, and the reason He gives for blessing
 him is somebody else.
@@ -15,7 +15,7 @@ He moved four times and did not fight once.
 
 ## The arrival
 
-*From there Isaac **went up to Beersheba**. **That night the LORD appeared to him**.*
+**26:23–24**: *From there Isaac **went up to Beersheba**. **That night the LORD appeared to him**.*
 
 The same night. He does not have to settle in first.
 
@@ -24,7 +24,7 @@ he *called on the name of the LORD, the Everlasting God*.
 
 ## What is said first
 
-*"**I am the God of your father Abraham. Do not be afraid, for I am with you.**"*
+**26:24**: *"**I am the God of your father Abraham. Do not be afraid, for I am with you.**"*
 
 Three things, and none of them is a requirement.
 
@@ -33,7 +33,7 @@ says to people in Scripture when He appears.
 
 ## The reason
 
-*"I will bless you and multiply your descendants **for the sake of my servant Abraham**."*
+The rest of **26:24**: *"I will bless you and multiply your descendants **for the sake of my servant Abraham**."*
 
 Not for Isaac's sake. Not because of the wells, the restraint, the hundredfold harvest in a
 famine year, or anything else the chapter has recorded about him.
@@ -56,7 +56,7 @@ lie his father told, in the same town.
 
 ## What he does about it
 
-*So Isaac **built an altar there and called on the name of the LORD**. He **pitched his tent**
+**26:25** *So Isaac **built an altar there and called on the name of the LORD**. He **pitched his tent**
 there, and his servants **dug a well**.*
 
 Three verbs, in that order. Altar, tent, well.

@@ -3,21 +3,21 @@ key: Genesis 25:7–10
 title: Full of years
 sources:
   - 2023-08-13 keys-to-a-spirit-filled-life
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 The death of Abraham, and two estranged sons at the graveside.
 
 ## The span
 
-*Abraham lived **a hundred and seventy-five years**.*
+**25:7** *Abraham lived **a hundred and seventy-five years**.*
 
 He was seventy-five when he left Haran. A hundred years in the land he was promised and never
 owned, except for one field.
 
 ## The phrase
 
-*Then he breathed his last and died **at a good old age, full of years**.*
+**25:8** *Then he breathed his last and died **at a good old age, full of years**.*
 
 The Hebrew is **beseivah tovah zaqen vesavea** — in a good grey age, old and satisfied.
 
@@ -25,7 +25,7 @@ The Hebrew is **beseivah tovah zaqen vesavea** — in a good grey age, old and s
 
 ## What he was told
 
-*"**Now as for you, you shall go to your fathers in peace; you shall be buried at a good old
+**Genesis 15:15**: *"**Now as for you, you shall go to your fathers in peace; you shall be buried at a good old
 age**."*
 
 Said to him in Genesis 15, at the covenant of the pieces, in the same conversation where he was
@@ -36,7 +36,7 @@ The promise about his own death was kept word for word.
 
 ## The gathering
 
-*And he was **gathered to his people**.*
+The rest of **25:8**: *And he was **gathered to his people**.*
 
 The Hebrew is **vayye'asep el-ammav**.
 
@@ -47,7 +47,7 @@ The phrase is used separately from the burial notice, which suggests it is not a
 
 ## The two sons
 
-*His sons **Isaac and Ishmael** buried him.*
+**25:9** *His sons **Isaac and Ishmael** buried him.*
 
 Ishmael was sent away with Hagar and a skin of water when Isaac was weaned.
 
@@ -56,7 +56,7 @@ explain how that was arranged.
 
 ## The plot
 
-*In **the cave of Machpelah**, near Mamre, in the field of **Ephron son of Zohar the Hittite** — the
+The rest of **25:9**, then **25:10**: *In **the cave of Machpelah**, near Mamre, in the field of **Ephron son of Zohar the Hittite** — the
 field **Abraham had bought** from the Hittites.*
 
 The only land he ever owned.
@@ -70,13 +70,13 @@ He would not take it as a gift.
 
 To bury Sarah.
 
-*I am a foreigner and a visitor among you. **Give me property for a burial place among you**.*
+**Genesis 23:4**: *I am a foreigner and a visitor among you. **Give me property for a burial place among you**.*
 
 The first thing he owned in the promised land was a grave.
 
 ## Who is there
 
-*There Abraham was buried **beside his wife Sarah**.*
+The end of **25:10**: *There Abraham was buried **beside his wife Sarah**.*
 
 And in time Isaac, Rebekah, Leah, and Jacob — who made Joseph swear to carry him out of Egypt for
 it.
