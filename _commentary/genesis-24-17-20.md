@@ -3,14 +3,14 @@ key: Genesis 24:17–20
 title: Until they've had enough
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 She offers something nobody asked for, and it takes her most of the evening.
 
 ## The request
 
-*The servant **hurried to meet her**. "Please," he said, "let me have **a little water from your
+**24:17** *The servant **hurried to meet her**. "Please," he said, "let me have **a little water from your
 jar**."*
 
 The Hebrew is **me'at-mayim** — a little water.
@@ -19,7 +19,7 @@ A small ask. Anyone at a well would grant it.
 
 ## The answer
 
-*"**Drink, my lord**," she said, and **quickly lowered the jar into her hands** and gave him a
+**24:18** *"**Drink, my lord**," she said, and **quickly lowered the jar into her hands** and gave him a
 drink.*
 
 The Hebrew is **vattemaher** — and she hastened.
@@ -28,7 +28,7 @@ The jar comes down off the shoulder into her hands so he can drink from it. She 
 
 ## The offer
 
-*When he had finished, she said, "**I'll draw water for your camels too, until they've had
+**24:19** *When he had finished, she said, "**I'll draw water for your camels too, until they've had
 enough**."*
 
 The Hebrew is **ad im-killu lishtot** — until they have finished drinking.
@@ -62,7 +62,7 @@ The sign is the character.
 
 ## The work
 
-*So she **quickly emptied her jar into the trough**, then **ran back to the well again and again**,
+**24:20** *So she **quickly emptied her jar into the trough**, then **ran back to the well again and again**,
 drawing for all his camels.*
 
 The Hebrew has three verbs of speed in four verses: **vattemaher** twice, and **vattaratz** — and
@@ -70,7 +70,7 @@ she ran.
 
 ## The repetition
 
-*Again and again.*
+Still **24:20**: *Again and again.*
 
 The Hebrew is **vattaratz od el-habber lish'ov** — and she ran again to the well to draw.
 
@@ -97,29 +97,29 @@ in.
 
 ## What she gets
 
-*He took out **a gold nose ring** weighing half a shekel and **two gold bracelets** weighing ten
+**24:22** *He took out **a gold nose ring** weighing half a shekel and **two gold bracelets** weighing ten
 shekels.*
 
 Given before he knows who she is, and before any negotiation.
 
 ## What she says next
 
-*"I am the daughter of Bethuel, Milcah's son, whom she bore to Nahor."*
+**24:24** *"I am the daughter of Bethuel, Milcah's son, whom she bore to Nahor."*
 
-And: *"We have both straw and feed enough, and room to lodge."*
+And, **24:25**: *"We have both straw and feed enough, and room to lodge."*
 
 More hospitality, offered again without being asked.
 
 ## What her family sees
 
-*So it came to pass, when he saw the nose ring, and the bracelets on his sister's wrists… that he
+**24:30**: *So it came to pass, when he saw the nose ring, and the bracelets on his sister's wrists… that he
 went to the man.*
 
 Laban's first recorded reaction to anything is jewellery.
 
 ## What she is given, and when
 
-*He took out **a gold nose ring**… and **two gold bracelets**.*
+Still **24:22**: *He took out **a gold nose ring**… and **two gold bracelets**.*
 
 Before he knows her name, before her family is mentioned, before anything is agreed, and
 before she has been asked to go anywhere.

@@ -1,14 +1,14 @@
 ---
 key: Genesis 24:62–65
 title: He went out to meet her
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The son has not appeared since the mountain. He comes back into the story walking through a
 field at evening.
 
 ## Where he had come from
 
-*Now Isaac had come from the region of **Beer-lahai-roi**.*
+**24:62** *Now Isaac had come from the region of **Beer-lahai-roi**.*
 
 The name means *the well of the Living One who sees me*. It is Hagar's well — the place where
 a pregnant runaway slave was found by God in the desert and said *You are the God who sees
@@ -26,16 +26,16 @@ mountain with his father and comes back into view here, waiting for a bride.
 
 ## The evening
 
-*One evening he **went out to the field to meditate**.*
+**24:63** *One evening he **went out to the field to meditate**.*
 
 The Hebrew verb is rare and its sense is to muse, to be occupied in thought — a man out on his
 own at dusk with something on his mind.
 
-*And **as he looked up, he saw camels coming**.*
+The rest of **24:63**: *And **as he looked up, he saw camels coming**.*
 
 ## The other pair of eyes
 
-*Rebekah **also looked up**, and when she saw Isaac, **she got down from her camel**.*
+**24:64** *Rebekah **also looked up**, and when she saw Isaac, **she got down from her camel**.*
 
 The same phrase for both of them, one verse apart. Each lifts their eyes and sees the other at
 the same moment.
@@ -45,7 +45,7 @@ the camel before she is told who he is.
 
 ## The question and the answer
 
-*"**Who is that man walking through the field to meet us?**" "**He is my master**," the servant
+**24:65** *"**Who is that man walking through the field to meet us?**" "**He is my master**," the servant
 said.*
 
 The last thing the servant does in the chapter is name the son. It is the only answer he has
@@ -53,7 +53,7 @@ given about himself all the way home, and it is not about himself.
 
 ## The veil
 
-*So she **took her veil and covered herself**.*
+The rest of **24:65**: *So she **took her veil and covered herself**.*
 
 ## What has not happened yet
 

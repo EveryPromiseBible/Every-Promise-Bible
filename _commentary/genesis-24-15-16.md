@@ -4,14 +4,14 @@ title: Before he had finished praying
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2023-02-05 pray-for-good-success-today
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The answer arrives while the request is still being made.
 
 ## The prayer
 
-*"O LORD God of my master Abraham, **please give me success this day**… Let it be that the young
+**24:12, 14**: *"O LORD God of my master Abraham, **please give me success this day**… Let it be that the young
 woman to whom I say, 'Please let down your pitcher that I may drink,' and she says, 'Drink, and I
 will also give your camels a drink' — **let her be the one You have appointed**."* See the note on
 Genesis 24:12–14.
@@ -24,7 +24,7 @@ He asks the God who arranges things for something that will look like coincidenc
 
 ## The timing
 
-*Before he had even **finished praying**, there was Rebekah.*
+**24:15** *Before he had even **finished praying**, there was Rebekah.*
 
 The Hebrew is **terem killah ledabber** — before he had finished speaking.
 
@@ -41,11 +41,11 @@ He picked a sign that costs the woman hours.
 
 ## Her arrival
 
-*Coming out with **her jar on her shoulder**.*
+Still **24:15**: *Coming out with **her jar on her shoulder**.*
 
 ## Her family
 
-*She was the daughter of Bethuel son of Milcah, the wife of **Abraham's brother Nahor**.*
+The end of **24:15**: *She was the daughter of Bethuel son of Milcah, the wife of **Abraham's brother Nahor**.*
 
 The narrator gives the genealogy before the servant knows any of it.
 
@@ -54,7 +54,7 @@ and to my family*.
 
 ## The description
 
-*The girl was **very beautiful**, a virgin; no man had known her.*
+**24:16** *The girl was **very beautiful**, a virgin; no man had known her.*
 
 The Hebrew is **tovat mareh me'od** — good of appearance, exceedingly.
 
@@ -63,7 +63,7 @@ made, and indeed it was **very** good*.
 
 ## The routine
 
-*She went down to the spring, filled her jar, and came back up.*
+The rest of **24:16**: *She went down to the spring, filled her jar, and came back up.*
 
 Three verbs. The most ordinary sentence in the chapter.
 

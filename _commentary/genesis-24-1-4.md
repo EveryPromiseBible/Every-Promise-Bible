@@ -3,14 +3,14 @@ key: Genesis 24:1–4
 title: Blessed in every way, and one thing left
 sources:
   - 2025-09-07 walk-in-gods-gifts-for-you
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 An old man with everything, arranging the one thing he will not live to see.
 
 ## The summary
 
-*Abraham was now old, well along in years, and **the LORD had blessed him in every way**.*
+**24:1** *Abraham was now old, well along in years, and **the LORD had blessed him in every way**.*
 
 The Hebrew is **berak et-Avraham bakkol** — blessed Abraham in all.
 
@@ -28,7 +28,7 @@ yet.
 
 ## The servant
 
-*Abraham said to **his senior servant, the one who managed all he owned**.*
+**24:2** *Abraham said to **his senior servant, the one who managed all he owned**.*
 
 The Hebrew is **zeqan beto** — the elder of his house. And **hammoshel bekol-asher-lo** — the one
 ruling over all that was his.
@@ -38,7 +38,7 @@ man.
 
 ## The oath
 
-*"**Put your hand under my thigh**, and swear to me by the LORD."*
+The rest of **24:2**: *"**Put your hand under my thigh**, and swear to me by the LORD."*
 
 The Hebrew is **sim-na yadeka tachat yereki**.
 
@@ -48,14 +48,14 @@ Jacob asks Joseph for the same thing on his deathbed.
 
 ## The titles
 
-*"**By the LORD, the God of heaven and the God of earth**."*
+**24:3** *"**By the LORD, the God of heaven and the God of earth**."*
 
 Both realms. The oath is bound to the God whose jurisdiction covers the country the servant is being
 sent to.
 
 ## The prohibition
 
-*"That you will **not choose a wife for my son from the daughters of the Canaanites among whom I
+The rest of **24:3**: *"That you will **not choose a wife for my son from the daughters of the Canaanites among whom I
 live**."*
 
 Not a racial rule. Canaan is the land promised to his offspring and the culture the family is meant
@@ -63,7 +63,7 @@ not to be absorbed into.
 
 ## The instruction
 
-*"Instead, **go to my own country, to my own relatives**, and find a wife there for my son Isaac."*
+**24:4** *"Instead, **go to my own country, to my own relatives**, and find a wife there for my son Isaac."*
 
 Haran, five hundred miles north. The place he left in chapter 12.
 
@@ -71,14 +71,14 @@ Haran, five hundred miles north. The place he left in chapter 12.
 
 He does not go himself.
 
-*Only do not take my son back there* is his answer when the servant raises the difficulty. Isaac
+**24:6**: *Only do not take my son back there* is his answer when the servant raises the difficulty. Isaac
 must not leave the land.
 
 ## The servant's question
 
-*"**What if the woman is not willing** to follow me?"*
+**24:5**: *"**What if the woman is not willing** to follow me?"*
 
-And the answer: *the LORD, before whom I walk, **will send His angel before you***. See the note on
+And the answer, **24:7**: *the LORD, before whom I walk, **will send His angel before you***. See the note on
 Genesis 24:5–6.
 
 If she refuses, the servant is released from the oath. The plan has a stated failure clause.

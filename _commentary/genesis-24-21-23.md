@@ -4,14 +4,14 @@ title: He watched her in silence
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The most economical verse in the chapter, and it is a man doing nothing.
 
 ## The watching
 
-*The man **watched her in silence**.*
+**24:21** *The man **watched her in silence**.*
 
 The Hebrew is **mishtaeh lah macharish** — gazing at her, keeping silent.
 
@@ -36,7 +36,7 @@ action. Interrupting would make the result his.
 
 ## The question he is holding
 
-*Wondering **whether the LORD had made his journey succeed**.*
+The rest of **24:21**: *Wondering **whether the LORD had made his journey succeed**.*
 
 The Hebrew is **hahitzliach YHWH darko** — whether the LORD had prospered his way.
 
@@ -53,7 +53,7 @@ coincidence and an answer look identical from the outside until the family is na
 
 ## The gift
 
-*When the camels had finished drinking, he took out **a gold nose ring weighing half a shekel and
+**24:22** *When the camels had finished drinking, he took out **a gold nose ring weighing half a shekel and
 two gold bracelets weighing ten shekels**.*
 
 The Hebrew is **nezem zahav** — a gold ring, for the nose.
@@ -68,7 +68,7 @@ The gift is not a payment for information, and it is not conditional on the answ
 
 ## The two questions
 
-*"**Whose daughter are you?** Tell me — **is there room in your father's house for us to spend the
+**24:23** *"**Whose daughter are you?** Tell me — **is there room in your father's house for us to spend the
 night?**"*
 
 Identity, then hospitality.
@@ -77,7 +77,7 @@ The first question is the one his whole errand depends on.
 
 ## The answer
 
-*"I am the daughter of Bethuel, Milcah's son, whom she bore to Nahor."*
+**24:24**: *"I am the daughter of Bethuel, Milcah's son, whom she bore to Nahor."*
 
 Nahor is Abraham's brother. Milcah is named in Genesis 22, in a short genealogy attached to the
 end of the mountain: *Milcah has also borne children to your brother Nahor*.
@@ -93,20 +93,20 @@ The silence ends.
 
 ## What he says
 
-*"**Blessed be the LORD God of my master Abraham**, who has not abandoned His kindness and
+**24:27**: *"**Blessed be the LORD God of my master Abraham**, who has not abandoned His kindness and
 faithfulness to my master."*
 
 **Chesed ve'emet** — the pair that becomes *grace and truth*.
 
 ## The word he uses of himself
 
-*"**As for me, the LORD has led me on the very road** to the house of my master's relatives."*
+The rest of **24:27**: *"**As for me, the LORD has led me on the very road** to the house of my master's relatives."*
 
 Past tense, at a well, before the family has been met or the request made.
 
 ## What she does
 
-*So the young woman ran and told her mother's household these things.*
+**24:28**: *So the young woman ran and told her mother's household these things.*
 
 The same verb she used with the water jar. She runs.
 

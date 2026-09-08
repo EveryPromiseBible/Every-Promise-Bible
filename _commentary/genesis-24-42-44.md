@@ -3,7 +3,7 @@ key: Genesis 24:42–44
 title: So today I came to the spring
 sources:
   - 2023-02-05 pray-for-good-success-today
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 He tells the whole story again, and Genesis prints it twice.
@@ -13,7 +13,7 @@ He tells the whole story again, and Genesis prints it twice.
 In Bethuel's house, standing in front of the family, refusing to eat until he has explained his
 errand.
 
-*I will not eat until I have told about my business.*
+**24:33**: *I will not eat until I have told about my business.*
 
 ## Why the repetition matters
 
@@ -27,7 +27,7 @@ deciding about.
 
 ## The opening
 
-*"So **today I came to the spring and prayed**."*
+**24:42** *"So **today I came to the spring and prayed**."*
 
 The Hebrew is **va'avo hayyom el-ha'ayin** — and I came today to the spring.
 
@@ -35,13 +35,13 @@ The Hebrew is **va'avo hayyom el-ha'ayin** — and I came today to the spring.
 
 ## The address
 
-*"**LORD, God of my master Abraham**."*
+Still **24:42**: *"**LORD, God of my master Abraham**."*
 
 The same words he used at the well. He does not adjust the prayer for a foreign audience.
 
 ## The request
 
-*"**If You are pleased, make my journey succeed**."*
+The end of **24:42**: *"**If You are pleased, make my journey succeed**."*
 
 The Hebrew here is **matzliach darki** — from **tsalach**, to prosper, to make successful.
 
@@ -58,7 +58,7 @@ Between the two words is the girl at the well.
 
 ## Where he was standing
 
-*"**Here I stand by the spring**."*
+**24:43** *"**Here I stand by the spring**."*
 
 The Hebrew is **hinneh anochi nitzav al-ein hammayim**.
 
@@ -66,7 +66,7 @@ The whole request is made from a fixed position. He does not go looking.
 
 ## The sign
 
-*"When a young woman comes out to draw water and I say, '**Please give me a little water from your
+The rest of **24:43**, then **24:44**: *"When a young woman comes out to draw water and I say, '**Please give me a little water from your
 jar**,' and she answers, '**Drink, and I'll draw water for your camels too**.'"*
 
 Word for word what he prayed, and word for word what she said. See the note on
@@ -74,7 +74,7 @@ Genesis 24:17–20.
 
 ## The conclusion
 
-*"**Let her be the one the LORD has chosen for my master's son**."*
+The end of **24:44**: *"**Let her be the one the LORD has chosen for my master's son**."*
 
 The Hebrew is **hokiach YHWH** — the one the LORD has appointed, decided upon.
 
@@ -88,7 +88,7 @@ The family hears that the errand was under oath.
 
 ## What he says at the end of it
 
-*"Now if you will **deal kindly and truly** with my master, tell me. And if not, tell me, that I may
+**24:49** *"Now if you will **deal kindly and truly** with my master, tell me. And if not, tell me, that I may
 turn to the right hand or to the left."*
 
 **Chesed ve'emet** again. The pair. See the note on Genesis 24:26–27.
@@ -97,7 +97,7 @@ He asks for a plain answer and offers to leave.
 
 ## The family's reply
 
-*"**The thing comes from the LORD; we cannot speak to you either bad or good**."*
+**24:50** *"**The thing comes from the LORD; we cannot speak to you either bad or good**."*
 
 The Hebrew is **meYHWH yatza haddavar** — from the LORD the matter has gone out.
 
@@ -105,7 +105,7 @@ They heard the same sequence the reader did and reached the same conclusion.
 
 ## Rebekah's
 
-*"**Will you go with this man?**" And she said, "**I will go**."*
+**24:58** *"**Will you go with this man?**" And she said, "**I will go**."*
 
 Two words in Hebrew: **elech**.
 

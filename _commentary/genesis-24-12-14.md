@@ -8,7 +8,7 @@ sources:
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
   - 2023-02-05 pray-for-good-success-today
   - 2024-01-28 be-washed-and-refreshed-by-his-word
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 A servant with ten camels and no idea what he is doing prays the most specific
@@ -22,7 +22,7 @@ find a wife for a man he works for.
 He is the one praying, and the chapter gives more space to him than to anybody else
 in it.
 
-## "Give me success today"
+## "Give me success today" (24:12)
 
 The Hebrew is **qarah** — to happen, to meet, to fall out. It is the word for
 occurrence, for something coming to pass.
@@ -34,7 +34,7 @@ The same root gives the word Ruth's story uses when *she happened to come to the
 part of the field belonging to Boaz* — an accident, reported by a narrator who
 plainly does not think it was one.
 
-## "And show kindness to my master"
+## "And show kindness to my master" (24:12, 14)
 
 **Chesed** — the covenant word, loyal love.
 
@@ -43,7 +43,7 @@ he wants is for Abraham rather than himself.
 
 ## The test he proposes
 
-*"When I say to a girl, 'Please lower your jar so I may drink,' and she says,
+**24:14** *"When I say to a girl, 'Please lower your jar so I may drink,' and she says,
 '**Drink, and I'll water your camels too**' — let her be the one."*
 
 Look at what he is screening for.
@@ -60,27 +60,27 @@ of generosity — the sort that volunteers work nobody would have asked for.
 
 ## What happens
 
-*Before he had finished speaking* — the next verse — Rebekah comes out.
+**24:15**: *Before he had finished speaking*, Rebekah comes out.
 
-And she says it. *Drink, my lord… I will draw water for your camels also, until
-they have finished drinking.* Then *she hurried, and emptied her pitcher into the
+And she says it, **24:18–19**: *Drink, my lord… I will draw water for your camels also, until
+they have finished drinking.* Then, **24:20**: *she hurried, and emptied her pitcher into the
 trough, and ran again to the well.*
 
 The narrator gives her three verbs of haste.
 
 ## What he does about it
 
-*The man, wondering at her, remained silent, to know whether the LORD had made his
+**24:21**: *The man, wondering at her, remained silent, to know whether the LORD had made his
 journey prosperous or not.*
 
 He watches. He does not announce anything until the camels are done.
 
-Then the gold ring and the two bracelets, and: *I bowed my head and worshipped the
+Then the gold ring and the two bracelets, and, **24:26–27**: *I bowed my head and worshipped the
 LORD… who had led me in the way of truth.*
 
 ## What the chapter says about the leading
 
-*I being in the way, **the LORD led me**.*
+The end of **24:27**: *I being in the way, **the LORD led me**.*
 
 His own summary, said twice. He was already moving when the leading happened.
 

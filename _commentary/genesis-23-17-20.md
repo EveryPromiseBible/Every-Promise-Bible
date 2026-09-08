@@ -1,14 +1,14 @@
 ---
 key: Genesis 23:17–20
 title: A field, a cave, and the full price
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The first piece of the Promised Land any Hebrew ever owned is a grave, and he paid retail for
 it.
 
 ## What changed hands
 
-*So **Ephron's field at Machpelah**, near Mamre — the field and the cave in it, **and all the
+**23:17–18**: *So **Ephron's field at Machpelah**, near Mamre — the field and the cave in it, **and all the
 trees within its borders** — passed to Abraham as his own.*
 
 The deed is recorded like a deed: the field, the cave, the trees, the boundaries. Genesis
@@ -18,12 +18,12 @@ gives four verses to the paperwork.
 
 ## Who watched
 
-*Witnessed by **all the Hittites who had gathered at the city gate**.*
+The rest of **23:18**: *Witnessed by **all the Hittites who had gathered at the city gate**.*
 
 The gate was the courthouse. He does the transaction in public, in front of the whole town, so
 that it can never be undone.
 
-Ephron had offered it to him as a gift — *I give you the field, and the cave that is in it* —
+Ephron had offered it to him as a gift, **23:11**: *I give you the field, and the cave that is in it* —
 and Abraham refused and insisted on weighing out four hundred shekels of silver.
 
 A gift can be withdrawn. A purchase with witnesses cannot.

@@ -3,7 +3,7 @@ key: Genesis 24:34–36
 title: I am Abraham's servant
 sources:
   - 2022-10-30 take-back-your-identity-in-christ
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 He is offered dinner and will not eat until he has said his piece, and this is how it opens.
@@ -17,7 +17,7 @@ has said *I will not eat until I have told about my errand*.
 
 ## The first sentence
 
-*"**I am Abraham's servant**," he began.*
+**24:34** *"**I am Abraham's servant**," he began.*
 
 The Hebrew is **eved Avraham anochi**.
 
@@ -28,7 +28,7 @@ The chapter never gives his own name.
 
 ## The subject
 
-*"**The LORD has blessed my master greatly, and he has become wealthy**."*
+**24:35** *"**The LORD has blessed my master greatly, and he has become wealthy**."*
 
 The Hebrew is **berak et-adoni me'od vayyigdal** — blessed my master greatly, and he became
 great.
@@ -38,7 +38,7 @@ states it.
 
 ## The inventory
 
-*"God has given him **flocks and herds, silver and gold, servants and maids, camels and
+The rest of **24:35**: *"God has given him **flocks and herds, silver and gold, servants and maids, camels and
 donkeys**."*
 
 Four pairs. Livestock, metal, people, transport.
@@ -54,7 +54,7 @@ That he had waited twenty-five years for the son named in the next sentence.
 
 ## The son
 
-*"And **Sarah my master's wife bore him a son in his old age**."*
+**24:36** *"And **Sarah my master's wife bore him a son in his old age**."*
 
 The Hebrew notes both the wife and the age.
 
@@ -63,7 +63,7 @@ door. See the note on Genesis 18:9–15.
 
 ## The inheritance
 
-*"And **to that son my master has given all that he owns**."*
+The rest of **24:36**: *"And **to that son my master has given all that he owns**."*
 
 The Hebrew is **kol-asher-lo** — all that is his.
 
@@ -92,12 +92,12 @@ He tells the whole story again, in full, so Genesis records it twice.
 
 ## The point he lands on
 
-*"**The LORD has led me on the very road** to the house of my master's relatives."* See the note on
+**24:27**: *"**The LORD has led me on the very road** to the house of my master's relatives."* See the note on
 Genesis 24:26–27.
 
 ## The family's verdict
 
-*"**The thing comes from the LORD**; we cannot speak to you either bad or good."*
+**24:50**: *"**The thing comes from the LORD**; we cannot speak to you either bad or good."*
 
 ## The heir
 

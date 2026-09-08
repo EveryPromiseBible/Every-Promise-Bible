@@ -1,14 +1,14 @@
 ---
 key: Genesis 24:5–6
 title: What if she will not come
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 The servant raises the one thing that could stop the errand, and the answer is about where the
 son must stay.
 
 ## The question
 
-*"But **what if the woman won't come back with me** to this land? Should I then take your son
+**24:5** *"But **what if the woman won't come back with me** to this land? Should I then take your son
 back to the country you came from?"*
 
 It is a fair question and he asks it before he swears the oath. He is being sent five hundred
@@ -19,7 +19,7 @@ miles to invite a stranger to marry a man she has never met.
 Compulsion.
 
 Nothing in the chapter allows the servant to bring her back against her will, and Abraham's
-answer never suggests it. *And if the woman is not willing to follow you, **then you will be
+answer never suggests it, **24:8**: *And if the woman is not willing to follow you, **then you will be
 released from this oath**.*
 
 There is a stated failure clause, and it is her refusal.
@@ -30,7 +30,7 @@ Genesis 24:66–67.
 
 ## The prohibition
 
-*"**Be careful not to take my son back there**," Abraham said.*
+**24:6** *"**Be careful not to take my son back there**," Abraham said.*
 
 Said twice in the passage. It is the one absolute in the whole arrangement.
 
@@ -57,7 +57,7 @@ not go away, **the Helper will not come to you**; but if I depart, I will send H
 
 ## What the servant is given
 
-*"**The LORD, before whom I walk, will send His angel before you** and prosper your way."*
+**24:7**: *"**The LORD, before whom I walk, will send His angel before you** and prosper your way."*
 
 He is sent with an assurance and no guarantee about the outcome, and he asks his one question
 and then goes.

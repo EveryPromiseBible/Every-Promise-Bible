@@ -4,7 +4,7 @@ title: Isaac was comforted
 sources:
   - 2020-11-08 all-that-is-mine-is-yours-discover-abbas-heart-for-you
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The last two verses of the longest chapter in Genesis.
@@ -19,7 +19,7 @@ as it happens, and once as the servant repeats it to Rebekah's family.
 
 ## The report
 
-*Then the servant **told Isaac everything he had done**.*
+**24:66** *Then the servant **told Isaac everything he had done**.*
 
 The servant is never named in the chapter. He is *the eldest servant of his house, who
 ruled over all that he had*, and every step of it is his.
@@ -36,7 +36,7 @@ The Hebrew for *meditate* is a rare word and translations divide over it.
 
 ## The tent
 
-*And Isaac **brought her into the tent of his mother Sarah**.*
+**24:67** *And Isaac **brought her into the tent of his mother Sarah**.*
 
 Sarah had died in chapter 23 at a hundred and twenty-seven. Abraham bought the cave of
 Machpelah to bury her — the only piece of Canaan the family ever owned.
@@ -45,7 +45,7 @@ The tent has been standing empty.
 
 ## The order
 
-*And **he married Rebekah. She became his wife, and he loved her**.*
+Still **24:67**: *And **he married Rebekah. She became his wife, and he loved her**.*
 
 The Hebrew runs: he took her, she became his wife, and he loved her.
 
@@ -54,7 +54,7 @@ first is Abraham's for Isaac on the mountain. See the note on Genesis 22:1–2.
 
 ## The last clause
 
-*And Isaac **was comforted after the loss of his mother**.*
+The end of **24:67**: *And Isaac **was comforted after the loss of his mother**.*
 
 The Hebrew is **vayinnachem** — was comforted, consoled.
 
@@ -70,7 +70,7 @@ in the evening and looks up.
 
 ## Rebekah's decision
 
-*And they called Rebekah and said to her, "**Will you go with this man?**" And she said,
+**24:58**: *And they called Rebekah and said to her, "**Will you go with this man?**" And she said,
 "**I will go**."*
 
 Two words in the Hebrew. She is asked directly and answers for herself.
@@ -85,7 +85,7 @@ Genesis 47:27–31.
 
 ## What the servant says he was given
 
-*"**I being on the way, the LORD led me** to the house of my master's brethren."*
+**24:27**: *"**I being on the way, the LORD led me** to the house of my master's brethren."*
 
 He says it twice, and bows and worships in the middle of a stranger's courtyard.
 
