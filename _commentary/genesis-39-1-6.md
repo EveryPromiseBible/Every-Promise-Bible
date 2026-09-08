@@ -16,14 +16,14 @@ sources:
   - 2024-09-15 step-out-and-possess-the-land
   - 2024-11-24 stay-near-the-scent-of-water
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 The lowest point of his life so far, and the chapter's second word is *but*.
 
 ## Where he is
 
-*Joseph had been **taken down to Egypt**, and Potiphar… **bought him** from the
+**39:1** *Joseph had been **taken down to Egypt**, and Potiphar… **bought him** from the
 Ishmaelites.*
 
 Seventeen years old, stripped of the coat, thrown in a pit by his brothers, sold to a
@@ -33,7 +33,7 @@ Everything in that sentence is done to him. He is the object of every verb.
 
 ## The turn
 
-*But **the LORD was with Joseph**.*
+**39:2** *But **the LORD was with Joseph**.*
 
 The clause appears four times in this chapter — twice here, and twice again after he
 is put in prison.
@@ -42,7 +42,7 @@ Moses says it at the top and at the bottom, and never in between explains how it
 
 ## What followed
 
-*And **everything went well for him**.*
+The rest of **39:2**: *And **everything went well for him**.*
 
 The Hebrew is *he was a man who prospers* — **tsalach**, to advance, to succeed, to push
 through.
@@ -51,7 +51,7 @@ Said of a slave. He is still owned; the word is used anyway.
 
 ## What Potiphar could see
 
-*His Egyptian master, **who saw that the LORD was with him** and **made everything he did
+**39:3** *His Egyptian master, **who saw that the LORD was with him** and **made everything he did
 prosper in his hands**.*
 
 A pagan officer of Pharaoh's court works out that a Hebrew slave's God is the reason
@@ -61,7 +61,7 @@ Nothing is recorded of Joseph preaching. Potiphar drew the conclusion from the r
 
 ## The promotion
 
-*Joseph **found favor** in his master's eyes and became **his personal servant**, and
+**39:4** *Joseph **found favor** in his master's eyes and became **his personal servant**, and
 Potiphar **put him in charge of his household** and **entrusted everything** he owned to
 his care.*
 
@@ -73,7 +73,7 @@ Israel in Egypt on the morning they left. See the note on Exodus 12:33–36.
 
 ## The blessing spreads
 
-*From the moment he gave Joseph that charge, **the LORD blessed the Egyptian's household
+**39:5** *From the moment he gave Joseph that charge, **the LORD blessed the Egyptian's household
 for Joseph's sake**; the LORD's blessing rested on everything he had, **in the house and
 in the field**.*
 
@@ -82,14 +82,14 @@ household prosper because of who is in his house.
 
 ## What Potiphar stopped thinking about
 
-*So Potiphar **left everything in Joseph's hands** and **gave no thought to anything but
+**39:6** *So Potiphar **left everything in Joseph's hands** and **gave no thought to anything but
 the food he ate**.*
 
 He hands over the accounts and stops looking at them.
 
 ## The last line
 
-*Now Joseph was **well-built and handsome**.*
+The end of **39:6**: *Now Joseph was **well-built and handsome**.*
 
 Moses drops it in at the end of the paragraph without comment, and the next verse is
 *his master's wife cast longing eyes on Joseph.*
@@ -101,7 +101,7 @@ The sentence that closes the prosperity is the one that starts the disaster.
 He refuses her, she keeps his garment, he is accused, and he goes to prison — stripped
 of a coat for the second time in his life by someone who wanted something from him.
 
-And in the prison: *the LORD was with Joseph and showed him mercy, and He gave him favor
+And in the prison, **39:21**: *the LORD was with Joseph and showed him mercy, and He gave him favor
 in the sight of the keeper of the prison.* The same three words again.
 
 > **What the chapter measures.** Not his circumstances — those get worse. Moses tracks

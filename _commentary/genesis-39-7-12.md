@@ -5,7 +5,7 @@ sources:
   - 2019-05-08 practical-marriage-and-relationship-truths
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2023-07-16 redefine-success-gods-way
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 A slave in a foreign house, with nobody watching and nothing to lose, gives a
@@ -22,11 +22,11 @@ He was, in every practical sense, unobserved.
 
 He gives three reasons and then a fourth, and the fourth is the one that matters.
 
-- *my master gives no thought to anything in this house*
-- *he has entrusted everything he owns to me*
-- *he has held nothing back from me **except you, because you are his wife***
+- **39:8**: *my master gives no thought to anything in this house*
+- still **39:8**: *he has entrusted everything he owns to me*
+- **39:9**: *he has held nothing back from me **except you, because you are his wife***
 
-Then: *"**How then could I do such a wicked thing and sin against God?**"*
+Then, still **39:9**: *"**How then could I do such a wicked thing and sin against God?**"*
 
 ## Whose wife
 
@@ -41,7 +41,7 @@ I sinned.* See the note on Psalms 51:3–4.
 
 ## "Day after day"
 
-*Day after day she pressed him, but he would not listen; **he would not lie with
+**39:10** *Day after day she pressed him, but he would not listen; **he would not lie with
 her or even be near her**.*
 
 Two refusals. The second is the practical one — he stopped being in the room.
@@ -51,17 +51,17 @@ it.
 
 ## The day it came to a head
 
-*One day he went into the house to do his work, and **none of the household servants
+**39:11** *One day he went into the house to do his work, and **none of the household servants
 were inside**.*
 
 The narrator supplies that detail. Empty house, no witnesses, nobody to report
 anything.
 
-*She caught him by his garment.*
+**39:12**: *She caught him by his garment.*
 
 ## What he does
 
-*But he **left the garment in her hand and fled outside**.*
+The rest of **39:12**: *But he **left the garment in her hand and fled outside**.*
 
 He runs, and he lets go of the coat to do it.
 
@@ -75,7 +75,7 @@ Both times a coat is the evidence in a false story.
 
 Prison. Immediately, without a hearing.
 
-The chapter's last line: *the LORD was with Joseph and showed him mercy, and gave
+The chapter's last line, **39:21**: *the LORD was with Joseph and showed him mercy, and gave
 him favour in the sight of the keeper of the prison.*
 
 The same sentence that opened the chapter about Potiphar's house. Same clause,

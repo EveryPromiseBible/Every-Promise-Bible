@@ -3,7 +3,7 @@ key: Genesis 39:19–23
 title: The same sentence, in a prison
 sources:
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The clause that ran through the first half of the chapter survives the fall and reappears
@@ -11,14 +11,14 @@ underground.
 
 ## The accusation
 
-*When Joseph's master heard his wife's account — "**This is how your slave treated me**" — he burned
+**39:19** *When Joseph's master heard his wife's account — "**This is how your slave treated me**" — he burned
 with anger.*
 
 ## The wording
 
 *Your slave.* Not *your Hebrew*, which is how she put it to the household servants.
 
-To the servants she said *he brought in a Hebrew to us to mock us*, which includes a complaint
+To the servants she said, **39:17**: *he brought in a Hebrew to us to mock us*, which includes a complaint
 against her husband.
 
 ## What Potiphar does not do
@@ -30,7 +30,7 @@ instead, and the text lets the reader draw a conclusion it does not state.
 
 ## Where he goes
 
-*He took Joseph and put him in prison, **the place where the king's prisoners were confined**.*
+**39:20** *He took Joseph and put him in prison, **the place where the king's prisoners were confined**.*
 
 The Hebrew is **bet hassohar** — the round house.
 
@@ -39,11 +39,11 @@ two chapters later.
 
 ## The full stop
 
-*And there Joseph stayed.*
+The end of **39:20**: *And there Joseph stayed.*
 
 ## The turn
 
-*But **the LORD was with Joseph**.*
+**39:21** *But **the LORD was with Joseph**.*
 
 The Hebrew is **vayehi YHWH et-Yosef**.
 
@@ -62,19 +62,19 @@ He goes from head of a household to a cell, and the sentence about him does not 
 
 ## The three things
 
-*He showed him **steadfast kindness** and gave him **favor in the eyes of the prison keeper**.*
+The rest of **39:21**: *He showed him **steadfast kindness** and gave him **favor in the eyes of the prison keeper**.*
 
 The Hebrew is **chesed** — covenant loyalty. And **chen** — favour.
 
 ## What the keeper does
 
-*The keeper **put Joseph in charge of all the prisoners** and everything that was done there.*
+**39:22** *The keeper **put Joseph in charge of all the prisoners** and everything that was done there.*
 
 Exactly what Potiphar did. The same delegation, one floor down.
 
 ## The detail
 
-*He **paid no attention to anything under Joseph's care**.*
+**39:23** *He **paid no attention to anything under Joseph's care**.*
 
 The Hebrew is **ein sar bet-hassohar ro'eh et-kol-me'umah beyado** — the keeper saw nothing at all in
 his hand.
@@ -83,7 +83,7 @@ Identical phrasing to verse 6: *he did not know what he had except the bread whi
 
 ## The last line
 
-*Because **the LORD was with Joseph and made everything he did succeed**.*
+The rest of **39:23**: *Because **the LORD was with Joseph and made everything he did succeed**.*
 
 The Hebrew is **matzliach** — the same word used of him in the master's house.
 

@@ -1,7 +1,7 @@
 ---
 key: Genesis 38:24–26
 title: She is more in the right than I am
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 Judah passes a death sentence and is handed back his own belongings.
 
@@ -13,7 +13,7 @@ See the note on Genesis 37:25–28.
 
 ## The report
 
-*"**Your daughter-in-law Tamar is guilty of immorality**, and she is now pregnant because of
+**38:24** *"**Your daughter-in-law Tamar is guilty of immorality**, and she is now pregnant because of
 it."*
 
 Tamar had been married to Judah's eldest son, then to the second, and both had died. She had
@@ -22,7 +22,7 @@ and nothing had happened.
 
 ## The sentence
 
-*"**Bring her out**," Judah ordered, "**and let her be burned**."*
+The rest of **38:24**: *"**Bring her out**," Judah ordered, "**and let her be burned**."*
 
 Three words in the Hebrew for the verdict. No trial, no hearing, and no interval.
 
@@ -31,7 +31,7 @@ his family the moment he hears about it.
 
 ## What she sends back
 
-*"**I am pregnant by the man who owns these.**" And she said, "**Please look closely — whose
+**38:25** *"**I am pregnant by the man who owns these.**" And she said, "**Please look closely — whose
 seal and cord and staff are these?**"*
 
 She does not name him. She sends the evidence and asks him to identify it himself.
@@ -42,7 +42,7 @@ identity papers, and he had handed them over as a pledge.
 
 ## The recognition
 
-*Judah **recognized them at once**.*
+**38:26** *Judah **recognized them at once**.*
 
 The Hebrew is **vayyakker** — and he recognised.
 
@@ -54,7 +54,7 @@ own things and asks him to do the same.
 
 ## What he says
 
-*"**She is more in the right than I am**," he said, "**since I would not give her to my son
+The rest of **38:26**: *"**She is more in the right than I am**," he said, "**since I would not give her to my son
 Shelah**."*
 
 The Hebrew is **tsadeqah mimmenni** — she is more righteous than I.
@@ -66,7 +66,7 @@ whoever brought the report, and he names the reason: he had withheld what he owe
 
 Any punishment.
 
-The sentence is dropped, the woman lives, and *he never was intimate with her again*.
+The sentence is dropped, the woman lives, and, the end of **38:26**: *he never was intimate with her again*.
 
 ## What comes of it
 
