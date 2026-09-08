@@ -3,14 +3,14 @@ key: Exodus 9:1–7
 title: Pharaoh sent men to look
 sources:
   - 2023-01-15 the-kairos-year-of-right-time-right-place-part-2
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 The fifth plague, and the king checks the claim himself.
 
 ## The title
 
-*"**The LORD, the God of the Hebrews**, says, let my people go."*
+**9:1** *"**The LORD, the God of the Hebrews**, says, let my people go."*
 
 The Hebrew is **YHWH Elohei ha'Ivrim**.
 
@@ -18,20 +18,20 @@ The Hebrew is **YHWH Elohei ha'Ivrim**.
 
 ## The demand
 
-*Let my people go, **so they can worship me**.*
+Still **9:1**: *Let my people go, **so they can worship me**.*
 
 The fifth time. The same sentence, unchanged, at every plague.
 
 ## The threat
 
-*"If you refuse and keep holding them, **the hand of the LORD will bring a severe plague on your
+**9:2–3**: *"If you refuse and keep holding them, **the hand of the LORD will bring a severe plague on your
 livestock in the field**."*
 
 The Hebrew is **yad-YHWH hoyah** — the hand of the LORD is being.
 
 ## The list
 
-*The **horses, donkeys, camels, herds, and flocks**.*
+Still **9:3**: *The **horses, donkeys, camels, herds, and flocks**.*
 
 Five categories, itemised.
 
@@ -42,7 +42,7 @@ Egypt's economy, listed in one verse.
 
 ## The distinction
 
-*"But **the LORD will make a distinction between the livestock of Israel and of Egypt**, and
+**9:4** *"But **the LORD will make a distinction between the livestock of Israel and of Egypt**, and
 **nothing that belongs to Israel will die**."*
 
 The Hebrew is **vehiphlah** — He will distinguish.
@@ -51,7 +51,7 @@ The same verb as the fourth plague at Goshen. See the note on Exodus 8:20–24.
 
 ## The appointment
 
-*The LORD **set a time**, saying, "**Tomorrow** the LORD will do this in the land."*
+**9:5** *The LORD **set a time**, saying, "**Tomorrow** the LORD will do this in the land."*
 
 The Hebrew is **vayyasem YHWH mo'ed** — the LORD set an appointed time.
 
@@ -61,12 +61,12 @@ A plague with a diary entry.
 
 ## What happened
 
-*The next day it happened, and **the livestock of Egypt died, but not one animal belonging to
+**9:6** *The next day it happened, and **the livestock of Egypt died, but not one animal belonging to
 Israel died**.*
 
 ## The inspection
 
-*Pharaoh **sent men to look**, and sure enough, **not one of Israel's animals had died**.*
+**9:7** *Pharaoh **sent men to look**, and sure enough, **not one of Israel's animals had died**.*
 
 The Hebrew is **vayyishlach Paroh** — and Pharaoh sent.
 
@@ -80,7 +80,7 @@ The narrative includes the audit.
 
 ## The response
 
-*Yet **his heart stayed stubborn**, and he would not let the people go.*
+Still **9:7**: *Yet **his heart stayed stubborn**, and he would not let the people go.*
 
 The Hebrew is **vayyikbad lev Paroh** — Pharaoh's heart was heavy.
 
@@ -104,7 +104,7 @@ field* in verse 3 is the limiting phrase, and animals under shelter survived.
 
 ## The gods
 
-*"Against all the gods of Egypt I will execute judgment."*
+**Exodus 12:12**: *"Against all the gods of Egypt I will execute judgment."*
 
 The bull Apis, the cow Hathor, the ram Khnum. The plague on livestock falls on a pantheon with
 animals in it.

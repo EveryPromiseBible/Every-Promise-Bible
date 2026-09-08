@@ -3,36 +3,36 @@ key: Exodus 9:8–12
 title: Soot from the furnace
 sources:
   - 2020-02-02 can-you-see-the-angels-protecting-you
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 The sixth plague is thrown into the air by hand, and the material it is made of is the ash of
 Israel's own slavery.
 
 ## What they are told to pick up
 
-*"Take **handfuls of soot from a furnace**."*
+**9:8** *"Take **handfuls of soot from a furnace**."*
 
 The Hebrew is **piach kivshan** — the fine ash from a kiln.
 
 The kiln is where bricks are fired. It is the machinery of the labour Israel had been broken
-on: *they made their lives bitter with hard bondage — in mortar, in brick*.
+on, **Exodus 1:14**: *they made their lives bitter with hard bondage — in mortar, in brick*.
 
 The instrument of the plague is the residue of the oppression.
 
 ## What Moses does with it
 
-*"Have Moses **toss it into the air** before Pharaoh."*
+Still **9:8**: *"Have Moses **toss it into the air** before Pharaoh."*
 
 Not poured on the ground, and not carried anywhere. Thrown upward, in front of the king, and
 let go.
 
-*It will settle as **fine dust over Egypt**.*
+**9:9** *It will settle as **fine dust over Egypt**.*
 
 Two handfuls, and the whole country is covered.
 
 ## What it does
 
-*Boils broke out on people and animals.*
+**9:9–10**: *Boils broke out on people and animals.*
 
 The Hebrew is **shechin** — an inflamed sore, a burning eruption. It is the word used of Job's
 affliction and of Hezekiah's.
@@ -42,7 +42,7 @@ skin.
 
 ## The magicians
 
-*The magicians **could not even stand before Moses**, for the boils were on them as on all the
+**9:11** *The magicians **could not even stand before Moses**, for the boils were on them as on all the
 Egyptians.*
 
 They had matched the first two plagues and failed at the third. Here they cannot stay in the
@@ -53,7 +53,7 @@ gave it are covered in sores.
 
 ## Where the boils are named again
 
-Deuteronomy lists them in the covenant curses: *the LORD will strike you with **the boils of
+Deuteronomy lists them in the covenant curses, **Deuteronomy 28:27**: *the LORD will strike you with **the boils of
 Egypt**… from which you cannot be healed.*
 
 They are catalogued as one of the things a broken covenant brings down.
