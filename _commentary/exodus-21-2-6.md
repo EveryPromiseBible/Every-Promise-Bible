@@ -7,7 +7,7 @@ sources:
   - 2017-09-03 find-freedom-from-every-bondage-and-addiction
   - 2023-04-16 unveiling-jesus-heart-to-serve-you
   - 2024-01-28 be-washed-and-refreshed-by-his-word
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 The first civil law given after the ten commandments, and it is about setting
@@ -15,7 +15,7 @@ somebody free.
 
 ## The right
 
-*He is to serve **six years**, and in the seventh year **he goes free, owing
+**21:2** *He is to serve **six years**, and in the seventh year **he goes free, owing
 nothing**.*
 
 The Hebrew is that he goes out free *for nothing* — no redemption price, no debt
@@ -26,7 +26,7 @@ owned.
 
 ## The complication
 
-*If his master **gave him a wife** and she bore him sons or daughters, **the wife and
+**21:4** *If his master **gave him a wife** and she bore him sons or daughters, **the wife and
 children stay with the master**, and he goes out by himself.*
 
 That is the hard clause, and it is the one the whole passage turns on.
@@ -35,7 +35,7 @@ Freedom is available, and it is available alone.
 
 ## The choice
 
-*If the servant says plainly, "**I love my master, my wife, and my children; I do not
+**21:5** *If the servant says plainly, "**I love my master, my wife, and my children; I do not
 want to go free**."*
 
 Three loves named, and the master is first.
@@ -45,7 +45,7 @@ loud, so that everyone hears it.
 
 ## The ceremony
 
-*His master brings him **before God**, brings him **to the door or the doorpost**, and
+**21:6** *His master brings him **before God**, brings him **to the door or the doorpost**, and
 **pierces his ear with an awl**.*
 
 Three elements: God as witness, a doorway, and a permanent mark.
@@ -55,7 +55,7 @@ literally fastened, for a moment, to the place.
 
 ## What it makes him
 
-*From then on the servant belongs to that household **for life, by his own glad
+Still **21:6**: *From then on the servant belongs to that household **for life, by his own glad
 choice**.*
 
 A **bondservant** — the Hebrew and Greek both distinguish this from a slave. He was
@@ -87,6 +87,6 @@ life a ransom for many."* See the note on Mark 10:41–45.
 Nothing in the law says anything about a servant's hands being marked. It is the ear
 — the part that hears an order.
 
-> **Where the marks ended up.** *Behold My hands and My feet… reach your finger here,
+> **Where the marks ended up.** **Luke 24:39**: *Behold My hands and My feet…* **John 20:27**: *reach your finger here,
 > and look at My hands; and reach your hand here, and put it into My side.* The
 > permanent marks of the one who would not go out free.
