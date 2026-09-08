@@ -4,21 +4,21 @@ title: Received at Joseph's house
 sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 They arrive expecting arrest and are shown to a dining room.
 
 ## What they brought
 
-*So the men took **the gift, double the silver, and Benjamin**.*
+**43:15** *So the men took **the gift, double the silver, and Benjamin**.*
 
 Three things, and the third is what the whole trip was about. See the note on
 Genesis 43:1–7.
 
 ## What Joseph saw
 
-*When Joseph **saw Benjamin with them**, he said to his steward, "**Bring these men into my
+**43:16** *When Joseph **saw Benjamin with them**, he said to his steward, "**Bring these men into my
 house**."*
 
 He is looking for one face. The instruction follows immediately on seeing it.
@@ -28,11 +28,11 @@ sold, whom he has never met as an adult.
 
 ## The order
 
-*"Slaughter an animal and prepare a meal; **they will dine with me at noon**."*
+Still **43:16**: *"Slaughter an animal and prepare a meal; **they will dine with me at noon**."*
 
 ## Their reading of it
 
-*But **the men were afraid** to be taken there.*
+**43:18** *But **the men were afraid** to be taken there.*
 
 *"**It's because of the silver** returned in our sacks the first time. He wants to **fall on
 us, overpower us, seize us as slaves, and take our donkeys**."*
@@ -44,14 +44,14 @@ their sacks, and they are in a foreign country with no standing.
 
 ## What they do
 
-*So **at the doorway of the house** they approached Joseph's steward.*
+**43:19** *So **at the doorway of the house** they approached Joseph's steward.*
 
 They will not go in. They intercept the steward at the threshold and make their case
 outside.
 
 ## The explanation
 
-*"We came down once before to buy food, and **each man's silver was right there in the mouth
+**43:20–22**: *"We came down once before to buy food, and **each man's silver was right there in the mouth
 of his sack — the full amount**. We've **brought it back with us, and more silver besides**.
 **We don't know who put our silver in our sacks**."*
 
@@ -59,13 +59,13 @@ They produce the money before anyone accuses them.
 
 ## The answer
 
-*"**It's all right**," he said. "**Don't be afraid**."*
+**43:23** *"**It's all right**," he said. "**Don't be afraid**."*
 
 The Hebrew is **shalom lakem** — peace to you.
 
 ## What the steward says
 
-*"**Your God, the God of your father, must have given you treasure in your sacks. I received
+Still **43:23**: *"**Your God, the God of your father, must have given you treasure in your sacks. I received
 your silver**."*
 
 An Egyptian household official tells eleven Hebrews that their father's God put money in
@@ -76,13 +76,13 @@ payment was made.
 
 ## Simeon
 
-*Then he **brought Simeon out to them**.*
+The end of **43:23**: *Then he **brought Simeon out to them**.*
 
 The brother left in prison at the end of chapter 42, produced without ceremony.
 
 ## The hospitality
 
-*The steward took the men into Joseph's house, gave them **water to wash their feet**, and
+**43:24** *The steward took the men into Joseph's house, gave them **water to wash their feet**, and
 **fed their donkeys**.*
 
 Three courtesies: shelter, water for the feet, fodder for the animals.
@@ -92,7 +92,7 @@ Pharisee skipped. See the note on Luke 7:44–50.
 
 ## What they did with the gift
 
-*And they **laid out their gift**, for they'd heard they would eat there at noon.*
+**43:25** *And they **laid out their gift**, for they'd heard they would eat there at noon.*
 
 Balm, honey, spices, myrrh, pistachios and almonds — Jacob's list, the best of the land,
 sent to a man who owned Egypt's granaries.
@@ -108,7 +108,7 @@ They will not go through the door. They stand at the threshold with the money in
 rehearsing the proof that they are not thieves — *we have brought it back with us, and more
 silver besides*.
 
-And the answer is: *peace to you, do not be afraid. **Your God, the God of your father, has
+And the answer, **43:23** again: *peace to you, do not be afraid. **Your God, the God of your father, has
 given you treasure in your sacks. I have your silver.***
 
 The debt they came to settle had been settled before they arrived, by the brother they did

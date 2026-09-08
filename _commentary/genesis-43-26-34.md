@@ -6,7 +6,7 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
   - 2024-07-28 provision-in-the-place-of-nearness
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 Joseph gives a dinner for the brothers who sold him, and two things happen at it
@@ -14,7 +14,7 @@ that they do not understand.
 
 ## The room he went into
 
-*Joseph hurried out, for his heart was overflowing at the sight of his brother,
+**43:30–31**: *Joseph hurried out, for his heart was overflowing at the sight of his brother,
 and he was about to weep. He went into his private room and wept there. Then he
 washed his face, came out, controlled himself, and said, "Serve the meal."*
 
@@ -27,7 +27,7 @@ paragraphs in the book.
 
 ## The seating
 
-*The brothers were seated in front of him in order, from the oldest to the
+**43:33** *The brothers were seated in front of him in order, from the oldest to the
 youngest, and they looked at one another in amazement.*
 
 Nobody had told the steward their ages. Ten men are placed in birth order by a
@@ -38,7 +38,7 @@ other.
 
 ## Benjamin's portion
 
-*Benjamin's portion was five times larger than anyone else's.*
+**43:34** *Benjamin's portion was five times larger than anyone else's.*
 
 Joseph does it deliberately, and it is a test as much as a gift. These are the
 men who once could not stand their father's favouritism toward one son and threw
@@ -49,7 +49,7 @@ objects. *So they drank and were merry together with him.*
 
 ## Five times as much
 
-*Benjamin's portion was **five times larger** than anyone else's.*
+**43:34** again: *Benjamin's portion was **five times larger** than anyone else's.*
 
 Joseph is testing them with the exact thing that broke this family — a father's favourite,
 singled out in front of the others. And nobody says a word. *So they drank and were merry
@@ -67,7 +67,7 @@ the youngest, he has done nothing, and he receives five times the rest.
 
 ## The man who had to leave the room
 
-*Joseph hurried out… he went into his private room and wept there. Then he washed his face,
+**43:30–31** again: *Joseph hurried out… he went into his private room and wept there. Then he washed his face,
 came out, controlled himself, and said, "Serve the meal."*
 
 The second most powerful man in Egypt, hiding in his own house to cry over a brother who does
