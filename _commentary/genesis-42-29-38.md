@@ -6,7 +6,7 @@ sources:
   - 2020-05-24 find-power-in-his-presence
   - 2020-11-15 five-times-more-favor-and-provision
   - 2020-12-13 declare-you-are-highly-favored
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 An old man adds up his situation and reaches a conclusion that is wrong in every
@@ -14,7 +14,7 @@ particular.
 
 ## What he says
 
-*"**You are robbing me of my children. Joseph is gone, Simeon is gone, and now you
+**42:36** *"**You are robbing me of my children. Joseph is gone, Simeon is gone, and now you
 want to take Benjamin. Everything is against me.**"*
 
 Three losses counted, and then the summary.
@@ -34,7 +34,7 @@ Every fact in the list is true, and every conclusion drawn from it is false.
 
 ## The silver
 
-*As they emptied their sacks, **there was each man's bundle of silver** in his sack.
+**42:35** *As they emptied their sacks, **there was each man's bundle of silver** in his sack.
 When they and their father saw the silver, **they were afraid**.*
 
 The money was put back by Joseph, as a gift. Grain paid for and the payment
@@ -65,7 +65,7 @@ From inside the tent it looked like a family being dismantled.
 
 ## Reuben's offer
 
-*"**You may put both my sons to death** if I don't bring him back."*
+**42:37** *"**You may put both my sons to death** if I don't bring him back."*
 
 It is a serious offer and a terrible one. Jacob does not even answer it.
 
@@ -75,7 +75,7 @@ children, and Jacob agrees.
 
 ## What he says last
 
-*"His brother is dead, and **he alone is left**."*
+**42:38** *"His brother is dead, and **he alone is left**."*
 
 Two sons of Rachel, and he speaks as though one is gone and one is all he has.
 
