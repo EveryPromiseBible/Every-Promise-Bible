@@ -4,7 +4,7 @@ title: Hands held up until sundown
 sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
   - 2021-09-05 answers-for-a-hurried-life
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 
 Israel's first battle after the exodus, and it is won on a hilltop rather than in
@@ -12,7 +12,7 @@ the valley.
 
 ## Where it happened
 
-*The Amalekites came and attacked Israel **at Rephidim**.*
+**17:8** *The Amalekites came and attacked Israel **at Rephidim**.*
 
 The name means *resting places*, or places of refreshment.
 
@@ -29,7 +29,7 @@ They attack from behind, at the point of exhaustion.
 
 ## The two assignments
 
-*"**Choose some men and go out to fight** Amalek. **Tomorrow I will stand on top of the
+**17:9** *"**Choose some men and go out to fight** Amalek. **Tomorrow I will stand on top of the
 hill** with the staff of God in my hand."*
 
 Joshua in the valley with a sword. Moses on the hill with a staff.
@@ -38,7 +38,7 @@ Both are given, and the passage is about the relationship between them.
 
 ## The correlation
 
-*As long as Moses **held his hands up, Israel prevailed**; but whenever he **let his
+**17:11** *As long as Moses **held his hands up, Israel prevailed**; but whenever he **let his
 hands down, Amalek prevailed**.*
 
 Joshua's fighting is not what varies. The men, the swords and the tactics stay the
@@ -48,7 +48,7 @@ The only variable in the account is a pair of arms on a hill a mile away.
 
 ## What happens to Moses
 
-*When Moses' arms **grew tired**.*
+**17:12** *When Moses' arms **grew tired**.*
 
 The Hebrew is heavy. He is eighty, and it is an all-day battle.
 
@@ -56,7 +56,7 @@ The man holding up the staff of God cannot hold up his own arms.
 
 ## The stone and the two men
 
-*They took a stone and put it under him, and **he sat on it**, while **Aaron and Hur
+Still **17:12**: *They took a stone and put it under him, and **he sat on it**, while **Aaron and Hur
 held up his hands — one on each side** — so his hands **stayed steady until the sun went
 down**.*
 
@@ -73,18 +73,18 @@ It is the root of *amen*, and it is used here of a pair of hands.
 
 ## The result
 
-*And Joshua **overcame the Amalekite army** with the sword.*
+**17:13** *And Joshua **overcame the Amalekite army** with the sword.*
 
 Both halves are true. The sword did the work in the valley, and the hands on the hill
 decided it.
 
 ## What Moses builds
 
-*Moses built an altar and called its name **The-LORD-Is-My-Banner**.*
+**17:15** *Moses built an altar and called its name **The-LORD-Is-My-Banner**.*
 
 Hebrew **Yahweh-Nissi**. A banner is what an army rallies to and fights under.
 
-And then: *the LORD will have war with Amalek from generation to generation.*
+And then, **17:16**: *the LORD will have war with Amalek from generation to generation.*
 
 ## The thing that cannot be won by effort
 
@@ -106,7 +106,7 @@ courage in the valley are constant, and Exodus is careful to say so.
 The one variable in the account is a pair of arms on a hill, held out on both sides, from
 morning until the sun went down — and a man too old to keep them there on his own.
 
-*Therefore He is able to save **to the uttermost** those who come to God through Him, since
+**Hebrews 7:25**: *Therefore He is able to save **to the uttermost** those who come to God through Him, since
 **He always lives to make intercession for them**.*
 
 There is Someone on a hill whose arms were stretched out on both sides from morning until the
@@ -116,12 +116,12 @@ John 19:28–30.
 
 ## The banner
 
-*Moses built an altar and called its name **The-LORD-Is-My-Banner**.*
+**17:15** again: *Moses built an altar and called its name **The-LORD-Is-My-Banner**.*
 
 A banner is not a weapon. It is what an army rallies to and fights underneath — the thing
 lifted up so that everyone in the field can see it and know whose side they are on.
 
-*And I, **if I am lifted up** from the earth, will draw all peoples to Myself.*
+**John 12:32**: *And I, **if I am lifted up** from the earth, will draw all peoples to Myself.*
 
 > **What the day required.** A young man fighting, an old man seated on a stone, and
 > two friends who stood there from morning until sundown holding his arms. Exodus

@@ -3,7 +3,7 @@ key: Exodus 17:4–7
 title: "I myself will stand there before you"
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 The first time the rock is struck, and the detail everyone reads past is where God says
@@ -11,14 +11,14 @@ He will be standing.
 
 ## The situation
 
-*Moses cried out to the LORD, "What am I to do with these people? **They're almost ready
+**17:4** *Moses cried out to the LORD, "What am I to do with these people? **They're almost ready
 to stone me!**"*
 
 Rephidim. No water, and the people have moved from complaining to picking up rocks.
 
 ## What he is told to take
 
-*"Carry in your hand **the staff you struck the Nile with**."*
+**17:5** *"Carry in your hand **the staff you struck the Nile with**."*
 
 Not any staff. The one that turned a river to blood.
 
@@ -27,7 +27,7 @@ be used.
 
 ## Where God will be
 
-*"**I myself will stand there before you, on the rock at Horeb**."*
+**17:6** *"**I myself will stand there before you, on the rock at Horeb**."*
 
 The Hebrew is *behold, I stand before you there upon the rock*.
 
@@ -37,16 +37,16 @@ Moses is told to bring the rod of judgment and swing it at a rock with God on it
 
 ## The instruction
 
-*"**Strike the rock, and water will pour out** for the people to drink."*
+Still **17:6**: *"**Strike the rock, and water will pour out** for the people to drink."*
 
 The Hebrew for *strike* is **nakah** — to hit, to smite, to strike down. It is the verb
 used of the plagues.
 
 ## The witnesses
 
-*"Take **some of the elders of Israel** with you."*
+**17:5** again: *"Take **some of the elders of Israel** with you."*
 
-*And Moses did it, **right in front of the elders**.*
+**17:6** again: *And Moses did it, **right in front of the elders**.*
 
 Named observers, so it could be attested.
 
@@ -59,7 +59,7 @@ or repented of before the water arrives.
 
 ## The name
 
-*He named the place **Massah and Meribah — Testing and Quarreling**.*
+**17:7** *He named the place **Massah and Meribah — Testing and Quarreling**.*
 
 Both names stick. Psalm 95 uses them as the standing example of a hardened heart, and
 Hebrews builds two chapters on the psalm. See the notes on Psalms 95:8–11 and
@@ -67,7 +67,7 @@ Hebrews 4:1–3.
 
 ## The question underneath
 
-*"**Is the LORD among us or not?**"*
+Still **17:7**: *"**Is the LORD among us or not?**"*
 
 That is what Exodus says they were really asking, and it is a strange question from
 people standing under a cloud that had led them there.
@@ -90,5 +90,5 @@ the note on 1 Corinthians 10:1–5.
 *One of the soldiers pierced His side with a spear, and **at once blood and water came
 out**.* See the note on John 19:31–34.
 
-> **The clause to notice.** *I will stand there before you, on the rock.* The thing being
+> **The clause to notice.** **17:6** again: *I will stand there before you, on the rock.* The thing being
 > struck is the place God said He would be.
