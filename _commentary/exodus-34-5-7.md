@@ -4,21 +4,21 @@ title: "He called out His own name"
 sources:
   - 2019-04-21 the-best-news-youll-ever-hear
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 Moses had asked to see His glory. This is what he got.
 
 ## What he asked for and what came
 
-*Show me Your glory* — chapter 33. And the answer was *I will make all My goodness
+**Exodus 33:18** again: *Show me Your glory* — chapter 33. And the answer was, **33:19**: *I will make all My goodness
 pass before you, and I will proclaim the name of the LORD before you.*
 
 The glory turns out to be a name spoken out loud.
 
 ## Who does the proclaiming
 
-*The LORD came down in the cloud and stood there with Moses, and **He called out
+**34:5** *The LORD came down in the cloud and stood there with Moses, and **He called out
 His own name**.*
 
 He introduces Himself. This is God's own description of God, and it is the passage
@@ -27,7 +27,7 @@ the psalmists all cite it.
 
 ## The list
 
-*"The LORD, the LORD — a God **tender and kind, gracious and full of compassion,
+**34:6–7**: *"The LORD, the LORD — a God **tender and kind, gracious and full of compassion,
 slow to anger, overflowing with steadfast love and faithfulness**. He keeps His
 mercy for thousands upon thousands, **forgiving wrongdoing and rebellion and
 sin**."*
@@ -43,7 +43,7 @@ named as forgiven.
 
 ## And then the clause
 
-*"**Yet He does not sweep guilt aside** as if it were nothing, and the weight of a
+Still **34:7**: *"**Yet He does not sweep guilt aside** as if it were nothing, and the weight of a
 father's sin can fall upon children and grandchildren, to the third and the fourth
 generation."*
 
@@ -64,7 +64,7 @@ Not overlooked, and not swept aside. Remembered no more — which is a different
 thing again, and it required somebody to satisfy the clause in Exodus 34 rather
 than delete it.
 
-That is what the cross did. *Whom God set forth as a propitiation… to demonstrate
+That is what the cross did. **Romans 3:26**: *Whom God set forth as a propitiation… to demonstrate
 His righteousness, **that He might be just and the justifier** of the one who has
 faith in Jesus.* Paul writes that sentence to answer exactly this verse.
 
@@ -75,5 +75,5 @@ smashed. The golden calf was six weeks ago.
 
 God proclaims His mercy standing over the rubble of the first covenant.
 
-> **What Moses does next.** *He made haste and bowed his head toward the earth and
+> **What Moses does next.** **34:8**: *He made haste and bowed his head toward the earth and
 > worshipped.* No question, no discussion. He heard the name and went down.
