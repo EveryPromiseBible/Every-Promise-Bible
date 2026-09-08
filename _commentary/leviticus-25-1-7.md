@@ -3,27 +3,27 @@ key: Leviticus 25:1–7
 title: The Sabbath year
 sources:
   - 2020-08-23 win-the-battle-over-sin-consciousness
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 Every seventh year, an agricultural nation was commanded to stop farming.
 
 ## Where it was given
 
-*On **Mount Sinai** the LORD said to Moses.*
+**25:1** *On **Mount Sinai** the LORD said to Moses.*
 
 Leviticus notes the location, which it rarely does. This is given at the mountain, before
 they have a field to rest.
 
 ## When it starts
 
-*When you **come into the land I am giving you**.*
+**25:2** *When you **come into the land I am giving you**.*
 
 The command has no application in the wilderness. It waits for the land.
 
 ## Whose Sabbath it is
 
-*The **land itself** is to keep a Sabbath **to the LORD**.*
+Still **25:2**: *The **land itself** is to keep a Sabbath **to the LORD**.*
 
 The land is the subject. It is not a rest for the farmer, though he gets one.
 
@@ -32,15 +32,15 @@ Atonement.
 
 ## The six
 
-*For six years **sow your fields, prune your vineyards, and gather what they yield**.*
+**25:3** *For six years **sow your fields, prune your vineyards, and gather what they yield**.*
 
 Three activities, listed so the seventh year's prohibitions can match them.
 
 ## The seventh
 
-*But the seventh year is **a Sabbath of complete rest** for the land.*
+**25:4** *But the seventh year is **a Sabbath of complete rest** for the land.*
 
-*Do not sow your fields or prune your vineyards. **Do not reap what grows on its own** or
+**25:5**: *Do not sow your fields or prune your vineyards. **Do not reap what grows on its own** or
 gather the grapes of your untended vines.*
 
 Not only no planting. No harvesting of what comes up by itself either.
@@ -57,16 +57,16 @@ That is roughly two years of food from one crop.
 
 ## What the chapter says about it
 
-Later in the same chapter God raises the objection Himself: *and if you say, "What shall
-we eat in the seventh year, since we shall not sow nor gather in our produce?" **Then I
+Later in the same chapter God raises the objection Himself, **25:20**: *and if you say, "What shall
+we eat in the seventh year, since we shall not sow nor gather in our produce?"* **25:21**: *Then I
 will command My blessing on you in the sixth year, and it will bring forth produce enough
-for three years**.*
+for three years.*
 
 Three, not two. The provision is stated with a margin.
 
 ## Who eats in the seventh year
 
-*Whatever the land brings forth in that Sabbath **will still feed you** — **you and your
+**25:6–7**: *Whatever the land brings forth in that Sabbath **will still feed you** — **you and your
 servants and hired workers, and the foreigner living among you, and your livestock and
 the wild animals** of the land.*
 
@@ -79,7 +79,7 @@ For one year in seven, the fences come down.
 
 ## What happened when it was ignored
 
-2 Chronicles, on the exile: *and they went to Babylon, **until the land had enjoyed her
+2 Chronicles, on the exile, **36:21** again: *and they went to Babylon, **until the land had enjoyed her
 sabbaths**. As long as she lay desolate she kept Sabbath, to fulfil seventy years.*
 
 Seventy years of exile, and the chronicler counts them as the sabbaths owed.
