@@ -1,7 +1,7 @@
 ---
 key: Leviticus 14:10–20
 title: The leper is consecrated like a priest
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 On the eighth day, a man who had been shut out of the camp has blood put on him in the exact
 places a high priest does.
@@ -17,10 +17,10 @@ confirm, not to heal.
 
 ## The three places
 
-*The priest takes some of the blood and puts it **on the tip of the right ear** of the one being
+**14:14**: *The priest takes some of the blood and puts it **on the tip of the right ear** of the one being
 cleansed, **on the thumb of their right hand**, and **on the big toe of their right foot**.*
 
-Now read what was done to Aaron at his ordination:
+Now read what was done to Aaron at his ordination, **8:23** again:
 
 *Moses… put it on the tip of Aaron's right ear, on the thumb of his right hand, and on the big toe
 of his right foot.* See the note on Leviticus 8:22–24.
@@ -36,7 +36,7 @@ rite used to install a man into the holiest office Israel had.
 
 ## The oil, and where it goes
 
-*Of the oil left in his hand he puts some **on the same ear, thumb, and toe, over the blood
+**14:17**: *Of the oil left in his hand he puts some **on the same ear, thumb, and toe, over the blood
 already there**.*
 
 Over the blood. Leviticus specifies it.
@@ -46,23 +46,23 @@ consecration. See the note on Leviticus 8:30.
 
 ## What happens to the rest
 
-*The rest of the oil he **pours on the head** of the one being cleansed.*
+**14:18**: *The rest of the oil he **pours on the head** of the one being cleansed.*
 
 Poured on the head, which is what was done to Aaron and to nobody else in chapter 8. See the note
 on Leviticus 8:10–13.
 
 ## What he brings
 
-*Two lambs without flaw, and a ewe lamb… and fine flour mixed with oil.*
+**14:10**: *Two lambs without flaw, and a ewe lamb… and fine flour mixed with oil.*
 
-And a few verses later the provision for a man who cannot afford it: *if he is poor and cannot
+And a few verses later the provision for a man who cannot afford it, **14:21**: *if he is poor and cannot
 afford so much*, one lamb and two turtledoves or pigeons.
 
 Nobody is priced out of being brought back. See the note on Leviticus 27:1–8.
 
 ## Who used this chapter
 
-*"Go your way, show yourself to the priest, and **offer for your cleansing those things which
+**Matthew 8:4**: *"Go your way, show yourself to the priest, and **offer for your cleansing those things which
 Moses commanded**, as a testimony to them."*
 
 Said to a leper Jesus had just touched.
@@ -73,7 +73,7 @@ started arriving at the temple asking for it.
 
 ## What He did first
 
-*Then Jesus put out His hand and **touched him**, saying, "I am willing; be cleansed."*
+**Matthew 8:3**: *Then Jesus put out His hand and **touched him**, saying, "I am willing; be cleansed."*
 
 Touching a leper made a man unclean. It did not work that way here.
 
