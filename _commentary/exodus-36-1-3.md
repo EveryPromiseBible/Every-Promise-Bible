@@ -3,14 +3,14 @@ key: Exodus 36:1–3
 title: Morning after morning
 sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 
 The workers are named, the materials are handed over, and the deliveries keep coming.
 
 ## The commission
 
-*"So **Bezalel, Oholiab, and every skilled person the LORD has gifted with the wisdom and
+**36:1** *"So **Bezalel, Oholiab, and every skilled person the LORD has gifted with the wisdom and
 understanding** to know how to do all the work of building the sanctuary are to carry it out."*
 
 The Hebrew is **chakham-lev** — wise of heart. The phrase for craft skill throughout these
@@ -37,7 +37,7 @@ filling is for metalwork, stone-cutting and carpentry.
 
 ## The constraint
 
-*Are to carry it out **exactly as the LORD has commanded**.*
+Still **36:1**: *Are to carry it out **exactly as the LORD has commanded**.*
 
 The specification runs from chapter 25 to chapter 31 and is repeated in the execution from 35 to
 40.
@@ -46,7 +46,7 @@ Skill in the highest degree, and no design freedom at all. The pattern was shown
 
 ## The calling
 
-*So Moses called Bezalel and Oholiab and every skilled worker the LORD had gifted — **everyone
+**36:2** *So Moses called Bezalel and Oholiab and every skilled worker the LORD had gifted — **everyone
 whose heart moved him to come and do the work**.*
 
 Two qualifications: gifted, and moved to come.
@@ -55,7 +55,7 @@ The gift alone does not put a man on the site.
 
 ## The handover
 
-*From Moses **they received all the offerings the Israelites had brought** for the work of building
+**36:3** *From Moses **they received all the offerings the Israelites had brought** for the work of building
 the sanctuary.*
 
 The materials had come in from the whole camp. See the note on Exodus 35:20–24.
@@ -64,7 +64,7 @@ Moses passes them to the craftsmen. He does not hold them.
 
 ## The last line
 
-*And still **the people kept bringing freewill offerings, morning after morning**.*
+Still **36:3**: *And still **the people kept bringing freewill offerings, morning after morning**.*
 
 The Hebrew is **babboqer babboqer** — in the morning, in the morning.
 
@@ -77,16 +77,16 @@ before breakfast, day after day.
 
 ## What happens next
 
-*Finally all the skilled workers doing the work of the sanctuary **set down their tools and came to
+**36:4**: *Finally all the skilled workers doing the work of the sanctuary **set down their tools and came to
 Moses**.*
 
-*"**The people are bringing far more than we need**."* See the note on Exodus 36:4–7.
+**36:5**: *"**The people are bringing far more than we need**."* See the note on Exodus 36:4–7.
 
 The craftsmen stop work to report a surplus.
 
 ## The order that follows
 
-*"**No man or woman is to make anything more** as an offering for the sanctuary."*
+**36:6**: *"**No man or woman is to make anything more** as an offering for the sanctuary."*
 
 The only recorded instance in Scripture of giving having to be stopped.
 
@@ -104,12 +104,12 @@ will make My goodness pass before you*.
 
 A tent to be carried through a desert, put up and taken down at every stage.
 
-*Then the cloud covered the tabernacle of meeting, and the glory of the LORD filled the
+**Exodus 40:34** again: *Then the cloud covered the tabernacle of meeting, and the glory of the LORD filled the
 tabernacle.*
 
 ## The only time it had to be stopped
 
-*"**No man or woman is to make anything more** as an offering for the sanctuary."*
+**36:6** again: *"**No man or woman is to make anything more** as an offering for the sanctuary."*
 
 Nowhere else in Scripture does anybody have to be told to stop giving.
 
@@ -117,7 +117,7 @@ It happens among people who had owned nothing three months earlier, who had been
 everything they were now giving away, and who had already melted a portion of it into a calf at
 the foot of the same mountain.
 
-*Now may **He who supplies seed to the sower**, and bread for food, supply and multiply the seed
+**2 Corinthians 9:10**: *Now may **He who supplies seed to the sower**, and bread for food, supply and multiply the seed
 you have sown.*
 
 Giving that has to be restrained is giving out of something received first. There is no other
@@ -125,13 +125,13 @@ kind in the book.
 
 ## What the tent was for
 
-*Then the cloud covered the tabernacle of meeting, and **the glory of the LORD filled the
+**Exodus 40:34** again: *Then the cloud covered the tabernacle of meeting, and **the glory of the LORD filled the
 tabernacle**.*
 
 The last two verses of Exodus. Ex-slaves put up a tent in a desert out of Egyptian jewellery,
 and God moved in.
 
-*In whom the whole building, being fitted together, grows into **a holy temple in the Lord**, in
+**Ephesians 2:21–22**: *In whom the whole building, being fitted together, grows into **a holy temple in the Lord**, in
 whom you also are being built together for **a dwelling place of God in the Spirit**.*
 
 Paul says the same thing about people, and uses the same word for the point of it.
