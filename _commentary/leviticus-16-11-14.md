@@ -3,7 +3,7 @@ key: Leviticus 16:11–14
 title: Blood on the mercy seat, once a year
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 The Day of Atonement, and the only occasion in the year when anyone went behind
@@ -11,18 +11,18 @@ the curtain.
 
 ## He deals with himself first
 
-*Aaron slaughters the bull that is his own sin offering, making atonement for
+**16:11**: *Aaron slaughters the bull that is his own sin offering, making atonement for
 himself and his household.*
 
 Before he can carry anything in for the nation, the high priest has to be
 covered himself. The man doing the mediating needs a mediator.
 
-Hebrews makes a great deal of this: *He has no need, like those high priests, to
+Hebrews makes a great deal of this, **7:27** again: *He has no need, like those high priests, to
 offer sacrifices daily, first for his own sins and then for the people's.*
 
 ## The incense
 
-*A cloud of sweet smoke rises and covers the mercy seat — **so that he may live
+**16:13**: *A cloud of sweet smoke rises and covers the mercy seat — **so that he may live
 and not die**.*
 
 The smoke is not decoration or atmosphere. Leviticus says plainly what it is for:
@@ -33,7 +33,7 @@ is a screen between the man and the glory.
 
 ## The blood
 
-*He sprinkles it with his finger on the front of the mercy seat, and seven times
+**16:14**: *He sprinkles it with his finger on the front of the mercy seat, and seven times
 before it.*
 
 Once on the lid itself, seven times on the ground in front. Seven is the number of
@@ -47,7 +47,7 @@ was underneath the lid was the broken law; what went on top of it was blood.
 Once a year, one man, with blood, behind a curtain, in smoke, having first
 atoned for himself.
 
-Set that beside *let us walk right up to the throne where grace sits* and the
+Set that beside **Hebrews 4:16**: *let us walk right up to the throne where grace sits* and the
 distance the New Testament is describing becomes measurable.
 
 > **The curtain.** Matthew records that at the moment Jesus died, the curtain of
