@@ -7,14 +7,14 @@ sources:
   - 2020-11-15 five-times-more-favor-and-provision
   - 2021-08-15 the-significance-of-this-generation
   - 2025-05-25 jesus-your-storehouse-of-wisdom
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 The famine arrives on schedule, and the whole world ends up at one man's door.
 
 ## Exactly as he said
 
-*The seven years of plenty in Egypt came to an end, and the seven years of famine
+**41:53–54**: *The seven years of plenty in Egypt came to an end, and the seven years of famine
 began, **just as Joseph had said**.*
 
 Seven years earlier he was in a prison interpreting dreams for a butler and a baker.
@@ -23,7 +23,7 @@ held.
 
 ## The one exception
 
-*The famine spread to **every land**, but **throughout Egypt there was bread**.*
+The end of **41:54**: *The famine spread to **every land**, but **throughout Egypt there was bread**.*
 
 The famine is universal. The supply is in one country.
 
@@ -32,7 +32,7 @@ storing.
 
 ## Pharaoh's answer
 
-*The people cried out to **Pharaoh** for food, and Pharaoh told them all, **"Go to
+**41:55** *The people cried out to **Pharaoh** for food, and Pharaoh told them all, **"Go to
 Joseph. Do whatever he tells you."**"*
 
 They go to the king and the king redirects them.
@@ -49,7 +49,7 @@ by six empty water pots. See the note on John 2:6–8.
 
 ## The storehouses
 
-*Joseph **opened the storehouses** and sold grain to the Egyptians.*
+**41:56** *Joseph **opened the storehouses** and sold grain to the Egyptians.*
 
 They were opened by the man who filled them. Nobody else had the keys or the knowledge
 of what was in them.
@@ -63,7 +63,7 @@ Moses reports the whole transaction without editorial.
 
 ## Everyone came
 
-*And people came **from every country** to Egypt to buy grain from Joseph, because the
+**41:57** *And people came **from every country** to Egypt to buy grain from Joseph, because the
 famine was **severe over all the earth**.*
 
 That last line is the hinge of the book. The next verse of chapter 42 is Jacob saying to
@@ -73,7 +73,7 @@ Ten brothers who sold him will walk up to the man selling grain.
 
 ## What he had been doing for seven years
 
-*He gathered grain **as the sand of the sea, very much, until he stopped counting**, for
+**41:49**: *He gathered grain **as the sand of the sea, very much, until he stopped counting**, for
 it was immeasurable.*
 
 *As the sand of the sea* is the phrase used of Abraham's descendants.

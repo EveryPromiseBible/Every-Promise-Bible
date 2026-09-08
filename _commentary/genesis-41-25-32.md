@@ -8,7 +8,7 @@ sources:
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2024-04-14 follow-the-anointing-within
-updated: 2026-08-09
+updated: 2026-09-07
 ---
 
 A prisoner tells the king of Egypt what his dreams meant, and the first word out of his
@@ -16,7 +16,7 @@ mouth is God.
 
 ## The claim
 
-*"**Both of Pharaoh's dreams are one and the same**."*
+**41:25** *"**Both of Pharaoh's dreams are one and the same**."*
 
 Two dreams — seven fat cows eaten by seven lean ones, and seven full heads of grain
 swallowed by seven withered ones.
@@ -25,41 +25,41 @@ Egypt's magicians could not interpret either. Joseph says they are one dream tol
 
 ## Who is doing it
 
-*"**God is showing Pharaoh what He is about to do**."*
+The rest of **41:25**: *"**God is showing Pharaoh what He is about to do**."*
 
-He had already said it on the way in: *"It is not in me; God will give Pharaoh an answer of
+He had already said it on the way in, **41:16**: *"It is not in me; God will give Pharaoh an answer of
 peace."*
 
-And he says it again in verse 28: *"It's as I told Pharaoh — **God has shown Pharaoh what He
+And he says it again, **41:28**: *"It's as I told Pharaoh — **God has shown Pharaoh what He
 is about to do**."*
 
 Three times in four verses, to a king who was worshipped as a god himself.
 
 ## The interpretation
 
-*"The seven good cows are seven years, and the seven good heads of grain are seven years —
+**41:26**: *"The seven good cows are seven years, and the seven good heads of grain are seven years —
 **it is one dream**."*
 
-*"The seven thin, ugly cows… and the seven empty heads scorched by the wind: they are
+**41:27**: *"The seven thin, ugly cows… and the seven empty heads scorched by the wind: they are
 **seven years of famine**."*
 
 The wind is the **khamsin**, the desert wind that blasts standing grain.
 
 ## The forecast
 
-*"**Seven years of great plenty are coming** to all of Egypt, but after them will come
+**41:29–30**: *"**Seven years of great plenty are coming** to all of Egypt, but after them will come
 **seven years of famine**."*
 
 ## The severity
 
-*"**All the plenty will be forgotten**, and the famine will **drain the land dry**. **The
+**41:30–31**: *"**All the plenty will be forgotten**, and the famine will **drain the land dry**. **The
 abundance will not even be remembered**, so severe will the famine be."*
 
 Said twice. The seven good years will not register against the seven bad ones.
 
 ## Why twice
 
-*"And **the dream came to Pharaoh twice** because **the matter is firmly settled by God**, and
+**41:32** *"And **the dream came to Pharaoh twice** because **the matter is firmly settled by God**, and
 **God will bring it about soon**."*
 
 The Hebrew is *established by God*.
@@ -71,7 +71,7 @@ structure of the dream as part of the interpretation.
 
 Nobody asked him for advice.
 
-*"Now therefore, **let Pharaoh select a discerning and wise man**, and set him over the land
+**41:33–36**: *"Now therefore, **let Pharaoh select a discerning and wise man**, and set him over the land
 of Egypt… and let them **gather all the food of those good years**… **then that food shall be
 a reserve for the land** for the seven years of famine."*
 
@@ -82,7 +82,7 @@ Nothing in the dream contained the plan.
 
 ## What happens
 
-*The plan pleased Pharaoh and all his officials.* And: *"**Since God has shown you all this,
+*The plan pleased Pharaoh and all his officials.* And, **41:39**: *"**Since God has shown you all this,
 there is no one as discerning and wise as you**."* See the note on
 Genesis 41:37–45.
 
@@ -105,7 +105,7 @@ He had interpreted two dreams in that prison as well, and asked one man to remem
 
 ## What he refuses to take
 
-*"**It is not in me**; God will give Pharaoh an answer of peace."*
+**41:16**: *"**It is not in me**; God will give Pharaoh an answer of peace."*
 
 Said on the way in, before he had heard the dream, to a man who could have executed him for
 saying it.
