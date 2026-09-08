@@ -6,7 +6,7 @@ sources:
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2024-05-12 busy-outside-restful-inside
   - 2024-12-22 when-god-stooped-down
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 A new offering is introduced, and the case it covers is the one nobody planned.
@@ -20,13 +20,13 @@ Chapter 4 begins the required ones. The mood changes.
 
 ## The formula
 
-*The LORD said to Moses, "**Speak to the Israelites and tell them**."*
+**4:1** *The LORD said to Moses, "**Speak to the Israelites and tell them**."*
 
 The standard opening. Leviticus is almost entirely direct speech.
 
 ## The case
 
-*"**When someone sins unintentionally**, doing what the LORD has commanded not to be done."*
+**4:2** *"**When someone sins unintentionally**, doing what the LORD has commanded not to be done."*
 
 The Hebrew is **bishgagah** — in error, by straying, inadvertently.
 
@@ -37,13 +37,13 @@ off.
 
 Not defiance. Sin committed without knowing it was sin at the time.
 
-Later in the chapter: *when the sin which they have committed **becomes known to them***.
+Later in the chapter, **4:14**: *when the sin which they have committed **becomes known to them***.
 
 The offering is for the moment somebody finds out.
 
 ## What is not covered
 
-*But the person who does anything presumptuously… **that one brings reproach on the LORD, and he
+**Numbers 15:30**: *But the person who does anything presumptuously… **that one brings reproach on the LORD, and he
 shall be cut off from among his people**.*
 
 The Hebrew is **beyad ramah** — with a high hand.
@@ -60,7 +60,7 @@ guilty without knowing.
 
 ## The last clause
 
-*"Here is **the way home**."*
+**4:2** again: *"Here is **the way home**."*
 
 The Hebrew introduces the procedure that follows — the bull, the hand on the head, the blood, the
 fat, the burning outside the camp.
@@ -90,7 +90,7 @@ goes on the horns of the outer altar.
 
 ## The hand
 
-*He **lays his hand on its head**.*
+**4:4**: *He **lays his hand on its head**.*
 
 The Hebrew is **vesamak yado** — and he shall lean his hand.
 
@@ -108,7 +108,7 @@ Hebrews builds an argument on where the carcass was taken.
 
 ## The word from the cross
 
-*"Father, forgive them, **for they do not know what they do**."*
+**Luke 23:34**: *"Father, forgive them, **for they do not know what they do**."*
 
 Which is the definition in this verse, spoken over the people carrying it out.
 

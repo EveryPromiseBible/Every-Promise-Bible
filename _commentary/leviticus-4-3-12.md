@@ -5,14 +5,14 @@ sources:
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2023-04-09 his-resurrection-my-victory-over-death
   - 2024-12-22 when-god-stooped-down
-updated: 2026-08-06
+updated: 2026-09-08
 ---
 
 The heaviest offering in the chapter is for the man who performs the offerings.
 
 ## The case
 
-*If **the anointed priest sins and brings guilt on the people**.*
+**4:3** *If **the anointed priest sins and brings guilt on the people**.*
 
 The Hebrew is **hakkohen hammashiach** — the anointed priest. The high priest.
 
@@ -22,7 +22,7 @@ His failure is not private. The chapter says so before it says anything else.
 
 ## The animal
 
-*He must bring to the LORD **a young bull without flaw**.*
+Still **4:3**: *He must bring to the LORD **a young bull without flaw**.*
 
 The same animal required for the sin of the whole congregation.
 
@@ -30,7 +30,7 @@ One man, one nation, same offering.
 
 ## The hand
 
-*He brings it to the entrance of the Tent of Meeting, **lays his hand on its head**, and it is put
+**4:4** *He brings it to the entrance of the Tent of Meeting, **lays his hand on its head**, and it is put
 to death before the LORD.*
 
 The Hebrew is **vesamak** — pressed his hand down on it.
@@ -39,7 +39,7 @@ The priest kills it himself. There is no one above him to do it for him.
 
 ## The blood inside
 
-*The priest **takes some of the blood into the Tent of Meeting**, dips his finger in it, and
+**4:5–6**: *The priest **takes some of the blood into the Tent of Meeting**, dips his finger in it, and
 **sprinkles it seven times before the LORD, in front of the curtain**.*
 
 Seven — the number of completion.
@@ -49,7 +49,7 @@ ordinary day.
 
 ## The horns
 
-*He puts some of the blood on **the horns of the altar of fragrant incense**.*
+**4:7** *He puts some of the blood on **the horns of the altar of fragrant incense**.*
 
 The incense altar stood immediately in front of the veil. It was where the priest burned incense
 morning and evening.
@@ -58,22 +58,22 @@ The horns were the projections at its corners, and the place a fugitive grabbed 
 
 ## The pouring
 
-*And **pours out the rest at the base of the altar of burnt offering** at the Tent's entrance.*
+Still **4:7**: *And **pours out the rest at the base of the altar of burnt offering** at the Tent's entrance.*
 
 Most of the blood goes on the ground at the door, where nobody sees it.
 
 ## The fat
 
-*He removes **the fat of the sin offering** — the fat covering the inner parts, both kidneys with
+**4:8–9**: *He removes **the fat of the sin offering** — the fat covering the inner parts, both kidneys with
 the fat around them, and the covering of the liver — and **burns them on the altar**.*
 
 The fat and the organs were considered the richest part.
 
-*All the fat is the LORD's* — the standing rule, from chapter 3.
+**3:16** again: *All the fat is the LORD's* — the standing rule, from chapter 3.
 
 ## The remainder
 
-*But the rest of the bull — **its hide, all its flesh, its head and legs, its inner parts and
+**4:11**: *But the rest of the bull — **its hide, all its flesh, its head and legs, its inner parts and
 refuse**.*
 
 The full carcass, itemised so nothing can be quietly retained.
@@ -83,7 +83,7 @@ covers his own sin.
 
 ## Outside
 
-*He **carries outside the camp to a clean place**, where the ashes are poured out, and **burns it
+**4:12** *He **carries outside the camp to a clean place**, where the ashes are poured out, and **burns it
 there on a wood fire**.*
 
 The Hebrew is **el-mitzchutz lammachaneh** — to outside the camp.
@@ -105,17 +105,17 @@ The whole argument rests on the geography of this paragraph.
 
 ## What Golgotha was
 
-Outside the wall. John records it: *and He, bearing His cross, went out to a place called the
+Outside the wall. John records it, **19:17**: *and He, bearing His cross, went out to a place called the
 Place of a Skull*.
 
 ## The high priest's own sin
 
-The Day of Atonement makes the same point: *Aaron shall offer the bull as a sin offering, **which
+The Day of Atonement makes the same point, **Leviticus 16:6**: *Aaron shall offer the bull as a sin offering, **which
 is for himself**, and make atonement for himself and for his house*.
 
 He cannot cover anyone until he is covered.
 
-*Who does not need daily, as those high priests, to offer up sacrifices, **first for His own sins**
+**Hebrews 7:27**: *Who does not need daily, as those high priests, to offer up sacrifices, **first for His own sins**
 and then for the people's, for **this He did once for all when He offered up Himself**.*
 
 > **The geography.** The blood goes as far in as anyone may go. The body goes outside the camp.
