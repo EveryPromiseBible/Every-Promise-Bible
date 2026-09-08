@@ -3,7 +3,7 @@ key: Exodus 15:1–5
 title: The song of Moses
 sources:
   - 2023-03-26 hear-your-way-out-of-every-weakness
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 The first song in the Bible, sung on a beach with an army in the water behind them.
@@ -13,12 +13,12 @@ The first song in the Bible, sung on a beach with an army in the water behind th
 The Red Sea. A strong east wind all night, dry ground, and the Egyptians going in after them and
 not coming out. See the note on Exodus 14:21–25.
 
-*Thus Israel saw the great work which the LORD had done in Egypt; so the people feared the LORD,
+**Exodus 14:31**: *Thus Israel saw the great work which the LORD had done in Egypt; so the people feared the LORD,
 and believed the LORD and His servant Moses.*
 
 ## The first song
 
-*Then Moses and the Israelites **sang this song to the LORD**.*
+**15:1** *Then Moses and the Israelites **sang this song to the LORD**.*
 
 There is no singing recorded before this. Four hundred and thirty years in Egypt produce no
 hymn.
@@ -27,7 +27,7 @@ The first song in Scripture comes after a deliverance nobody worked for.
 
 ## The opening
 
-*"I will sing to the LORD, for **He has risen up in glory**; the horse and its rider **He has hurled
+Still **15:1**: *"I will sing to the LORD, for **He has risen up in glory**; the horse and its rider **He has hurled
 into the sea**."*
 
 The Hebrew is **ga'oh ga'ah** — highly exalted, the verb doubled.
@@ -36,7 +36,7 @@ The Hebrew is **ga'oh ga'ah** — highly exalted, the verb doubled.
 
 ## The three-part confession
 
-*"**The LORD is my strength and my song; He has become my salvation**."*
+**15:2** *"**The LORD is my strength and my song; He has become my salvation**."*
 
 The Hebrew is **ozzi vezimrat Yah vayehi-li lishu'ah**.
 
@@ -47,7 +47,7 @@ places, unchanged.
 
 ## The response
 
-*"He is my God, and **I will praise Him**, my father's God, and **I will lift Him high**."*
+Still **15:2**: *"He is my God, and **I will praise Him**, my father's God, and **I will lift Him high**."*
 
 The Hebrew is **anvehu** — I will beautify Him, or prepare Him a dwelling.
 
@@ -55,7 +55,7 @@ The Hebrew is **anvehu** — I will beautify Him, or prepare Him a dwelling.
 
 ## The title
 
-*"**The LORD is a warrior — the LORD is His name**."*
+**15:3** *"**The LORD is a warrior — the LORD is His name**."*
 
 The Hebrew is **YHWH ish milchamah** — the LORD is a man of war.
 
@@ -63,11 +63,11 @@ Blunt, and unusual. The Septuagint softened it to *the Lord shatters wars*.
 
 ## The stone
 
-*"The deep waters covered them; **down they went to the depths like a stone**."*
+**15:5** *"The deep waters covered them; **down they went to the depths like a stone**."*
 
 The Hebrew is **yaredu bimtzolot kemo-aven**.
 
-Two verses later: *they sank like lead in the mighty waters*.
+Five verses later, **15:10**: *they sank like lead in the mighty waters*.
 
 Two comparisons for weight, and both are about how fast something goes down.
 
@@ -82,10 +82,10 @@ But the first half is entirely about what has been done.
 
 ## Miriam
 
-*Then **Miriam the prophetess, Aaron's sister**, took the timbrel in her hand; and all the women went
+**15:20** *Then **Miriam the prophetess, Aaron's sister**, took the timbrel in her hand; and all the women went
 out after her with timbrels and with dances.*
 
-*"Sing to the LORD, for He has triumphed gloriously!"*
+**15:21**: *"Sing to the LORD, for He has triumphed gloriously!"*
 
 She repeats the first line. The song is antiphonal.
 
