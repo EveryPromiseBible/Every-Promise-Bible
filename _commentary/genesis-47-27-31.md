@@ -3,21 +3,21 @@ key: Genesis 47:27–31
 title: "Do not bury me in Egypt"
 sources:
   - 2020-05-17 expect-good-in-times-of-trouble
-updated: 2026-08-06
+updated: 2026-09-07
 ---
 
 An old man's last request, and it is entirely about a location.
 
 ## Where they are
 
-*So Israel settled in Egypt, in **the region of Goshen**.*
+**47:27** *So Israel settled in Egypt, in **the region of Goshen**.*
 
 The best of the land, given by Pharaoh, during a famine that had just cost every
 Egyptian their fields. See the note on Genesis 47:13–26.
 
 ## What happened to them there
 
-*They **took possession of property** there, and they were **fruitful and increased
+Still **47:27**: *They **took possession of property** there, and they were **fruitful and increased
 greatly in number**.*
 
 The Hebrew for *took possession* is **achaz** — to grasp, to take hold of. It is the root
@@ -34,7 +34,7 @@ them.
 
 ## The arithmetic
 
-*Jacob lived in Egypt **seventeen years**, and the years of his life came to **a hundred
+**47:28** *Jacob lived in Egypt **seventeen years**, and the years of his life came to **a hundred
 and forty-seven**.*
 
 Seventeen years. Joseph was seventeen when he was sold.
@@ -44,7 +44,7 @@ him at the end. Moses gives both numbers and lets the reader put them together.
 
 ## The request
 
-*"**If I have found favor in your eyes**, place your hand under my thigh and promise to
+**47:29** *"**If I have found favor in your eyes**, place your hand under my thigh and promise to
 show me **kindness and faithfulness**."*
 
 The father asks his son for a favour, in the language of a subject asking a ruler —
@@ -56,7 +56,7 @@ grace and truth*.
 
 ## The oath
 
-*Place your hand **under my thigh**.*
+Still **47:29**: *Place your hand **under my thigh**.*
 
 The same gesture Abraham required of his servant when he sent him to find a wife for
 Isaac. It appears twice in Scripture and both times it concerns the promise and the
@@ -64,7 +64,7 @@ line.
 
 ## What he asks
 
-*"**Do not bury me in Egypt**. When I rest with my fathers, **carry me out of Egypt and
+**47:29–30**: *"**Do not bury me in Egypt**. When I rest with my fathers, **carry me out of Egypt and
 bury me where they are buried**."*
 
 Goshen has been good to him. He has land, grandchildren, a son running the country, and
@@ -81,14 +81,14 @@ Abraham and Sarah are there, Isaac and Rebekah, and Leah.
 
 ## Not enough to be promised
 
-*"**Swear it to me**," Jacob said.*
+**47:31** *"**Swear it to me**," Jacob said.*
 
 Joseph has already said *I will do as you say*, and it is not enough. The old man wants
 it under oath.
 
 ## The last line
 
-*So Joseph swore to him, and **Israel bowed in worship at the head of his bed**.*
+Still **47:31**: *So Joseph swore to him, and **Israel bowed in worship at the head of his bed**.*
 
 He is called **Israel** in that clause, not Jacob.
 
