@@ -4,7 +4,7 @@ title: The golden calf
 sources:
   - 2022-12-13 prosperity-with-a-purpose
   - 2023-03-26 hear-your-way-out-of-every-weakness
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 
 Forty days is too long, and the gold comes off.
@@ -20,7 +20,7 @@ The two scenes are simultaneous, and the book puts them side by side.
 
 ## The cause
 
-*Down below, the people saw that **Moses was taking a long time coming down**, and **they grew
+**32:1** *Down below, the people saw that **Moses was taking a long time coming down**, and **they grew
 restless**.*
 
 The Hebrew is **boshesh** — delayed, tarried.
@@ -29,13 +29,13 @@ Forty days. He had said he was going up; he had not said for how long.
 
 ## The gathering
 
-*They **gathered around Aaron**.*
+Still **32:1**: *They **gathered around Aaron**.*
 
 The Hebrew is **vayyiqqahel ha'am al-Aharon** — the verb carries a hint of assembling against.
 
 ## The demand
 
-*"**Come on — make us gods to lead the way**."*
+Still **32:1**: *"**Come on — make us gods to lead the way**."*
 
 The Hebrew is **asei-lanu elohim asher yelchu lephanenu** — make us gods who will go before us.
 
@@ -43,7 +43,7 @@ Which is what the pillar of cloud had been doing, every day, since the sea.
 
 ## The reason
 
-*"**This Moses, the man who brought us up out of Egypt** — we have no idea what has become of
+The end of **32:1**: *"**This Moses, the man who brought us up out of Egypt** — we have no idea what has become of
 him."*
 
 **This Moses** — dismissive.
@@ -53,7 +53,7 @@ correcting. The credit is assigned to the man.
 
 ## Aaron
 
-*Aaron told them, "**Take off the gold earrings your wives and sons and daughters are wearing**."*
+**32:2** *Aaron told them, "**Take off the gold earrings your wives and sons and daughters are wearing**."*
 
 He does not refuse. He does not delay. He gives an instruction.
 
@@ -62,7 +62,7 @@ immediately.
 
 ## The compliance
 
-*So they **stripped off their gold and handed it over**.*
+**32:3** *So they **stripped off their gold and handed it over**.*
 
 The Hebrew is **vayyitparequ** — they tore off.
 
@@ -77,7 +77,7 @@ Wages for four hundred and thirty years, handed over on the night they left.
 
 ## What is made
 
-*Aaron took it, **melted it down, shaped it with a tool**, and made it into the form of a calf.*
+**32:4** *Aaron took it, **melted it down, shaped it with a tool**, and made it into the form of a calf.*
 
 The Hebrew is **vayyatzar oto bacheret** — and he fashioned it with an engraving tool.
 
@@ -92,7 +92,7 @@ They do not invent a new god. They reach for the nearest available shape.
 
 ## The declaration
 
-*"**Here are your gods, Israel, who brought you up out of Egypt!**"*
+Still **32:4**: *"**Here are your gods, Israel, who brought you up out of Egypt!**"*
 
 The same claim they had just made about Moses, transferred to an object made an hour ago.
 
@@ -113,7 +113,7 @@ The same metal, from the same ears, going two directions in one book.
 
 ## Who stands in the gap
 
-*"Now therefore, let Me alone, that My wrath may burn hot against them… **and I will make of you a
+**32:10**: *"Now therefore, let Me alone, that My wrath may burn hot against them… **and I will make of you a
 great nation**."*
 
 *Then Moses pleaded with the LORD his God… "**Yet now, if You will forgive their sin — but if not,
@@ -135,12 +135,12 @@ gold. See the note on Exodus 36:1–3.
 
 ## Who stood between
 
-Moses is offered Abraham's promise — *I will make of you a great nation* — and turns it down to
+Moses is offered Abraham's promise, **32:10** again: *I will make of you a great nation* — and turns it down to
 ask to be erased instead. See the note on Exodus 32:30–35.
 
 The offer was refused, because a man cannot cover another man's sin.
 
-*For there is one God and **one Mediator between God and men, the Man Christ Jesus**, who gave
+**1 Timothy 2:5**: *For there is one God and **one Mediator between God and men, the Man Christ Jesus**, who gave
 Himself a ransom for all.*
 
 What Moses could only offer, Someone else was able to make good — and the *perhaps* he climbed
