@@ -5,14 +5,14 @@ sources:
   - 2021-01-03 the-year-of-hazon-vision
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
-updated: 2026-08-09
+updated: 2026-09-08
 ---
 
 The first man in Scripture said to be filled with the Spirit of God is a craftsman.
 
 ## The naming
 
-*"Look — **I've picked a man out by name**: **Bezalel, son of Uri, grandson of Hur, from the
+**31:2** *"Look — **I've picked a man out by name**: **Bezalel, son of Uri, grandson of Hur, from the
 tribe of Judah**."*
 
 The Hebrew is *I have called by name*.
@@ -26,7 +26,7 @@ first. See the note on Exodus 17:8–13.
 
 ## The filling
 
-*"**I've filled him with My own Spirit**."*
+**31:3** *"**I've filled him with My own Spirit**."*
 
 The Hebrew is *I have filled him with the Spirit of God* — **ruach Elohim**.
 
@@ -36,18 +36,18 @@ Not a prophet, a priest or a king. A man who works metal.
 
 ## What the filling consists of
 
-*"With **wisdom, understanding, and skill for every kind of craft**."*
+Still **31:3**: *"With **wisdom, understanding, and skill for every kind of craft**."*
 
 The Hebrew names three: **chokmah** (wisdom), **tebunah** (understanding), and **daath**
 (knowledge) — and then *in all manner of workmanship*.
 
-The same three nouns Proverbs uses of how the world was made: *the LORD by wisdom founded
+The same three nouns Proverbs uses of how the world was made, **3:19–20**: *the LORD by wisdom founded
 the earth, by understanding He established the heavens; by His knowledge the depths were
 broken up.*
 
 ## The list
 
-*"He can **dream up beautiful designs** and work them in **gold, silver, and bronze**. He can
+**31:4–5**: *"He can **dream up beautiful designs** and work them in **gold, silver, and bronze**. He can
 **cut and set precious stones**, **carve wood**, and **turn his hand to any art at all**."*
 
 The Hebrew for *dream up designs* is **lachshov machashavot** — to devise devices, to think
@@ -64,13 +64,13 @@ Chapters 25 to 31 are the specification. Bezalel is the one who executes it.
 
 ## The second man
 
-*"And I have appointed with him **Aholiab the son of Ahisamach, of the tribe of Dan**."*
+**31:6** *"And I have appointed with him **Aholiab the son of Ahisamach, of the tribe of Dan**."*
 
 Judah and Dan — the first tribe and one of the last. The pairing is deliberate.
 
 ## The rest of the workforce
 
-*"And **in the hearts of all who are gifted artisans I have put wisdom**, that they may make
+Still **31:6**: *"And **in the hearts of all who are gifted artisans I have put wisdom**, that they may make
 all that I have commanded you."*
 
 Everybody working on the tent is described the same way.
@@ -85,7 +85,7 @@ Exodus 12:33–36.
 
 ## The one problem in the project
 
-The people brought too much. *So Moses gave a commandment… "**Let neither man nor woman do
+The people brought too much. **Exodus 36:6–7**: *So Moses gave a commandment… "**Let neither man nor woman do
 any more work for the offering of the sanctuary**." And the people were restrained from
 bringing, for the material they had was sufficient — and more than enough.*
 
@@ -121,7 +121,7 @@ where God lives with people permanently.
 
 ## Which tribe
 
-*From the tribe of **Judah**.*
+**31:2** again: *From the tribe of **Judah**.*
 
 The tribe of the sceptre, of David, and of the Lion. The man called by name and filled with
 the Spirit to build the place God would dwell comes out of the tribe the One who would be that
