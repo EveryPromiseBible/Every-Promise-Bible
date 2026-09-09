@@ -3,21 +3,21 @@ key: Numbers 13:21–25
 title: The valley of the cluster
 sources:
   - 2020-03-22 fear-not-christ-is-in-the-crisis
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Twelve men walk the length of the country for forty days and bring back one branch.
 
 ## How far they went
 
-*From **the wilderness of Zin** as far as **Rehob, near the pass to Hamath**.*
+**13:21** *From **the wilderness of Zin** as far as **Rehob, near the pass to Hamath**.*
 
 The southern desert to the far north. They covered the whole land, on foot, in enemy
 territory.
 
 ## What they saw at Hebron
 
-*Where **Ahiman, Sheshai, and Talmai** lived — **descendants of Anak**.*
+**13:22** *Where **Ahiman, Sheshai, and Talmai** lived — **descendants of Anak**.*
 
 The giants are named. Three of them, individually, which means somebody got close
 enough to learn who they were.
@@ -27,7 +27,7 @@ the town the Anakim were holding.
 
 ## The parenthesis
 
-*(Hebron had been built **seven years before Zoan in Egypt**.)*
+**13:22** again: *(Hebron had been built **seven years before Zoan in Egypt**.)*
 
 An aside about comparative city dating, dropped into a military report.
 
@@ -36,7 +36,7 @@ the comparison meaningful.
 
 ## The cluster
 
-*They cut down **a single branch with one cluster of grapes so heavy that two men
+**13:23** *They cut down **a single branch with one cluster of grapes so heavy that two men
 carried it between them on a pole**.*
 
 One cluster. Two men. A pole.
@@ -45,21 +45,21 @@ It is the only physical evidence they bring back, and it is beyond argument.
 
 ## What else
 
-*Along with some **pomegranates and figs**.*
+**13:23** again: *Along with some **pomegranates and figs**.*
 
-Three of the seven species Deuteronomy uses to describe the land — *a land of wheat and
+Three of the seven species Deuteronomy uses to describe the land, **Deuteronomy 8:8**: *a land of wheat and
 barley, of vines and fig trees and pomegranates.*
 
 ## The name
 
-*They named that place **the Valley of Eshcol — "the valley of the cluster"** — because
+**13:24** *They named that place **the Valley of Eshcol — "the valley of the cluster"** — because
 of the cluster they cut there.*
 
 The place is renamed after the fruit.
 
 ## Forty days
 
-*After **forty days** of searching the land, they made their way back.*
+**13:25** *After **forty days** of searching the land, they made their way back.*
 
 That number becomes the sentence: *for each of the forty days you explored the land,
 you will bear your guilt a year.* See the note on Numbers 14:26–35.
@@ -68,7 +68,7 @@ A day for a year, measured against the walk they took and would not finish.
 
 ## What they did with the evidence
 
-The next paragraph: *they showed them the fruit of the land. "It truly does flow with
+The next paragraph, **Numbers 13:27–28**: *they showed them the fruit of the land. "It truly does flow with
 milk and honey — here is its fruit. **But** the people who live there are strong."*
 
 They hold up the grapes and then put a *but* after them.
@@ -81,11 +81,11 @@ the note on Numbers 13:26–33.
 Caleb. He walked the same forty days, saw the same three giants, and carried the same
 pole.
 
-*Let us go up at once and take it. We can certainly do it.*
+**Numbers 13:30**: *Let us go up at once and take it. We can certainly do it.*
 
 ## The cluster on the pole
 
-*A single branch with one cluster of grapes so heavy that **two men carried it between them on a
+**13:23** again: *A single branch with one cluster of grapes so heavy that **two men carried it between them on a
 pole**.*
 
 It is the only thing they brought back that could not be argued with — and the way they had to
@@ -94,7 +94,7 @@ carry it is the detail Numbers records.
 The fruit of the land came into the camp hanging on a piece of wood between two men, and the
 grapes were on their way to being crushed.
 
-*I am the true vine*, Jesus said. And in an upper room, over a cup: *this is My blood of the
+**John 15:1**: *I am the true vine*, Jesus said. And in an upper room, over a cup, **Matthew 26:28**: *this is My blood of the
 new covenant, which is shed for many.*
 
 ## Where it grew

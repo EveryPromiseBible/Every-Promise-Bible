@@ -7,14 +7,14 @@ sources:
   - 2020-12-13 declare-you-are-highly-favored
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
   - 2026-01-04 hope-that-anchors-your-soul
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 Twelve men see the same country for forty days and come back with two reports.
 
 ## What everybody agreed on
 
-*"It truly does **flow with milk and honey** — here is its fruit."*
+**13:27** *"It truly does **flow with milk and honey** — here is its fruit."*
 
 All twelve say that. The cluster of grapes took two men and a pole to carry.
 
@@ -25,7 +25,7 @@ The facts are not in dispute anywhere in this chapter.
 
 ## The word that changes everything
 
-*"**But** the people who live there are strong."*
+**13:28** *"**But** the people who live there are strong."*
 
 Ten men have the same information as Caleb and put a *but* in the middle of it.
 
@@ -36,7 +36,7 @@ after it is true; the word is what joins them.
 
 ## Caleb
 
-*Then Caleb **quieted the people** before Moses and said, "**Let's go up at once
+**13:30** *Then Caleb **quieted the people** before Moses and said, "**Let's go up at once
 and take it. We can certainly do it.**"*
 
 The Hebrew is emphatic — *we are well able*. It is not bravado about Israel's
@@ -44,9 +44,9 @@ army; the chapter has already listed the giants and he is not disputing them.
 
 ## The other report
 
-*"**We can't attack those people — they're far stronger than we are.**"*
+**13:31** *"**We can't attack those people — they're far stronger than we are.**"*
 
-And then it escalates into something else entirely:
+And then it escalates into something else entirely, **13:32**:
 
 *"**The land we explored devours those who live in it.**"*
 
@@ -56,7 +56,7 @@ Hebrew word is the one for slander.
 
 ## The sentence
 
-*"**Next to them we felt like grasshoppers, and that's how we looked to them
+**13:33** *"**Next to them we felt like grasshoppers, and that's how we looked to them
 too.**"*
 
 Read the two halves in order. First: *in our own sight*. Then: *and so we were in
@@ -71,7 +71,7 @@ out of it.
 
 ## What the giants actually thought
 
-We find out forty years later. Rahab, in Jericho: *I know that the LORD has given
+We find out forty years later. Rahab, in Jericho, **Joshua 2:9, 11**: *I know that the LORD has given
 you the land, and that **the terror of you has fallen on us**… our hearts melted,
 and there remained no courage in anyone because of you.*
 
@@ -82,9 +82,9 @@ The giants were terrified. The grasshoppers were the ones who reported otherwise
 
 ## What Caleb and Joshua say the next day
 
-*"The land we passed through is **an exceedingly good land**."*
+**Numbers 14:7**: *"The land we passed through is **an exceedingly good land**."*
 
-And: *"**Do not fear the people of the land, for they are our bread**; their protection has
+And, **Numbers 14:9**: *"**Do not fear the people of the land, for they are our bread**; their protection has
 departed from them, and the LORD is with us."*
 
 **Our bread** — the Hebrew is *they are our food*. The same men, the same walls, and the
