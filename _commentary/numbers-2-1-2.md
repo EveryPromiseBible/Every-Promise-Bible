@@ -3,14 +3,14 @@ key: Numbers 2:1–2
 title: Facing inward
 sources:
   - 2022-03-06 keys-to-counter-the-four-horsemen
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 Two verses of camp layout, and the arrangement is the whole point.
 
 ## The instruction
 
-*"Let the Israelites camp **under their own banners**, each family **beneath the standard of its
+**2:2** *"Let the Israelites camp **under their own banners**, each family **beneath the standard of its
 ancestors**."*
 
 The Hebrew is **degel** — a standard, a military banner. And **ot**, a sign or ensign.
@@ -19,7 +19,7 @@ Tribal identity is not erased. Everybody keeps their own flag.
 
 ## The orientation
 
-*"They are to pitch their tents **facing the Tent of Meeting on every side**."*
+Still **2:2**: *"They are to pitch their tents **facing the Tent of Meeting on every side**."*
 
 The Hebrew is **minneged saviv** — over against, round about.
 
@@ -27,7 +27,7 @@ Every tent door points inward.
 
 ## The centre
 
-*"Gathered around **the place where I dwell**."*
+**2:2** again: *"Gathered around **the place where I dwell**."*
 
 The tabernacle is not at one end of the camp or on a hill above it. It is in the middle, with
 the Levites camped immediately round it and the twelve tribes in four blocks beyond them.
@@ -80,7 +80,7 @@ And every family, waking up and stepping out of a tent, is looking at the same p
 Chapter 10 gives it. Judah first, then Issachar and Zebulun. Then the tabernacle comes down and
 travels in the middle of the column.
 
-*So they started out for the first time according to the command of the LORD by the hand of
+**Numbers 10:13**: *So they started out for the first time according to the command of the LORD by the hand of
 Moses.*
 
 And the ark going ahead: *the ark of the covenant of the LORD went before them for three days'
@@ -98,7 +98,7 @@ arrangement, laid out below him.
 
 ## Where the shape goes
 
-*And the city had twelve gates… **three gates on the east, three gates on the north, three gates
+**Revelation 21:13**: *And the city had twelve gates… **three gates on the east, three gates on the north, three gates
 on the south, and three gates on the west**.*
 
 The New Jerusalem, four sides, three per side, and the names of the twelve tribes on them.
