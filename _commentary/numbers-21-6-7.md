@@ -3,13 +3,13 @@ key: Numbers 21:6–7
 title: Pray that He would take the serpents away
 sources:
   - 2019-11-24 the-beauty-of-our-servant-king
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 They ask for the snakes to be removed, and they are given something else instead.
 
 ## What came
 
-*So the LORD **sent fiery serpents** among them.*
+**21:6** *So the LORD **sent fiery serpents** among them.*
 
 The Hebrew is **nechashim seraphim** — burning serpents. **Saraph** means to burn, and it is
 the same word behind the **seraphim** of Isaiah 6.
@@ -18,7 +18,7 @@ Burning, probably from the effect of the bite.
 
 ## What they say
 
-*"**We have sinned**, for we spoke against the LORD and against you."*
+**21:7** *"**We have sinned**, for we spoke against the LORD and against you."*
 
 A complete confession, and it names both parties they had spoken against, in the order Numbers
 recorded the offence. See the note on Numbers 21:5.
@@ -28,13 +28,13 @@ without excuse.
 
 ## What they ask for
 
-*"**Pray to the LORD, that He would take the serpents away from us.**"*
+**21:7** again: *"**Pray to the LORD, that He would take the serpents away from us.**"*
 
 A reasonable request, and the obvious one. Remove the problem.
 
 ## What Moses does
 
-*So **Moses prayed for the people**.*
+**21:7** again: *So **Moses prayed for the people**.*
 
 Four words. He does not lecture them first, does not point out that he had told them so, and
 does not negotiate.
@@ -66,7 +66,7 @@ on John 3:14–18.
 Of every image available in the wilderness — the manna, the rock, the water, the cloud — this
 is the one Jesus took for Himself, in a night conversation with a Pharisee.
 
-*For He made Him who knew no sin **to be sin for us**, that we might become the righteousness
+**2 Corinthians 5:21**: *For He made Him who knew no sin **to be sin for us**, that we might become the righteousness
 of God in Him.*
 
 The thing that was killing them, lifted up, and the cure is a look.

@@ -7,7 +7,7 @@ sources:
   - 2019-11-17 wisdom-for-financial-success
   - 2019-11-24 the-beauty-of-our-servant-king
   - 2023-06-25 the-cure-to-a-dissatisfied-life
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 A nation is dying of snakebite and the remedy is a piece of metal on a stick.
@@ -21,7 +21,7 @@ bitten.
 
 ## What it is
 
-*"Make **a fiery serpent** and set it up **on a pole**. And it will be that everyone
+**21:8** *"Make **a fiery serpent** and set it up **on a pole**. And it will be that everyone
 who is bitten, **when he looks at it, will live**."*
 
 An image of the very thing killing them, raised where everybody can see it.
@@ -31,7 +31,7 @@ can see it from a distance.
 
 ## What is asked of the dying
 
-*He did not have to fix himself, or reach the wounds his own hands could not reach.
+**21:9**: *He did not have to fix himself, or reach the wounds his own hands could not reach.
 **He only had to look** — to turn his eyes away from the poison in him toward the
 thing God had lifted up. **Whoever looked, lived.**"*
 
@@ -63,20 +63,20 @@ the crucifixion.
 
 ## Why a serpent
 
-Paul: *He made Him who knew no sin **to be sin for us**, that we might become the
+Paul, **2 Corinthians 5:21** again: *He made Him who knew no sin **to be sin for us**, that we might become the
 righteousness of God in Him.*
 
 The thing on the pole is the image of what was killing them.
 
 ## What became of it
 
-They kept it. Seven hundred years later, Hezekiah *broke in pieces the bronze serpent
+They kept it. Seven hundred years later, Hezekiah, **2 Kings 18:4**: *broke in pieces the bronze serpent
 that Moses had made, for until those days the children of Israel burned incense to
 it* — and he called it **Nehushtan**, a piece of bronze.
 
 The right remedy became an idol once people looked at the object instead of what it
 pointed at.
 
-> **What the Israelites asked for first.** *Pray to the LORD that He take away the
+> **What the Israelites asked for first.** **21:7**: *Pray to the LORD that He take away the
 > serpents from us.* They asked for removal. They got a pole, and a look, and their
 > lives.
