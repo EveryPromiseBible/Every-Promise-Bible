@@ -3,7 +3,7 @@ key: Numbers 14:1–4
 title: The night they wept
 sources:
   - 2019-05-12 believe-right-and-see-your-youth-renewed
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 A whole nation cries all night over a country they have not seen, on the strength
@@ -11,7 +11,7 @@ of a report from ten men.
 
 ## The weeping
 
-*That night the whole assembly broke into loud weeping, and **the sound did not fade
+**14:1** *That night the whole assembly broke into loud weeping, and **the sound did not fade
 until morning**.*
 
 Hours of it. Two million people, according to the census figures, weeping in the
@@ -22,27 +22,27 @@ received information.
 
 ## What they said
 
-*"**If only we had died in Egypt — or here in this wilderness!**"*
+**14:2** *"**If only we had died in Egypt — or here in this wilderness!**"*
 
 Hold that sentence. It is the exact fate God grants them twelve verses later, quoted
-back word for word: *as surely as I live, I will do to you the very things you spoke
+back word for word, **14:28–29**: *as surely as I live, I will do to you the very things you spoke
 in My hearing… in this wilderness your bodies will fall.*
 
 They asked for it in so many words, in the dark, and it was heard.
 
 ## The accusation
 
-*"Why is **the LORD bringing us into this land only to fall by the sword**?"*
+**14:3** *"Why is **the LORD bringing us into this land only to fall by the sword**?"*
 
 They have redescribed the rescue as a trap. The God of the plagues, the sea and the
 manna is now a God who brought them out to kill them.
 
 ## The children
 
-*"**Our wives and children will be taken as plunder.**"*
+**14:3** again: *"**Our wives and children will be taken as plunder.**"*
 
-That is the fear that undoes them, and it is the one God answers most directly:
-*as for your children — the ones you said would be taken as plunder — **I will
+That is the fear that undoes them, and it is the one God answers most directly,
+**14:31**: *as for your children — the ones you said would be taken as plunder — **I will
 bring them in**, and they will know the land you rejected.*
 
 The very thing they were afraid of losing is the thing that inherits. Their fear
@@ -50,7 +50,7 @@ was not only wrong; it was inverted.
 
 ## "Let's go back to Egypt"
 
-*And they said to one another, "**Let's choose a leader and go back to Egypt.**"*
+**14:4** *And they said to one another, "**Let's choose a leader and go back to Egypt.**"*
 
 They get as far as a leadership plan. Not a moment of panic — an organised proposal
 to reverse the exodus.
@@ -76,12 +76,12 @@ stones.* See the note on Numbers 14:5–10.
 
 ## What the New Testament calls this night
 
-*So we see that **they could not enter in because of unbelief**.*
+**Hebrews 3:19**: *So we see that **they could not enter in because of unbelief**.*
 
 Hebrews spends two chapters on this chapter. Not on the giants, the walls or the logistics — on
 what the people concluded, in the dark, about a God who had already opened a sea for them.
 
-*For indeed the gospel was preached to us as well as to them; **but the word which they heard did
+**Hebrews 4:2**: *For indeed the gospel was preached to us as well as to them; **but the word which they heard did
 not profit them, not being mixed with faith** in those who heard it.*
 
 The report was true. The land was good and the cities were fortified. What was missing was not
@@ -89,11 +89,11 @@ information.
 
 ## The warning attached
 
-*Therefore, as the Holy Spirit says: "**Today, if you will hear His voice, do not harden your
+**Hebrews 3:7–8**: *Therefore, as the Holy Spirit says: "**Today, if you will hear His voice, do not harden your
 hearts as in the rebellion**, in the day of trial in the wilderness."*
 
 Hebrews quotes Psalm 95 about this night and puts one word at the front of it: **today**.
 
-> **The forty years.** *For each of the forty days you explored the land, you will
+> **The forty years.** **14:34**: *For each of the forty days you explored the land, you will
 > bear your guilt a year.* One year in the wilderness for each day the spies were
 > out. The wandering is measured against the walk they would not take.

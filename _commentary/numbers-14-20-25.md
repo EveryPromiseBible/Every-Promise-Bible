@@ -6,7 +6,7 @@ sources:
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2020-12-13 declare-you-are-highly-favored
   - 2016-01-10 five-words-to-live-by-the-battle-is-the-lords
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 The forgiveness and the consequence are in the same paragraph, and one man is
@@ -14,17 +14,17 @@ pulled out of it by name.
 
 ## "I have forgiven them"
 
-*The LORD said, "**I have forgiven them, as you asked.**"*
+**14:20** *The LORD said, "**I have forgiven them, as you asked.**"*
 
-Moses had just interceded — *pardon the iniquity of this people, according to the
+Moses had just interceded, **14:19**: *pardon the iniquity of this people, according to the
 greatness of Your mercy* — and the answer is granted in five words.
 
-It is not withheld and it is not partial. And the next sentence is still *not one
+It is not withheld and it is not partial. And the next sentence, **14:23**, is still *not one
 of them will see the land.*
 
 ## The ten times
 
-*"**Yet tested Me these ten times** and would not listen to My voice."*
+**14:22** *"**Yet tested Me these ten times** and would not listen to My voice."*
 
 Ten. The rabbis counted them: at the Red Sea, at Marah, twice over the manna, at
 Rephidim, the golden calf, Taberah, Kibroth-hattaavah, and now this.
@@ -33,14 +33,14 @@ He kept a count and states it.
 
 ## The charge
 
-*"**None who treated Me with contempt** will see it."*
+**14:23** again: *"**None who treated Me with contempt** will see it."*
 
 The Hebrew is to spurn, to despise. It is a strong word, and it is aimed at what
 they did with the report, not at their conduct generally.
 
 ## Caleb
 
-*"**But My servant Caleb has a different spirit in him and has followed Me
+**14:24** *"**But My servant Caleb has a different spirit in him and has followed Me
 wholeheartedly.**"*
 
 Three things said about him, and each is worth its own line.
@@ -58,7 +58,7 @@ the way.
 
 ## The promise to him
 
-*"**I will bring him into the land he explored, and his descendants will inherit
+**14:24** again: *"**I will bring him into the land he explored, and his descendants will inherit
 it.**"*
 
 The land he explored. The specific ground he walked as a spy is deeded to him
@@ -69,13 +69,13 @@ See the note on Joshua 14:6–15.
 
 ## And then the turn
 
-*"Turn back tomorrow and set out into the wilderness, toward the Red Sea."*
+**14:25** *"Turn back tomorrow and set out into the wilderness, toward the Red Sea."*
 
 Back the way they came. Toward the sea they had walked through.
 
 ## What happened the next morning
 
-They changed their minds — *we have sinned; we will go up.* And Moses told them not
+They changed their minds, **14:40**: *we have sinned; we will go up.* And Moses told them not
 to, because the LORD was not among them. They went anyway and were beaten back.
 
 A day late, and doing it on their own strength, which is a different thing from
@@ -83,12 +83,12 @@ faith even when the action looks the same.
 
 ## Forgiven, in five words
 
-*"**I have forgiven them, as you asked.**"*
+**14:20** again: *"**I have forgiven them, as you asked.**"*
 
 Granted whole, on the strength of one man's asking, before a word about consequences. Moses had
-pleaded *according to the greatness of Your mercy*, and that is the ground given.
+pleaded, **14:19** again: *according to the greatness of Your mercy*, and that is the ground given.
 
-*For there is **one Mediator between God and men, the Man Christ Jesus**, who gave Himself a
+**1 Timothy 2:5–6**: *For there is **one Mediator between God and men, the Man Christ Jesus**, who gave Himself a
 ransom for all.*
 
 Moses got a pardon for a nation by asking for it. He could not get them into the land, and he did
@@ -96,14 +96,14 @@ not get in himself.
 
 ## "A different spirit"
 
-*"But **My servant Caleb has a different spirit in him** and has followed Me wholeheartedly."*
+**14:24** again: *"But **My servant Caleb has a different spirit in him** and has followed Me wholeheartedly."*
 
 The Hebrew is **ruach acheret** — another spirit, of a different kind.
 
 He walked the same forty days, saw the same three giants at Hebron, and carried the same pole.
 Nothing in his information differed. Something in him did.
 
-*But **you are not in the flesh but in the Spirit**, if indeed the Spirit of God dwells in you.*
+**Romans 8:9**: *But **you are not in the flesh but in the Spirit**, if indeed the Spirit of God dwells in you.*
 
 The thing that separated two men from a nation was not nerve, and no battle had been fought to
 test it. It was what was in them.
