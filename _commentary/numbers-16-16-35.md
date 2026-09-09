@@ -3,7 +3,7 @@ key: Numbers 16:16–35
 title: The ground opens
 sources:
   - 2020-05-24 find-power-in-his-presence
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 The test Moses proposed is carried out, and twice in the middle of it he tries to stop
@@ -11,7 +11,7 @@ what is coming.
 
 ## The morning
 
-*Korah and all his company came with their censers, **fire and incense burning**, and
+**16:18–19** *Korah and all his company came with their censers, **fire and incense burning**, and
 stood at the entrance of the tent, **the whole assembly gathered**.*
 
 They turn up. All two hundred and fifty go through with it, in front of the nation.
@@ -20,15 +20,15 @@ Korah has assembled the crowd as an audience.
 
 ## The glory
 
-*The glory of the LORD appeared.*
+**16:19** again: *The glory of the LORD appeared.*
 
 ## The instruction
 
-*He told Moses and Aaron to **step away from the people**.*
+**16:21** *He told Moses and Aaron to **step away from the people**.*
 
 ## What they do instead
 
-*But **they fell on their faces and pleaded**, "**O God, will You be angry with the whole
+**16:22** *But **they fell on their faces and pleaded**, "**O God, will You be angry with the whole
 community when one man sins?**"*
 
 Told to get clear, they go down on the ground and argue for the people who had spent the
@@ -41,17 +41,17 @@ Abraham did the same over Sodom, and Moses himself had done it at Sinai over the
 
 ## The concession
 
-*So the LORD had them **warn the people to move back** from the tents of Korah, Dathan,
+**16:24, 26**: *So the LORD had them **warn the people to move back** from the tents of Korah, Dathan,
 and Abiram.*
 
 The intercession works. The judgment narrows from the community to the three households
 that led it, and a warning is issued so the rest can get clear.
 
-*The people drew away.*
+**16:27**: *The people drew away.*
 
 ## The sign
 
-*"**By this you will know the LORD has sent me**: if these men die **an ordinary death**,
+**16:28–30**: *"**By this you will know the LORD has sent me**: if these men die **an ordinary death**,
 He has not. But **if the LORD does a new thing**, you will understand they scorned Him."*
 
 The Hebrew for *a new thing* is *if the LORD creates a creation* — **bara**, the verb of
@@ -62,18 +62,18 @@ sent.
 
 ## The timing
 
-*As he finished speaking, **the ground beneath the rebels split open**.*
+**16:31** *As he finished speaking, **the ground beneath the rebels split open**.*
 
 Immediately. He had said *by this you will know*, and the sentence had not cooled.
 
 ## What happened
 
-*And **they and their households went down alive**. **It closed over them**, and they were
+**16:32–33**: *And **they and their households went down alive**. **It closed over them**, and they were
 gone from among the assembly.*
 
 ## The fire
 
-*And **fire came out from the LORD** and took the **two hundred and fifty men who had
+**16:35** *And **fire came out from the LORD** and took the **two hundred and fifty men who had
 offered the incense**.*
 
 Two different judgments in one paragraph. Dathan and Abiram's households by the ground;
@@ -83,22 +83,22 @@ The same fire that had consumed the offering at the tabernacle's dedication.
 
 ## The reaction
 
-*Israel **fled at the sound of it**.*
+**16:34** *Israel **fled at the sound of it**.*
 
 ## Who did not die
 
 The next chapter names *the sons of Korah* — they were not swallowed with their father.
-Numbers 26 says so plainly: *nevertheless the children of Korah did not die.*
+**Numbers 26:11** says so plainly: *nevertheless the children of Korah did not die.*
 
-Eleven psalms carry their name in the title, including *as the deer pants for the water
-brooks* and *how lovely is Your tabernacle*.
+Eleven psalms carry their name in the title, including, **Psalm 42:1**: *as the deer pants for the water
+brooks* and, **Psalm 84:1**: *how lovely is Your tabernacle*.
 
 The family of the man who wanted to be nearer to God ended up writing Israel's songs
 about wanting to be nearer to God.
 
 ## What was done with the censers
 
-The bronze was hammered into a covering for the altar, *as a sign to the children of
+The bronze was hammered into a covering for the altar, **Numbers 16:38**: *as a sign to the children of
 Israel* — a permanent reminder, bolted to the place where the offerings were made.
 
 ## What happens the next day
@@ -108,13 +108,13 @@ of it with a censer. See the note on Numbers 16:41–50.
 
 ## What he does with his accusers
 
-Told to step clear of the people, he goes face down and argues for them instead: *will You be
+Told to step clear of the people, he goes face down and argues for them instead, **16:22** again: *will You be
 angry with the whole community when one man sins?*
 
 Twice in one chapter, both times on behalf of men who had spent the morning accusing him of
 lifting himself above them.
 
-*Then Jesus said, "**Father, forgive them, for they do not know what they do**."*
+**Luke 23:34**: *Then Jesus said, "**Father, forgive them, for they do not know what they do**."*
 
 Said from a cross, about the men who put Him on it, while they were dividing His clothes.
 
@@ -125,7 +125,7 @@ issued so everybody else could move back.
 
 Moses' praying is the reason there was a warning.
 
-*Therefore He is able to save to the uttermost those who come to God through Him, since **He
+**Hebrews 7:25**: *Therefore He is able to save to the uttermost those who come to God through Him, since **He
 always lives to make intercession for them**.*
 
 > **What Moses did twice.** Fell on his face for the people accusing him — before the

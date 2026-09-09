@@ -4,20 +4,20 @@ title: Between the dead and the living
 sources:
   - 2020-05-24 find-power-in-his-presence
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 An old man runs into a plague carrying a fire pan, and stops it by standing still.
 
 ## "The next day"
 
-*But **the next day** the whole community murmured again against Moses and Aaron.*
+**16:41** *But **the next day** the whole community murmured again against Moses and Aaron.*
 
 One day after the ground opened and fire fell.
 
 ## The charge
 
-*"**You have killed the people of the LORD**."*
+**16:41** again: *"**You have killed the people of the LORD**."*
 
 They watched the earth swallow three households and fire take two hundred and fifty men
 at their censers, and concluded that Moses did it.
@@ -26,12 +26,12 @@ And they call the rebels *the people of the LORD*.
 
 ## What appears
 
-*As they gathered in anger, **the glory of the LORD appeared**, and **a plague began to
+**16:42** *As they gathered in anger, **the glory of the LORD appeared**, and **a plague began to
 move among them**.*
 
 ## The instruction
 
-*Moses said to Aaron, "**Quickly — take your censer, put fire from the altar and incense
+**16:46** *Moses said to Aaron, "**Quickly — take your censer, put fire from the altar and incense
 in it, and hurry to the people** to make things right, for **wrath has gone out and the
 plague has begun**."*
 
@@ -47,7 +47,7 @@ The identical act, done by the right man with the right fire, does the opposite 
 
 ## The run
 
-*Aaron ran. **He ran into the midst of the assembly**.*
+**16:47** *Aaron ran. **He ran into the midst of the assembly**.*
 
 Toward it. Into a moving plague, into the crowd that had spent the morning accusing him
 of murder.
@@ -56,7 +56,7 @@ He is in his eighties.
 
 ## The position
 
-*And there **he stood — between the dead and the living** — holding up the incense, **and
+**16:48** *And there **he stood — between the dead and the living** — holding up the incense, **and
 the plague was stopped**.*
 
 The Hebrew is *he stood between the dead and the living*.
@@ -66,22 +66,22 @@ was travelling and it did not pass him.
 
 ## The number
 
-*The plague had killed **14,700 people**, besides those who had died in the affair of
+**16:49** *The plague had killed **14,700 people**, besides those who had died in the affair of
 Korah.*
 
 Fourteen thousand seven hundred died. The text does not say how many were behind him.
 
 ## The phrase
 
-*He **stood in the gap**, an old man with a censer, and **mercy held the line**.*
+**16:48** again: *He **stood in the gap**, an old man with a censer, and **mercy held the line**.*
 
-Ezekiel later uses the same picture, looking for somebody to do it: *I sought for a man
+Ezekiel later uses the same picture, looking for somebody to do it, **Ezekiel 22:30**: *I sought for a man
 among them who would make a wall, and **stand in the gap** before Me on behalf of the
 land, that I should not destroy it — **but I found no one**.*
 
 ## The return
 
-*Then he **returned to Moses at the entrance of the tent, the plague at an end**.*
+**16:50** *Then he **returned to Moses at the entrance of the tent, the plague at an end**.*
 
 He walks back. Nothing is said about what the people said to him.
 
@@ -92,7 +92,7 @@ altar and a handful of spice.
 
 ## What follows in the next chapter
 
-The twelve rods laid up before the LORD overnight, and Aaron's alone *sprouted and put
+The twelve rods laid up before the LORD overnight, and Aaron's alone, **Numbers 17:8**: *sprouted and put
 forth buds, produced blossoms and yielded ripe almonds.*
 
 A dead stick with fruit on it, kept in the ark as the final answer to Korah's question
@@ -100,14 +100,14 @@ about who was chosen.
 
 ## The one who was found
 
-Ezekiel goes looking for somebody to do what Aaron did here, and comes up empty:
+Ezekiel goes looking for somebody to do what Aaron did here, and comes up empty, **Ezekiel 22:30** again:
 
 *I sought for a man among them who would make a wall, and **stand in the gap** before Me on
 behalf of the land, that I should not destroy it — **but I found no one**.*
 
 That is the verse this chapter is the picture of, and it ends with nobody available.
 
-*For there is one God and **one Mediator between God and men, the Man Christ Jesus**.*
+**1 Timothy 2:5**: *For there is one God and **one Mediator between God and men, the Man Christ Jesus**.*
 
 One was found. He did not run in carrying fire off the altar — He was the offering the fire came
 from.
@@ -122,12 +122,12 @@ fire came from — *fire from the altar*, off the place the sacrifice had burned
 
 ## Where he stood
 
-*He stood **between the dead and the living**.*
+**16:48** again: *He stood **between the dead and the living**.*
 
 Facing the wrong way, with his back to safety, in the middle of the people who had accused him of
 murder that morning.
 
-*But God demonstrates His own love toward us, in that **while we were still sinners**, Christ
+**Romans 5:8**: *But God demonstrates His own love toward us, in that **while we were still sinners**, Christ
 died for us.*
 
 > **Where the priest ends up.** In the middle of the people who had just accused him,
