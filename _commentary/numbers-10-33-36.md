@@ -3,14 +3,14 @@ key: Numbers 10:33–36
 title: Searching out a resting place
 sources:
   - 2021-06-13 he-goes-ahead-of-you
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 The first move after Sinai, and the box goes in front.
 
 ## The departure
 
-*So they **left the mountain of the LORD** and traveled three days.*
+**10:33** *So they **left the mountain of the LORD** and traveled three days.*
 
 Almost a year at Sinai. The law given, the golden calf, the tabernacle built and raised, the
 priesthood consecrated, the census taken.
@@ -19,7 +19,7 @@ And then they walk away from the mountain and the book of Numbers begins in earn
 
 ## The position
 
-*And the **ark of the LORD's covenant went ahead of them the whole way**.*
+Still **10:33**: *And the **ark of the LORD's covenant went ahead of them the whole way**.*
 
 The Hebrew is *went before them a three days' journey*.
 
@@ -30,7 +30,7 @@ For this march it goes to the front.
 
 ## What it was doing
 
-*Searching out **a resting place** for them.*
+**10:33** again: *Searching out **a resting place** for them.*
 
 The Hebrew is **menuchah** — rest, a settled place. The noun behind the psalm's *He leads me
 beside the still waters* and *He makes me lie down*.
@@ -39,13 +39,13 @@ The ark is described as looking for somewhere for them to stop.
 
 ## The cloud
 
-*And the **cloud of the LORD was over them by day** as they moved out of camp.*
+**10:34** *And the **cloud of the LORD was over them by day** as they moved out of camp.*
 
 Over them while the ark went before them. Two signs at once.
 
 ## The words at setting out
 
-*Whenever the ark set out, Moses would say, "**Rise up, O LORD! Let your enemies scatter; let
+**10:35** *Whenever the ark set out, Moses would say, "**Rise up, O LORD! Let your enemies scatter; let
 those who hate you flee before you**."*
 
 The Hebrew is **qumah YHWH**.
@@ -56,7 +56,7 @@ Psalm 68 opens with the same sentence: *let God arise, let His enemies be scatte
 
 ## The words at stopping
 
-*And whenever it came to rest, he would say, "**Return, O LORD, to the countless thousands of
+**10:36** *And whenever it came to rest, he would say, "**Return, O LORD, to the countless thousands of
 Israel**."*
 
 The Hebrew is **shuvah** — return, come back.
@@ -100,7 +100,7 @@ leaving the mountain, and entering the land.
 
 ## Where the resting place ends up
 
-*Arise, O LORD, to **Your resting place**, You and the ark of Your strength.*
+**Psalm 132:8**: *Arise, O LORD, to **Your resting place**, You and the ark of Your strength.*
 
 Psalm 132, quoted by Solomon when the ark is finally carried into the temple.
 
