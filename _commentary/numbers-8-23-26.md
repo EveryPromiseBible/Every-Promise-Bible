@@ -3,14 +3,14 @@ key: Numbers 8:23–26
 title: At fifty they stop carrying
 sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 A retirement policy, in the middle of the wilderness legislation.
 
 ## The start
 
-*"From **twenty-five years old and up**, they come to serve in the work of the Tent of
+**8:24** *"From **twenty-five years old and up**, they come to serve in the work of the Tent of
 Meeting."*
 
 Chapter 4 gives thirty as the age for the heaviest duties — carrying the tabernacle. This gives
@@ -20,7 +20,7 @@ The usual reading is five years of apprenticeship before the full load.
 
 ## The end
 
-*"At **fifty they retire from the heavy labor and serve no more**."*
+**8:25** *"At **fifty they retire from the heavy labor and serve no more**."*
 
 The Hebrew is *he shall return from the warfare of the service* — **tsava**, the word for an
 army or a campaign.
@@ -42,7 +42,7 @@ That is a young man's job, and the law says so.
 
 ## What they do afterwards
 
-*"But they may still **assist their brothers in keeping watch at the Tent**, even if they no
+**8:26** *"But they may still **assist their brothers in keeping watch at the Tent**, even if they no
 longer do the work themselves."*
 
 The Hebrew is **sherat** — to minister, to attend.
@@ -62,19 +62,19 @@ It is a job description with a physical component, and the component has a limit
 
 Once the temple is built and the building stops moving, David lowers the entry age:
 
-*For David said, "The LORD God of Israel has given rest to His people, that they may dwell in
+**1 Chronicles 23:25–26** *For David said, "The LORD God of Israel has given rest to His people, that they may dwell in
 Jerusalem forever"; and also to the Levites, **"they shall no longer carry the tabernacle, or
 any of the articles for its service."***
 
-*So the Levites were numbered from the age of twenty years and above.*
+**1 Chronicles 23:27**: *So the Levites were numbered from the age of twenty years and above.*
 
 The carrying rule existed because there was carrying. When that stopped, the age changed.
 
 ## What they do instead
 
-*Their duty was to help the sons of Aaron in the service of the house of the LORD, in the courts
+**1 Chronicles 23:28** *Their duty was to help the sons of Aaron in the service of the house of the LORD, in the courts
 and in the chambers, in the purifying of all holy things and the work of the service of the
-house of God… and **to stand every morning to thank and praise the LORD, and likewise at
+house of God… and, **1 Chronicles 23:30**, **to stand every morning to thank and praise the LORD, and likewise at
 evening**.
 
 The heavy labour becomes singing.
@@ -91,7 +91,7 @@ Both are recorded because they are remarkable, which is the point of recording t
 
 ## Where the age turns up in the New Testament
 
-*"You are not yet fifty years old, and have You seen Abraham?"*
+**John 8:57**: *"You are not yet fifty years old, and have You seen Abraham?"*
 
 Said to Jesus by opponents. Fifty is used as the outer bound of a working man's life.
 
