@@ -3,14 +3,14 @@ key: Numbers 20:7–9
 title: "Speak to the rock"
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The instruction is given in four parts, and one word in it is different from last time.
 
 ## Take the staff
 
-*"**Take the staff**, and gather the people together, you and your brother Aaron."*
+**20:8** *"**Take the staff**, and gather the people together, you and your brother Aaron."*
 
 The Hebrew has the definite article — **the** staff, and the next verse says Moses took it
 *from before the LORD*.
@@ -22,7 +22,7 @@ A dead stick with fruit on it, kept as the answer to the question of who was cho
 
 ## Speak
 
-*"Then **speak to the rock in front of them all**, and **it will give up its water**."*
+**20:8** again: *"Then **speak to the rock in front of them all**, and **it will give up its water**."*
 
 The Hebrew for *speak* is the ordinary verb. Nothing is to be done to the rock.
 
@@ -33,20 +33,20 @@ Same nation, same problem, different instruction.
 
 ## Who brings the water
 
-*"**You will bring water out of the rock for them**."*
+**20:8** again: *"**You will bring water out of the rock for them**."*
 
 Moses is given the credit in advance, in the instruction itself.
 
 ## Who it is for
 
-*"And give **the community and their animals** something to drink."*
+**20:8** again: *"And give **the community and their animals** something to drink."*
 
 The animals are included. The people had complained about them in verse 4 — *us and our
 animals* — and the answer covers them.
 
 ## The obedience
 
-*So Moses **took the staff from before the LORD, just as He had told him**.*
+**20:9** *So Moses **took the staff from before the LORD, just as He had told him**.*
 
 The first half is exact. He does what he is told.
 

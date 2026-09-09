@@ -3,20 +3,20 @@ key: Numbers 20:10–11
 title: He struck it twice
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 Moses does three things he was not told to do, and the water comes anyway.
 
 ## The gathering
 
-*Moses and Aaron **gathered the assembly in front of the rock**.*
+**20:10** *Moses and Aaron **gathered the assembly in front of the rock**.*
 
 That part was the instruction.
 
 ## What he says
 
-*"**Listen now, you rebels** — **must we bring you water out of this rock?**"*
+**20:10** again: *"**Listen now, you rebels** — **must we bring you water out of this rock?**"*
 
 Two things in one sentence, and neither was in the instruction.
 
@@ -29,7 +29,7 @@ of the rock for them*, and Moses says *must **we***.
 
 ## The striking
 
-*Then Moses **lifted his hand and struck the rock twice** with his staff.*
+**20:11** *Then Moses **lifted his hand and struck the rock twice** with his staff.*
 
 He was told to speak to it. He hits it, and then hits it again.
 
@@ -37,7 +37,7 @@ The doubling is recorded deliberately. Numbers could have said he struck it.
 
 ## What comes out
 
-*And **water came gushing out, more than enough**, and **the people drank, and their
+**20:11** again: *And **water came gushing out, more than enough**, and **the people drank, and their
 animals too**.*
 
 The Hebrew is *water came out abundantly*.
@@ -65,7 +65,7 @@ a rock, and what they were told to see was a word spoken and water coming.
 
 ## The name of the place
 
-*This was the water of **Meribah** — contention — because the children of Israel contended
+**20:13** *This was the water of **Meribah** — contention — because the children of Israel contended
 with the LORD, and He was hallowed among them.*
 
 The same name as Rephidim carried. Two places called Quarrelling, thirty-eight years
@@ -78,8 +78,8 @@ the note on 1 Corinthians 10:1–5.
 
 ## What Moses says about it later
 
-In Deuteronomy he mentions it three times, and each time he attaches it to the people:
-*the LORD was angry with me for your sakes*, and *because of you*.
+In Deuteronomy he mentions it three times, and each time he attaches it to the people,
+**Deuteronomy 1:37, 3:26**: *the LORD was angry with me for your sakes*, and *because of you*.
 
 He never disputes the ruling.
 

@@ -3,7 +3,7 @@ key: Numbers 20:2–5
 title: The old complaint, forty years on
 sources:
   - 2020-07-19 god-is-good-even-when-times-are-bad
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 The same argument they had at the beginning of the journey, made again at the end of it.
@@ -18,7 +18,7 @@ children when the last water crisis happened.
 
 ## The shortage
 
-*But **there was no water for the people**, and they **gathered against Moses and
+**20:2** *But **there was no water for the people**, and they **gathered against Moses and
 Aaron**.*
 
 The Hebrew for *gathered against* is the same verb used of Korah's company. It is the
@@ -26,7 +26,7 @@ word for assembling in opposition.
 
 ## The wish
 
-*"**If only we had died with our brothers before the LORD!**"*
+**20:3** *"**If only we had died with our brothers before the LORD!**"*
 
 They are referring to the fourteen thousand seven hundred who died in the plague after
 Korah, and to the two hundred and fifty at the censers.
@@ -35,10 +35,10 @@ They wish they had been among them.
 
 ## The accusation
 
-*"**Why did you bring the LORD's assembly out into this wilderness to die here** — us and
+**20:4** *"**Why did you bring the LORD's assembly out into this wilderness to die here** — us and
 our animals?"*
 
-*"**Why did you drag us up out of Egypt into this terrible place?**"*
+**20:5** *"**Why did you drag us up out of Egypt into this terrible place?**"*
 
 Both questions are addressed to Moses and Aaron. Neither mentions that the forty years
 were the consequence of a decision the nation made at this same place, Kadesh, when the
@@ -46,17 +46,17 @@ spies came back.
 
 ## What they miss
 
-*"It is **no place for grain or figs or vines or pomegranates**."*
+**20:5** again: *"It is **no place for grain or figs or vines or pomegranates**."*
 
-Four crops, and every one of them is on the list the spies brought back **from Canaan**:
-*they came to the Valley of Eshcol and cut down a branch with one cluster of grapes… they
+Four crops, and every one of them is on the list the spies brought back **from Canaan**,
+**Numbers 13:23–24**: *they came to the Valley of Eshcol and cut down a branch with one cluster of grapes… they
 also brought some of the pomegranates and figs.*
 
 They are describing the promised land and attributing it to Egypt.
 
 ## What they had in Egypt
 
-Numbers 11 has the earlier version: *we remember the fish which we ate freely in Egypt,
+Numbers 11 has the earlier version, **Numbers 11:5**: *we remember the fish which we ate freely in Egypt,
 the cucumbers, the melons, the leeks, the onions, and the garlic.*
 
 No mention of the brick quotas or the drowned sons, either time.
