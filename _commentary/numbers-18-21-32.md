@@ -3,7 +3,7 @@ key: Numbers 18:21–32
 title: A tithe of the tithe
 sources:
   - 2020-05-24 find-power-in-his-presence
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The one tribe with no land, and the arrangement that fed it.
@@ -16,23 +16,23 @@ paid.
 
 ## What the Levites get
 
-*"To the Levites **I give the tithe of Israel** as their share, **in return for the work
+**18:21** *"To the Levites **I give the tithe of Israel** as their share, **in return for the work
 they do at the tent**."*
 
 It is stated as wages. The Hebrew is *for their service which they serve*.
 
 ## What they do not get
 
-*"They **will not have land either**, so this is their living."*
+**18:23–24**: *"They **will not have land either**, so this is their living."*
 
 Every other tribe received territory in Canaan. Levi received forty-eight cities
 scattered through everyone else's allotments, and no block of its own.
 
-Joshua records the reason: *the LORD God of Israel was their inheritance.*
+Joshua records the reason, **Joshua 13:33**: *the LORD God of Israel was their inheritance.*
 
 ## The second tithe
 
-*"And **the Levites too must give**: **a tithe of the tithe**, the best of what they
+**18:26, 28**: *"And **the Levites too must give**: **a tithe of the tithe**, the best of what they
 receive, lifted up to the LORD and given to Aaron the priest."*
 
 The tribe that lives on other people's tithes tithes on what it receives.
@@ -41,7 +41,7 @@ Ten percent of the ten percent goes to the priests — Aaron's household within 
 
 ## "The best of what they receive"
 
-*Set aside **the finest part** as holy.*
+**18:29**: *Set aside **the finest part** as holy.*
 
 The Hebrew is *the fat*, **cheleb** — the choicest portion, the part of the sacrifice
 that always belonged to God.
@@ -50,7 +50,7 @@ Not a tenth of whatever. A tenth off the top.
 
 ## What is left
 
-*"And **the rest is yours to eat freely, wherever you are**, you and your households, for
+**18:31**: *"And **the rest is yours to eat freely, wherever you are**, you and your households, for
 **it is your wages for your service**."*
 
 Two words in that sentence do a lot: **freely**, and **wherever**.
@@ -60,7 +60,7 @@ household, with no ceremony attached.
 
 ## The consequence attached
 
-*"**Do this rightly, and you will not bear guilt** over the holy gifts."*
+**18:32**: *"**Do this rightly, and you will not bear guilt** over the holy gifts."*
 
 The protection runs to the Levites themselves. Handling holy things carelessly was the
 danger the previous two chapters had just demonstrated.
@@ -75,7 +75,7 @@ The arrangement in this chapter is what kept the tent staffed.
 
 ## Where the argument goes in Hebrews
 
-*Those who are of the sons of Levi, who receive the priesthood, **have a commandment to
+**Hebrews 7:5–6**: *Those who are of the sons of Levi, who receive the priesthood, **have a commandment to
 receive tithes** from the people according to the law… But he whose genealogy is not
 derived from them **received tithes from Abraham**.*
 
