@@ -3,14 +3,14 @@ key: Numbers 6:22–27
 title: The blessing with the name in it
 sources:
   - 2021-12-05 benefits-of-praying-in-tongues
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 Fifteen words in Hebrew, and the oldest text of Scripture ever found.
 
 ## Who says it
 
-*"Tell **Aaron and his sons**: this is how you will bless the people of Israel."*
+**6:23** *"Tell **Aaron and his sons**: this is how you will bless the people of Israel."*
 
 The priests, and the wording is given to them. They do not compose it.
 
@@ -24,7 +24,7 @@ Each line names **YHWH** and each has two verbs. The structure is built to be he
 
 ## The first
 
-*The LORD **bless you and keep you**.*
+**6:24** *The LORD **bless you and keep you**.*
 
 **Barak** — bless. And **shamar** — keep, guard, watch over. The verb for a shepherd with a
 flock and a sentry on a wall.
@@ -33,7 +33,7 @@ Something given, and then protected.
 
 ## The second
 
-*The LORD **make His face shine upon you and be gracious to you**.*
+**6:25** *The LORD **make His face shine upon you and be gracious to you**.*
 
 **Ya'er panav** — cause His face to light up.
 
@@ -45,7 +45,7 @@ Hannah and John.
 
 ## The third
 
-*The LORD **turn His face toward you and give you peace**.*
+**6:26** *The LORD **turn His face toward you and give you peace**.*
 
 **Yissa panav** — lift up His face toward you.
 
@@ -56,7 +56,7 @@ And **shalom** — the last word of the blessing, and the widest one in the lang
 
 ## The name
 
-*So they will **place My name over the Israelites**, and **I Myself will bless them**.*
+**6:27** *So they will **place My name over the Israelites**, and **I Myself will bless them**.*
 
 The priests say the words. The blessing is God's own act, and He says so.
 
@@ -95,7 +95,7 @@ continuously, for three thousand years.
 
 ## What Paul's version is
 
-*The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit
+**2 Corinthians 13:14**: *The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit
 be with you all.*
 
 Three clauses again, and it closes 2 Corinthians.
