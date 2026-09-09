@@ -6,14 +6,14 @@ sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2023-04-23 be-healed-by-the-washing-of-the-word
   - 2024-11-24 stay-near-the-scent-of-water
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The strangest ordinance in the law, and everything about it runs backwards.
 
 ## What it is called
 
-*The LORD gave Moses and Aaron **a strange and gracious provision**.*
+**19:2** *The LORD gave Moses and Aaron **a strange and gracious provision**.*
 
 The Hebrew calls it **chuqqat ha-torah** — the statute of the law. Jewish tradition
 classes it among the **chuqqim**, the decrees given without a stated reason, and rabbinic
@@ -21,7 +21,7 @@ literature treats it as the one even Solomon could not work out.
 
 ## The animal
 
-*A **red heifer**, **perfect and unblemished**, one that has **never worn a yoke**.*
+**19:2** again: *A **red heifer**, **perfect and unblemished**, one that has **never worn a yoke**.*
 
 Three requirements:
 
@@ -34,18 +34,18 @@ nothing else.
 
 ## Where it is killed
 
-*Lead it **outside the camp** and let it be slaughtered there.*
+**19:3** *Lead it **outside the camp** and let it be slaughtered there.*
 
 Not at the altar. Outside.
 
-Hebrews takes it up: *the bodies of those animals, whose blood is brought into the
+Hebrews takes it up, **Hebrews 13:11–12**: *the bodies of those animals, whose blood is brought into the
 sanctuary by the high priest for sin, are burned **outside the camp**. Therefore Jesus
 also, that He might sanctify the people with His own blood, **suffered outside the
 gate**.*
 
 ## The blood
 
-*Eleazar is to **sprinkle some of its blood toward the tent seven times**.*
+**19:4** *Eleazar is to **sprinkle some of its blood toward the tent seven times**.*
 
 Seven, toward the tent, from outside it.
 
@@ -53,14 +53,14 @@ Eleazar, not Aaron — the deputy, so the high priest does not become unclean.
 
 ## What is burned
 
-*Then the heifer is **burned whole — hide, flesh, blood, and all**.*
+**19:5** *Then the heifer is **burned whole — hide, flesh, blood, and all**.*
 
 Nothing is kept back and nothing is eaten. The entire animal, including the blood, goes
 into the fire.
 
 ## The three things thrown in
 
-*And **cedar wood, hyssop, and scarlet wool** are cast into the fire with it.*
+**19:6** *And **cedar wood, hyssop, and scarlet wool** are cast into the fire with it.*
 
 The same three used in the cleansing of a leper in Leviticus 14.
 
@@ -73,7 +73,7 @@ cross with the sour wine.
 
 ## The ashes
 
-*The ashes are **gathered by a clean man** and **kept outside the camp in a clean place**,
+**19:9** *The ashes are **gathered by a clean man** and **kept outside the camp in a clean place**,
 to be **mixed into the water of cleansing**.*
 
 The ash of one animal, kept in store, mixed with running water as needed.
@@ -91,7 +91,7 @@ An unavoidable defilement, with a provision waiting for it.
 
 ## The inversion
 
-*Those who **handle it must wash and wait until evening**.*
+**19:7–8**: *Those who **handle it must wash and wait until evening**.*
 
 The man who gathers the ashes becomes unclean. The priest who sprinkles the blood becomes
 unclean. The man who burns it becomes unclean.
@@ -100,11 +100,11 @@ Everyone who touches the thing that makes people clean is made unclean by it.
 
 ## Who it covers
 
-*A lasting statute **for Israel and for the stranger among them**.*
+**19:10** *A lasting statute **for Israel and for the stranger among them**.*
 
 ## Where Hebrews takes it
 
-*For if the blood of bulls and goats, and **the ashes of a heifer**, sprinkling the
+**Hebrews 9:13–14**: *For if the blood of bulls and goats, and **the ashes of a heifer**, sprinkling the
 unclean, sanctifies for the purifying of the flesh, **how much more shall the blood of
 Christ**… cleanse your conscience from dead works to serve the living God?*
 

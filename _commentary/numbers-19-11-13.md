@@ -3,7 +3,7 @@ key: Numbers 19:11–13
 title: Seven days, and two of them matter
 sources:
   - 2022-01-23 his-strength-flows-in-our-weaknesses
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 The rule for touching the dead, and it is the reason for the ash of the red heifer.
@@ -18,7 +18,7 @@ The ash existed for one purpose, and this passage is it.
 
 ## The rule
 
-*"Whoever **touches a dead body** is **unclean for seven days**."*
+**19:11** *"Whoever **touches a dead body** is **unclean for seven days**."*
 
 Not sinful. Unclean, and the code is careful about the difference.
 
@@ -36,7 +36,7 @@ on Judges 14:12–14.
 
 ## The remedy
 
-*"On the **third day and the seventh** he is to be cleansed with the water, and then he is
+**19:12** *"On the **third day and the seventh** he is to be cleansed with the water, and then he is
 clean."*
 
 Two applications, and the days are specified.
@@ -45,7 +45,7 @@ The water is the ash of the heifer mixed with running water, sprinkled with a bu
 
 ## The refusal
 
-*"**If he refuses**, uncleanness clings to him."*
+**19:13** *"**If he refuses**, uncleanness clings to him."*
 
 The Hebrew is *if he does not purify himself*.
 
@@ -53,7 +53,7 @@ The remedy is available and can be declined. Nothing in the passage forces anybo
 
 ## The consequence
 
-*"And he **defiles the dwelling of the LORD**; that person must be **cut off from Israel**."*
+**19:13** again: *"And he **defiles the dwelling of the LORD**; that person must be **cut off from Israel**."*
 
 The Hebrew is **karat** — cut off, severed.
 
@@ -62,7 +62,7 @@ alone.
 
 ## The reason
 
-*"For **the water of cleansing was not sprinkled on him**."*
+**19:13** again: *"For **the water of cleansing was not sprinkled on him**."*
 
 The passage states the cause in the last clause. Not the touching. The not being sprinkled.
 
@@ -78,7 +78,7 @@ statutes that cannot be reasoned out.
 
 ## What Hebrews does with it
 
-*For if the blood of bulls and goats, and **the ashes of a heifer, sprinkling the unclean,
+**Hebrews 9:13–14** again: *For if the blood of bulls and goats, and **the ashes of a heifer, sprinkling the unclean,
 sanctifies for the purifying of the flesh**, how much more shall the blood of Christ… **cleanse
 your conscience from dead works** to serve the living God?*
 
@@ -89,7 +89,7 @@ The old rite reached the flesh. The claim is that this one reaches the conscienc
 
 ## The hyssop
 
-*Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow.*
+**Psalm 51:7**: *Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow.*
 
 David, in Psalm 51, using the vocabulary of this rite about something the rite did not cover.
 
@@ -102,5 +102,5 @@ Hebrews 10:22.
 Sprinkled and washed, in one sentence, and both perfect passives.
 
 > **What the last clause names as the failure.** Not the contact with death, which was ordinary
-> and unavoidable. *The water of cleansing was not sprinkled on him* — the remedy was there and
+> and unavoidable. **19:13** again: *The water of cleansing was not sprinkled on him* — the remedy was there and
 > was not used.

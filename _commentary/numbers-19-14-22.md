@@ -3,21 +3,21 @@ key: Numbers 19:14–22
 title: A way back to the living
 sources:
   - 2024-11-24 stay-near-the-scent-of-water
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 The procedure for a person who has touched a corpse, and it is the only remedy in the law for it.
 
 ## The case
 
-*"When someone **dies in a tent**, all who are inside and **every open vessel** become unclean for
+**19:14–15**: *"When someone **dies in a tent**, all who are inside and **every open vessel** become unclean for
 seven days."*
 
 Everybody present, and every container without a lid.
 
 ## The other cases
 
-*"Whoever touches **a body in the open field**, or **a bone**, or **a grave**, is unclean."*
+**19:16**: *"Whoever touches **a body in the open field**, or **a bone**, or **a grave**, is unclean."*
 
 Four situations, and one of them is unavoidable in a wilderness where people die.
 
@@ -28,7 +28,7 @@ approach the sanctuary during it.
 
 ## The remedy
 
-*"To cleanse them, take some of **the ashes of the burned heifer** and add **fresh, living water** in a
+**19:17**: *"To cleanse them, take some of **the ashes of the burned heifer** and add **fresh, living water** in a
 vessel."*
 
 The Hebrew is **mayim chayyim** — living water. Running water, from a spring or stream, not
@@ -53,7 +53,7 @@ The thing that cleanses defiles everybody who handles it.
 
 ## The application
 
-*"**A clean person dips hyssop in it** and sprinkles the tent, the vessels, and the people who were
+**19:18**: *"**A clean person dips hyssop in it** and sprinkles the tent, the vessels, and the people who were
 there."*
 
 **Ezov** — hyssop. The same plant used on the doorposts at Passover, and offered to Jesus at the
@@ -61,17 +61,17 @@ cross.
 
 ## The two days
 
-*"And sprinkles the one who touched death, **on the third day and the seventh**."*
+**19:19**: *"And sprinkles the one who touched death, **on the third day and the seventh**."*
 
 Two applications, four days apart. Not one.
 
 ## The completion
 
-*"On the seventh day **he washes his clothes and bathes**, and by evening he is clean."*
+**19:19** again: *"On the seventh day **he washes his clothes and bathes**, and by evening he is clean."*
 
 ## The penalty
 
-*"But anyone who has become unclean and **does not purify himself must be cut off** from the
+**19:20**: *"But anyone who has become unclean and **does not purify himself must be cut off** from the
 assembly, for he has defiled the LORD's sanctuary."*
 
 The provision exists. Refusing it is the offence.
@@ -98,7 +98,7 @@ from dead works?* See the note on Hebrews 9:13–14.
 
 ## Where the sacrifice happened
 
-*Outside the camp.*
+**Numbers 19:3**: *Outside the camp.*
 
 *Therefore Jesus also, that He might sanctify the people with His own blood, **suffered outside the
 gate**.* See the note on Hebrews 13:7–14.
