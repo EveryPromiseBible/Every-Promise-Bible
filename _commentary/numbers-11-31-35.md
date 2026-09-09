@@ -4,14 +4,14 @@ title: The graves of craving
 sources:
   - 2019-09-22 eat-the-communion-fresh
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 They got exactly what they asked for, in a quantity nobody could have wanted.
 
 ## The quail
 
-*A wind went out from the LORD and **drove quail in from the sea**, dropping them all
+**11:31** *A wind went out from the LORD and **drove quail in from the sea**, dropping them all
 around the camp — **a day's walk in every direction, lying about three feet deep**.*
 
 Quail migrate across that region in vast flocks and come down exhausted. The
@@ -21,25 +21,25 @@ Three feet deep, for a day's journey in each direction.
 
 ## The gathering
 
-*All that day and night and the next day the people gathered quail; **even the one who
+**11:32** *All that day and night and the next day the people gathered quail; **even the one who
 gathered least brought in heaps of them**.*
 
 Thirty-six hours of collecting without stopping.
 
-Compare the manna: *he who gathered much had nothing left over, and he who gathered
+Compare the manna, **Exodus 16:18**: *he who gathered much had nothing left over, and he who gathered
 little had no lack.* With the manna nobody could get ahead. With the quail everybody
 did.
 
 ## The timing
 
-*But **while the meat was still between their teeth, before it was even chewed**, the
+**11:33** *But **while the meat was still between their teeth, before it was even chewed**, the
 LORD's anger blazed.*
 
 The judgement lands at the first mouthful.
 
 ## The name
 
-*They named the place **Kibroth-hattaavah — "the graves of craving"** — because there
+**11:34** *They named the place **Kibroth-hattaavah — "the graves of craving"** — because there
 they buried the people who had given in to their craving.*
 
 The Hebrew **taavah** is desire, longing, craving — the same root as the word in
@@ -49,14 +49,14 @@ The place is named after the appetite rather than the plague.
 
 ## What the psalm says about it
 
-*And He gave them their request, **but sent leanness into their soul**.*
+**Psalm 106:15**: *And He gave them their request, **but sent leanness into their soul**.*
 
 Psalm 106, and it is one of the more frightening sentences in the Psalms. The
 request was granted.
 
 ## Then the camp moves
 
-*From Kibroth-hattaavah the people traveled to **Hazeroth**, and they stayed at
+**11:35** *From Kibroth-hattaavah the people traveled to **Hazeroth**, and they stayed at
 Hazeroth.*
 
 A flat travel note, and the writer records it without comment.
@@ -66,18 +66,18 @@ and Miriam coming out leprous.
 
 ## What Paul does with this chapter
 
-*Now these things became our examples, to the intent that **we should not lust after
+**1 Corinthians 10:6**: *Now these things became our examples, to the intent that **we should not lust after
 evil things as they also lusted**.*
 
-1 Corinthians 10, and Paul lists the wilderness failures one by one as written down
-*for our admonition.*
+1 Corinthians 10, and Paul lists the wilderness failures one by one as written down,
+**1 Corinthians 10:11**: *for our admonition.*
 
 ## What was actually wrong
 
 Not that they wanted meat. God had given them quail once before, in Exodus 16,
 without any anger attached.
 
-The chapter locates the problem elsewhere: *you have wept in the hearing of the LORD,
+The chapter locates the problem elsewhere, **Numbers 11:18**: *you have wept in the hearing of the LORD,
 saying, "Who will give us meat to eat? **For it was well with us in Egypt.**"*
 
 The rejection of the present provision, and the rewriting of slavery as the good
@@ -85,6 +85,6 @@ years. See the note on Numbers 11:4–9.
 
 > **The other thing that happened in this chapter.** Seventy elders received the
 > Spirit, and two of them — Eldad and Medad — prophesied in the camp instead of at the
-> tent. Joshua wanted them stopped. Moses said *would that all the LORD's people were
+> tent. Joshua wanted them stopped. Moses said, **Numbers 11:29**: *would that all the LORD's people were
 > prophets.* The best line in the chapter is spoken by the man who had just asked to
 > die.
