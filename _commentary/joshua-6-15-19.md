@@ -3,7 +3,7 @@ key: Joshua 6:15–19
 title: The one house left standing
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The city falls, and the exception is named out loud in the middle of the
@@ -11,7 +11,7 @@ instruction to destroy it.
 
 ## Where the exception is placed
 
-*The city and everything in it are set apart to the LORD for destruction. Only
+**6:17** *The city and everything in it are set apart to the LORD for destruction. Only
 Rahab and everyone in her house will live.*
 
 Not an afterthought once the dust settled. Joshua announces it as part of the
@@ -20,7 +20,7 @@ advance and spoken publicly.
 
 ## Her house was in the wall
 
-Chapter 2 mentions it almost in passing: *her house was built into the city wall,
+Chapter 2 mentions it almost in passing, **Joshua 2:15**: *her house was built into the city wall,
 so that she lived within the wall itself.*
 
 Which means when the wall came down, the one structure that had to stand was the
@@ -30,7 +30,7 @@ two facts side by side.
 
 ## The reason given
 
-*Because she hid the messengers we sent.* Not because she was Israelite — she was
+**6:17** again: *Because she hid the messengers we sent.* Not because she was Israelite — she was
 not. Not because she had reformed — the narrative never says so, and both New
 Testament writers who mention her still call her by her trade.
 
