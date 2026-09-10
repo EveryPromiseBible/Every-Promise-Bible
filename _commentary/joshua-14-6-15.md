@@ -12,7 +12,7 @@ sources:
   - 2022-02-20 stay-strong-and-healthy-gods-way
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2023-02-26 power-to-renew-your-youth
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Forty-five years after the report that cost his generation the land, Caleb walks
@@ -20,16 +20,16 @@ up and asks for the hardest piece of it.
 
 ## The arithmetic he does out loud
 
-- forty years old when he was sent to scout
-- forty-five years of waiting since
-- eighty-five now, *as strong now as the day Moses sent me out*
+- forty years old when he was sent to scout (**14:7**)
+- forty-five years of waiting since (**14:10**)
+- eighty-five now, **14:11**: *as strong now as the day Moses sent me out*
 
 He counts it publicly. He is not claiming exemption from time; he is saying the
 promise held through it, and so did he.
 
 ## What he asks for
 
-Not a quiet valley. **Hebron** — and he names the problem himself: *You heard
+Not a quiet valley. **Hebron** — and he names the problem himself, **14:12**: *You heard
 yourself that the Anakim are there, giants in great fortified cities.*
 
 The giants are the exact reason ten of the twelve scouts had said no, all those
@@ -38,7 +38,7 @@ tells Joshua the giants are still in it.
 
 ## The phrase the chapter keeps repeating
 
-*He followed the LORD my God completely* — with a whole heart. It appears three
+**14:8, 9, 14**: *He followed the LORD my God completely* — with a whole heart. It appears three
 times in these verses, twice from Caleb and once from the narrator, and it is
 what Moses' oath was hung on.
 
@@ -47,7 +47,7 @@ Fully — nothing held back.
 
 ## The phrase said three times
 
-*He **wholly followed the LORD**.*
+**14:8, 9, 14** again: *He **wholly followed the LORD**.*
 
 The Hebrew is *filled after* — followed all the way. It is what God said of him forty-five
 years earlier, in the sentence that also said *My servant Caleb has **a different spirit** in
@@ -56,14 +56,14 @@ him*. See the note on Numbers 14:20–25.
 The same forty days, the same three giants, the same grapes as the other ten — and something
 in him was of a different kind.
 
-Paul: *you are not in the flesh but in the Spirit, if indeed **the Spirit of God dwells in
+Paul, **Romans 8:9**: *you are not in the flesh but in the Spirit, if indeed **the Spirit of God dwells in
 you**.*
 
 ## What eighty-five years had not done
 
-*"As my strength was then, so now is my strength for war."*
+**14:11** again: *"As my strength was then, so now is my strength for war."*
 
-*Therefore we do not lose heart. Even though our outward man is perishing, yet **the inward man
+**2 Corinthians 4:16**: *Therefore we do not lose heart. Even though our outward man is perishing, yet **the inward man
 is being renewed day by day**.*
 
 ## What he asked for
@@ -74,7 +74,7 @@ unenterable, and the ground he had personally walked as a spy.
 He did not ask for something new. He asked for the part of the promise made to him by name,
 which had been sitting unoccupied for forty-five years.
 
-> **The last line.** *And the land had rest from war.* The chapter about an
+> **The last line.** **14:15**: *And the land had rest from war.* The chapter about an
 > eighty-five-year-old asking for a fight ends on rest. Both things are in the
 > same paragraph, and the order matters: the rest comes after the hill country is
 > taken, not instead of it.
@@ -85,9 +85,9 @@ which had been sitting unoccupied for forty-five years.
 
 Read this chapter beside the two around it and the request gets sharper.
 
-Joshua 11 says the Anakim were cut off from the hill country and *not one was
+Joshua 11 says the Anakim were cut off from the hill country and, **Joshua 11:22**: *not one was
 left in the land of Israel* — with three coastal cities named as the exception.
-Joshua 13 has God telling Joshua, now old, that *there is still so much land left
+Joshua 13 has God telling Joshua, now old, that, **Joshua 13:1**: *there is still so much land left
 to possess*.
 
 Caleb is standing in that gap. The campaign is over, the summary has been
@@ -98,7 +98,7 @@ forty-five years.
 
 ## And what he did with it after
 
-Chapter 15 records the follow-through in one line: *from there Caleb drove out the
+Chapter 15 records the follow-through in one line, **Joshua 15:14**: *from there Caleb drove out the
 three sons of Anak* — named, individually — and then went on against Debir.
 
 The asking and the taking are two different chapters, and the second one is
