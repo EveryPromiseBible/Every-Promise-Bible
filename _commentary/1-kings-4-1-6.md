@@ -3,14 +3,14 @@ key: 1 Kings 4:1–6
 title: Solomon's chief officials
 sources:
   - 2023-07-16 redefine-success-gods-way
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 A staff list, and the interesting thing about it is the names.
 
 ## The heading
 
-*So **King Solomon reigned over all Israel**.*
+**4:1** *So **King Solomon reigned over all Israel**.*
 
 The Hebrew is **al-kol-Yisrael** — over all Israel.
 
@@ -52,25 +52,25 @@ He is the one who executed Joab at the altar, and Adonijah, at Solomon's order.
 
 ## Abiathar
 
-Named as priest here, and the previous chapter records that Solomon removed him: *so Solomon
+Named as priest here, and the previous chapter records that Solomon removed him, **1 Kings 2:27**: *so Solomon
 removed Abiathar from being priest to the LORD*, and sent him to his fields at Anathoth.
 
 The list may reflect an earlier point in the reign, or the office rather than the incumbent.
 
 ## Zabud
 
-*A priest and **the king's trusted friend**.*
+**4:5** *A priest and **the king's trusted friend**.*
 
 The Hebrew is **re'eh hammelek** — the friend of the king.
 
-A court title, not a description. Hushai held it under David: *Hushai the Archite, David's
+A court title, not a description. Hushai held it under David, **2 Samuel 15:37**: *Hushai the Archite, David's
 friend*.
 
 An official position for the man the king talks to.
 
 ## Adoniram
 
-*Had charge of **the forced labour**.*
+**4:6** *Had charge of **the forced labour**.*
 
 The Hebrew is **al-hammas** — over the levy.
 
@@ -78,17 +78,17 @@ Thirty thousand men conscripted for the temple, in shifts of ten thousand a mont
 
 ## What happens to him
 
-*Then King Rehoboam sent Adoram, who was in charge of the revenue; **and all Israel stoned him with
+**1 Kings 12:18**: *Then King Rehoboam sent Adoram, who was in charge of the revenue; **and all Israel stoned him with
 stones, and he died**.*
 
 The same office, one reign later. The forced labour is the grievance that splits the kingdom.
 
 ## What the people say to Rehoboam
 
-*"**Your father made our yoke heavy**; now therefore, lighten the burdensome service of your father,
+**1 Kings 12:4**: *"**Your father made our yoke heavy**; now therefore, lighten the burdensome service of your father,
 and his heavy yoke which he put on us, and we will serve you."*
 
-And the young men's advice: *my little finger shall be thicker than my father's waist*.
+And the young men's advice, **1 Kings 12:10**: *my little finger shall be thicker than my father's waist*.
 
 ## What the chapter goes on to describe
 
@@ -97,7 +97,7 @@ Twelve district governors, each supplying the court one month a year.
 Thirty kors of fine flour a day, sixty of meal, ten fat oxen, twenty pasture oxen, a hundred
 sheep, besides deer, gazelles, roebucks and fatted fowl.
 
-*Judah and Israel were as numerous as the sand by the sea, eating and drinking and rejoicing.*
+**4:20** *Judah and Israel were as numerous as the sand by the sea, eating and drinking and rejoicing.*
 
 ## And the wisdom
 
@@ -126,7 +126,7 @@ he would not build the house has two sons in Solomon's government. See the note 
 Solomon inherits a kingdom, a promise, a temple plan and a staff, and did not assemble any of
 it.
 
-Jesus, to men who had left their nets: *you did not choose Me, but **I chose you and appointed
+Jesus, to men who had left their nets, **John 15:16**: *you did not choose Me, but **I chose you and appointed
 you**.*
 
 ## What Abiathar is doing there
@@ -138,7 +138,7 @@ fields at Anathoth — and the text still records his name in the list.
 
 Any account of Solomon earning it.
 
-*For **who makes you differ from another? And what do you have that you did not receive**? Now
+**1 Corinthians 4:7**: *For **who makes you differ from another? And what do you have that you did not receive**? Now
 if you did indeed receive it, why do you boast as if you had not received it?*
 
 > **The list.** Sons of David's men, kept on and promoted — and the last name on it holds the
