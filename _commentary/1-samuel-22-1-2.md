@@ -4,14 +4,14 @@ title: Everyone in distress
 sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2022-09-18 practical-benefits-of-seeing-jesus-in-the-word
-updated: 2026-08-06
+updated: 2026-09-10
 ---
 
 David's army assembles itself, and the recruitment criteria are three kinds of trouble.
 
 ## Where he is
 
-*David slipped away from there and escaped to **the cave of Adullam**.*
+**22:1** *David slipped away from there and escaped to **the cave of Adullam**.*
 
 He has been running for chapters. Saul's spear, Michal lowering him out of a window, Ahimelech
 and the showbread, and then Gath — where he pretended to be insane, scrabbling at the gates
@@ -23,7 +23,7 @@ Adullam is a limestone cave country in the Judean foothills, about ten miles fro
 
 ## Who arrives first
 
-*When his brothers and his father's whole household heard, **they went down to him there**.*
+**22:1** again: *When his brothers and his father's whole household heard, **they went down to him there**.*
 
 The family that had left him with the sheep when Samuel came to dinner.
 
@@ -34,7 +34,7 @@ They come to him now, because Saul is dangerous to anyone connected with him.
 
 ## Who arrives next
 
-*And others came too — **everyone in distress, everyone in debt, everyone bitter of soul**.*
+**22:2** *And others came too — **everyone in distress, everyone in debt, everyone bitter of soul**.*
 
 Three categories, and the Hebrew is blunt about all three.
 
@@ -48,7 +48,7 @@ Not one of them is described as brave, loyal or promising.
 
 ## What he becomes
 
-*And **he became their leader**.*
+**22:2** again: *And **he became their leader**.*
 
 The Hebrew is **sar** — captain, prince, commander.
 
@@ -57,7 +57,7 @@ bitterness.
 
 ## The number
 
-*About four hundred men were with him.*
+**22:2** again: *About four hundred men were with him.*
 
 By chapter 23 it is six hundred. It stays six hundred for the rest of the wilderness years.
 
@@ -70,9 +70,9 @@ spear; the one who stood in a field of lentils and defended it when everyone els
 three who broke through the Philistine garrison to fetch David a drink of water from the well
 at Bethlehem because he said out loud that he was thirsty.
 
-And what he did with the water: *he would not drink it, but poured it out to the LORD*.
+And what he did with the water, **2 Samuel 23:16**: *he would not drink it, but poured it out to the LORD*.
 
-Benaiah, who *went down and killed a lion in the midst of a pit on a snowy day*.
+Benaiah, **2 Samuel 23:20**: who *went down and killed a lion in the midst of a pit on a snowy day*.
 
 Thirty-seven names, and they came out of a cave.
 
@@ -84,16 +84,16 @@ They gathered round somebody, and the narrative says that is what changed.
 
 ## Where the psalms from this period go
 
-*Be merciful to me, O God… my soul trusts in You; and in the shadow of Your wings I will make my
+**Psalm 57:1**: *Be merciful to me, O God… my soul trusts in You; and in the shadow of Your wings I will make my
 refuge, until these calamities have passed by.*
 
-*I cried out to God Most High, to God who performs all things for me.*
+**Psalm 57:2**: *I cried out to God Most High, to God who performs all things for me.*
 
 Written in caves, by a man with a price on his head and four hundred debtors camped outside.
 
 ## What Hebrews says about the type
 
-*And what more shall I say? For the time would fail me to tell of Gideon and Barak and Samson
+**Hebrews 11:32, 34**: *And what more shall I say? For the time would fail me to tell of Gideon and Barak and Samson
 and Jephthah, also of David and Samuel and the prophets… who **out of weakness were made
 strong**, became valiant in battle, turned to flight the armies of the aliens.*
 
