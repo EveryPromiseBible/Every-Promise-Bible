@@ -4,14 +4,14 @@ title: Forty, but no more
 sources:
   - 2020-09-27 actively-own-your-double-portion
   - 2017-08-06 the-healing-power-of-a-joyful-heart
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 A rule about corporal punishment, and the reason given for the limit is about dignity.
 
 ## The court
 
-*When two men have a dispute, they are to **bring it to court**, and the judges will
+**25:1** *When two men have a dispute, they are to **bring it to court**, and the judges will
 decide, **clearing the innocent and condemning the guilty**.*
 
 The Hebrew is *justifying the righteous and condemning the wicked* — **tsadaq** and
@@ -21,7 +21,7 @@ That is the definition of a working court, stated in one line.
 
 ## The sentence
 
-*If the guilty one deserves a beating, the judge shall **make him lie down and be flogged
+**25:2** *If the guilty one deserves a beating, the judge shall **make him lie down and be flogged
 in his presence**.*
 
 **In his presence** — the judge who passed the sentence has to watch it carried out.
@@ -30,7 +30,7 @@ The Hebrew is *before his face*. There is no delegating it to somewhere out of s
 
 ## The measure
 
-*The number of lashes **fitting his offense**.*
+**25:2** again: *The number of lashes **fitting his offense**.*
 
 The Hebrew is *according to his fault, by number*.
 
@@ -38,11 +38,11 @@ Proportion is required, and the total is to be counted.
 
 ## The ceiling
 
-*He may give **forty, but no more**.*
+**25:3** *He may give **forty, but no more**.*
 
 ## The reason
 
-*To go beyond that would **degrade your brother before your eyes**.*
+**25:3** again: *To go beyond that would **degrade your brother before your eyes**.*
 
 The Hebrew is *lest your brother be dishonoured before you* — **niqlah**, made light of,
 held in contempt.
@@ -60,7 +60,7 @@ watching.
 Rabbinic practice reduced it to thirty-nine, so that a miscount could not push the total
 over the limit.
 
-Paul records receiving it five times: *from the Jews five times I received **forty stripes
+Paul records receiving it five times, **2 Corinthians 11:24**: *from the Jews five times I received **forty stripes
 minus one**.*
 
 Two hundred lashes, by his own count.
@@ -89,7 +89,7 @@ The word for a lash and the word for a plague are the same word.
 
 ## The verse that follows immediately
 
-*You shall **not muzzle an ox while it treads out the grain**.*
+**25:4** *You shall **not muzzle an ox while it treads out the grain**.*
 
 Paul quotes it twice about paying those who preach.
 
