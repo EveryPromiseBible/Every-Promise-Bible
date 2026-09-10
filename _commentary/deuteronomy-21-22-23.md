@@ -3,7 +3,7 @@ key: Deuteronomy 21:22–23
 title: A body on a tree
 sources:
   - 2025-08-17 access-his-power-and-wisdom
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 A short burial law, and it becomes the hardest verse in the Old Testament for a Jew reading about
@@ -11,7 +11,7 @@ the cross.
 
 ## What the law covers
 
-*If a man **guilty of a capital crime** is put to death and **his body is hung on a tree**.*
+**21:22** *If a man **guilty of a capital crime** is put to death and **his body is hung on a tree**.*
 
 The hanging is not the execution. The man is already dead.
 
@@ -19,13 +19,13 @@ Ancient practice displayed the corpse afterwards as a public warning.
 
 ## The command
 
-*Do not leave it there **overnight**. **Bury it the same day**.*
+**21:23** *Do not leave it there **overnight**. **Bury it the same day**.*
 
 The Hebrew is **lo-talin nivlato al-ha'etz** — his corpse shall not remain on the tree.
 
 ## The reason
 
-*For **anyone hung on a tree is under God's curse**.*
+**21:23** again: *For **anyone hung on a tree is under God's curse**.*
 
 The Hebrew is **qilelat Elohim taluy**.
 
@@ -34,13 +34,13 @@ is hanged is accursed of God*.
 
 ## The second reason
 
-*Do not **defile the land** the LORD your God is giving you as your inheritance.*
+**21:23** again: *Do not **defile the land** the LORD your God is giving you as your inheritance.*
 
 The corpse is treated as contaminating the ground it hangs over.
 
 ## Who kept it
 
-Joshua, twice. The king of Ai, and the five kings at Makkedah — *at sunset Joshua commanded that
+Joshua, twice. The king of Ai, and the five kings at Makkedah, **Joshua 10:27**: *at sunset Joshua commanded that
 they take them down*.
 
 And the Philistines did not, with Saul's body on the wall of Beth Shan, until the men of Jabesh
@@ -72,7 +72,7 @@ it the mechanism.
 
 ## The exchange
 
-*That the blessing of Abraham might come upon the Gentiles in Christ Jesus.*
+**Galatians 3:14**: *That the blessing of Abraham might come upon the Gentiles in Christ Jesus.*
 
 The curse is taken up at one end so the blessing can go out at the other.
 
@@ -97,5 +97,5 @@ time.
 *And there shall be **no more curse**, but the throne of God and of the Lamb shall be in it.* See the
 note on Revelation 22:3–5.
 
-> **The objection.** *Cursed is everyone who hangs on a tree* was the standing argument against a
+> **The objection.** **21:23** again: *Cursed is everyone who hangs on a tree* was the standing argument against a
 > crucified Messiah. Paul quotes it, agrees it applies, and calls it the point.
