@@ -6,7 +6,7 @@ sources:
   - 2021-05-16 ask-big-ask-bold
   - 2021-05-30 the-key-to-victorious-living
   - 2021-11-28 faith-to-possess-the-land
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 One of the bluntest sentences God says to anyone in the Old Testament, and He
@@ -14,7 +14,7 @@ says it to the man who had just finished the conquest.
 
 ## The two halves
 
-*You've grown old, and there is still so much land left to possess.*
+**13:1** *You've grown old, and there is still so much land left to possess.*
 
 Both are true and neither cancels the other. Two chapters earlier the book said
 Joshua *took the entire land, exactly as the LORD had promised* — and it meant
@@ -26,15 +26,15 @@ The victory was real. The occupation was not finished.
 ## What God does not say
 
 He does not rebuke Joshua. There is no suggestion the old man failed, and no
-call for one more campaign. The instruction that follows is administrative:
-*divide this land among the nine and a half tribes as their inheritance*.
+call for one more campaign. The instruction that follows is administrative,
+**13:7**: *divide this land among the nine and a half tribes as their inheritance*.
 
 Joshua's job changes. He is to allocate what has been promised, and the taking
 of it will belong to the tribes and to the years after him.
 
 ## Who does the driving out
 
-*I myself will drive them out before my people.*
+**13:6** *I myself will drive them out before my people.*
 
 That is stated in the middle of the list of what remains. The unfinished part is
 not handed over as a burden — it is handed over with the promise that the work
@@ -42,12 +42,12 @@ is God's, and the tribes' part is to go and live in what is theirs.
 
 ## Given, and not yet entered
 
-*"You've grown old, and **there is still so much land left**."*
+**13:1** again: *"You've grown old, and **there is still so much land left**."*
 
 The whole country had been deeded to Abraham. Joshua's own book says the land was taken. And
 God tells an old man, in the same book, that most of it is not lived in.
 
-*That the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of
+**Ephesians 1:17–18**: *That the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of
 wisdom and revelation in the knowledge of Him… that you may know what is **the hope of His
 calling**, what are **the riches of the glory of His inheritance in the saints**.*
 
