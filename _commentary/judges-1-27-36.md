@@ -3,35 +3,35 @@ key: Judges 1:27–36
 title: The land left unwon
 sources:
   - 2024-09-15 step-out-and-possess-the-land
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 A list of failures, tribe by tribe, and it is the reason the rest of the book happens.
 
 ## The heading
 
-*But **so much of the land stayed unwon**.*
+**1:27**: *But **so much of the land stayed unwon**.*
 
 The chapter opens with Judah taking its territory and ends with six tribes that did not.
 
 ## Manasseh
 
-*Did not drive out the people of **Beth-Shean, Taanach, Dor, Ibleam, Megiddo**, or their villages.*
+**1:27** again: *Did not drive out the people of **Beth-Shean, Taanach, Dor, Ibleam, Megiddo**, or their villages.*
 
 Five named cities, all of them controlling the Jezreel valley — the main trade route and the best
 farmland in the country.
 
 ## The reason given
 
-*The Canaanites **were determined to stay**.*
+**1:27** again: *The Canaanites **were determined to stay**.*
 
 The Hebrew is **vayyo'el hakkena'ani lashevet** — the Canaanite was determined to dwell.
 
-Chapter 1 elsewhere adds *because they had chariots of iron*.
+Chapter 1 elsewhere adds, **1:19**: *because they had chariots of iron*.
 
 ## The compromise
 
-*When Israel grew strong, they **put those Canaanites to forced labor, but never drove them out**.*
+**1:28** *When Israel grew strong, they **put those Canaanites to forced labor, but never drove them out**.*
 
 The Hebrew is **lamas velo horish** — to tribute, and did not dispossess.
 
@@ -41,17 +41,17 @@ Strong enough to tax them, and not strong enough — or not willing — to remov
 
 The same sentence, with different names, six times:
 
-**Ephraim** did not drive out the Canaanites in Gezer.
+**Ephraim** did not drive out the Canaanites in Gezer (**1:29**).
 
-**Zebulun** did not clear out Kitron or Nahalol.
+**Zebulun** did not clear out Kitron or Nahalol (**1:30**).
 
-**Asher** failed at Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, and Rehob.
+**Asher** failed at Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, and Rehob (**1:31**).
 
-**Naphtali** did not drive out Beth-Shemesh or Beth-Anath.
+**Naphtali** did not drive out Beth-Shemesh or Beth-Anath (**1:33**).
 
 ## The wording that changes
 
-*So **Asher lived among the Canaanites** instead.*
+**1:32** *So **Asher lived among the Canaanites** instead.*
 
 The Hebrew is **vayyeshev ha'Asheri beqerev hakkena'ani** — Asher dwelt in the midst of the
 Canaanite.
@@ -73,7 +73,7 @@ land.
 
 ## Dan
 
-*And **the Amorites pressed the Danites back into the hills**, refusing to let them come down into the
+**1:34** *And **the Amorites pressed the Danites back into the hills**, refusing to let them come down into the
 valley.*
 
 The Hebrew is **vayyilchatzu** — and they pressed.
@@ -86,10 +86,10 @@ Dan is the only tribe driven backwards, and it eventually migrates north.
 
 ## Why it matters
 
-Chapter 2: *and the Angel of the LORD came up from Gilgal to Bochim, and said: "…**you have not
+**Judges 2:2**: *and the Angel of the LORD came up from Gilgal to Bochim, and said: "…**you have not
 obeyed My voice. Why have you done this?**"*
 
-*"Therefore I also said, **I will not drive them out before you; but they shall be thorns in your
+**Judges 2:3**: *"Therefore I also said, **I will not drive them out before you; but they shall be thorns in your
 side, and their gods shall be a snare to you**."*
 
 The book states the consequence immediately after the list.
@@ -103,14 +103,14 @@ cry out, a judge is raised, and it happens again.
 
 ## The last verse of the book
 
-*In those days there was no king in Israel; **everyone did what was right in his own eyes**.*
+**Judges 21:25**: *In those days there was no king in Israel; **everyone did what was right in his own eyes**.*
 
 ## The one tribe not on the list
 
-Judah, at the start of the chapter. *And the LORD was with Judah, and they drove out the
+Judah, at the start of the chapter, **1:19**: *And the LORD was with Judah, and they drove out the
 inhabitants of the mountains.*
 
-Even there, the same clause appears: *but they could not drive out the inhabitants of the lowland,
+Even there, the same clause appears, **1:19** again: *but they could not drive out the inhabitants of the lowland,
 because they had chariots of iron*.
 
 ## What was given, and what was held
@@ -119,12 +119,12 @@ Every tribe in this chapter is failing to take ground that had already been deed
 The land is not in dispute anywhere in the passage. Only the occupying.
 
 *"How long will you hold back from going in to possess the land which the LORD God of your
-fathers **has given you**?"* Joshua had asked it a book earlier. See the note on
+fathers **has given you**?"* Joshua had asked it a book earlier, **Joshua 18:3**. See the note on
 Joshua 18:1–10.
 
 ## Why it mattered
 
-*"But if you do not drive out the inhabitants of the land… **those whom you let remain shall be
+**Numbers 33:55**: *"But if you do not drive out the inhabitants of the land… **those whom you let remain shall be
 irritants in your eyes and thorns in your sides**."*
 
 The book of Judges is the working out of that sentence. Every oppressor in it comes from a
@@ -132,12 +132,12 @@ nation named in this chapter.
 
 ## What the New Testament asks for
 
-*Therefore let us **be diligent to enter that rest**… For the word of God is living and
+**Hebrews 4:11–12**: *Therefore let us **be diligent to enter that rest**… For the word of God is living and
 powerful, and sharper than any two-edged sword.*
 
 Not to earn a place. To move into one.
 
-*I press on, that I may **lay hold of that for which Christ Jesus has also laid hold of me**.*
+**Philippians 3:12**: *I press on, that I may **lay hold of that for which Christ Jesus has also laid hold of me**.*
 
 > **The reversal.** Everywhere else the Canaanites dwell among Israel. Of Asher — the tribe with
 > the richest blessing in both lists — the text says Asher dwelt among the Canaanites.

@@ -5,7 +5,7 @@ sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-09-23 the-key-to-robust-faith
   - 2020-07-26 the-power-of-positive-expectations
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The book opens with a leaderless nation asking a question, and getting an answer
@@ -13,10 +13,10 @@ that is already in the past tense.
 
 ## The question and the answer
 
-*Joshua was gone now, and the people were unsure where to turn. So they asked the
+**1:1** *Joshua was gone now, and the people were unsure where to turn. So they asked the
 LORD, "Who should go up first?"*
 
-The answer: *Judah will go. I have already handed the land to them.*
+The answer, **1:2**: *Judah will go. I have already handed the land to them.*
 
 Note the tense. Not *I will hand it over*. The giving is spoken of as done, and
 the going up is what remains. That order — given first, taken afterwards — runs
@@ -25,7 +25,7 @@ through the whole conquest.
 ## Judah's first move
 
 Judah does not go alone. He asks Simeon to come along, and offers the same in
-return: *come up with us into the land that's ours, and we'll fight side by side.
+return, **1:3**: *come up with us into the land that's ours, and we'll fight side by side.
 Then we'll do the same for you.*
 
 Simeon's allotted territory lay inside Judah's, so the two tribes had a natural
@@ -34,10 +34,10 @@ invitation rather than a command.
 
 ## The grim episode
 
-They capture Adoni-Bezek and cut off his thumbs and big toes — mutilations that
+They capture Adoni-Bezek and, **1:6**: cut off his thumbs and big toes — mutilations that
 made a man unable to hold a weapon or run.
 
-And he says it himself: *seventy kings with their thumbs and big toes cut off
+And he says it himself, **1:7**: *seventy kings with their thumbs and big toes cut off
 once gathered scraps under my table. Now God has paid me back for what I did.*
 
 The verdict is in the mouth of the man it falls on. Judges is a violent book and
@@ -46,7 +46,7 @@ what he had done to others.
 
 ## The seventy under the table
 
-*Seventy kings with their thumbs and big toes cut off once **gathered scraps under my
+**1:7** again: *Seventy kings with their thumbs and big toes cut off once **gathered scraps under my
 table**.*
 
 Seventy men who had once ruled cities, kept alive, maimed, and fed on what fell.
