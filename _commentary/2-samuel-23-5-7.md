@@ -1,13 +1,13 @@
 ---
 key: 2 Samuel 23:5–7
 title: Ordered in all things, and sure
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 David's last recorded words, and the sentence he chooses to die on is about a contract.
 
 ## What he says about his own house
 
-*"**Is not my house right with God?**"*
+**23:5** *"**Is not my house right with God?**"*
 
 It is a question, and it is asked by a man whose household record is catastrophic — adultery,
 a covered murder, a son who raped his half-sister, a son who rebelled and died in a tree, a
@@ -17,7 +17,7 @@ He asks the question anyway, and he answers it. Not by pointing at the house.
 
 ## What he points at instead
 
-*"For **He has made an everlasting covenant with me, arranged in every part and kept
+**23:5** again: *"For **He has made an everlasting covenant with me, arranged in every part and kept
 secure**."*
 
 The older wording is the one that has stuck: *ordered in all things, and sure*.
@@ -34,7 +34,7 @@ Everlasting. Arranged in every part. Kept secure.
 
 Not one of the three is a description of David.
 
-*Now may the God of peace who brought up our Lord Jesus from the dead, that great Shepherd of
+**Hebrews 13:20**: *Now may the God of peace who brought up our Lord Jesus from the dead, that great Shepherd of
 the sheep, **through the blood of the everlasting covenant**, make you complete in every good
 work.*
 
@@ -43,23 +43,23 @@ with.
 
 ## The clause he attaches to it
 
-*"**This is all my salvation and all my desire.**"*
+**23:5** again: *"**This is all my salvation and all my desire.**"*
 
 The older rendering. Everything he is counting on and everything he wants, in one clause,
 about an arrangement he did not draft.
 
 ## What he expects it to do
 
-*"Will He not **bring to full flower** my every rescue and every longing?"*
+**23:5** again: *"Will He not **bring to full flower** my every rescue and every longing?"*
 
 The Hebrew is *will He not make it grow?* — the covenant is spoken of as something planted.
 
-*Being confident of this very thing, that **He who has begun a good work in you will complete
+**Philippians 1:6**: *Being confident of this very thing, that **He who has begun a good work in you will complete
 it** until the day of Jesus Christ.*
 
 ## The thorns
 
-*"But the worthless are all like **thorns thrown aside** — no one gathers them with bare
+**23:6** *"But the worthless are all like **thorns thrown aside** — no one gathers them with bare
 hands."*
 
 The last image in his last words is thorns that cannot be handled, and have to be taken with
