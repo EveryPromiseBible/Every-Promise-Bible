@@ -3,14 +3,14 @@ key: 1 Samuel 6:1–9
 title: Seven months, and a plan
 sources:
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 The Philistines have won a war and cannot get rid of the trophy.
 
 ## The duration
 
-*The ark of the LORD had been in Philistine territory **seven months**.*
+**6:1** *The ark of the LORD had been in Philistine territory **seven months**.*
 
 They captured it at Aphek, where Israel had fetched it from Shiloh as a talisman and lost thirty
 thousand men and the ark with it.
@@ -25,17 +25,17 @@ the threshold.
 Tumours in Ashdod, then Gath, then Ekron. The ark passed from city to city because each one
 wanted it gone.
 
-*And the cry of the city went up to heaven.*
+**1 Samuel 5:12**: *And the cry of the city went up to heaven.*
 
 ## The consultation
 
-*So the Philistines called for **their priests and diviners**.*
+**6:2** *So the Philistines called for **their priests and diviners**.*
 
 Not Israelite priests. Their own religious professionals.
 
 ## The advice
 
-*"Don't send it away **empty-handed**. Be sure to send Him **a guilt offering**."*
+**6:3** *"Don't send it away **empty-handed**. Be sure to send Him **a guilt offering**."*
 
 The Hebrew is **asham** — the guilt or trespass offering.
 
@@ -46,7 +46,7 @@ Leviticus 5:14–19.
 
 ## The offering
 
-*"**Five gold tumors and five gold rats**, one for each Philistine ruler."*
+**6:4** *"**Five gold tumors and five gold rats**, one for each Philistine ruler."*
 
 Five, for the five cities — Ashdod, Gaza, Ashkelon, Gath and Ekron.
 
@@ -61,7 +61,7 @@ time.
 
 ## The instruction
 
-*"**Give glory to the God of Israel**. Perhaps He will lighten His hand."*
+**6:5** *"**Give glory to the God of Israel**. Perhaps He will lighten His hand."*
 
 The Hebrew is **tenu kavod** — give glory.
 
@@ -69,7 +69,7 @@ Said by Philistine diviners about a God they do not serve.
 
 ## The warning they use
 
-*"**Why be stubborn like the Egyptians and Pharaoh were?** When God dealt harshly with them,
+**6:6** *"**Why be stubborn like the Egyptians and Pharaoh were?** When God dealt harshly with them,
 didn't they finally let Israel go?"*
 
 They know the story.
@@ -79,7 +79,7 @@ priesthood reasons from.
 
 ## The test
 
-*"Get **a new cart** ready, with **two cows that have calved and have never been yoked**. Hitch
+**6:7** *"Get **a new cart** ready, with **two cows that have calved and have never been yoked**. Hitch
 the cows to the cart, but **take their calves away and pen them up**."*
 
 Untrained cattle, and nursing mothers separated from their young.
@@ -88,9 +88,9 @@ Two variables, both loaded against the result.
 
 ## The falsifiable claim
 
-*"Then send it off, **and watch**."*
+**6:8** *"Then send it off, **and watch**."*
 
-*"If it goes up toward its own territory, toward Beth-shemesh, then **the LORD is the one who
+**6:9** *"If it goes up toward its own territory, toward Beth-shemesh, then **the LORD is the one who
 brought this great disaster on us**. But if it doesn't, we'll know **it wasn't His hand** — it
 just happened to us by chance."*
 
@@ -120,13 +120,13 @@ no driver.
 Every instinct in the animals runs one way. If the cart goes the other way, uphill, in a
 straight line to Beth Shemesh, the diviners have their answer.
 
-*"Come now, and **let us reason together**," says the LORD.*
+**Isaiah 1:18**: *"Come now, and **let us reason together**," says the LORD.*
 
 God does not decline the test. He does not decline Gideon's fleece either, or the request of
 a man who wanted to put his finger in a wound.
 
-And the risen Jesus, to a disciple who had said he would not believe without evidence: *"**Reach
-your finger here, and look at My hands**… Do not be unbelieving, but believing."*
+And the risen Jesus, to a disciple who had said he would not believe without evidence,
+**John 20:27**: *"**Reach your finger here, and look at My hands**… Do not be unbelieving, but believing."*
 
 ## Who is running the experiment
 
@@ -134,7 +134,7 @@ Philistine priests and diviners. Not Israel — Israel does not appear in the ch
 cart arrives.
 
 The men who work out what is happening are the enemy's own religious professionals, and the
-verdict they reach is *He is the God who struck the Egyptians*.
+verdict they reach is, **6:6** again: *He is the God who struck the Egyptians*.
 
 > **What the diviners built.** A test with the null hypothesis stated first. Untrained cows,
 > nursing calves penned up, and an agreement to accept whichever answer came.
