@@ -1558,11 +1558,12 @@
         <!-- KJV only, and only on a chapter the Jesus Bible also covers (Mark,
              Romans, Galatians so far): toggles that chapter's text between the
              plain KJV wording and the Jesus Bible's first-person recasting of
-             the same verses. The Synopsis outline-fold navigation above the
-             verses is unaffected either way -- only the wording inside each
-             fold changes. Shown/hidden per chapter from loadIllum via
-             updateKjvJesusDot(), not from switchTranslation, since coverage is
-             per-book, not per-translation. -->
+             the same verses. On: the Synopsis outline-fold navigation is
+             skipped and the chapter renders plainly under the Jesus Bible's
+             own headings instead -- that reference-page outline is a KJV
+             feature, not something the Jesus Bible carries. Shown/hidden per
+             chapter from loadIllum via updateKjvJesusDot(), not from
+             switchTranslation, since coverage is per-book, not per-translation. -->
         <div class="kjv-jesus-dot" id="kjvJesusDot" onclick="toggleKjvJesus()" style="display:none;" title="show this chapter in the voice of Jesus"></div>
         <!-- Only the KJV carries Expositor's annotations, so this stays hidden
              for every other translation -- shown/hidden from switchTranslation,
@@ -3932,7 +3933,12 @@ let kjvJesusOn = false;
 function toggleKjvJesus() {
   kjvJesusOn = !kjvJesusOn;
   document.getElementById('kjvJesusDot').classList.toggle('on', kjvJesusOn);
-  if (ilChapter) document.getElementById('sectionsContainer').innerHTML = buildIllumChapter(ilChapter);
+  /* ilChapter may currently BE the Jesus Bible chapter (see buildIllumChapter),
+     so re-derive the real KJV chapter from its ref rather than re-feeding
+     whatever's already showing back into itself. */
+  if (!ilChapter) return;
+  const base = corpus().chapters.find(c => c.ref === ilChapter.ref);
+  if (base) document.getElementById('sectionsContainer').innerHTML = buildIllumChapter(base);
 }
 /* Shown only on a KJV chapter the Jesus Bible also covers; null ref (the
    Synopsis reference page, or any other translation) hides it. Called from
@@ -4229,11 +4235,9 @@ function renderIllumVerseP(v, si, vi, ch, book) {
    dropped. */
 function buildKjvSynopsisChapter(ch, book) {
   const leaves = synopsisLeaves(book);
-  /* Flattened across every section rather than just sections[0]: true for
-     plain KJV chapters (always one section) and also for a Jesus Bible
-     chapter passed in here when the KJV dot is toggled on -- those already
-     carry their own headed sections, which this outline ignores entirely
-     in favor of its own grouping. */
+  /* Flattened across every section rather than just sections[0]: plain KJV
+     chapters always carry exactly one. (The Jesus Bible never reaches this
+     function -- see buildIllumChapter -- so there's only ever the one.) */
   const verses = ch.sections.reduce((a, s) => a.concat(s.verses), []);
   if (!leaves || !verses.length) return null;
   const chNum = +ch.ref.slice(book.length).trim();
@@ -4291,8 +4295,6 @@ function buildKjvSynopsisChapter(ch, book) {
 
 function buildIllumChapter(ch) {
   let h = '';
-  ilChapter = ch;
-  if (ch.title) h += '<div class="illum-chap-title">' + ilEsc(ch.title) + '</div>';
   const book = bookOf(ch.ref);
 
   /* KJV only (see buildKjvSynopsisChapter): the book's own Synopsis outline
@@ -4301,20 +4303,21 @@ function buildIllumChapter(ch) {
      usable to build from -- no outline, or this chapter falls outside every
      leaf's range -- and the chapter renders exactly as it always has.
 
-     When the KJV dot is toggled on and this chapter has a Jesus Bible
-     counterpart (see jesusChapterForRef), that chapter's verses are what
-     get sliced into the outline instead of the plain KJV's -- same
-     headings, same folds, different wording underneath them. Falls back to
-     plain KJV wherever no Jesus Bible version of this chapter exists, dot
-     or no dot (updateKjvJesusDot already hides the dot in that case, but
-     buildIllumChapter can also be called directly, e.g. on re-render). */
-  if (currentTx === 'kjv') {
-    const src = (kjvJesusOn && jesusChapterForRef(ch.ref)) || ch;
-    const synH = buildKjvSynopsisChapter(src, book);
+     The Synopsis is a KJV reference-page feature -- it does not apply to the
+     Jesus Bible overlay. When the dot is on, skip it entirely and fall
+     through to the plain section renderer below using the Jesus Bible's own
+     chapter (its own headings, no outline, no folds) instead of the KJV's. */
+  const jesusCh = (currentTx === 'kjv' && kjvJesusOn) ? jesusChapterForRef(ch.ref) : null;
+  const src = jesusCh || ch;
+  ilChapter = src;
+  if (src.title) h += '<div class="illum-chap-title">' + ilEsc(src.title) + '</div>';
+
+  if (currentTx === 'kjv' && !jesusCh) {
+    const synH = buildKjvSynopsisChapter(ch, book);
     if (synH !== null) return h + synH;
   }
 
-  ch.sections.forEach((s, si) => {
+  src.sections.forEach((s, si) => {
     if (s.heading) {
       const sk = secKey(currentTx, ch.ref, si);
       const bm = bookmarks.some(b => b.key === sk);

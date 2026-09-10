@@ -1,5 +1,31 @@
 # CHANGELOG
 
+## 2026-09-09 — Fixed: the Jesus Bible dot was rendering through the Synopsis outline
+
+User-reported: turning on the red Jesus Bible dot still showed the Synopsis outline-fold navigation
+(Roman numeral / letter / number, collapsible folds) with the Jesus Bible's wording sliced into it,
+instead of just reading as the Jesus Bible plainly. This was deliberate as originally built (see the
+2026-09-06 entry below: "the outline is rebuilt from the same source regardless of which chapter's
+verses get sliced into it") but Chris doesn't want the Synopsis treatment applied to the Jesus Bible at
+all — only the plain KJV should get the reference-page outline.
+
+`buildIllumChapter` now skips `buildKjvSynopsisChapter` entirely when the dot is on, and instead renders
+the Jesus Bible chapter the same way the Illumination renders its own chapters: real headed sections,
+no outline, no folds. Since Jesus Bible chapters already carry their own section headings (data/jesus.js
+— "The Beginning of the Good News", "John in the Wilderness", etc.), this is a straight fallthrough to
+the existing plain section renderer, just fed the Jesus Bible's chapter object instead of the KJV's.
+
+Fixed a related latent bug while in there: `ilChapter` (used by bookmark/note/highlight clicks) was
+always the KJV chapter object, including while Jesus Bible sections were the ones actually on screen —
+so bookmarking/noting a Jesus Bible section would have acted on the wrong section index once the outline
+was bypassed. `ilChapter` now tracks whichever chapter's sections are actually rendered, and
+`toggleKjvJesus` re-derives the true KJV chapter from `corpus()` by ref before re-rendering, rather than
+feeding whatever's currently showing back into itself.
+
+Verified: all four data blobs parse; toggling the dot on/off on Mark 1, Romans 1, and Galatians 1 shows
+plain headed sections when on and the Synopsis outline when off; plain KJV chapters (dot hidden or off)
+are byte-identical to before.
+
 ## 2026-09-07 — Fixed: KJV outline weight depended on fold-vs-label, not depth
 
 User-reported, from a screenshot of Hebrews 3: the outline's lettered line ("B.") showed normal weight
