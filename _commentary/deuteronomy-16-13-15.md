@@ -3,14 +3,14 @@ key: Deuteronomy 16:13–15
 title: The feast you are commanded to enjoy
 sources:
   - 2025-04-27 divine-provision-in-every-season
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 Seven days of rejoicing, ordered by statute, with the guest list written into the law.
 
 ## When it happens
 
-*After you have **gathered in the produce of your threshing floor and winepress**.*
+**16:13** *After you have **gathered in the produce of your threshing floor and winepress**.*
 
 The end of the agricultural year. Grain in, grapes pressed, the last harvest home.
 
@@ -18,7 +18,7 @@ Everything is already in the barn before the week begins.
 
 ## The name
 
-*Hold the **Feast of Tabernacles** for seven days.*
+**16:13** again: *Hold the **Feast of Tabernacles** for seven days.*
 
 The Hebrew is **Chag haSukkot** — the feast of booths.
 
@@ -26,7 +26,7 @@ The Hebrew is **Chag haSukkot** — the feast of booths.
 
 ## Why
 
-*That your generations may know that **I made the children of Israel dwell in booths** when I brought
+**Leviticus 23:43**: *That your generations may know that **I made the children of Israel dwell in booths** when I brought
 them out of the land of Egypt.*
 
 At the point of maximum security — full barns, settled land — they move outdoors into shelters.
@@ -35,7 +35,7 @@ The prosperity festival is kept in a hut.
 
 ## The command
 
-*Be **full of joy** at your feast.*
+**16:14** *Be **full of joy** at your feast.*
 
 The Hebrew is **vesamachta bechagecha** — you shall rejoice in your feast.
 
@@ -43,7 +43,7 @@ An imperative. Joy in the grammatical form of an order.
 
 ## The list
 
-*You, your sons and daughters, **your servants**, and **the Levite, the foreigner, the fatherless, and
+**16:14** again: *You, your sons and daughters, **your servants**, and **the Levite, the foreigner, the fatherless, and
 the widow** who live in your towns.*
 
 Seven categories.
@@ -64,13 +64,13 @@ not lawful without them.
 
 ## Where it is kept
 
-*For seven days celebrate to the LORD your God **at the place He chooses**.*
+**16:15** *For seven days celebrate to the LORD your God **at the place He chooses**.*
 
 Not at home. Everyone travels.
 
 ## The reason given
 
-*For the LORD your God **will bless you in all your harvest and all the work of your hands**.*
+**16:15** again: *For the LORD your God **will bless you in all your harvest and all the work of your hands**.*
 
 The Hebrew is **ki yevarechecha** — because He will bless you.
 
@@ -78,7 +78,7 @@ The rejoicing is not a bid for blessing. The blessing is the stated ground of it
 
 ## The last clause
 
-*And **your joy will be complete**.*
+**16:15** again: *And **your joy will be complete**.*
 
 The Hebrew is **vehayita ach sameach** — and you shall be only joyful.
 

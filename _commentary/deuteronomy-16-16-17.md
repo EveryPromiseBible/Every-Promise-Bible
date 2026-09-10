@@ -1,13 +1,13 @@
 ---
 key: Deuteronomy 16:16–17
 title: No one comes empty-handed
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 Three appointments a year, and one instruction about what to bring.
 
 ## The three
 
-*"At the **Feast of Unleavened Bread**, the **Feast of Weeks**, and the **Feast of
+**16:16** *"At the **Feast of Unleavened Bread**, the **Feast of Weeks**, and the **Feast of
 Tabernacles**."*
 
 The three pilgrim feasts, the ones every man travelled for. They cluster at the two ends of
@@ -18,26 +18,26 @@ later. Tabernacles in the seventh month, when everything is gathered in.
 
 ## What they turned out to be
 
-*Christ, our Passover, was sacrificed for us.*
+**1 Corinthians 5:7**: *Christ, our Passover, was sacrificed for us.*
 
-*He has become **the firstfruits** of those who have fallen asleep.* Firstfruits is waved
+**1 Corinthians 15:20**: *He has become **the firstfruits** of those who have fallen asleep.* Firstfruits is waved
 during Unleavened Bread, on the day after the Sabbath.
 
-*When **the Day of Pentecost** had fully come, they were all with one accord in one place.*
+**Acts 2:1**: *When **the Day of Pentecost** had fully come, they were all with one accord in one place.*
 
 The first two sets of appointments were kept to the day. See the note on
 Genesis 1:14–19, where the calendar is hung in the sky on the fourth day.
 
 ## Where they go
 
-*"At **the place He chooses**."*
+**16:16** again: *"At **the place He chooses**."*
 
 Repeated all through Deuteronomy and never named. The book will not say Jerusalem; it says the
 place He will choose.
 
 ## The one instruction
 
-*"**No one is to come before the LORD empty-handed.**"*
+**16:16** again: *"**No one is to come before the LORD empty-handed.**"*
 
 The Hebrew is **reiqam** — empty, void.
 
@@ -49,7 +49,7 @@ both.
 
 ## The measure
 
-*"Each is to bring a gift **in keeping with the blessing the LORD your God has given him**."*
+**16:17** *"Each is to bring a gift **in keeping with the blessing the LORD your God has given him**."*
 
 The Hebrew is *according to the gift of his hand, according to the blessing which He has
 given you*.
