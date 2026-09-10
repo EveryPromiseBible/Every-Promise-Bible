@@ -3,14 +3,14 @@ key: Deuteronomy 7:12–15
 title: "He will keep every sickness far from you"
 sources:
   - 2020-08-09 break-free-from-the-chains-of-condemnation
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 A long sentence of blessings, and the first word of it is *if*.
 
 ## The condition
 
-*If you **listen** to these rulings, and **keep** them, and **live them out**.*
+**7:12** *If you **listen** to these rulings, and **keep** them, and **live them out**.*
 
 Three verbs, and the Hebrew of the first is *because you hear*.
 
@@ -19,7 +19,7 @@ generation about to cross. The book is full of these conditional constructions.
 
 ## What God keeps
 
-*Then the LORD your God will **keep His covenant and His steadfast love** with you, **just
+**7:12** again: *Then the LORD your God will **keep His covenant and His steadfast love** with you, **just
 as He swore to your fathers**.*
 
 The Hebrew is **chesed** — covenant loyalty.
@@ -29,11 +29,11 @@ fathers*. See the note on Genesis 22:15–18.
 
 ## The three verbs
 
-*He will **love you** and **bless you** and **multiply you**.*
+**7:13** *He will **love you** and **bless you** and **multiply you**.*
 
 ## What is multiplied
 
-*The **fruit of your body** and the **fruit of your ground**, your **grain**, your **new
+**7:13** again: *The **fruit of your body** and the **fruit of your ground**, your **grain**, your **new
 wine**, your **oil**, the **young of your herds** and the **lambs of your flocks**.*
 
 Children, crops and livestock — the whole economy of an agricultural people, itemised.
@@ -43,11 +43,11 @@ Isaac gave Jacob. See the note on Genesis 27:28–29.
 
 ## The comparison
 
-*You will be **blessed above all peoples**.*
+**7:14** *You will be **blessed above all peoples**.*
 
 ## The two absences
 
-*None among you, **man or woman, will be childless**, and **none of your livestock
+**7:14** again: *None among you, **man or woman, will be childless**, and **none of your livestock
 barren**.*
 
 Barrenness is the recurring grief of the patriarchal narratives — Sarah, Rebekah, Rachel,
@@ -55,23 +55,23 @@ and later Hannah.
 
 ## The sickness clause
 
-*The LORD will **keep every sickness far from you**.*
+**7:15** *The LORD will **keep every sickness far from you**.*
 
 The Hebrew is *the LORD will take away from you all sickness*.
 
 ## The named diseases
 
-*He will **not lay on you any of the terrible diseases of Egypt that you knew**.*
+**7:15** again: *He will **not lay on you any of the terrible diseases of Egypt that you knew**.*
 
 **That you knew** — they had watched them. Egypt's medical papyri record its endemic
 conditions, and Israel had lived there four hundred years.
 
-Exodus 15 had already promised it, with a name attached: *I will put none of the diseases
+Exodus 15 had already promised it, with a name attached, **Exodus 15:26**: *I will put none of the diseases
 on you which I have brought on the Egyptians. For **I am the LORD who heals you**.*
 
 ## Where they go instead
 
-*But He will **lay them on all who hate you**.*
+**7:15** again: *But He will **lay them on all who hate you**.*
 
 ## What kind of passage this is
 
@@ -84,7 +84,7 @@ The terms are total in both directions.
 
 ## What is in the same chapter
 
-*The LORD did not set His love on you nor choose you because you were more in number than
+**7:7–8**: *The LORD did not set His love on you nor choose you because you were more in number than
 any other people, **for you were the least of all peoples**; but **because the LORD loves
 you**, and because He would keep the oath which He swore to your fathers.*
 
