@@ -3,7 +3,7 @@ key: 2 Samuel 5:6–10
 title: Up through the water shaft
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 David takes a city nobody had taken, and the account is mostly about an insult.
@@ -11,7 +11,7 @@ David takes a city nobody had taken, and the account is mostly about an insult.
 ## Where he has got to
 
 Seven and a half years as king in Hebron over Judah alone, and now the northern tribes have
-come: *we are your bone and your flesh*.
+come, **5:1**: *we are your bone and your flesh*.
 
 Thirty-seven and a half years old, anointed as a boy, and finally king over all Israel.
 
@@ -19,12 +19,12 @@ The first thing he does is march on Jerusalem.
 
 ## Who held it
 
-*The **Jebusites** who lived there.*
+**5:6** *The **Jebusites** who lived there.*
 
 A Canaanite enclave that had survived the entire conquest. Joshua killed its king; Judah burned
 the lower city; and the Jebusites were still in the citadel four hundred years later.
 
-*The children of Benjamin did not drive out the Jebusites who inhabited Jerusalem; but the
+**Judges 1:21**: *The children of Benjamin did not drive out the Jebusites who inhabited Jerusalem; but the
 Jebusites dwell with the children of Benjamin to this day.*
 
 It sat on the border between Judah and Benjamin, which is part of why nobody had dealt with
@@ -32,7 +32,7 @@ it — and part of why it made a good capital for a united kingdom. It belonged 
 
 ## The taunt
 
-*"**You'll never get in here. Even the blind and the lame could turn you back**."*
+**5:6** again: *"**You'll never get in here. Even the blind and the lame could turn you back**."*
 
 The Hebrew is difficult, and this is the usual reading: the defence is so strong that disabled
 men on the wall would be enough.
@@ -46,7 +46,7 @@ the wall at the bottom of the eastern slope.
 
 ## The way in
 
-*"Whoever wants to strike the Jebusites, **let him go up through the water shaft**."*
+**5:8** *"Whoever wants to strike the Jebusites, **let him go up through the water shaft**."*
 
 The Hebrew is **tsinnor** — a word that occurs twice in the Bible and probably means a
 watercourse or conduit.
@@ -56,16 +56,16 @@ spring to a tunnel inside the walls. Whether that is the one is argued about.
 
 The city's one weakness is the thing it could not do without.
 
-Chronicles adds who went: *whoever attacks the Jebusites first shall be chief and captain. And
+Chronicles adds who went, **1 Chronicles 11:6**: *whoever attacks the Jebusites first shall be chief and captain. And
 **Joab the son of Zeruiah went up first**, and became chief.*
 
 ## The taking
 
-*But David **captured the fortress of Zion — the City of David**.*
+**5:7** *But David **captured the fortress of Zion — the City of David**.*
 
 ## The building
 
-*So David settled into the fortress and called it the City of David, and **he built up the area
+**5:9** *So David settled into the fortress and called it the City of David, and **he built up the area
 around it, from the terraces inward**.*
 
 The Hebrew is **millo** — the filling. An earthwork or terrace system, and Solomon works on it
@@ -73,7 +73,7 @@ later.
 
 ## The line
 
-*And **David grew greater and greater, for the LORD God of hosts was with him**.*
+**5:10** *And **David grew greater and greater, for the LORD God of hosts was with him**.*
 
 The Hebrew is *going and growing great*.
 
@@ -101,16 +101,16 @@ Testament calling it the city of God.
 
 ## What the taunt became
 
-*"**You will not come in here; even the blind and the lame will drive you back.**"*
+**5:6** again: *"**You will not come in here; even the blind and the lame will drive you back.**"*
 
 The Jebusites are saying the walls are so strong a garrison of invalids could hold them.
 
-And it sticks. The chapter records the saying that came out of it: *"the blind and the lame
+And it sticks. The chapter records the saying that came out of it, **5:8** again: *"the blind and the lame
 shall not come into the house."*
 
 ## Where that sentence is reversed
 
-*Then **the blind and the lame came to Him in the temple, and He healed them**.*
+**Matthew 21:14**: *Then **the blind and the lame came to Him in the temple, and He healed them**.*
 
 Matthew records it on the day Jesus cleared the tables, in the house David's son built, in the
 city David took — and it is the one place in the gospels that clause appears.
@@ -118,14 +118,14 @@ city David took — and it is the one place in the gospels that clause appears.
 The people the taunt had barred from the house are brought into it and healed, by the son of
 the man the taunt was aimed at.
 
-*And the chief priests and scribes were indignant.*
+**Matthew 21:15**: *And the chief priests and scribes were indignant.*
 
 ## What the city becomes
 
-*So David dwelt in the stronghold, and called it **the City of David**.*
+**5:9** again: *So David dwelt in the stronghold, and called it **the City of David**.*
 
-Zion. The name runs from here to *the LORD has chosen Zion*, to *out of Zion shall go forth
-the law*, to *you have come to Mount Zion… to Jesus the Mediator of the new covenant*.
+Zion. The name runs from here to, **Psalm 132:13**: *the LORD has chosen Zion*, to, **Micah 4:2**: *out of Zion shall go forth
+the law*, to, **Hebrews 12:22, 24**: *you have come to Mount Zion… to Jesus the Mediator of the new covenant*.
 
 > **The way in.** The one thing the fortress could not seal — its water. A city that could not
 > be stormed was entered through the channel that kept it alive.
