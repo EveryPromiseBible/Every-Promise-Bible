@@ -3,14 +3,14 @@ key: Joshua 5:10–12
 title: The day the manna stopped
 sources:
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Three verses, and one of them ends forty years of supply.
 
 ## Where they are
 
-*The Israelites camped at **Gilgal**, and there **on the plains of Jericho**.*
+**5:10** *The Israelites camped at **Gilgal**, and there **on the plains of Jericho**.*
 
 Across the Jordan, in the land, with a walled city in sight and no campaign started yet.
 
@@ -19,14 +19,14 @@ Across the Jordan, in the land, with a walled city in sight and no campaign star
 Circumcision. The whole generation born in the wilderness had not been circumcised, and Joshua
 does it at Gilgal — which puts an entire army out of action for days, in enemy territory.
 
-*And the LORD said to Joshua, "**This day I have rolled away the reproach of Egypt from you**."
+**5:9** *And the LORD said to Joshua, "**This day I have rolled away the reproach of Egypt from you**."
 Therefore the name of the place is called Gilgal.*
 
 The Hebrew is **galal**, to roll.
 
 ## The date
 
-*On the evening of the **fourteenth day of the month**, they kept the Passover.*
+**5:10** again: *On the evening of the **fourteenth day of the month**, they kept the Passover.*
 
 They had crossed on the tenth — lamb selection day — and kept the feast on the fourteenth, on
 schedule. See the note on Joshua 4:19–24.
@@ -36,7 +36,7 @@ about to attack.
 
 ## The meal
 
-*The day after the Passover, they ate **the produce of the land — unleavened bread and roasted
+**5:11** *The day after the Passover, they ate **the produce of the land — unleavened bread and roasted
 grain** — on that very day.*
 
 The Hebrew is **avur ha'arets** — the produce of the land.
@@ -45,7 +45,7 @@ Grain that grew there. Nobody had planted it and nobody had harvested it before 
 
 ## The cessation
 
-*And **the manna stopped the day after they ate from the land**. There was **no more manna** for
+**5:12** *And **the manna stopped the day after they ate from the land**. There was **no more manna** for
 the people of Israel.*
 
 Forty years, six days a week, with a double portion on the sixth. See the note on
@@ -64,14 +64,14 @@ Nothing is withdrawn before the replacement is in hand.
 
 Not disobedience. Manna was wilderness food, for people with no fields.
 
-*And the children of Israel ate manna forty years, **until they came to a land inhabited**;
+**Exodus 16:35**: *And the children of Israel ate manna forty years, **until they came to a land inhabited**;
 they ate manna until they came to the border of the land of Canaan.*
 
 Exodus stated the end condition when the manna began.
 
 ## What replaced it
 
-*That year they **ate the fruit of the land of Canaan**.*
+**5:12** again: *That year they **ate the fruit of the land of Canaan**.*
 
 Work, harvest, seasons. A different arrangement, and a harder one.
 
@@ -85,39 +85,39 @@ The manna made forgetting difficult. Fields make it easy.
 
 Joshua looks up and sees a man with a drawn sword.
 
-*"Are You for us or for our adversaries?" So He said, "**No, but as Commander of the army of
+**Joshua 5:14**: *"Are You for us or for our adversaries?" So He said, "**No, but as Commander of the army of
 the LORD I have now come**."*
 
-And: *"Take your sandal off your foot, for the place where you stand is holy."*
+And, **Joshua 5:15**: *"Take your sandal off your foot, for the place where you stand is holy."*
 
 The same instruction as the bush. See the note on Exodus 3:4–6.
 
 ## The jar that was kept
 
-*"Fill an omer with it, to be kept for your generations."*
+**Exodus 16:32**: *"Fill an omer with it, to be kept for your generations."*
 
 A jar of manna, inside the ark, after the supply stopped.
 
 ## What He says about it
 
-*"Your fathers ate the manna in the wilderness, and are dead. This is the bread which comes
+**John 6:49–51**: *"Your fathers ate the manna in the wilderness, and are dead. This is the bread which comes
 down from heaven, that one may eat of it and not die. **I am the living bread**."*
 
 ## Which meal they had just eaten
 
-*They kept the Passover on the fourteenth day of the month, at twilight, on the plains of
+**5:10** again: *They kept the Passover on the fourteenth day of the month, at twilight, on the plains of
 Jericho.*
 
 The first Passover in the land, and the manna stops the morning after it.
 
-*For indeed **Christ, our Passover, was sacrificed for us**. Therefore let us keep the feast.*
+**1 Corinthians 5:7–8**: *For indeed **Christ, our Passover, was sacrificed for us**. Therefore let us keep the feast.*
 
 ## What both supplies had in common
 
 Manna and harvest came from the same hand. What changed is that they were standing in the
 country instead of walking toward it.
 
-*Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with **every
+**Ephesians 1:3**: *Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with **every
 spiritual blessing in the heavenly places in Christ**.*
 
 ## Who turns up next
@@ -125,7 +125,7 @@ spiritual blessing in the heavenly places in Christ**.*
 *And it came to pass, when Joshua was by Jericho, that he lifted his eyes and looked, and
 behold, **a Man stood opposite him with His sword drawn**.* See the note on Joshua 5:13–15.
 
-Joshua asks whose side He is on and is told neither — *as Commander of the army of the LORD I
+Joshua asks whose side He is on and is told neither, **Joshua 5:14** again: *as Commander of the army of the LORD I
 have now come* — and then told to take off his sandals, which is what was said at the bush.
 
 > **The order.** They ate the new food, and the old supply stopped the next morning. Nothing

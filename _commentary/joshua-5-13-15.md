@@ -3,14 +3,14 @@ key: Joshua 5:13–15
 title: Neither
 sources:
   - 2025-06-22 no-more-fear-of-death
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 He asks which side the man is on, and the answer is that the question is wrong.
 
 ## Where it happens
 
-*One day, while Joshua was **near Jericho**.*
+**5:13** *One day, while Joshua was **near Jericho**.*
 
 The Hebrew is **biricho** — in Jericho, or by it.
 
@@ -18,7 +18,7 @@ A commander doing reconnaissance on a walled city he has been told to take.
 
 ## What he sees
 
-*He **looked up and saw a man standing before him, a drawn sword in his hand**.*
+**5:13** again: *He **looked up and saw a man standing before him, a drawn sword in his hand**.*
 
 The Hebrew is **ish** — a man. That is all the text gives at first.
 
@@ -26,19 +26,19 @@ The Hebrew is **ish** — a man. That is all the text gives at first.
 
 ## What he does
 
-*Joshua **walked up to him**.*
+**5:13** again: *Joshua **walked up to him**.*
 
 Toward the drawn sword, alone, at night, outside an enemy city.
 
 ## The question
 
-*"**Are you for us, or for our enemies**?"*
+**5:13** again: *"**Are you for us, or for our enemies**?"*
 
 The only two categories available to a general.
 
 ## The answer
 
-*"**Neither**," the man answered.*
+**5:14** *"**Neither**," the man answered.*
 
 The Hebrew is **lo** — no.
 
@@ -50,7 +50,7 @@ Joshua asked whose side He was on. The reply declines to be placed on a side at 
 
 ## The correction
 
-*"**I have come now as the commander of the army of the LORD**."*
+**5:14** again: *"**I have come now as the commander of the army of the LORD**."*
 
 The Hebrew is **sar-tzeva-YHWH** — prince of the host of the LORD.
 
@@ -65,17 +65,17 @@ The man with the drawn sword announces that the position is taken.
 
 ## The response
 
-*And Joshua **fell facedown to the ground in worship** and said, "**What does my Lord command His
+**5:14** again: *And Joshua **fell facedown to the ground in worship** and said, "**What does my Lord command His
 servant**?"*
 
 The Hebrew is **vayishtachu** — he prostrated himself.
 
-An angel would refuse this. Twice in Revelation: *see that you do not do that! I am your fellow
+An angel would refuse this. Twice in Revelation, **Revelation 22:9**: *see that you do not do that! I am your fellow
 servant*.
 
 ## What he is told
 
-*"**Take off your sandals from your feet, for the place where you are standing is holy**."*
+**5:15** *"**Take off your sandals from your feet, for the place where you are standing is holy**."*
 
 Almost word for word what Moses was told at the bush. See the note on Exodus 3:1–3.
 
@@ -83,7 +83,7 @@ The Hebrew there is **shal-ne'aleicha me'al ragleicha**. Here it is nearly ident
 
 ## The last three words
 
-*And Joshua did.*
+**5:15** again: *And Joshua did.*
 
 No argument, no question about the battle plan.
 
@@ -106,10 +106,10 @@ its form.
 
 ## The sword
 
-*Then the LORD will go forth and fight against those nations, as He fights in the day of battle.*
+**Zechariah 14:3**: *Then the LORD will go forth and fight against those nations, as He fights in the day of battle.*
 
 And the rider on the white horse, *out of whose mouth goes a sharp sword*. See the note on
 Revelation 19:11.
 
-> **The refusal.** *Are You for us or for our enemies?* — *Neither.* He does not take sides in
+> **The refusal.** **5:13–14** again: *Are You for us or for our enemies?* — *Neither.* He does not take sides in
 > Joshua's war. He arrives with an army of His own and takes the command.
