@@ -3,7 +3,7 @@ key: Numbers 23:4–6
 title: A word put in his mouth
 sources:
   - 2021-10-24 baptism-of-the-holy-spirit
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 A hired diviner builds seven altars and gets a sentence he cannot edit.
@@ -18,7 +18,7 @@ the road and spoke to him.
 
 ## What he has built
 
-*"I have set up **seven altars**, and on each altar I have offered **a bull and a ram**."*
+**23:4** *"I have set up **seven altars**, and on each altar I have offered **a bull and a ram**."*
 
 Seven of each, and he reports it like a man presenting an invoice.
 
@@ -29,7 +29,7 @@ The number is right, the animals are right, and nothing about it works the way h
 
 ## The meeting
 
-*God met Balaam.*
+**23:4** again: *God met Balaam.*
 
 The Hebrew is **vayyiqqar** — a word suggesting an encounter, and possibly a chance one. Some
 read it as *happened upon*.
@@ -38,7 +38,7 @@ He is not a prophet of Israel. God meets him anyway.
 
 ## The word
 
-*And **the LORD put a word in Balaam's mouth**.*
+**23:5** *And **the LORD put a word in Balaam's mouth**.*
 
 The Hebrew is **vayyasem devar bephi Bil'am** — placed a word in his mouth.
 
@@ -49,25 +49,25 @@ Here it is used of a man being paid to say the opposite.
 
 ## The instruction
 
-*"**Return to Balak, and this is what you will say**."*
+**23:5** again: *"**Return to Balak, and this is what you will say**."*
 
 The content is fixed before he opens his mouth.
 
 ## The scene he goes back to
 
-*And there he was, standing beside his burnt offering, **he and all the officials of Moab**.*
+**23:6** *And there he was, standing beside his burnt offering, **he and all the officials of Moab**.*
 
 A king and his court standing round an altar waiting for a curse.
 
 ## What comes out
 
-*"How shall I curse whom God has not cursed? And how shall I denounce whom the LORD has not
+**23:8**: *"How shall I curse whom God has not cursed? And how shall I denounce whom the LORD has not
 denounced?"*
 
-And Balak's reaction: *"What have you done to me? I took you to curse my enemies, and look,
+And Balak's reaction, **23:11**: *"What have you done to me? I took you to curse my enemies, and look,
 you have blessed them bountifully!"*
 
-*"Must I not take heed to speak what the LORD has put in my mouth?"*
+**23:12**: *"Must I not take heed to speak what the LORD has put in my mouth?"*
 
 ## The next three
 
@@ -76,7 +76,7 @@ Three more attempts, three more hilltops, and each oracle is better than the las
 The fourth is the finest writing in the book: *how lovely are your tents, O Jacob!* See the
 note on Numbers 24:3–9.
 
-And in the middle of the third: *God is not a man, that He should lie, nor a son of man, that
+And in the middle of the third, **23:19**: *God is not a man, that He should lie, nor a son of man, that
 He should repent*.
 
 ## What he does afterwards
@@ -84,19 +84,19 @@ He should repent*.
 Balak sends him home unpaid. And then Numbers 25 happens — Israel joins itself to Baal of
 Peor, and twenty-four thousand die.
 
-Later the text explains why: *they caused the children of Israel, **through the counsel of
+Later the text explains why, **Numbers 31:16**: *they caused the children of Israel, **through the counsel of
 Balaam**, to trespass against the LORD*.
 
 He could not curse them, so he advised Balak how to get them to curse themselves.
 
 ## What the New Testament makes of him
 
-Peter: *they have forsaken the right way and gone astray, following the way of Balaam the son
+Peter, **2 Peter 2:15**: *they have forsaken the right way and gone astray, following the way of Balaam the son
 of Beor, who loved the wages of unrighteousness*.
 
-Jude: *they have run greedily in the error of Balaam for profit*.
+Jude, **Jude 1:11**: *they have run greedily in the error of Balaam for profit*.
 
-Revelation: *you have there those who hold the doctrine of Balaam*.
+Revelation, **Revelation 2:14**: *you have there those who hold the doctrine of Balaam*.
 
 Three writers, three references, and every one is about money.
 

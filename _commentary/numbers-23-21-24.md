@@ -4,14 +4,14 @@ title: "He sees no wrong in Jacob"
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
   - 2024-01-28 be-washed-and-refreshed-by-his-word
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 The second half of the oracle, and the first line of it is the one to stop on.
 
 ## The sentence
 
-*"**He sees no wrong in Jacob, no trouble laid up against Israel**."*
+**23:21** *"**He sees no wrong in Jacob, no trouble laid up against Israel**."*
 
 The Hebrew is *He has not beheld iniquity in Jacob, nor has He seen trouble in Israel*.
 
@@ -33,14 +33,14 @@ He cannot see individuals from there. He sees the arrangement.
 
 ## What God is doing in the camp
 
-*"**The LORD their God is with them**, and **the shout of the King is among them**."*
+**23:21** again: *"**The LORD their God is with them**, and **the shout of the King is among them**."*
 
 The Hebrew for *shout* is **teruah** — the blast of the trumpet, the shout that goes up
 when a king arrives among his people.
 
 ## The exodus
 
-*"**God brought them out of Egypt**; they have **the strength of a wild ox**."*
+**23:22** *"**God brought them out of Egypt**; they have **the strength of a wild ox**."*
 
 The Hebrew is **reem** — the wild ox, an animal nobody could domesticate.
 
@@ -48,7 +48,7 @@ Balaam repeats this line in the next oracle as well.
 
 ## The two negatives
 
-*"**There is no spell against Jacob, no divination against Israel**."*
+**23:23** *"**There is no spell against Jacob, no divination against Israel**."*
 
 The Hebrew words are the technical terms of Balaam's own profession — enchantment and
 augury.
@@ -58,7 +58,7 @@ his trade does not work here.
 
 ## What is said about them instead
 
-*"Now it is said of Jacob and of Israel, '**See what God has done!**'"*
+**23:23** again: *"Now it is said of Jacob and of Israel, '**See what God has done!**'"*
 
 The Hebrew is *what has God wrought* — the sentence Samuel Morse chose for the first
 telegraph message.
@@ -67,14 +67,14 @@ The report about Israel is a report about God.
 
 ## The lion
 
-*"Look — **a people rising like a lioness, lifting itself like a lion**."*
+**23:24** *"Look — **a people rising like a lioness, lifting itself like a lion**."*
 
-The lion image belongs to Judah, from Jacob's blessing in Genesis 49: *Judah is a lion's
+The lion image belongs to Judah, from Jacob's blessing in Genesis 49, **Genesis 49:9**: *Judah is a lion's
 whelp… he bows down, he lies down as a lion; who shall rouse him?*
 
 ## What the fourth oracle says
 
-*"**I see Him, but not now; I behold Him, but not near. A Star shall come out of Jacob; a
+**Numbers 24:17**: *"**I see Him, but not now; I behold Him, but not near. A Star shall come out of Jacob; a
 Scepter shall rise out of Israel**."*
 
 The last thing the hired diviner says about Israel is about a star.
@@ -101,13 +101,13 @@ the tablets and God was blood, and that is what God was looking at.
 
 ## What the New Testament calls this
 
-*Blessed are those whose lawless deeds are forgiven, and whose sins are covered. **Blessed is
+**Romans 4:7–8**: *Blessed are those whose lawless deeds are forgiven, and whose sins are covered. **Blessed is
 the man to whom the LORD shall not impute sin**.*
 
 Paul quotes David to prove it and then applies it to anybody who believes. The word is
 **logizomai** — to reckon, to enter in an account.
 
-*God was in Christ reconciling the world to Himself, **not imputing their trespasses to
+**2 Corinthians 5:19**: *God was in Christ reconciling the world to Himself, **not imputing their trespasses to
 them**.*
 
 Balaam's sentence is not that nothing happened in the camp. Numbers has recorded all of it —
@@ -116,15 +116,15 @@ with the blood between.
 
 ## The last thing the diviner says
 
-*"I see Him, but not now; I behold Him, but not near. **A Star shall come out of Jacob; a
+**Numbers 24:17** again: *"I see Him, but not now; I behold Him, but not near. **A Star shall come out of Jacob; a
 Scepter shall rise out of Israel**."*
 
-*"We have seen **His star** in the East and have come to worship Him."*
+**Matthew 2:2**: *"We have seen **His star** in the East and have come to worship Him."*
 
 Wise men out of the east, following a star, arriving at a house in Bethlehem — and the last
 recorded oracle of a hired eastern diviner is the one that put a star over Jacob.
 
-*I am the Root and the Offspring of David, **the Bright and Morning Star**.*
+**Revelation 22:16**: *I am the Root and the Offspring of David, **the Bright and Morning Star**.*
 
 > **What the sentence is not.** A statement that nothing happened in the camp. Numbers
 > records it all. It is what God says He sees, spoken by a man who was paid to say
