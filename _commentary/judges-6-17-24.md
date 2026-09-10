@@ -3,14 +3,14 @@ key: Judges 6:17–24
 title: The LORD is peace
 sources:
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Gideon asks for proof and then asks the visitor to wait while he cooks.
 
 ## The request
 
-*"Give me **a sign that it is really You** speaking with me. Please, **don't leave
+**6:17–18**: *"Give me **a sign that it is really You** speaking with me. Please, **don't leave
 until I return**."*
 
 He has just been called *mighty man of valour* while threshing wheat in a winepress,
@@ -20,14 +20,14 @@ He wants confirmation, and he is not rebuked for wanting it.
 
 ## The answer
 
-*"**I will wait until you come back.**"*
+**6:18** again: *"**I will wait until you come back.**"*
 
 Four words. Whatever Gideon takes to prepare a meal — and it turns out to be
 considerable — the visitor sits under the oak.
 
 ## What he brings
 
-*A **young goat**, and **from an ephah of flour** he made bread without yeast. He put
+**6:19** *A **young goat**, and **from an ephah of flour** he made bread without yeast. He put
 the meat in a basket and **the broth in a pot**.*
 
 An ephah is something like twenty-two litres of flour. That is an enormous quantity —
@@ -41,7 +41,7 @@ feast.
 
 ## What is done with it
 
-*"Take the meat and the bread and **lay them on this rock**, and **pour out the
+**6:20** *"Take the meat and the bread and **lay them on this rock**, and **pour out the
 broth**."*
 
 Not eaten. Put on a stone, and the liquid poured away.
@@ -50,42 +50,42 @@ The meal becomes an offering, and the rock becomes an altar.
 
 ## The fire
 
-*Then the angel of the LORD **reached out the staff** in His hand, and **its tip
+**6:21** *Then the angel of the LORD **reached out the staff** in His hand, and **its tip
 touched** the meat and the bread. **Fire blazed up from the rock** and consumed them.*
 
 A touch of a staff tip, and fire out of stone.
 
-*And the angel of the LORD vanished from his sight.*
+**6:21** again: *And the angel of the LORD vanished from his sight.*
 
 ## What Gideon says
 
-*"**Alas, Lord GOD! I have seen the angel of the LORD face to face!**"*
+**6:22** *"**Alas, Lord GOD! I have seen the angel of the LORD face to face!**"*
 
-He is terrified, because the belief was that no one sees God and lives — *you cannot
+He is terrified, because the belief was that no one sees God and lives, **Exodus 33:20**: *you cannot
 see My face; for no man shall see Me, and live.*
 
 ## The answer
 
-*"**Peace to you. Do not be afraid. You will not die.**"*
+**6:23** *"**Peace to you. Do not be afraid. You will not die.**"*
 
 Three short sentences. The fear is addressed before anything else is said.
 
 ## The altar
 
-*So Gideon built an altar there and named it **The LORD Is Peace**.*
+**6:24** *So Gideon built an altar there and named it **The LORD Is Peace**.*
 
 Hebrew **Yahweh-Shalom**.
 
 He names it after the sentence he was given, not after the fire.
 
-And the writer adds: *to this day it still stands at Ophrah.*
+And the writer adds, **6:24** again: *to this day it still stands at Ophrah.*
 
 ## What he does that night
 
 The next paragraph: told to tear down his father's altar to Baal and cut down the
 Asherah.
 
-*He did it **by night**, because he was too afraid of his father's household and the
+**6:27**: *He did it **by night**, because he was too afraid of his father's household and the
 men of the town to do it by day.*
 
 Judges records both — he obeyed, and he was frightened. The book does not tidy him
@@ -93,7 +93,7 @@ up.
 
 ## The name he gives it
 
-*So Gideon built an altar there to the LORD, and called it **The-LORD-Is-Peace**.*
+**6:24** again: *So Gideon built an altar there to the LORD, and called it **The-LORD-Is-Peace**.*
 
 **YHWH Shalom.**
 
@@ -101,20 +101,20 @@ He builds it before the fleece, before the three hundred, and before a single Mi
 touched. The first thing he does after being commissioned is name an altar *peace* — with the
 enemy still camped in the valley.
 
-*Therefore, **having been justified by faith, we have peace with God through our Lord Jesus
+**Romans 5:1**: *Therefore, **having been justified by faith, we have peace with God through our Lord Jesus
 Christ**.*
 
 The peace is not the outcome of the campaign. It is the ground it is fought from.
 
 ## Why he thought he would die
 
-*"Alas, O Lord GOD! **For I have seen the Angel of the LORD face to face**."*
+**6:22** again: *"Alas, O Lord GOD! **For I have seen the Angel of the LORD face to face**."*
 
-And the answer: *"**Peace be with you; do not fear**, you shall not die."*
+And the answer, **6:23** again: *"**Peace be with you; do not fear**, you shall not die."*
 
 ## Where those words are said again
 
-*Then, the same day at evening… Jesus came and stood in the midst, and said to them, "**Peace
+**John 20:19–20**: *Then, the same day at evening… Jesus came and stood in the midst, and said to them, "**Peace
 be with you.**" When He had said this, **He showed them His hands and His side**.*
 
 A locked room, frightened men, and the first word out of His mouth — and then the proof of

@@ -7,7 +7,7 @@ sources:
   - 2020-02-09 protection-from-deadly-viruses-answers-from-psalm-91
   - 2022-09-04 powerful-keys-to-unlocking-gods-word
   - 2026-05-31 speak-by-faith-not-by-sight
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 An angel greets a man hiding in a hole with a title that describes nobody in the
@@ -15,7 +15,7 @@ vicinity.
 
 ## Where he is
 
-*Gideon was there, **beating out wheat in a winepress** — hiding, really, keeping
+**6:11** *Gideon was there, **beating out wheat in a winepress** — hiding, really, keeping
 the grain out of Midian's sight.*
 
 You thresh wheat on a high, open floor, so the wind can carry the chaff away. A
@@ -26,7 +26,7 @@ cannot see him from.
 
 ## The greeting
 
-*"**The LORD is with you, mighty man of valour.**"*
+**6:12** *"**The LORD is with you, mighty man of valour.**"*
 
 The Hebrew is **gibbor chayil** — a warrior, a man of force. It is the phrase used
 of David's mighty men.
@@ -45,19 +45,19 @@ Genesis 17:3–8.
 
 ## What Gideon says back
 
-*"**If the LORD is with us, then why has all this come upon us?** Where are all His
+**6:13** *"**If the LORD is with us, then why has all this come upon us?** Where are all His
 wonders that our fathers told us about?"*
 
 He argues with the greeting. He has heard about the exodus and can see the winepress
 he is sitting in, and he says so.
 
-*"But now **He has abandoned us** and handed us over to Midian."*
+**6:13** again: *"But now **He has abandoned us** and handed us over to Midian."*
 
 There is no faith in the reply, and the angel does not correct it.
 
 ## "Go in this strength of yours"
 
-*"**Go in this strength of yours**, and you will save Israel from Midian's hand. **Am
+**6:14** *"**Go in this strength of yours**, and you will save Israel from Midian's hand. **Am
 I not the One sending you?**"*
 
 *This strength of yours* — the strength he had just been given the name of, and shown
@@ -68,7 +68,7 @@ sending.
 
 ## His objection
 
-*"**My clan is the weakest** in all Manasseh, and **I am the least** in my father's
+**6:15** *"**My clan is the weakest** in all Manasseh, and **I am the least** in my father's
 house."*
 
 Weakest tribe, smallest clan, youngest son. He gives three reasons and every one of
@@ -78,7 +78,7 @@ Moses said the same at the bush. So did Jeremiah, and Saul, and Solomon.
 
 ## The answer
 
-*"**But I will be with you**, and you will strike down Midian as though they were one
+**6:16** *"**But I will be with you**, and you will strike down Midian as though they were one
 man."*
 
 That is the entire response to the three objections. Not a correction of his
@@ -91,8 +91,8 @@ counted as one.
 
 Three hundred men, jars, torches and trumpets. Every weapon deliberately removed.
 
-*Lest Israel claim glory for itself, saying, "My own hand has saved me."*
+**Judges 7:2**: *Lest Israel claim glory for itself, saying, "My own hand has saved me."*
 
-> **What the New Testament remembers him for.** *And what more shall I say? Time
+> **What the New Testament remembers him for.** **Hebrews 11:32**: *And what more shall I say? Time
 > would fail me to tell of **Gideon**…* — Hebrews 11, in the roll of faith. The man
 > who asked for a fleece twice, and then for the opposite sign the next night.
