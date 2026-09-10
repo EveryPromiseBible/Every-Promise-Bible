@@ -7,35 +7,35 @@ sources:
   - 2021-01-10 position-yourself-to-see-his-hazon-vision
   - 2021-01-17 learn-how-to-receive-visions
   - 2021-01-31 keys-to-good-success
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 Three verses of scene-setting, and every detail in them is about light failing.
 
 ## The word was rare
 
-*In those days **the word of the LORD was rare; visions rarely broke through**.*
+**3:1** *In those days **the word of the LORD was rare; visions rarely broke through**.*
 
 The Hebrew is *precious* — scarce because valuable, the way a rare metal is
 precious.
 
 This is the end of the period of the judges. Eli's sons are stealing from the
 offerings and sleeping with the women at the door of the tabernacle, and the last
-line of the book of Judges is *everyone did what was right in his own eyes.*
+line of the book of Judges, **Judges 21:25**: *everyone did what was right in his own eyes.*
 
 ## Eli's eyes
 
-*His eyes had grown so weak he could **barely see**.*
+**3:2** *His eyes had grown so weak he could **barely see**.*
 
 Physical, and the narrative means it both ways — the chapter before has the old
 priest unable to tell the difference between a woman praying and a woman drunk.
 
 ## The lamp
 
-*The **lamp of God had not yet gone out**.*
+**3:3** *The **lamp of God had not yet gone out**.*
 
 The golden lampstand, in the holy place. The priests were charged to keep it
-burning: *Aaron shall tend it from evening until morning before the LORD
+burning, **Exodus 27:21**: *Aaron shall tend it from evening until morning before the LORD
 continually.*
 
 *Had not yet gone out* is a strange way to report it. Not *was burning* — the writer
@@ -46,30 +46,30 @@ is the state of the priesthood and the nation in one clause.
 
 ## Where the boy is lying
 
-*Samuel was lying down in the temple of the LORD, **where the ark of God was**.*
+**3:3** again: *Samuel was lying down in the temple of the LORD, **where the ark of God was**.*
 
 A child asleep on the floor beside the ark, under a lamp that is going out.
 
 ## Who hears
 
-Not the priest. The boy — who *did not yet know the LORD, nor was the word of the
+Not the priest. The boy, **3:7**: who *did not yet know the LORD, nor was the word of the
 LORD yet revealed to him.*
 
 Three times he runs to Eli, and it takes Eli three tries to work out what is
 happening. Then the old man, whatever else is true of him, tells the child exactly
-what to say: *Speak, LORD, for Your servant hears.*
+what to say, **3:9**: *Speak, LORD, for Your servant hears.*
 
 ## What happens to the lamp
 
 The next chapter: the ark is captured, Eli's sons are killed, Eli falls backwards
-and breaks his neck, and a woman in labour names her child **Ichabod** — *the glory
+and breaks his neck, and a woman in labour names her child **Ichabod**, **1 Samuel 4:21**: *the glory
 has departed*.
 
 The lamp went out.
 
 ## And what happens to the boy
 
-*The LORD was with him and **let none of his words fall to the ground**. And all
+**3:19–20** *The LORD was with him and **let none of his words fall to the ground**. And all
 Israel from Dan to Beersheba knew that Samuel had been established as a prophet.*
 
 The word that was rare became plentiful, and it came through the child who was
@@ -77,7 +77,7 @@ sleeping under the failing light.
 
 ## The light that had not gone out
 
-*The lamp of God **had not yet gone out**.*
+**3:3** again: *The lamp of God **had not yet gone out**.*
 
 The lampstand was to burn from evening until morning and be tended every day. This is the
 last hour before dawn, and the oil is nearly finished.
@@ -85,20 +85,20 @@ last hour before dawn, and the oil is nearly finished.
 The word is rare, visions are uncommon, the high priest is blind and his sons are corrupt —
 and the narrator's detail is that the light is still burning.
 
-*And **the light shines in the darkness**, and the darkness did not comprehend it.*
+**John 1:5**: *And **the light shines in the darkness**, and the darkness did not comprehend it.*
 
 ## Where the boy was lying
 
-*Samuel was lying down **in the temple of the LORD, where the ark of God was**.*
+**3:3** again: *Samuel was lying down **in the temple of the LORD, where the ark of God was**.*
 
 A child asleep on the floor beside the box with the blood-sprinkled lid, in a house whose
 priesthood was under sentence.
 
 That is who gets spoken to. Not Eli.
 
-*"I thank You, Father, Lord of heaven and earth, that You have **hidden these things from the
+**Matthew 11:25**: *"I thank You, Father, Lord of heaven and earth, that You have **hidden these things from the
 wise and prudent and have revealed them to babes**."*
 
 > **What God said in that first message.** A judgement on Eli's house. The first
 > word ever given to Samuel was one he had to deliver to the man who raised him, and
-> Eli's answer was *it is the LORD; let Him do what seems good to Him.*
+> Eli's answer was, **3:18**: *it is the LORD; let Him do what seems good to Him.*
