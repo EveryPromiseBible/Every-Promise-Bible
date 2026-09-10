@@ -4,7 +4,7 @@ title: "Kindness and truth" — the two words she is given
 sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 Rahab asks for a specific thing, in specific words, and the answer comes back in
@@ -12,18 +12,18 @@ the same vocabulary.
 
 ## What she asks for
 
-*I have shown you kindness — promise me you will show kindness to my family.*
+**2:12** *I have shown you kindness — promise me you will show kindness to my family.*
 
 The Hebrew word is **hesed**: the loyal, covenanted, will-not-let-go kind of love
 that is Israel's central word for how God treats His own. She uses it of what she
 did, and asks for it back.
 
-And then: *give me a sure sign*. She is not content with a promise; she asks for
+And then, **2:12** again: *give me a sure sign*. She is not content with a promise; she asks for
 something she can point to. That is what the scarlet cord becomes.
 
 ## The answer
 
-*We will treat you with kindness and truth* — **hesed and emet**.
+**2:14** *We will treat you with kindness and truth* — **hesed and emet**.
 
 That pairing runs right through the Old Testament as a description of God's own
 character: loyal love and dependability, the two together. It is what Moses hears

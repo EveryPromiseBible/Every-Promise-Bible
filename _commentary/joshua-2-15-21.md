@@ -5,7 +5,7 @@ sources:
   - 2018-08-19 draw-the-blood-line-of-protection
   - 2019-09-01 present-help-in-times-of-trouble
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 A woman in a doomed city is given a set of conditions, and the conditions are
@@ -14,11 +14,11 @@ talks about rescue.
 
 ## The three terms
 
-1. **the cord in the window** — the same rope she let them down by, tied where it
+1. **the cord in the window** (**2:18**) — the same rope she let them down by, tied where it
    can be seen
-2. **everyone must be inside her house** — *if anyone steps outside your doors
+2. **everyone must be inside her house** (**2:19**) — *if anyone steps outside your doors
    into the street, their blood is on their own head*
-3. **say nothing about the arrangement**
+3. **say nothing about the arrangement** (**2:20**)
 
 The safety is not spread across the city or attached to her personally wherever
 she goes. It is located: this house, this mark, everyone in it.
@@ -35,7 +35,7 @@ point; the text is built so that the reader does.
 
 ## Rahab's own words, three verses earlier
 
-*I know that the LORD has given you this land.* Everyone in Jericho had heard
+**2:9**: *I know that the LORD has given you this land.* Everyone in Jericho had heard
 the same reports about the Red Sea and the two Amorite kings, and the whole city
 was melting with fear. She is not better informed than her neighbours.
 
