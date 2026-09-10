@@ -3,7 +3,7 @@ key: Numbers 27:1–4
 title: Five women who asked
 sources:
   - 2018-10-14 boldness-to-inherit-every-blessing
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Five sisters walk to the front of the camp and ask for something the law had not
@@ -11,7 +11,7 @@ provided for. It is one of the boldest scenes in the Old Testament.
 
 ## Where they stood
 
-*At the entrance to the tent of meeting, before Moses, before Eleazar the priest,
+**27:2** *At the entrance to the tent of meeting, before Moses, before Eleazar the priest,
 before the leaders and the whole assembly.*
 
 Not a private word. They took it to the most public place in Israel and stood in
@@ -23,14 +23,14 @@ Scripture does not lose their names.
 
 ## How they argued
 
-Their case is careful, and they clear the ground before they ask:
+Their case is careful, and they clear the ground before they ask, **27:3**:
 
 - our father died in the wilderness
 - **he was not among Korah's followers** — they head off the obvious objection
   before it is raised
 - he died for his own sin, and he left no sons
 
-Then the question: *why should our father's name disappear from his clan simply
+Then the question, **27:4**: *why should our father's name disappear from his clan simply
 because he had no son?*
 
 They do not complain about their treatment. They argue from their father's name
@@ -46,13 +46,13 @@ noticed they were not in the arrangement, and came forward anyway.
 
 ## What they were told to do with a request
 
-*"**Ask, and it will be given to you**; seek, and you will find; knock, and it will be opened
+**Matthew 7:7**: *"**Ask, and it will be given to you**; seek, and you will find; knock, and it will be opened
 to you."*
 
 They asked in the most public place in Israel, in front of every layer of authority at once,
 for a share of something that had no provision for them in it.
 
-*Let us therefore **come boldly to the throne of grace**, that we may obtain mercy and find
+**Hebrews 4:16**: *Let us therefore **come boldly to the throne of grace**, that we may obtain mercy and find
 grace to help in time of need.*
 
 The Greek is **parrhesia** — freedom of speech, the right of a citizen to say anything in the
@@ -62,7 +62,7 @@ assembly.
 
 Not an exception, and not a favour. Their father's portion of a promise made to Abraham.
 
-*There is neither Jew nor Greek, there is neither slave nor free, **there is neither male nor
+**Galatians 3:28–29**: *There is neither Jew nor Greek, there is neither slave nor free, **there is neither male nor
 female**; for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's
 seed, and **heirs according to the promise**.*
 

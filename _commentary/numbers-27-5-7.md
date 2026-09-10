@@ -3,7 +3,7 @@ key: Numbers 27:5–7
 title: "The daughters of Zelophehad are right"
 sources:
   - 2018-10-14 boldness-to-inherit-every-blessing
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Moses does not rule on it. He takes it upstairs, and the answer that comes back
@@ -11,12 +11,12 @@ is unambiguous.
 
 ## God's verdict
 
-*The daughters of Zelophehad are right.*
+**27:7** *The daughters of Zelophehad are right.*
 
 Four words, and they settle it. Not *let them have a portion as an exception*, and
 not *this is irregular but permitted*. **Right** — their case is correct.
 
-Then the instruction: *you must surely give them property as an inheritance among
+Then the instruction, **27:7** again: *you must surely give them property as an inheritance among
 their father's relatives. Turn their father's inheritance over to them.*
 
 The Hebrew doubles the verb for emphasis — *giving you shall give*. It is the
@@ -26,14 +26,14 @@ nothing grudging in it.
 ## What it changed
 
 This is not merely a favourable outcome for one family. Read on: it becomes
-**statute**. *If a man dies and leaves no son, turn his inheritance over to his
+**statute**, **27:8**: *If a man dies and leaves no son, turn his inheritance over to his
 daughter* — permanent law in Israel, from that day, because five women asked.
 
 The request did not bend the rule. It made one.
 
 ## What Moses did right
 
-He *brought their case before the LORD*. He did not decide it himself, and he did
+He, **27:5**: *brought their case before the LORD*. He did not decide it himself, and he did
 not dismiss it for being unprecedented.
 
 Given what the same book records about Moses' patience running out elsewhere,
@@ -42,14 +42,14 @@ instinct was to take it to God rather than to defend the existing arrangement.
 
 ## Four words
 
-*"**The daughters of Zelophehad are right.**"*
+**27:7** again: *"**The daughters of Zelophehad are right.**"*
 
 Not *permitted*, not *an exception may be made*. Their case is correct, and the law changes
 from that day.
 
 ## Who else gets counted in
 
-*For you are all sons of God through faith in Christ Jesus… there is **neither male nor
+**Galatians 3:26, 28–29**: *For you are all sons of God through faith in Christ Jesus… there is **neither male nor
 female**; for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's
 seed, and **heirs according to the promise**.*
 
@@ -58,7 +58,7 @@ inheritance rather than at a rule.
 
 ## The doubled verb
 
-*You must **surely give** them property as an inheritance.*
+**27:7** again: *You must **surely give** them property as an inheritance.*
 
 The Hebrew doubles it — *giving you shall give*. It is the construction used in the garden for
 *eating you may eat* of every tree. See the note on Genesis 2:15–17.
