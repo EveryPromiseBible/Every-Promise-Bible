@@ -3,7 +3,7 @@ key: Numbers 35:9–15
 title: Cities of refuge
 sources:
   - 2020-07-12 his-blessings-over-you-are-irreversible
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 Six towns are set aside before the land is even entered, for people who have not yet done
@@ -11,7 +11,7 @@ anything.
 
 ## The timing
 
-*"**When you cross into Canaan**, choose cities of refuge."*
+**35:10–11** *"**When you cross into Canaan**, choose cities of refuge."*
 
 Israel is still on the plains of Moab. The land has not been taken, the tribes have not
 been allotted, and the provision is already made.
@@ -20,7 +20,7 @@ Somebody is going to need this, and God legislates for them in advance.
 
 ## Who they are for
 
-*"So that **a person who kills someone by accident, without meaning to**, may flee
+**35:11** again: *"So that **a person who kills someone by accident, without meaning to**, may flee
 there."*
 
 The Hebrew is *who kills any person unintentionally* — **bishgagah**, in error, by
@@ -31,7 +31,7 @@ and the neighbour dies.
 
 ## What they are
 
-*"These will be **a shelter from the avenger**."*
+**35:12** *"These will be **a shelter from the avenger**."*
 
 The **goel haddam** — the avenger of blood, the nearest kinsman, whose duty it was to
 pursue.
@@ -44,7 +44,7 @@ are on.
 
 ## What the refuge does not do
 
-*"So that the one who caused a death **is not struck down before he can stand trial
+**35:12** again: *"So that the one who caused a death **is not struck down before he can stand trial
 before the community**."*
 
 It is not an acquittal. It buys a trial.
@@ -54,7 +54,7 @@ category he is in. See the note on Numbers 35:16–21.
 
 ## The number and the layout
 
-*"Set apart **six such cities — three on the east side of the Jordan and three in
+**35:13–14**: *"Set apart **six such cities — three on the east side of the Jordan and three in
 Canaan**."*
 
 Joshua names them: Kedesh, Shechem and Hebron in the west; Bezer, Ramoth and Golan in the
@@ -67,7 +67,7 @@ Later Jewish tradition held that the roads to them were kept in repair and signp
 
 ## Who could use them
 
-*"They will be a refuge for **the Israelite, for the foreigner, and for anyone living
+**35:15** *"They will be a refuge for **the Israelite, for the foreigner, and for anyone living
 among you**."*
 
 Three categories, and two of them are not Israelites.
