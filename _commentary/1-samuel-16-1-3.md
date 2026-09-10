@@ -7,7 +7,7 @@ sources:
   - 2020-01-05 the-lord-of-time-and-space
   - 2020-12-06 follow-the-promptings-of-the-spirit
   - 2024-06-30 own-your-calling-and-portion
-updated: 2026-08-06
+updated: 2026-09-10
 ---
 
 Samuel is sent on the most consequential errand of his life and is not told how
@@ -30,23 +30,23 @@ scene that follows works the way it does — seven brothers paraded past, each o
 looking more like a king than the last, and the answer is a boy nobody thought to
 call in from the field.
 
-*I'll show you what to do.* The instruction is deliberately incomplete, and the
+**16:3** *I'll show you what to do.* The instruction is deliberately incomplete, and the
 missing piece is promised for when he gets there.
 
 ## The sentence that opens it
 
-*How long are you going to grieve over Saul? I have set him aside.*
+**16:1** *How long are you going to grieve over Saul? I have set him aside.*
 
 It sounds harsh until you notice what it is not. Samuel's grief is real and God
 does not call it foolish — He calls time on it, and the reason is that a
-replacement has already been chosen. *I've already picked one of his sons.*
+replacement has already been chosen. **16:1** again: *I've already picked one of his sons.*
 
 That is the shape of the whole scene: the old arrangement has failed, the
 mourning is genuine, and the next thing is already decided before the prophet has
 filled his horn. Samuel is not being told to feel less. He is being told to fill
 the horn and go, because there is somewhere to go.
 
-> **The line that gets quoted from later in the chapter.** *People look at the
+> **The line that gets quoted from later in the chapter.** **16:7**: *People look at the
 > outside; the LORD looks at the heart* — it arrives while Samuel is standing in
 > front of the eldest brother, impressed. Even the prophet on the errand needed
 > telling. The correction is not aimed at a crowd of shallow people; it is aimed
