@@ -3,7 +3,7 @@ key: 1 Samuel 18:1–4
 title: The covenant Jonathan made, and what he took off to make it
 sources:
   - 2018-12-30 believe-his-love-and-receive-all-blessings
-updated: 2026-08-06
+updated: 2026-09-10
 ---
 
 The heir to the throne meets the man who will take it from him, and gives him his
@@ -11,7 +11,7 @@ clothes.
 
 ## When it happened
 
-*When David finished speaking with Saul.* The conversation immediately after
+**18:1** *When David finished speaking with Saul.* The conversation immediately after
 Goliath — David is holding the giant's head, and he is a shepherd nobody had
 heard of that morning.
 
@@ -20,7 +20,7 @@ victory a few chapters earlier.
 
 ## What he gave
 
-*He took off the robe he was wearing and gave it to David, along with his tunic,
+**18:4** *He took off the robe he was wearing and gave it to David, along with his tunic,
 and even his sword, his bow, and his belt.*
 
 Five items, and they are not gifts of affection. They are the marks of his
@@ -35,7 +35,7 @@ replacing him, on the day they meet.
 
 ## The covenant
 
-*Jonathan made a covenant with David, because he loved him as himself.*
+**18:3** *Jonathan made a covenant with David, because he loved him as himself.*
 
 It is Jonathan who initiates it. David is not recorded as asking, and has nothing
 to offer in return.
@@ -46,13 +46,13 @@ on 2 Samuel 9:5–8.
 
 ## What it cost him
 
-Jonathan knew where this went. Later he says it plainly to David: *you will be
+Jonathan knew where this went. Later he says it plainly to David, **1 Samuel 23:17**: *you will be
 king over Israel, and I will be second to you.*
 
 He was never second to anyone. He died at Gilboa beside his father, and David
 wrote the lament.
 
-> **The word for the knitting.** *Something knit Jonathan's soul to David's.* The
+> **The word for the knitting.** **18:1** again: *Something knit Jonathan's soul to David's.* The
 > Hebrew verb is used of tying or binding fast — the same root used later of
 > Jonathan's love for him. Whatever else is in this friendship, the text describes
 > it as a bond made rather than a feeling that arrived.
