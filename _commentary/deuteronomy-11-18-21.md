@@ -7,14 +7,14 @@ sources:
   - 2021-01-31 keys-to-good-success
   - 2021-10-17 gods-heart-for-your-family
   - 2022-01-23 his-strength-flows-in-our-weaknesses
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Where the words are to be kept, and the promise attached to keeping them there.
 
 ## Four places
 
-*Let these words settle into your **heart** and your **soul**. Tie them on your
+**11:18** *Let these words settle into your **heart** and your **soul**. Tie them on your
 **hand**… bind them on your **forehead**.*
 
 Inward first, then outward. Hebrew thought does not separate them: what is on the
@@ -27,7 +27,7 @@ its twin in chapter 6.
 
 ## Four times
 
-*Talk of them when you sit at home and when you walk on the road, when you lie
+**11:19** *Talk of them when you sit at home and when you walk on the road, when you lie
 down and when you rise up.*
 
 Two locations and two moments — indoors and out, last thing and first thing.
@@ -38,14 +38,14 @@ places, at the ordinary hours.
 
 ## Who is being taught
 
-*Teach them to your children.*
+**11:19** again: *Teach them to your children.*
 
 The instruction about parents' hearts arrives first and the children second. What
 gets passed on is what has already settled in.
 
 ## The promise
 
-*So that your days and your children's days may be many in the land… as many as
+**11:21** *So that your days and your children's days may be many in the land… as many as
 the days the heavens are above the earth.*
 
 The image is a measurement that cannot be measured. As long as there is a sky
@@ -53,18 +53,18 @@ over the ground — that is the span being described.
 
 ## Where the word is meant to end up
 
-*Let these words **settle into your heart and your soul**.*
+**11:18** again: *Let these words **settle into your heart and your soul**.*
 
 Inward first. The hand and the forehead come after, and Hebrew thought does not separate
 them — what is on the hand governs what you do.
 
-*But what does it say? "**The word is near you, in your mouth and in your heart**" — that is,
+**Romans 10:8**: *But what does it say? "**The word is near you, in your mouth and in your heart**" — that is,
 **the word of faith which we preach**.*
 
 Paul is quoting Deuteronomy, from the end of this same book, and he says what the nearness
 turned out to be for.
 
-*Let **the word of Christ dwell in you richly** in all wisdom, teaching and admonishing one
+**Colossians 3:16**: *Let **the word of Christ dwell in you richly** in all wisdom, teaching and admonishing one
 another.*
 
 ## What is described, and what is not
@@ -76,6 +76,6 @@ The parents' hearts come first in the instruction and the children second. What 
 on is what has already settled in.
 
 > **What it is attached to.** These verses come immediately after the promise of
-> the early and late rain, and immediately before *every place where you set your
+> the early and late rain, and immediately before, **11:24**: *every place where you set your
 > foot will be yours.* The words in the heart, the rain in its season, and the
 > ground underfoot are one passage.

@@ -6,14 +6,14 @@ sources:
   - 2018-11-11 true-prosperity-in-every-area
   - 2023-01-01 healing-and-restoration-for-your-mind
   - 2026-05-10 true-bible-prosperity-versus-prosperity-gospel
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 Moses describes the land they are entering by telling them what it is not.
 
 ## Egypt's agriculture
 
-*Where you planted your seed and watered it by foot, like a garden of
+**11:10** *Where you planted your seed and watered it by foot, like a garden of
 vegetables.*
 
 Egypt had no rainfall to speak of. Farming there meant the Nile, irrigation
@@ -25,7 +25,7 @@ the field was entirely your own labour.
 
 ## The land ahead
 
-*A land of hills and valleys, drinking in the rain from heaven.*
+**11:11** *A land of hills and valleys, drinking in the rain from heaven.*
 
 Hills cannot be irrigated from a river. Everything depends on rain, which nobody
 can dig for, schedule, or manufacture.
@@ -35,7 +35,7 @@ as an upgrade — and the reason follows immediately.
 
 ## The reason
 
-*A land the LORD your God cares for. The eyes of the LORD your God are on it all
+**11:12** *A land the LORD your God cares for. The eyes of the LORD your God are on it all
 the time, from the first of the year to the last.*
 
 The Hebrew for *cares for* is a verb about seeking out and attending to. And *the
