@@ -9,14 +9,14 @@ sources:
   - 2020-02-16 anointing-oil-for-healing-and-protection
   - 2020-04-12 rise-up-and-reign-over-your-enemies
   - 2020-04-19 gods-way-to-good-fortune-in-all-areas
-updated: 2026-08-06
+updated: 2026-09-10
 ---
 
 The largest building project in Israel's history, and the site was silent.
 
 ## The sentence
 
-*The stone was **dressed and finished at the quarry before it ever reached the
+**6:7** *The stone was **dressed and finished at the quarry before it ever reached the
 house** — so that **no hammer, no chisel, no iron tool of any kind was heard in the
 house** while it was going up. **Not a sound.**"*
 
@@ -33,7 +33,7 @@ There is no trimming at the wall. It fits or it does not.
 
 ## Where the stones came from
 
-*Eighty thousand who **cut stone up in the hill country**… at the king's command they
+**1 Kings 5:15, 17**: *Eighty thousand who **cut stone up in the hill country**… at the king's command they
 **quarried great, costly stones, dressing them square**.*
 
 The shaping happened in the quarry — Jerusalem's stone was cut from tunnels under the
@@ -50,7 +50,7 @@ Nearly two hundred thousand men, and the site was quiet.
 
 ## No iron
 
-The specification is not incidental. When Israel built an altar, the law said *you
+The specification is not incidental. When Israel built an altar, the law said, **Exodus 20:25**: *you
 shall not build it of hewn stone, for if you use your tool on it, you have profaned
 it.*
 
@@ -58,7 +58,7 @@ Iron on stone, in that law, spoiled it.
 
 ## The ledges
 
-*He set **narrow ledges all around the outside** of the house, so the supporting
+**6:6** *He set **narrow ledges all around the outside** of the house, so the supporting
 beams would rest on those ledges **and not be driven into the walls of the house
 itself**.*
 
@@ -67,7 +67,7 @@ is not pierced to carry the additions.
 
 ## The stair
 
-*A **stairway wound up** to the middle story, and from the middle to the third.*
+**6:8** *A **stairway wound up** to the middle story, and from the middle to the third.*
 
 The Hebrew is **lulim** — a spiral, a winding stair. You could not see the top from the
 bottom.
@@ -77,7 +77,7 @@ and at every point on it the wall is between the climber and where he is going.
 
 ## Where the door was
 
-*The doorway to the lowest side chamber was **on the south side** of the house.*
+**6:8** again: *The doorway to the lowest side chamber was **on the south side** of the house.*
 
 One entrance, at the bottom, on one side. You did not choose your route into the
 chambers — there was a single door and a single stair, and it went the way it went.
@@ -91,7 +91,7 @@ The higher you went, the more room there was.
 
 ## Where Peter takes this
 
-*You also, **as living stones**, are being built up a spiritual house, a holy
+**1 Peter 2:5**: *You also, **as living stones**, are being built up a spiritual house, a holy
 priesthood.*
 
 And of Christ: *a living stone, rejected indeed by men, but chosen by God and
