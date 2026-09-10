@@ -3,38 +3,38 @@ key: 1 Samuel 1:9–18
 title: Her face was no longer downcast
 sources:
   - 2021-03-07 come-to-the-feast-of-healing
-updated: 2026-08-07
+updated: 2026-09-10
 ---
 
 She goes in with nothing and comes out with nothing, and something has changed anyway.
 
 ## Where she is
 
-*After they had eaten and drunk **at Shiloh**.*
+**1:9** *After they had eaten and drunk **at Shiloh**.*
 
 The annual pilgrimage. Shiloh is where the tabernacle stood before Jerusalem — the tent, in
 one place, for something like three centuries.
 
-*Eli the priest was **sitting on his chair beside the doorpost** of the LORD's temple.*
+**1:9** again: *Eli the priest was **sitting on his chair beside the doorpost** of the LORD's temple.*
 
 Sitting. He is old, his sons are corrupt, and he will die falling backwards off this same
 seat.
 
 ## The state
 
-*Hannah was in anguish — **a bitter, aching soul** — and she prayed to the LORD and **wept
+**1:10** *Hannah was in anguish — **a bitter, aching soul** — and she prayed to the LORD and **wept
 and wept**.*
 
 The Hebrew is *bitter of soul* — **marat nephesh**.
 
 The chapter has already explained why. Peninnah had children and Hannah had none, and the
-rival *provoked her severely, to make her miserable* — *year by year*.
+rival, **1:6**: *provoked her severely, to make her miserable* — **1:7**: *year by year*.
 
-And the note the narrator adds twice: *the LORD had closed her womb*.
+And the note the narrator adds twice, **1:5–6**: *the LORD had closed her womb*.
 
 ## The vow
 
-*"O **LORD of Heaven's Armies**, if only You will **look — really look — at the misery of
+**1:11** *"O **LORD of Heaven's Armies**, if only You will **look — really look — at the misery of
 Your servant**."*
 
 The Hebrew is *if You will indeed look on the affliction* — the verb doubled for emphasis.
@@ -44,7 +44,7 @@ hosts. A childless woman coins the title.
 
 ## What she asks and what she promises
 
-*"**Remember me and not forget me**, if only You will **give Your servant a son**, then I
+**1:11** again: *"**Remember me and not forget me**, if only You will **give Your servant a son**, then I
 will **give him back to You**, LORD, for all the days of his life. And **no razor will ever
 touch his head**."*
 
@@ -54,7 +54,7 @@ The razor clause is the Nazirite vow. She is not asking for a child to keep.
 
 ## The misreading
 
-*She kept on praying before the LORD, and **Eli watched her mouth**. Hannah was **praying in
+**1:12–13** *She kept on praying before the LORD, and **Eli watched her mouth**. Hannah was **praying in
 her heart** — her lips were moving, but **no sound came out**. So **Eli thought she was
 drunk**.*
 
@@ -64,25 +64,25 @@ Silent prayer is unusual enough in the Old Testament that he has no category for
 
 ## The accusation
 
-*"**How long are you going to stay drunk? Put away your wine**."*
+**1:14** *"**How long are you going to stay drunk? Put away your wine**."*
 
 ## The answer
 
-*"**No, my lord**. I am a woman with **a heavy, breaking spirit**. I haven't been drinking
+**1:15** *"**No, my lord**. I am a woman with **a heavy, breaking spirit**. I haven't been drinking
 wine or beer. I've been **pouring out my soul to the LORD**."*
 
 The Hebrew is *I have poured out my soul before the LORD* — the verb used of pouring a drink
 offering.
 
-*"Please **don't take me for a worthless woman** — I've been praying here out of my great
+**1:16** *"Please **don't take me for a worthless woman** — I've been praying here out of my great
 grief and pain."*
 
 The Hebrew is *daughter of Belial*. It is the exact phrase the narrator has been using of
-Eli's own sons two chapters running: *the sons of Eli were corrupt* — sons of Belial.
+Eli's own sons two chapters running, **1 Samuel 2:12**: *the sons of Eli were corrupt* — sons of Belial.
 
 ## The blessing
 
-*Then Eli said, "**Go in peace. And may the God of Israel grant what you've asked of
+**1:17** *Then Eli said, "**Go in peace. And may the God of Israel grant what you've asked of
 Him**."*
 
 He does not apologise. He blesses her, and the blessing is generic — he still does not know
@@ -90,19 +90,19 @@ what she asked for.
 
 ## What changed
 
-*"May your servant **find favour in your eyes**," she said. And she went on her way, and
+**1:18** *"May your servant **find favour in your eyes**," she said. And she went on her way, and
 **she ate something**, and **her face was no longer downcast**.*
 
 Nothing has happened. She is as childless walking out as walking in, and the priest's
 blessing contained no promise.
 
-The chapter says the conception happens later: *and the LORD remembered her.*
+The chapter says the conception happens later, **1:19**: *and the LORD remembered her.*
 
 She eats first.
 
 ## The name
 
-**Samuel** — *heard by God*, or *asked of God*. She explains it: *because I have asked for
+**Samuel** — *heard by God*, or *asked of God*. She explains it, **1:20**: *because I have asked for
 him from the LORD*.
 
 She weans him, walks him back to Shiloh, and hands him to the man who thought she was
@@ -110,7 +110,7 @@ drunk.
 
 ## The song
 
-Her prayer in chapter 2 — *my heart rejoices in the LORD… He raises the poor from the dust
+Her prayer in chapter 2, **1 Samuel 2:1, 8**: *my heart rejoices in the LORD… He raises the poor from the dust
 and lifts the beggar from the ash heap* — is the model for Mary's Magnificat. See the note
 on Luke 1:46–50.
 
