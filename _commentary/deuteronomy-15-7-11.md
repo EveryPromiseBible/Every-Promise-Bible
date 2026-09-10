@@ -3,14 +3,14 @@ key: Deuteronomy 15:7–11
 title: Open your hand wide
 sources:
   - 2022-11-13 you-are-blessed-to-be-a-blessing
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 A law that anticipates the calculation somebody will make, and names it before they can.
 
 ## The situation
 
-*If **one of your brothers falls into poverty** in any of your towns.*
+**15:7** *If **one of your brothers falls into poverty** in any of your towns.*
 
 The Hebrew is **achicha** — your brother. Repeated four times in five verses.
 
@@ -18,7 +18,7 @@ The law will not let the poor man be a category. He is a relative.
 
 ## The two prohibitions
 
-*Do not **harden your heart** or **shut your hand** against him.*
+**15:7** again: *Do not **harden your heart** or **shut your hand** against him.*
 
 The Hebrew is **lo te'ammetz… velo tiqpotz** — do not make firm, do not close up.
 
@@ -26,7 +26,7 @@ Heart and hand, in that order. The hand follows the heart.
 
 ## The command
 
-*Open your hand wide, and **lend him freely whatever he needs**.*
+**15:8** *Open your hand wide, and **lend him freely whatever he needs**.*
 
 The Hebrew is **patoach tiphtach** — opening you shall open. The infinitive doubled for emphasis.
 
@@ -36,14 +36,14 @@ Not a fixed amount. What he actually needs.
 
 ## The calculation
 
-*Be careful not to let **this ugly thought** creep in: "**The seventh year, the year of release, is
+**15:9** *Be careful not to let **this ugly thought** creep in: "**The seventh year, the year of release, is
 near**" — and then look coldly at your needy brother and give him nothing.*
 
 The Hebrew is **davar im-levavcha beliyya'al** — a word in your heart, of worthlessness.
 
 ## What the seventh year was
 
-*At the end of every seven years you shall grant a release of debts… **every creditor who has lent
+**15:1–2**: *At the end of every seven years you shall grant a release of debts… **every creditor who has lent
 anything to his neighbour shall release it**.*
 
 The chapter opens with it. Debts are cancelled in the seventh year.
@@ -64,7 +64,7 @@ The refusal has not happened yet. The thought is what is named.
 
 ## The consequence
 
-*He may **cry out to the LORD against you**, and **you will carry the guilt**.*
+**15:9** again: *He may **cry out to the LORD against you**, and **you will carry the guilt**.*
 
 The Hebrew is **vehayah becha chet** — and it will be sin in you.
 
@@ -74,7 +74,7 @@ The poor man's complaint goes over the lender's head.
 
 ## The manner
 
-*Give to him, and **give with a glad heart, not a grudging one**.*
+**15:10** *Give to him, and **give with a glad heart, not a grudging one**.*
 
 The Hebrew is **velo-yera levavcha** — and let not your heart be grieved.
 
@@ -82,27 +82,27 @@ The law regulates the mood of the giving, which most laws cannot do.
 
 ## The promise
 
-*For **because of this the LORD your God will bless you in all your work and everything you set
+**15:10** again: *For **because of this the LORD your God will bless you in all your work and everything you set
 your hand to**.*
 
 ## The realism
 
-*There will **always be poor people in the land**.*
+**15:11** *There will **always be poor people in the land**.*
 
-Which sits oddly against verse 4 of the same chapter: *there shall be no poor among you*.
+Which sits oddly against **15:4**: *there shall be no poor among you*.
 
 The chapter states the ideal and then the actual, eleven verses apart, without reconciling them.
 
 ## The conclusion drawn from it
 
-*That is **exactly why I command you**: open your hand wide.*
+**15:11** again: *That is **exactly why I command you**: open your hand wide.*
 
 The permanence of poverty is not offered as a reason to give up. It is given as the reason for the
 command.
 
 ## What Jesus does with the line
 
-*"For **you have the poor with you always**, and whenever you wish you may do them good; but Me you
+**Mark 14:7**: *"For **you have the poor with you always**, and whenever you wish you may do them good; but Me you
 do not have always."*
 
 Said over a woman pouring ointment, to people objecting about the cost. He quotes this verse, and
