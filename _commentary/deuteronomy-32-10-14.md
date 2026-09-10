@@ -4,14 +4,14 @@ title: The eagle stirring up its nest
 sources:
   - 2025-11-09 live-the-heavenly-life-on-earth
   - 2026-08-02 live-loved-by-the-father
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The finding happens in the emptiest place named in the song.
 
 ## Where He found him
 
-*He found him **in a desert land**, in a **barren, howling waste**.*
+**32:10** *He found him **in a desert land**, in a **barren, howling waste**.*
 
 The Hebrew is **eretz midbar** — a land of wilderness. And **tohu yelel yeshimon** — a howling
 emptiness.
@@ -25,7 +25,7 @@ up.
 
 ## The care
 
-*He **shielded him and cared for him**; He guarded him as **the apple of His eye**.*
+**32:10** again: *He **shielded him and cared for him**; He guarded him as **the apple of His eye**.*
 
 The Hebrew is **ke'ishon eino** — as the little man of His eye. The pupil, named for the small
 reflection you see of yourself in someone else's eye.
@@ -34,7 +34,7 @@ The most reflexively protected part of the body.
 
 ## The eagle
 
-*Like **an eagle stirring up its nest**, **hovering over its young**.*
+**32:11** *Like **an eagle stirring up its nest**, **hovering over its young**.*
 
 The Hebrew is **ya'ir qinno** — it rouses, disturbs its nest.
 
@@ -55,7 +55,7 @@ The disturbance in the picture is deliberate, and it is the same bird that catch
 
 ## The catch
 
-*He **spread His wings and caught them**, carrying them **on His outstretched wings**.*
+**32:11** again: *He **spread His wings and caught them**, carrying them **on His outstretched wings**.*
 
 The Hebrew is **yissa'ehu al-evrato** — He bears him on His pinion.
 
@@ -66,22 +66,22 @@ Myself**."* See the note on Exodus 19:3–6.
 
 ## The exclusive clause
 
-*The LORD alone led him; **no foreign god was with him**.*
+**32:12** *The LORD alone led him; **no foreign god was with him**.*
 
 The Hebrew is **YHWH badad yanchennu**.
 
 Written into a song Moses is teaching them to sing *against* their future selves — the chapter is
-given because *I know that after my death you will become utterly corrupt*.
+given because, **Deuteronomy 31:29**: *I know that after my death you will become utterly corrupt*.
 
 ## The provision
 
-*He set him on **the heights of the land** and fed him **the fruit of the fields**.*
+**32:13** *He set him on **the heights of the land** and fed him **the fruit of the fields**.*
 
 Seven items follow: honey, oil, curds, milk, lambs, bulls and goats, grapes.
 
 ## The two impossible sources
 
-*He nourished him with **honey from the rock**, with **oil from the flinty crag**.*
+**32:13** again: *He nourished him with **honey from the rock**, with **oil from the flinty crag**.*
 
 Wild bees nested in rock clefts; olives grew on stony terraces. Both are real.
 
@@ -89,7 +89,7 @@ Both are also stated as things drawn out of stone.
 
 ## What comes immediately after
 
-*But **Jeshurun grew fat and kicked**… he forsook God who made him.*
+**32:15**: *But **Jeshurun grew fat and kicked**… he forsook God who made him.*
 
 **Jeshurun** — the upright one. An affectionate name, used ironically.
 
@@ -97,7 +97,7 @@ The provision list ends and the next line is the abandonment.
 
 ## The song's own purpose
 
-*"Now therefore, write down this song for yourselves, and teach it to the children of Israel… **that
+**Deuteronomy 31:19**: *"Now therefore, write down this song for yourselves, and teach it to the children of Israel… **that
 this song may be a witness for Me**."*
 
 A song is memorised. It survives in the mouth after the scroll is lost.

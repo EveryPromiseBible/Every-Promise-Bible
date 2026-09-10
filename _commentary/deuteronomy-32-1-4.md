@@ -4,7 +4,7 @@ title: "Let my teaching fall like rain"
 sources:
   - 2019-01-13 a-fresh-revelation-of-the-communion-brings-healing
   - 2024-03-31 death-has-been-defeated
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The opening of Moses' last song, and he asks for his words to behave like
@@ -12,7 +12,7 @@ weather.
 
 ## Four kinds of falling water
 
-*Let my teaching fall like **rain**, let my words settle like the **dew**, like
+**32:2** *Let my teaching fall like **rain**, let my words settle like the **dew**, like
 gentle **showers** on new grass, like **soft rain** on the tender green.*
 
 Four terms, and every one is gentle. Nothing here is a downpour.
@@ -24,7 +24,7 @@ Teaching, in this image, is measured to what can take it.
 
 ## The witnesses
 
-*Listen, you heavens… hear, O earth.*
+**32:1** *Listen, you heavens… hear, O earth.*
 
 Moses calls sky and ground as witnesses, which is the formal language of a
 covenant lawsuit. The song that follows is not gentle at all — it is a long
@@ -34,14 +34,14 @@ So the soft rain of the opening is the manner, not the content.
 
 ## What he proclaims
 
-*I will proclaim the name of the LORD. Oh, tell of the greatness of our God!*
+**32:3** *I will proclaim the name of the LORD. Oh, tell of the greatness of our God!*
 
 Before a word of the history, he states the subject. The song is about Israel's
 failure and it is announced as being about God's name.
 
 ## The Rock
 
-*He is the Rock — His works are perfect, and all His ways are just. A faithful
+**32:4** *He is the Rock — His works are perfect, and all His ways are just. A faithful
 God who does no wrong, upright and true is He.*
 
 The first time God is called the Rock, and Moses uses it repeatedly through the
