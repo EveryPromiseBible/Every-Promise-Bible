@@ -1,21 +1,21 @@
 ---
 key: Judges 7:19–25
 title: The jars had to break
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 Three hundred men surround an army in the dark, and the first thing they do is smash what they
 are carrying.
 
 ## The timing
 
-*At **the beginning of the middle watch, just after the guard had been changed**.*
+**7:19** *At **the beginning of the middle watch, just after the guard had been changed**.*
 
 The most careful hour to pick. The new watch is not yet settled and the old one has gone to
 sleep.
 
 ## What is in their hands
 
-*Trumpets in their **right** hands to blow, torches blazing in their **left**.*
+**7:20** *Trumpets in their **right** hands to blow, torches blazing in their **left**.*
 
 Which accounts for both hands. Not one man among the three hundred is holding a weapon.
 
@@ -24,7 +24,7 @@ in the dark gave nothing away.
 
 ## The three actions
 
-*They **blew their trumpets** and **smashed the jars** in their hands*, and *they **shouted**.*
+**7:19–20**: *They **blew their trumpets** and **smashed the jars** in their hands*, and *they **shouted**.*
 
 Blow, break, shout. That is the entire military operation.
 
@@ -33,10 +33,10 @@ Blow, break, shout. That is the entire military operation.
 The light was already lit. It had been burning inside the jar the whole way down the hill,
 and nobody could see it.
 
-*But **we have this treasure in earthen vessels**, that **the excellence of the power may be
+**2 Corinthians 4:7**: *But **we have this treasure in earthen vessels**, that **the excellence of the power may be
 of God and not of us**.*
 
-The Greek is **ostrakinois** — made of baked clay. Paul goes straight on: *we are hard pressed
+The Greek is **ostrakinois** — made of baked clay. Paul goes straight on, **2 Corinthians 4:10**: *we are hard pressed
 on every side, yet not crushed… always carrying about in the body the dying of the Lord Jesus,
 **that the life of Jesus also may be manifested in our body**.*
 
@@ -44,19 +44,19 @@ The jar is not the point and was never meant to survive.
 
 ## The shout
 
-*"**A sword for the LORD and for Gideon!**"*
+**7:20** again: *"**A sword for the LORD and for Gideon!**"*
 
 There is no sword. Three hundred men shout about a weapon not one of them is carrying.
 
 ## What each man does
 
-*Each man **held his place** around the camp.*
+**7:21** *Each man **held his place** around the camp.*
 
 They do not charge. They stand still, holding a light, and make a noise.
 
 ## Who fights
 
-*As the three hundred blew their trumpets, **the LORD turned every Midianite's sword against
+**7:22** *As the three hundred blew their trumpets, **the LORD turned every Midianite's sword against
 his own companion**, throughout the camp.*
 
 The only swords in the account belong to the enemy, and they are used on each other.
@@ -66,7 +66,8 @@ Exodus 14:10–14.
 
 ## What is left to do
 
-The pursuit, and the other tribes are called out for it — Naphtali, Asher, Manasseh, Ephraim.
+The pursuit, and the other tribes are called out for it — Naphtali, Asher, Manasseh, Ephraim
+(**7:23**).
 
 The men who went home in the morning come back for the mopping up. The victory was won by
 three hundred; the harvest of it was shared with everybody.

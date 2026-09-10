@@ -3,14 +3,14 @@ key: Judges 7:9–14
 title: The dream of barley bread
 sources:
   - 2025-07-06 radiant-with-his-glory
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 God gives him the victory in the first sentence and then quietly provides for the fear.
 
 ## The order
 
-*"**Get up, go down against the camp, for I have given it into your hand**."*
+**7:9** *"**Get up, go down against the camp, for I have given it into your hand**."*
 
 The Hebrew is **netattiv beyadeka** — I have given it. Perfect tense.
 
@@ -18,7 +18,7 @@ The outcome is stated before the man moves.
 
 ## The clause
 
-*"**But if you are afraid to go down**, take your servant Purah with you."*
+**7:10** *"**But if you are afraid to go down**, take your servant Purah with you."*
 
 The Hebrew is **ve'im-yare atah**.
 
@@ -30,13 +30,13 @@ command.
 Thirty-two thousand men reduced to ten thousand, and then to three hundred, by a drinking test. See
 the note on Judges 7:4–8.
 
-*The people who are with you are too many for Me to give the Midianites into their hands.*
+**7:2**: *The people who are with you are too many for Me to give the Midianites into their hands.*
 
 He has just been stripped of ninety-nine per cent of his army, and then told he may be afraid.
 
 ## The instruction
 
-*"**Listen to what they are saying**, and afterward your hands will be strengthened."*
+**7:11** *"**Listen to what they are saying**, and afterward your hands will be strengthened."*
 
 The Hebrew is **vetechezaqnah yadeicha** — your hands will be made strong.
 
@@ -44,20 +44,20 @@ He is not sent to fight. He is sent to eavesdrop.
 
 ## The odds
 
-*The Midianites, Amalekites, and all the peoples of the east lay spread across the valley **thick as
+**7:12** *The Midianites, Amalekites, and all the peoples of the east lay spread across the valley **thick as
 locusts**, their camels **beyond counting, like the sand on the seashore**.*
 
 Two images of unnumberable quantity, in one sentence, against three hundred men.
 
 ## The timing
 
-*As Gideon arrived, **a man was telling his friend a dream**.*
+**7:13** *As Gideon arrived, **a man was telling his friend a dream**.*
 
 He walks up at the exact moment.
 
 ## The dream
 
-*"A **round loaf of barley bread** came tumbling into the Midianite camp. It struck a tent so hard the
+**7:13** again: *"A **round loaf of barley bread** came tumbling into the Midianite camp. It struck a tent so hard the
 whole thing **turned over and collapsed flat**."*
 
 The Hebrew is **tzelil lechem se'orim** — a cake, or a round, of barley bread.
@@ -73,13 +73,13 @@ The Midianite dreams of the cheapest loaf there is, rolling downhill into a tent
 
 ## Where he was when called
 
-*Gideon threshed wheat **in the winepress**, to hide it from the Midianites.*
+**Judges 6:11**: *Gideon threshed wheat **in the winepress**, to hide it from the Midianites.*
 
 A man beating out grain in a wine vat, because of these people.
 
 ## The interpretation
 
-*"This can only mean one thing — **the sword of Gideon** son of Joash, the man of Israel. **God has
+**7:14** *"This can only mean one thing — **the sword of Gideon** son of Joash, the man of Israel. **God has
 given Midian and the whole camp into his hand**."*
 
 ## Who says it
@@ -91,14 +91,14 @@ sentence God spoke to Gideon a few hours earlier.
 
 ## The phrase
 
-*God has given… into his hand.*
+**7:14** again: *God has given… into his hand.*
 
 The same verb, the same tense, the same clause. Gideon hears his own promise come back to him out
 of an enemy tent.
 
 ## What he does
 
-*And so it was, when Gideon heard the telling of the dream and its interpretation, that **he
+**7:15** *And so it was, when Gideon heard the telling of the dream and its interpretation, that **he
 worshiped**.*
 
 Not a battle cry. He bows down in the dark, at the edge of a hostile camp.
@@ -119,7 +119,7 @@ turns on itself.
 
 ## Where the barley loaves turn up
 
-*"There is a lad here who has **five barley loaves** and two small fish, but what are they
+**John 6:9**: *"There is a lad here who has **five barley loaves** and two small fish, but what are they
 among so many?"*
 
 Barley was the poor man's grain — a third the price of wheat, the crop of people who could not
@@ -132,12 +132,12 @@ afterwards. John is the only gospel that specifies the grain, and it is this one
 
 A tent. Not a wall or a gate — the thing the whole army was living in.
 
-*For **the weapons of our warfare are not carnal but mighty in God for pulling down
+**2 Corinthians 10:4**: *For **the weapons of our warfare are not carnal but mighty in God for pulling down
 strongholds**.*
 
 ## What Gideon does about it
 
-*And so it was, when Gideon heard the telling of the dream and its interpretation, that **he
+**7:15** again: *And so it was, when Gideon heard the telling of the dream and its interpretation, that **he
 worshiped**.*
 
 Standing at the edge of an enemy camp in the dark, outnumbered by something near four hundred
