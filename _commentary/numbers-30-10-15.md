@@ -3,7 +3,7 @@ key: Numbers 30:10–15
 title: "He bears the responsibility for her guilt"
 sources:
   - 2020-08-16 gods-supply-unveiled-in-elijah-and-elisha
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 A law about vows, and the last verse of it is the one to stop on.
@@ -11,14 +11,14 @@ A law about vows, and the last verse of it is the one to stop on.
 ## What the chapter is about
 
 Vows and binding pledges — **neder** and **issar**. A vow was voluntary, and once made it
-was absolute: *when you make a vow to God, do not delay to pay it, for He has no pleasure
+was absolute, **Ecclesiastes 5:4**: *when you make a vow to God, do not delay to pay it, for He has no pleasure
 in fools. **Pay what you have vowed**.*
 
 Nobody had to make one. Everybody who made one was held to it.
 
 ## The husband's hearing
 
-*If a woman living with her husband **makes a vow** or binds herself with a pledge, and
+**30:10–11**: *If a woman living with her husband **makes a vow** or binds herself with a pledge, and
 her husband **hears of it and says nothing**, forbidding her nothing, then **all her vows
 and pledges stand**.*
 
@@ -26,7 +26,7 @@ Silence confirms.
 
 ## The cancellation
 
-*But if **he nullifies them on the day he hears**, then **nothing that came from her lips —
+**30:12** *But if **he nullifies them on the day he hears**, then **nothing that came from her lips —
 vow or pledge — will hold**.*
 
 The Hebrew is *he has made them void*.
@@ -35,7 +35,7 @@ The Hebrew is *he has made them void*.
 
 ## Who releases her
 
-*For **her husband has canceled them, and the LORD will release her**.*
+**30:12** again: *For **her husband has canceled them, and the LORD will release her**.*
 
 Two clauses. The husband cancels; the LORD forgives.
 
@@ -47,19 +47,19 @@ cancelled it.
 
 ## The silence rule, stated again
 
-*If he says nothing to her **from one day to the next, he confirms all her vows and
+**30:14** *If he says nothing to her **from one day to the next, he confirms all her vows and
 pledges by his silence**.*
 
 Doing nothing is a decision, and the law says so.
 
 ## The last verse
 
-*If he cancels them **some time after he has heard**, then **he bears the responsibility
+**30:15** *If he cancels them **some time after he has heard**, then **he bears the responsibility
 for her guilt**.*
 
 The Hebrew is *he shall bear her iniquity* — **nasa avon**, to lift and carry the guilt.
 
-That is the phrase used of the scapegoat: *the goat shall **bear on itself all their
+That is the phrase used of the scapegoat, **Leviticus 16:22**: *the goat shall **bear on itself all their
 iniquities** to an uninhabited land.*
 
 And of the servant in Isaiah: *He shall **bear their iniquities**.* See the note on
