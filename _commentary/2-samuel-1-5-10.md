@@ -5,7 +5,7 @@ sources:
   - 2018-10-21 inherit-gods-best-dont-settle-for-less
   - 2018-04-25 where-is-god-in-the-midst-of-your-trouble
   - 2020-02-23 run-toward-your-giants-without-fear
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 A young man arrives at David's camp with Saul's crown in his hands and a story
@@ -13,7 +13,7 @@ he has clearly rehearsed.
 
 ## Who he says he is
 
-*An Amalekite.*
+**1:8** *An Amalekite.*
 
 That is the detail the chapter is built on. Saul had been commanded to destroy
 the Amalekites and had spared what he chose to spare. Now, at the end of his
@@ -67,7 +67,7 @@ A reward.
 He has invented the story — 1 Samuel 31 says Saul died on his own sword — and invented it in
 order to be paid. He read David correctly about everything except what David was like.
 
-Paul names the same appetite: *for **the mind set on the flesh is death**, but the mind set on
+Paul names the same appetite, **Romans 8:6**: *for **the mind set on the flesh is death**, but the mind set on
 the Spirit is life and peace.*
 
 ## Where the war is actually finished
@@ -75,6 +75,6 @@ the Spirit is life and peace.*
 Not by a better king. Saul could not end Amalek, and neither could Israel in four hundred
 years of trying.
 
-*And those who are Christ's have **crucified the flesh** with its passions and desires.*
+**Galatians 5:24**: *And those who are Christ's have **crucified the flesh** with its passions and desires.*
 
 The verb is past, and it is not a programme of management.
