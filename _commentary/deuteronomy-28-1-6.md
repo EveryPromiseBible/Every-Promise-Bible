@@ -14,14 +14,14 @@ sources:
   - 2024-10-20 the-healing-power-of-gods-word
   - 2025-11-09 live-the-heavenly-life-on-earth
   - 2026-01-18 pray-for-the-much-more
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The blessings of the covenant, and the whole passage hangs on the first word.
 
 ## The condition
 
-*"**If** you will truly listen to the LORD your God and **carefully live out all His
+**28:1** *"**If** you will truly listen to the LORD your God and **carefully live out all His
 commands**."*
 
 The Hebrew doubles the verb — *if listening you will listen*. And *all* is in the
@@ -32,7 +32,7 @@ clause in front of it.
 
 ## The verb
 
-*"Every one of these blessings will come and **catch up with you**."*
+**28:2** *"Every one of these blessings will come and **catch up with you**."*
 
 The Hebrew is **nasag** — to overtake, to reach, to pursue and come up with. It is
 the word for an army catching a fleeing enemy.
@@ -43,7 +43,7 @@ The same verb turns up in the curses later in the chapter, about the other list.
 
 ## The six
 
-*Blessed **in the city**, and blessed **in the field**. Blessed **the children you
+**28:3–6**: *Blessed **in the city**, and blessed **in the field**. Blessed **the children you
 bear**, the crops of your ground, and the young of your herds and flocks. Blessed
 **your basket and your kneading bowl**. Blessed **when you come in**, and blessed
 **when you go out**.*
@@ -66,12 +66,12 @@ Whatever this chapter is, it is not written at a distance from ordinary life.
 
 Verses 1 to 14 are the blessings. Verses 15 to 68 are the curses.
 
-Fourteen verses of one and fifty-four of the other, and the second list begins *if you
+Fourteen verses of one and fifty-four of the other, and the second list begins, **28:15**: *if you
 do not obey.*
 
 ## Where Paul takes it
 
-*Everyone who rests on the works of the law is under a curse, for it is written:
+**Galatians 3:10**: *Everyone who rests on the works of the law is under a curse, for it is written:
 **cursed is everyone who does not continue in all the things written in the book of
 the law, to do them**.*
 

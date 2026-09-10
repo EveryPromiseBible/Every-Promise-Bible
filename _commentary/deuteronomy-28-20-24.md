@@ -3,7 +3,7 @@ key: Deuteronomy 28:20–24
 title: Bronze above and iron below
 sources:
   - 2021-01-03 the-year-of-hazon-vision
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 Part of the long half of the chapter, and the images in it are agricultural and exact.
@@ -18,14 +18,14 @@ anyone has crossed.
 
 ## The first
 
-*"The LORD will send **confusion and frustration on everything you put your hand to**, until
+**28:20** *"The LORD will send **confusion and frustration on everything you put your hand to**, until
 you are wiped out and ruined."*
 
 The Hebrew is *cursing, confusion and rebuke* — three words for the same thing.
 
 ## The reason
 
-*"All because **you turned your back on Him**."*
+**28:20** again: *"All because **you turned your back on Him**."*
 
 The Hebrew is *because of the wickedness of your doings, whereby you have forsaken Me*.
 
@@ -33,12 +33,12 @@ Stated once and not repeated. The chapter names one cause.
 
 ## The plagues
 
-*"He will make **plague after plague cling to you**."*
+**28:21** *"He will make **plague after plague cling to you**."*
 
 The Hebrew for *cling* is **dabaq** — to stick fast, to adhere. The word used of a man
 cleaving to his wife.
 
-*"He will strike you with **wasting disease, with fever and burning heat, with drought and
+**28:22** *"He will strike you with **wasting disease, with fever and burning heat, with drought and
 blight and mildew** that will **chase you down to your grave**."*
 
 Seven conditions, and three of them are crop diseases rather than human ones.
@@ -48,7 +48,7 @@ wind, the second from too much damp.
 
 ## The sky and the ground
 
-*"**The sky above you will turn to bronze** and **the ground beneath you to iron**."*
+**28:23** *"**The sky above you will turn to bronze** and **the ground beneath you to iron**."*
 
 Two metals, and the direction of each is the point.
 
@@ -58,7 +58,7 @@ A sealed sky and an unworkable floor — nothing coming down and nothing going i
 
 ## The rain
 
-*"The LORD will **turn your rain to dust and powder**, drifting down from the sky until you
+**28:24** *"The LORD will **turn your rain to dust and powder**, drifting down from the sky until you
 are destroyed."*
 
 Not no rain. Rain replaced by what falls in a dust storm.
@@ -68,7 +68,7 @@ would have been familiar to every farmer listening.
 
 ## The blessing version of the same clause
 
-Fourteen verses earlier: *"The LORD will **open to you His good treasure, the heavens, to
+Fourteen verses earlier, **28:12**: *"The LORD will **open to you His good treasure, the heavens, to
 give the rain to your land in its season**, and to bless all the work of your hand."*
 
 The Hebrew calls the sky a treasury.
@@ -80,7 +80,7 @@ Bronze in one column and an opened treasury in the other, and the same sky in bo
 Shut the sky for three and a half years, and then prayed it open. See the note on
 1 Kings 17:1.
 
-James notes that he was *a man with a nature like ours*.
+**James 5:17**: James notes that he was *a man with a nature like ours*.
 
 ## What Paul says about the curses
 

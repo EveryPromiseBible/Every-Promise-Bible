@@ -11,7 +11,7 @@ sources:
   - 2022-06-26 hope-for-the-third-day-generation
   - 2022-11-06 prosper-gods-way-during-recession
   - 2023-06-11 blessed-with-father-abrahams-blessings
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The blessing list of the covenant, and it is as detailed and generous as anything
@@ -19,20 +19,20 @@ in the Old Testament.
 
 ## What is promised
 
-- enemies who come at you one way and scatter seven
-- blessing on the barns and on everything you set your hand to
-- established as His own holy people, so that the nations see it
-- overflow of children, livestock, harvest
-- *the heavens, His rich storehouse* opened for rain in season
-- lending to many nations and borrowing from none
-- **the head and never the tail; always on top and never underneath**
+- enemies who come at you one way and scatter seven (**28:7**)
+- blessing on the barns and on everything you set your hand to (**28:8**)
+- established as His own holy people, so that the nations see it (**28:9–10**)
+- overflow of children, livestock, harvest (**28:11**)
+- *the heavens, His rich storehouse* opened for rain in season (**28:12**)
+- lending to many nations and borrowing from none (**28:12** again)
+- **the head and never the tail; always on top and never underneath** (**28:13**)
 
 The images are agricultural and national — a farming people who wanted rain,
 children, animals and safety, being told they would have all four.
 
 ## The condition
 
-*If you listen to His commands and hold to them, never turning aside to run after
+**28:13–14**: *If you listen to His commands and hold to them, never turning aside to run after
 other gods.*
 
 It is stated at the end of the passage and it governs everything before it. This
@@ -44,7 +44,7 @@ blessing, and over fifty of curse.
 
 ## How a Christian stands to this
 
-Paul deals with this covenant directly. *Christ redeemed us from the curse of the
+Paul deals with this covenant directly, **Galatians 3:13–14**: *Christ redeemed us from the curse of the
 law, having become a curse for us* — and he says why: *so that the blessing of
 Abraham might come to the Gentiles.*
 
@@ -55,6 +55,6 @@ all.
 That is the difference between reading this list as terms to meet and reading it
 as a description of what a covenant-keeping God is like toward His people.
 
-> **"The head and not the tail."** The Hebrew image is about position in a line —
+> **"The head and not the tail."** **28:13** again: The Hebrew image is about position in a line —
 > leading rather than trailing. In context it belongs with lending rather than
 > borrowing: a nation that others come to, rather than one that depends on them.

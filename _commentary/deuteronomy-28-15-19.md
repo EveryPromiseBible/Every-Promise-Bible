@@ -3,13 +3,13 @@ key: Deuteronomy 28:15–19
 title: Every one of these was taken by Somebody
 sources:
   - 2020-10-11 he-confirms-his-word-with-miracles
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 The list of curses begins here, and the New Testament says where the whole of it went.
 
 ## The structure of the chapter
 
-Fourteen verses of blessing, and then this: *"**But if you will not listen**… then all these
+Fourteen verses of blessing, and then this, **28:15**: *"**But if you will not listen**… then all these
 curses will come and catch up with you."*
 
 The curses run to sixty-eight verses. The blessings get fourteen.
@@ -18,20 +18,20 @@ The curses run to sixty-eight verses. The blessings get fourteen.
 
 Every clause in this paragraph is a blessing from the first half, turned over:
 
-- *Blessed in the city, blessed in the field* → **cursed** in the city, **cursed** in the field
-- *Blessed your basket and your kneading bowl* → **cursed** your basket and your kneading bowl
-- *Blessed the fruit of your body, your ground, your herds* → **cursed**, all three
+- *Blessed in the city, blessed in the field* → **cursed** in the city, **cursed** in the field (**28:16**)
+- *Blessed your basket and your kneading bowl* → **cursed** your basket and your kneading bowl (**28:17**)
+- *Blessed the fruit of your body, your ground, your herds* → **cursed**, all three (**28:18**)
 - *Blessed when you come in, blessed when you go out* → **cursed** coming in, **cursed** going
-  out
+  out (**28:19**)
 
 Word for word, in the same order. The chapter is built as two columns.
 
 ## The condition on both
 
-*"If you will not listen to the LORD your God, **if you will not carefully live out all His
+**28:15** again: *"If you will not listen to the LORD your God, **if you will not carefully live out all His
 commands**."*
 
-**All** of them. James states the arithmetic: *whoever shall keep the whole law, and yet
+**All** of them. James states the arithmetic, **James 2:10**: *whoever shall keep the whole law, and yet
 stumble in one point, he is guilty of all.*
 
 Which means the two columns are not offered as a genuine choice between two achievable
@@ -48,10 +48,10 @@ suspended or renegotiated. It was carried.
 
 ## Where each one landed
 
-*Cursed in the city* — He was crucified outside Jerusalem. *Cursed in the field* — He sweated
-blood in a garden. *Cursed the fruit of your ground* — a crown of thorns, which is the sign
-the ground was cursed in the first place. See the note on Genesis 3:17–19. *Cursed when you
-come in and when you go out* — *they led Him out to crucify Him*.
+**28:16** again: *Cursed in the city* — He was crucified outside Jerusalem. *Cursed in the field* — He sweated
+blood in a garden. **28:18** again: *Cursed the fruit of your ground* — a crown of thorns, which is the sign
+the ground was cursed in the first place. See the note on Genesis 3:17–19. **28:19** again: *Cursed when you
+come in and when you go out* — **Mark 15:20**: *they led Him out to crucify Him*.
 
 ## What is left in the other column
 
