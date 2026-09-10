@@ -3,7 +3,7 @@ key: Joshua 4:4–7
 title: When your children ask
 sources:
   - 2021-06-13 he-goes-ahead-of-you
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 The river is still standing in a heap and Joshua stops to organise a monument.
@@ -17,13 +17,13 @@ That is when this conversation happens.
 
 ## The twelve
 
-*Joshua called **the twelve men he had appointed, one from each tribe**.*
+**4:4** *Joshua called **the twelve men he had appointed, one from each tribe**.*
 
 Chosen in advance. Chapter 3 records the instruction before the crossing began.
 
 ## The instruction
 
-*"**Go out into the Jordan, ahead of the ark** of the LORD your God, and each of you **lift a
+**4:5** *"**Go out into the Jordan, ahead of the ark** of the LORD your God, and each of you **lift a
 stone onto your shoulder** — one for each of the tribes."*
 
 Out into the middle, past the ark, and back with a stone big enough to need a shoulder.
@@ -32,20 +32,20 @@ Twelve men walk deeper into a dry riverbed while the water waits.
 
 ## The purpose
 
-*"**This will be a sign among you**."*
+**4:6** *"**This will be a sign among you**."*
 
 The Hebrew is **oth** — a sign, a marker. The word used of the rainbow and of circumcision.
 
 ## The question it is for
 
-*"And someday **your children will ask, 'What do these stones mean to you?'**"*
+**4:6** again: *"And someday **your children will ask, 'What do these stones mean to you?'**"*
 
 The whole arrangement is built around a question that has not been asked yet, by people who
 have not been born.
 
 ## The answer to give
 
-*"Then you can tell them: **the waters of the Jordan were cut off before the ark** of the
+**4:7** *"Then you can tell them: **the waters of the Jordan were cut off before the ark** of the
 covenant of the LORD."*
 
 Short, factual, and it names what stopped the water.
@@ -54,13 +54,13 @@ Not *we crossed a river*. The water was cut off, and it was cut off in front of 
 
 ## The repetition
 
-*"When the ark crossed the Jordan, **the waters were cut off**."*
+**4:7** again: *"When the ark crossed the Jordan, **the waters were cut off**."*
 
 Said twice in two sentences. The children's answer has the same clause in it both times.
 
 ## The duration
 
-*"These stones are a **reminder to the people of Israel, forever**."*
+**4:7** again: *"These stones are a **reminder to the people of Israel, forever**."*
 
 The Hebrew is *for a memorial to the children of Israel forever* — **ad olam**.
 
@@ -69,10 +69,10 @@ The Hebrew is *for a memorial to the children of Israel forever* — **ad olam**
 The same construction runs through Exodus and Deuteronomy, always about a rite and always
 anticipating a child:
 
-*And it shall be, when your son asks you in time to come, saying, "What is this?" that you
+**Exodus 13:14**: *And it shall be, when your son asks you in time to come, saying, "What is this?" that you
 shall say to him, "By strength of hand the LORD brought us out of Egypt."*
 
-*When your son asks you in time to come, saying, "What is the meaning of the testimonies?"
+**Deuteronomy 6:20–21**: *When your son asks you in time to come, saying, "What is the meaning of the testimonies?"
 then you shall say, "We were slaves of Pharaoh in Egypt, and the LORD brought us out."*
 
 Passover, the firstborn, the statutes — each one comes with the child's question written into
@@ -92,7 +92,7 @@ on Joshua 4:19–24.
 
 ## The one that failed
 
-Judges opens a generation later: *another generation arose after them **who did not know the
+Judges opens a generation later, **Judges 2:10**: *another generation arose after them **who did not know the
 LORD nor the work which He had done for Israel**.*
 
 The stones were set up. Somebody stopped telling.

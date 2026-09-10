@@ -3,14 +3,14 @@ key: Joshua 4:19–24
 title: The tenth day of the first month
 sources:
   - 2021-06-13 he-goes-ahead-of-you
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 The date is given, and it is not an incidental detail.
 
 ## The date
 
-*The people came up out of the Jordan on the **tenth day of the first month**.*
+**4:19** *The people came up out of the Jordan on the **tenth day of the first month**.*
 
 The tenth of Nisan.
 
@@ -25,43 +25,43 @@ chosen.
 
 ## What happens four days later
 
-*Now the children of Israel camped in Gilgal, and kept the Passover on the fourteenth day of
+**Joshua 5:10**: *Now the children of Israel camped in Gilgal, and kept the Passover on the fourteenth day of
 the month at twilight on the plains of Jericho.*
 
 The first Passover in the land, on schedule, in enemy territory.
 
 ## Where they camp
 
-*And they camped at **Gilgal, on the eastern edge of Jericho**.*
+**4:19** again: *And they camped at **Gilgal, on the eastern edge of Jericho**.*
 
 Gilgal becomes the base for the whole conquest. They come back to it after every campaign.
 
-The name is explained a few verses later: *this day I have **rolled away** the reproach of
+The name is explained a few verses later, **Joshua 5:9**: *this day I have **rolled away** the reproach of
 Egypt from you* — **galal**, to roll.
 
 ## The stones
 
-*And those twelve stones they had carried out of the Jordan, **Joshua set them up at
+**4:20** *And those twelve stones they had carried out of the Jordan, **Joshua set them up at
 Gilgal**.*
 
 The pile that came out of the river ends up here. See the note on Joshua 4:8–9.
 
 ## The question
 
-*"In days to come, when **your children ask their fathers, 'What are these stones?'**"*
+**4:21** *"In days to come, when **your children ask their fathers, 'What are these stones?'**"*
 
 The second time in one chapter. The stones exist for a conversation.
 
 ## What to say
 
-*"You'll teach them: **Israel crossed this Jordan on dry ground**."*
+**4:22** *"You'll teach them: **Israel crossed this Jordan on dry ground**."*
 
 The Hebrew is **yabbashah** — dry land. The same word as Genesis 1, when the dry land appears
 out of the water.
 
 ## The comparison
 
-*"For the LORD your God **dried up the waters of the Jordan** before you until you had
+**4:23** *"For the LORD your God **dried up the waters of the Jordan** before you until you had
 crossed, **just as the LORD your God had done to the Red Sea**."*
 
 The two crossings are set side by side. One took the previous generation out; this one brings
@@ -74,14 +74,14 @@ Joshua was there. He is one of two men alive who saw both.
 
 ## The two purposes
 
-*"He did this **so that all the peoples of the earth would know the hand of the LORD is
+**4:24** *"He did this **so that all the peoples of the earth would know the hand of the LORD is
 mighty**."*
 
-*"And so that **you would stand in awe of the LORD your God, always**."*
+**4:24** again: *"And so that **you would stand in awe of the LORD your God, always**."*
 
 An external audience and an internal one, in that order.
 
-Rahab had already reported the first working: *we have heard how the LORD dried up the water
+Rahab had already reported the first working, **Joshua 2:10–11**: *we have heard how the LORD dried up the water
 of the Red Sea for you… and as soon as we heard these things, our hearts melted*.
 
 ## What the crossing cost
@@ -100,7 +100,7 @@ Luke 19:36–40.
 The lamb comes into the city on selection day, and is inspected for four days by the
 authorities, who can find no fault in Him.
 
-Pilate says it three times: *I find no fault in this Man*.
+Pilate says it three times, **John 19:4, 6**: *I find no fault in this Man*.
 
 > **The date it happened on.** The tenth of the first month — the day Exodus sets aside for
 > taking the lamb into the house and looking at it.
