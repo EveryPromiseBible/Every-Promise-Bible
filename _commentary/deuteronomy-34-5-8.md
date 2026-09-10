@@ -8,7 +8,7 @@ sources:
   - 2022-02-27 jesus-saves-heals-and-renews
   - 2023-02-26 power-to-renew-your-youth
   - 2024-07-28 provision-in-the-place-of-nearness
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The last paragraph about Moses, and it records three things nobody else in the
@@ -16,7 +16,7 @@ Bible gets.
 
 ## He was buried by God
 
-*He buried him in the valley in Moab… but to this day no one knows where his
+**34:6** *He buried him in the valley in Moab… but to this day no one knows where his
 grave is.*
 
 The subject of that verb is the LORD. Moses climbs a mountain alone, dies alone,
@@ -28,7 +28,7 @@ have become a shrine within a generation.
 
 ## The physical detail
 
-*Moses was a hundred and twenty years old when he died, yet his eyes were not
+**34:7** *Moses was a hundred and twenty years old when he died, yet his eyes were not
 weak and his strength had not left him.*
 
 The writer goes out of his way to say Moses was not failing. He did not die of
