@@ -5,33 +5,33 @@ sources:
   - 2021-06-13 he-goes-ahead-of-you
   - 2022-04-17 healed-and-whole-by-his-resurrection-life
   - 2022-06-26 hope-for-the-third-day-generation
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 Marching orders, and the reason given for them is a gap.
 
 ## Where they start
 
-*Early the next morning Joshua and all the Israelites **broke camp at Shittim**.*
+**3:1** *Early the next morning Joshua and all the Israelites **broke camp at Shittim**.*
 
-Shittim is where the Balaam story ends badly — *the people began to commit harlotry with the
+Shittim is where the Balaam story ends badly, **Numbers 25:1**: *the people began to commit harlotry with the
 women of Moab*, and twenty-four thousand died in the plague.
 
 The last camp before the land is the site of the last disaster.
 
 ## The waiting
 
-*And came to the edge of the Jordan, and there they camped **before crossing**. **After three
+**3:1–2**: *And came to the edge of the Jordan, and there they camped **before crossing**. **After three
 days**.*
 
 Three days of looking at a river they have no way over.
 
-The chapter later notes the season: *the Jordan overflows all its banks during the whole time
+The chapter later notes the season, **3:15**: *the Jordan overflows all its banks during the whole time
 of harvest*.
 
 ## The order
 
-*"When you see **the ark of the covenant** of the LORD your God being carried by the
+**3:3** *"When you see **the ark of the covenant** of the LORD your God being carried by the
 Levitical priests, then **leave your places and follow it**."*
 
 The instruction is not a route. It is an object to follow.
@@ -41,7 +41,7 @@ a gold box carried on poles by men on foot.
 
 ## The reason
 
-*"That way **you'll know which road to take, for you have never come this way before**."*
+**3:4** *"That way **you'll know which road to take, for you have never come this way before**."*
 
 The Hebrew is *you have not passed this way before, yesterday or the day before*.
 
@@ -50,7 +50,7 @@ column has been here.
 
 ## The distance
 
-*"But **keep your distance — about three thousand feet** between you and the ark. **Don't
+**3:4** again: *"But **keep your distance — about three thousand feet** between you and the ark. **Don't
 come near it**."*
 
 The Hebrew is two thousand cubits.
@@ -79,7 +79,7 @@ Hebrews lists them. The lid is the mercy seat.
 
 ## What happens next
 
-*"Sanctify yourselves, for tomorrow the LORD will do wonders among you."*
+**3:5** *"Sanctify yourselves, for tomorrow the LORD will do wonders among you."*
 
 And then the priests' feet touch the water and the river stops upstream at a town called
 Adam. See the note on Joshua 3:14–17.
