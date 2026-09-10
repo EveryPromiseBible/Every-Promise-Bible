@@ -6,14 +6,14 @@ sources:
   - 2022-01-16 the-secret-of-obed-edoms-blessings
   - 2022-01-23 his-strength-flows-in-our-weaknesses
   - 2022-10-09 hope-for-the-end-times
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 The procession stops, and the ark spends three months in somebody's house.
 
 ## The fear
 
-*And that day **fear settled over David**.*
+**6:9** *And that day **fear settled over David**.*
 
 The Hebrew is *David was afraid of the LORD that day*.
 
@@ -22,7 +22,7 @@ corrected.
 
 ## The question
 
-*"**How can I ever bring the ark of the LORD home to me?**"*
+**6:9** again: *"**How can I ever bring the ark of the LORD home to me?**"*
 
 The Hebrew is *how shall the ark of the LORD come to me?*
 
@@ -31,14 +31,14 @@ later he will.
 
 ## The decision
 
-*So David **would not move the ark into his own city**.*
+**6:10** *So David **would not move the ark into his own city**.*
 
 He stops the procession where it is, six miles short of Jerusalem, with thirty thousand men
 standing in a field.
 
 ## The diversion
 
-*He turned it aside instead to the house of **Obed-edom the Gittite**.*
+**6:10** again: *He turned it aside instead to the house of **Obed-edom the Gittite**.*
 
 **Gittite** — a man of Gath. Goliath's city.
 
@@ -50,7 +50,7 @@ where it had spent seven months a generation earlier.
 
 ## What nobody expects
 
-*There the ark of the LORD stayed for **three months** — and **the LORD blessed Obed-edom and
+**6:11** *There the ark of the LORD stayed for **three months** — and **the LORD blessed Obed-edom and
 everyone under his roof**.*
 
 The Hebrew is *and all his household*.
@@ -66,7 +66,7 @@ The ark was never the problem.
 The narrative has just recorded a death and now records a household prospering for three
 months, and the only difference is the handling.
 
-The Chronicler is explicit about the lesson David drew: *because we did not consult Him about
+The Chronicler is explicit about the lesson David drew, **1 Chronicles 15:13**: *because we did not consult Him about
 the proper order*.
 
 ## What the neighbours noticed
@@ -88,9 +88,9 @@ David's first act after taking Jerusalem is to go and get it.
 ## What Obed-edom got afterwards
 
 The Chronicler keeps track of him. He is listed among those appointed to minister before the
-ark in Jerusalem — *Obed-edom with his brethren, sixty-eight* — and later as a gatekeeper.
+ark in Jerusalem, **1 Chronicles 16:38**: *Obed-edom with his brethren, sixty-eight* — and later as a gatekeeper.
 
-*For God blessed him*, the record notes, and gives him eight sons.
+**1 Chronicles 26:5**: *For God blessed him*, the record notes, and gives him eight sons.
 
 He does not go back to private life. Three months with it in the house, and he spends the rest
 of his life near it.
@@ -99,14 +99,14 @@ of his life near it.
 
 Works out the instructions. Prepares a tent. Appoints the Levites.
 
-*"No one may carry the ark of God but the Levites, for the LORD has chosen them to carry the
+**1 Chronicles 15:2**: *"No one may carry the ark of God but the Levites, for the LORD has chosen them to carry the
 ark of God and to minister before Him forever."*
 
 Three months of not moving, and then it is done properly.
 
 ## The same box, two houses
 
-Six miles apart, within a few days. At one, a man dies touching it. At the other, *the LORD
+Six miles apart, within a few days. At one, a man dies touching it. At the other, **6:11** again: *the LORD
 blessed Obed-Edom and all his household.*
 
 Nothing about the ark changed. What changed is that in the second house nobody was carrying it
@@ -121,7 +121,7 @@ Underneath the lid were the tablets that condemned everybody in both houses. The
 between a household that is struck and a household that is blessed is what is between the law
 and the God who wrote it.
 
-*Whom God set forth as **a propitiation by His blood**.*
+**Romans 3:25**: *Whom God set forth as **a propitiation by His blood**.*
 
 The Greek is **hilasterion** — and it is the word the Greek Old Testament uses for the mercy
 seat. Paul picks the lid of that box for what Christ is.
@@ -131,7 +131,7 @@ seat. Paul picks the lid of that box for what Christ is.
 A Gittite. A man from Gath — Goliath's town — with the ark of Israel in his house for three
 months because nobody else would take it.
 
-*And He came and preached peace to you who were **afar off** and to those who were near.*
+**Ephesians 2:17**: *And He came and preached peace to you who were **afar off** and to those who were near.*
 
 ## What got back to the king
 

@@ -3,14 +3,14 @@ key: 2 Samuel 6:1–5
 title: A brand-new cart
 sources:
   - 2022-01-09 gods-way-of-acceleration
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 Everything about the first attempt is generous, expensive and sincere.
 
 ## The men
 
-*David gathered the best of Israel again — **thirty thousand handpicked men**.*
+**6:1** *David gathered the best of Israel again — **thirty thousand handpicked men**.*
 
 The Hebrew is **bachur** — chosen, picked.
 
@@ -18,14 +18,14 @@ An enormous escort. Nothing about this is done quietly.
 
 ## The destination
 
-*They set out for **Baale-judah** to bring back the ark of God.*
+**6:2** *They set out for **Baale-judah** to bring back the ark of God.*
 
 Another name for Kirjath Jearim, where the ark had been in Abinadab's house for a generation.
 See the note on 1 Samuel 7:2–4.
 
 ## The title
 
-*The ark that **carries the Name — the Name of the LORD of Heaven's Armies, who sits enthroned
+**6:2** again: *The ark that **carries the Name — the Name of the LORD of Heaven's Armies, who sits enthroned
 above the winged cherubim**.*
 
 The Hebrew is *the ark of God, which is called by the Name, the name of the LORD of hosts who
@@ -35,7 +35,7 @@ The fullest title the ark is given anywhere.
 
 ## The transport
 
-*They loaded the ark of God onto **a brand-new cart**.*
+**6:3** *They loaded the ark of God onto **a brand-new cart**.*
 
 The Hebrew is **agalah chadashah** — a new cart.
 
@@ -50,7 +50,7 @@ Israel had the instructions.
 
 Poles, permanently in the rings, carried on the shoulders of the sons of Kohath.
 
-*But they shall not touch any holy thing, lest they die.*
+**Numbers 4:15**: *But they shall not touch any holy thing, lest they die.*
 
 The Chronicler records David saying so afterwards: *because you did not do it the first time,
 the LORD our God broke out against us, **for we did not seek Him about the proper way**.* See
@@ -58,7 +58,7 @@ the note on 1 Chronicles 15:11–15.
 
 ## The drivers
 
-*With Abinadab's sons **Uzzah and Ahio** guiding the way. **Ahio walked out in front** of the
+**6:3–4** *With Abinadab's sons **Uzzah and Ahio** guiding the way. **Ahio walked out in front** of the
 ark.*
 
 Two brothers from the household where it had been kept. One walks in front and one beside.
@@ -67,7 +67,7 @@ They had grown up with it in the house. Twenty years and more of walking past it
 
 ## The celebration
 
-*And David and all Israel **let joy pour out of them before the LORD** — singing with everything
+**6:5** *And David and all Israel **let joy pour out of them before the LORD** — singing with everything
 they had, with **harps and lyres, with tambourines and rattles and clashing cymbals**.*
 
 The Hebrew is *with all their might*.
@@ -96,7 +96,7 @@ shoulders, sacrifices, and a linen ephod. See the note on 2 Samuel 6:12–15.
 
 ## The paragraph before
 
-*So David went and brought up the ark of God from the house of Obed-Edom to the City of David
+**6:12** *So David went and brought up the ark of God from the house of Obed-Edom to the City of David
 **with gladness**.*
 
 The second procession is described with the same word as the first.
@@ -114,7 +114,7 @@ It worked for them because they did not have the instructions.
 
 ## What the law actually specified
 
-*"**The sons of Kohath shall come to carry them**, but **they shall not touch any holy
+**Numbers 4:15** again: *"**The sons of Kohath shall come to carry them**, but **they shall not touch any holy
 thing**, lest they die."*
 
 Poles through rings, on the shoulders of men, and the poles were never to come out — the ark
@@ -128,14 +128,14 @@ A right intention, executed by a method borrowed from people who did not know Go
 Thirty thousand men, harps, tambourines, cymbals and genuine joy — and a piece of farm
 equipment where six shoulders should have been.
 
-Paul says it of a zeal that was real and misdirected: *being ignorant of God's righteousness,
+Paul says it of a zeal that was real and misdirected, **Romans 10:3**: *being ignorant of God's righteousness,
 and **seeking to establish their own righteousness**, they have not submitted to the
 righteousness of God.*
 
 ## What David does the second time
 
-*"Because **you did not do it the first time**, the LORD our God broke out against us, for we
-did not consult Him **about the proper order**." And **the Levites bore the ark of God on
+**1 Chronicles 15:13**: *"Because **you did not do it the first time**, the LORD our God broke out against us, for we
+did not consult Him **about the proper order**."* **1 Chronicles 15:15**: *And **the Levites bore the ark of God on
 their shoulders**, by its poles, as Moses had commanded.*
 
 Three months later, and the correction is not more sincerity. It is shoulders.
