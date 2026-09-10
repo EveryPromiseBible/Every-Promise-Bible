@@ -3,14 +3,14 @@ key: Deuteronomy 23:3–6
 title: No Moabite may enter
 sources:
   - 2023-01-08 the-kairos-year-of-right-time-right-place
-updated: 2026-08-07
+updated: 2026-09-09
 ---
 
 A permanent exclusion, with the reasons given.
 
 ## The law
 
-*No **Ammonite or Moabite** may enter the assembly of the LORD, nor any of their descendants, **even
+**23:3** *No **Ammonite or Moabite** may enter the assembly of the LORD, nor any of their descendants, **even
 to the tenth generation, forever**.*
 
 The Hebrew is **qehal YHWH** — the assembly of the LORD. The gathered congregation for worship
@@ -27,30 +27,30 @@ Relatives, and the law names them and not the Canaanites in this paragraph.
 
 ## The first reason
 
-*Because they **did not meet you with food and water on your way out of Egypt**.*
+**23:4** *Because they **did not meet you with food and water on your way out of Egypt**.*
 
 Not an attack. A failure to offer hospitality to relatives passing through, in a desert.
 
 ## The second
 
-*And because **they hired Balaam son of Beor, from Pethor in Mesopotamia, to curse you**.*
+**23:4** again: *And because **they hired Balaam son of Beor, from Pethor in Mesopotamia, to curse you**.*
 
 Balak king of Moab sent for a professional to curse Israel, and paid.
 
 ## What happened
 
-*But **the LORD your God would not listen to Balaam**; He **turned the curse into a blessing** for
+**23:5** *But **the LORD your God would not listen to Balaam**; He **turned the curse into a blessing** for
 you.*
 
 The Hebrew is **vayyahaphok** — He overturned it.
 
 Four times Balaam opened his mouth to curse and four oracles of blessing came out.
 
-*How shall I curse whom God has not cursed?*
+**Numbers 23:8**: *How shall I curse whom God has not cursed?*
 
 ## The reason for the reversal
 
-*Because **the LORD your God loves you**.*
+**23:5** again: *Because **the LORD your God loves you**.*
 
 The Hebrew is **ki ahevcha YHWH Eloheicha**.
 
@@ -59,7 +59,7 @@ reversal, and it is affection.
 
 ## The prohibition
 
-*So **do not seek their peace or their prosperity as long as you live**.*
+**23:6** *So **do not seek their peace or their prosperity as long as you live**.*
 
 The Hebrew is **shelomam vetovatam** — their peace and their good.
 
@@ -77,10 +77,10 @@ Ruth 1:16–17.
 
 ## What she does
 
-Gleans in Boaz's field, and Boaz says *it has been fully reported to me, all that you have done
+Gleans in Boaz's field, and Boaz says, **Ruth 2:11**: *it has been fully reported to me, all that you have done
 for your mother-in-law*.
 
-*The LORD repay your work, and a full reward be given you by the LORD God of Israel, **under whose
+**Ruth 2:12**: *The LORD repay your work, and a full reward be given you by the LORD God of Israel, **under whose
 wings you have come for refuge**.*
 
 The same verb, **chasah**, as Psalm 118: to take shelter. See the note on
@@ -88,9 +88,9 @@ Psalms 118:8–9.
 
 ## Where she ends up
 
-*So Boaz took Ruth and she became his wife… and she bore a son.*
+**Ruth 4:13**: *So Boaz took Ruth and she became his wife… and she bore a son.*
 
-*And they called his name **Obed**. He is the father of Jesse, **the father of David**.*
+**Ruth 4:17**: *And they called his name **Obed**. He is the father of Jesse, **the father of David**.*
 
 The last four verses of Ruth are a genealogy running to David.
 
@@ -113,5 +113,5 @@ The book simply tells what happened, and the Moabitess is David's great-grandmot
 *For He Himself is our peace, who has made both one, and **has broken down the middle wall of
 separation**.* See the note on Ephesians 2:14–16.
 
-> **The clause that does not belong.** *Because the LORD your God loves you.* It sits in the
+> **The clause that does not belong.** **23:5** again: *Because the LORD your God loves you.* It sits in the
 > middle of a legal exclusion, explaining why a hired curse came out the other way.
