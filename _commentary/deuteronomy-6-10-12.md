@@ -7,7 +7,7 @@ sources:
   - 2021-11-28 faith-to-possess-the-land
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2024-01-14 the-year-of-living-in-the-upper-room
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 Moses lists what they are about to inherit, and every item has the same clause
@@ -15,7 +15,7 @@ attached.
 
 ## The four
 
-*Great and beautiful **cities you did not build**, houses **filled with every good
+**6:10–11**: *Great and beautiful **cities you did not build**, houses **filled with every good
 thing you did not fill**, **wells you did not dig**, vineyards and olive trees **you
 did not plant**.*
 
@@ -34,7 +34,7 @@ They walk into the finished version of other people's decades.
 
 ## The danger
 
-*"And **when you have eaten your fill, then be careful**."*
+**6:11** again: *"And **when you have eaten your fill, then be careful**."*
 
 Not when you are hungry. When you are full.
 
@@ -45,7 +45,7 @@ Deuteronomy 8:17–18.
 
 ## What forgetting means
 
-*"**Do not forget the LORD, the One who brought you out of Egypt, out of the house of
+**6:12** *"**Do not forget the LORD, the One who brought you out of Egypt, out of the house of
 slavery**."*
 
 The Hebrew for *forget* is not a memory lapse. It is ceasing to reckon with
@@ -64,7 +64,7 @@ possession will feel like achievement.
 
 ## Where the chapter sits
 
-Immediately after the Shema — *hear, O Israel: the LORD our God, the LORD is one. You
+Immediately after the Shema, **6:4–5**: *hear, O Israel: the LORD our God, the LORD is one. You
 shall love the LORD your God with all your heart, with all your soul, and with all
 your strength.*
 
@@ -79,14 +79,14 @@ Only remembering. There is no work in the passage.
 
 ## Where the same sentence turns up
 
-*"I sent you to reap that for which you have not labored; **others have labored, and you have
+**John 4:38**: *"I sent you to reap that for which you have not labored; **others have labored, and you have
 entered into their labors**."*
 
 Jesus said it to disciples at a well in Samaria, and it is the clause from this passage in a
 different setting. Cities you did not build, wells you did not dig — and a harvest you did
 not work for.
 
-*For **what do you have that you did not receive**? Now if you did indeed receive it, why do
+**1 Corinthians 4:7**: *For **what do you have that you did not receive**? Now if you did indeed receive it, why do
 you boast as if you had not received it?*
 
 ## What is actually asked of them
@@ -100,6 +100,6 @@ And notice how He describes Himself. Not *the One giving you these cities* — t
 the one nobody could have earned.
 
 > **The other thing Moses tells them to say.** When your son asks what the testimonies
-> mean, *you shall say to your son: "**We were slaves of Pharaoh in Egypt, and the LORD
+> mean, **6:21**: *you shall say to your son: "**We were slaves of Pharaoh in Egypt, and the LORD
 > brought us out**."* The answer to every question about the law is a piece of
 > history, told in the first person plural, by people who were not there.

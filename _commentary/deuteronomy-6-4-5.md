@@ -5,7 +5,7 @@ sources:
   - 2021-07-25 speak-life-not-death
   - 2021-08-15 the-significance-of-this-generation
   - 2026-02-08 superabounding-grace-for-unresolved-guilt
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The sentence a Jewish child learns first and a dying Jew says last.
@@ -19,7 +19,7 @@ for obey.
 
 ## The claim
 
-*The LORD our God, **the LORD is one**.*
+**6:4** *The LORD our God, **the LORD is one**.*
 
 The Hebrew is four words: **YHWH Eloheinu YHWH echad**.
 
@@ -36,14 +36,14 @@ only son.
 
 ## Where it is written
 
-On the doorposts. *You shall write them on the doorposts of your house and on your gates* —
+On the doorposts, **6:9**: *You shall write them on the doorposts of your house and on your gates* —
 which is what a mezuzah is, a small case with these verses inside, on the frame of a door.
 
 And on the arm and forehead, in the little boxes of the tefillin.
 
 ## The command
 
-*And **love the LORD your God**.*
+**6:5** *And **love the LORD your God**.*
 
 The first thing commanded after the declaration is an affection.
 
@@ -52,7 +52,7 @@ commands it.
 
 ## The three
 
-*With your **whole heart**, with your **whole soul**, with **everything you have**.*
+**6:5** again: *With your **whole heart**, with your **whole soul**, with **everything you have**.*
 
 The Hebrew is **levav**, **nephesh**, **meod**.
 
@@ -74,22 +74,22 @@ Nothing. That is the design of the list.
 Asked which is the first commandment of all, He recites it — including the *Hear, O Israel*
 line, which nobody else in the New Testament quotes.
 
-*"This is the first commandment. And the second, like it, is this: **You shall love your
+**Mark 12:31**: *"This is the first commandment. And the second, like it, is this: **You shall love your
 neighbour as yourself**. There is no other commandment greater than these."*
 
 He adds a fourth item to the list — **dianoia**, mind — when He quotes it in Greek.
 
 ## The scribe's answer
 
-*"Well said, Teacher. You have spoken the truth… and **to love Him with all the heart, with
+**Mark 12:32–33**: *"Well said, Teacher. You have spoken the truth… and **to love Him with all the heart, with
 all the understanding, with all the soul, and with all the strength, and to love one's
 neighbour as oneself, is more than all the whole burnt offerings and sacrifices**."*
 
-And Jesus: *you are not far from the kingdom of God*.
+And Jesus, **Mark 12:34**: *you are not far from the kingdom of God*.
 
 ## What follows in Deuteronomy
 
-*"And these words which I command you today **shall be in your heart**. **You shall teach
+**6:6–7**: *"And these words which I command you today **shall be in your heart**. **You shall teach
 them diligently to your children**, and shall talk of them **when you sit in your house, when
 you walk by the way, when you lie down, and when you rise up**."*
 

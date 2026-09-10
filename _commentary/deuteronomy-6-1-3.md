@@ -3,7 +3,7 @@ key: Deuteronomy 6:1–3
 title: You and your children and theirs
 sources:
   - 2021-10-17 gods-heart-for-your-family
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 The introduction to the Shema, and it names three generations before it says anything else.
@@ -18,7 +18,7 @@ children then, or not born.
 
 ## The three words
 
-*Here are **the commands, the laws, the rulings**.*
+**6:1** *Here are **the commands, the laws, the rulings**.*
 
 The Hebrew is **mitzvah**, **chuqqim**, **mishpatim** — commandment, statutes, judgments.
 
@@ -27,13 +27,13 @@ law.
 
 ## The destination
 
-*Meant for **the land you are crossing over to possess**.*
+**6:1** again: *Meant for **the land you are crossing over to possess**.*
 
 The law is given for a place they are not in yet.
 
 ## The three generations
 
-*Live this way, **you and your children and your children's children after them**.*
+**6:2** *Live this way, **you and your children and your children's children after them**.*
 
 Named in the first sentence.
 
@@ -42,19 +42,19 @@ twice to reach the third name in the list.
 
 ## The posture
 
-*Holding the LORD **in awe all the days of your life**.*
+**6:2** again: *Holding the LORD **in awe all the days of your life**.*
 
 The Hebrew is **yare** — to fear, to revere.
 
 ## The result
 
-*And **your days will be long**.*
+**6:2** again: *And **your days will be long**.*
 
 The promise attached to the fifth commandment, applied here to the whole.
 
 ## The address
 
-*Listen then, Israel.*
+**6:3** *Listen then, Israel.*
 
 The Hebrew is **shema Yisrael** — the same two words that open the next paragraph.
 
@@ -63,7 +63,7 @@ note on Deuteronomy 6:4–5.
 
 ## The instruction
 
-*And **be careful to live it out**.*
+**6:3** again: *And **be careful to live it out**.*
 
 The Hebrew is **shamarta la'asot** — take care to do.
 
@@ -72,11 +72,11 @@ does both jobs.
 
 ## The promises
 
-*So that **all may go well with you** and you may **increase greatly**.*
+**6:3** again: *So that **all may go well with you** and you may **increase greatly**.*
 
 ## The description
 
-*A land **flowing with milk and honey**.*
+**6:3** again: *A land **flowing with milk and honey**.*
 
 The Hebrew is **zavat chalav udevash**.
 
@@ -110,7 +110,7 @@ The danger named is not persecution. It is a full house.
 
 ## What comes in verse 4
 
-*Hear, O Israel: the LORD our God, the LORD is one. You shall love the LORD your God with all
+**6:4–5**: *Hear, O Israel: the LORD our God, the LORD is one. You shall love the LORD your God with all
 your heart, with all your soul, and with all your strength.*
 
 A scribe asked Jesus which was the first commandment of all, and that is what He answered —
@@ -121,11 +121,11 @@ than these two.
 
 ## Who the promise reaches
 
-*You and your children and your children's children.*
+**6:2** again: *You and your children and your children's children.*
 
 Three generations named in the opening sentence, before a single command is given.
 
-*For **the promise is to you and to your children**, and to all who are afar off, as many as
+**Acts 2:39**: *For **the promise is to you and to your children**, and to all who are afar off, as many as
 the Lord our God will call.*
 
 Peter, on the day the Spirit came, reaching for the same shape — and adding a fourth

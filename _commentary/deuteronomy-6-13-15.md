@@ -4,7 +4,7 @@ title: A God who will not share
 sources:
   - 2022-01-09 gods-way-of-acceleration
   - 2022-01-16 the-secret-of-obed-edoms-blessings
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 Three verses immediately after the warning about a full house.
@@ -20,7 +20,7 @@ Then this.
 
 ## The three
 
-*Hold the LORD your God **in awe**. **Serve** Him. **Take your oaths in His name** and no
+**6:13** *Hold the LORD your God **in awe**. **Serve** Him. **Take your oaths in His name** and no
 other.*
 
 **Yare** — fear, revere. **Avad** — serve, work for. And swearing by the name.
@@ -42,7 +42,7 @@ All three of His answers in the wilderness come from Deuteronomy 6 and 8.
 
 ## The prohibition
 
-*Do not go running after other gods, **the gods of the peoples all around you**.*
+**6:14** *Do not go running after other gods, **the gods of the peoples all around you**.*
 
 Not distant religions. The neighbours'.
 
@@ -54,7 +54,7 @@ Behind them or around them, and those are the only two options he offers.
 
 ## The reason
 
-*For the LORD your God, **right there in your midst**, is a God who **will not share your
+**6:15** *For the LORD your God, **right there in your midst**, is a God who **will not share your
 heart**.*
 
 The Hebrew is **el qanna** — a jealous God.
@@ -69,7 +69,7 @@ Indifference would be the alternative, and it would be worse.
 
 ## The clause in the middle
 
-*Right there in your midst.*
+**6:15** again: *Right there in your midst.*
 
 The Hebrew is **beqirbekha** — in your inward parts, among you.
 
@@ -78,13 +78,13 @@ claims; He is described as living among them.
 
 ## The warning
 
-*Do not stir up His anger against you and be **swept off the face of the land**.*
+**6:15** again: *Do not stir up His anger against you and be **swept off the face of the land**.*
 
 The land they are about to be given, in the same paragraph as the giving.
 
 ## What follows immediately
 
-*You shall not tempt the LORD your God as you tempted Him in **Massah**.*
+**6:16** *You shall not tempt the LORD your God as you tempted Him in **Massah**.*
 
 Massah — *testing*. Where they demanded water and asked *is the LORD among us or not?*
 
