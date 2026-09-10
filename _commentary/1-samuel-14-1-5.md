@@ -3,7 +3,7 @@ key: 1 Samuel 14:1–5
 title: He did not tell his father
 sources:
   - 2022-04-03 when-the-odds-are-against-you
-updated: 2026-08-07
+updated: 2026-09-10
 ---
 
 Two men set out, and the narrator gives the terrain in detail because the terrain is the
@@ -11,7 +11,7 @@ story.
 
 ## The proposal
 
-*"**Come on — let's cross over to the Philistine outpost on the other side**."*
+**14:1** *"**Come on — let's cross over to the Philistine outpost on the other side**."*
 
 Said by Jonathan to his armour-bearer.
 
@@ -20,7 +20,7 @@ an equal.
 
 ## The omission
 
-*But **he didn't tell his father**.*
+**14:1** again: *But **he didn't tell his father**.*
 
 The Hebrew states it plainly and the narrator does not comment.
 
@@ -28,7 +28,7 @@ Whether it is initiative or insubordination is left open. Saul is the king and t
 
 ## Where Saul is
 
-*Staying **on the outskirts of Gibeah under a pomegranate tree at Migron**, with about six
+**14:2** *Staying **on the outskirts of Gibeah under a pomegranate tree at Migron**, with about six
 hundred men.*
 
 Under a tree, at the edge, with the whole army.
@@ -37,7 +37,7 @@ The contrast with the two men on the cliff is not stated and does not need to be
 
 ## Who is with him
 
-*(**Ahijah** was there wearing the ephod — the son of Ahitub, **Ichabod's brother**, son of
+**14:3** *(**Ahijah** was there wearing the ephod — the son of Ahitub, **Ichabod's brother**, son of
 Phinehas, son of Eli, the LORD's priest at Shiloh.)*
 
 Four generations, in one parenthesis.
@@ -52,15 +52,15 @@ Saul consults him later in the chapter, and then tells him to stop mid-enquiry.
 
 ## The ignorance
 
-*No one knew Jonathan had gone.*
+**14:3** again: *No one knew Jonathan had gone.*
 
 ## The crossing
 
-*Now to reach the Philistine outpost, Jonathan had to **pass between two rocky crags**.*
+**14:4** *Now to reach the Philistine outpost, Jonathan had to **pass between two rocky crags**.*
 
 ## The names
 
-*One was called **Bozez**, the other **Seneh**.*
+**14:4** again: *One was called **Bozez**, the other **Seneh**.*
 
 The Hebrew names are usually taken as *shining* or *slippery*, and *thorny*.
 
@@ -68,7 +68,7 @@ The narrator gives them because somebody knew them. This is local geography, rem
 
 ## The orientation
 
-*One cliff stood **to the north facing Michmash**, the other **to the south facing Geba**.*
+**14:5** *One cliff stood **to the north facing Michmash**, the other **to the south facing Geba**.*
 
 The Wadi Suweinit runs between them — a steep gorge with cliffs on both sides.
 
@@ -94,11 +94,11 @@ The king's son and heir.
 The man who later strips off his own robe, armour, sword, bow and belt and gives them to
 David — the boy who will take the throne he was born to.
 
-*And Jonathan loved him as his own soul.*
+**1 Samuel 18:1** *And Jonathan loved him as his own soul.*
 
 ## What he says on that occasion
 
-*"**You shall be king over Israel, and I shall be next to you**."*
+**1 Samuel 23:17** *"**You shall be king over Israel, and I shall be next to you**."*
 
 He knew.
 
