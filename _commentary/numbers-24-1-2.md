@@ -3,7 +3,7 @@ key: Numbers 24:1–2
 title: He stopped looking for omens
 sources:
   - 2021-02-21 your-provision-is-in-the-vision
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 The fourth attempt, and this time the diviner gives up on his own trade.
@@ -14,18 +14,18 @@ Balak has moved Balaam from hilltop to hilltop, built seven altars each time, of
 bull and a ram on each, and got a blessing every time. See the note on
 Numbers 23:18–20.
 
-*"I called you to curse my enemies, and look, you have kept on blessing them these three
+**24:10**: *"I called you to curse my enemies, and look, you have kept on blessing them these three
 times!"*
 
 ## What changed
 
-*Now when Balaam **saw that it pleased the LORD to bless Israel**.*
+**24:1** *Now when Balaam **saw that it pleased the LORD to bless Israel**.*
 
 He works it out. Three rounds of evidence and he stops arguing with it.
 
 ## What he stopped doing
 
-*He **did not go off, as at other times, to look for omens**.*
+**24:1** again: *He **did not go off, as at other times, to look for omens**.*
 
 The Hebrew is **nechashim** — enchantments, divination. It is the same root as the word for
 serpent.
@@ -37,13 +37,13 @@ Here he abandons the professional apparatus.
 
 ## What he did instead
 
-*He **turned his face toward the wilderness**.*
+**24:1** again: *He **turned his face toward the wilderness**.*
 
 Toward the camp. He simply looks at what is in front of him.
 
 ## What he saw
 
-*And Balaam **lifted his eyes and saw Israel camped tribe by tribe**.*
+**24:2** *And Balaam **lifted his eyes and saw Israel camped tribe by tribe**.*
 
 The Hebrew is *dwelling according to their tribes*.
 
@@ -54,7 +54,7 @@ From a hilltop it would have read as a pattern.
 
 ## What came
 
-*And **the Spirit of God came upon him**.*
+**24:2** again: *And **the Spirit of God came upon him**.*
 
 The Hebrew is **ruach Elohim**.
 
@@ -79,14 +79,14 @@ the hand of God, and Balaam applies it to himself.
 Two chapters earlier the animal saw the angel three times and Balaam did not, and was
 beaten for stopping.
 
-*Then the LORD **opened Balaam's eyes**, and he saw the Angel of the LORD standing in the
+**Numbers 22:31**: *Then the LORD **opened Balaam's eyes**, and he saw the Angel of the LORD standing in the
 way.*
 
 The professional seer is the last one in the story to see anything.
 
 ## What follows
 
-*"**How lovely are your tents, Jacob**."*
+**24:5**: *"**How lovely are your tents, Jacob**."*
 
 The line that opens Jewish morning prayer to this day, spoken by a man on Balak's payroll.
 
@@ -100,13 +100,13 @@ doctrine of Balaam.
 
 ## What happened when he stopped
 
-He put down the apparatus, turned his face toward the camp, and looked — and *the Spirit of
+He put down the apparatus, turned his face toward the camp, and looked, **24:2** again: *the Spirit of
 God came upon him*.
 
 Three rounds of technique produced nothing he wanted. Looking at what God was doing produced
 the finest words in the book.
 
-Paul: *we all, with unveiled face, **beholding as in a mirror the glory of the Lord**, are being
+Paul, **2 Corinthians 3:18**: *we all, with unveiled face, **beholding as in a mirror the glory of the Lord**, are being
 transformed into the same image from glory to glory.*
 
 The phrase Balaam uses of himself is *falling down, but **with his eyes uncovered***.
@@ -115,7 +115,7 @@ The phrase Balaam uses of himself is *falling down, but **with his eyes uncovere
 
 A donkey.
 
-The animal saw the Angel of the LORD three times and was beaten for stopping. *Then the LORD
+The animal saw the Angel of the LORD three times and was beaten for stopping. **Numbers 22:31** again: *Then the LORD
 opened Balaam's eyes.*
 
 The professional seer is the last one in the story to see anything, and the fourth oracle ends
