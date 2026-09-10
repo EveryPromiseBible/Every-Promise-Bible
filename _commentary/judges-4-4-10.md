@@ -5,7 +5,7 @@ sources:
   - 2018-09-30 believe-he-wants-to-heal-and-provide
   - 2018-09-23 the-key-to-robust-faith
   - 2024-09-15 step-out-and-possess-the-land
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 A woman is running the country, a general will not move without her, and the
@@ -13,7 +13,7 @@ victory ends up credited to a third person nobody has met yet.
 
 ## Deborah's position
 
-*A prophet was leading Israel — Deborah, a woman of fire and wisdom.* She judges
+**4:4–5**: *A prophet was leading Israel — Deborah, a woman of fire and wisdom.* She judges
 under a palm tree, and Israel comes up to her for judgment.
 
 The text states it without commentary or apology. She is the only judge in the
@@ -21,7 +21,7 @@ book described as holding court, and the only one who is also a prophet.
 
 ## Barak's condition
 
-*If you go with me, I'll go. But if you won't go with me, I won't go.*
+**4:8** *If you go with me, I'll go. But if you won't go with me, I won't go.*
 
 He has just been given a direct command from God through a prophet, complete with
 the battle plan and the promised outcome. His answer attaches a condition.
@@ -31,7 +31,7 @@ slide — not a refusal, but not a straight yes either.
 
 ## What it costs
 
-*Because of the road you are taking, the honour will not be yours — the LORD will
+**4:9** *Because of the road you are taking, the honour will not be yours — the LORD will
 hand Sisera over to a woman.*
 
 She goes anyway. The mission is not withdrawn and the victory is not smaller;
