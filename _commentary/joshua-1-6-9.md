@@ -20,7 +20,7 @@ sources:
   - 2025-05-25 jesus-your-storehouse-of-wisdom
   - 2025-07-06 radiant-with-his-glory
   - 2026-07-19 weapons-in-times-of-adversity
-updated: 2026-08-09
+updated: 2026-09-09
 ---
 
 The famous line here is about turning God's words over in your mind day and
@@ -31,10 +31,10 @@ because it was not a quiet man in a quiet room.
 
 *Hagah.* It is not silent reflection. Its ordinary uses are physical and audible
 — a lion growling over its prey, a dove moaning, a person muttering under their
-breath. The same word is in Psalm 1, and both times it is paired with *day and
+breath. The same word is in **Psalm 1:2**, and both times it is paired with *day and
 night*.
 
-Which is why the instruction here begins with the mouth: *keep the words of this
+Which is why the instruction here begins with the mouth, **1:8**: *keep the words of this
 book always on your lips*, and then turn them over. It is closer to chewing than
 to studying — going over something aloud until it works into you.
 
@@ -58,12 +58,12 @@ not afterward have spoken of another day.*
 
 ## The sentence the New Testament quotes off this page
 
-*"**I will never leave you nor forsake you.**"*
+**1:5**: *"**I will never leave you nor forsake you.**"*
 
 That is verse 5, said to Joshua on the day he takes command — and it is the sentence Hebrews
 lifts and hands to ordinary readers as the ground for being content:
 
-*Let your conduct be without covetousness; be content with such things as you have. For **He
+**Hebrews 13:5**: *Let your conduct be without covetousness; be content with such things as you have. For **He
 Himself has said, "I will never leave you nor forsake you."***
 
 The Greek stacks the negatives so heavily it barely translates. Never, not ever, will I let
@@ -71,15 +71,15 @@ go of you.
 
 ## Why he is told to be strong
 
-*"**Be strong and of good courage**"* — three times in four verses, and once more from the
+**1:6, 7, 9**: *"**Be strong and of good courage**"* — three times in four verses, and once more from the
 people.
 
-Not because the odds are good. The reason given every time is the same: *for the LORD your God
+Not because the odds are good. The reason given every time is the same, **1:9** again: *for the LORD your God
 is with you wherever you go.*
 
 The strength is located outside the man being told to have it.
 
-> **The promise attached.** *Then your path will open before you, and you will do
+> **The promise attached.** **1:8** again: *Then your path will open before you, and you will do
 > well.* The Hebrew word behind it means to act with insight and so to succeed —
 > it covers both the wisdom and the outcome. It is not a guarantee of ease; the
 > book that follows has failures in it. It is the promise that a man soaked in

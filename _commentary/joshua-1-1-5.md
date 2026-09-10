@@ -9,23 +9,23 @@ sources:
   - 2022-08-21 the-powerful-benefits-of-gods-word
   - 2024-09-15 step-out-and-possess-the-land
   - 2024-10-13 the-key-to-prospering-in-all-things
-updated: 2026-08-06
+updated: 2026-09-09
 ---
 
 The book opens with a funeral and a promotion in the same sentence.
 
 ## The death
 
-*Moses, **the servant of the LORD**, had died.*
+**1:1** *Moses, **the servant of the LORD**, had died.*
 
 The title is given at the moment it ends. Joshua does not receive it here; he is called
 *Moses' assistant*.
 
-He gets it at the end of the book: *Joshua the son of Nun, the servant of the LORD, died.*
+He gets it at the end of the book, **Joshua 24:29**: *Joshua the son of Nun, the servant of the LORD, died.*
 
 ## Who Joshua is
 
-*The man who had **stood at Moses' side for so long**.*
+**1:1** again: *The man who had **stood at Moses' side for so long**.*
 
 The Hebrew is *Moses' minister* — **mesharet**, an attendant.
 
@@ -37,7 +37,7 @@ Forty years of second place.
 
 ## The sentence
 
-*"**Moses my servant is gone. So now it's your turn**."*
+**1:2** *"**Moses my servant is gone. So now it's your turn**."*
 
 The Hebrew is *Moses My servant is dead; now therefore arise*.
 
@@ -45,14 +45,14 @@ There is no interval. The book's first paragraph moves from a death to a river c
 
 ## The instruction
 
-*"**Get up, you and all these people, and cross over this Jordan River**."*
+**1:2** again: *"**Get up, you and all these people, and cross over this Jordan River**."*
 
 The river is in flood — Joshua 3 notes it overflows its banks through the harvest season.
 See the note on Joshua 3:14–17.
 
 ## The tense
 
-*"Into the land **I am giving them**."*
+**1:2** again: *"Into the land **I am giving them**."*
 
 Present participle. Not *will give*, and not *would have given*.
 
@@ -61,7 +61,7 @@ over to you***.
 
 ## The two halves
 
-*"**Every place your foot touches, I am handing over to you**, just as I promised Moses."*
+**1:3** *"**Every place your foot touches, I am handing over to you**, just as I promised Moses."*
 
 Given, and walked on. The giving is God's and the walking is theirs, and both are in the
 sentence.
@@ -71,18 +71,18 @@ the note on Joshua 24:11–13.
 
 ## The boundaries
 
-*"From the wilderness in the south all the way to Lebanon, from the great Euphrates River
+**1:4** *"From the wilderness in the south all the way to Lebanon, from the great Euphrates River
 across the land of the Hittites to the Great Sea in the west."*
 
 The full extent promised to Abraham in Genesis 15.
 
 ## The promise about opposition
 
-*"**No one will be able to stand against you as long as you live**."*
+**1:5** *"**No one will be able to stand against you as long as you live**."*
 
 ## The comparison
 
-*"**The way I was with Moses, that's how I will be with you**."*
+**1:5** again: *"**The way I was with Moses, that's how I will be with you**."*
 
 Which is the sentence Joshua would have needed most. He had watched the sea part, the
 mountain smoke, and the water come out of a rock, and is now expected to lead the same
@@ -90,11 +90,11 @@ nation with none of that behind him personally.
 
 ## The two negatives
 
-*"**I will never fail you. I will never walk away from you**."*
+**1:5** again: *"**I will never fail you. I will never walk away from you**."*
 
 The Hebrew doubles the assurance.
 
-Hebrews quotes this line and applies it to the reader: *He Himself has said, "I will never
+Hebrews quotes this line and applies it to the reader, **Hebrews 13:5–6**: *He Himself has said, "I will never
 leave you nor forsake you." So we may boldly say: "The LORD is my helper; I will not
 fear."*
 
