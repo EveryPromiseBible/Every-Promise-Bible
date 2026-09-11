@@ -67,9 +67,10 @@ commentary on selected verses.
 | Philippians | 104 | done |
 | Colossians | 95 | done |
 | Titus | 46 | done |
+| Hebrews | 303 | done |
 
-9 more books remain, in the order Wuest covered them: Hebrews, 1 Timothy,
-2 Timothy, 1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude.
+8 more books remain, in the order Wuest covered them: 1 Timothy, 2 Timothy,
+1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -465,6 +466,58 @@ Verification run: 46/46 verses present, chapter-by-chapter counts match `KJV.jso
 (16/15/15). Only 1 residual "God" survives (2:13, the deliberate Christ-as-God exception); zero
 residual "Christ"/"Jesus"; zero residual "we/us/our/ourselves" after the fix above; zero unresolved
 dangling "Who/Whom/Which" verse-openers.
+
+## Epistle rules (Hebrews) — a different problem again: no named author
+
+Read against Elmer Towns' actual Hebrews chapter (`Chapter059.html`, "I Am Jesus — Who Gives Better")
+complete before any verse was written. Hebrews breaks the pattern every prior epistle shared: **it
+names no author.** There is no "Paul" to demote to third person for personal asides — a genuinely new
+problem this project hadn't faced.
+
+1. **Most of Hebrews' first-person "I"/"we" is Jesus's own voice**, not a human writer's, because the
+   book frames itself throughout as Jesus's own sermon (its own intro: "I am Jesus, Who led the
+   writing of the book of Hebrews"). Confirmed by Towns treating warm pastoral assurance (6:9, "I am
+   persuaded better things of you") as Jesus speaking directly, not the anonymous writer reporting.
+   **"The writer" (third person) is reserved only for genuine external biographical facts** about the
+   actual human author that cannot coherently be Jesus's own experience — and those don't appear until
+   chapter 13's closing: wanting to visit (13:18-19, 23), having written only a short letter (13:22),
+   Timothy's release from prison (13:23). Confirmed against Towns, who uses exactly this boundary:
+   "The writer asked for prayer that he could visit the readers... Timothy has been released from
+   prison and will come to see them."
+2. **Chapter 1's long chain of OT quotations (vv. 5-13) are the Father speaking directly *to* the
+   Son** ("Thou art my Son," "Thy throne, O God," "Thou, Lord, in the beginning hast laid the
+   foundation of the earth") — these stay in second-person "thou/thee/thy" throughout, Jesus
+   *receiving* the address rather than speaking it, per the established rule for prophecy/address
+   spoken to Him (Mark rule 4). The same treatment applies to every other Father-to-Son quotation later
+   in the book (5:5-6, 7:17, 7:21).
+3. **A critical, easy-to-miss exception: 4:8's "Jesus" is Joshua, not Christ.** The KJV renders the
+   Greek Ἰησοῦς the same way for both men, and this verse ("if Jesus had given them rest...") is about
+   Joshua's conquest failing to give Israel the ultimate rest the Psalm speaks of. Converting it to "I"
+   would falsely put Christ's own failure into the text — left exactly as the KJV has it.
+4. **A near-miss caught before it shipped, at 7:27**: "who needeth not daily... to offer up sacrifice,
+   first for his own sins, and then for the people's" describes what the *other* (Levitical) high
+   priests need, by contrast with Christ, who doesn't. Mechanically converting "his own sins" to "my
+   own sins" on the momentum of the surrounding first-person conversion would have falsely implied
+   Christ needed atonement for His own sin. Kept "their own sins," correctly attributing the phrase to
+   the priests being contrasted, not to Christ.
+5. **Chapter 11 (the faith chapter) stays third-person historical narrative** about Abel, Enoch, Noah,
+   Abraham, Moses, and the rest — like parable content, these are accounts *about* people, not Jesus's
+   own voice, except where the chapter's own framing needed conversion (11:3's "through faith we
+   understand" → "ye understand," since Jesus has direct knowledge of creation, not faith-based
+   understanding of it).
+6. **The established citation rule carried the heaviest load in this book** — Hebrews quotes the Old
+   Testament more densely than any other book done so far (Psalms 2, 8, 22, 40, 45, 95, 102, 110,
+   Jeremiah 31, Deuteronomy 32, Exodus 24, Haggai 2, Proverbs 3, Habakkuk 2, and more), and every one
+   of these stays exactly as quoted regardless of what pronoun it carries, per the rule established
+   back in Mark and Ephesians.
+
+Verification run: 303/303 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(14/18/19/16/14/20/28/13/28/39/40/29/25). 10 residual "God"/"Jesus" instances survive, every one a
+deliberate exception (OT citations, the Father's address to the Son, the Joshua/Jesus name collision,
+or a compound title in apposition — "my Father, the God of peace"); zero residual "Christ"; 2 residual
+"we/us" instances, both matching the established "what shall we say"/"we know"/"we conclude"
+rhetorical-formula exception (3:19 "so we see," 10:30 "for we know him that hath said"); zero
+false-present-state hits on the "is/am dead/come/risen/gone/fled/departed" family.
 
 ## Verification run on Mark
 

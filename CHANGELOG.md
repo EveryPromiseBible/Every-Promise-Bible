@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## 2026-09-11 — The Jesus Bible: Hebrews added
+
+Eighth book in the Jesus Bible, the longest so far at 303 verses across 13 chapters. Elmer Towns'
+Hebrews chapter (`Chapter059.html`, "I Am Jesus — Who Gives Better") was read complete before writing
+began.
+
+Hebrews breaks the pattern every prior epistle shared: it names no author, so there's no "Paul" to
+demote to third person. Since the book frames itself throughout as Jesus's own sermon, most of its
+first-person "I"/"we" is Jesus's own voice rather than a human writer's — confirmed by Towns treating
+warm pastoral assurance (6:9) as Jesus speaking directly. "The writer" (third person) is reserved only
+for genuine external biographical facts in chapter 13's closing (wanting to visit, a short letter,
+Timothy's release), matching exactly where Towns draws that same line. Chapter 1's long chain of OT
+quotations stays as the Father addressing the Son directly in "thou/thee/thy," never converted to
+Jesus's own voice. Two catches worth naming: 4:8's "Jesus" is Joshua, not Christ (the KJV renders the
+same Greek name both ways), left unconverted; and 7:27's "his own sins" was kept pointing to the
+Levitical priests being contrasted, not converted to "my own sins," since Christ needed no atonement
+for Himself. Full technique notes in `VoiceOfJesus/STATUS.md`.
+
+Wired in the same way as the seven books before it: section headings from the Illumination's own
+Hebrews headings and verse-range boundaries, and a short per-book intro in Jesus's own voice.
+
+Verified: 303/303 verses present, chapter counts match `KJV.json` exactly across all 13 chapters; 10
+residual "God"/"Jesus" instances, every one a deliberate exception; zero residual "Christ"; 2 residual
+"we/us" instances matching the established rhetorical-formula exception; zero false-present-state hits.
+
 ## 2026-09-11 — Fixed a theological error in the Jesus Bible's Colossians: the wrong reconciler
 
 A fresh audit pass re-reading Elmer Towns' Colossians chapter against `VoiceOfJesus/colossians.json`
