@@ -8,14 +8,14 @@ sources:
   - 2022-06-26 hope-for-the-third-day-generation
   - 2022-12-25 indisputable-proof-that-god-is-for-you
   - 2026-01-25 reign-with-much-more
-updated: 2026-08-09
+updated: 2026-09-10
 ---
 
 A woman about to lose her children asks for help, and is asked a question back.
 
 ## What she has lost
 
-*"Your servant **my husband is dead** — and you know he honoured the LORD. But now **a
+**4:1** *"Your servant **my husband is dead** — and you know he honoured the LORD. But now **a
 creditor has come to take my two boys as his slaves**."*
 
 Under the law a debtor's children could be taken in payment until the jubilee. It
@@ -26,13 +26,13 @@ Being godly had not exempted him from dying in debt.
 
 ## The question
 
-*"**How can I help you? Tell me — what do you have in the house?**"*
+**4:2** *"**How can I help you? Tell me — what do you have in the house?**"*
 
 Elisha does not produce anything. He asks what is already there.
 
 ## Her answer
 
-*"Your servant has **nothing there at all** — **except a small jar of oil**."*
+**4:2** again: *"Your servant has **nothing there at all** — **except a small jar of oil**."*
 
 She says nothing first, and then corrects herself. The oil is so small it did not
 count as having something.
@@ -41,18 +41,18 @@ The Hebrew is a flask of anointing oil — the amount you would use once.
 
 ## The instructions
 
-*"Ask **all your neighbours for empty jars** — and **don't ask for just a few**."*
+**4:3** *"Ask **all your neighbours for empty jars** — and **don't ask for just a few**."*
 
 The one thing she has to do is go and borrow emptiness.
 
 It is a public act. Every neighbour is going to know something is happening, and she
 has to explain herself at every door — or not explain, and look stranger still.
 
-*"**Don't ask for just a few.**"* The only limit in the story is set here, by her.
+**4:3** again: *"**Don't ask for just a few.**"* The only limit in the story is set here, by her.
 
 ## Behind a closed door
 
-*"Then go inside, **shut the door behind you and your sons**, and start pouring."*
+**4:4** *"Then go inside, **shut the door behind you and your sons**, and start pouring."*
 
 The gathering is public and the pouring is private. Nobody watches the miracle.
 
@@ -61,7 +61,7 @@ not touch the oil.
 
 ## What stops it
 
-*When the jars were full, she said to her son, "Bring me another." "**There isn't one
+**4:6** *When the jars were full, she said to her son, "Bring me another." "**There isn't one
 left**," he told her. **And then the oil stopped.**"*
 
 Not when the jar ran dry. When the containers ran out.
@@ -71,7 +71,7 @@ borrowed jar was full.*
 
 ## What it was for
 
-*"Go, **sell the oil and pay your debt**. **You and your sons can live on what is
+**4:7** *"Go, **sell the oil and pay your debt**. **You and your sons can live on what is
 left**."*
 
 Two things, in that order. The debt cleared, and an income after it.
@@ -86,39 +86,39 @@ not thought worth mentioning.
 
 ## What stopped it
 
-*"There is not another vessel." **So the oil stopped.**"*
+**4:6** again: *"There is not another vessel." **So the oil stopped.**"*
 
 Not the oil. The vessels.
 
 It ran for as long as there was anything to run into, and the only limit anywhere in the
 account is how many jars the neighbours had.
 
-*Now to Him who is able to do **exceedingly abundantly above all that we ask or think**,
+**Ephesians 3:20** *Now to Him who is able to do **exceedingly abundantly above all that we ask or think**,
 according to the power that works in us.*
 
-*You are not restricted by us, but **you are restricted by your own affections**.*
+**2 Corinthians 6:12** *You are not restricted by us, but **you are restricted by your own affections**.*
 
 ## The thing she had dismissed
 
-*"**Your maidservant has nothing in the house but a jar of oil**."*
+**4:2** again: *"**Your maidservant has nothing in the house but a jar of oil**."*
 
 She says *nothing*, and then names something. Elisha's whole instruction is built on the thing
 she had dismissed in the same breath as saying she had none.
 
-Jesus asks the same kind of question before feeding five thousand: *"how many loaves do you
+Jesus asks the same kind of question before feeding five thousand: **Mark 6:38** *"how many loaves do you
 have? Go and see."… "**Five, and two fish**."*
 
 ## Where the multiplying happened
 
-*"**Shut the door behind you and your sons**, pour it out… and set aside the full ones."*
+**4:4** again: *"**Shut the door behind you and your sons**, pour it out… and set aside the full ones."*
 
 Nobody watches. The multiplying happens in a house with the door shut, and what the street
 sees is a woman selling oil and paying a debt.
 
-*"But you, when you pray, **go into your room, and when you have shut your door**, pray to your
+**Matthew 6:6** *"But you, when you pray, **go into your room, and when you have shut your door**, pray to your
 Father who is in the secret place."*
 
 > **The other widow with a jar.** At Zarephath, in Elijah's day — a handful of flour
 > and a little oil, and she was gathering sticks to make a last meal before she and
-> her son died. *The bin of flour was not used up, nor did the jar of oil run dry.*
+> her son died. **1 Kings 17:16** *The bin of flour was not used up, nor did the jar of oil run dry.*
 > The prophets keep meeting women at the end of their supplies.
