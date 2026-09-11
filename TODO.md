@@ -2,6 +2,33 @@
 
 > Working task list. See `PROJECT.md` for architecture, standards, and the full context.
 > **Last updated:** end of Claude.ai session, before migration to Claude Code.
+>
+> ⚠️ Everything below this notice is that old translation-readability pass, and
+> per `PROJECT.md` it's **done** — "translation work is done," 260/260 chapters
+> readable. It's stale; see CHANGELOG.md for what's actually current.
+
+---
+
+## ✅ Illumination definitions bulb — DONE, all 27 NT books (2026-09-11)
+
+Chris's own book, *The Illumination Translation* (C.S. Knight), ships as five
+EPUBs, one per NT section. `tools/illum_defs_build.py` turns each into bulb
+entries under the Illumination reader — see CHANGELOG 2026-09-11 for the how,
+why, and the multi-word-book-name bug the Pauline Epistles run caught.
+
+- [x] **Gospels** — 89 chapters, 533 definitions placed, 0 unmatched
+- [x] **Acts** — 28 chapters, 135 placed, 0 unmatched
+- [x] **The Pauline Epistles** — 87 chapters, 414 placed, 0 unmatched
+- [x] **General Epistles** — 34 chapters, 189 placed, 0 unmatched
+- [x] **Revelation** — 22 chapters, 111 placed, 0 unmatched
+
+**260/260 chapters, 1,382 definitions, 0 unmatched anywhere** — matches the
+Mak corpus chapter count exactly. Every key in `ILLUM_DEFS` verified in-page
+against the live `ILLUMINATION` array (0 bad chapters, 0 bad keys).
+
+If the book gets a revision, re-run `python tools/illum_defs_build.py "<path
+to .epub>"` — merges into the existing `data/illum-defs.js` and is idempotent,
+so re-running a book already built doesn't disturb the others.
 
 ---
 

@@ -1,5 +1,74 @@
 # CHANGELOG
 
+## 2026-09-11 — The Illumination's bulb is back, sourced from Chris's own book (all 27 NT books)
+
+There used to be a lightbulb under the Illumination Translation that opened commentary on tap. It was
+removed when Grace Commentary moved into the Mak word popup instead (see `.cmt-fold` in index.html) —
+that content constantly names Greek words by tense/mood/root, which belongs where a reader is already
+tapping a Greek word, not floating over a paraphrase with no Greek in it. That left the Illumination
+with no bulb at all.
+
+Chris wrote his own book, *The Illumination Translation* (C.S. Knight) — KJV text quoted verse by
+verse with a 💡-marked explanation after each passage — and asked for that content back under the
+bulb, starting with the Gospels. This is a different source from Grace Commentary and gets its own
+data file rather than reusing `COMMENTARY`.
+
+`tools/illum_defs_build.py` unzips an EPUB of the book, walks each chapter's flat run of `<p>` tags,
+and closes out every verse accumulated since the last 💡 paragraph into a `{v1, v2, text}` block —
+section `<h3>`/`<h5>` headings and empty spacer `<p/>` tags don't reset the accumulator. The book's own
+verse ranges (KJV-based) rarely line up with the site's own `ILLUMINATION` verse blocks (the site's
+paraphrase re-chunks more finely), so each definition is attached to the LAST Illumination block in
+that chapter whose own start verse falls inside the definition's range — the bulb ends up right after
+the reader finishes the passage it explains, keyed directly to the site's own block label so the
+render-side lookup is a plain property read, no runtime range matching needed. Where the site is
+coarser than the book in a spot, two definitions can land on the same block; their text is concatenated
+in reading order rather than the second one silently overwriting the first (15 of 548 Gospel
+definitions did this — all read cleanly concatenated).
+
+`renderIllumVerseP` (shared with the KJV reader) now appends a `<details class="illum-def">` right
+after a verse block that has an entry, gated on `currentTx === 'illum'` so the KJV reader — which
+renders one verse per array entry, a different key shape entirely — never picks one up even by
+accident. Same disclosure pattern already established for Grace Commentary: the `<details>` itself
+opens and closes it, no separate bulb/panel/close chrome. Off state is greyed and faded
+(`.sec-action-btn`'s existing on/off language); `[open]` — not a JS-toggled class — brings it to full
+colour, since `<details>` already tracks its own state.
+
+Built from `C:\Users\benny\OneDrive\Desktop\EPUB\The Gospels.epub` first: 89 chapters, 548 definitions
+parsed, 533 placed (15 concatenated), 0 unmatched. New `data/illum-defs.js`, wired in as its own
+`<script src>` next to `illumination.js` — no service-worker change needed, `/data/` is already
+stale-while-revalidate by path pattern, not an explicit file list. Verified on Matthew 1 (bulb lands on
+the "1:17" block after the genealogy, opens the right text, KJV reader stays clean) with a local
+`python -m http.server`.
+
+Chris then sent the remaining four EPUBs — Acts, the Pauline Epistles, the General Epistles,
+Revelation. **The Pauline Epistles run surfaced a real bug**: the chapter-title parser
+(`^\d+\.\s+(\w+)\s+(\d+)$`) captured the book name as a single `\w+` token, so any multi-word book name
+silently failed to match and was dropped with no error — 47 chapters gone with no signal, because Romans,
+Galatians, Ephesians etc. (single-word names) parsed fine and the run "succeeded." Caught it only because
+the Pauline count (40 chapters) was visibly short of the expected 87. The book's own EPUBs are
+additionally inconsistent about how they spell the ordinal — "1st Corinthians" but "1 Thessalonians" —
+while the site's `ILLUMINATION_BOOKS` always uses the bare digit ("1 Corinthians"). Fixed by capturing
+the book name non-greedily up to the trailing chapter number (`^\d+\.\s+(.+?)\s+(\d+)$`) and normalizing
+any `1st/2nd/3rd` prefix down to `1/2/3` before using it as a lookup key. Re-ran every affected book after
+the fix, not just Pauline — re-running is idempotent (`existing.update(mapped)`), so nothing already
+correct was disturbed.
+
+**All 27 NT books are now built**, 260/260 chapters, matching the Mak corpus exactly:
+
+| Section | Chapters | Definitions parsed | Placed | Unmatched |
+|---|---|---|---|---|
+| Gospels | 89 | 548 | 533 (15 concatenated) | 0 |
+| Acts | 28 | 140 | 135 (5 concatenated) | 0 |
+| Pauline Epistles | 87 | 423 | 414 (9 concatenated) | 0 |
+| General Epistles | 34 | 196 | 189 (7 concatenated) | 0 |
+| Revelation | 22 | 111 | 111 (0 concatenated) | 0 |
+| **Total** | **260** | **1,418** | **1,382** | **0** |
+
+Verified two ways: in-page, every one of the 1,382 keys in `ILLUM_DEFS` was checked against the live
+`ILLUMINATION` array and resolves to a real verse-block label in the right chapter — 0 bad chapters, 0
+bad keys, across all 260. And visually, Hebrews 11 (a new book, past the original Gospels spot-check)
+renders 9 bulbs and opens correctly on "11:1–3."
+
 ## 2026-09-11 — The Jesus Bible: Ephesians added
 
 Fourth book in the Jesus Bible, following the same method as Mark, Romans, and Galatians: KJV

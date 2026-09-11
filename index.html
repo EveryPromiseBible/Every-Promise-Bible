@@ -463,6 +463,22 @@
   body.verse-jump-active .illum-ref{cursor:pointer;}
   body.verse-jump-active .illum-ref:hover{color:var(--orange);text-decoration:underline;}
 
+  /* The Illumination's own bulb, restored -- not Grace Commentary (which lives
+     in the Mak word popup because it constantly names Greek words, see
+     .cmt-fold below), but Chris's book "The Illumination Translation", which
+     explains the passage itself and so belongs right where it's about. One
+     <details> per verse block that has an entry; greyed and faded at rest,
+     full colour once opened -- same off/on language as .sec-action-btn above,
+     just driven by [open] instead of a JS-toggled class, since <details>
+     already tracks its own state. */
+  details.illum-def{margin:-6px 0 15px;max-width:34em;}
+  details.illum-def>summary{cursor:pointer;list-style:none;display:inline-flex;align-items:center;
+    font-size:0.85em;filter:grayscale(1);opacity:0.5;transition:filter .12s ease,opacity .12s ease;}
+  details.illum-def>summary::-webkit-details-marker{display:none;}
+  details.illum-def>summary:hover{opacity:0.8;}
+  details.illum-def[open]>summary{filter:none;opacity:1;}
+  .illum-def-body{font-size:0.92em;line-height:1.7;color:var(--ink);margin:8px 0 0;}
+
   /* Small popup offered on a verse-number tap, listing the OTHER translations
      it can jump to -- Illumination, KJV, and Mak all share verse-level
      navigation, so which two count as "other" depends on where the tap came
@@ -1914,6 +1930,7 @@
 <script src="data/mak_verses.js"></script>
 <script src="data/chapters.js"></script>
 <script src="data/illumination.js"></script>
+<script src="data/illum-defs.js"></script>
 <script src="data/kjv.js"></script>
 <script src="data/jesus.js"></script>
 <!-- Expositor's Translation annotations, shelved for now -- the file moved to
@@ -4217,13 +4234,20 @@ function renderIllumVerseP(v, si, vi, ch, book) {
   const key = book + ' ' + v[0];
   const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
   const expRaw = (currentTx === 'kjv' && typeof EXP_INLINE !== 'undefined') ? EXP_INLINE[key] : null;
-  return '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
+  let h = '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
        ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
        ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
        '<span class="illum-ref" onclick="illumRefClick(this,\'' + ilEsc(ch.ref) + '\',event)">' +
          ilEsc(v[0]) + '</span> ' +
        (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1])) +
        '</p>';
+  const defText = (currentTx === 'illum' && typeof ILLUM_DEFS !== 'undefined') ?
+    (ILLUM_DEFS[ch.ref] && ILLUM_DEFS[ch.ref][v[0]]) : null;
+  if (defText) {
+    h += '<details class="illum-def"><summary>\u{1F4A1}</summary>' +
+         '<p class="illum-def-body">' + ilEsc(defText) + '</p></details>';
+  }
+  return h;
 }
 
 /* Returns the chapter's HTML built from the outline, or null to signal "no

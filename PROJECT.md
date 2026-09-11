@@ -293,6 +293,22 @@ The KJV in `data/kjv.js` uses the **same shape** (`KJV_BOOKS`, `KJV`), which is
 why both are driven by one reader through the `CORPUS` registry. `KJV` has no
 intros; `title` and `heading` are empty strings there.
 
+### `ILLUM_DEFS` — object, `data/illum-defs.js`   *(added 2026-09-11)*
+
+```js
+const ILLUM_DEFS = {
+  "Matthew 1": { "1:17": "The genealogy of Jesus traces His lineage through...", ... },
+  ...
+}
+```
+
+Chapter ref -> Illumination verse-block label (the exact `v[0]` string from
+`ILLUMINATION`, e.g. `"1:17"`) -> definition text. Powers the bulb under the
+Illumination reader — see `renderIllumVerseP`. Sourced from Chris's own book,
+*The Illumination Translation* (C.S. Knight), via `tools/illum_defs_build.py`;
+never hand-edit, regenerate instead. **All 27 NT books built**: 260 chapters,
+1,382 definitions, 0 unmatched.
+
 ### `DEVOTIONAL` — object   *(added 2026-08-04)*
 
 ```js
@@ -462,6 +478,7 @@ Only one media query: `@media(max-width:1000px)` — hides top nav, shows `.bnav
 - **Study/Read toggle** — Read hides Greek and tags for clean prose
 - **Highlight mode** — works in Study *and* Read; whole-verse highlighting in the Illumination
 - **Section bookmark and notes** — on Mak sections and on Illumination/KJV headings; visible in both modes
+- **Illumination-only bulb (💡)** *(added 2026-09-11)* — verse blocks with an entry in `data/illum-defs.js` (Chris's own book, all 27 NT books) get a `<details>` fold opening the definition inline. Distinct from Grace Commentary, which stays in the Mak word popup. See CHANGELOG 2026-09-11.
 - Search across every translation at once
 - Library side panel — **the library only**; auto-opens >1000px, closes on a pick at phone width
 
