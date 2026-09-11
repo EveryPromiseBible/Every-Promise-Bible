@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## 2026-09-11 — Fixed landing (Romans 8) replaces the random opener; bulb moved inline
+
+**The app no longer opens somewhere different every visit.** `openSomewhereRandom()` and its weighted
+`RANDOM_POOL` (Illumination/Mak/hymn/devotional/quote) are gone — Chris asked for that off in favour of
+always opening to Romans 8 in the Illumination Translation. Replaced with `openFixedLanding()`: sets the
+translation to `illum`, looks up `ILLUMINATION.findIndex(c => c.ref === 'Romans 8')`, and loads it. The
+stale "before openSomewhereRandom, which can land on a hymn" ordering comment above `hyInit()` is gone
+too — `hyInit()` still runs at startup (it populates the Hymns tab's own listing regardless of landing),
+it just no longer has anything to do with where the app opens.
+
+**The bulb moved inline.** Chris tried the day's earlier build (bulb as its own `<details>` block below
+the verse paragraph) and asked for it right after the verse instead, not detached on its own line
+underneath. `<details>`/`<summary>` can't nest inside a `<p>`, so that block-level version is gone too:
+`renderIllumVerseP` now appends a plain `<span class="illum-def-bulb" onclick="illumDefToggle(this,
+event)">` at the tail end of the verse text, inside the same `<p>`, and a sibling `<p class="illum-def-
+body" hidden>` holds the definition. `illumDefToggle()` toggles `hidden` and an `.on` class on the bulb
+(same off/on grayscale-then-full-colour language as `.sec-action-btn`), and stops the click from
+bubbling to the paragraph's own `ilHighlightVerse` handler — same pattern `illumRefClick` already uses
+for the verse-ref span in the same paragraph. Verified on Romans 8:5–8 in the browser: bulb sits right
+after "...cannot please God.", opens the definition on click, no separate line below the verse.
+
 ## 2026-09-11 — The Illumination's bulb is back, sourced from Chris's own book (all 27 NT books)
 
 There used to be a lightbulb under the Illumination Translation that opened commentary on tap. It was

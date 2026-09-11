@@ -328,8 +328,11 @@ never hand-edit, regenerate instead. **All 27 NT books built**: 260 chapters,
 }
 ```
 
-Destination 0 is the front matter, not a reading — `openSomewhereRandom()` draws
-from `1 + random(days.length)` for exactly that reason.
+Destination 0 is the front matter, not a reading — any code picking a day to
+read draws from `1 + random(days.length)` (or similar) for exactly that
+reason. *(The app's own opening landing used to draw from this at random;
+since 2026-09-11 it always opens to Romans 8 in the Illumination instead —
+see CHANGELOG.)*
 
 ### `HYMNS` — object   *(added 2026-08-03)*
 
@@ -471,6 +474,7 @@ Only one media query: `@media(max-width:1000px)` — hides top nav, shows `.bnav
 - **Add your own** — **persisted**, keyed on reference, removable
 
 ### Bible (the core)
+- **Fixed landing** *(2026-09-11)* — the app always opens to Romans 8 in the Illumination Translation, `openFixedLanding()`. Replaced a weighted-random landing across Mak/Illumination/hymn/devotional/quote (`openSomewhereRandom()`/`RANDOM_POOL`, now removed) at Chris's request.
 - Four texts through one toolbar: Mak, Illumination, KJV, devotional
 - Testament filter for the two whole-Bible texts; hidden for Mak, which is NT only
 - Three-line word stacks, 36-colour cycling per section
@@ -478,7 +482,7 @@ Only one media query: `@media(max-width:1000px)` — hides top nav, shows `.bnav
 - **Study/Read toggle** — Read hides Greek and tags for clean prose
 - **Highlight mode** — works in Study *and* Read; whole-verse highlighting in the Illumination
 - **Section bookmark and notes** — on Mak sections and on Illumination/KJV headings; visible in both modes
-- **Illumination-only bulb (💡)** *(added 2026-09-11)* — verse blocks with an entry in `data/illum-defs.js` (Chris's own book, all 27 NT books) get a `<details>` fold opening the definition inline. Distinct from Grace Commentary, which stays in the Mak word popup. See CHANGELOG 2026-09-11.
+- **Illumination-only bulb (💡)** *(added 2026-09-11)* — verse blocks with an entry in `data/illum-defs.js` (Chris's own book, all 27 NT books) get a bulb inline at the end of the verse text; tap opens the definition in the paragraph right below. Distinct from Grace Commentary, which stays in the Mak word popup. See CHANGELOG 2026-09-11.
 - Search across every translation at once
 - Library side panel — **the library only**; auto-opens >1000px, closes on a pick at phone width
 

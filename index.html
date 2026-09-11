@@ -466,18 +466,17 @@
   /* The Illumination's own bulb, restored -- not Grace Commentary (which lives
      in the Mak word popup because it constantly names Greek words, see
      .cmt-fold below), but Chris's book "The Illumination Translation", which
-     explains the passage itself and so belongs right where it's about. One
-     <details> per verse block that has an entry; greyed and faded at rest,
-     full colour once opened -- same off/on language as .sec-action-btn above,
-     just driven by [open] instead of a JS-toggled class, since <details>
-     already tracks its own state. */
-  details.illum-def{margin:-6px 0 15px;max-width:34em;}
-  details.illum-def>summary{cursor:pointer;list-style:none;display:inline-flex;align-items:center;
-    font-size:0.85em;filter:grayscale(1);opacity:0.5;transition:filter .12s ease,opacity .12s ease;}
-  details.illum-def>summary::-webkit-details-marker{display:none;}
-  details.illum-def>summary:hover{opacity:0.8;}
-  details.illum-def[open]>summary{filter:none;opacity:1;}
-  .illum-def-body{font-size:0.92em;line-height:1.7;color:var(--ink);margin:8px 0 0;}
+     explains the passage itself and so belongs right where it's about.
+     Inline, at the end of the verse text it explains -- not a block of its
+     own below the paragraph -- so it reads as part of the verse, not a
+     detached footnote. Greyed and faded at rest, full colour once opened --
+     same off/on language as .sec-action-btn above, via a JS-toggled .on
+     class since this isn't a <details> (those can't nest inside a <p>). */
+  .illum-def-bulb{cursor:pointer;font-size:0.8em;margin-left:4px;display:inline-block;
+    filter:grayscale(1);opacity:0.5;transition:filter .12s ease,opacity .12s ease;}
+  .illum-def-bulb:hover{opacity:0.8;}
+  .illum-def-bulb.on{filter:none;opacity:1;}
+  .illum-def-body{font-size:0.92em;line-height:1.7;color:var(--ink);margin:-8px 0 15px;max-width:34em;}
 
   /* Small popup offered on a verse-number tap, listing the OTHER translations
      it can jump to -- Illumination, KJV, and Mak all share verse-level
@@ -4234,20 +4233,34 @@ function renderIllumVerseP(v, si, vi, ch, book) {
   const key = book + ' ' + v[0];
   const hl = highlights.some(x => x.key === ilVerseKey(currentTx, ch.ref, v[0]));
   const expRaw = (currentTx === 'kjv' && typeof EXP_INLINE !== 'undefined') ? EXP_INLINE[key] : null;
+  const defText = (currentTx === 'illum' && typeof ILLUM_DEFS !== 'undefined') ?
+    (ILLUM_DEFS[ch.ref] && ILLUM_DEFS[ch.ref][v[0]]) : null;
+  /* The bulb sits INLINE at the end of the verse it explains, not on its own
+     line below -- Chris's call, after the <details>-per-block version (right
+     under the paragraph) read as detached from the text it was about. So it's
+     a plain clickable span inside the same <p>, not a <details>/<summary> --
+     those are block-level and can't live inside a <p> at all. The definition
+     body is still its own block underneath when opened (prose has to wrap),
+     toggled via illumDefToggle rather than native <details> disclosure. */
   let h = '<p class="illum-v' + (hl ? ' il-hl' : '') + '"' +
        ' data-vref="' + ilEsc(v[0]) + '" data-sec="' + si + '"' +
        ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
        '<span class="illum-ref" onclick="illumRefClick(this,\'' + ilEsc(ch.ref) + '\',event)">' +
          ilEsc(v[0]) + '</span> ' +
        (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1])) +
+       (defText ? ' <span class="illum-def-bulb" onclick="illumDefToggle(this,event)">\u{1F4A1}</span>' : '') +
        '</p>';
-  const defText = (currentTx === 'illum' && typeof ILLUM_DEFS !== 'undefined') ?
-    (ILLUM_DEFS[ch.ref] && ILLUM_DEFS[ch.ref][v[0]]) : null;
   if (defText) {
-    h += '<details class="illum-def"><summary>\u{1F4A1}</summary>' +
-         '<p class="illum-def-body">' + ilEsc(defText) + '</p></details>';
+    h += '<p class="illum-def-body" hidden>' + ilEsc(defText) + '</p>';
   }
   return h;
+}
+function illumDefToggle(bulb, ev) {
+  if (ev) ev.stopPropagation();
+  const body = bulb.closest('p').nextElementSibling;
+  if (!body || !body.classList.contains('illum-def-body')) return;
+  body.hidden = !body.hidden;
+  bulb.classList.toggle('on', !body.hidden);
 }
 
 /* Returns the chapter's HTML built from the outline, or null to signal "no
@@ -6454,28 +6467,12 @@ migrateHighlightKeys();        // must run before any section is built
 migrateSectionKeys();          // likewise: bookmark/note keys are read at build time
 renderMoods();                 // restore any saved mood before the first verse
 loadVerse(anchorIdx());        // set up Promises (2 Corinthians 1:20) for when it is opened
-/* The app opens on the Bible, landing somewhere different every visit.
-   The pool is Mak, the Illumination and the devotional. The KJV is deliberately
-   not in it.
-
-   Weighted rather than uniform, because the sources are wildly different sizes:
-   1,189 Illumination chapters, 260 in Mak, 31 devotional days. An even draw
-   across every destination would surface the devotional about once in fifty
-   visits; an even draw across the three SOURCES would recycle the same 31 days
-   constantly. These weights give roughly half scripture in the Illumination, a
-   third in Mak, and the devotional about one visit in six. */
-/* Scripture still wins the draw -- 5 of 8 -- because that is what this is. The
-   hymnal and the devotional are where a reader wanders, not where they live. */
-const RANDOM_POOL = [
-  { tx: 'illum', weight: 3 },
-  { tx: 'mak',   weight: 2 },
-  { tx: 'hymn',  weight: 2 },
-  { tx: 'dev',   weight: 1 },
-  /* A quote is the shortest thing here -- a few seconds against a chapter -- so
-     it is drawn least often. Landing on one repeatedly would make the app feel
-     like a quote app that also has a Bible in it. */
-  { tx: 'quote', weight: 1 }
-];
+/* The app opens on the Bible, always at the same place: Romans 8 in the
+   Illumination Translation. Used to land somewhere different every visit,
+   weighted across Mak, the Illumination, the devotional, hymns and quotes
+   (see CHANGELOG 2026-09-11 for that mechanism) -- Chris asked for that
+   removed in favour of a fixed landing. */
+const FIXED_LANDING_REF = 'Romans 8';
 
 /* readMode is flipped by toggleMode(), which also repaints its own controls.
    A landing sets the translation directly, so the controls are brought into
@@ -6487,55 +6484,12 @@ function syncModeUI() {
   document.getElementById('readLabel').classList.toggle('active', readMode);
 }
 
-function openSomewhereRandom() {
-  const draw = [];
-  RANDOM_POOL.forEach(s => { for (let i = 0; i < s.weight; i++) draw.push(s.tx); });
-  let tx = draw[Math.floor(Math.random() * draw.length)];
-
-  /* A hymn is not a translation of the bible reader -- it has its own view. It
-     used to be handled by landing there and returning, which left the bible
-     view exactly as index.html ships it: no chapter, no navigation, and a
-     chapter select sitting on its first option, which is the Introduction. The
-     reader saw a hymn, tapped Bible, and got an empty page claiming to be the
-     introduction. A quarter of all visits, so it kept coming back.
-     So the scripture landing always happens and the hymn is opened on top of
-     it. The bible view is then ready behind the hymn, which is what tapping
-     Bible expects to find. */
-  const hymns  = hyAll();
-  const quotes = qtAll();
-  const landOnHymn  = tx === 'hymn'  && hymns.length  > 0;
-  /* Quotes ride the same rail as the hymn for the same reason, and carry one
-     extra condition: data/quotes.js is hand-maintained and can be empty, in
-     which case the draw falls through to scripture rather than landing the
-     reader on a card that has nothing to say. */
-  const landOnQuote = tx === 'quote' && quotes.length > 0;
-  if (tx === 'hymn' || tx === 'quote') tx = 'illum';   // the bible still needs a destination
-
+function openFixedLanding() {
   sv('bible');
-  switchTranslation(tx);
-  if (tx === 'dev') {
-    /* From 1, not 0 -- destination 0 is the front matter, which is the same
-       page every time and is not a reading. */
-    loadDev(1 + Math.floor(Math.random() * DEVOTIONAL.days.length));
-  } else if (tx === 'mak') {
-    /* skipHistory: a landing the reader did not choose should not fill History. */
-    loadChapter(Math.floor(Math.random() * CHAPTERS.length), true);
-  } else {
-    /* Chapters only. A synopsis is a reference page, not somewhere to land. */
-    const chapters = [];
-    navFor(tx).forEach((d, i) => { if (d.type === 'ch') chapters.push(i); });
-    loadIllum(chapters[Math.floor(Math.random() * chapters.length)]);
-  }
+  switchTranslation('illum');
+  const ci = ILLUMINATION.findIndex(c => c.ref === FIXED_LANDING_REF);
+  loadIllum(ci >= 0 ? ci : 0);
   syncModeUI();
-
-  /* Last, so the hymn or the quote is what the reader actually arrives on. */
-  if (landOnHymn) {
-    sv('hymns');
-    hyOpen(Math.floor(Math.random() * hymns.length));
-  } else if (landOnQuote) {
-    qtCurrent = qtPick();
-    sv('quotes');
-  }
 }
 
 /* ================= Journal: calendar, reading plans, notes =================
@@ -8095,16 +8049,12 @@ function hyInit() {
    from whichever palette is live when it runs. */
 optLoad();
 applySettings();
-/* Before openSomewhereRandom, which can land on a hymn and needs the index
-   built to know how many there are and to give the reader prev/next. */
-hyInit();
+hyInit();                       /* populates the Hymns tab's own listing */
 booksRender();                 /* the reader's own shelf, if they have one */
 installInit();                  /* hide the badges if it is already installed */
 updatesBadgeRefresh();          /* the bell's unread dot */
 analyticsConsentInit();         /* loads Clarity only if already consented */
-/* Sets its own view now: a hymn is not a chapter, so the landing decides
-   whether the reader arrives in the bible or the hymnal. */
-openSomewhereRandom();
+openFixedLanding();             /* always Romans 8, Illumination Translation */
 jrInit();
 msInit();
 if (window.innerWidth > 1000) document.getElementById('library').classList.add('open');
