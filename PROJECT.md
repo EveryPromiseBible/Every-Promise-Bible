@@ -304,10 +304,14 @@ const ILLUM_DEFS = {
 
 Chapter ref -> Illumination verse-block label (the exact `v[0]` string from
 `ILLUMINATION`, e.g. `"1:17"`) -> definition text. Powers the bulb under the
-Illumination reader — see `renderIllumVerseP`. Sourced from Chris's own book,
-*The Illumination Translation* (C.S. Knight), via `tools/illum_defs_build.py`;
-never hand-edit, regenerate instead. **All 27 NT books built**: 260 chapters,
-1,382 definitions, 0 unmatched.
+Illumination reader — see `renderIllumVerseP`. Two sources, both feeding the
+same file: 1,382 entries sourced from Chris's own book, *The Illumination
+Translation* (C.S. Knight), via `tools/illum_defs_build.py` (parses his five
+EPUBs); the remaining 1,082 authored directly, via `tools/illum_defs_author.py`,
+for blocks his book doesn't comment on — plain, elementary retellings of what a
+verse says, not interpretation. **Every verse block in the NT has an entry**:
+260 chapters, 2,464 definitions, 0 unmatched, 0 bad keys. The OT has none —
+Chris's book is NT-only. Never hand-edit this file; regenerate with the tools.
 
 ### `DEVOTIONAL` — object   *(added 2026-08-04)*
 
@@ -482,7 +486,7 @@ Only one media query: `@media(max-width:1000px)` — hides top nav, shows `.bnav
 - **Study/Read toggle** — Read hides Greek and tags for clean prose
 - **Highlight mode** — works in Study *and* Read; whole-verse highlighting in the Illumination
 - **Section bookmark and notes** — on Mak sections and on Illumination/KJV headings; visible in both modes
-- **Illumination-only bulb (💡)** *(added 2026-09-11)* — verse blocks with an entry in `data/illum-defs.js` (Chris's own book, all 27 NT books) get a bulb inline at the end of the verse text; tap opens the definition in the paragraph right below. Distinct from Grace Commentary, which stays in the Mak word popup. See CHANGELOG 2026-09-11.
+- **Illumination-only bulb (💡)** *(added 2026-09-11)* — every verse block in all 27 NT books has an entry in `data/illum-defs.js` (Chris's own book plus an authored fill-in pass) and gets a bulb inline at the end of the verse text; tap opens the definition in the paragraph right below. Distinct from Grace Commentary, which stays in the Mak word popup. See CHANGELOG 2026-09-11.
 - Search across every translation at once
 - Library side panel — **the library only**; auto-opens >1000px, closes on a pick at phone width
 

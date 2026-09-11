@@ -30,43 +30,45 @@ If the book gets a revision, re-run `python tools/illum_defs_build.py "<path
 to .epub>"` — merges into the existing `data/illum-defs.js` and is idempotent,
 so re-running a book already built doesn't disturb the others.
 
-## 🔵 Filling in the gaps — every VERSE BLOCK gets a bulb, not just every chapter
+## ✅ Filling in the gaps — DONE, every VERSE BLOCK in the NT has a bulb (2026-09-11)
 
-The pass above puts at least one bulb somewhere in every chapter. It doesn't put one on every block —
+The pass above put at least one bulb somewhere in every chapter. It didn't put one on every block —
 Chris's book comments on part of a chapter, not always all of it, so a lot of individual blocks (finer
-than the book's own paragraphs) still show nothing. Chris asked for those filled in too: plain,
-elementary retellings of what the verse says, no theology, no interpretation — written so a new
-believer can follow along. New tool for this, `tools/illum_defs_author.py` — see CHANGELOG 2026-09-11.
+than the book's own paragraphs) showed nothing. Chris asked for those filled in too: plain, elementary
+retellings of what the verse says, no theology, no interpretation — written so a new believer can follow
+along. Tool for this, `tools/illum_defs_author.py` — see CHANGELOG 2026-09-11.
 
-- [x] **Matthew** — 61 written, 229/229 blocks covered
-- [x] **Mark** — 45 written, 145/145 blocks covered
-- [x] **Luke** — 88 written, 247/247 blocks covered
-- [x] **John** — 103 written, 209/209 blocks covered
-- [ ] **Acts** — 140 blocks still missing
-- [ ] **Romans** — 57 still missing
-- [ ] **1 Corinthians** — 34 still missing
-- [ ] **2 Corinthians** — 46 still missing
-- [ ] **Galatians** — 24 still missing
-- [ ] **Ephesians** — 24 still missing
-- [ ] **Philippians** — 16 still missing
-- [ ] **Colossians** — 7 still missing
-- [ ] **1 Thessalonians** — 8 still missing
-- [ ] **2 Thessalonians** — 6 still missing
-- [ ] **1 Timothy** — 19 still missing
-- [ ] **2 Timothy** — 14 still missing
-- [ ] **Titus** — 13 still missing
-- [ ] **Philemon** — 9 still missing
-- [ ] **Hebrews** — 41 still missing
-- [ ] **James** — 47 still missing
-- [ ] **1 Peter** — 53 still missing
-- [ ] **2 Peter** — 15 still missing
-- [ ] **1 John** — 56 still missing
-- [ ] **2 John** — 5 still missing
-- [ ] **3 John** — 6 still missing
-- [ ] **Jude** — 4 still missing
-- [ ] **Revelation** — 141 still missing
+- [x] **Matthew** — 61 written, 229/229
+- [x] **Mark** — 45 written, 145/145
+- [x] **Luke** — 88 written, 247/247
+- [x] **John** — 103 written, 209/209
+- [x] **Acts** — 140 written, 275/275
+- [x] **Romans** — 57 written, 130/130
+- [x] **1 Corinthians** — 34 written, 114/114
+- [x] **2 Corinthians** — 46 written, 102/102
+- [x] **Galatians** — 24 written, 54/54
+- [x] **Ephesians** — 24 written, 50/50
+- [x] **Philippians** — 16 written, 43/43
+- [x] **Colossians** — 7 written, 29/29
+- [x] **1 Thessalonians** — 8 written, 28/28
+- [x] **2 Thessalonians** — 6 written, 19/19
+- [x] **1 Timothy** — 19 written, 44/44
+- [x] **2 Timothy** — 14 written, 35/35
+- [x] **Titus** — 13 written, 27/27
+- [x] **Philemon** — 9 written, 16/16
+- [x] **Hebrews** — 41 written, 110/110
+- [x] **James** — 47 written, 72/72
+- [x] **1 Peter** — 53 written, 84/84
+- [x] **2 Peter** — 15 written, 32/32
+- [x] **1 John** — 56 written, 84/84
+- [x] **2 John** — 5 written, 10/10
+- [x] **3 John** — 6 written, 11/11
+- [x] **Jude** — 4 written, 13/13
+- [x] **Revelation** — 141 written, 252/252
 
-**297 of 1,082 written. 785 left, all in Acts / the Epistles / Revelation.**
+**1,082 of 1,082 written. Every NT verse block — 2,464 of 2,464 across all 27 books — now has a bulb.**
+Verified in-page against the live `ILLUMINATION` array: 0 bad chapters, 0 bad keys, 0 missing blocks,
+corpus-wide.
 
 ---
 

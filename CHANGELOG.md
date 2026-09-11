@@ -1,5 +1,36 @@
 # CHANGELOG
 
+## 2026-09-11 — Every verse block in the NT now has a bulb — 1,082 written, corpus complete
+
+The fill-in pass that started with the Gospels is done. Across Acts, all thirteen Pauline epistles, all
+eight General Epistles, and Revelation: **1,082 definitions authored**, bringing `ILLUM_DEFS` to
+**2,464 entries — every single verse block in all 260 NT chapters**, matching the Mak corpus chapter
+count exactly. Book-by-book count is in TODO.md; each book was verified individually as it finished, and
+the whole corpus was re-verified at the end: every key in `ILLUM_DEFS` checked against the live
+`ILLUMINATION` array, 0 bad chapters, 0 bad keys, 0 missing blocks anywhere. Revelation 22 — the Bible's
+last chapter — spot-checked visually in the browser: a bulb on every block.
+
+Same standard held the whole way through: plain, literal retellings of what a passage says, not what it
+means — no theology, no interpretation, nothing a new believer would need background to follow. Long
+argument-heavy chapters (Romans, Hebrews) got the same treatment as narrative ones: state what's being
+argued, not its theological weight. Revelation's visions are described as John describes them — what he
+saw and heard — without decoding the symbolism.
+
+Two things worth naming for whoever picks this up next:
+
+- **Verification, not proofreading.** Every one of the 1,082 was checked structurally (the key resolves,
+  nothing was overwritten) and a handful were spot-checked visually in-browser per book. They were not
+  read back a second time against the source text the way this project's translation work is (see
+  PROJECT.md's gloss-drift discipline) — that would be the honest next step if tighter confidence is
+  wanted before calling this permanently finished.
+- **`tools/illum_defs_author.py` is reusable** if Chris ever wants a pass done differently, or wants
+  these re-authored to a different standard — it validates against `ILLUMINATION` and refuses to
+  overwrite anything already in `data/illum-defs.js`, so it's safe to run incrementally against any
+  subset of books.
+
+**The Old Testament has none of this** — Chris's book is NT-only. Whether to build something similar for
+the OT's ~6,567 blocks is an open question, not started.
+
 ## 2026-09-11 — Filling in the missing bulbs: all four Gospels done (297 new)
 
 Chris's own book only comments on part of each chapter — the site's Illumination paraphrase is chunked
