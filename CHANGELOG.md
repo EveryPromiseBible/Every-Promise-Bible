@@ -1,5 +1,33 @@
 # CHANGELOG
 
+## 2026-09-11 — Filling in the missing bulbs: all four Gospels done (297 new)
+
+Chris's own book only comments on part of each chapter — the site's Illumination paraphrase is chunked
+finer than the book's own explanations, so plenty of verse blocks never got a bulb. Asked whether that
+gap could be closed, book by book, in plain language a new believer could follow — no theology, no
+interpretation, just what the verse is saying.
+
+New tool, `tools/illum_defs_author.py`: takes a hand-authored `DEFS = [(chapterRef, blockLabel, text),
+...]` list, validates every block actually exists in `ILLUMINATION` and does **not** already have an
+entry (refuses to touch anything from Chris's own book, or an earlier author run, rather than silently
+overwriting it), and only then merges it into `data/illum-defs.js`. Companion to `illum_defs_build.py`,
+which pulls from the EPUBs; this one is for what those EPUBs never covered.
+
+**Matthew (61), Mark (45), Luke (88), John (103) — 297 definitions, all four Gospels now at 100%
+coverage (830/830 blocks).** First pass read theological ("rooting Jesus in the covenant line," "a
+picture of Israel's leaders rejecting the prophets") — Chris caught it and asked for it rewritten
+elementary: literal retellings of what happens, nothing read into the text. Second pass is what shipped.
+
+Verified in-browser after clearing a stale service-worker cache that was masking the new data during
+testing (a real trap worth flagging for next time: `/data/` is cache-first, so a test session that
+already loaded the app once will keep serving the old file until the SW is unregistered or the update
+notice fires): every one of the 830 Gospel keys in `ILLUM_DEFS` checked against the live `ILLUMINATION`
+array, 0 bad chapters, 0 bad keys, 0 missing blocks. John 14 spot-checked visually — a bulb after every
+block, including the newly-authored 14:1–4.
+
+**Next:** the same pass continues through Acts, the thirteen Pauline epistles, the eight General
+Epistles, and Revelation — 785 blocks still missing a bulb.
+
 ## 2026-09-11 — The bulb was dark at rest; now it's lit
 
 Chris asked directly: "are the light bulbs illuminated?" They weren't — the inline version shipped
