@@ -1,5 +1,53 @@
 # CHANGELOG
 
+## 2026-09-11 — The Jesus Bible: Titus added
+
+Seventh book in the Jesus Bible, following the same method as the six before it: KJV wording kept
+throughout, only person/voice shifted. Elmer Towns' Titus chapter (`Chapter057.html`, "I Am Jesus —
+The Hope of Eternal Life") was read complete before writing began.
+
+Titus has a feature none of the six books before it did: it applies "God our Saviour" to both the
+Father and to Christ Himself as a deliberate parallel running through the letter, so the usual "God
+converts to my Father" rule had to be checked verse by verse rather than pattern-matched. 2:13's "the
+great God and our Saviour Jesus Christ" stays Jesus calling Himself God, not converted to "my
+Father," confirmed directly against Towns making the same call. The residual scan caught a real
+mistake before it shipped: three instances of "God our Saviour" describing the Father were first
+drafted as "my Father, our Saviour," which wrongly includes Jesus among those needing saving — fixed
+to "your Saviour" at all three. Full technique notes in `VoiceOfJesus/STATUS.md`.
+
+Wired in the same way as the six books before it: section headings from the Illumination's own Titus
+headings and verse-range boundaries, and a short per-book intro in Jesus's own voice.
+
+Verified: 46/46 verses present, chapter counts match `KJV.json` exactly (16/15/15); only 1 residual
+"God" survives (2:13, the deliberate Christ-as-God exception); zero residual "Christ"/"Jesus"; zero
+residual "we/us/our".
+
+## 2026-09-11 — Tour: a Back button
+
+Added a `Back` button next to `Next` in the tour's footer (`.tour-nav-group`), for a reader who
+clicked through a step by accident. `tourBack()` mirrors `tourNext()` exactly but decrements
+`tourAt` instead -- same `tourFade`/`tourGo`/`tourPaint` sequence, so a step's `go()` re-runs
+going backward too, rather than trying to reconstruct state without it. Hidden (not disabled) on
+step 1, since there is nothing behind the first step to go back to. Verified live: Back returns
+from step 2 to step 1 and hides itself again correctly. Not yet pushed live.
+
+## 2026-09-11 — Tour: a step for the Illumination's bulb
+
+The tour never demoed the Illumination's own bulb -- it only had "The Grace Commentary" step, which
+used to be reached through a bulb of its own before that moved into Mak's word popups (see the CSS
+history around `.cmt-title`). New step, "Every Block Has a Bulb", inserted right after "tx.02 — The
+Illumination" and right before "The Grace Commentary": explains what the bulb does (a plain, literal
+explanation of the passage, no interpretation) and explicitly distinguishes it from the Grace
+Commentary step that follows, since the two can otherwise read as the same feature.
+
+`tourIllumDemo()` demos it the same two-beat way `tourWordDemo()` demos a Mak word: mark the first
+bulb in the loaded chapter, hold the scroll position, then tap it after a pause -- reusing
+`tourMark`/`tourWordHold`/`tourAfter` rather than inventing a new mechanism. Step's `spot` targets
+`.illum-block.lit` (the result), not the bulb itself, matching how the word step's `spot` targets
+`.def-card` rather than the tapped word. Verified live: John 15 (every chapter has full bulb coverage
+now, so any chapter works), bulb marked, tapped, block lights up with the ring following it and the
+card repositioning below. Tour is now 18 steps. Not yet pushed live.
+
 ## 2026-09-11 — The Jesus Bible: Colossians added
 
 Sixth book in the Jesus Bible, following the same method as the five before it: KJV wording kept

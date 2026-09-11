@@ -66,9 +66,10 @@ commentary on selected verses.
 | Ephesians | 155 | done |
 | Philippians | 104 | done |
 | Colossians | 95 | done |
+| Titus | 46 | done |
 
-10 more books remain, in the order Wuest covered them: Titus, Hebrews,
-1 Timothy, 2 Timothy, 1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude.
+9 more books remain, in the order Wuest covered them: Hebrews, 1 Timothy,
+2 Timothy, 1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -416,6 +417,40 @@ Verification run: 95/95 verses present, chapter-by-chapter counts match `KJV.jso
 4:11's other Jesus/Justus); zero residual "Christ"; zero residual "we/us/our/ourselves"; every
 verse-initial "Who/Whom/Which" checked and resolves to a genuine third-person antecedent, none
 dangling.
+
+## Epistle rules (Titus) — confirms Colossians, adds the "God our Saviour" distinction
+
+Read against Elmer Towns' actual Titus chapter (`Chapter057.html`, "I Am Jesus — The Hope of Eternal
+Life," based on his letter to Titus) complete before any verse was written. Titus has a feature none
+of the six books before it did: it applies the title "God our Saviour" to **both** the Father (1:3,
+2:10, 3:4) **and** to Christ Himself (1:4's "the Lord Jesus Christ our Saviour," 2:13's "the great
+God and our Saviour Jesus Christ," 3:6's "Jesus Christ our Saviour") as a deliberate rhetorical
+parallel running through the letter. This meant the usual "God converts to my Father" rule could not
+be applied by pattern-matching the word alone — every instance needed a verse-by-verse check of
+which person it names.
+
+1. **2:13's "the great God and our Saviour Jesus Christ" stays Jesus calling Himself "God,"** not
+   converted to "my Father." Confirmed directly against Towns, who keeps it the same way: *"the
+   glorious appearing... your Savior, and God."* This is the first case in the project of "God"
+   correctly staying as a title Jesus applies to Himself rather than converting — distinct from the
+   "Godhead" exception (Colossians 2:9, a different word for the divine nature) and from the
+   creedal-formula exception (Ephesians 4:4–6).
+2. **1:2's "which God, that cannot lie, promised before the world began" converts to Jesus's own "I,"**
+   matching Towns exactly: *"I cannot lie. I promised this eternal life before the world was
+   created."* Towns reads the promise-maker here as Christ, not the Father specifically, and the
+   conversion follows him rather than defaulting to "my Father."
+3. **A real mistake caught by the residual scan, not by reading**: three instances of "God our
+   Saviour" describing the Father (1:3, 2:10, 3:4) were first drafted as "my Father, **our**
+   Saviour" — but Jesus has no need of a Saviour, so "our" (which would include Him) is false in His
+   own mouth. Fixed to "my Father, **your** Saviour" at all three, matching the same we/us-self-
+   inclusion error class first found in Romans (see above) but this time in a title rather than a
+   pronoun. Left correctly as "your Saviour" throughout (1:4, 3:6) elsewhere in the first draft — the
+   scan caught the three places pattern-matching alone had missed.
+
+Verification run: 46/46 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(16/15/15). Only 1 residual "God" survives (2:13, the deliberate Christ-as-God exception); zero
+residual "Christ"/"Jesus"; zero residual "we/us/our/ourselves" after the fix above; zero unresolved
+dangling "Who/Whom/Which" verse-openers.
 
 ## Verification run on Mark
 
