@@ -1,5 +1,57 @@
 # CHANGELOG
 
+## 2026-09-11 — Fixed a theological error in the Jesus Bible's Colossians: the wrong reconciler
+
+A fresh audit pass re-reading Elmer Towns' Colossians chapter against `VoiceOfJesus/colossians.json`
+found a real mistake in the Christ-hymn (1:15-20). The first draft, carried by the momentum of
+verses 15-18's first-person voice ("I am the image... I am before all things... I am the head"),
+wrongly kept converting into verses 19-21 too -- but the KJV's own grammar shifts the subject back
+to "the Father" at 1:19 ("For it pleased the Father that in him should all fulness dwell") and holds
+it there through 1:21. 1:20's "by him to reconcile all things unto himself" means the Father
+reconciling all things to Himself, using Christ as the means ("by him," "by his blood") -- not Christ
+reconciling things to Himself, which is what the draft had. Towns' own paraphrase makes the correct
+reading explicit: *"By Me, God My Father reconciled all things to Himself... My Father in heaven made
+peace."*
+
+Fixed 1:20 ("unto myself" -> "unto himself") and 1:21 ("have I reconciled" -> "hath he reconciled"),
+keeping the Father as the acting subject and Christ as the means throughout 1:19-21, matching Towns
+and the standard reading (parallel to 2 Corinthians 5:19, "God was in Christ, reconciling the world
+unto himself"). The lesson recorded in `VoiceOfJesus/STATUS.md`: inside one hymn, the grammatical
+subject can shift away from Christ mid-passage even while Christ stays the topic -- check who the
+verb's subject actually is at each verse, not just what the passage is about.
+
+## 2026-09-11 — Tour: closing step no longer claims a random landing
+
+The last step's copy still said the app "opens somewhere random every visit" -- true when it was
+written, stale since the fixed-Romans-8-landing change earlier today (the entry a few below this
+one). Reworded to state the actual current behaviour and frame it positively for the audience that
+benefits most: every visit opens Romans 8, "a great place to start if you have never read the Bible
+before." Not yet pushed live.
+
+## 2026-09-11 — The randomizer is back, as a dice button
+
+`openSomewhereRandom()` was removed earlier today in favour of a fixed Romans 8 landing (see the
+"Tour: a step for the Illumination's bulb" entry below) -- Chris still wanted the randomizer
+itself, just as something a reader asks for rather than something that happens to them every
+visit. It's back as a manual dice button (🎲), replacing the "listen" speaker icon in the bible
+toolbar, which was rendered but never wired to anything (see PROJECT.md's dead-buttons list).
+
+`randomizeSomewhere()` reuses the weighted-draw shape `openSomewhereRandom()` used -- `RANDOM_POOL`
+of `{dest, weight}` pairs, scripture favoured the same way it won 5-of-8 in the old pool -- but the
+pool itself changed: `scripture` (5) / `hymn` (2) / `promise` (2), where `scripture` now draws
+uniformly across all three translations including the KJV. The old pool left the KJV out because
+landing on its synopsis page could strand a reader with no chapter loaded; that was a real problem
+for something that fired on every page load, but a manual tap a reader dislikes just gets tapped
+again, so the exclusion no longer earns its keep. Promise replaces the old pool's devotional/quote
+entries, reusing the Promises view's own `shuffleVerse()` rather than a new mechanism. Hymn falls
+through to scripture if `hyAll()` is ever empty, rather than the old code's per-destination
+zero-length guards -- simpler now that there are only two special-cased destinations instead of
+four.
+
+Verified live: 80 draws (`randomizeSomewhere()` called directly, no reload) landed correctly across
+all five real destinations -- illum, mak, kjv, hymn, promise -- zero console errors, zero dead
+draws. Not yet pushed live.
+
 ## 2026-09-11 — The Jesus Bible: Titus added
 
 Seventh book in the Jesus Bible, following the same method as the six before it: KJV wording kept

@@ -387,13 +387,27 @@ confirms the Ephesians/Philippians pattern (Paul, joined by Timothy, stays third
 all of his own material — the thanksgiving, the prayers, and every name in the chapter 4 greetings)
 and adds two new patterns:
 
-1. **The Christ-hymn (1:15–20) runs entirely in Jesus's own first-person voice**, the same treatment
+1. **The Christ-hymn (1:15–20) runs mostly in Jesus's own first-person voice**, the same treatment
    Philippians gave the kenosis passage — *"I am the image of my invisible Father... by me were all
-   things created... I am before all things... I am the head of the body, the church."* Every
+   things created... I am before all things... I am the head of the body, the church."* Most
    "he"/"him"/"himself" describing Christ across the six verses converts to "I"/"me"/"myself,"
    including two dangling-relative-pronoun fixes matching the Romans/Ephesians pattern: 1:15's "Who
    is the image" → "I am the image," and 1:18's "who is the beginning" (following "he is the head,"
-   itself already converted to "I") → "I am the beginning."
+   itself already converted to "I") → "I am the beginning." **But the grammatical subject shifts back
+   to the Father at 1:19** ("For it pleased the Father that in him should all fulness dwell") and
+   stays there through 1:21 — "by him to reconcile all things unto himself" (1:20) means the Father
+   reconciling all things to Himself, using Christ as the means ("by him"/"by his blood"), not Christ
+   reconciling things to Himself. **A fresh re-read against Towns caught a real error here**: the
+   first draft, on the momentum of vv15-18's "I" voice, wrongly converted 1:20's "unto himself" to
+   "unto myself" and 1:21's "hath he reconciled" to "have I reconciled," making Christ the reconciler
+   rather than the means. Towns' own paraphrase makes the correct reading explicit — *"By Me, God My
+   Father reconciled all things to Himself. By My blood on the cross, My Father in heaven made
+   peace"* — the Father is the subject throughout, Christ the agent. Fixed both verses to keep "my
+   Father" as the acting subject (unconverted "himself"/"he") through 1:19-21, with only the
+   means-phrases ("by him," "his cross," "his flesh") converted to first person. **The lesson: inside
+   one hymn, the grammatical subject can shift away from Christ mid-passage even while Christ stays
+   the topic — check who the verb's subject actually is at each verse, not just what the passage is
+   about.**
 2. **A named companion who happens to share Jesus's own name** — 4:11, "And Jesus, which is called
    Justus" — stays exactly as the KJV names him, unconverted. This is a real person distinct from
    the narrator, not a self-reference, and the KJV text already disambiguates it with "which is
