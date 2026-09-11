@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2026-09-11 — The bulb was dark at rest; now it's lit
+
+Chris asked directly: "are the light bulbs illuminated?" They weren't — the inline version shipped
+earlier today had the off/on states backwards, copied from `.sec-action-btn`'s convention (grey at rest,
+full colour once active) without noticing that convention is wrong for this bulb specifically. A toolbar
+icon sits among other icons already being scanned for controls; a bulb sits inside plain reading prose
+and has to announce itself, or a reader never notices there's anything to tap. The bulb this project
+removed years ago got this right the first time — its own design comment (still sitting in the file,
+just above the now-retired `.cmt-title` rules) said it plainly: *"Lit at rest and out once it is opened:
+a bulb that is already on invites the tap, and going dark is the acknowledgement that the note is now
+showing."*
+`.illum-def-bulb` now starts with no filter at full opacity (its natural yellow) and only turns
+`grayscale(1)`/dims to 0.45 opacity once `.on` is added by `illumDefToggle`. Verified on Romans 8:5–8:
+yellow at rest, grey once tapped, definition showing underneath.
+
 ## 2026-09-11 — Fixed landing (Romans 8) replaces the random opener; bulb moved inline
 
 **The app no longer opens somewhere different every visit.** `openSomewhereRandom()` and its weighted
