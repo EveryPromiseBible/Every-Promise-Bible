@@ -65,10 +65,10 @@ commentary on selected verses.
 | Galatians | 149 | done |
 | Ephesians | 155 | done |
 | Philippians | 104 | done |
+| Colossians | 95 | done |
 
-11 more books remain, in the order Wuest covered them: Colossians, Titus,
-Hebrews, 1 Timothy, 2 Timothy, 1 Peter, 2 Peter, 1 John, 2 John, 3 John,
-Jude.
+10 more books remain, in the order Wuest covered them: Titus, Hebrews,
+1 Timothy, 2 Timothy, 1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -377,6 +377,45 @@ false teachers' own appetite, not my Father, correctly left unconverted); zero r
 "Christ"/"Jesus"; zero residual "we/us/our/ourselves"; zero unresolved dangling "Who/Whom/Which"
 verse-openers; zero false-present-state hits on the "is/am dead/come/risen/gone/fled/departed"
 family.
+
+## Epistle rules (Colossians) — confirms Philippians, adds two patterns
+
+Read against Elmer Towns' actual Colossians chapter (`Chapter052.html`, "I Am Jesus — The Superior
+One," based on his letter to the Colossians) complete before any verse was written. His technique
+confirms the Ephesians/Philippians pattern (Paul, joined by Timothy, stays third person for nearly
+all of his own material — the thanksgiving, the prayers, and every name in the chapter 4 greetings)
+and adds two new patterns:
+
+1. **The Christ-hymn (1:15–20) runs entirely in Jesus's own first-person voice**, the same treatment
+   Philippians gave the kenosis passage — *"I am the image of my invisible Father... by me were all
+   things created... I am before all things... I am the head of the body, the church."* Every
+   "he"/"him"/"himself" describing Christ across the six verses converts to "I"/"me"/"myself,"
+   including two dangling-relative-pronoun fixes matching the Romans/Ephesians pattern: 1:15's "Who
+   is the image" → "I am the image," and 1:18's "who is the beginning" (following "he is the head,"
+   itself already converted to "I") → "I am the beginning."
+2. **A named companion who happens to share Jesus's own name** — 4:11, "And Jesus, which is called
+   Justus" — stays exactly as the KJV names him, unconverted. This is a real person distinct from
+   the narrator, not a self-reference, and the KJV text already disambiguates it with "which is
+   called Justus." First time this exact collision has come up in the project; the fix is simply to
+   recognize it and leave it alone, same as any other named associate (Timothy, Epaphroditus,
+   Tychicus).
+
+One recurring judgment call, resolved the same way as Philippians 4:19: verses describing what "the
+Godhead" is (2:9, "in me dwelleth all the fulness of the Godhead bodily") keep the word "Godhead"
+unconverted — it names the divine nature/essence, a different word from "God" the Father-title, and
+Jesus can say it of Himself without it needing "my Father" treatment (matching how Ephesians 4:4–6's
+creedal formula was reasoned through).
+
+4:18's closing signature ("The salutation by the hand of me Paul. Remember my bonds.") stays as
+Paul's own directly-quoted words, unconverted first person — the same treatment Galatians gives
+Paul's quoted rebuke to Peter, and confirmed by Towns keeping this exact line as Paul's own voice
+too ("Paul signed the letter and told them, 'Pray for me because I am in chains.'").
+
+Verification run: 95/95 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(29/23/25/18). Only 2 residual "God"/"Jesus" survive, both deliberate exceptions (2:9's "Godhead,"
+4:11's other Jesus/Justus); zero residual "Christ"; zero residual "we/us/our/ourselves"; every
+verse-initial "Who/Whom/Which" checked and resolves to a genuine third-person antecedent, none
+dangling.
 
 ## Verification run on Mark
 

@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## 2026-09-11 — The Jesus Bible: Colossians added
+
+Sixth book in the Jesus Bible, following the same method as the five before it: KJV wording kept
+throughout, only person/voice shifted. Elmer Towns' Colossians chapter (`Chapter052.html`, "I Am
+Jesus — The Superior One") was read complete before writing began.
+
+Colossians confirmed the Ephesians/Philippians pattern of Paul (joined here by Timothy) staying
+third person for nearly all his own material, and added two new patterns: the Christ-hymn (1:15-20)
+runs entirely in Jesus's own first-person voice, the same treatment Philippians gave the kenosis
+passage, with two dangling-relative-pronoun fixes along the way; and a named companion who happens
+to share Jesus's own name (4:11, "Jesus, which is called Justus") stays exactly as the KJV names
+him — a real, different person, not a self-reference. 4:18's closing signature stays as Paul's own
+directly-quoted words, matching Towns' own choice to keep that line in Paul's voice too. Full
+technique notes in `VoiceOfJesus/STATUS.md`.
+
+Wired in the same way as the five books before it: section headings from the Illumination's own
+Colossians headings and verse-range boundaries, and a short per-book intro in Jesus's own voice.
+
+Verified: 95/95 verses present, chapter counts match `KJV.json` exactly (29/23/25/18); only 2
+residual "God"/"Jesus" survive, both deliberate exceptions (the word "Godhead," and the other
+person named Jesus); zero residual "Christ"; zero residual "we/us/our".
+
 ## 2026-09-11 — Illumination bulb now lights the whole block
 
 Chris's idea: instead of the bulb just revealing a plain paragraph below the verse, clicking it now
