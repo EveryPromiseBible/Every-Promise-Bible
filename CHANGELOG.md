@@ -1,5 +1,31 @@
 # CHANGELOG
 
+## 2026-09-11 — The Jesus Bible: Philippians added
+
+Fifth book in the Jesus Bible, following the same method as the four before it: KJV wording kept
+throughout, only person/voice shifted. Elmer Towns' Philippians chapter (`Chapter051.html`, "I Am
+Jesus — The Source of Joy") was read complete before writing began.
+
+Philippians confirmed the Ephesians pattern of Paul staying third person for nearly all of his own
+material — his thanksgiving, his imprisonment, the Timothy and Epaphroditus news, and the thank-you
+for the Philippians' gift — and added one new case: 4:19's promise of provision ("my God shall
+supply all your need") converts to Jesus's own direct promise rather than a report of Paul's belief,
+confirmed by Towns making the same move explicitly. The kenosis passage (2:6-11) runs entirely in
+Jesus's own first-person voice, restructuring two dangling verse-openers ("Who, being in the form of
+God" and "Who shall change our vile body") into self-contained first-person clauses, the same fix
+pattern used since Romans. Two verses naming both Paul and another person (Timothy at 2:22,
+Epaphroditus at 2:27) needed "Paul" named explicitly rather than a pronoun, to avoid colliding with
+the other person's own pronoun in the same sentence. Full notes, including one open judgment call on
+bare vocative address with no reporting verb to convert, are in `VoiceOfJesus/STATUS.md`.
+
+Wired in the same way as the four books before it: section headings from the Illumination's own
+Philippians headings and verse-range boundaries, and a short per-book intro in Jesus's own voice.
+
+Verified: 104/104 verses present, chapter counts match `KJV.json` exactly (30/30/21/23); only 1
+residual "God" survives (3:19, describing the false teachers' own appetite, not my Father); zero
+residual "Christ"/"Jesus"; zero residual "we/us/our"; zero unresolved dangling "Who/Whom/Which"
+openers.
+
 ## 2026-09-11 — Every verse block in the NT now has a bulb — 1,082 written, corpus complete
 
 The fill-in pass that started with the Gospels is done. Across Acts, all thirteen Pauline epistles, all

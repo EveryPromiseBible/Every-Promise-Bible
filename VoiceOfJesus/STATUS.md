@@ -64,10 +64,11 @@ commentary on selected verses.
 | Romans | 433 | done |
 | Galatians | 149 | done |
 | Ephesians | 155 | done |
+| Philippians | 104 | done |
 
-12 more books remain, in the order Wuest covered them: Philippians,
-Colossians, Titus, Hebrews, 1 Timothy, 2 Timothy, 1 Peter, 2 Peter, 1 John,
-2 John, 3 John, Jude.
+11 more books remain, in the order Wuest covered them: Colossians, Titus,
+Hebrews, 1 Timothy, 2 Timothy, 1 Peter, 2 Peter, 1 John, 2 John, 3 John,
+Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -328,6 +329,54 @@ Verification run: 155/155 verses present, chapter-by-chapter counts match `KJV.j
 creedal formula, and the 5:14 hymn citation "Christ shall give thee light"); zero residual "Jesus";
 zero residual "we/us/our/ourselves"; zero false-present-state hits on the "is/am dead/come/risen/
 gone/fled/departed" family.
+
+## Epistle rules (Philippians) — confirms Ephesians, adds one pattern and one open question
+
+Read against Elmer Towns' actual Philippians chapter (`Chapter051.html`, "I Am Jesus — The Source
+of Joy," based on his letter to the Philippians) complete before any verse was written. His
+technique confirms the Ephesians-established pattern (Paul stays third person almost everywhere —
+his thanksgiving, his imprisonment circumstances, the Timothy and Epaphroditus news, and the
+thank-you for the Philippians' gift in 4:10-20 are all narrated about "him," not spoken as Jesus's
+own "I") and adds one new case:
+
+1. **4:19 ("my God shall supply all your need... by Christ Jesus") converts to Jesus's own direct
+   promise, not a reported statement of Paul's.** Towns makes this explicit: rather than narrating
+   what Paul believed about provision, he has Jesus speak the promise directly — *"Now, I will care
+   for your financial needs the same way I took care of Paul. It's all because of His glorious
+   riches in Me."* This is the same kind of call as Ephesians 4:9-10 (Christ's own commentary breaking
+   into what would otherwise be reported material) — the test each time is whether the content reads
+   as Paul's own testimony/circumstance (stays "he") or as a truth Jesus is asserting about Himself or
+   His Father (becomes "I"/"my Father").
+
+One open question, resolved by grammatical necessity rather than a Towns citation: **4:1's "my
+brethren... my joy and crown... my dearly beloved" and 3:1's opening address don't have a reporting
+verb to hang a third-person conversion on** — "Therefore, his brethren... stand fast" isn't a
+sentence. Where Paul's personal terms of address appear as bare vocatives with no "Paul said/asked"
+frame around them, they were left as Paul's own unconverted words breaking through the narration
+(the same treatment as Galatians' rule for Paul's quoted rebuke to Peter — his own words, not
+converted), rather than forcing a restructure that would lose the direct address. Where a reporting
+verb *is* present (4:2-3's "I beseech"/"I intreat"), the conversion to third person works normally
+since "he besought"/"he intreated thee" is a complete indirect-speech sentence.
+
+The kenosis passage (2:6-11) — the clearest place in this letter where Christ narrates His own
+story — required restructuring three verse-openers that would otherwise dangle: 2:6's "Who, being in
+the form of God" (antecedent "me" from 2:5) became "I, being in the form of my Father"; 3:21's "Who
+shall change our vile body" became "I shall change your vile body," the same fix pattern as Romans
+3:25/5:2 and Ephesians throughout. "Equal with God" at 2:6 converts to "equal with him" (my Father),
+consistent with the rule that "God" in a Father/Son contrast means the Father specifically.
+
+Two ambiguous-referent verses needed a named disambiguation rather than a pronoun, because the verse
+names both Paul and someone else (Timothy or Epaphroditus) and a straight "he"/"him" swap for Paul's
+"me" would collide with the other person's existing "he": 2:22 ("he hath served with me" — Timothy's
+commendation) and 2:27 ("not on him only, but on me also" — Epaphroditus's illness). Both now name
+"Paul" explicitly rather than reuse a pronoun already carrying the other person.
+
+Verification run: 104/104 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(30/30/21/23). Only 1 residual "God" survives (3:19, "whose God is their belly" — describing the
+false teachers' own appetite, not my Father, correctly left unconverted); zero residual
+"Christ"/"Jesus"; zero residual "we/us/our/ourselves"; zero unresolved dangling "Who/Whom/Which"
+verse-openers; zero false-present-state hits on the "is/am dead/come/risen/gone/fled/departed"
+family.
 
 ## Verification run on Mark
 
