@@ -479,7 +479,23 @@
     filter:none;opacity:1;transition:filter .12s ease,opacity .12s ease;}
   .illum-def-bulb:hover{opacity:0.7;}
   .illum-def-bulb.on{filter:grayscale(1);opacity:0.45;}
-  .illum-def-body{font-size:0.92em;line-height:1.7;color:var(--ink);margin:-8px 0 15px;max-width:34em;}
+  /* The lit block: verse + definition share one background once opened, so the
+     definition reads as sitting INSIDE the lit verse rather than as a separate
+     paragraph underneath it. Unlit, the wrapper is invisible and costs nothing
+     -- .illum-v keeps its own 15px bottom margin exactly as before; only once
+     .lit is added does the wrapper take over spacing (padding instead of the
+     inner elements' own margins) so the glow has room to sit around both. */
+  .illum-block{border-radius:10px;transition:background .15s ease,padding .15s ease;}
+  .illum-block.lit{background:#ffefb0;padding:10px 14px;margin:0 0 15px;}
+  .illum-block.lit .illum-v{margin:0;}
+  /* Definition text: italic, and in the Greek/user-text serif rather than the
+     verse's own sans -- the same "different font marks it as not-the-text"
+     convention already used for Greek and user notes, applied here to mark
+     this as commentary, not scripture. */
+  .illum-def-body{font-family:var(--grk);font-style:italic;font-size:0.92em;
+    line-height:1.7;color:var(--ink);max-width:34em;}
+  .illum-block:not(.lit) .illum-def-body{margin:-8px 0 15px;}
+  .illum-block.lit .illum-def-body{margin:8px 0 0;}
 
   /* Small popup offered on a verse-number tap, listing the OTHER translations
      it can jump to -- Illumination, KJV, and Mak all share verse-level
@@ -4247,7 +4263,11 @@ function renderIllumVerseP(v, si, vi, ch, book) {
        (defText ? ' <span class="illum-def-bulb" onclick="illumDefToggle(this,event)">\u{1F4A1}</span>' : '') +
        '</p>';
   if (defText) {
-    h += '<p class="illum-def-body" hidden>' + ilEsc(defText) + '</p>';
+    /* Wrapped in .illum-block so the bulb can light the verse AND its
+       definition as one lit block, not just reveal a plain paragraph
+       underneath -- Chris's call, see illumDefToggle. */
+    h = '<div class="illum-block">' + h +
+        '<p class="illum-def-body" hidden>' + ilEsc(defText) + '</p></div>';
   }
   return h;
 }
@@ -4257,6 +4277,8 @@ function illumDefToggle(bulb, ev) {
   if (!body || !body.classList.contains('illum-def-body')) return;
   body.hidden = !body.hidden;
   bulb.classList.toggle('on', !body.hidden);
+  const block = bulb.closest('.illum-block');
+  if (block) block.classList.toggle('lit', !body.hidden);
 }
 
 /* Returns the chapter's HTML built from the outline, or null to signal "no

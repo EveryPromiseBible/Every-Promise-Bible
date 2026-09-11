@@ -1,6 +1,21 @@
 # CHANGELOG
 
-## 2026-09-11 — The Jesus Bible: Philippians added
+## 2026-09-11 — Illumination bulb now lights the whole block
+
+Chris's idea: instead of the bulb just revealing a plain paragraph below the verse, clicking it now
+lights the verse and its definition together as one block (warm background, rounded corners), and the
+definition text renders in italic Gentium Plus instead of the verse's own sans -- the same
+"different font marks it as not-the-text" convention already used for Greek and user notes, applied
+here to mark it as commentary rather than scripture.
+
+`renderIllumVerseP` now wraps the verse `<p>` and its `.illum-def-body` in a `.illum-block` container
+only when a definition exists; `illumDefToggle` toggles a `.lit` class on that wrapper alongside the
+existing hidden/on toggling. Unlit verses are unaffected -- no wrapper, no cost.
+
+Background color went through a few rounds with Chris testing live in the browser each time, landing
+on `#ffefb0` -- sampled from the actual highlight circle in the rendered 💡 emoji's glass (via a
+canvas pixel sample, not a guess), then lightened twice more per his feedback. Tested locally over
+`python -m http.server` before anything was pushed live; not yet deployed.
 
 Fifth book in the Jesus Bible, following the same method as the four before it: KJV wording kept
 throughout, only person/voice shifted. Elmer Towns' Philippians chapter (`Chapter051.html`, "I Am
