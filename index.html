@@ -779,6 +779,9 @@
        scrolling underneath shows in that strip below the buttons. */
     padding:8px 0 14px;margin-bottom:-14px;}
   .tour-dots{display:flex;gap:5px;flex:1 1 auto;justify-content:center;}
+  /* Back sits directly against Next -- one decision, two buttons -- rather
+     than out at the far edge with the dots between them. */
+  .tour-nav-group{display:flex;gap:8px;}
   .tour-dots i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block;}
   .tour-dots i.on{background:var(--sword);}
   .tour-btn{font-family:var(--sans);font-size:0.88em;font-weight:600;cursor:pointer;
@@ -1509,7 +1512,7 @@
     <button class="tool-btn" title="home">&#8962;</button>
     <button class="tool-btn" id="searchBtn" onclick="openSearch()" title="search">&#128269;</button>
     <button class="tool-btn" id="hlBtn" onclick="toggleHighlightMode()" title="highlight">&#9998;</button>
-    <button class="tool-btn" title="listen">&#128266;</button>
+    <button class="tool-btn" id="randomBtn" onclick="randomizeSomewhere()" title="surprise me">&#127922;</button>
     <button class="tool-btn" id="libBtn" onclick="toggleLibrary()" title="library">&#128218;</button>
   </div>
   <!-- The tabs end on Journal; the options mark sits above them, right-aligned
@@ -1887,7 +1890,13 @@
   <div class="tour-foot">
     <button type="button" class="tour-skip" onclick="tourEnd()">Skip</button>
     <div class="tour-dots" id="tourDots"></div>
-    <button type="button" class="tour-btn primary" id="tourNext" onclick="tourNext()">Next</button>
+    <div class="tour-nav-group">
+      <!-- Hidden on step 1 rather than disabled: there is nothing behind the
+           first step to go back TO, so a greyed-out button inviting a click
+           that does nothing is worse than no button at all. -->
+      <button type="button" class="tour-btn" id="tourBack" onclick="tourBack()" hidden>Back</button>
+      <button type="button" class="tour-btn primary" id="tourNext" onclick="tourNext()">Next</button>
+    </div>
   </div>
 </div>
 
@@ -5860,6 +5869,13 @@ const TOUR = [
     body: 'The whole Bible, all 66 books, retold thought by thought. Every chapter has a title, every section a heading, and the verses are grouped into blocks of a single thought — so you can follow along with the writer every time he changes his train of thought, and gain a greater understanding of what he&rsquo;s saying.',
     go: () => { switchTranslation('illum'); loadIllum(navIndexForRef('illum', 'John 15')); } },
 
+  { title: 'Every Block Has a Bulb',
+    tint: 'var(--yellow)',
+    spot: '.illum-block.lit',
+    below: '.illum-block.lit',
+    body: 'Every block in the Illumination carries its own bulb. Tap it, and a plain explanation of what the passage is saying lights up right inside the block — nothing added, no interpretation, just what the words themselves are saying, for wherever a passage needs walking through. This is separate from the <b>Grace Commentary</b> coming up next, which lives under Mak&rsquo;s words instead and reads a passage through the lens of grace.',
+    go: () => { tourIllumDemo(); } },
+
   { title: 'The Grace Commentary',
     tint: 'var(--yellow)',
     spot: '.cmt-fold',
@@ -5967,7 +5983,7 @@ const TOUR = [
     go: () => { tourJournalDemo(); } },
 
   { title: 'That Is the Tour',
-    body: '<p>The app opens somewhere random every visit — it keeps things fresh, and it helps if you do not know where to start. You can run this again any time from <b>☰ &rarr; Take the tour</b>.</p>' +
+    body: '<p>Every time you come to this site, it opens on the book of <b>Romans</b> — a great place to start if you have never read the Bible before. You can run this tour again any time from <b>☰ &rarr; Take the tour</b>.</p>' +
           '<p class="tour-lead">Anything broken, anything missing, anything you would like added:<br>' +
           '<a href="mailto:everypromiseapp@gmail.com">everypromiseapp@gmail.com</a></p>' +
           '<p class="tour-lead">One last thing: this site uses Microsoft Clarity to see anonymous visit ' +
@@ -6237,6 +6253,34 @@ function tourOpenSource(re) {
   tourWordHold(false);                             // the reflow moves the page
 }
 
+/* The Illumination's own bulb, demoed the same two-beat way as the Mak word
+   step above: the bulb is marked where it sits in the chapter, held on screen,
+   then tapped after a pause long enough to read as a deliberate gesture. The
+   step's `spot` targets the LIT block rather than the bulb itself -- same
+   reasoning as `spot: '.def-card'` on the word step -- so tourAfter's
+   re-resolve (it always re-runs tourSpot once the timed action fires) is what
+   actually rings it, once the block exists to ring. */
+const TOUR_IL_MARK = 1200, TOUR_IL_OPEN = 3400;
+function tourIllumDemo() {
+  if (currentTx !== 'illum') switchTranslation('illum');
+  const at = (typeof navIndexForRef === 'function') ? navIndexForRef('illum', 'John 15') : -1;
+  if (at >= 0) loadIllum(at);
+  tourWordTop = null;                              // this run computes its own
+
+  tourAfter(TOUR_IL_MARK, () => {
+    const bulb = document.querySelector('.illum-def-bulb');
+    if (!bulb) return;
+    tourMark(bulb);
+    tourWordHold(true);
+  });
+
+  tourAfter(TOUR_IL_OPEN, () => {
+    const bulb = document.querySelector('.tour-tapped');
+    if (bulb) { bulb.click(); bulb.classList.remove('tour-tapped'); }
+    tourWordHold(false);
+  });
+}
+
 function tourLift(n) {
   n.classList.add('tour-lift');
   /* A statically positioned element needs a position before z-index means
@@ -6409,6 +6453,7 @@ function tourPaint() {
     }
   }
   document.getElementById('tourNext').textContent = tourAt === TOUR.length - 1 ? 'OK' : 'Next';
+  document.getElementById('tourBack').hidden = tourAt === 0;
   document.getElementById('tourDots').innerHTML =
     TOUR.map((_, i) => '<i class="' + (i <= tourAt ? 'on' : '') + '"></i>').join('');
   tourAvoid();                       // needs the card's finished height
@@ -6442,6 +6487,15 @@ function tourNext() {
   if (tourAt >= TOUR.length - 1) { grantAnalyticsConsent(); return tourEnd(); }
   tourFade(() => {
     tourAt++;
+    tourGo(TOUR[tourAt].go);
+    tourPaint();
+  });
+}
+
+function tourBack() {
+  if (tourAt <= 0) return;                        // nothing behind step 1
+  tourFade(() => {
+    tourAt--;
     tourGo(TOUR[tourAt].go);
     tourPaint();
   });
@@ -6507,6 +6561,55 @@ function openFixedLanding() {
   switchTranslation('illum');
   const ci = ILLUMINATION.findIndex(c => c.ref === FIXED_LANDING_REF);
   loadIllum(ci >= 0 ? ci : 0);
+  syncModeUI();
+}
+
+/* The dice button, where "listen" (rendered, never wired) used to sit. A
+   manual reader-triggered version of the old openSomewhereRandom() -- see
+   CHANGELOG 2026-09-11 for why the automatic on-every-visit version was
+   pulled -- so the surprise is something the reader asks for, not something
+   that happens to them. Weighted the same way scripture used to win the old
+   draw: most taps land on a chapter, a hymn or a promise are where a reader
+   wanders. A scripture draw then picks uniformly across all three
+   translations, including the KJV -- the old pool left it out because
+   landing on its synopsis page left the reader without a loaded chapter;
+   here a reader who dislikes the draw just taps again. */
+const RANDOM_POOL = [
+  { dest: 'scripture', weight: 5 },
+  { dest: 'hymn',      weight: 2 },
+  { dest: 'promise',   weight: 2 }
+];
+
+function randomizeSomewhere() {
+  const draw = [];
+  RANDOM_POOL.forEach(s => { for (let i = 0; i < s.weight; i++) draw.push(s.dest); });
+  let dest = draw[Math.floor(Math.random() * draw.length)];
+
+  const hymns = hyAll();
+  if (dest === 'hymn' && !hymns.length) dest = 'scripture';   // nothing to land on
+
+  if (dest === 'hymn') {
+    sv('hymns');
+    hyOpen(Math.floor(Math.random() * hymns.length));
+    return;
+  }
+
+  if (dest === 'promise') {
+    sv('promises');
+    shuffleVerse();
+    return;
+  }
+
+  const tx = ['illum', 'mak', 'kjv'][Math.floor(Math.random() * 3)];
+  sv('bible');
+  switchTranslation(tx);
+  if (tx === 'mak') {
+    loadChapter(Math.floor(Math.random() * CHAPTERS.length), true);   // skipHistory
+  } else {
+    const chapters = [];
+    navFor(tx).forEach((d, i) => { if (d.type === 'ch') chapters.push(i); });
+    loadIllum(chapters[Math.floor(Math.random() * chapters.length)]);
+  }
   syncModeUI();
 }
 

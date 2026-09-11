@@ -122,16 +122,16 @@ listed as placeholders or inert:
 | Search — inert | Working, indexes every translation |
 | Mood filtering — data unused | Working, 17 moods |
 | Rest of the NT — 20 books missing | Complete, all 27 |
+| Listen / TTS — inert | Replaced by the **dice button**: lands on a random hymn, scripture chapter (Mak, Illumination or KJV), or promise |
 
 ## What still needs to be built
 
-1. **Listen / TTS** — button rendered, still inert
-2. **Share** — button rendered, still inert
-3. **Home button** — rendered, still inert
-4. **Cross-references** — built, disabled behind `SHOW_CROSSREF = false`. The full
+1. **Share** — button rendered, still inert
+2. **Home button** — rendered, still inert
+3. **Cross-references** — built, disabled behind `SHOW_CROSSREF = false`. The full
    corpus now exists, so the original blocker is gone; it needs retuning against
    full-corpus word frequency and testing.
-5. **Play listing screenshots** — still show the retired Flutter app.
+4. **Play listing screenshots** — still show the retired Flutter app.
 
 ---
 
@@ -517,7 +517,6 @@ Only one media query: `@media(max-width:1000px)` — hides top nav, shows `.bnav
 
 | Feature | Status |
 |---|---|
-| Listen / TTS | Button rendered, **inert** |
 | Share | Button rendered, **inert** |
 | Home button | Button rendered, **inert** |
 | Cross-references | Built, `SHOW_CROSSREF = false`. The full-NT blocker is gone; needs retuning against full-corpus frequency |
@@ -548,8 +547,9 @@ work on the text itself — but it is polish now, not repair.
 
 ### 2. Retire the dead buttons
 
-Listen, Share and Home are rendered and do nothing. Either build them or remove
-them; a control that does nothing teaches a reader not to trust the others.
+Share and Home are rendered and do nothing. Listen was retired in favour of the
+dice/random button (2026-09-11). Either build the remaining two or remove them;
+a control that does nothing teaches a reader not to trust the others.
 
 ### 3. Cross-references
 
@@ -657,7 +657,7 @@ date-matching entry.
 |---|---|
 | **No verse numbers in Mak** | `CHAPTERS` has sections, not verses. Blocks precise error location and cross-refs to standard references. The Illumination and KJV *do* carry verse refs. |
 | **`section.notes` unused** | Present on all 1,190 Mak sections, empty everywhere. |
-| **Dead buttons** | Home, Listen, Share. Rendered, inert. |
+| **Dead buttons** | Home, Share. Rendered, inert. (Listen was retired for the dice/random button, 2026-09-11.) |
 | **Fake library cards** | Study Notes, Gutenberg, Luther have no backing. |
 | **`innerHTML` everywhere** | Lists and modals are built by string concatenation. **This stopped being theoretical when restore landed:** a backup file is user-supplied input, so saved-item labels are escaped with `ilEsc()` and sermon-note markup goes through `rtSanitize()`. Anything new that renders stored text must do the same. |
 | **`execCommand` in the sermon editor** | Deprecated, with no dependency-free replacement. Works everywhere that matters; degrades to plain typing if a command is refused. |
