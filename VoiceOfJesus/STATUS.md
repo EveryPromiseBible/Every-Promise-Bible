@@ -63,10 +63,11 @@ commentary on selected verses.
 | Mark | 678 | done |
 | Romans | 433 | done |
 | Galatians | 149 | done |
+| Ephesians | 155 | done |
 
-13 more books remain, in the order Wuest covered them: Ephesians,
-Philippians, Colossians, Titus, Hebrews, 1 Timothy, 2 Timothy, 1 Peter,
-2 Peter, 1 John, 2 John, 3 John, Jude.
+12 more books remain, in the order Wuest covered them: Philippians,
+Colossians, Titus, Hebrews, 1 Timothy, 2 Timothy, 1 Peter, 2 Peter, 1 John,
+2 John, 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -265,6 +266,68 @@ the doctrinal first-person sections, and every surviving first-person
 pronoun inside those same autobiographical stretches checks out as Jesus's
 own self-reference (*"my Father," "me," "my brother"*), never a missed
 Paul "I."
+
+## Epistle rules (Ephesians) — confirms Galatians, adds two patterns
+
+Read against Elmer Towns' actual Ephesians chapter (`Chapter050.html` in his epub, "I Am Jesus —
+Who Lives in You," based on his letter to the Ephesians) complete before any verse was written, then
+re-checked chapter by chapter as each was drafted. His technique confirms the Romans/Galatians rules
+and adds two:
+
+1. **The trinitarian confession at 4:4–6 ("One body... one Spirit... One Lord, one faith, one
+   baptism, One God and Father of all") stays entirely unconverted**, the same way "God is one"
+   (Galatians 3:20) and "one God" (Romans) were kept — a fixed creedal formula, not narration. Towns
+   handles the same verses by switching to a collective voice for the Godhead ("We, the Godhead, are
+   One Lord over believers... There is One God and Father who is in each of you") rather than folding
+   it into Jesus's ordinary "I"/"my Father" pattern, confirming this passage needed its own exception
+   rather than the standard conversion.
+2. **Ephesians keeps Paul in third person far more than Romans or Galatians did.** Because the letter
+   itself already frames Paul as "the prisoner of Jesus Christ" (3:1) and "the prisoner of the Lord"
+   (4:1) rather than arguing doctrine in his own first-person voice the way Romans 1–11 does, nearly
+   every stretch of Paul's own "I" — his ministry to the Gentiles (3:1–13), his prayer posture
+   (3:14), his plea for boldness (6:19–20), and the news of Tychicus (6:21–22) — demotes to
+   third-person "Paul," matching Towns' own narration of the same material almost entirely in the
+   third person ("Paul became a prisoner of Rome because he was first captured by Me... He was given
+   a special task of evangelizing the Gentiles").
+
+One judgment call, made where Towns and the KJV both leave the antecedent ambiguous: **4:3's "by
+revelation he made known unto me the mystery"** could grammatically be either my Father or Christ
+revealing Himself to Paul (as on the Damascus road). Towns resolves it as Christ speaking in the
+first person — *"I gave Paul the revelation of his ministry to the Gentiles"* — so `he made known`
+became `I made known` here, matching Towns rather than defaulting to the more common "my Father
+reveals" pattern used everywhere else in the chapter.
+
+A second judgment call: **4:8's citation ("he saith, When he ascended up on high, he led captivity
+captive...") stays quoted and unconverted**, same citation rule as Mark 15:28 and Ephesians 5:14 —
+but **4:9–10, Paul's own commentary explaining the citation, converts to Jesus's first-person voice**
+("Now that I ascended, what is it but that I also descended... I that descended am the same also
+that ascended..."), because Towns treats that commentary as Jesus's own explanation rather than part
+of the citation: *"The phrase 'Christ ascended up' means I returned to heaven after I first came
+down to live and die on earth. Then I descended into the lower parts of the earth—hell—to lead Old
+Testament saints to heaven."* The line between quoted citation and Paul's commentary on it is where
+the conversion starts, not the verse boundary.
+
+"God" converts to "my Father" by the same rule as Romans/Galatians, with the trinitarian formula
+(4:4–6) as the only new exception category — no "God forbid" idiom occurs in Ephesians, and no
+direct Old Testament quotation carries the word "God." "Armour of God" (6:11, 6:13) and "word of
+God" (6:17) both convert to "of mine"/"of my Father" respectively rather than joining the exception
+list — Towns' own handling of the armor passage ("put on all the spiritual armor... Use every piece
+of My spiritual armor") confirmed treating it as Christ's own armor, not a fixed phrase.
+
+Every "Who/Whom/Which" verse-opener was checked against whether the previous verse's antecedent had
+converted to first person (the Romans 3:25/5:2, Galatians 1:4 pattern) — six instances found
+(1:14, 1:20, 1:23, 3:5, 4:19, 6:22), and in every one the antecedent was a third-person noun (the
+Spirit, his power, the church, the mystery, "them"/Gentiles, Tychicus), not a converted first-person
+pronoun, so none needed restructuring. Several verses *earlier* in the chain (1:7, 1:11, 1:13 twice,
+2:21, 2:22, 3:12, 4:16) did open on a dangling "In whom"/"From whom" whose antecedent one sentence up
+had just converted to "me" — each fixed the same way as the Romans/Galatians precedent, by swapping
+the relative pronoun for a first-person "In me"/"From me" rather than restructuring the whole clause.
+
+Verification run: 155/155 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(23/22/21/32/33/24). Only 2 residual "God"/"Christ" survive, both deliberate exceptions (the 4:4–6
+creedal formula, and the 5:14 hymn citation "Christ shall give thee light"); zero residual "Jesus";
+zero residual "we/us/our/ourselves"; zero false-present-state hits on the "is/am dead/come/risen/
+gone/fled/departed" family.
 
 ## Verification run on Mark
 

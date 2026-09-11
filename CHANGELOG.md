@@ -1,5 +1,34 @@
 # CHANGELOG
 
+## 2026-09-11 — The Jesus Bible: Ephesians added
+
+Fourth book in the Jesus Bible, following the same method as Mark, Romans, and Galatians: KJV
+wording kept throughout, only person/voice shifted to put Jesus in the narrator's seat. Elmer Towns'
+Ephesians chapter (`Chapter050.html`, "I Am Jesus — Who Lives in You") was read complete before
+writing began, then re-checked chapter by chapter as each was drafted — his actual text is never
+quoted or paraphrased, only his technique.
+
+Ephesians confirmed every epistle rule from Romans and Galatians, and surfaced two new patterns: the
+trinitarian confession at 4:4-6 ("One Lord, one faith, one baptism, One God and Father of all") stays
+entirely unconverted, a fixed creedal formula like "God is one" and "one God" before it — Towns
+confirms this by switching to a collective "We, the Godhead" voice for the same verses rather than
+his usual "my Father" pattern; and Paul stays in third person far more than in Romans or Galatians,
+because Ephesians already frames him as "the prisoner of Jesus Christ" rather than arguing in his own
+first-person voice, so his ministry account (3:1-13), prayer posture (3:14), plea for boldness
+(6:19-20), and the Tychicus news (6:21-22) all demote to third-person "Paul," matching Towns' own
+near-total third-person narration of the same material. Full technique notes, including two judgment
+calls made where Towns and the KJV leave an antecedent ambiguous, are in `VoiceOfJesus/STATUS.md`.
+
+Wired in exactly like the three books before it: section headings reused from the Illumination's own
+Ephesians headings and verse-range boundaries, and a short per-book intro in Jesus's own voice ("I
+sent Paul, a prisoner for my sake, to the church at Ephesus...") composed from this project's own
+AUTHOR/PURPOSE/THEMES data, not Towns'.
+
+Verified: 155/155 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(23/22/21/32/33/24); only 2 residual "God"/"Christ" survive, both deliberate exceptions (the 4:4-6
+creedal formula and the 5:14 hymn citation); zero residual "Jesus"; zero residual "we/us/our"; zero
+dangling "Who/Whom/Which" verse-openers left unresolved.
+
 ## 2026-09-09 — Fixed: the Jesus Bible dot was rendering through the Synopsis outline
 
 User-reported: turning on the red Jesus Bible dot still showed the Synopsis outline-fold navigation
