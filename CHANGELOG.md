@@ -1,5 +1,56 @@
 # CHANGELOG
 
+## 2026-09-11 — The Jesus Bible: 2 Timothy added, and a fresh audit fix to 1 Timothy
+
+Tenth book in the Jesus Bible. Elmer Towns' 2 Timothy chapter (`Chapter056.html`, "I Am Jesus — Living
+Right, Dying Right") was read complete before writing began, and the finished draft was given the same
+fresh re-audit pass used on Hebrews and Colossians. It came back clean on the first pass -- zero
+corrections needed -- likely because this letter's much heavier proportion of personal, biographical
+material made the Paul/Jesus voice split easier to judge consistently throughout.
+
+2:8-9 splits mid-verse the same way 1 Timothy 1:15 did: Christ's own resurrection claim stays Jesus's
+"I," Paul's own imprisonment converts to third person, both confirmed against Towns. Two of Paul's own
+prayers (4:7's "I have fought a good fight," 4:14's "the Lord reward him") stay in his own
+first-person voice, matching the Galatians 2:14 and Colossians 4:18 precedent for Paul's own directly
+quoted words -- and Towns confirms both are meant to read as Paul's own quotation. Full notes in
+`VoiceOfJesus/STATUS.md`.
+
+The same audit pass, run on 1 Timothy first, caught a real mistake: 2:5's "there is one God" was
+drafted applying the Romans/Galatians creedal-formula exception by pattern-match alone, without
+checking whether Towns treats this specific verse the same way. He doesn't -- he converts "God" to
+"my Father" explicitly ("My Father is the only God and I, Christ Jesus, am the only Mediator"). Fixed
+to match. The lesson: the creedal-exception category is a per-verse judgment call verified against
+Towns, not a rule that transfers automatically to every future "one God" sighting.
+
+Verified: 83/83 verses present for 2 Timothy, chapter counts match `KJV.json` exactly (18/26/17/22),
+zero residual "God"/"Christ"/"Jesus" -- the cleanest scan of any book in the project so far. 1 Timothy
+re-verified clean after its fix. Tested live: 2,510 chapter loads across the whole KJV with the dot on
+and off, zero errors; both fixes confirmed rendering correctly live.
+
+## 2026-09-11 — The Jesus Bible: 1 Timothy added
+
+Ninth book in the Jesus Bible. Elmer Towns' 1 Timothy chapter (`Chapter055.html`, "I Am Jesus — The
+Victor in Spiritual Warfare") was read complete before writing began.
+
+Paul is named again here, unlike Hebrews, so the baseline returns to "Paul's personal material
+demotes to third person" -- but this book sharpened exactly where that line falls. 1:15's "faithful
+saying" splits mid-verse: "Christ Jesus came into the world to save sinners" stays Jesus's own "I
+came" (confirmed by Towns), but "of whom I am chief" converts to third-person "of whom Paul was
+chief" (also confirmed by Towns). 1:20's "whom I have delivered unto Satan" and 6:15-16's "King of
+kings, and Lord of lords" both stay Jesus's own voice even inside passages otherwise built around
+Paul, while 5:21 and 6:13 convert to third-person Paul because they invoke Christ as a separate
+witness -- a construction Jesus can't use about Himself. 3:16's mystery-of-godliness creed converts
+fully to Jesus's own testimony, a different case from Ephesians' untouched trinitarian formula. The
+"God our Saviour" fix from Titus recurred and was applied again. Full notes in
+`VoiceOfJesus/STATUS.md`.
+
+Wired in the same way as the eight books before it: section headings from the Illumination's own
+1 Timothy headings and verse-range boundaries, and a short per-book intro in Jesus's own voice.
+
+Verified: 113/113 verses present, chapter counts match `KJV.json` exactly (20/15/16/16/25/21); only 1
+residual "God" (the "one God" creedal exception); zero residual "Christ"/"Jesus"; 1 residual "we"
+matching the established rhetorical-formula exception.
+
 ## 2026-09-11 — The Jesus Bible: Hebrews added
 
 Eighth book in the Jesus Bible, the longest so far at 303 verses across 13 chapters. Elmer Towns'

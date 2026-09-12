@@ -68,9 +68,11 @@ commentary on selected verses.
 | Colossians | 95 | done |
 | Titus | 46 | done |
 | Hebrews | 303 | done |
+| 1 Timothy | 113 | done |
+| 2 Timothy | 83 | done |
 
-8 more books remain, in the order Wuest covered them: 1 Timothy, 2 Timothy,
-1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude.
+6 more books remain, in the order Wuest covered them: 1 Peter, 2 Peter,
+1 John, 2 John, 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -518,6 +520,88 @@ or a compound title in apposition — "my Father, the God of peace"); zero resid
 "we/us" instances, both matching the established "what shall we say"/"we know"/"we conclude"
 rhetorical-formula exception (3:19 "so we see," 10:30 "for we know him that hath said"); zero
 false-present-state hits on the "is/am dead/come/risen/gone/fled/departed" family.
+
+## Epistle rules (1 Timothy) — a named author again, but not every "I" goes to him
+
+Read against Elmer Towns' actual 1 Timothy chapter (`Chapter055.html`, "I Am Jesus — The Victor in
+Spiritual Warfare") complete before any verse was written. Paul is named again here (unlike Hebrews),
+so the baseline expectation returns to "Paul's personal/biographical material demotes to third
+person" — but this book sharpened exactly where that line falls, because several first-person
+statements that look like Paul's own voice turned out, on checking Towns, to be Jesus's:
+
+1. **1:15's "faithful saying" splits mid-verse.** "That Christ Jesus came into the world to save
+   sinners" stays Jesus's own "I came" (confirmed by Towns: *"I came into the world to save
+   sinners"*), but "of whom I am chief" — Paul's own confession of being the worst of sinners —
+   converts to third person, *"of whom Paul was chief,"* matching Towns' *"Paul was the greatest of
+   them."* One verse, two different speakers, not a blanket rule either way.
+2. **1:20's "whom I have delivered unto Satan" stays Jesus's own disciplinary act**, not Paul's,
+   confirmed by Towns: *"I gave them to satan to punish them."* Likewise 6:15-16's "King of kings,
+   and Lord of lords... whom no man hath seen, nor can see" stays Jesus's own self-description
+   (Towns: *"I Am King of kings and Lord of lords... no one has seen Me or can see Me"*), even though
+   it sits inside a passage otherwise built around Paul charging Timothy.
+3. **The test that resolved the harder cases: can the speaker coherently invoke the Father and
+   Christ as separate witnesses?** 5:21 ("I charge thee before God, and the Lord Jesus Christ, and
+   the elect angels") and 6:13 ("before Christ Jesus, who before Pontius Pilate witnessed a good
+   confession") both name Christ in the third person as a witness *alongside* the speaker's "I" — a
+   construction Jesus cannot use about Himself. Both converted to third-person Paul giving the
+   charge, with "Christ Jesus" converting normally to "me" as the witness being named.
+4. **3:16's mystery-of-godliness creed converts fully to Jesus's own testimony** ("I was manifest in
+   the flesh, justified in the Spirit..."), confirmed by Towns doing the same — a different case from
+   Ephesians 4:4-6's untouched trinitarian formula, because this is Christ narrating His own
+   incarnation and exaltation, not a fixed confessional recitation about the Godhead collectively.
+5. **The recurring "God our Saviour" formula (1:1, 2:3) needed the same fix Titus required**: drafted
+   first as "my Father, **our** Saviour," which wrongly includes Jesus among the saved — corrected to
+   "your Saviour" throughout.
+6. **A fresh audit pass caught a wrong default at 2:5.** "There is one God, and one mediator between
+   God and men" was first drafted leaving "one God" unconverted, applying the Romans/Galatians
+   creedal-formula exception by pattern-match alone, without checking whether Towns treats *this*
+   instance the same way. He doesn't: *"My Father is the only God and I, Christ Jesus, am the only
+   Mediator between My Father and all people"* — he converts "God" to "my Father" explicitly both
+   times. Fixed to *"For my Father is the one God, and I, the man, am the one mediator between my
+   Father and men."* The Romans/Galatians instances aren't necessarily wrong — this is a reminder that
+   the creedal-exception category is a judgment call verified case-by-case against Towns, not a rule
+   that transfers automatically to every future "one God" sighting.
+
+Verification run: 113/113 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(20/15/16/16/25/21). Zero residual "God" outside the corrected 2:5 (now attached to "my Father" as a
+title, not a bare unconverted noun); zero residual "Christ"/"Jesus"; 1 residual "we" (1:8, "But
+we know," the established rhetorical-formula exception); zero unresolved dangling "Who/Whom/Which."
+
+## Epistle rules (2 Timothy) — Paul's own words stay Paul's, even under his own name
+
+Read against Elmer Towns' actual 2 Timothy chapter (`Chapter056.html`, "I Am Jesus — Living Right,
+Dying Right") complete before any verse was written, then given a fresh audit re-read afterward,
+cross-checking every judgment-call verse against Towns' specific wording — the same discipline used
+on 1 Timothy, Hebrews, and the Colossians correction. This one came back clean on the first pass, with
+zero corrections needed, likely because 2 Timothy's much heavier proportion of personal, biographical
+material made the Paul/Jesus split easier to judge consistently than 1 Timothy's mix of personal and
+doctrinal content.
+
+1. **2:8-9 splits mid-verse exactly like 1 Timothy 1:15 did**: "Jesus Christ... was raised from the
+   dead" stays Jesus's own "I... was raised," confirmed by Towns (*"I was a descendant of David... I
+   was raised from the dead"*), but "wherein I suffer trouble... unto bonds" is Paul's own
+   imprisonment and converts to third person, confirmed by Towns narrating Paul's chains separately
+   in the same breath (*"Paul was chained like a criminal, but the gospel is not chained"*).
+2. **2:11-13's faithful saying stays entirely in Jesus's first-person voice**, converting "we" to
+   "ye" throughout — confirmed word-for-word against Towns' *"If you have died with Me... you will
+   live with Me... If you deny Me, I will deny you; if you become faithless, I am always faithful."*
+3. **Two of Paul's own prayers stay unconverted, in his own voice**, matching the Galatians 2:14 and
+   Colossians 4:18 precedent for Paul's own directly-written words: 4:14's "the Lord reward him"
+   (Towns: *"Paul prayed, 'Lord, repay him for the evil he has done'"*) and 4:7's entire "I have
+   fought a good fight, I have finished my course, I have kept the faith" (Towns explicitly frames
+   this as a direct quotation: *"He said, 'I have fought a good fight...'"*). The very next verse
+   (4:8) shifts back to third-person narration about Paul once the quote ends, converting "the Lord...
+   shall give me" to Jesus's own "I... shall give him" — a quote can end and hand back to narration
+   mid-passage without the whole passage needing one consistent voice.
+4. **4:16-18 confirms Jesus's own voice for the "the Lord stood with me" passage**, matching Towns
+   exactly (*"I, his Lord, stood by him and gave him power... I delivered him from being thrown to the
+   lions"*), while the prayer just before it (4:16's "I pray God that it may not be laid to their
+   charge") stays Paul's own prayer, narrated in third person (*"He prayed for those who deserted
+   him"*) — the same citation-vs-commentary boundary used throughout this book.
+
+Verification run: 83/83 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(18/26/17/22). **Zero** residual "God"/"Christ"/"Jesus" — the cleanest scan of any book in the
+project so far; zero residual "we/us/our"; zero unresolved dangling "Who/Whom/Which" verse-openers.
 
 ## Verification run on Mark
 
