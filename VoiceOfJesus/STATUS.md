@@ -780,6 +780,24 @@ denies, while 2:23 restates the same idea as a direct personal relationship clai
 Father"), which is what actually converts. Fixed 2:22 back to the unconverted KJV title-pair, leaving
 2:23 converted as before.
 
+**A closer, user-requested re-read (beyond the standard audit) found four more mismatches, all in the
+"which Person is this" judgment calls, not grammar.** 3:21's "confidence toward God" had been converted
+to "toward my Father," but Towns reads the whole 3:21-22 unit as addressed to Jesus (*"you can come to Me
+with your request in prayer"*) — fixed to "toward me," matching 3:22's already-correct "of me." 4:6's "we
+are of God... heareth God" had gone to "my Father" by extending the "of me" pattern from 4:1-3 only
+partway; Towns keeps the whole testing-spirits unit (4:1-6) in Jesus's own voice (*"I listen to you...
+belong to Me listen to Me"*) — fixed 4:6 to "of me... heareth me" throughout. 4:13's "we dwell in him, and
+he in us... he hath given us of his Spirit" had converted to Jesus's own voice, but Towns continues the
+Father-attribution from 4:12 straight through 4:13 (*"My Father has put the Holy Spirit into your heart...
+He lives in you"*) — fixed to "him"/"he" (my Father, via the adjacent-verse pronoun, not distant). 4:17's
+"our love made perfect" had gone to "your love," but Towns attributes the love itself to Christ (*"My love
+will be complete in you"*), matching the same pattern already used at 3:16-17 and 4:12 — fixed to "my
+love is made perfect in you." One candidate fix was checked and rejected: 5:20's "This is the true God"
+looked like it might need to become "my Father is the true God" per Towns' paraphrase, but the KJV's own
+grammar ("we are in him that is true, **even in** his Son Jesus Christ. This is the true God") uses "even
+in" to identify "him that is true" as the Son, making Christ the antecedent "This" points to — the
+original "I am the true God" is the better-supported reading and was left unchanged.
+
 Verification run: 105/105 verses present, chapter-by-chapter counts match `KJV.json` exactly
 (10/29/24/21/21). Residual "God"/"Christ" survivors (9 total) are every one a deliberate exception listed
 above (the "Son of God" title x5, "I am the Christ" x2 self-naming, 4:20's quoted "I love God", and
@@ -915,6 +933,16 @@ Verification run: 25/25 verses present, matching `KJV.json` exactly. Residual "G
 survivors are zero; residual "Lord" (2 total, 1:4's "the only Lord" title and 1:9's quoted "The Lord
 rebuke thee") are both deliberate; zero residual "we/us/our." Post-draft audit against Towns found no
 further corrections needed — the sixteenth and final book of the project.
+
+**A closer, user-requested re-read of all four final books (1 John, 2 John, 3 John, Jude) found one more
+mismatch here.** 1:15's "hard speeches which ungodly sinners have spoken against him" had converted "him"
+to "me," continuing the "I come" self-reference from 1:14's Enoch citation — grammatically the nearest
+antecedent. But Towns splits the two clauses between different Persons: *"I will come with millions of
+saints to deliver judgment... Then I will judge the wicked... and will punish those who speak defiantly
+against My Father"* — the coming and judging stay Jesus's own, but the object of the "hard speeches" is
+the Father. Fixed 1:15 to "against my Father," matching the Colossians-hymn lesson that a passage's
+grammatical subject can shift mid-unit even while the topic stays continuous. 2 John and 3 John came back
+completely clean on this closer read — no corrections needed in either.
 
 ## Verification run on Mark
 

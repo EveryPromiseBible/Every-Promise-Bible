@@ -1,5 +1,32 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: closer re-read of the last four books (1, 2, 3 John, Jude) found five fixes
+
+At the user's request, went back over 1 John, 2 John, 3 John, and Jude -- the four books that had only
+had the standard audit, never the closer full-text re-read already applied to 1/2 Peter -- comparing
+every judgment-call verse against Towns' specific wording once more.
+
+1 John needed four fixes, all "which Person does this verse mean" mismatches rather than grammar errors:
+3:21 ("confidence toward God") had gone to "my Father" but Towns reads the whole 3:21-22 unit as Jesus's
+own invitation to prayer, so it's "toward me," matching 3:22. 4:6 ("we are of God") had only partly
+extended the "of me" pattern already used for 4:1-3's testing-spirits passage; Towns keeps the whole
+unit in Jesus's voice through 4:6, so it's "of me" there too. 4:13 ("we dwell in him... he hath given us
+of his Spirit") had converted to Jesus's own voice, but Towns continues 4:12's Father-attribution
+straight through 4:13, so it reverts to "him"/"he" (my Father). 4:17 ("our love made perfect") had gone
+to "your love," but Towns attributes the love itself to Christ ("My love will be complete in you"),
+matching 3:16-17 and 4:12's established pattern, so it's "my love is made perfect in you." One candidate
+fix (5:20's "This is the true God") was checked and rejected -- the KJV's own "even in his Son Jesus
+Christ" identifies Christ as the antecedent, so the original "I am the true God" stays.
+
+Jude needed one fix: 1:15's "hard speeches...spoken against him" had converted to "against me," following
+1:14's "I come" self-reference as the nearest grammatical antecedent -- but Towns splits the clause
+between Persons ("I will come... will punish those who speak defiantly against My Father"), so it's
+"against my Father." 2 John and 3 John came back completely clean -- no corrections in either.
+
+All five fixes verified against `KJV.json` (verse counts unchanged), re-applied to `data/jesus.js`, and
+re-tested live through the KJV dot toggle across all 1,255 chapter destinations in both states (2,510
+loads, zero errors).
+
 ## 2026-09-14 — Jesus Bible: Jude drafted (25 verses) -- all 16 books complete
 
 Read Elmer Towns' Jude chapter (`Chapter066.html`, "I Am Jesus -- Who Will Keep You") in full before
