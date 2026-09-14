@@ -70,9 +70,10 @@ commentary on selected verses.
 | Hebrews | 303 | done |
 | 1 Timothy | 113 | done |
 | 2 Timothy | 83 | done |
+| 1 Peter | 105 | done |
 
-6 more books remain, in the order Wuest covered them: 1 Peter, 2 Peter,
-1 John, 2 John, 3 John, Jude.
+5 more books remain, in the order Wuest covered them: 2 Peter, 1 John,
+2 John, 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -602,6 +603,48 @@ doctrinal content.
 Verification run: 83/83 verses present, chapter-by-chapter counts match `KJV.json` exactly
 (18/26/17/22). **Zero** residual "God"/"Christ"/"Jesus" — the cleanest scan of any book in the
 project so far; zero residual "we/us/our"; zero unresolved dangling "Who/Whom/Which" verse-openers.
+
+## Epistle rules (1 Peter) — the least biographical letter yet, almost all Jesus's own voice
+
+Read against Elmer Towns' actual 1 Peter chapter (`Chapter061.html`, "I Am Jesus — When You Suffer")
+complete before any verse was written, then given the same post-draft audit pass used since
+Colossians. 1 Peter has far less of Paul's-style personal/travel detail than any epistle done so
+far — no companions named until the very close, no travel plans, almost no "I did X, I went to Y."
+Confirmed by Towns, who keeps almost the whole letter in Jesus's own direct first-person voice,
+including passages that read like they could be Peter's own commentary:
+
+1. **The suffering-as-pattern passage (2:21-25) and the descent-to-preach passage (3:18-22) both
+   convert fully to Jesus's own testimony**, matching Towns almost word for word both times (*"I did
+   not commit one sin... I committed Myself to My Father who will judge rightly"*; *"I descended into
+   hell to announce My victory to people in prison... I entered heaven to sit at My Father's right
+   hand"*).
+2. **2:6's cornerstone citation stays exactly as quoted** ("Behold, I lay in Sion a chief corner
+   stone... he that believeth on him") — the Father's own words about the Son, kept third-person
+   inside the citation, the same treatment Hebrews gave the Father-to-Son quotations in chapter 1.
+   The verse *after* the citation (2:7's commentary applying it) converts normally to Jesus's own "I
+   am precious... I am made the head of the corner."
+3. **Peter's own self-identification converts to third person** at 5:1 ("who am also an elder, and a
+   witness of the sufferings of Christ") and 5:12 ("as I suppose, I have written briefly") — the only
+   two places in the whole letter where Peter's own voice, rather than Jesus's, needed the standard
+   demotion. Confirmed against Towns' explicit framing: *"Now a word to you who are elders because
+   Peter was an elder, and a witness of My suffering"* and *"This letter is sent by Silas whom Peter
+   trusted."*
+4. **The audit pass caught one real mismatch at 5:2.** "Feed the flock of God" was first drafted as
+   "Feed my flock," reasoning from the John 21:15-17 "feed my sheep" parallel — a plausible
+   theological inference, but not what Towns actually did. He keeps it *"the flock that God has
+   entrusted to you"* — God (the Father) as a distinct entity commissioning the elders, not Jesus's
+   own self-reference. Fixed to "Feed my Father's flock." **The lesson repeats: a strong biblical
+   cross-reference is not a substitute for checking what Towns actually wrote at that specific
+   verse** — this is the third time a plausible-but-unverified default has been caught this way
+   (after Colossians' reconciler and 1 Timothy's "one God").
+5. **4:19's "the will of God" and "a faithful Creator" both convert to Jesus's own voice** rather
+   than the more common "my Father" default, confirmed by Towns: *"when you suffer for doing My
+   will... Trust your soul to Me, the faithful Creator."*
+
+Verification run: 105/105 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(25/25/22/19/14). Only 2 residual instances survive and both are deliberate: "Christian" (4:16,
+"Christ" is a substring, not a real residual) and "my Father, the God of all grace" (5:10, the
+compound-title exception); zero residual "we/us/our"; zero unresolved dangling "Who/Whom/Which."
 
 ## Verification run on Mark
 

@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-09-14 — The Jesus Bible: 1 Peter added
+
+Eleventh book in the Jesus Bible. Elmer Towns' 1 Peter chapter (`Chapter061.html`, "I Am Jesus — When
+You Suffer") was read complete before writing began, and the finished draft was given the standard
+post-draft audit pass.
+
+1 Peter has far less of Paul's-style personal/travel detail than any epistle done so far, and Towns
+confirms this by keeping almost the whole letter in Jesus's own first-person voice -- including the
+suffering-as-pattern passage (2:21-25) and the descent-to-preach passage (3:18-22), both matching
+Towns almost word for word. Peter's own self-identification converts to third person only twice
+(5:1, 5:12), confirmed against Towns doing the same. The audit caught one real mismatch: 5:2's "feed
+the flock of God" was drafted as "feed my flock," reasoning from the John 21 "feed my sheep"
+parallel -- a plausible inference, but not what Towns wrote. He keeps "God" as the Father, distinct
+from Jesus. Fixed to "my Father's flock." Full notes in `VoiceOfJesus/STATUS.md`.
+
+Wired in the same way as the ten books before it: section headings from the Illumination's own
+1 Peter headings and verse-range boundaries, and a short per-book intro in Jesus's own voice.
+
+Verified: 105/105 verses present, chapter counts match `KJV.json` exactly (25/25/22/19/14); zero
+residual "we/us/our"; only deliberate residual exceptions on "God"/"Christ." Tested live: 2,510
+chapter loads across the whole KJV with the dot on and off, zero errors; the 5:2 fix confirmed
+rendering correctly.
+
 ## 2026-09-11 — The Jesus Bible: 2 Timothy added, and a fresh audit fix to 1 Timothy
 
 Tenth book in the Jesus Bible. Elmer Towns' 2 Timothy chapter (`Chapter056.html`, "I Am Jesus — Living
