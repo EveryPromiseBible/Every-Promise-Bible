@@ -16,6 +16,10 @@ Each file is `[{ "label": "Book C:V", "text": "..." }, ...]`, one entry per
 verse, full coverage of the book — this is a retext of the whole book, not a
 commentary on selected verses.
 
+**Status: complete.** All 16 books Kenneth Wuest covered are drafted, verified against
+`KJV.json`, wired into `data/jesus.js`, live-tested, and audited against Towns. See the
+Progress table below and each book's own "Epistle rules" section for what each one required.
+
 ## The rules (apply to every remaining book)
 
 1. **Narrator's "he/him/his/[Name]" for Jesus becomes "I/me/my."** Verb
@@ -75,8 +79,9 @@ commentary on selected verses.
 | 1 John | 105 | done |
 | 2 John | 13 | done |
 | 3 John | 14 | done |
+| Jude | 25 | done |
 
-1 more book remains: Jude.
+**All 16 books Wuest covered are now done.**
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -856,6 +861,60 @@ Verification run: 14/14 verses present, matching `KJV.json` exactly. **Zero** re
 "God"/"Christ"/"Jesus"/"we/us/our" anywhere in the book — every instance of each converted fully (7's
 "my name," 11's "my Father" twice), the cleanest scan in the project. Post-draft audit against Towns
 found no further corrections needed.
+
+## Epistle rules (Jude) — the last book, a named author again, and Jesus narrating past judgment in His own voice
+
+Read against Elmer Towns' actual Jude chapter (`Chapter066.html`, "I Am Jesus — Who Will Keep You")
+complete before any verse was written, then given the standard post-draft audit pass. Jude names its
+author in the salutation ("Jude, the servant of Jesus Christ, and brother of James"), the same shape
+Paul's and Peter's letters have — but almost all of the letter's *content* runs in Jesus's own voice
+(the extended recitation of past judgments strongly echoes 2 Peter 2's already-established pattern),
+with "Jude" himself surfacing only twice, both confirmed against Towns naming him directly.
+
+1. **The salutation (1:1) keeps "Jude" as the self-identifying name, unconverted, matching the
+   established Paul/Peter letterhead convention** ("Paul, an apostle of mine..."), while "Jesus Christ"
+   and "God the Father" inside that same line still convert to "me"/"my Father" — the salutation-name
+   stays, but any Christ/Father reference inside it converts regardless, per the 1 Timothy 5:21/6:13
+   precedent that a name-conversion applies independent of who the grammatical speaker is.
+2. **1:3's "I gave all diligence to write... it was needful for me to write" is Jude's own personal
+   report about composing the letter and demotes to third person** ("Jude gave... needful for him"),
+   confirmed by Towns: *"Jude had planned to write about the wonderful truths... but he found it
+   necessary to urge you to defend the faith."* No other verse in the letter needed this treatment —
+   unlike 2/3 John, Jude's own voice appears only at the very opening.
+3. **1:5-25's extended recitation of past judgments (Egypt, the fallen angels, Sodom and Gomorrah) stays
+   entirely in Jesus's own first person**, the identical pattern 2 Peter 2 already established for the
+   same material — "the Lord, having saved the people... destroyed them" (5) converts to "I... destroyed
+   them," "he hath reserved" (6) to "I have reserved," confirmed word for word against Towns: *"I
+   delivered the whole nation of Israel from the slavery of Egypt... I had to throw them into the
+   bottomless pit of hell."*
+4. **1:14-15's citation of Enoch's prophecy converts to Jesus's own first person** ("Behold, I come with
+   ten thousands of my saints... spoken against me") rather than staying an unconverted third-person
+   quotation the way OT citations normally do (Hebrews' and Mark's citation rule) — a deliberate
+   departure, confirmed directly by Towns rendering the same prophecy as Jesus's own words: *"I will come
+   with millions of saints to deliver judgment on all those who reject Me."* The distinguishing factor:
+   this is a prophecy *about* Christ's own future coming, which He can coherently voice Himself, unlike a
+   citation of something said *to* Him (Hebrews 1's Father-to-Son quotations, kept second-person) or
+   *about* someone else entirely.
+5. **1:9's "The Lord rebuke thee" stays an unconverted, third-person quotation** — Michael's own words
+   spoken to the devil, per the established rule that another speaker's quoted words about/to God stay
+   exactly as quoted (Mark rule 3), confirmed by Towns keeping it as a direct quote too (*"said, 'The Lord
+   rebuke you.'"*).
+6. **"The Spirit"/"the Holy Ghost" (1:19-20) stay unconverted, distinct-Person titles rather than
+   converting to "my Spirit"** as they sometimes did in 1 John — a deliberate divergence from that
+   book's pattern, confirmed by Towns' own extended aside on this exact passage treating "the Holy
+   Spirit" as a distinct third person throughout (*"pray through the Holy Spirit... let the Holy Spirit
+   fill you... present your requests to My Father"*), never folding the Spirit into Jesus's own "I."
+7. **1:4's "denying the only Lord God, and our Lord Jesus Christ" converts fully** ("denying my Father,
+   the only Lord, and me") rather than being treated as an unconverted title-pair the way 1 John 2:22's
+   "the Father and the Son" was — the two constructions are only superficially similar; 2:22's pair was a
+   clean, symmetrical Father/Son title Towns explicitly left untouched, while Jude 4 names two full,
+   asymmetrical titles ("the only Lord God" / "our Lord Jesus Christ") with no direct Towns confirmation
+   either way, so the more common convert-by-default pattern was used instead.
+
+Verification run: 25/25 verses present, matching `KJV.json` exactly. Residual "God"/"Christ"/"Jesus"
+survivors are zero; residual "Lord" (2 total, 1:4's "the only Lord" title and 1:9's quoted "The Lord
+rebuke thee") are both deliberate; zero residual "we/us/our." Post-draft audit against Towns found no
+further corrections needed — the sixteenth and final book of the project.
 
 ## Verification run on Mark
 

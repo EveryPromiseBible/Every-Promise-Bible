@@ -1,5 +1,29 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: Jude drafted (25 verses) -- all 16 books complete
+
+Read Elmer Towns' Jude chapter (`Chapter066.html`, "I Am Jesus -- Who Will Keep You") in full before
+drafting, the last book in Wuest's list. Jude names its author in the salutation like Paul's and Peter's
+letters do, but almost the whole letter runs in Jesus's own voice -- only the opening "I gave all
+diligence to write" (3) is Jude's own personal report, demoted to third person, confirmed by Towns
+naming him directly. The extended recitation of past judgments (Egypt, the fallen angels, Sodom and
+Gomorrah) matches 2 Peter 2's already-established pattern, staying entirely first person ("I... destroyed
+them," "I have reserved"). Enoch's prophecy (14-15) converts to Jesus's own voice ("Behold, I come with
+ten thousands of my saints"), confirmed by Towns, since it is a prediction about Christ's own future
+coming rather than a citation about someone else. Michael's own quoted words to the devil ("The Lord
+rebuke thee," 9) stay an unconverted quotation, and "the Spirit"/"the Holy Ghost" (19-20) stay
+distinct-Person titles rather than folding into "my Spirit," a deliberate divergence from 1 John's
+pattern, confirmed by Towns' own extended aside treating the Spirit as distinct throughout this passage.
+
+25/25 verses verified against `KJV.json`, wired into `data/jesus.js`, and live-tested through the KJV
+dot toggle across all 1,255 chapter destinations in both states (2,510 loads, zero errors). Post-draft
+audit against Towns found no corrections needed.
+
+**All 16 books Kenneth Wuest covered are now done.** The Jesus Bible project (Mark, Romans, Galatians,
+Ephesians, Philippians, Colossians, Titus, Hebrews, 1 Timothy, 2 Timothy, 1 Peter, 2 Peter, 1 John,
+2 John, 3 John, Jude) is complete: every verse KJV-verified, wired into the KJV reader's dot toggle, and
+checked against Towns' actual chapters for every judgment call.
+
 ## 2026-09-14 — Jesus Bible: 3 John drafted (14 verses), 15 of 16 books now done -- 1 left
 
 Read Elmer Towns' 3 John chapter (`Chapter065.html`, "I Am Jesus -- The God of True Teachers") in full
