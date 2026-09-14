@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: 2 Corinthians drafted (257 verses)
+
+Read Elmer Towns' 2 Corinthians chapter (`Chapter048.html`, "I Am Jesus -- The One You Serve") in full
+before drafting. Paul's rawest, most autobiographical letter -- his affliction in Asia, his relationship
+with Titus, his defense against rival "apostles," his catalog of sufferings (11:23-33), and his thorn in
+the flesh (12:7-10). The "narrow we/us to singular demoted Paul" lesson from 1 Corinthians 9's closer
+re-read turned out to be the single most load-bearing rule in this book, applied from the opening verse
+onward. 11:17's "I speak it not after the Lord, but as it were foolishly" is Paul explicitly disclaiming
+divine inspiration for his own boasting -- the same self-marking 1 Corinthians 7:10/7:12 used -- so the
+whole "fool's speech" (chapters 10-12) stays demoted to Paul throughout. 12:9 needed the narration and
+the quotation inside it separated: "he said unto me, My grace is sufficient for thee" keeps the quoted
+words exactly as Jesus spoke them (already first person, already addressing Paul as "thee"), while the
+frame around it becomes "I said unto him." 4:12/4:14 and 5:18-20 needed "us" (Paul) kept distinct from
+"you" (the readers) since the verses' own logic depends on the two being different parties -- Towns'
+looser paraphrase collapses this distinction in a couple of places, but the literal grammar doesn't allow
+it. 13:14's trinitarian benediction was checked against the established Ephesians 4:4-6 / 1 Corinthians
+12:4-6 exception and found not to qualify (it names three gifts from three givers, not one unified
+confession), so it converts normally like every other "grace...from God...and the Lord Jesus Christ"
+salutation in the project.
+
+257/257 verses verified against `KJV.json` across all 13 chapters, wired into `data/jesus.js`, and
+live-tested through the KJV dot toggle across all 1,255 chapter destinations in both states (2,510
+loads, zero errors). Zero residual "we/us/our" anywhere in the book -- the first time that's held for a
+letter this personal.
+
 ## 2026-09-14 — Jesus Bible: closer re-read of 1 Corinthians finds five fixes
 
 Applied the same closer full-text re-read already used on 1/2 Peter and 1/2/3 John/Jude to 1 Corinthians.

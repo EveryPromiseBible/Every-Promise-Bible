@@ -83,8 +83,9 @@ rules" section below same as the original 16. See the Progress table below.
 | 3 John | 14 | done |
 | Jude | 25 | done |
 | 1 Corinthians | 437 | done |
+| 2 Corinthians | 257 | done |
 
-**All 16 books Wuest covered are done.** 1 Corinthians is the first book added beyond that
+**All 16 books Wuest covered are done.** 1 and 2 Corinthians are the first books added beyond that
 original scope, at the user's request, covering the rest of the New Testament book by book.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
@@ -1053,6 +1054,76 @@ quoted claim per the established quoted-speech rule); zero residual "Jesus"; zer
 "Jesus Christ"/"Lord Jesus"/"Christ Jesus"; zero residual "we/us/our" outside 15:32's deliberately
 unconverted quoted proverb ("let us eat and drink; for to morrow we die"); zero unresolved dangling
 "Who/Whom/Which" verse-openers.
+
+## Epistle rules (2 Corinthians) — Paul's most personal letter yet, and the "narrow to Paul" lesson from 1 Corinthians confirmed throughout
+
+Read against Elmer Towns' actual 2 Corinthians chapter (`Chapter048.html`, "I Am Jesus — The One You
+Serve") complete before any verse was written. 2 Corinthians is Paul's rawest, most autobiographical
+letter — his own affliction in Asia, his relationship with Titus, his defense against rival "apostles,"
+and the famous catalog of his sufferings (11:23-33) and thorn in the flesh (12:7-10). The closer-read
+lesson learned on 1 Corinthians 9 and 15 — that Paul's own "we/us/our" narrows to singular demoted "he,"
+not a collective plural — turned out to be the single most load-bearing rule in this entire book,
+applied from the opening verse onward rather than discovered partway through.
+
+1. **The opening comfort passage (1:3-24) demotes almost entirely to Paul**, confirmed by Towns
+   consistently naming him (*"My servant Paul was hurting at the same time you had great pain... he was
+   not trusting in earthly deliverance"*) — a sharp contrast with how the same kind of "blessed be God"
+   opening stayed general in earlier books. 1:9-10 needed the dangling-pronoun restructuring pattern
+   established back in Romans: "God which raiseth the dead... Who delivered us" continues as one
+   first-person unit once "God" resolves to "me" here (confirmed by Towns: *"Paul trusted Me to raise
+   him"*), giving "but in me, who raise the dead... I delivered him... in me he trusteth that I will yet
+   deliver him."
+2. **Chapters 10-12, the "fool's speech," settle their own voice question from inside the text itself**:
+   11:17's "That which I speak, I speak it not after the Lord, but as it were foolishly" is Paul
+   explicitly disclaiming divine inspiration for his boasting — the same textual self-marking 1
+   Corinthians 7:10/7:12 used to distinguish "the Lord's" commands from Paul's own judgment. Confirmed
+   by Towns quoting the entire suffering catalog (11:24-27) as Paul's own direct speech (*"Paul said, 'I
+   have served more time in prison, I have been beaten more times...'"*), this whole stretch — including
+   the famous thorn-in-the-flesh account — stays demoted to third-person "he" throughout, with one
+   careful exception:
+3. **12:9's "he said unto me, My grace is sufficient for thee" required separating the narration frame
+   from the quotation inside it** — Jesus speaking directly *to* Paul is quoted speech and stays exactly
+   as-is (already first person, already addressing Paul as "thee," per the established rule that Jesus's
+   own quoted speech is untouched), while the surrounding narration ("he said unto me") converts to "I
+   said unto him" since the narrator is now Jesus, not Paul. This is the reverse of Hebrews 1's
+   Father-to-Son quotations (which stay second-person because Jesus is *receiving* the address) — here
+   Jesus is the one *giving* the address, so the quoted words themselves need no conversion at all.
+4. **A genuinely necessary "us" vs. "you" distinction survives demotion in 4:12 and 4:14, and again in
+   5:18-20** — "death worketh in us, but life in you" (4:12) only makes sense if "us" (Paul, the
+   suffering minister) and "you" (the readers, who benefit) name two different parties; collapsing both
+   to the same pronoun would erase the contrast the verse depends on. The same structural check applies
+   to 5:20's ambassador language ("we are ambassadors for Christ... as though God did beseech you by
+   us") — Towns' paraphrase broadens this to "You are My ambassadors," but the KJV's own grammar keeps
+   ambassador ("us"/Paul) and recipient ("you"/the readers) distinct within the same sentence, so the
+   literal structure was followed over Towns' generalization here.
+5. **5:16's "though we have known Christ after the flesh" splits mid-verse**: the opening clause ("know
+   we no man after the flesh") stays general "ye," but "we have known Christ after the flesh" is Paul's
+   own specific pre-conversion biography (his former, merely-human view of the Messiah before Damascus
+   Road), confirmed by Towns naming him specifically (*"Before Paul's conversion he knew about Me only as
+   a human, now he knows Me differently"*) — the same single-verse-split pattern already used for 1
+   Timothy 1:15 and 2 Timothy 2:8-9.
+6. **6:2, 6:16-18 stack several Old Testament citations, all kept exactly as quoted**, including one
+   already in first person from its own original context (6:2's "I have heard thee... have I succoured
+   thee," God addressing His Servant, matching the Hebrews 1 Father-to-Son citation treatment) and one
+   naming "a Father unto you... sons and daughters" without converting it even though it reads oddly for
+   the Son to say of Himself — citations are preserved text, not narration, regardless of surface
+   oddity, the same rule that has held since Mark 15:28.
+7. **2 Corinthians 13:14, the most famous trinitarian benediction in the NT ("the grace of the Lord
+   Jesus Christ, and the love of God, and the communion of the Holy Ghost"), was checked against the
+   established trinitarian-formula exception (Ephesians 4:4-6, 1 Corinthians 12:4-6) and found NOT to
+   qualify** — those formulas enumerate the three Persons side by side as a unified confession of who
+   they are; 13:14 instead names three distinct gifts *from* three distinct givers, structurally
+   identical to the dozens of ordinary "grace...from God...and the Lord Jesus Christ" salutations already
+   converted throughout the whole project. Converted normally: "My grace, and my Father's love, and the
+   communion of the Holy Ghost, be with you all."
+
+Verification run: 257/257 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(24/17/18/18/21/18/16/24/15/18/33/21/14). Residual "God"/"Christ"/"Jesus" survivors (6 total) are every
+one a deliberate exception (two compound "my Father, the God of X" titles, the "Son of God" self-merge,
+"the Spirit of the living God," a citation-introduction "as God hath said," and 11:4's "another Jesus" —
+a counterfeit figure false teachers preach, not a self-reference); zero residual "we/us/our" anywhere in
+the book, the first time that's been true for a letter this personal; zero residual
+"Jesus Christ"/"Lord Jesus"/"Christ Jesus"; zero unresolved dangling "Who/Whom/Which" verse-openers.
 
 ## Verification run on Mark
 
