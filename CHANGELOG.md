@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: 1 Corinthians drafted (437 verses) -- first book beyond Wuest's 16
+
+At the user's request, extended the Jesus Bible past Kenneth Wuest's original 16-book list, starting
+with 1 Corinthians -- the longest, most varied book attempted since Mark. Read Elmer Towns' 1 Corinthians
+chapter (`Chapter047.html`, "I Am Jesus -- Love, Faith, and Hope") in full before drafting.
+
+The book itself settled a recurring judgment call for the first time with its own words rather than
+needing a Towns cross-check: Paul explicitly marks 7:10 as "not I, but the Lord" (so the command that
+follows runs in Jesus's own voice) and 7:12 as "I speak, not the Lord" (so that whole section stays
+Paul's own judgment, demoted, even where it reads like general teaching) -- the same marker resolves
+11:23's Lord's Supper account, where the framing demotes to Paul but the institution words stay Jesus's
+own. Chapters 4 and 9, Paul's most extensive self-defense in the project, demote almost entirely to third
+person, confirmed against Towns naming "Paul" throughout both. Chapter 13's rhetorical "I" ("though I
+speak with the tongues of men and angels...") converts to direct "you" address rather than demoting to
+Paul, since it's a generic hypothetical, not real autobiography -- confirmed by Towns converting the
+whole chapter to "you." The resurrection chapter (15) shifts between Jesus's own gospel proclamation,
+demoted Paul biography, and Jesus's doctrinal voice multiple times, confirmed verse by verse against
+Towns making the identical shifts; 15:45/15:47's Adam-typology converts "the last Adam"/"the second man"
+to Jesus's own self-identification rather than staying an unconverted citation, since it's Paul's
+typological commentary, not the citation itself.
+
+437/437 verses verified against `KJV.json` across all 16 chapters, wired into `data/jesus.js` using
+Illumination's section headings, and live-tested through the KJV dot toggle across all 1,255 chapter
+destinations in both states (2,510 loads, zero errors).
+
 ## 2026-09-14 — Jesus Bible: closer re-read of the last four books (1, 2, 3 John, Jude) found five fixes
 
 At the user's request, went back over 1 John, 2 John, 3 John, and Jude -- the four books that had only

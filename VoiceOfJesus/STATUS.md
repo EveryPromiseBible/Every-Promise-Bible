@@ -16,9 +16,11 @@ Each file is `[{ "label": "Book C:V", "text": "..." }, ...]`, one entry per
 verse, full coverage of the book — this is a retext of the whole book, not a
 commentary on selected verses.
 
-**Status: complete.** All 16 books Kenneth Wuest covered are drafted, verified against
-`KJV.json`, wired into `data/jesus.js`, live-tested, and audited against Towns. See the
-Progress table below and each book's own "Epistle rules" section for what each one required.
+**Status: the 16 books Kenneth Wuest covered are complete.** All 16 are drafted, verified against
+`KJV.json`, wired into `data/jesus.js`, live-tested, and audited against Towns. Past that scope,
+the user has asked to extend the project book by book into the rest of the New Testament,
+starting with 1 Corinthians — same process, same rules, each new book gets its own "Epistle
+rules" section below same as the original 16. See the Progress table below.
 
 ## The rules (apply to every remaining book)
 
@@ -80,8 +82,10 @@ Progress table below and each book's own "Epistle rules" section for what each o
 | 2 John | 13 | done |
 | 3 John | 14 | done |
 | Jude | 25 | done |
+| 1 Corinthians | 437 | done |
 
-**All 16 books Wuest covered are now done.**
+**All 16 books Wuest covered are done.** 1 Corinthians is the first book added beyond that
+original scope, at the user's request, covering the rest of the New Testament book by book.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -943,6 +947,91 @@ against My Father"* — the coming and judging stay Jesus's own, but the object 
 the Father. Fixed 1:15 to "against my Father," matching the Colossians-hymn lesson that a passage's
 grammatical subject can shift mid-unit even while the topic stays continuous. 2 John and 3 John came back
 completely clean on this closer read — no corrections needed in either.
+
+## Epistle rules (1 Corinthians) — the first book beyond Wuest's original 16, and Paul's own text gives the sharpest signal yet for a recurring judgment call
+
+Read against Elmer Towns' actual 1 Corinthians chapter (`Chapter047.html`, "I Am Jesus — Love, Faith,
+and Hope") complete before any verse was written. 1 Corinthians is by far the longest, most varied book
+attempted since Mark (437 verses, 16 chapters) and mixes nearly every pattern the project has developed
+across the whole 16-book run — Paul's own extensive personal defense (chapters 4, 9), doctrinal teaching
+in Jesus's own voice (chapters 12–14), a direct quotation of the Lord's Supper's institution (11:23–26),
+and a resurrection chapter (15) that runs almost entirely in Jesus's own first person.
+
+1. **A textual first for the whole project: Paul himself explicitly marks which of his instructions are
+   "the Lord's" and which are his own, and this settles the judgment call directly rather than needing a
+   Towns cross-check.** 7:10's "I command, yet not I, but the Lord" means the command that follows
+   ("Let not the wife depart from her husband") is rendered as Jesus's own direct command, while the
+   *framing* clause demotes to Paul ("he commandeth, yet not he, but I"). 7:12's mirror-image "I speak,
+   not the Lord" means that whole section (7:12–35, Paul's own apostolic judgment about mixed marriages
+   and virgins) stays demoted to Paul throughout, never converting to Jesus's "I" even where the content
+   sounds like general teaching — Paul is explicit that this is *not* a command from the Lord. Likewise
+   11:23's "I have received of the Lord that which also I delivered unto you" frames the Lord's Supper
+   account (11:23–26) as content Paul transmitted rather than originated, so the frame demotes to Paul
+   while the institution narrative itself — including the already-first-person quoted words, "Take, eat:
+   this is my body" — runs in Jesus's own voice throughout. Confirmed against Towns, who keeps the
+   institution words in Jesus's own mouth exactly the same way.
+2. **Chapters 4 and 9 are Paul's most extensive personal self-defense in the whole project, and nearly
+   all of both demote to third person**, confirmed line by line against Towns naming "Paul" throughout
+   both (*"Paul was appointed an apostle by Me... Like prisoners on death row..."*; *"Paul is My
+   apostle... He actually had seen Me, the resurrected Jesus"*). Editorial-plural "we" in this stretch
+   (4:9–13, 9:4–27) resolves to singular "Paul"/"he," not a plural "they," confirmed by Towns
+   consistently singularizing to "Paul"/"he" throughout the same material — a different resolution than
+   the collective-apostolic "we" used elsewhere (3:9, "we are labourers together with God" → "they,"
+   referring to Paul and Apollos together as a pair, still plural since two people are actually in view).
+3. **Chapter 13 (the love chapter) uses Paul's own rhetorical "I" as a stand-in for "anyone," and
+   converts to direct address "ye/you" throughout rather than demoting to Paul** — a different treatment
+   than chapters 4/9's real autobiographical "I," confirmed by Towns converting the whole chapter to "you"
+   (*"If you speak with the eloquence of great speakers... but you don't love others..."*). The test that
+   separates this from chapters 4/9: chapter 13's "I" describes a generic hypothetical (anyone who had all
+   these gifts without love), not a real, specific claim about Paul's own life circumstances the way "I
+   fought with beasts at Ephesus" (15:32) or "I planted, Apollos watered" (3:6, demoted to "Paul") are.
+4. **The resurrection chapter (15) runs in Jesus's own first-person voice for the gospel content and the
+   resurrection appearances (15:3–8), then shifts to demoted "Paul" for Paul's own humility and
+   biography (15:9–11), then back to Jesus's voice for the doctrinal argument (15:12–28, 15:51–58)** —
+   confirmed verse by verse against Towns doing the identical shifts (*"I died for your sins... I was
+   buried... I was seen by Peter"* → *"Finally, I appeared to Paul... Since he persecuted My church, he
+   felt unworthy"* → *"If I were raised from the dead, how can anyone say there is no resurrection?"*).
+   15:8's "he was seen of me" required the same fix as any "I ___ him [Christ]" collision elsewhere in
+   the project — restructured to "I was seen of him" (Christ appearing to Paul) to avoid "I was seen of
+   me" nonsense. 15:10 needed a rare mid-verse split confirmed by Towns: the first two "grace of God"
+   instances stay "my Father's grace," but the third ("not I, but the grace of God which was with me")
+   converts to "my grace" specifically — Towns makes the identical split (*"By My Father's grace,
+   Paul... it was My grace, not his doing it"*). 15:27's "he hath put all things under his feet... he is
+   excepted, which did put all things under him" required explicit naming rather than pronouns (my
+   Father / me) to resolve what would otherwise be an unreadable pileup of "he/him" referring to two
+   different Persons in one sentence — the same kind of disambiguation Jude 1:10's Diotrephes passage and
+   1 Timothy's "before God, and the Lord Jesus Christ" needed.
+5. **12:4–6's "the same Spirit... the same Lord... the same God" is kept as a fixed trinitarian formula,
+   entirely unconverted** — the same exception category as Ephesians 4:4–6 and 1 John 5:7, extended here
+   because the three-part parallel structure (Spirit/Lord/God) is deliberately naming all three Persons
+   side by side as a formula, not narrating any one of them in particular.
+6. **A citation-rule exception, confirmed directly by Towns: Enoch... no, Adam-typology at 15:45/15:47
+   converts "the last Adam"/"the second man" to Jesus's own first-person self-identification** ("I, the
+   last Adam, was made a quickening spirit"; "I, the second man, am the Lord from heaven"), rather than
+   staying third-person the way a strict citation would — this isn't a citation at all but Paul's own
+   typological application of a citation, matching Ephesians 4:9–10's established citation-vs-commentary
+   boundary, and confirmed by Towns naming Christ explicitly at both points (*"the last Adam—Me—became a
+   living-giving spirit"*).
+7. **"The kingdom of God" (4:20, 6:9, 6:10, 15:50) stays unconverted** — confirmed against Mark's own
+   90-plus instances of the identical idiom throughout the Gospel, the project's very first and most
+   heavily used fixed-phrase exception, and independently confirmed by Towns leaving it untouched too
+   (*"the kingdom of God is not a matter of talking, but it is power, holiness, and obedience"*).
+8. **6:12 and 10:23's "all things are lawful for me" — almost certainly Paul quoting a Corinthian
+   catchphrase to qualify it — converts to "all things are lawful for you" (Rule B) rather than staying
+   Paul's own claim or an unconverted quotation**, confirmed by Towns converting the same construction to
+   direct address both times (*"You can do anything you want, but some things are not good for you"*).
+   10:29–30's parallel "why is my liberty judged... if I by grace be a partaker" converts the same way,
+   continuing the same discussion.
+
+Verification run: 437/437 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(31/16/23/21/13/20/40/13/27/33/34/31/13/40/58/24). Residual "God" survivors (10 total) are every one a
+deliberate exception (the "kingdom of God" idiom x4, two OT citations, "God forbid," the 12:4–6
+trinitarian formula, and 8:4/8:6's generic "no other God but my Father"/"one God, my Father" phrasing);
+one residual "Christ" (1:12's quoted Corinthian faction slogan, "I of Christ," kept exactly as the
+quoted claim per the established quoted-speech rule); zero residual "Jesus"; zero residual
+"Jesus Christ"/"Lord Jesus"/"Christ Jesus"; zero residual "we/us/our" outside 15:32's deliberately
+unconverted quoted proverb ("let us eat and drink; for to morrow we die"); zero unresolved dangling
+"Who/Whom/Which" verse-openers.
 
 ## Verification run on Mark
 
