@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: closer re-read of 1 Corinthians finds five fixes
+
+Applied the same closer full-text re-read already used on 1/2 Peter and 1/2/3 John/Jude to 1 Corinthians.
+Found a repeated pattern in chapter 9: 9:10-12 had used collective plural "they/their" for a point about
+ministers' support rights generally, but Towns keeps the whole chapter narrowed to Paul specifically
+throughout ("Since Paul has sown spiritual things to them, he expects food, shelter, and clothing in
+return") -- fixed to singular "he/his," matching the demoted-Paul voice already used elsewhere in the
+same chapter. 15:15 needed the identical fix for the identical reason (Towns: "Paul has committed
+perjury against Me"), matching 15:14's already-singular "Paul's preaching" one verse earlier. 1:2 also
+got a readability cleanup unrelated to Towns (a double-possessive that read awkwardly).
+
+All five fixes verified against `KJV.json` (counts unchanged), re-applied to `data/jesus.js`, and
+re-tested live through the KJV dot toggle (2,510 loads, zero errors).
+
 ## 2026-09-14 — Jesus Bible: 1 Corinthians drafted (437 verses) -- first book beyond Wuest's 16
 
 At the user's request, extended the Jesus Bible past Kenneth Wuest's original 16-book list, starting

@@ -1023,6 +1023,27 @@ and a resurrection chapter (15) that runs almost entirely in Jesus's own first p
    10:29–30's parallel "why is my liberty judged... if I by grace be a partaker" converts the same way,
    continuing the same discussion.
 
+**A closer, user-requested re-read (beyond the standard audit) found five fixes, four of them the same
+kind of mistake in one chapter.** Chapter 9 (Paul's defense of his right to support) had used a
+collective plural "they"/"their" at 9:10–12 ("for their sakes... if they have sown... are not they
+rather"), treating it as a generic point about ministers' rights broadly — but Towns keeps this entire
+chapter narrowed to Paul specifically throughout (*"Since Paul has sown spiritual things to them, he
+expects food, shelter, and clothing in return... Surely Paul's rights are greater"*), never generalizing
+to ministers as a class the way 9:13's genuinely distinct "they which minister about holy things" (the
+temple priests) does. Fixed 9:10–12 to singular "he"/"his," matching the demoted-Paul voice already
+used throughout the rest of the chapter (9:1–9, 9:15–27) — the lesson from 1 Peter 5:2/5:3 repeating
+here: a voice choice made for a stretch of verses needs checking against its immediate neighbors, not
+just the verse where it was first decided. 15:15 needed the identical fix for the identical reason:
+"they are found false witnesses... they have testified" had stayed a collective plural (Paul + fellow
+apostolic preachers) when Towns narrows this one specifically to Paul too (*"Paul has committed perjury
+against Me"*), matching 15:14's already-singular "Paul's preaching" one verse earlier. 1:2's closing
+clause ("both theirs, and Paul and Sosthenes's") was also cleaned up for readability, unrelated to any
+Towns divergence — the original double-possessive read awkwardly. One candidate change was considered
+and rejected: 16:22–24's grace/love benediction looked like it might need demoting to Paul's own closing
+words (Towns frames the whole passage as "Paul sends you greetings... Paul sends his love"), but neither
+verse contains a first-person pronoun whose conversion depends on who's speaking — "the Lord Jesus
+Christ" converts to "me" identically either way — so there was nothing to actually change.
+
 Verification run: 437/437 verses present, chapter-by-chapter counts match `KJV.json` exactly
 (31/16/23/21/13/20/40/13/27/33/34/31/13/40/58/24). Residual "God" survivors (10 total) are every one a
 deliberate exception (the "kingdom of God" idiom x4, two OT citations, "God forbid," the 12:4–6
