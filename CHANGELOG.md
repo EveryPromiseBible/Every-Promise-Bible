@@ -20,6 +20,10 @@ say, I love God" stays a literal, unconverted quotation instead, also matching T
 Illumination's section headings, and live-tested through the KJV dot toggle across all 1,255 chapter
 destinations in both states (2,510 loads, zero errors). 3 books remain: 2 John, 3 John, Jude.
 
+Post-draft audit caught one mismatch: 2:22 ("denieth the Father and the Son") had been converted to "my
+Father and me" by the default rule, but Towns keeps that exact clause unconverted, converting only the
+next sentence (2:23). Fixed 2:22 back to the unconverted KJV wording.
+
 ## 2026-09-14 — Two small fixes found on a closer re-read of 1 and 2 Peter
 
 At the user's request, went back over the last few books' full text (not just the spot-checked

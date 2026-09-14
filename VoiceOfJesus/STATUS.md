@@ -763,9 +763,20 @@ heard, which we have seen with our eyes... our hands have handled, of the Word o
    "one God" and "the Godhead" have functioned as fixed-phrase exceptions in earlier books, and Towns'
    own text keeps the same title intact in most of these spots ("I Am the Son of God").
 
+**The post-draft audit caught one real mismatch at 2:22.** "That denieth the Father and the Son" had
+first been converted to "that denieth my Father and me," applying the standard Christ/Father-name
+conversion by default. But Towns' own text keeps this exact clause unconverted — "They have the spirit
+of antichrist because they deny both the Father and the Son" — in the very same paragraph where the next
+sentence (2:23) *does* convert ("those who have Me, the Son, also have My Father"). The distinction
+Towns draws: 2:22 names "the Father and the Son" as a title-pair, summarizing *what* the antichrist
+denies, while 2:23 restates the same idea as a direct personal relationship claim ("have Me... have My
+Father"), which is what actually converts. Fixed 2:22 back to the unconverted KJV title-pair, leaving
+2:23 converted as before.
+
 Verification run: 105/105 verses present, chapter-by-chapter counts match `KJV.json` exactly
-(10/29/24/21/21). Residual "God"/"Christ" survivors (8 total) are every one a deliberate exception listed
-above (the "Son of God" title x5, "I am the Christ" x2 self-naming, and 4:20's quoted "I love God");
+(10/29/24/21/21). Residual "God"/"Christ" survivors (9 total) are every one a deliberate exception listed
+above (the "Son of God" title x5, "I am the Christ" x2 self-naming, 4:20's quoted "I love God", and
+2:22's "the Father and the Son" title-pair);
 **zero** residual "we/us/our/ourselves" outside the deliberate 1:1-4/4:14 "the writer" passages; zero
 residual "his Son" (all converted to "me"); zero unresolved dangling "Who/Whom/Which" verse-openers (the
 two verse-initial "Who" instances, 2:22 and 5:5, are both self-contained rhetorical questions, not
