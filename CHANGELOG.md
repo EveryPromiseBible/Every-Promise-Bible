@@ -1,5 +1,29 @@
 # CHANGELOG
 
+## 2026-09-14 — The Jesus Bible: 2 Peter added
+
+Twelfth book in the Jesus Bible. Elmer Towns' 2 Peter chapter (`Chapter062.html`, "I Am Jesus — Who
+Delays My Coming") was read complete before writing began, and the finished draft given the standard
+post-draft audit pass. Every checked verse matched Towns exactly -- the second book in a row (after
+2 Timothy) needing zero corrections.
+
+Chapter 2's whole recitation of past judgments (the angels who sinned, the flood, Sodom and Gomorrah,
+the rescue of Lot) converts to Jesus's own first-person voice throughout, confirmed extensively
+against Towns. Peter's genuinely personal biographical claims (his approaching death, his
+Transfiguration eyewitness testimony, both in chapter 1) convert to third person as expected, but
+3:1's more generic "I now write unto you" stays in Jesus's own voice -- a real distinction from how
+similar-looking material got treated in 1 Peter, confirmed by Towns keeping it the same way. The
+closing doxology (3:18) splits between both patterns in one verse: "knowledge of me" (self-reference)
+but "to him be glory" (the Father) -- also confirmed by Towns making the identical split. Full notes
+in `VoiceOfJesus/STATUS.md`.
+
+Wired in the same way as the eleven books before it: section headings from the Illumination's own
+2 Peter headings and verse-range boundaries, and a short per-book intro in Jesus's own voice.
+
+Verified: 61/61 verses present, chapter counts match `KJV.json` exactly (21/22/18); zero residual
+"God"/"Christ"/"Jesus" and zero residual "we/us/our" -- matching 2 Timothy's cleanest-scan result.
+Tested live: 2,510 chapter loads across the whole KJV with the dot on and off, zero errors.
+
 ## 2026-09-14 — The Jesus Bible: 1 Peter added
 
 Eleventh book in the Jesus Bible. Elmer Towns' 1 Peter chapter (`Chapter061.html`, "I Am Jesus — When

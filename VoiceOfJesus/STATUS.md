@@ -71,9 +71,10 @@ commentary on selected verses.
 | 1 Timothy | 113 | done |
 | 2 Timothy | 83 | done |
 | 1 Peter | 105 | done |
+| 2 Peter | 61 | done |
 
-5 more books remain, in the order Wuest covered them: 2 Peter, 1 John,
-2 John, 3 John, Jude.
+4 more books remain, in the order Wuest covered them: 1 John, 2 John,
+3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -645,6 +646,40 @@ Verification run: 105/105 verses present, chapter-by-chapter counts match `KJV.j
 (25/25/22/19/14). Only 2 residual instances survive and both are deliberate: "Christian" (4:16,
 "Christ" is a substring, not a real residual) and "my Father, the God of all grace" (5:10, the
 compound-title exception); zero residual "we/us/our"; zero unresolved dangling "Who/Whom/Which."
+
+## Epistle rules (2 Peter) — Jesus narrates His own past judgments, and the audit came back clean
+
+Read against Elmer Towns' actual 2 Peter chapter (`Chapter062.html`, "I Am Jesus — Who Delays My
+Coming") complete before any verse was written, then given the standard post-draft audit pass. Every
+checked verse matched Towns' specific wording exactly — the second book in a row (after 2 Timothy) to
+need zero corrections, a sign the judgment-call reasoning is landing correctly during drafting itself,
+not just being caught afterward.
+
+1. **Chapter 2's whole recitation of past judgments converts to Jesus's own first-person voice**,
+   confirmed extensively against Towns: *"I didn't spare the angels who sinned... I didn't spare any
+   of the people who lived before the flood. I completely destroyed the world with a flood... I
+   delivered Lot."* "God spared not the angels," "spared not the old world," "delivered just Lot" all
+   become "I."
+2. **A genuine distinction from 1 Peter's pattern**: Peter's clearly personal biographical claims
+   (1:12-15's approaching death, 1:16-18's Transfiguration eyewitness testimony) convert to third
+   person as expected — but 3:1's "This second epistle... I now write unto you" stays in Jesus's own
+   voice, unconverted, confirmed by Towns keeping it that way too (*"I write this second letter, as I
+   did in both letters"*). The difference: 1:12-15 and 1:16-18 carry Peter's specific personal
+   circumstances (his own death, his own eyewitness experience) that cannot coherently be Jesus's
+   own; 3:1 is a generic authorial marker that Towns treats as part of Jesus's ongoing message rather
+   than Peter's own aside.
+3. **1:17's Transfiguration voice stays exactly as quoted** ("This is my beloved Son, in whom I am
+   well pleased") — the Father's own words about the Son, third person inside the quote, matching the
+   same treatment Hebrews and 1 Peter gave every other instance of the Father addressing or naming the
+   Son.
+4. **3:18's closing doxology splits between the two established patterns in one verse**: "grow in...
+   the knowledge of [Christ]" converts to self-reference ("of me"), but "to him be glory" stays
+   pointing at the Father, unconverted — confirmed by Towns doing exactly this split (*"Grow in grace
+   and in My knowledge. To My Father be all glory"*).
+
+Verification run: 61/61 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(21/22/18). **Zero** residual "God"/"Christ"/"Jesus" and **zero** residual "we/us/our" — matching
+2 Timothy's cleanest-scan result; zero unresolved dangling "Who/Whom/Which."
 
 ## Verification run on Mark
 
