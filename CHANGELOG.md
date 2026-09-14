@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: 1 John drafted (105 verses), 13 of 16 books now done
+
+Read Elmer Towns' 1 John chapter (`Chapter063.html`, "I Am Jesus -- Who Loves You") in full before
+drafting. 1 John repeats Hebrews' no-named-author problem, plus a new one: its opening claims to have
+physically heard, seen, and handled its subject ("our hands have handled... the Word of life"), which is
+incoherent as Jesus's own voice, so 1:1-4 (and 4:14's matching claim) convert to third-person "the
+writer" rather than Jesus's "I" -- the same category Hebrews used for the human author's own biographical
+facts. From 2:1 on, the letter's singular "I write unto you" and its "little children" address stay
+Jesus's own voice. The book's constant "hereby we know" refrain (14+ instances) converts throughout to
+direct "ye know" address, and "God" needed a verse-by-verse check rather than a blanket "my Father" --
+Towns has Jesus claim "I am light" (1:5) and "of me" (4:1-4) directly, but keeps "God is love" (4:8,
+4:16) and "he first loved us" (4:19) attributed to "my Father" both times. A few "he that saith, I know
+him" constructions would read as nonsense ("I know me") once "him" (Christ) converts to "me," so those
+restructure to indirect speech ("he that saith that he knoweth me"), matching Towns; 4:20's "if a man
+say, I love God" stays a literal, unconverted quotation instead, also matching Towns.
+
+105/105 verses verified against `KJV.json` (10/29/24/21/21 by chapter), wired into `data/jesus.js` using
+Illumination's section headings, and live-tested through the KJV dot toggle across all 1,255 chapter
+destinations in both states (2,510 loads, zero errors). 3 books remain: 2 John, 3 John, Jude.
+
 ## 2026-09-14 — Two small fixes found on a closer re-read of 1 and 2 Peter
 
 At the user's request, went back over the last few books' full text (not just the spot-checked

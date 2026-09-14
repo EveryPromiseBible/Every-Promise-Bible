@@ -72,9 +72,9 @@ commentary on selected verses.
 | 2 Timothy | 83 | done |
 | 1 Peter | 105 | done |
 | 2 Peter | 61 | done |
+| 1 John | 105 | done |
 
-4 more books remain, in the order Wuest covered them: 1 John, 2 John,
-3 John, Jude.
+3 more books remain, in the order Wuest covered them: 2 John, 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -699,6 +699,77 @@ judgment, not a Towns-confirmed correction — worth being honest about that dis
 Verification run: 61/61 verses present, chapter-by-chapter counts match `KJV.json` exactly
 (21/22/18). **Zero** residual "God"/"Christ"/"Jesus" and **zero** residual "we/us/our" — matching
 2 Timothy's cleanest-scan result; zero unresolved dangling "Who/Whom/Which."
+
+## Epistle rules (1 John) — no named author again, and the writer's own eyewitness claim needs its own third person
+
+Read against Elmer Towns' actual 1 John chapter (`Chapter063.html`, "I Am Jesus — Who Loves You") complete
+before any verse was written, then given the standard post-draft audit pass. 1 John shares Hebrews'
+problem (no named human author anywhere in the text — tradition calls him John, but the word "John"
+never appears inside 1 John itself) but adds a new wrinkle Hebrews never had: the letter opens with a
+first-person plural claim to have **physically** heard, seen, and handled its subject — "which we have
+heard, which we have seen with our eyes... our hands have handled, of the Word of life" (1:1-4).
+
+1. **1:1-4's physical eyewitness testimony converts to third person, "the writer,"** the same category
+   Hebrews reserved for genuine external biographical fact (13:18-23) and 1/2 Peter reserved for Peter's
+   own transfiguration eyewitness claim (2 Peter 1:16-18) — a claim that is flatly incoherent as Jesus's
+   own voice, since Jesus cannot narrate having physically handled Himself as an object while also
+   speaking as that object in the first person. "The Word of life" itself, being Christ, still converts
+   normally ("of me, the Word of life"). The same eyewitness-testimony shape recurs once more at 4:14
+   ("we have seen and do testify that the Father sent the Son"), confirmed against Towns, who explicitly
+   names the writer there: *"John saw with his eyes and writes to tell you My Father sent Me, the Son, to
+   save the world."*
+2. **From 2:1 onward, the letter's singular epistolary "I write unto you" and its recurring vocative
+   "little children" stay Jesus's own voice**, unlike the plural eyewitness claims in (1) — the
+   distinguishing test, following Hebrews' own rule, is whether the statement reports something
+   *circumstantial about the specific human writer's life* (demotes) or *functions as pastoral/doctrinal
+   address to the reader* (stays Jesus, coherent with the book's whole framing as His letter). Confirmed
+   against Towns, who keeps 2:1's "these things write I unto you, that ye sin not" entirely in Jesus's
+   voice (*"Because I told you not to sin, you must not do it"*) and folds "we have an advocate with the
+   Father, Jesus Christ the righteous" into Jesus naming Himself the advocate directly (*"I stand at My
+   Father's right hand to plead forgiveness for you"*) — the generic "we" needing an advocate converts to
+   "ye," since Jesus does not need Himself as His own advocate.
+3. **1 John's most distinctive feature is its constant "hereby we know" refrain** (2:3, 2:5, 2:18, 3:2,
+   3:14, 3:19, 3:24, 4:6, 4:13, 5:2, 5:15, 5:18, 5:19, 5:20 and more) — a much heavier density of this
+   construction than any earlier book. Every instance converts "we/us/our" to "ye/you/your" (the
+   Romans/Galatians collective-condition rule), never Jesus's own rhetorical "we," confirmed repeatedly
+   against Towns turning each one into direct address (*"Know this much about your future life... you
+   will be like Me"* for 3:2; *"You know you are born again because..."* for 5:18-19) — unlike Romans'
+   occasional exception for generic theological "we know" formulas, this book's whole purpose is
+   reader-assurance, so the refrain is never left as Jesus's own uncertainty-by-inference.
+4. **"God" does not default to "my Father" as reliably as in any earlier book — several instances are
+   Jesus's own direct self-predication instead, verified one at a time against Towns.** "That God is
+   light" (1:5) converts to Jesus's own *"I am light"* (Towns: *"I am light, and there is absolutely no
+   darkness in Me"*), and "try the spirits whether they are of God" (4:1-4) converts to "of me" (Towns:
+   *"test their spirit to see if they are from Me"*) — but "God is love" (4:8, 4:16) stays "my Father is
+   love" both times (Towns: *"He is love"* attributed explicitly to "My Father"), and "we love him,
+   because he first loved us" (4:19) likewise stays "my Father" (Towns: *"your love for My Father comes
+   because He first loved you"*), even though the surrounding verses are Jesus's own voice. No single
+   default rule covers this book's "God" — each instance needed its own check.
+5. **A recurring construction — "he that saith, I know him" (2:4), "he that saith he abideth in him"
+   (2:6), "if a man say, I love God" (4:20) — creates a self-reference problem unique to this book**: a
+   hypothetical false professor's *quoted* claim about Christ, phrased as first person "I," collides with
+   Jesus now being the narrator's own first person. Left as literal quotation, "I know him" would become
+   "I know me" once "him" (=Christ) converts to "me" — nonsense. Resolved two different ways depending on
+   Towns: 2:4 and 2:6 restructure from direct to indirect quotation (*"he that saith that he knoweth
+   me"*), matching Towns' *"Those who say that they know Me"*; but 4:20 keeps the KJV's literal direct
+   quotation and its unconverted "God" untouched (*"If a man say, I love God..."*), matching Towns
+   keeping it as an actual quotation too (*"Those who say, 'I love the Father'"*) — the difference is that
+   "God" isn't the narrator's own name the way "him"=Christ is, so no self-reference collision forces a
+   restructure there.
+6. **"The Son of God" is kept as a fixed confessional title in five places** (3:8's "I, the Son of God,"
+   matching the established Son-of-man/Son-of-God self-merge rule; 4:15, 5:5, 5:10, 5:20's "believeth /
+   confess that [Jesus/I am] the Son of God") rather than forcing "God" to "my Father" inside the title
+   every time — this book's five confessional "born of God" / "Son of God" formulas function the way
+   "one God" and "the Godhead" have functioned as fixed-phrase exceptions in earlier books, and Towns'
+   own text keeps the same title intact in most of these spots ("I Am the Son of God").
+
+Verification run: 105/105 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(10/29/24/21/21). Residual "God"/"Christ" survivors (8 total) are every one a deliberate exception listed
+above (the "Son of God" title x5, "I am the Christ" x2 self-naming, and 4:20's quoted "I love God");
+**zero** residual "we/us/our/ourselves" outside the deliberate 1:1-4/4:14 "the writer" passages; zero
+residual "his Son" (all converted to "me"); zero unresolved dangling "Who/Whom/Which" verse-openers (the
+two verse-initial "Who" instances, 2:22 and 5:5, are both self-contained rhetorical questions, not
+continuations of a prior verse's antecedent, so neither needed restructuring).
 
 ## Verification run on Mark
 
