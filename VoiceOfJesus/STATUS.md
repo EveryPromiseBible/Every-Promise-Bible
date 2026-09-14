@@ -74,8 +74,9 @@ commentary on selected verses.
 | 2 Peter | 61 | done |
 | 1 John | 105 | done |
 | 2 John | 13 | done |
+| 3 John | 14 | done |
 
-2 more books remain, in the order Wuest covered them: 3 John, Jude.
+1 more book remains: Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -821,6 +822,40 @@ the invented "the writer" placeholder Hebrews and 1 John needed.
 Verification run: 13/13 verses present, matching `KJV.json` exactly. Residual "God" (2 total) is the
 deliberate "God speed" idiom exception; zero residual "we/us/our" outside the demoted-elder passages;
 zero residual "Christ"/"Jesus." Post-draft audit against Towns found no further corrections needed.
+
+## Epistle rules (3 John) — the most personal letter in the project, almost entirely "the elder"
+
+Read against Elmer Towns' actual 3 John chapter (`Chapter065.html`, "I Am Jesus — The God of True
+Teachers") complete before any verse was written, then given the standard post-draft audit pass. 3 John
+is the shortest and most personal letter done so far — a private note from "the elder" to a named friend
+(Gaius) about hospitality, a church boss (Diotrephes), and a commendation (Demetrius) — with almost no
+doctrinal content in Jesus's own voice at all.
+
+1. **Nearly every verse is the elder's own personal statement and converts to third person**, matching
+   Towns' consistent framing of "John" (not Jesus) as the one loving Gaius, praying for his health,
+   rejoicing at his faithfulness, having "no greater joy," writing to the church, planning to visit, and
+   sending greetings — confirmed line by line (*"John prays for you to prosper..."*; *"He rejoiced when
+   he heard..."*; *"Nothing could make John happier..."*; *"John previously wrote to My church..."*;
+   *"John has many things to tell them but can't write them..."*). This is the highest proportion of
+   demoted material of any book in the project — only two spots carry Jesus's own voice.
+2. **7's "for his name's sake they went forth" is the one clear self-reference conversion** ("for my
+   name's sake") — the travelling preachers went out for Christ's sake, a standard third-person-to-"me"
+   conversion untouched by the letter's otherwise-demoted frame.
+3. **11's maxim ("he that doeth good is of God... hath not seen God") converts "God" to "my Father"
+   by the default rule**, generic doctrinal content rather than the elder's own personal report, matching
+   the pattern used for maxims throughout the project (e.g. 1 John 3:9-10's "born of God").
+4. **8's "we therefore ought to receive such" and 12's "we also bear record" both needed a judgment
+   call**, since Towns restructures both loosely (*"churches have a responsibility..."*; *"Everyone
+   recognizes Demetrius..."*) without a clean pronoun match. 8 converts to direct address ("ye ought"),
+   matching the Rule B pattern used for exhortation throughout the corpus; 12 demotes to third person
+   ("he also beareth record... his record is true"), matching the letter's dominant pattern of the
+   elder's own personal attestations (his testimony about Demetrius, alongside his testimony about
+   Gaius in 3-4) staying in that same demoted voice rather than switching to reader-address mid-letter.
+
+Verification run: 14/14 verses present, matching `KJV.json` exactly. **Zero** residual
+"God"/"Christ"/"Jesus"/"we/us/our" anywhere in the book — every instance of each converted fully (7's
+"my name," 11's "my Father" twice), the cleanest scan in the project. Post-draft audit against Towns
+found no further corrections needed.
 
 ## Verification run on Mark
 

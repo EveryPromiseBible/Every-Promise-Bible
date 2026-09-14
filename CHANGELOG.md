@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: 3 John drafted (14 verses), 15 of 16 books now done -- 1 left
+
+Read Elmer Towns' 3 John chapter (`Chapter065.html`, "I Am Jesus -- The God of True Teachers") in full
+before drafting. This is the most personal letter in the project -- a private note from "the elder" to a
+named friend (Gaius) about hospitality, a church boss (Diotrephes), and a commendation (Demetrius) --
+and almost the whole thing is the elder's own voice, demoted to third person throughout, confirmed line
+by line against Towns naming "John" (not Jesus) as the one loving, praying, rejoicing, writing, and
+planning to visit. Only two spots carry Jesus's own voice: "for his name's sake" (7, converts to "my
+name's sake") and the doctrinal maxim "he that doeth good is of God... hath not seen God" (11, converts
+to "my Father" both times).
+
+14/14 verses verified against `KJV.json`, wired into `data/jesus.js`, and live-tested through the KJV
+dot toggle across all 1,255 chapter destinations in both states (2,510 loads, zero errors). Post-draft
+audit against Towns found no corrections needed -- the cleanest residual scan of any book in the project
+(zero leftover God/Christ/Jesus/we/us/our anywhere). 1 book remains: Jude.
+
 ## 2026-09-14 — Jesus Bible: 2 John drafted (13 verses), 14 of 16 books now done
 
 Read Elmer Towns' 2 John chapter (`Chapter064.html`, "I Am Jesus -- The Shepherd Over My Church") in
