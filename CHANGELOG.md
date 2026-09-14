@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## 2026-09-14 — Two small fixes found on a closer re-read of 1 and 2 Peter
+
+At the user's request, went back over the last few books' full text (not just the spot-checked
+judgment-call verses from the standard audit) looking for anything missed. Found two, both minor,
+neither theological:
+
+1 Peter 5:3 ("lords over God's heritage") had been left as self-referential "mine heritage," but the
+very verse before it (5:2) had just been fixed to "my Father's flock" for the same referent -- the fix
+wasn't carried to its neighbor. Confirmed against Towns too ("Don't be dictators over God's people").
+Fixed to "my Father's heritage."
+
+2 Peter 3:15 ("our beloved brother Paul") converted "our" to "his," correctly naming Peter -- but by
+that point in the letter, chapters 2-3 had run some 30 verses in Jesus's continuous first-person
+voice, so the pronoun's antecedent sat much too far back to read cleanly. Not wrong, just a long
+reach. Changed to "Peter's beloved brother Paul," naming him explicitly. Towns doesn't address this
+specific phrase, so this one is a clarity judgment, not a Towns-confirmed correction.
+
+Full notes in `VoiceOfJesus/STATUS.md`. Tested live: 2,510 chapter loads across the whole KJV with the
+dot on and off, zero errors; both fixes confirmed rendering correctly.
+
 ## 2026-09-14 — The Jesus Bible: 2 Peter added
 
 Twelfth book in the Jesus Bible. Elmer Towns' 2 Peter chapter (`Chapter062.html`, "I Am Jesus — Who

@@ -647,6 +647,14 @@ Verification run: 105/105 verses present, chapter-by-chapter counts match `KJV.j
 "Christ" is a substring, not a real residual) and "my Father, the God of all grace" (5:10, the
 compound-title exception); zero residual "we/us/our"; zero unresolved dangling "Who/Whom/Which."
 
+**A second, closer re-read (requested by the user, not part of the standard audit) caught one more
+mistake at 5:3.** The 5:2 fix ("God's flock" → "my Father's flock") wasn't checked against the very
+next verse, which names the same flock again: "Neither as being lords over God's heritage" had been
+left as self-referential "mine heritage" — directly contradicting the fix one verse earlier. Confirmed
+against Towns too, who keeps this one as the Father as well: *"Don't be dictators over God's
+people."* Fixed to "my Father's heritage." **The lesson: a fix to one verse needs its immediate
+neighbors re-checked for the same referent, not just the verse itself.**
+
 ## Epistle rules (2 Peter) — Jesus narrates His own past judgments, and the audit came back clean
 
 Read against Elmer Towns' actual 2 Peter chapter (`Chapter062.html`, "I Am Jesus — Who Delays My
@@ -676,6 +684,17 @@ not just being caught afterward.
    the knowledge of [Christ]" converts to self-reference ("of me"), but "to him be glory" stays
    pointing at the Father, unconverted — confirmed by Towns doing exactly this split (*"Grow in grace
    and in My knowledge. To My Father be all glory"*).
+
+**A second, closer re-read (requested by the user) caught a clarity issue at 3:15, not a theological
+error.** "Even as our beloved brother Paul" had converted "our" to "his," correctly referring to
+Peter — but by that point in the letter, all of chapters 2-3 had run in Jesus's continuous
+first-person voice, so the last explicit "he" = Peter sat some 30 verses back, in chapter 1. Nothing
+else in the sentence could plausibly be the antecedent, so it wasn't strictly wrong, just a long reach
+for a reader to make. Changed to "Peter's beloved brother Paul," naming him explicitly rather than
+relying on a pronoun that far from its antecedent — the same fix already used elsewhere in the project
+(e.g. Colossians 4:11's "with Paul") when a pronoun would otherwise be ambiguous or hard to trace.
+Towns doesn't address this specific phrase (he paraphrases past it entirely), so this one is a clarity
+judgment, not a Towns-confirmed correction — worth being honest about that distinction.
 
 Verification run: 61/61 verses present, chapter-by-chapter counts match `KJV.json` exactly
 (21/22/18). **Zero** residual "God"/"Christ"/"Jesus" and **zero** residual "we/us/our" — matching
