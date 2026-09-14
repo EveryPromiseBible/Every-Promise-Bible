@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: 2 John drafted (13 verses), 14 of 16 books now done
+
+Read Elmer Towns' 2 John chapter (`Chapter064.html`, "I Am Jesus -- The Shepherd Over My Church") in
+full before drafting. Unlike 1 John, this letter names its author's office ("The elder unto the elect
+lady"), giving a textual handle for demoting his personal material (his love for the recipients, his joy
+at their walking in truth, his plan to visit rather than write) to third person, the same way "Paul" did
+in earlier epistles -- confirmed by Towns naming "John" as the one doing these things, not Jesus. The
+grace-benediction and the warning about false teachers stay Jesus's own voice. Confirmed against Towns
+that 1:3's "the Son of the Father" keeps "the Father" as a bare, unconverted title (matching 1 John
+2:22's "the Father and the Son" exception), while 1:9's "he hath both the Father and the Son" converts
+fully to "my Father and me" (matching 1 John 2:23) -- the same title-vs-personal-claim distinction from
+1 John carrying straight over into a new book. "God speed" (1:10-11) is left as the fixed archaic
+greeting idiom it is, same category as "God forbid."
+
+13/13 verses verified against `KJV.json`, wired into `data/jesus.js`, and live-tested through the KJV
+dot toggle across all 1,255 chapter destinations in both states (2,510 loads, zero errors). Post-draft
+audit against Towns found no corrections needed. 2 books remain: 3 John, Jude.
+
 ## 2026-09-14 — Jesus Bible: 1 John drafted (105 verses), 13 of 16 books now done
 
 Read Elmer Towns' 1 John chapter (`Chapter063.html`, "I Am Jesus -- Who Loves You") in full before

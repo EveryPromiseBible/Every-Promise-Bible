@@ -73,8 +73,9 @@ commentary on selected verses.
 | 1 Peter | 105 | done |
 | 2 Peter | 61 | done |
 | 1 John | 105 | done |
+| 2 John | 13 | done |
 
-3 more books remain, in the order Wuest covered them: 2 John, 3 John, Jude.
+2 more books remain, in the order Wuest covered them: 3 John, Jude.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -781,6 +782,45 @@ above (the "Son of God" title x5, "I am the Christ" x2 self-naming, 4:20's quote
 residual "his Son" (all converted to "me"); zero unresolved dangling "Who/Whom/Which" verse-openers (the
 two verse-initial "Who" instances, 2:22 and 5:5, are both self-contained rhetorical questions, not
 continuations of a prior verse's antecedent, so neither needed restructuring).
+
+## Epistle rules (2 John) — a named title again ("the elder"), and a fixed-title exception confirmed from 1 John carries over
+
+Read against Elmer Towns' actual 2 John chapter (`Chapter064.html`, "I Am Jesus — The Shepherd Over My
+Church") complete before any verse was written, then given the standard post-draft audit pass. Unlike 1
+John, this letter opens with the author naming his own office — "The elder unto the elect lady and her
+children" — giving a textual handle to demote to, the way "Paul" did in the earlier epistles, rather than
+the invented "the writer" placeholder Hebrews and 1 John needed.
+
+1. **"The elder's" own personal claims (his love for the recipients, his joy at their walking in truth,
+   his wish to visit rather than write) demote to third person**, confirmed by Towns naming "John" (not
+   Jesus) as the one who loves them, rejoices, and will come speak face to face: *"John and everyone in
+   Me... love you"*; *"John had many things to explain to you, but he did not write them"*. This matches
+   Paul's own personal/biographical material demoting throughout Romans–2 Timothy, and Hebrews 13's
+   "the writer" material.
+2. **The grace-benediction (1:3) and the doctrinal warning about false teachers (1:7, 1:9) stay Jesus's
+   own voice**, confirmed by Towns keeping the benediction in Jesus's own first person (*"Grace, mercy,
+   and peace from God My Father and from Me, the Lord Jesus Christ, the Son of the Father"*) and the
+   heresy-warning as Jesus's own self-description (*"those who believe and teach that I was born only
+   with a human body, and that I am not God"*, matching 1 John 4:2-3's "confess... that Jesus Christ is
+   come in the flesh" → "that I am come in the flesh" pattern exactly).
+3. **1:3's "the Son of the Father" is kept as a fixed title, "the Father" left unconverted inside it**,
+   even though "from God the Father" converts normally to "my Father" earlier in the same verse —
+   confirmed directly against Towns, who does the identical thing: converts the first "God the Father" to
+   "God My Father" but leaves the appositive title "the Son of the Father" with a bare "the Father," not
+   "My Father." The same fixed-title-pair exception 1 John 2:22 established ("the Father and the Son"
+   left unconverted as a title-pair) recurs here in a different grammatical shape.
+4. **1:9's "he hath both the Father and the Son" converts fully** ("he hath both my Father and me"),
+   distinguishing it from (3)'s title exception the same way 1 John 2:23 was distinguished from 2:22 —
+   this is a personal-possession claim ("hath... the Father and the Son" = has fellowship with both), not
+   a title naming what something is called, and Towns converts it explicitly: *"Those who remain true to
+   Christian doctrine have both My Father and Me, the Son."*
+5. **"God speed" (1:10, 1:11) is a fixed archaic greeting idiom ("wish success"), not a live invocation
+   of God, and stays unconverted** — the same idiom-exception category as "God forbid" elsewhere in the
+   project, not a case requiring "my Father" treatment.
+
+Verification run: 13/13 verses present, matching `KJV.json` exactly. Residual "God" (2 total) is the
+deliberate "God speed" idiom exception; zero residual "we/us/our" outside the demoted-elder passages;
+zero residual "Christ"/"Jesus." Post-draft audit against Towns found no further corrections needed.
 
 ## Verification run on Mark
 
