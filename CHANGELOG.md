@@ -1,5 +1,41 @@
 # CHANGELOG
 
+## 2026-09-15 — Jesus Bible: closer re-read of 1 & 2 Thessalonians finds nine fixes
+
+Re-read Towns' actual chapters for both letters a second time, verse by verse, cross-checking every
+judgment call against his specific wording rather than the standard audit's spot-checks -- the same
+closer-read discipline that's caught real issues on every multi-chapter book tried so far, now the
+most productive run yet at nine fixes.
+
+The big one: "we beseech/command/exhort you... by/in the name of the Lord Jesus [Christ]" (1 Thess
+4:1-2, 2 Thess 3:6, 3:12) turns out to be Jesus naming Himself as the authority behind the command, not
+Paul invoking Christ as a separate witness the way 1 Timothy 5:21's "before God, and the Lord Jesus
+Christ" genuinely does. Towns says so twice, explicitly, in first person -- "I give you this command in
+My name, the Lord Jesus Christ" and "I command such people... in My name." The test that separates the
+two constructions: 1 Timothy invokes *two* parties as co-witnesses alongside the speaker's own "I,"
+which Jesus can't do about Himself; naming *one* authority that turns out to be the speaker is exactly
+the "Son of man" self-merge this project has used since Mark. Fixed all four verses to Jesus's own voice
+with a self-naming apposition ("I beseech you... even I the Lord Jesus"), which meant every "of us"
+inside them became "of me" too, since the whole verse is now one voice, not a frame around Paul.
+
+That correction cascades: 1 Thessalonians 4:1-12 turns out to run entirely in Jesus's own voice with no
+demoted Paul material in it at all. 4:9's "ye need not that I write unto you" is confirmed Jesus's own
+claim by Towns ("I didn't need to tell you to love your brothers") rather than demoting the way Jude
+1:3's near-identical construction did in an earlier book -- a reminder that this kind of judgment call
+doesn't transfer automatically between books. 4:10-11 sit in the same unbroken, unattributed paragraph
+and were changed to match. Separately, 3:3's "we are appointed thereunto" turned out to be a
+shared-condition "we" (Paul and the readers together, not Paul alone), confirmed by Towns generalizing
+it to "the believers" and by 3:4 one verse later already correctly reading "ye should suffer
+tribulation" -- the same immediate-neighbor-consistency lesson 1 Peter 5:2/5:3 taught this project
+originally, now caught a second time. Two other candidate changes were checked against Towns and
+rejected: he substitutes "the Holy Spirit" for 2 Thess 2:11's "God" and generalizes "My Father" for
+3:3's "the Lord," but a single loose paraphrase clause isn't strong enough evidence to override the
+project's standard Father/Son default when the grammar itself doesn't force the change.
+
+Re-verified after all nine fixes: still 89/89 and 47/47 verses, chapter counts unchanged, zero residual
+"we/us/our" anywhere in either book; re-spliced into `data/jesus.js` and re-tested live across all 1,255
+chapter destinations in both states (2,510 loads, zero errors).
+
 ## 2026-09-15 — Jesus Bible: 1 & 2 Thessalonians drafted (136 verses), the first genuinely co-authored letters
 
 Read Elmer Towns' chapters for both letters (`Chapter053.html`, "I Am Coming Again"; `Chapter054.html`,

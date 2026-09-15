@@ -135,12 +135,60 @@ still worked out to be Paul speaking alone.
    earlier book.
 
 Verification run: 89/89 and 47/47 verses present, chapter-by-chapter counts match `KJV.json` exactly
-(10/20/13/18/28 and 12/17/18). Residual "God" (4 total, 1 Thess 1:9's "the living and true God," 1 Thess
-5:23's "the very God of peace," 2 Thess 1:5's "kingdom of God" idiom, 2 Thess 2:4's triple antichrist
-self-claim) and residual "Lord Jesus"/"Lord Jesus Christ" (4 total, 1 Thess 4:1/4:2, 2 Thess 3:6/3:12,
-all the invoked-authority exception) are every one a deliberate exception; zero residual "we/us/our"
-outside those same invoked-title verses' own "our"; zero unresolved dangling "Who/Whom/Which"
-verse-openers; zero false-present-state hits on the "is/am dead/come/risen/gone/fled/departed" family.
+(10/20/13/18/28 and 12/17/18); zero unresolved dangling "Who/Whom/Which" verse-openers; zero
+false-present-state hits on the "is/am dead/come/risen/gone/fled/departed" family.
+
+**A closer, user-requested re-read (re-reading Towns' actual chapters a second time, verse by verse,
+rather than just the standard judgment-call spot-check) found nine real mismatches, the most of any book
+since the original 16 were built.**
+
+1. **"We beseech/command/exhort you... by/in the name of the Lord Jesus [Christ]" (1 Thess 4:1-2, 2 Thess
+   3:6, 3:12) is Jesus asserting His own authority by naming Himself, not Paul invoking Christ as a
+   separate witness** — the opposite conclusion from the first draft, which treated all four like the 1
+   Timothy 5:21/6:13 "invoke Christ as a separate party" pattern. Towns settles it explicitly, twice:
+   *"I give you this command in My name, the Lord Jesus Christ"* (3:6) and *"I command such people... in
+   My name"* (3:12) — both first person, both self-naming, neither demoted to Paul. The distinguishing
+   test that separates this from the genuine 1 Timothy pattern: 1 Timothy 5:21 invokes **two** parties
+   ("before God, **and** the Lord Jesus Christ") as co-witnesses **alongside** the speaker's own "I,"
+   which Jesus cannot coherently do about Himself; "by/in the name of the Lord Jesus" names only **one**
+   authority, and if that one authority is the speaker Himself, self-naming is exactly what "the Son of
+   man" merge (rule 6) and 2 Thess 3:16's "I myself, the Lord of peace" already do elsewhere in this same
+   pair of letters. Fixed all four to Jesus's own first-person voice with a self-naming apposition ("I
+   beseech you... even I the Lord Jesus"), which also meant converting the "of us"/"received of him"
+   material inside those same verses to "of me," since the whole verse is now one voice, not a demoted
+   frame around Paul's material.
+2. **That correction cascades through the rest of 1 Thessalonians 4:1-12, which turns out to run entirely
+   in Jesus's own voice with no demoted "Paul" material in it at all.** 4:9's KJV singular "ye need not
+   that I write unto you" is confirmed Jesus's own claim by Towns (*"I didn't need to tell you to love
+   your brothers"*) rather than demoting like Jude 1:3's analogous "I gave... needful for me to write" did
+   — a reminder that the demotion-of-personal-writing-statements pattern is a case-by-case judgment call,
+   not a rule that transfers automatically between books. 4:10-11's "we beseech/we commanded" sit in the
+   same unbroken paragraph, with Towns never reintroducing "Paul" by name anywhere in the stretch (unlike
+   stretches earlier in the letter where he explicitly does), so both were changed to Jesus's own "I"
+   for consistency with the confirmed anchor at 4:9 and 4:1-2.
+3. **3:3's "for yourselves know that we are appointed thereunto" is a shared-condition "we" (Paul and the
+   readers together), not Paul's own personal appointment, and converts to "ye are appointed thereunto"**
+   — confirmed by Towns generalizing it to "Troubles are part of God's plan for **the believers**," and by
+   the very next verse (3:4), already drafted correctly as "ye should suffer tribulation," which the first
+   draft had failed to carry backward one verse — the same immediate-neighbor-consistency lesson 1 Peter
+   5:2/5:3 taught the project originally.
+4. **Two judgment calls were checked against Towns and left unchanged despite him phrasing them
+   differently**, on the principle that a single loose, compressed paraphrase clause is weaker evidence
+   than clear grammatical continuity or a repeated pattern: 2 Thess 1:9's "from the presence of the Lord"
+   stays "from my presence" (continuing the Christ-subject established by "the Lord Jesus" two verses
+   earlier) even though Towns' paraphrase says "My Father's presence" once, loosely; 2 Thess 2:11's "God
+   shall send them strong delusion" and 3:3's "the Lord is faithful" both stay on the project's standard
+   Father/Son default ("my Father"/"I") even though Towns substitutes "the Holy Spirit" for the first and
+   generalizes "My Father" for the second — a real Person-swap in Towns' own theology, not a precise
+   pronoun-tracking signal this project's literal method should follow.
+
+Re-verified after all nine fixes: still 89/89 and 47/47 verses, chapter counts unchanged, zero residual
+"we/us/our" anywhere in either book (the fixes removed the last remaining instances), residual "God" (4
+total: 1 Thess 1:9's "the living and true God," 1 Thess 5:23's "the very God of peace," 2 Thess 1:5's
+"kingdom of God" idiom, 2 Thess 2:4's triple antichrist self-claim) and residual "Lord Jesus"/"Lord Jesus
+Christ" (4 total, the four self-naming verses above) are every one a deliberate exception; re-spliced into
+`data/jesus.js` and re-tested live across all 1,255 chapter destinations in both states (2,510 loads, zero
+errors).
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
