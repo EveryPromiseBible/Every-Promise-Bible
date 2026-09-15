@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: Acts drafted (1,007 verses, all 28 chapters)
+
+The longest book in the project, and the first extension past pure epistles -- Acts is Luke's own
+third-person historical narrative, almost entirely made up of other people's speeches (Peter's,
+Stephen's, Paul's, James's, an angel's, a demon's), not Jesus's or Paul's first-person voice the way
+every prior book was. Read Elmer Towns' entire Acts chapter (`Chapter045.html`, "My Legacy," his single
+continuous narrative spanning all 28 KJV chapters) first, which showed he gets his "Jesus voice" here
+mainly through free paraphrase and invented asides, not pronoun-shifting -- checked the genre mismatch
+with the user before drafting, and per their direction built it with the project's strict literal rules
+only, matching the founding principle over Towns' technique for this book.
+
+Rule 3 (other people's quoted speech about Jesus stays third-person) turned out to be the single most
+load-bearing rule in the whole book: entire chapters are one continuous quotation and needed zero
+conversions at all -- Paul's farewell to the Ephesian elders (20), and both of his later retellings of
+his own Damascus road conversion before Agrippa and the Jerusalem crowd (22, 26), plus the Festus/Agrippa
+legal exchange (25) which has no narrator references to God/Jesus in it at all. The genre required one
+new distinction the epistles never needed: separating Luke's own narration (converts, including his
+*indirect* discourse summarizing what someone preached or believed) from everyone else's direct quoted
+speech (never converts). Within Luke's own narration, a deliberate Father/Son split was carried
+consistently for all 28 chapters -- "the Lord" -> "me/I," "God" -> "my Father" -- with "the word of
+God"/"the word of the Lord"/"the doctrine of the Lord" as one cross-cutting exception that always
+collapses to "my word"/"my doctrine" regardless of which KJV word is used, since the preached content is
+about Christ either way. Ambiguous voices (the unidentified vision-voice in 10:13/10:15, "the Spirit"
+alone without "of God"/"of the Lord" attached) were left conservatively unconverted rather than guessed
+at. See `VoiceOfJesus/STATUS.md`'s "Narrative rules (Acts)" section for the full writeup, including the
+Stephen's-death scene (7:55-56) where the same vision gets two different correct treatments one verse
+apart depending on whether it's Luke's narration or Stephen's own quoted exclamation.
+
+1,007/1,007 verses verified against `KJV.json` across all 28 chapters, wired into `data/jesus.js`
+(19 books, 151 chapters total now), and live-tested through the KJV dot toggle across all chapter
+destinations in both states (2,378 loads, zero errors). Residual "God"/"Christ"/"Jesus"/"Lord" survivors
+(185 verses) checked individually -- every one is a deliberate, explainable exception, not a missed
+narration conversion.
+
 ## 2026-09-14 — Jesus Bible: 2 Corinthians drafted (257 verses)
 
 Read Elmer Towns' 2 Corinthians chapter (`Chapter048.html`, "I Am Jesus -- The One You Serve") in full

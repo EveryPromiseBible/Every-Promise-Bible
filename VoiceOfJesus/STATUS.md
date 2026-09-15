@@ -84,9 +84,13 @@ rules" section below same as the original 16. See the Progress table below.
 | Jude | 25 | done |
 | 1 Corinthians | 437 | done |
 | 2 Corinthians | 257 | done |
+| Acts | 1007 | done |
 
-**All 16 books Wuest covered are done.** 1 and 2 Corinthians are the first books added beyond that
-original scope, at the user's request, covering the rest of the New Testament book by book.
+**All 16 books Wuest covered are done.** 1 Corinthians, 2 Corinthians, and Acts are the first books
+added beyond that original scope, at the user's request, covering the rest of the New Testament book
+by book. Acts is the longest book in the project and the first non-epistle extension — see "Narrative
+rules (Acts)" below for how its genre (third-person historical narrative, not first-person epistles)
+required a new distinction the epistle rules never needed.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
@@ -1124,6 +1128,80 @@ one a deliberate exception (two compound "my Father, the God of X" titles, the "
 a counterfeit figure false teachers preach, not a self-reference); zero residual "we/us/our" anywhere in
 the book, the first time that's been true for a letter this personal; zero residual
 "Jesus Christ"/"Lord Jesus"/"Christ Jesus"; zero unresolved dangling "Who/Whom/Which" verse-openers.
+
+## Narrative rules (Acts) — a different genre entirely, and a new distinction the epistles never needed
+
+Acts is not an epistle or the Gospels' third-person "he" for Jesus throughout — it is Luke's own
+third-person historical narrative, almost entirely about *other people's* speeches, sermons, and
+prayers (Peter's, Stephen's, Paul's, James's, an angel's, a demon's). Read against Elmer Towns'
+entire Acts chapter (`Chapter045.html`, "My Legacy," his single continuous narrative covering all
+28 KJV chapters) before drafting. Critical finding from that read: Towns achieves his "Jesus voice"
+in Acts mainly through free paraphrase and invented devotional asides, not through pronoun-shifting
+— applying the literal, pronoun-only method this project uses everywhere else would leave most of
+the book essentially unchanged, since most of it is other people's quoted words. Checked this with
+the user before drafting (see the three-option check-in); the user chose the strict, literal-rules-only
+approach, matching the project's founding principle over Towns' technique.
+
+1. **Rule 3 (other people's quoted speech about Jesus stays third-person) is the single most
+   load-bearing rule in the whole book, by a wide margin.** Entire chapters are one continuous
+   quotation and convert nothing at all: Peter's Pentecost sermon (2:14-40), his temple and council
+   speeches (3:12-26, 4:8-12, 5:29-32), Stephen's 52-verse defense (7:2-53), James's Jerusalem
+   Council ruling with its Amos citation (15:13-21), the council's letter (15:23-29), Paul's
+   Areopagus sermon (17:22-31), his farewell to the Ephesian elders (20:18-35, the whole chapter),
+   and — the sharpest case — Paul's own two later retellings of his Damascus road conversion before
+   Agrippa and the Jerusalem crowd (22:1-21, 26:1-29) stay completely unconverted even though they
+   are already first person and even embed Jesus's own quoted words ("I am Jesus of Nazareth, whom
+   thou persecutest") — because the *speaker* is Paul recounting the event, not Luke narrating it
+   directly. Three whole chapters (20, 22, 26) needed zero conversions for this reason, and a fourth
+   (25) needed zero because it is entirely Festus/Agrippa/Paul's legal exchange with no narrator
+   references to God/Jesus at all.
+2. **The new distinction this book required: separating Luke's own narration (converts) from
+   everyone else's direct quoted speech (Rule 3, never converts) — including Luke's *indirect*
+   discourse summarizing what someone preached or believed**, which still counts as his narration
+   and converts. "[Apollos] testified to the Jews that Jesus was Christ" (18:5) → "that I was
+   Christ"; "he preached unto them Jesus" (17:18) → "he preached unto them me"; "declared... what
+   things God had wrought" (15:12, 21:19) → "my Father had wrought." The test throughout: is this
+   Luke telling the reader what happened/was believed, or is this someone's actual words being
+   quoted? Only the former converts.
+3. **A deliberate Father/Son split for Luke's own narration, carried consistently for all 28
+   chapters**: "the Lord" in narration → "me/I" (Christ); "God" in narration → "my Father." So "an
+   angel of the Lord" (12:23) → "an angel of mine," but "an angel of God" (10:3) → "an angel of my
+   Father"; "believed on the Lord" (18:8) → "believed on me," but "worshipped God" (18:7) → "worshipped
+   my Father." One deliberate cross-cutting exception: **"the word of God"/"the word of the Lord"/"the
+   doctrine of the Lord," as a fixed idiom for the preached gospel message, always collapses to "my
+   word"/"my doctrine" regardless of which of the two KJV words is used** (13:12, 13:44, 13:48-49,
+   15:35, 17:13, 18:11, 19:10, 19:20) — since the content preached is specifically about Christ either
+   way, unlike "grace of God" or "way of God," which keep the Father/Son split.
+4. **Ambiguous or unidentified voices are left conservatively unconverted.** The vision-voice
+   speaking to Peter in 10:13/10:15 ("What God hath cleansed...") is never named "the Lord" or
+   "Jesus" in the text itself, so it stays as-is rather than guessing which Person is speaking.
+   "The Spirit" alone, without "of God" or "of the Lord" attached (8:29, 10:19, 16:6-7, 20:23), is
+   left as a distinct-Person title, matching the convention already established in 1 John/Jude for
+   not folding every Spirit-reference into "my Spirit."
+5. **The same narration-vs-quote line holds even inside one continuous scene**: at Stephen's death,
+   Luke's own narration (7:55, "saw the glory of my Father, and me standing on the right hand")
+   converts, but Stephen's own exclamation of the identical vision one verse later (7:56, "the Son of
+   man standing on the right hand of God") stays completely unconverted, because it is now his quoted
+   words, not Luke's narration — the same vision, two different grammatical treatments, both correct
+   under Rule 3.
+6. **A vision or angel's own direct words to a human are already first person and stay untouched**,
+   same as Jesus's speech everywhere else in the project — Ananias's vision (9:10-16), Cornelius's
+   angel (10:3-6), Paul's Macedonian vision (16:9-10, where only the narration frame "assuredly
+   gathering that I had called us" converts, not the man's own quoted plea), and the angel on the
+   ship (27:23-24, entirely inside Paul's own protected retelling, so it stays unconverted along with
+   the rest of his speech).
+7. **The established "kingdom of God" fixed-idiom exception (from Mark) recurs constantly** — 1:3,
+   1:6, 8:12, 14:22, 19:8, 20:25, 28:23, 28:31 — and citations stay exactly as quoted regardless of
+   pronoun, same rule as every prior book (7:32-34's God-speaking-to-Moses citation, Isaiah 6:9-10 in
+   28:26-27).
+
+Verification run: 1007/1007 verses present, chapter-by-chapter counts match `KJV.json` exactly for
+all 28 chapters (26/47/26/37/42/15/60/40/43/48/30/25/52/28/41/40/34/28/41/38/40/30/35/27/27/32/44/31).
+Residual "God"/"Christ"/"Jesus"/"Lord" survivors (185 verses) were checked individually and every one
+falls under Rule 3 protected speech, the "kingdom of God" idiom, a citation, or Rule 4 address-to-Jesus
+— none is a missed narration conversion. Three chapters (20, 22, 26) and one more (25) needed zero
+conversions at all, the first time in the project a whole chapter has come back completely unchanged,
+confirming just how narration-sparse this book is compared to the epistles.
 
 ## Verification run on Mark
 
