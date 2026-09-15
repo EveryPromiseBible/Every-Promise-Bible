@@ -1,5 +1,38 @@
 # CHANGELOG
 
+## 2026-09-15 — Jesus Bible: 1 & 2 Thessalonians drafted (136 verses), the first genuinely co-authored letters
+
+Read Elmer Towns' chapters for both letters (`Chapter053.html`, "I Am Coming Again"; `Chapter054.html`,
+"Who Saves From Tribulation") in full before drafting either. Both letters open "Paul, and Silvanus, and
+Timotheus" -- the first books in the project actually sent by three named people, not one author using an
+editorial "we" the way 2 Corinthians' co-salutation still worked out to be Paul alone.
+
+The 1/2 Corinthians lesson -- Paul's collective "we/us/our" narrows to singular demoted "Paul," never a
+plural "they" -- turned out to answer the obvious question a real trio raises, confirmed by Towns
+narrating the whole founding visit, the persecution at Philippi, and the longing to return through "Paul"
+alone throughout both chapters. "We beseech/exhort/command you... by the Lord Jesus" (1 Thess 4:1-2, 2
+Thess 3:6, 3:12) is Paul invoking Christ's authority, not Jesus narrating Himself -- the same 1 Timothy
+5:21/6:13 test (can the speaker coherently invoke Christ as a separate authority?) demotes the frame to
+Paul and leaves the title unconverted.
+
+1 Thessalonians 4:13-18, the rapture passage, runs entirely in Jesus's own voice, confirmed word for word
+against Towns ("since you believe that I died for you and rose again... I will come down from heaven with
+a shout"). "We which are alive and remain unto the coming of the Lord" (4:15, 4:17) converts to "ye which
+are alive and remain" -- the Romans/Galatians self-inclusion rule, since Jesus is the one coming down, not
+one of the raptured. 5:10's "Who died for us" needed the established dangling-relative-pronoun
+restructuring into "I died for you." 2 Thessalonians 2's antichrist passage splits "God" verse by verse:
+2:4's "all that is called God" converts to "my Father," but the same verse's "he as God sitteth in the
+temple of God, shewing himself that he is God" stays unconverted three times running, matching Towns
+leaving the antichrist's own false claim to generic deity alone right after converting the first instance.
+
+89/89 and 47/47 verses verified against `KJV.json` (chapter counts 10/20/13/18/28 and 12/17/18), wired
+into `data/jesus.js` (21 books, 159 chapters total now, plus `JESUS_INTROS` entries for both), and
+live-tested through the KJV dot toggle across all 1,255 chapter destinations in both states (2,510 loads,
+zero errors) -- confirmed visually too, toggling 1 Thessalonians 4 on and off in the browser. Every
+residual "God"/"Lord Jesus Christ" survivor checked and is a deliberate exception (the fixed titles, the
+kingdom-of-God idiom, the antichrist's self-claim, the invoked-authority phrasing); zero residual
+"we/us/our" outside those same invoked-title verses.
+
 ## 2026-09-14 — Jesus Bible: closer re-read of Acts finds two fixes
 
 Applied the standard closer full-text re-read to Acts (every verse checked side by side against

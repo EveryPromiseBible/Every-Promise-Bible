@@ -85,12 +85,62 @@ rules" section below same as the original 16. See the Progress table below.
 | 1 Corinthians | 437 | done |
 | 2 Corinthians | 257 | done |
 | Acts | 1007 | done |
+| 1 Thessalonians | 89 | done |
+| 2 Thessalonians | 47 | done |
 
 **All 16 books Wuest covered are done.** 1 Corinthians, 2 Corinthians, and Acts are the first books
 added beyond that original scope, at the user's request, covering the rest of the New Testament book
 by book. Acts is the longest book in the project and the first non-epistle extension — see "Narrative
 rules (Acts)" below for how its genre (third-person historical narrative, not first-person epistles)
 required a new distinction the epistle rules never needed.
+
+## Epistle rules (1 & 2 Thessalonians) — the first genuinely co-authored letters, and the Corinthians "narrow to one" lesson confirmed for a real trio
+
+Read against Elmer Towns' actual chapters for both letters (`Chapter053.html`, "I Am Coming Again";
+`Chapter054.html`, "Who Saves From Tribulation") complete before any verse was written. Both letters open
+"Paul, and Silvanus, and Timotheus" — the first books in the project actually sent by three named
+people, not one author using an editorial "we" the way 2 Corinthians' "Timothy, a brother" co-salutation
+still worked out to be Paul speaking alone.
+
+1. **The collective "we/us/our" that runs through nearly every verse of personal report narrows to
+   singular, demoted "Paul," never a plural "they" for the three senders together** — the same lesson
+   1 and 2 Corinthians already established (Paul's "we" narrows to "he," not a group), now applied to a
+   letter where a real trio might have been the more obvious reading. Confirmed by Towns, who narrates
+   the entire founding visit, the persecution at Philippi, the working with his own hands, and the
+   longing to return, through "Paul" alone throughout both chapters, never distinguishing Silvanus's or
+   Timothy's own part in the "we." Only 3:1-2's "when we could no longer forbear... sent Timotheus" keeps
+   its plain sense (Paul deciding to send Timothy) once narrowed to a single actor.
+2. **"We beseech/exhort/command you... by the Lord Jesus" (1 Thess 4:1-2, 2 Thess 3:6, 3:12) is Paul
+   invoking Christ's authority for an instruction, not Jesus narrating Himself** — the same test 1 Timothy
+   5:21/6:13 established (can the speaker coherently invoke Christ as a separate authority alongside their
+   own voice?). Each instance demotes the frame to "Paul" and leaves "the Lord Jesus"/"our Lord Jesus
+   Christ" as an unconverted invoked title, rather than converting to a self-referential "by me."
+3. **The rapture passage (1 Thess 4:13-18) runs entirely in Jesus's own first-person voice**, confirmed
+   word for word against Towns (*"since you believe that I died for you and rose again... I will come
+   down from heaven with a shout"*), including the verse that introduces it (4:13's "I would not have you
+   to be ignorant" stays Jesus's own address rather than demoting like the surrounding personal material,
+   since it opens the doctrinal teaching rather than reporting Paul's own circumstance). **"We which are
+   alive and remain unto the coming of the Lord" (4:15, 4:17) converts to "ye which are alive and remain"**
+   — the Romans/Galatians self-inclusion rule, since Jesus is the one coming down, not one of the raptured,
+   the same logic that turned Romans 8:23's "we... groan" into "ye... groan." 5:10's "Who died for us"
+   needed the same dangling-relative-pronoun restructuring as Romans 3:25/Colossians 1:15 ("I died for
+   you," not "Who died for us" hanging off the previous verse's "me").
+4. **2 Thessalonians 2's antichrist passage splits "God" verse by verse, confirmed against Towns**: 2:4's
+   first "all that is called God" converts to "my Father" (Towns: *"oppose everything about My Father"*),
+   but the same verse's "he as God sitteth in the temple of God, shewing himself that he is God" stays
+   unconverted three times running — a false claim to generic deity the antichrist makes, not a title
+   belonging to the Father, matching Towns leaving "worshiped as God... temple of God... he is God" alone
+   immediately after converting the first instance.
+5. **"The kingdom of God" (2 Thess 1:5) stays the established fixed idiom**, unconverted, same as every
+   earlier book.
+
+Verification run: 89/89 and 47/47 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(10/20/13/18/28 and 12/17/18). Residual "God" (4 total, 1 Thess 1:9's "the living and true God," 1 Thess
+5:23's "the very God of peace," 2 Thess 1:5's "kingdom of God" idiom, 2 Thess 2:4's triple antichrist
+self-claim) and residual "Lord Jesus"/"Lord Jesus Christ" (4 total, 1 Thess 4:1/4:2, 2 Thess 3:6/3:12,
+all the invoked-authority exception) are every one a deliberate exception; zero residual "we/us/our"
+outside those same invoked-title verses' own "our"; zero unresolved dangling "Who/Whom/Which"
+verse-openers; zero false-present-state hits on the "is/am dead/come/risen/gone/fled/departed" family.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
