@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 2026-09-14 — Jesus Bible: closer re-read of Acts finds two fixes
+
+Applied the standard closer full-text re-read to Acts (every verse checked side by side against
+`KJV.json`, not just the judgment-call spot-checks from the standard audit), plus a full re-read of
+Elmer Towns' Acts chapter to double-check judgment calls a second time -- Towns' paraphrase style
+didn't add new verse-level guidance, as expected, but the side-by-side KJV comparison caught two real
+issues. 1:4 had silently dropped the clause "which, saith he," instead of converting it to "which,
+saith I,", losing a few words rather than shifting the pronoun in place -- fixed to keep the full KJV
+clause. 11:23 and 13:43 rendered "the grace of God" as "my grace" instead of "my Father's grace,"
+inconsistent with the identical phrase at 14:26 and 15:40 in the same book, both of which correctly
+apply the Father/Son narration split ("of God" -> "my Father's X"). Fixed both to "my Father's grace"
+for consistency; re-verified against `KJV.json` (1,007/1,007 verses, all 28 chapters) and re-tested
+live (2,378 loads, zero errors).
+
 ## 2026-09-14 — Jesus Bible: Acts drafted (1,007 verses, all 28 chapters)
 
 The longest book in the project, and the first extension past pure epistles -- Acts is Luke's own

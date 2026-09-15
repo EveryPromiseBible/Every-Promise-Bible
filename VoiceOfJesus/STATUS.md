@@ -1203,6 +1203,29 @@ falls under Rule 3 protected speech, the "kingdom of God" idiom, a citation, or 
 conversions at all, the first time in the project a whole chapter has come back completely unchanged,
 confirming just how narration-sparse this book is compared to the epistles.
 
+## Closer full-text re-read of Acts finds two fixes
+
+Applied the standard closer-read pass (every verse checked against `KJV.json` side by side, not just
+judgment-call spot-checks) plus a full re-read of Elmer Towns' Acts chapter to cross-check judgment
+calls a second time. Towns' heavy paraphrase style didn't surface any new verse-level guidance (as
+expected — his technique is paraphrase, not pronoun-shifting, so it can't validate literal conversions
+directly), but the side-by-side KJV comparison caught two real issues:
+
+1. **1:4 had dropped the clause "which, saith he," instead of converting it** — the draft read "wait
+   for the promise of my Father, which ye have heard of me," silently deleting the speech-tag rather
+   than converting "he" to "I" the way every other narrator's-voice-tag has been handled throughout
+   the whole project. Fixed to "which, saith I, ye have heard of me," preserving the KJV clause with
+   only the pronoun shifted, consistent with the keep-the-wording, shift-only-the-person principle
+   used everywhere else.
+2. **11:23 and 13:43 rendered "the grace of God" as "my grace" instead of "my Father's grace,"
+   inconsistent with the identical KJV phrase at 14:26 and 15:40** (both correctly converted to "my
+   Father's grace" under the Father/Son narration split documented above). "The grace of God" is not
+   part of the "word of God"/"word of the Lord" message-idiom exception (which always collapses to
+   "my word" regardless of Father/Son, since the content preached is specifically about Christ) — it's
+   an ordinary "of God" possessive and should follow the general rule. Both verses fixed to "my
+   Father's grace" for consistency; re-verified against `KJV.json` (1007/1007 verses, all 28 chapters
+   still match) and re-tested live (2,378 loads, zero errors).
+
 ## Verification run on Mark
 
 - 678/678 verses present, chapter-by-chapter counts match `KJV.json` exactly.
