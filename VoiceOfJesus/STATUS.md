@@ -89,6 +89,7 @@ rules" section below same as the original 16. See the Progress table below.
 | 2 Thessalonians | 47 | done |
 | James | 108 | done |
 | Philemon | 25 | done |
+| Revelation | 404 | done |
 
 **All 16 books Wuest covered are done.** 1 Corinthians, 2 Corinthians, and Acts are the first books
 added beyond that original scope, at the user's request, covering the rest of the New Testament book
@@ -293,6 +294,86 @@ the cleanest scan yet. Zero unresolved dangling "Who/Whom/Which" verse-openers (
 to the named "Onesimus," not a converted pronoun). Wired into `data/jesus.js` (23 books, 165 chapters) and
 tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors), plus a visual
 check on Philemon 1 toggled on and off in the browser.
+
+## Narrative rules (Revelation) — a genre neither epistle nor Gospel, and a genre check-in with the user before drafting
+
+Revelation is not like anything else in this project. It is not an epistle (no personal correspondence),
+not a Gospel (Jesus is not the narrator describing His own earthly acts), and not quite Acts either —
+Acts has an anonymous third-person narrator (Luke), but Revelation's narrator **names himself and speaks
+in the first person throughout**: "I John... was in the isle called Patmos" (1:9), "I John saw these
+things, and heard them" (22:8). Converting that "I" to Jesus's own voice would be incoherent — Jesus
+cannot narrate seeing a vision of Himself that was shown *to* someone else. This genre mismatch was
+checked with the user before drafting, the same way Acts' mismatch was, rather than assumed.
+
+Read against Elmer Towns' entire Revelation chapter (`Chapter067.html`, "I Am Jesus — The Lamb of God",
+his single continuous narrative spanning all 22 KJV chapters) before drafting. Towns' own practice settled
+the question cleanly and consistently across all 22 chapters: he demotes John's own act of seeing/hearing
+to third person throughout ("John saw... John heard... John fell at My feet"), while any narration
+*about Christ himself acting* within the vision converts normally to "I" (KJV's "I saw when the Lamb
+opened one of the seals" becomes Towns' "When I broke the first seal"). This is the approach used.
+
+1. **John's own perception verbs ("I saw/heard/beheld/looked/wept/fell/wondered") demote to third-person
+   "John" throughout all 22 chapters** — the same treatment this project already gives named human
+   authors' personal/circumstantial material (Hebrews' "the writer," 2/3 John's "the elder," 1 John
+   1:1-4's eyewitness claims), just applied continuously here since John's testimony *is* the whole book,
+   not an occasional aside. "Talked with me"/"said unto me" (other speakers addressing John) likewise
+   demotes to "him."
+2. **Within that demoted narration, any reference to Christ's own action or appearance converts to "I,"
+   matching the Gospel-narrative default** — "one like unto the Son of man" standing among the
+   candlesticks becomes "I, the Son of man" (1:13, the same self-merge rule 6 has used since Mark);
+   "a Lamb... stood" becomes "stood I, a Lamb" (5:6); "he that sat on the cloud" becomes "I that sat on
+   the cloud" (14:16); "he that sat upon the horse" becomes "me/mine" throughout 19:11-21's description
+   of the Rider on the white horse.
+3. **"Him that sat on the throne" / "he that liveth for ever and ever" — the vision's recurring
+   periphrasis for the Father, kept visually distinct from "the Lamb" throughout chapters 4-5 and
+   beyond — converts to "my Father" whenever it appears in the narrator's own descriptive prose**,
+   confirmed by Towns naming this figure "My Father" directly and repeatedly ("My Father was sitting on
+   the throne... Coming from Him were white glistening rays"). Plain "God" converts to "my Father" by
+   the same standing default used in every prior book.
+4. **The single most load-bearing rule, by far, is Rule 3 (other speakers' quoted words about Jesus stay
+   third-person)** — Revelation is saturated with worship songs, cries, and doxologies from the four
+   living creatures, the twenty-four elders, angels, martyrs, and "every creature," and every one of
+   these stays exactly as quoted, unconverted, even where it names "the Lamb" or "our God" in the third
+   person while Christ narrates the surrounding prose. The elders' new song (5:9-10), "Worthy is the
+   Lamb" (5:12-13), the terrified kings' cry (6:16-17), the sealed multitude's cry (7:10-12), every
+   "Alleluia" chorus in chapter 19, and the Father's own separate quoted speech (21:5-8, once "he that
+   sat upon the throne" is introduced) all stay untouched — a second Person's own words, not the
+   narrator's.
+5. **Two genuinely new patterns this book required that no prior book did**: first, a **hypothetical
+   self-naming apposition** for titles introducing the seven letters — "These things saith he that
+   holdeth the seven stars" (2:1) becomes "These things say I that hold the seven stars," extended
+   through "I, the Son of God" (2:18), "I that have the seven Spirits of my Father" (3:1), and "I that am
+   holy, I that am true" (3:7) — matching the "I, the Son of man" self-merge already established but
+   applied to a whole new family of titles unique to this book. Second, **explicit Towns confirmation
+   overriding the plain-grammar default in a few cases where "God" is not the Father**: 18:8's "strong is
+   the Lord God who judgeth her" becomes Christ's own self-naming ("strong am I, the Lord God"), and
+   22:18-19's "God shall add unto him the plagues... God shall take away his part" both convert to "I
+   shall," confirmed by Towns rendering both as Christ's own first-person warning rather than the
+   Father's.
+6. **Two judgment calls followed the plain KJV grammar over Towns' looser dramatization**, on the
+   established principle that a clear grammatical subject outweighs a free paraphrase: 7:13-17's elder
+   answering John's question ("he said to me, These are they which came out of great tribulation...")
+   stays the elder's own third-person quoted answer, even though Towns restructures the scene into Jesus
+   Himself answering John directly — the KJV's "one of the elders answered... he said to me" is
+   grammatically unambiguous about who is speaking. Similarly, several "ambiguous voice" verses (16:1,
+   16:17, 19:5, 21:3-4) with no named speaker were left conservatively unconverted, matching the Acts
+   precedent for unidentified voices rather than guessing.
+7. **The established citation and fixed-idiom rules recur throughout**: "the Lord's day" (1:10) stays a
+   fixed idiom; the beast/dragon/false-prophet material needs no conversion at all, since none of it is
+   about Christ or the narrator; self-inclusion is not a live issue in this book the way it was in the
+   epistles, since there is no collective "we" of shared human weakness for Christ to avoid — the
+   handful of "we/us/our" instances that survive are all inside other speakers' quoted worship, not the
+   narrator's own claim.
+
+Verification run: 404/404 verses present, chapter-by-chapter counts match `KJV.json` exactly for all 22
+chapters (20/29/22/11/14/17/17/13/21/11/19/17/18/20/8/21/18/24/21/15/27/21). Residual "God" (39 instances)
+and "Christ"/"Jesus" (6 instances) were checked individually and every one is either a deliberate
+self-naming/compound-title exception or falls inside another speaker's protected quoted words (Rule 3);
+residual "we/us/our" (13 instances) are all inside quoted worship/cries, none in the narrator's own voice;
+zero unresolved dangling "Who/Whom/Which" verse-openers (both survivors point to a named antecedent or
+are self-contained rhetorical questions inside a quotation); zero false-present-state hits. Wired into
+`data/jesus.js` (24 books, 187 chapters) and tested live across all 1,255 chapter destinations in both
+states (2,510 loads, zero errors), plus a visual check on Revelation 5 toggled on and off in the browser.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 

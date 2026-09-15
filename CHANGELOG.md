@@ -1,5 +1,37 @@
 # CHANGELOG
 
+## 2026-09-15 — Jesus Bible: Revelation drafted (404 verses, all 22 chapters)
+
+The book that needed its own genre decision before drafting -- checked with the user
+first, the same way Acts did. Revelation is neither epistle nor Gospel: John names himself and narrates
+in the first person throughout ("I John... was in the isle called Patmos"), and Jesus cannot coherently
+narrate seeing a vision of Himself shown to someone else. Read Elmer Towns' entire Revelation chapter
+(`Chapter067.html`, "I Am Jesus -- The Lamb of God") before drafting, and his practice settled it: demote
+John's own seeing/hearing to third person throughout ("John saw... John heard"), while any narration
+*about Christ's own action* within the vision converts to "I" (KJV's "I saw when the Lamb opened one of
+the seals" becomes "When I broke the first seal"). That's the approach used, confirmed across all 22
+chapters.
+
+"Him that sat on the throne" -- the vision's recurring name for the Father, kept visually distinct from
+"the Lamb" throughout -- converts to "my Father" in the narrator's own prose, confirmed by Towns naming
+this figure "My Father" directly and repeatedly. By far the most load-bearing rule was Rule 3 (other
+speakers' quoted words stay third-person): Revelation is saturated with worship songs and cries from the
+four living creatures, the twenty-four elders, angels, and martyrs, and every one of them stays exactly
+as quoted even when it names "the Lamb" in the third person while Christ narrates around it. Two new
+patterns this book required: a self-naming apposition for the seven letters' opening titles ("These
+things saith he that holdeth the seven stars" becomes "These things say I that hold the seven stars"),
+and a couple of places (18:8, 22:18-19) where Towns confirmed Christ's own self-naming voice over the
+plain-grammar default. Two places went the other way -- 7:13-17's elder answering John stayed the
+elder's own third-person words even though Towns dramatizes it as Jesus answering directly, since the
+KJV's grammar ("he said to me") is unambiguous about who's speaking.
+
+404/404 verses verified against `KJV.json` across all 22 chapters, wired into `data/jesus.js` (24 books,
+187 chapters -- Matthew, Luke, and John remain), and live-tested through the KJV dot toggle across
+all 1,255 chapter destinations in both states (2,510 loads, zero errors), plus a visual check on
+Revelation 5. Every one of the 39 residual "God" and 6 residual "Christ"/"Jesus" instances checked
+individually and confirmed a deliberate exception (self-naming, compound title, or another speaker's
+protected quotation).
+
 ## 2026-09-15 — Jesus Bible: Philemon drafted (25 verses), the shortest and most personal letter yet
 
 Read Elmer Towns' Philemon chapter (`Chapter058.html`, "I Am Jesus -- The Forgiver") in full before
