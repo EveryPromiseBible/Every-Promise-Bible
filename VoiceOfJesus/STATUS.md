@@ -88,6 +88,7 @@ rules" section below same as the original 16. See the Progress table below.
 | 1 Thessalonians | 89 | done |
 | 2 Thessalonians | 47 | done |
 | James | 108 | done |
+| Philemon | 25 | done |
 
 **All 16 books Wuest covered are done.** 1 Corinthians, 2 Corinthians, and Acts are the first books
 added beyond that original scope, at the user's request, covering the rest of the New Testament book
@@ -252,6 +253,46 @@ exception; zero unresolved dangling "Who/Whom/Which" verse-openers (3:13's is a 
 question, not a continuation); zero false-present-state hits. Wired into `data/jesus.js` (22 books, 164
 chapters) and tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors),
 plus a visual check on James 2 toggled on and off in the browser.
+
+## Epistle rules (Philemon) — a real trio (Paul, Timothy, Philemon) with almost no doctrinal content at all
+
+Read against Elmer Towns' actual Philemon chapter (`Chapter058.html`, "I Am Jesus — The Forgiver")
+complete before any verse was written. Philemon is the shortest and most personal letter in the project —
+one man's plea to another about a runaway slave — with almost nothing in it that isn't Paul's own specific
+circumstance, confirmed by Towns naming "Paul" throughout nearly the whole letter (*"Paul boldly asks a
+favor... Paul requests kindness be shown to Onesimus... Paul is sending Onesimus back to you"*).
+
+1. **Nearly every verse demotes to third-person "Paul,"** the heaviest proportion of any book since 3
+   John, matching that letter's precedent rather than James's opposite extreme. Only the salutation's
+   grace-formula (1:3) and the closing benediction (1:25) — both fixed liturgical phrases identical in
+   shape to every other letter's opening/closing — stay untouched by the demotion, converting "God our
+   Father and the Lord Jesus Christ" to "my Father and me" the same way every prior book's salutation has.
+2. **1:9's KJV already names "Paul" mid-sentence in the original text** ("being such an one as Paul the
+   aged") — a rhetorical self-naming device Paul himself uses. Demoting the surrounding "I" to "he"
+   preserves this exactly as a demoted narrator now describing the already-self-named Paul, with no
+   collision or awkwardness introduced.
+3. **1:17's "receive him as myself" and 1:19's "I Paul have written it with mine own hand" both needed
+   explicit disambiguation rather than a plain pronoun**, the same category as Philippians 2:22/2:27 and
+   Colossians 4:11 — "receive him as myself" would read as Onesimus receiving himself once demoted, so it
+   became "receive Onesimus as thou wouldest receive Paul"; "I Paul have written" collapses cleanly to
+   "Paul hath written it with his own hand," confirmed by Towns fully demoting the same verse (*"Paul did
+   not mention that you owe him your very life"*) rather than treating it like Colossians 4:18's "of me
+   Paul" signature, which stayed a deliberate unconverted exception in that book.
+4. **1:22's personal request for lodging stays in Paul's own unconverted first-person voice**, confirmed
+   by Towns framing it as Paul's direct quoted words (*"Paul added one more request: 'Get a room ready for
+   me, and pray God will send me to see you.'"*) rather than demoting it like the surrounding material —
+   the same category as Colossians 4:18 and Galatians 2:14's precedent for Paul's own directly-quoted
+   personal asides.
+5. **Every other instance of "the Lord"/"Christ Jesus"/"Jesus Christ" converts to "me" by the standard
+   default**, with no compound titles or creedal exceptions needed anywhere in a letter this short and
+   this personal — the cleanest, simplest conversion pattern of any book in the project.
+
+Verification run: 25/25 verses present, matching `KJV.json` exactly. **Zero** residual
+"God"/"Christ"/"Jesus"/"Lord"/"we"/"us"/"our" anywhere in the book — every instance converted or demoted,
+the cleanest scan yet. Zero unresolved dangling "Who/Whom/Which" verse-openers (1:11-13's all point back
+to the named "Onesimus," not a converted pronoun). Wired into `data/jesus.js` (23 books, 165 chapters) and
+tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors), plus a visual
+check on Philemon 1 toggled on and off in the browser.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 

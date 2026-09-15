@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-09-15 — Jesus Bible: Philemon drafted (25 verses), the shortest and most personal letter yet
+
+Read Elmer Towns' Philemon chapter (`Chapter058.html`, "I Am Jesus -- The Forgiver") in full before
+drafting. Philemon is one man's plea to another about a runaway slave, and almost nothing in it isn't
+Paul's own specific circumstance -- confirmed by Towns naming "Paul" throughout nearly the entire
+letter. Nearly every verse demotes to third-person "Paul," the heaviest proportion since 3 John; only
+the opening grace and closing benediction, fixed liturgical phrases identical in shape to every other
+letter's, stay untouched by the demotion.
+
+Two verses needed the explicit-naming fix Philippians and Colossians already established for pronoun
+collisions: "receive him as myself" would read as Onesimus receiving himself once demoted, so it became
+"receive Onesimus as thou wouldest receive Paul"; "I Paul have written it with mine own hand" collapses
+to "Paul hath written it with his own hand," confirmed by Towns fully demoting that verse rather than
+treating it like Colossians 4:18's "of me Paul" signature, which stayed unconverted in that book. One
+verse -- the personal request for lodging (1:22) -- stays in Paul's own unconverted first-person voice,
+confirmed by Towns quoting it as Paul's direct words, the same category as Colossians 4:18 and Galatians
+2:14's precedent.
+
+25/25 verses verified against `KJV.json`, wired into `data/jesus.js` (23 books, 165 chapters), and
+live-tested through the KJV dot toggle across all 1,255 chapter destinations in both states (2,510
+loads, zero errors), plus a visual check on Philemon 1 in the browser. Zero residual
+"God"/"Christ"/"Jesus"/"Lord"/"we"/"us"/"our" anywhere -- the cleanest scan of any book in the project.
+
 ## 2026-09-15 — Jesus Bible: James drafted (108 verses), the least biographical letter yet
 
 Read Elmer Towns' James chapter (`Chapter060.html`, "I Am Jesus -- Who Saves You") in full before
