@@ -255,6 +255,16 @@ question, not a continuation); zero false-present-state hits. Wired into `data/j
 chapters) and tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors),
 plus a visual check on James 2 toggled on and off in the browser.
 
+**A closer, user-requested re-read found no corrections needed.** Three candidate changes were
+specifically checked against Towns and rejected: 2:21's "Abraham our father" stays unconverted (true of
+Jesus too by physical descent, the established Romans/Galatians exception) even though Towns addresses
+the readers as "your father Abraham" — a stylistic address choice, not a correction; 3:3-5's illustrative
+"we put bits in the horses' mouths" stays as an analogy (rule 7 territory, not a sin-condition claim)
+even though Towns generalizes it to impersonal "People"; and 5:19-20's mutual restoration ("if any of you
+do err... and one convert him") stays entirely third-person, human-to-human, matching 5:16's "confess
+your faults one to another" theme, even though Towns recasts it as Christ's own restoring action — the
+KJV's "one" clearly names an unspecified fellow believer, not the narrator.
+
 ## Epistle rules (Philemon) — a real trio (Paul, Timothy, Philemon) with almost no doctrinal content at all
 
 Read against Elmer Towns' actual Philemon chapter (`Chapter058.html`, "I Am Jesus — The Forgiver")
@@ -294,6 +304,12 @@ the cleanest scan yet. Zero unresolved dangling "Who/Whom/Which" verse-openers (
 to the named "Onesimus," not a converted pronoun). Wired into `data/jesus.js` (23 books, 165 chapters) and
 tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors), plus a visual
 check on Philemon 1 toggled on and off in the browser.
+
+**A closer, user-requested re-read found no corrections needed**, and confirmed one deliberate departure
+from Towns: 1:25's closing benediction stays "My grace be with your spirit," matching the uniform
+conversion every other epistle in the project has used for its closing grace, even though Towns frames
+this specific one as "Paul concludes by praying, 'The grace of our Lord Jesus Christ be with you'" — a
+single narrative framing choice was judged too weak to break an otherwise unbroken 20-book pattern.
 
 ## Narrative rules (Revelation) — a genre neither epistle nor Gospel, and a genre check-in with the user before drafting
 
@@ -374,6 +390,29 @@ zero unresolved dangling "Who/Whom/Which" verse-openers (both survivors point to
 are self-contained rhetorical questions inside a quotation); zero false-present-state hits. Wired into
 `data/jesus.js` (24 books, 187 chapters) and tested live across all 1,255 chapter destinations in both
 states (2,510 loads, zero errors), plus a visual check on Revelation 5 toggled on and off in the browser.
+
+**A closer, user-requested re-read (re-reading Towns' full chapter a second time against the draft, the
+same discipline applied to Thessalonians) found one real fix, in the one passage of the book with a
+genuine mid-scene speaker change.** 21:5's "he that sat upon the throne said, Behold, I make all things
+new. And he said unto me, Write..." reads grammatically as one continuous speaker (the Father, established
+by that same title at 4:9-10 and elsewhere) through 21:5-8. But Towns splits it explicitly and repeatedly:
+*"Then My Father, who sits on the throne, announced, 'I am making everything new!' Then I told John,
+'Write this down...' Just as I said on the cross about sin, 'It is finished,' so I will say... Then I
+said, 'I am the Alpha and Omega...'"* — the Father speaks only the first sentence, then Christ Himself
+takes over for the "Write" command and the "It is done... Alpha and Omega" declaration, tying it explicitly
+to His own cross-cry. Fixed 21:5's "And he said unto him, Write" and 21:6's "And he said unto him, It is
+done" to "And I said unto him," since the narrator (Christ) is now the one speaking, not reporting the
+Father's continued words. 21:7's already-first-person content needed no change. Every other Father/Son
+attribution in the book was checked again against this same standard and held up, including two places
+that looked like candidates for change but weren't: 5:9-10's elders' song ("hast redeemed us... we shall
+reign") stays entirely unconverted, since the "us/we" there is the singers' own self-reference addressing
+Christ as "thou," not a false claim in Jesus's own mouth, despite Towns loosely generalizing it to "them"
+in his paraphrase; and 7:13-17's elder answering John's question stays the elder's own third-person
+answer, not Jesus answering directly, since the KJV's "he said to me" is grammatically unambiguous about
+who is speaking even though Towns dramatizes it as a direct Jesus-John exchange.
+
+Re-verified after the fix: still 404/404 verses, chapter counts unchanged, re-spliced into `data/jesus.js`
+and re-tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors).
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 

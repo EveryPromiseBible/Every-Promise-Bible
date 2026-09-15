@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-09-15 — Jesus Bible: closer re-read of James, Philemon, and Revelation
+
+Extended today's closer-read discipline (already applied to 1 & 2 Thessalonians) to the three other books
+drafted today. James and Philemon came back clean -- several candidate changes were checked against Towns
+and rejected as stylistic paraphrase choices rather than corrections (James 2:21's "our father Abraham,"
+3:3-5's illustrative "we," 5:19-20's mutual restoration; Philemon 1:25's closing benediction, kept
+converted to match the uniform pattern every other epistle in the project uses).
+
+Revelation found one real fix, in the one passage of the book with a genuine mid-scene speaker change.
+21:5's "he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write..."
+reads as one continuous speaker (the Father) grammatically. But Towns splits it explicitly: the Father
+speaks only "I am making everything new," then Christ Himself takes over for the "Write" command and the
+"It is done... Alpha and Omega" declaration, tying it directly to His own cross-cry ("Just as I said on
+the cross about sin, 'It is finished,' so I will say... 'It is finished.'"). Fixed 21:5-6's "he said unto
+him" to "I said unto him" for both instances, since the narrator is now the one speaking. Two other
+candidates were checked and confirmed correct as originally drafted: 5:9-10's elders' song stays entirely
+unconverted (the "us/we" belongs to the singers addressing Christ as "thou," not a false claim in His own
+mouth), and 7:13-17's elder answering John stays third-person (the KJV's "he said to me" is unambiguous
+about who's speaking, even though Towns dramatizes it as Jesus answering directly).
+
+Re-verified: all three books still match their original verse counts, re-spliced into `data/jesus.js`,
+and re-tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors).
+
 ## 2026-09-15 — Jesus Bible: Revelation drafted (404 verses, all 22 chapters)
 
 The book that needed its own genre decision before drafting -- checked with the user
