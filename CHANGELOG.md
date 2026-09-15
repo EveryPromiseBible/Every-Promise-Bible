@@ -1,5 +1,33 @@
 # CHANGELOG
 
+## 2026-09-15 — Jesus Bible: James drafted (108 verses), the least biographical letter yet
+
+Read Elmer Towns' James chapter (`Chapter060.html`, "I Am Jesus -- Who Saves You") in full before
+drafting. James names its author once, in the salutation, and never again -- no travel plans, no
+companions, no personal aside anywhere in the letter. Towns confirms the same shape: he frames the whole
+book as Jesus's own voice from the opening line and never narrates "James" doing anything for the rest of
+it. That makes this the cleanest demoted-author boundary in the project so far -- just the letterhead,
+and nothing else.
+
+"God"/"the Lord" converts to Jesus's own "I/me" far more often than the usual "my Father" default,
+confirmed verse by verse: "ask of God" becomes "ask of me" (1:5), "hath not God chosen the poor" becomes
+"have not I chosen" (2:5), the whole "draw nigh to God... he will draw nigh to you" passage (4:7-10)
+becomes "draw nigh to me... I will draw nigh to you." Three constructions needed the self-naming
+apposition already used for "I, the Son of man" and 2 Thessalonians' "I myself, the Lord of peace": "the
+faith of our Lord Jesus Christ, the Lord of glory" (2:1), "there is one lawgiver" (4:12, "I am the one
+lawgiver"), and "the judge standeth before the door" (5:9, "I, the judge, stand before the door"). Every
+collective "we/us/our" describing shared human weakness converts to direct "ye" address, including 5:17's
+"subject to like passions as we are" -- Elijah shared ordinary human weakness with the readers, not with
+Jesus, whose humanity was without it. Two exceptions confirmed: "Abraham our father" (2:21, true of Jesus
+too by physical descent) and the illustrative "we put bits in the horses' mouths" (3:3-5, a generic
+analogy, not a moral claim). 1:13's "let no man say... I am tempted of God" needed the same
+direct-to-indirect restructuring 1 John 2:4/2:6 required, since "God" converting to "me" would otherwise
+collapse into "I am tempted of me."
+
+108/108 verses verified against `KJV.json` (chapter counts 27/26/18/17/20), wired into `data/jesus.js`
+(22 books, 164 chapters), and live-tested through the KJV dot toggle across all 1,255 chapter destinations
+in both states (2,510 loads, zero errors), plus a visual check on James 2 in the browser.
+
 ## 2026-09-15 — Jesus Bible: closer re-read of 1 & 2 Thessalonians finds nine fixes
 
 Re-read Towns' actual chapters for both letters a second time, verse by verse, cross-checking every

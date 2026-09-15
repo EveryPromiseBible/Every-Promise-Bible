@@ -87,6 +87,7 @@ rules" section below same as the original 16. See the Progress table below.
 | Acts | 1007 | done |
 | 1 Thessalonians | 89 | done |
 | 2 Thessalonians | 47 | done |
+| James | 108 | done |
 
 **All 16 books Wuest covered are done.** 1 Corinthians, 2 Corinthians, and Acts are the first books
 added beyond that original scope, at the user's request, covering the rest of the New Testament book
@@ -189,6 +190,68 @@ total: 1 Thess 1:9's "the living and true God," 1 Thess 5:23's "the very God of 
 Christ" (4 total, the four self-naming verses above) are every one a deliberate exception; re-spliced into
 `data/jesus.js` and re-tested live across all 1,255 chapter destinations in both states (2,510 loads, zero
 errors).
+
+## Epistle rules (James) — the least biographical letter yet, almost entirely Jesus's own direct voice
+
+Read against Elmer Towns' actual James chapter (`Chapter060.html`, "I Am Jesus — Who Saves You") complete
+before any verse was written. James names its author once (1:1) and never again refers to him personally
+anywhere in the letter — no travel plans, no companions, no "I planned to write" aside. Confirmed by
+Towns, who frames the whole letter as his own ("I inspired James, My half-brother, to write...") and then
+never once narrates "James" doing or saying anything for the rest of the book — every verse either stays
+Jesus's direct wisdom-teaching voice or a scripture citation, with no demoted-author material at all. This
+is the cleanest split yet between demoted-author and Jesus's-own-voice: rather than judgment calls
+scattered throughout (Hebrews, 1 John), the boundary is simply the salutation and nothing else.
+
+1. **The letterhead (1:1) keeps "James" as the self-identifying name**, matching the established Paul/
+   Peter/Jude convention, while "God" and "the Lord Jesus Christ" inside the same line convert normally
+   ("a servant of my Father, and of me").
+2. **"God"/"the Lord" converts to Jesus's own "I/me" far more often than "my Father" in this book**,
+   confirmed verse by verse against Towns: 1:5's "ask of God" → "ask of me" (*"ask Me for it, because I
+   liberally give you spiritual understanding"*), 1:7's "of the Lord" → "of me," 1:12's "the Lord hath
+   promised" → "I have promised," 2:5's "hath not God chosen" → "have not I chosen" (*"I love the poor of
+   this world"*), 4:4/4:7/4:8/4:10's "God" → "me/I" throughout the "draw nigh to God" passage (*"Draw near
+   to Me, as I draw near to you"*), 5:14/5:15/5:18's "the Lord" → "me/I" including "the church" → "my
+   church." Only 1:17/1:20/1:27's "the Father of lights"/"the righteousness of God"/compound titles and
+   3:9's two instances default to "my Father," and even 1:27 (*"pure religion... before God and the
+   Father"*) converts to "before me," confirmed by Towns (*"pure religion and be clean before Me"*) rather
+   than the more common Father default — a reminder the split is verified case by case, not assumed.
+3. **Three self-naming constructions, all confirmed by Towns explicitly asserting Christ's own titles**:
+   2:1's "the faith of our Lord Jesus Christ, the Lord of glory" → "the faith of me, the Lord of glory";
+   4:12's "There is one lawgiver" → "I am the one lawgiver" (*"I am the only Law-giver, and you are
+   accountable to Me"*); 5:9's "the judge standeth before the door" → "I, the judge, stand before the
+   door" (*"I Am the Judge standing at the door"*); 5:4's "the ears of the Lord of sabaoth" → "the ears of
+   me, the Lord of sabaoth" (*"I hear the weeping of the workers"*). Each follows the same apposition
+   pattern already established for "I, the Son of man" and 2 Thessalonians 3:16's "I myself, the Lord of
+   peace" — naming Himself is not a new move, just applied to titles this book introduces.
+4. **A citation-adjacent judgment call at 4:6**: the proverb "he saith, God resisteth the proud, but
+   giveth grace unto the humble" (Proverbs 3:34) is a timeless maxim rather than a historical citation
+   about someone else, and Towns converts it fully to Jesus's own voice (*"I give grace to those who
+   humble themselves, but I resist the proud"*) rather than leaving it quoted-and-unconverted the way a
+   citation about a third party would stay — the same distinction Ephesians 4:9-10 drew between a
+   citation and commentary on it, extended here to a maxim Jesus can simply assert as His own.
+5. **Every collective "we/us/our" describing a shared human weakness converts to direct "ye" address**,
+   confirmed by Towns generalizing each to "you": 3:1-2's "we shall receive... we offend all" (teachers
+   generally, not James personally) and 3:6's "our members," 4:5's "the spirit that dwelleth in us," and
+   5:17's "subject to like passions as we are" (*"Elijah was a man subject to the same weakness as
+   you"*) all convert — the last a genuine theological point, since Jesus's own humanity was without the
+   sinful "passions" Elijah shared with ordinary fallen men. Two collective instances stay unconverted as
+   genuine exceptions: 2:21's "Abraham our father" (true of Jesus too by physical descent, the same
+   exception Romans and Galatians already established) and 3:3-5's illustrative "we put bits in the
+   horses' mouths" (a generic analogy about common practice, not a claim about sin, so it doesn't trip the
+   self-inclusion test the way a moral claim would).
+6. **1:13's hypothetical quoted claim required the same direct-to-indirect restructuring 1 John 2:4/2:6
+   needed**: "let no man say... I am tempted of God" would collapse to "I am tempted of me" once "God"
+   converts to the narrator's own "me" — resolved the same way, into indirect speech ("let no man say...
+   that he is tempted of me"), confirmed by Towns doing the identical restructuring (*"you can't say I
+   tempted you"*).
+
+Verification run: 108/108 verses present, chapter-by-chapter counts match `KJV.json` exactly
+(27/26/18/17/20). Residual "God" (2 total, 2:19's "one God" creedal formula and 2:23's scripture citation)
+and residual "Lord" (3 total, the self-naming apposition verses above) are every one a deliberate
+exception; zero unresolved dangling "Who/Whom/Which" verse-openers (3:13's is a self-contained rhetorical
+question, not a continuation); zero false-present-state hits. Wired into `data/jesus.js` (22 books, 164
+chapters) and tested live across all 1,255 chapter destinations in both states (2,510 loads, zero errors),
+plus a visual check on James 2 toggled on and off in the browser.
 
 ## Epistle rules (Romans) — a different problem than the Gospels
 
