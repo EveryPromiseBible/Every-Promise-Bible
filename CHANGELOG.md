@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Galatians (5 fixes, all 6 chapters)
+
+Continued the YLT-comparison pass into Galatians. No duplicate-content bugs this time. All 5 fixes were the
+aorist/perfect-vs-pluperfect family: 2:7 and 3:19 each backshifted a genuine perfect (pepisteumai,
+epēngeltai) into a pluperfect; 3:22, 3:27, and 5:4 (x2) over-marked plain aorists as English present-perfect.
+Verified against tools/data/69-Ga-morphgnt.txt. Left 6:11's epistolary aorist ("I have written to you with my
+own hand") alone after confirming YLT renders the same construction as present-perfect, matching the
+convention already established at Romans 15:14. Re-spliced into data/weust.js (still 1,394 entries, Galatians
+still 142). Next: Ephesians.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Mark (31 fixes, all 16 chapters)
 
 Continued the YLT-comparison pass into Mark. Turned up a much bigger duplicate-content cluster than Romans

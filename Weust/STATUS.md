@@ -637,3 +637,24 @@ net-neutral duplicate trims). Also ran the duplicate-content detector
 (single-verse label, 2+ paragraphs) across all 16 books as a general
 check — Mark's cluster was the only hit; nothing else in the corpus
 matches that shape. Next book in the YLT-comparison pass: Galatians.
+
+## YLT literal-tense comparison pass — Galatians (5 fixes, all 6 chapters)
+
+No duplicate-content bugs this time (Galatians was already close to clean
+from the earlier completeness audit, and stayed clean here). All 5 fixes
+were the same aorist/perfect-vs-pluperfect family found in Romans and
+Mark, verified against `tools/data/69-Ga-morphgnt.txt`: 2:7 backshifted a
+genuine perfect (*pepisteumai*, "I have been entrusted," used twice in
+the same sentence about Paul and Peter) into a pluperfect; 3:19
+backshifted another genuine perfect (*epēngeltai*, "the promise has been
+made") the same way; 3:22 and 3:27 each over-marked a plain aorist
+(*synekleisen* "locked up," *enedysasthe* "put on") as English
+present-perfect; and 5:4 did the same to two aorists in one verse
+(*katērgēthēte* "were severed," *exepesate* "lost your hold"). One
+epistolary aorist at 6:11 ("I **have written** to you with my own hand")
+was checked against YLT and left alone — YLT itself renders the same
+epistolary aorist as present-perfect, matching the convention already in
+use since Romans 15:14.
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, Galatians still 142. Next book: Ephesians.
