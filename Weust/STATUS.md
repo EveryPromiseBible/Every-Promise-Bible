@@ -192,8 +192,19 @@ also recurs three times (1:6, 1:14, 1:25) and gets the same "settled
 persuasion/conviction" treatment every time — the kind of same-verb
 consistency Romans 13:2 and Galatians 6:13 missed.
 
-**Not yet audited this way:** Colossians, Titus, Hebrews, 1 & 2 Timothy
-(compiled into `data/weust.js` but not yet checked against MorphGNT), and
-1 & 2 Peter, 1-3 John, Jude (finished in `Weust/*.json` but not yet
-compiled into `data/weust.js` at all — `data/weust.js` currently has 10 of
-the 16 books). Next up: Colossians.
+## Tense audit against the actual Greek — Colossians (44/44 checked, clean)
+
+Same method, against `tools/data/72-Col-morphgnt.txt`. 26 of 44 entries
+flagged. **No fixes needed** — this book has some of the most consistent
+perfect-tense handling in the whole corpus: 1:16's "stand created," 1:23's
+"having been placed on a foundation with the present result that you stand
+firmly grounded," 2:10's "having been completely filled full, with the
+present result that you stand in a state of fulness," and 4:2's "I have
+been bound and remain bound" all spell out the completed-action-with-
+abiding-result force explicitly rather than leaving it implicit.
+
+**Not yet audited this way:** Titus, Hebrews, 1 & 2 Timothy (compiled into
+`data/weust.js` but not yet checked against MorphGNT), and 1 & 2 Peter, 1-3
+John, Jude (finished in `Weust/*.json` but not yet compiled into
+`data/weust.js` at all — `data/weust.js` currently has 10 of the 16 books).
+Next up: Titus.

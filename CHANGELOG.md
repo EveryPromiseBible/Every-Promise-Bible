@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit, Colossians checked clean
+
+Continued into Colossians against `tools/data/72-Col-morphgnt.txt`, 26 of 44 entries flagged. No fixes
+needed -- some of the most consistent perfect-tense handling in the corpus (1:16's "stand created," 2:10's
+"with the present result that you stand in a state of fulness," 4:2's "have been bound and remain bound").
+Next: Titus.
+
 ## 2026-09-16 — Wuest commentary: tense audit, Philippians checked clean
 
 Continued into Philippians against `tools/data/71-Php-morphgnt.txt`, 28 of 52 entries flagged. No fixes
