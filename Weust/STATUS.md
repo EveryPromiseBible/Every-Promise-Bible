@@ -77,5 +77,62 @@ passes clean as of this commit.
    none of the earlier passphrase/private-Worker/personal-only machinery
    is needed — it can just be a normal public feature.
 
-Nothing here is wired into `index.html` yet. This directory is source
-material only.
+This directory is source material; the compiled, site-facing copy lives in
+`data/weust.js` (`const WEUST = {"BookName": [entries...], ...}`), wired
+into `index.html`'s word-lookup popup (`weustVerseLookup`, `renderWeust`) —
+each entry keyed by verse label, one call-out group per verse under a
+"Commentaries" fold alongside Grace Commentary.
+
+## Tense audit against the actual Greek — Romans (156/156 checked)
+
+Every entry's word-selection has always been "informed by Wuest but not
+verified against Wuest's actual book" (see the top of this file) — the
+grammatical claims (tense, mood, voice) were reasoned out at authoring time
+but never checked against a real tagged Greek text. Asked to actually check
+one, starting from a flagged concern at Romans 5:17.
+
+The repo already has real ground truth for this: `tools/data/66-Ro-morphgnt.txt`
+(SBLGNT via MorphGNT) tags every word's part of speech, tense, voice, and
+mood. Built a one-off script pulling every verb/participle per verse,
+flagged the categories most likely to carry tense-critical nuance if missed
+(present participles, perfects, imperfects, subjunctives — 80 of 156 entries
+had at least one), and read through all of them checking whether the
+`translation` field's English verb construction actually reflects that
+tense's force, the same way an editor would with a Greek text open beside
+the draft.
+
+Most of Romans was already sound — durative present participles regularly
+got "keeps on," "is continually," "habitually," or a plain progressive;
+perfects regularly got "have/has ___-ed, and it stands"-style completed-
+with-present-result phrasing; stative verbs (*oida*, *thelō*, *echō*) were
+correctly left as plain English present, since English doesn't have a
+natural progressive for "know"/"want"/"have." Two real misses found and
+fixed:
+
+1. **5:17 — "those who receive" dropped the tense entirely.** *Lambanontes*
+   (λαμβάνοντες) is a present participle, durative, deliberately contrasted
+   with the aorist "reigned" one clause earlier (death seized the throne in
+   one decisive act; grace is pictured as something laid hold of
+   continuously). The `text` field never even mentioned this participle.
+   Fixed the translation to "those who **are receiving**" and added the
+   contrast to the commentary.
+2. **13:2 — the same verb given two different tense treatments in one
+   verse.** *Anthistēmi* (ἀνθίστημι) appears twice: the indicative
+   ("resisteth the ordinance of God") was correctly rendered with its
+   perfect force ("has set himself in **permanent opposition**"), but the
+   participle three words later ("they that resist") — same lemma, same
+   perfect tense — was flattened to a plain present, "those who are so
+   opposing." Fixed to "those who **stand in that permanent opposition**,"
+   matching the perfect-force phrasing already used for the first
+   occurrence in the same verse.
+
+Re-verified: still 156/156 entries, re-spliced into `data/weust.js`, and
+confirmed live via `weustVerseLookup()` in a running instance of the site —
+1,077 total entries across all 10 currently-compiled books, zero structural
+errors.
+
+**Not yet audited this way:** Mark, Galatians, Ephesians, Philippians,
+Colossians, Titus, Hebrews, 1 & 2 Timothy (compiled into `data/weust.js`
+but not yet checked against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude
+(finished in `Weust/*.json` but not yet compiled into `data/weust.js` at
+all — `data/weust.js` currently has 10 of the 16 books). Next up: Mark.

@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit against the actual Greek, Romans first
+
+The Wuest word-study commentary's grammatical claims (tense, mood, voice) had always been reasoned out at
+authoring time but never checked against a real tagged Greek text. Started an actual audit after a flagged
+concern at Romans 5:17, using the SBLGNT/MorphGNT tagging already in the repo
+(`tools/data/66-Ro-morphgnt.txt`) as ground truth: pulled every verb and participle per verse, flagged the
+categories most likely to lose tense nuance if missed (present participles, perfects, imperfects,
+subjunctives -- 80 of 156 Romans entries had at least one), and read through all of them checking the
+`translation` field against the real Greek tense.
+
+Most of Romans held up. Two real misses found and fixed: 5:17's "those who receive" dropped the present
+participle *lambanontes*'s durative force entirely (fixed to "those who are receiving," with the deliberate
+aorist/present contrast against "reigned" added to the commentary); 13:2 gave the same verb, *anthistēmi*,
+two different tense treatments in one verse -- the indicative correctly got its perfect force ("has set
+himself in permanent opposition") but the participle three words later was flattened to a plain present
+(fixed to "those who stand in that permanent opposition," matching the first occurrence).
+
+Also caught along the way: `data/weust.js`, the compiled file actually wired into the site's word-lookup
+popup, only has 10 of the 16 finished Wuest books -- 1 & 2 Peter, 1-3 John, and Jude are done in
+`Weust/*.json` but were never compiled in. Re-spliced Romans into `data/weust.js` and confirmed live via
+`weustVerseLookup()` (1,077 entries across 10 books, zero structural errors). Next: the same audit for
+Mark, then the rest, book by book.
+
 ## 2026-09-15 — Jesus Bible: a genuinely fresh re-read of all five books drafted today
 
 The earlier "closer re-read" pass below reasoned from Towns' text already sitting in context from the
