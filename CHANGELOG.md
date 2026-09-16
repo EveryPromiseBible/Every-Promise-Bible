@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: Galatians clean, Ephesians's completeness bug fixed (66 -> 88 entries)
+
+Galatians came back almost perfect (1 of 149 verses uncovered, a pure mislabel). Ephesians was much worse:
+61 of 155 verses uncovered (39%), including some deceptive mislabels where a long flowing paragraph quietly
+covered extra verses without the label growing to match. Genuine gaps included the opening greeting
+(1:1-4), "dead in trespasses and sins" (2:1), "no longer strangers and foreigners" (2:17-22), the
+mystery-of-Christ digression (3:1-15), "he gave some, apostles..." (4:9-12), "be ye imitators of God"
+(5:1-4), "wives, submit yourselves" (5:22-23), the "great mystery" verse (5:32-33), and "children, obey your
+parents" (6:1-3). Fixed both books; every verse now has verified content. Next: Philippians.
+
 ## 2026-09-16 — Wuest commentary: Romans's content-completeness bug fixed (156 -> 189 entries)
 
 Ran the same verse-by-verse completeness check that fixed Mark against Romans: 90 of 433 verses uncovered

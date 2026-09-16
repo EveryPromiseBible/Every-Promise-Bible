@@ -369,7 +369,30 @@ Greek (`tools/data/66-Ro-morphgnt.txt`). Romans now has verified content
 for all 433 of its verses — no textual-variant exceptions this time, unlike
 Mark. Re-spliced into `data/weust.js`.
 
-**Remaining work:** Galatians, Ephesians, Philippians, Colossians, Titus,
-Hebrews, 1 & 2 Timothy, and 1 Peter still need this same completeness
-audit. 1-3 John and Jude still need the tense audit, this completeness
-audit, and the compile step. Next up: Galatians.
+## Content-completeness audit — Galatians (142 entries, essentially clean) and Ephesians (66 -> 88 entries)
+
+Galatians came back almost perfect: only 1 of 149 verses uncovered
+(1:11), and that turned out to be a pure mislabel — "Galatians 1:10"
+already had 1:11's content, just needed its range extended.
+
+Ephesians was the opposite: 61 of 155 verses uncovered (39%, well above
+Mark's and Romans's ~21%). A careful pass found the same two-part mix
+again, including some deceptive mislabels this time — "Ephesians 1:18"
+and "1:21" each silently absorbed two more verses into a long flowing
+paragraph, and "6:18" absorbed verse 19, without their labels growing to
+match. The genuine gaps included the letter's opening greeting and
+blessing (1:1-4), "you He made alive, who were dead in trespasses and
+sins" (2:1), the whole "no longer strangers and foreigners" section
+(2:17-22), Paul's mystery-of-Christ digression (3:1-5, 7-8, 11-12, 14-15),
+the doxology "unto him who is able to do exceeding abundantly" (3:20-21),
+"he gave some, apostles; and some, prophets..." (4:9-12), the body-growth
+verses (4:15-16), "be ye imitators of God" (5:1-4), "wives, submit
+yourselves unto your own husbands" (5:22-23), the "great mystery" verse
+about Christ and the church (5:32-33), and "children, obey your parents"
+(6:1-3). Fixed all of it; both books now have verified content for every
+verse. Re-spliced into `data/weust.js`.
+
+**Remaining work:** Philippians, Colossians, Titus, Hebrews, 1 & 2 Timothy,
+and 1 Peter still need this completeness audit. 1-3 John and Jude still
+need the tense audit, this completeness audit, and the compile step. Next
+up: Philippians.
