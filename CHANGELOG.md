@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit closes out the compiled books
+
+Checked 1 Timothy (27/42 flagged) and 2 Timothy (24/35 flagged) against their MorphGNT files. Both clean --
+2 Timothy especially: 2:19's "God's firm foundation has stood, and stands now," 4:7's "I have fought the
+good fight to its finish, and I am resting now in its victory." That's every book currently compiled into
+`data/weust.js` checked: 3 fixes total across 1,077 entries (both in Romans, one in Galatians), the rest
+clean. Remaining: 1 & 2 Peter, 1-3 John, and Jude are finished in `Weust/*.json` but were never compiled
+into `data/weust.js` -- they need both the audit and the compile step. Next: 1 Peter.
+
 ## 2026-09-16 — Wuest commentary: tense audit, Hebrews checked clean
 
 Continued into Hebrews against `tools/data/79-Heb-morphgnt.txt`, 104 of 155 entries flagged -- dense and

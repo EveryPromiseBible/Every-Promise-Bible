@@ -220,8 +220,23 @@ holy still," 12:2's "has sat down and remains seated," and 13:23's "has
 been set free and remains so" are all excellent, precise handling of
 exactly the tense the book's argument depends on most.
 
-**Not yet audited this way:** 1 & 2 Timothy (compiled into `data/weust.js`
-but not yet checked against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude
-(finished in `Weust/*.json` but not yet compiled into `data/weust.js` at
-all — `data/weust.js` currently has 10 of the 16 books). Next up:
-1 Timothy.
+## Tense audit against the actual Greek — 1 & 2 Timothy (42 + 35 checked, clean)
+
+Same method, against `tools/data/75-1Ti-morphgnt.txt` and
+`tools/data/76-2Ti-morphgnt.txt`. 27 of 42 and 24 of 35 entries flagged
+respectively. **No fixes needed in either.** 2 Timothy in particular is a
+standout: 2:19's "God's firm foundation has stood, and stands now," 4:7's
+"I have fought the good fight to its finish, and I am resting now in its
+victory," and 4:8's "who have set their love, and kept it set, on his
+appearing" all handle the perfect with real precision.
+
+This closes out the audit of every book currently compiled into
+`data/weust.js` (10 of 16): **3 fixes total across 1,077 entries** — Romans
+5:17, Romans 13:2, Galatians 6:13 — the rest (Mark, Ephesians, Philippians,
+Colossians, Titus, Hebrews, 1 & 2 Timothy) came back clean.
+
+**Remaining work:** 1 & 2 Peter, 1-3 John, and Jude are finished in
+`Weust/*.json` but were never compiled into `data/weust.js` at all (a
+separate gap found during this audit, unrelated to tense — see the top of
+this file). They need both the tense audit and the compile step. Next up:
+1 Peter.
