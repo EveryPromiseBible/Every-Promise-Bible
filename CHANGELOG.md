@@ -1,5 +1,33 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: Mark's content-completeness bug found and fixed (364 -> 426 entries)
+
+The 2 Peter 2:20 gap (below) turned out not to be a one-off. A verse-by-verse check of every Mark entry
+against `KJV.json` found the same failure mode systemically: entries whose label claimed a verse range
+their translation didn't fully deliver. Two shapes of it, roughly even split -- mislabeling (content already
+covered more than the label said, or landed under the wrong label entirely -- "Mark 6:38" actually held
+verses 39-40's content, leaving the real verse 38 with no entry anywhere) and genuine gaps (verses absent
+from every entry no matter how generously read).
+
+The genuine gaps ranged from single connector clauses to whole missing pericopes: the Transfiguration's own
+description (9:1-3), the temple cleansing's actual action (11:15-16, as opposed to Jesus's words about it,
+which were already there), the Sanhedrin's "guilty of death" verdict (14:64), Peter warming himself by the
+fire before his denials (14:53-56), the full third passion prediction (10:33-34), the Olivet discourse's own
+opening (13:1-8), Pilate's first question (15:1-2), the women arriving at the empty tomb (16:1-4), and the
+closing commission and ascension (16:14-15, 19-20). Three flagged verses (9:44, 9:46, 11:26) turned out to
+be correctly absent -- the project's SBLGNT source doesn't print them, following standard critical-text
+practice of treating them as later scribal duplication.
+
+Fixed all of it: relabeled every mislabeled entry, split every entry that had drifted across wrong verse
+boundaries, and independently drafted translation and commentary for every genuinely missing verse from the
+tagged Greek -- the same method this project has always used, not reconstructed from Wuest's own book. Mark
+now has real, verified content for 675 of its 678 verses (the other 3 being the confirmed omissions above).
+Re-spliced into `data/weust.js` and confirmed live (1,206 entries across 12 books, zero errors).
+
+This means the earlier "16 of 16 books done" milestone checked label coverage and JSON structure, but never
+checked whether a multi-verse entry's actual content matched its own label -- worth running this same check
+against the other 15 books before treating any of them as complete.
+
 ## 2026-09-16 — Wuest commentary: 1 & 2 Peter audited and compiled, a real gap found in 2 Peter
 
 Checked 1 Peter (39/46 flagged, clean) and 2 Peter (18/21 flagged) against their MorphGNT files, then

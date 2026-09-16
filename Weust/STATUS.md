@@ -282,6 +282,70 @@ Worth doing as a follow-up, flagged here rather than attempted mid-audit.
 
 Compiled into `data/weust.js` for the first time (see below).
 
+## Content-completeness audit — Mark (a real structural bug, found via the tense audit)
+
+While auditing Mark's tenses, a heuristic scan (chars of English translation
+per verse in each multi-verse entry) turned up something the tense audit
+wasn't built to catch: several entries whose `label` claimed a verse range
+its `translation` didn't actually deliver in full. The clearest case,
+**2 Peter 2:20–22, was missing verse 20's content entirely** — the label
+promised three verses, the English delivered two. Checking whether this was
+isolated led to a full verse-by-verse comparison of every Mark entry
+against `KJV.json`, which found the problem was systemic, not a one-off.
+
+Two distinct failure modes turned up, at roughly even odds:
+
+1. **Mislabeling** — an entry's content already covered more verses than
+   its label named (e.g. "Mark 9:11" was labeled as one verse but its
+   translation already covered 11–13 in full). Mechanical to fix: correct
+   the label and `c1`/`v1`/`c2`/`v2`, no new writing. About 20 entries had
+   this, plus a handful with content shuffled to the *wrong* label
+   entirely (e.g. "Mark 6:38" actually contained verses 39–40's content,
+   leaving the real verse 38 — the "how many loaves? … five, and two
+   fish" exchange — with no entry of its own anywhere).
+2. **Genuine gaps** — verses truly absent from every entry, no matter how
+   generously neighboring entries were read. About 60 verses across some
+   50 separate passages, ranging from single narrative-connector clauses
+   to entire missing pericopes: the Transfiguration's own description
+   (9:1-3: "some standing here shall not taste death," Jesus leading
+   Peter/James/John up the mountain, his raiment becoming shining white),
+   the temple-cleansing's own action (11:15-16 — Jesus's *words* about the
+   den of robbers were present, but not the actual overturning of tables),
+   the Sanhedrin's "guilty of death" verdict (14:64), Peter warming himself
+   by the fire before his denials (14:53-56), the full third passion
+   prediction (10:33-34), the opening of the Olivet discourse (13:1-8, "who
+   gave you this authority," "many will come in my name saying I am he"),
+   the Passover binding and Pilate's first question (15:1-2), the women
+   arriving at the empty tomb (16:1-4), and the closing commission and
+   ascension (16:14-15, 19-20). A few flagged verses (9:44, 9:46, 11:26)
+   turned out to be legitimate: the project's SBLGNT/MorphGNT source text
+   doesn't print them at all, following the standard critical-text
+   judgment that they're later scribal duplications — nothing to translate
+   there, correctly reflected as absent.
+
+Fixed all of it: relabeled every mislabeled entry, split apart every entry
+that had drifted across the wrong verse boundaries, and drafted original
+translation (and commentary, for the passages carrying real grammatical
+weight) for every genuinely missing verse — independently authored from
+the SBLGNT/MorphGNT text the same way the rest of this project always has
+been, not reconstructed from Wuest's own book. Mark went from 364 entries
+to 426. Re-verified against `KJV.json`: **675 of Mark's 678 verses now
+have real translated content**, the other 3 being the confirmed textual
+omissions above — full, accounted-for coverage for the first time.
+Re-spliced into `data/weust.js` and confirmed live via `weustVerseLookup()`
+(1,206 entries across 12 books, zero structural errors).
+
+**This changes what "done" means for the other 15 books.** The original
+"16 of 16 books done" milestone verified label-range coverage and JSON
+structure, but never checked whether a multi-verse entry's *content*
+actually delivered everything its own label claimed. Romans, Galatians,
+Ephesians, Philippians, Colossians, Titus, Hebrews, 1 & 2 Timothy, and 1
+Peter have all had a tense audit pass, which incidentally exercises a lot
+of entries closely — but none has had this specific completeness check run
+against it the way Mark just did. Worth doing before calling any of them
+complete.
+
 **Remaining work:** 1-3 John and Jude are finished in `Weust/*.json` but
-were never compiled into `data/weust.js` at all. They need both the tense
-audit and the compile step. Next up: 1 John.
+were never compiled into `data/weust.js` at all. They need the tense
+audit, this same completeness audit, and the compile step. Next up:
+1 John.
