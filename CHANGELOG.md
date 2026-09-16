@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit, Titus checked clean
+
+Continued into Titus against `tools/data/77-Tit-morphgnt.txt`, 19 of 21 entries flagged. No fixes needed.
+Next: Hebrews.
+
 ## 2026-09-16 — Wuest commentary: tense audit, Colossians checked clean
 
 Continued into Colossians against `tools/data/72-Col-morphgnt.txt`, 26 of 44 entries flagged. No fixes

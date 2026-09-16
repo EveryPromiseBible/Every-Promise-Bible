@@ -203,8 +203,15 @@ present result that you stand in a state of fulness," and 4:2's "I have
 been bound and remain bound" all spell out the completed-action-with-
 abiding-result force explicitly rather than leaving it implicit.
 
-**Not yet audited this way:** Titus, Hebrews, 1 & 2 Timothy (compiled into
+## Tense audit against the actual Greek — Titus (21/21 checked, clean)
+
+Same method, against `tools/data/77-Tit-morphgnt.txt`. 19 of 21 entries
+flagged. **No fixes needed** — 1:15's "have been defiled" and 3:11's "has
+been twisted out of joint ... standing self-condemned" both handle the
+perfect correctly.
+
+**Not yet audited this way:** Hebrews, 1 & 2 Timothy (compiled into
 `data/weust.js` but not yet checked against MorphGNT), and 1 & 2 Peter, 1-3
 John, Jude (finished in `Weust/*.json` but not yet compiled into
 `data/weust.js` at all — `data/weust.js` currently has 10 of the 16 books).
-Next up: Titus.
+Next up: Hebrews.
