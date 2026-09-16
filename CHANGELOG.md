@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit, Mark checked clean
+
+Continued the tense audit (see the Romans entry below) into Mark, against `tools/data/62-Mk-morphgnt.txt`.
+276 of 364 entries had a present participle, perfect, imperfect, or subjunctive worth checking -- Mark's
+narrative leans hard on participles -- and every one held up: imperfects consistently got "kept on ___-ing"
+treatment, perfects got the "has ___-ed, and stands/remains so" double phrasing, stative verbs were
+correctly left as plain English, and historical presents were kept rather than flattened, matching Wuest's
+own real practice. No fixes needed. Next: Galatians.
+
 ## 2026-09-16 — Wuest commentary: tense audit against the actual Greek, Romans first
 
 The Wuest word-study commentary's grammatical claims (tense, mood, voice) had always been reasoned out at

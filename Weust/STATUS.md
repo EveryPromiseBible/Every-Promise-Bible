@@ -131,8 +131,29 @@ confirmed live via `weustVerseLookup()` in a running instance of the site —
 1,077 total entries across all 10 currently-compiled books, zero structural
 errors.
 
-**Not yet audited this way:** Mark, Galatians, Ephesians, Philippians,
-Colossians, Titus, Hebrews, 1 & 2 Timothy (compiled into `data/weust.js`
-but not yet checked against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude
-(finished in `Weust/*.json` but not yet compiled into `data/weust.js` at
-all — `data/weust.js` currently has 10 of the 16 books). Next up: Mark.
+## Tense audit against the actual Greek — Mark (364/364 checked, clean)
+
+Same method, against `tools/data/62-Mk-morphgnt.txt`. 276 of 364 entries had
+at least one present participle, perfect, imperfect, or subjunctive worth
+checking — a much higher share than Romans, since Mark's narrative style
+leans hard on participles and Wuest's own commentary tracks that closely.
+Read through every one of them against the translation.
+
+**No fixes needed.** The book was already handling this well and
+consistently: imperfects almost always got "kept on ___-ing" or "was
+continually ___-ing" (not just a flat English past); perfects regularly got
+the "has ___-ed, and stands/remains so" double phrasing (5:34's "your faith
+has saved you, and the salvation stands"; 7:29's "the demon has gone out...
+and remains gone"; 11:21's "has withered away"); stative verbs (*oida*,
+*echō*, *eimi*) were left as plain English present/past rather than forced
+into an awkward progressive, matching how Romans handles the same verbs.
+Historical presents (very frequent in Mark's Greek) were correctly left as
+Wuest himself renders them — his real practice keeps many of them ("and
+they come," "and he says to them") rather than smoothing every one into
+past tense, and that's what's reflected here too.
+
+**Not yet audited this way:** Galatians, Ephesians, Philippians, Colossians,
+Titus, Hebrews, 1 & 2 Timothy (compiled into `data/weust.js` but not yet
+checked against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude (finished in
+`Weust/*.json` but not yet compiled into `data/weust.js` at all —
+`data/weust.js` currently has 10 of the 16 books). Next up: Galatians.
