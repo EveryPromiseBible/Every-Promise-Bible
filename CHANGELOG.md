@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: Romans's content-completeness bug fixed (156 -> 189 entries)
+
+Ran the same verse-by-verse completeness check that fixed Mark against Romans: 90 of 433 verses uncovered
+(21%, the same rate as Mark), same two-part mix of mislabeling ("Romans 11:23" already held all of verses
+23-29, just under a one-verse label) and genuine gaps -- including 1:1, 3:19-20/27-28, 4:1-5 (the Genesis
+15:6 citation Romans 4 argues from), 5:1, 6:3-4, 9:1-9 (Paul's anguish over Israel), 12:1, 13:1 and 13:9-14
+("put on the Lord Jesus Christ"), and 16:1-4 (Phoebe's commendation). Fixed all of it the same way. Romans
+now has verified content for all 433 of its verses. Re-spliced into `data/weust.js`. Next: Galatians.
+
 ## 2026-09-16 — Wuest commentary: Mark's content-completeness bug found and fixed (364 -> 426 entries)
 
 The 2 Peter 2:20 gap (below) turned out not to be a one-off. A verse-by-verse check of every Mark entry

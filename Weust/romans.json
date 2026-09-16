@@ -1,5 +1,10 @@
 [
  {
+  "label": "Romans 1:1",
+  "text": "Doulos, \"bondslave,\" is a stronger word than \"servant\" — total, owned belonging, the way Paul introduces himself before he introduces anything else about himself. Aphorismenos, \"set apart,\" is perfect tense: not a past event but a settled, standing condition — he remains a man marked off for this purpose.",
+  "translation": "Paul, a bondslave of Jesus Christ, a called apostle, having been set apart, and remaining so, unto the good news of God,"
+ },
+ {
   "label": "Romans 1:2–4",
   "text": "Paul's “prophets” here isn't limited to the major and minor prophets by name — it covers anyone through whom God spoke in advance, Moses and David included, since the promise of good news runs all through the Old Testament, not just the prophetic books.\n\n“Holy scriptures” drops the definite article in the Greek, throwing the weight onto quality rather than pointing at a specific known collection — these writings are holy by their very character, because they carry God's news.\n\n“Was made” translates ginomai in an aorist participle, the verb of becoming rather than being — the same verb John uses for “the Word became flesh.”\n\nIt marks entrance into a new condition: the eternal Son took on a human body and human limits, tracing his ancestry, “according to the flesh,” from David's line.\n\n“Declared” is a different verb, horizō, “to mark out the boundary, fix, appoint” — the root of our word “horizon.” It doesn't mean Jesus became Son of God at the resurrection; it means the resurrection is where that sonship, already and always true, was publicly marked out and put on display.\n\nPaul is careful with his preposition too — the Greek says only “of the dead” (nekrōn), not “out from among the dead,” tying Christ's rising to the resurrection of the dead as a category he inaugurates, not just his own solitary comeback.",
   "translation": "concerning his Son — who came to be, out of David's seed, according to the flesh; who was marked out as Son of God in power, according to the Spirit of holiness, by resurrection of the dead."
@@ -165,6 +170,11 @@
   "translation": "Much, in every way -- for first of all, they were entrusted with the oracles of God."
  },
  {
+  "label": "Romans 3:3–4",
+  "text": "Katargesei, \"will render inoperative,\" is a favorite Pauline verb (katargeo) he reaches for repeatedly across this letter — not simply canceling something but stripping it of its working power. Genoito, \"away with the thought,\" is an aorist optative, the strongest form of denial the language has — Paul’s stock exclamation whenever a false inference from his own argument needs to be shut down immediately.",
+  "translation": "For what then? If some were unbelieving, will their unbelief render inoperative the faithfulness of God? Away with the thought! But let God be true, and every man a liar; just as it stands written: That you might be shown righteous in your words, and might prevail when you are being judged."
+ },
+ {
   "label": "Romans 3:5–8",
   "text": "\"Commend\" is *sunistēmi*, \"to set together\" -- proof-language. Paul's point is that human unrighteousness, set side by side with God's righteousness, throws the latter into sharper relief; the contrast demonstrates it rather than excusing the sin that supplies the contrast.\n\n\"Taketh vengeance\" is literally \"brings the anger to bear\" (*epipherō orgēn*) -- a controlled, judicial wrath, not a fit of temper.\n\nPaul flags his own courtroom analogy as borrowed speech (\"I speak as a man\"), aware that framing God's justice in human legal terms domesticates something too large for the comparison.\n\nAnd the slander in verse 8 -- \"let us do evil that good may come\" -- isn't a hypothetical Paul invents to knock down; it's the actual charge of lawlessness already being circulated against his gospel of grace.",
   "translation": "But if our unrighteousness demonstrates God's righteousness, what shall we say? God is not unrighteous to inflict wrath, is he? -- I speak in merely human terms. Let it not happen! Otherwise how will God judge the world? And if, as is the case, God's truth abounded to his glory by my falsehood, why am I still being judged as a sinner? And why not say -- as some report, slandering us, that we say -- Let us do evil so that good may come? Their condemnation is just."
@@ -185,6 +195,11 @@
   "translation": "Their throat is a grave standing open. With their tongues they kept on practicing deceit. The poison of asps is under their lips, whose mouth is full of cursing and bitterness, whose feet run swiftly to pour out blood. Ruin and misery mark their roads, and the road of peace they have not known. There is no fear of God set before their eyes."
  },
  {
+  "label": "Romans 3:19–20",
+  "text": "Epignosis, \"full knowledge,\" carries the intensive prefix epi- on top of the ordinary word for knowledge — not casual awareness but precise, thorough recognition. Paul’s point is exact: the law’s achievement is diagnostic, not curative — it identifies sin with precision; it does not remove it.",
+  "translation": "Now we know that whatever things the law says, it speaks to those within the law, so that every mouth might be stopped, and all the world might become accountable to God. Because by works of law no flesh shall be declared righteous before him; for through the law comes the full knowledge of sin."
+ },
+ {
   "label": "Romans 3:21–23",
   "text": "\"Now\" here marks a logical turn in the argument, not a moment in time.\n\n\"Is manifested\" is a perfect tense: God's righteousness has been disclosed and stands permanently on view, with the law and the prophets continually bearing it witness in the present.\n\n\"Have sinned\" is a constative aorist, a single wide-angle snapshot of the whole human race as one completed fact -- all sinned.\n\nBut \"come short\" shifts to the present tense: not only a past verdict but an ongoing state, like a runner still trailing in a race that hasn't finished. That's the picture behind the verb itself, which properly means falling behind toward a finish line, not simply missing a target once.",
   "translation": "But now, apart from law, God's righteousness stands revealed, the law and the prophets continually bearing it witness -- God's righteousness through faith in Jesus Christ, for all who believe. For there is no distinction: all sinned, and all are still falling short of the glory of God."
@@ -195,9 +210,19 @@
   "translation": "Having been declared righteous freely by his grace, through the redemption that is in Christ Jesus -- whom God publicly displayed as a mercy seat, through faith in his blood, to demonstrate his righteousness, on account of his passing over sins previously committed, in the forbearance of God -- to demonstrate his righteousness at the present time, so that he might be both righteous, and the one who declares righteous the one who has faith in Jesus."
  },
  {
+  "label": "Romans 3:27–28",
+  "text": "Logizometha, \"we reckon,\" is Paul’s favorite accounting term for justification (logizomai), the same verb that will carry the whole argument of chapter 4 — righteousness credited to an account, not earned wages paid out.",
+  "translation": "Where then is the boasting? It was shut out. Through what kind of law? Of works? No, but through the law of faith. For we reckon a man to be declared righteous by faith, apart from works of law."
+ },
+ {
   "label": "Romans 3:29–31",
   "text": "Paul switches prepositions mid-sentence for \"faith\" -- *ek pisteōs*, \"out of faith\" as a source, then *dia pisteōs*, \"through faith\" as a means -- almost certainly for rhetorical variety rather than to mark some doctrinal difference in how Jew and Gentile are justified.\n\nThe real turn is in \"make void\" (*katargeō*, \"render inoperative\"): Paul insists faith doesn't cancel the law's authority but is the one thing that finally puts it on solid ground -- a claim he'll spend chapters 4 and 6–8 making good on.",
   "translation": "Or is he the God of Jews only? Is he not also of Gentiles? Yes, of Gentiles also -- since God is one, and he will justify the circumcised out of faith and the uncircumcised through faith. Do we then render the law inoperative through this faith? Let it not happen! On the contrary, we establish the law."
+ },
+ {
+  "label": "Romans 4:1–5",
+  "text": "Elogisthe, \"was credited,\" is the same accounting verb from 3:28, now anchored to the actual Genesis text Paul is arguing from — Abraham’s faith entered into God’s ledger as righteousness, not earned by labor but credited as a gift.",
+  "translation": "What then shall we say that Abraham, our forefather according to the flesh, has found? For if Abraham was declared righteous by works, he has a ground for boasting — but not toward God. For what does the scripture say? Abraham believed God, and it was credited to him as righteousness. Now to the one who works, the wage is not credited according to grace, but according to debt; but to the one who does not work, but believes on him who declares righteous the ungodly, his faith is credited as righteousness."
  },
  {
   "label": "Romans 4:6–8",
@@ -215,6 +240,11 @@
   "translation": "For the promise to Abraham and his offspring, that he should be heir of the world, did not come through law but through the righteousness that comes by faith. For if those who are of the law are the heirs, faith has been rendered void, and the promise has been made permanently inoperative. For the law produces wrath; but where there is no law, neither is there transgression."
  },
  {
+  "label": "Romans 4:16–17",
+  "text": "Tetheika, \"I have made,\" is perfect tense — a completed appointment that stands permanently, not a one-time announcement. \"Calls the things that are not as though they were\" describes an act of speech that itself brings reality into being, the same creative kind of calling behind Genesis 1.",
+  "translation": "For this reason it is of faith, so that it might be according to grace, in order that the promise might stand sure to all the offspring — not only to that which is of the law, but also to that which is of the faith of Abraham, who is father of us all — just as it stands written: A father of many nations I have made you, and so you remain — before him whom he believed, even God, who gives life to the dead, and calls the things that are not as though they were."
+ },
+ {
   "label": "Romans 4:18",
   "text": "The phrase usually smoothed into \"against hope believed in hope\" actually trades on two different prepositions: his situation lay beyond (*para*) anything nature could offer as grounds for hope, yet he staked his expectation upon (*epi*) hope regardless -- not blind optimism but hope deliberately relocated from natural grounds onto God's word alone.",
   "translation": "Who, beyond all hope, believed on the ground of hope, so that he became father of many nations, in keeping with what had been spoken with finality: So shall your offspring be."
@@ -228,6 +258,11 @@
   "label": "Romans 4:23–25",
   "text": "\"Shall be imputed\" isn't actually future tense in the Greek; it runs on a verb (*mellei*) that expresses a settled, ongoing divine pattern rather than a one-time future event -- closer to \"it is credited, and keeps being credited\" than \"it will be credited someday.\"\n\n\"Delivered\" (*paradidōmi*) is the verb for handing a prisoner over to the courts -- the Father's act toward the Son is cast in exactly the language of a judicial handover, not a private arrangement between the two.\n\nAnd \"offenses\" (*paraptōma*) pictures a straying off the path (*para*, \"aside,\" plus the verb \"to fall\") -- concrete departures from the road, not sin described as an abstract condition.",
   "translation": "Now it was not written for his sake alone, that it was credited to him, but for our sake also, to whom it is to be credited -- to us who have faith in him who raised Jesus our Lord from among the dead, who was handed over because of our transgressions, and was raised because of our justification."
+ },
+ {
+  "label": "Romans 5:1",
+  "text": "Dikaiothentes, \"having been declared righteous,\" is aorist — a completed act — but the peace that follows (echomen) is present tense, a possession kept on having, not a memory of something once obtained.",
+  "translation": "Having therefore been declared righteous by faith, we keep on having peace with God through our Lord Jesus Christ,"
  },
  {
   "label": "Romans 5:2",
@@ -290,9 +325,14 @@
   "translation": "In order that, just as sin reigned as king in the sphere of death, so also grace might reign as king through righteousness, resulting in eternal life through Jesus Christ our Lord."
  },
  {
-  "label": "Romans 6:2",
+  "label": "Romans 6:1–2",
   "text": "Paul's argument in this chapter hinges on a small grammatical fact: \"sin,\" appearing as a bare noun without the article, points to the sinful nature itself rather than to individual sinful acts — the same personified, enthroned power described as \"reigning\" back in 5:21.\n\nThe question \"shall we continue in sin\" uses a present tense that asks about an ongoing, habitual relationship, not an isolated lapse.\n\nPaul's answer is that believers \"died\" to that nature — an aorist verb, apethanomen, built from a root meaning \"to die\" plus a prefix meaning \"away from\" — describing a single, completed, unrepeatable severing, not a gradual fading.\n\n\"Baptized\" is simply transliterated rather than translated, and its everyday Greek use (a smith plunging hot iron into water to temper it, a soldier dipping his spear in blood) points to a decisive change of condition through immersion into something new — here, into Christ's own death, so that the believer's tie to the old ruling power is cut at the root.",
-  "translation": "What then shall we say? Are we to go on remaining in sin, that grace may increase? Away with the thought! How shall we, who died once for all to sin, still go on living in it? Do you not know that all of us who were plunged into Christ Jesus were plunged into his death? We were therefore buried together with him through this plunging into his death, in order that, just as Christ was raised from among the dead through the Father's glory, so we too might order our conduct in newness of life."
+  "translation": "What then shall we say? Are we to go on remaining in sin, that grace may increase? Away with the thought! How shall we, who died once for all to sin, live any longer in it?"
+ },
+ {
+  "label": "Romans 6:3–4",
+  "text": "Synetaphemen, \"we were buried together with,\" is aorist passive — one decisive event, not an ongoing process — matching the equally decisive aorist \"was raised\" (egerthe) that grounds the whole comparison: burial and resurrection are both completed, historical facts, and the believer’s union with each is stated with the same grammatical weight as Christ’s own.",
+  "translation": "Or are you ignorant that as many of us as were baptized into Christ Jesus were baptized into his death? We were therefore buried together with him through baptism into death, in order that, just as Christ was raised from among the dead through the glory of the Father, so we also might walk in newness of life."
  },
  {
   "label": "Romans 6:5–7",
@@ -330,9 +370,19 @@
   "translation": "And having been set free from sin, you were made slaves to righteousness."
  },
  {
+  "label": "Romans 6:19–20",
+  "text": "",
+  "translation": "I am speaking in human terms because of the weakness of your flesh; for just as you presented your members as slaves to uncleanness and to lawlessness resulting in lawlessness, so now present your members as slaves to righteousness resulting in sanctification. For when you were slaves of sin, you were free with regard to righteousness."
+ },
+ {
   "label": "Romans 6:21–23",
   "text": "\"Wages\" (opsōnion) is a soldier's term — not a formal salary but rations, the in-kind subsistence handed out to keep a fighting man alive and able to serve.\n\nPaul's picture of sin as a commanding officer doling out rations to its troops is grim: the \"pay\" it hands out, keeping its slaves going day to day, terminates in death. Against that he sets charisma, the free gift — nothing earned, nothing doled out as compensation for service, simply given.",
   "translation": "What fruit then were you having at that time, from the things you are now ashamed of? For the end of those things is death. But now, having been set free from sin and made slaves to God, you are having your fruit resulting in holiness, and the end, eternal life. For the wages sin pays out is death; but the free gift of God is eternal life in Christ Jesus our Lord."
+ },
+ {
+  "label": "Romans 7:1–3",
+  "text": "Dedetai, \"has been bound,\" and katergetai, \"has been discharged,\" are both perfect passive — settled legal states, not momentary events — setting up the parallel Paul draws in verse 4: the believer’s release from the law’s claim is exactly this kind of settled discharge, not a temporary reprieve.",
+  "translation": "Or are you ignorant, brothers — for I am speaking to those who know the law — that the law lords it over a man for as long as he lives? For the married woman has been bound, and remains bound, by law to the living husband; but if the husband dies, she has been discharged, and remains discharged, from the law of the husband. So then, while the husband lives, she shall be designated an adulteress if she becomes another man’s; but if the husband dies, she is free from the law, so that she is not an adulteress, though she becomes another man’s."
  },
  {
   "label": "Romans 7:4",
@@ -490,6 +540,16 @@
   "translation": "Who will separate us from the love of Christ? Will tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword? Just as it stands written: For your sake we are being put to death all day long; we were regarded as sheep marked for slaughter. But in all these things we are coming off more than victorious, through him who loved us. For I have become, and remain, persuaded that neither death, nor life, nor angels, nor rulers, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing will be able to separate us from the love of God, which is in Christ Jesus our Lord."
  },
  {
+  "label": "Romans 9:1–5",
+  "text": "Euchomen, \"I could once wish,\" is imperfect — a real, sustained wish Paul once held, put in a tense that softens it toward the unrealizable rather than claiming he could act on it now. \"Who is over all, God blessed forever\" most naturally attaches to Christ in the Greek word order — one of the plainest statements of Christ’s deity in Paul’s letters, tucked into a sentence about Israel’s privileges rather than argued as its own point.",
+  "translation": "I am speaking truth in Christ, I am not lying, my conscience bearing me witness in the Holy Spirit, that I have great grief and unceasing pain in my heart. For I could once wish that I myself were accursed, cut off from Christ, on behalf of my brothers, my kinsmen according to the flesh, who are Israelites, to whom belong the placing as sons, and the glory, and the covenants, and the giving of the law, and the temple service, and the promises; whose are the fathers, and from whom, according to the flesh, is the Christ, who is over all, God blessed forever. Amen."
+ },
+ {
+  "label": "Romans 9:6–9",
+  "text": "Ekpeptoken, \"has failed,\" is perfect tense — not a fear that the word of God might someday fail, but a settled denial that it has, in fact, ever fallen out of effect at all.",
+  "translation": "But it is not as though the word of God has failed. For not all who are of Israel are Israel; nor because they are Abraham’s seed are they all children, but, In Isaac shall your seed be called. That is, it is not the children of the flesh who are the children of God, but the children of the promise are reckoned as seed. For this is the word of promise: According to this season I will come, and Sarah shall have a son."
+ },
+ {
   "label": "Romans 9:10–13",
   "text": "The phrase \"purpose according to election\" translates *hē kat' eklogēn prothesis* (hē kat' eklogēn prothesis) — literally \"the according-to-selecting-out purpose,\" with the prepositional phrase functioning like an adjective bolted onto \"purpose.\" *Prothesis* (prothesis) comes from *protithēmi*, \"to set before oneself,\" the ordinary word for a plan a person weighs out and settles on in advance — not an impulse but a deliberated resolve. *Eklogē* (eklogē) is built on *eklegō*, \"to pick out from a group,\" so the purpose in view is one that operates by selecting, not by rewarding merit already present.\n\nPaul's point rides on timing: the twins were chosen and rejected before either had been born or had done a single thing, good or bad — so whatever \"election\" means here, it cannot be God ratifying a distinction that human conduct had already created.\n\nThe verb translated \"hated,\" *miseō* (miseō), ordinarily does mean outright hatred, but set against \"loved\" in a comparison like this one it works the way the Hebrew idiom does — naming the weaker of two loves rather than active hostility.\n\n\"Esau I hated\" reads more naturally as \"Esau I loved less\" than as a claim that God bore Esau active malice.",
   "translation": "And not only that — when Rebecca also had conceived by one man, our father Isaac — for the children not yet having been born, nor having practiced anything good or bad, in order that the purpose of God, the one according to a selecting-out, might continue standing, not out of a source of works but out of the One who calls, it was said to her: The older shall be servant to the younger; even as it stands written, Jacob I loved, but Esau I loved less."
@@ -498,6 +558,11 @@
   "label": "Romans 9:14–16",
   "text": "Paul's reply hinges on two different verb forms of the same promise.\n\nThe first \"I will have mercy\" is a plain future indicative — a straightforward prediction of what God will do.\n\nThe second occurrence, inside the relative clause, shifts to a present subjunctive, and the relative pronoun carries the indefinite particle *an* (an), turning \"whom\" into \"whoever, no matter who.\" That grammatical shift is the argument in miniature: God isn't naming favorites in advance so much as asserting that mercy will go wherever he decides to send it, and the decision belongs to him alone, not to any claim a person can lodge against him.\n\n\"Not of him that willeth, nor of him that runneth\" names desire and effort, not identity — \"willeth\" is simple wanting, \"runneth\" pictures a competitor straining toward a finish line, laboring for the prize. Paul denies that either wanting mercy or working for it secures it; only God's own character as the one who shows mercy does.\n\nThe opening question — \"Is there unrighteousness with God?\" — is phrased in Greek with *mē* (mē), the negative that expects the answer no; Paul isn't entertaining the charge, he's dismissing it before he even argues against it.",
   "translation": "What then shall we say? There is no unrighteousness present with God — is there? Let it not be! For to Moses he is saying: I will have mercy on whomever I am having mercy on, and I will have compassion on whomever I am having compassion on. So then, it is not of the one who is wanting it, nor of the one who is running for it, but of the God who is showing mercy."
+ },
+ {
+  "label": "Romans 9:17–18",
+  "text": "",
+  "translation": "For the scripture says to Pharaoh: For this very purpose I raised you up, that I might demonstrate my power in you, and that my name might be proclaimed in all the earth. So then, on whomever he wills, he has mercy; and whomever he wills, he hardens."
  },
  {
   "label": "Romans 9:19–21",
@@ -510,6 +575,11 @@
   "translation": "But if, wanting to show his wrath and to make his power known, God bore, with much patient endurance, vessels of wrath, standing ready, ripened for destruction — in order that he might make known the riches of his glory upon vessels of mercy, which he prepared beforehand for glory, even us, whom he called, not only out from among Jews but also out from among Gentiles —"
  },
  {
+  "label": "Romans 9:25–26",
+  "text": "",
+  "translation": "As he says also in Hosea: I will call those who were not my people, My people; and her who was not beloved, Beloved. And it shall be, in the place where it was said to them, You are not my people — there they shall be called sons of the living God."
+ },
+ {
   "label": "Romans 9:27–29",
   "text": "\"Crieth\" is *krazō* (krazō), a loud, unrestrained cry rather than measured prophetic speech — Isaiah isn't reasoning with Israel here, he's crying out over them. The remnant theme carries the weight of the passage: even if Israel's number rivals the sand of the sea, only a remnant will be saved.\n\nThe word rendered \"word\" in \"finishing and cutting short\" is *logos* (logos), not a term for a legal decree — it means an utterance or reckoning, closer to \"account\" than \"command.\"\n\n\"Remnant\" is *hypoleimma* (hypoleimma), simply \"what is left over\" — the surviving portion after everything else has been cut away, echoing the small company preserved out of a nation otherwise as numerous as sand.",
   "translation": "And Isaiah is crying out over Israel: If the number of the sons of Israel should be as the sand of the sea, the remnant will be saved. For the Lord will accomplish his reckoning upon the earth, finishing it and cutting it short. And just as Isaiah has said beforehand: Unless the Lord of hosts had left to us a seed, we would have become like Sodom, and would have been made to resemble Gomorrah."
@@ -518,6 +588,11 @@
   "label": "Romans 9:30–33",
   "text": "There's no article before \"Gentiles\" in the Greek — Paul is speaking of Gentiles as a category, not a specific group.\n\n\"Followed after\" is *diōkō* (diōkō), the verb for running hard after something, chasing it down — the very picture of the earnest pursuit the Gentiles, ironically, weren't engaged in.\n\n\"Attained\" is *katalambanō* (katalambanō), \"to seize, lay hold of and make one's own\" — righteousness came to those not chasing it, and they simply took hold of it.\n\nIsrael gets a different verb for the same idea in verse 31: not *katalambanō* but *phthanō* (phthanō), \"to arrive at, reach\" — and the negative form says Israel, for all its pursuing, never reached the goal it was chasing. The contrast is exact: those not running arrived; those running never did, because they were running on the wrong track — works instead of faith.\n\n\"Righteousness\" repeats three times across these verses, underlining that this — not ancestry, not law-keeping — is the real question dividing Paul from his kinsmen. The stone Israel stumbled over is Messiah himself, the demand of faith where they expected achievement.",
   "translation": "What then shall we say? That Gentiles, the ones not chasing after righteousness, laid hold of righteousness — a righteousness, that is, that is out of faith. But Israel, chasing after a law of righteousness, did not arrive at that law. Because of what? Because they pursued it not out of faith but as out of works. They struck their foot against the stone of stumbling, just as it stands written: Behold, I am placing in Zion a stone that trips, a rock that offends, and the one believing upon him will not be put to shame."
+ },
+ {
+  "label": "Romans 10:1",
+  "text": "",
+  "translation": "Brothers, my heart’s good pleasure and my petition to God on their behalf is for salvation."
  },
  {
   "label": "Romans 10:2–4",
@@ -530,12 +605,22 @@
   "translation": "For Moses is writing that the man who does the righteousness that is of the law shall live by it. But the righteousness that is of faith speaks in this way: Do not say in your heart, Who will go up into heaven? — that is, to bring Christ down; or, Who will go down into the abyss? — that is, to bring Christ up from among the dead. But what does it say? The saying is near you, in your mouth and in your heart — this is the saying of faith, which we are proclaiming."
  },
  {
+  "label": "Romans 10:9–10",
+  "text": "Homologeses, \"confess,\" is homo- (same) + logos (word) — to say the same thing back, to agree openly with what is already true rather than merely to feel it privately.",
+  "translation": "That if you confess with your mouth the Lord Jesus, and believe in your heart that God raised him from among the dead, you shall be saved. For with the heart it is believed, resulting in righteousness; and with the mouth confession is made, resulting in salvation."
+ },
+ {
   "label": "Romans 10:11–13",
   "text": "\"Shall not be ashamed\" is better rendered \"will not be put to shame\" — *kataischynō* (kataischynō) carries a Hebrew sense of suffering repulse or defeat, not embarrassment. Paul isn't promising that believers won't feel awkward; he's promising they won't be beaten back, disappointed, left holding nothing after staking their faith on Christ.\n\n\"Difference\" is *diastolē* (diastolē), from a verb meaning \"to draw apart, distinguish\" — a plain distinction, and Paul denies there is one between Jew and Gentile (\"Greek\" standing in for Gentile generally) at the point of faith.\n\n\"Lord,\" *kyrios* (kyrios), applied here to Jesus, is the same title the Greek Old Testament uses for the divine name — using it of Christ is itself a claim to his deity, not incidental vocabulary.",
   "translation": "For the scripture says: Everyone who is believing upon him will not be put to shame. For there is no distinction between Jew and Greek, for the same Lord is Lord of all, being rich toward all who are calling upon him. For whoever calls upon the name of the Lord will be saved."
  },
  {
-  "label": "Romans 10:18",
+  "label": "Romans 10:14–17",
+  "text": "Pistis ex akoes, \"faith comes from hearing,\" closes the chain Paul builds backward from confession to preaching to being sent — each link depends entirely on the one before it, with nothing able to start the chain except God sending someone.",
+  "translation": "How then shall they call upon him in whom they have not believed? And how shall they believe in him of whom they have not heard? And how shall they hear apart from one proclaiming? And how shall they proclaim, unless they are sent? Just as it stands written: How beautiful are the feet of those proclaiming good news of good things! But not all obeyed the good news. For Isaiah says, Lord, who has believed our report? So then, faith comes from hearing, and hearing through the declaration of Christ."
+ },
+ {
+  "label": "Romans 10:18–20",
   "text": "Paul's question \"did they not hear?\" is framed to force a \"yes\" — of course they heard; he isn't wondering, he's ruling out an excuse. He proves it from Psalm 19:4, a text originally celebrating the heavens' wordless testimony to God, now applied to the gospel's spread.\n\n\"World\" renders *oikoumenē* (oikoumenē), the technical term for the settled, civilized world under Roman rule — not the broader *kosmos* — which makes Paul's claim a real, checkable one: by his day the gospel had traveled the empire about as widely as the Jewish diaspora itself. He follows with a second question: did Israel fail to *understand*?\n\n\"Know\" here is *ginōskō* (ginōskō), knowledge gained through firsthand grasp, not bare information.\n\nThe question is built with the negative *mē* (mē), which likewise expects \"no\" — Israel understood perfectly well and has no excuse.\n\nMoses had already warned that God would provoke Israel to jealousy through \"a no-people\" — Gentiles are literally termed a *no-people*, outsiders with no covenant standing, who would nevertheless receive what Israel spurned.\n\nIsaiah goes further still, saying God was \"found by those not seeking\" him — grace arriving before anyone asked.",
   "translation": "But I say, Did they not hear? Certainly they did — into all the earth their voice went out, and their words to the ends of the inhabited world. But I say, Did Israel fail to understand? First Moses says: I will provoke you to jealousy by a no-people, by a nation without understanding I will provoke you to anger. And Isaiah is bold enough to say: I was found by those not seeking me; I became revealed to those not asking for me."
  },
@@ -545,9 +630,19 @@
   "translation": "But to Israel he says: The whole day long I stretched out my hands to a people refusing to be persuaded and speaking against me."
  },
  {
+  "label": "Romans 11:1",
+  "text": "",
+  "translation": "I say then, God has not thrust away his people — has he? Away with the thought! For I too am an Israelite, of the seed of Abraham, of the tribe of Benjamin."
+ },
+ {
   "label": "Romans 11:2–4",
   "text": "\"Foreknew\" translates *proginōskō* (proginōskō); in its handful of New Testament uses about God, it carries more than advance awareness — it marks a people fixed beforehand as God's own, foreordination rather than mere prediction. That's the weight behind Paul's argument: a nation chosen in eternity cannot simply be discarded in time.\n\n\"Wot\" is *oida* (oida), certain knowledge, not opinion — Paul assumes his readers already hold this fact as settled.\n\nThe Elijah episode is introduced with an idiom meaning \"in the case of\" or \"in the history of\" Elijah, pointing to a known precedent.\n\nElijah's complaint uses *entugchanō* (entunchanō) compounded with *kata* (kata, \"against\") — literally \"to plead against\" — and \"digged down\" is *kataskaptō* (kataskaptō), \"to dig under and demolish,\" siege language turned on Israel's own altars. God's reply is a *chrēmatismos* (chrēmatismos), a divine oracle — an authoritative pronouncement, not a private impression.\n\nThe seven thousand are marked by a qualitative relative pronoun, \"who are of such a sort\" — identified not by a headcount but by character: they had not bent the knee to Baal. Paul then distinguishes *kairos* (kairos) from *chronos* (chronos): not clock-time but a strategic, decisive season — the present moment of Jew-and-Gentile inclusion is one of those hinge-points in God's plan.\n\n\"Remnant\" is *limma* (leimma), from *leipō* (leipō), \"to leave behind\" — what's left over when the rest falls away.\n\n\"Election\" is *eklogē* (eklogē), \"a picking out,\" and Paul grounds it explicitly in grace rather than merit.\n\n\"Is\" — describing both the remnant's existence and, a moment later, the nature of grace itself — is *ginomai* (ginomai), \"to become,\" a verb of coming-into-being rather than static fact: the remnant has come into permanent existence by grace, and grace, if it required works alongside it, would stop being grace altogether — the two categories cancel each other the moment they're mixed.",
   "translation": "God did not thrust away his people, whom he foreordained. Or do you not know with certainty, in the case of Elijah, what the scripture says — how he pleads against Israel: Lord, they have killed your prophets, they have dug down your altars, and I alone am left, and they are seeking my life. But what does the divine oracle say to him? I have kept in reserve for myself seven thousand men, who are of such a sort as have not bent the knee to Baal. So too, then, at this present decisive season, a remnant has come into being according to a choosing grounded in grace. But if it is by grace, it is no longer on the basis of works — otherwise grace stops being grace."
+ },
+ {
+  "label": "Romans 11:5–6",
+  "text": "Charis, \"grace,\" appears four times in one sentence — Paul repeating the word almost obsessively to shut every door back toward \"grace plus works,\" since even a small remainder of works would empty the word of the very thing that makes it grace.",
+  "translation": "So then, in the present time as well, there has come to be a remnant according to the selection of grace. And if it is by grace, it is no longer of works; otherwise grace no longer becomes grace."
  },
  {
   "label": "Romans 11:7–10",
@@ -560,7 +655,7 @@
   "translation": "I say then, They did not stumble so as to fall, did they? Certainly not! But by their stumbling, salvation has come to the Gentiles, so as to provoke them to jealousy."
  },
  {
-  "label": "Romans 11:12",
+  "label": "Romans 11:12–14",
   "text": "\"Diminishing\" translates *hēttēma* (hēttēma), a word for defeat and loss, not a shrinking headcount — Israel's problem is a forfeited inheritance, not fewer people.\n\nPaul argues from lesser to greater: if Israel's defeat already overflowed into riches for the world, \"fullness\" — *plērōma* (plērōma), \"that which has been filled up, completed\" — names Israel's future full restoration, and that completion promises gains far exceeding what the Gentiles have already gained from Israel's failure.\n\nThe connecting word is *de* (de), \"but,\" marking a turn in direction rather than *gar* (\"for\") giving a reason — Paul isn't explaining why Gentiles matter, he's pivoting to his own stake in the matter.\n\n\"Magnify\" is *doxazō* (doxazō), \"to glorify\" — Paul honors his Gentile ministry by discharging it faithfully, and he does so with an eye toward his own people: the more fruitful his work among Gentiles, the more likely it is to provoke his kinsmen to jealousy.\n\n\"Provoke to emulation\" and \"provoke to jealousy\" translate the same verb, *parazēloō* (parazēloō) — Paul's Gentile mission is deliberately aimed, in part, at making Israel want back what it walked away from.",
   "translation": "Now if their fall means riches for the world, and their defeat and loss means riches for the Gentiles, how much more will their fullness mean? But I am speaking to you Gentiles. Since, then, I am an apostle to the Gentiles, I bring honor to my ministry, if somehow I may provoke to jealousy those of my own flesh, and save some of them."
  },
@@ -575,6 +670,11 @@
   "translation": "Now since the first portion is holy, so is the whole lump; and since the root is holy, so are the branches. Now since some of the branches were broken off, and you, a wild olive shoot, were grafted in among them and became a partaker with them of the root and the richness of the olive tree, stop boasting against the branches. But if you do boast — remember, you do not support the root; the root supports you."
  },
  {
+  "label": "Romans 11:17–18",
+  "text": "",
+  "translation": "But if some of the branches were broken off, and you, a wild olive, were grafted in among them and became a fellow-partaker of the root of the fatness of the olive tree, do not boast against the branches; but if you do boast, remember — you do not bear the root, but the root bears you."
+ },
+ {
   "label": "Romans 11:19–21",
   "text": "\"Well\" translates *kalōs* (kalōs), used here as a term of grudging, partly ironic concession — Paul isn't agreeing, he's letting the objection stand only long enough to correct it.\n\nThe point he presses is that both being broken off and standing firm are governed by moral conditions, not automatic status: the branches were broken off \"because of unbelief,\" and the one standing now stands \"by faith,\" full stop — no inherited immunity either way. The comparison is corporate throughout — the nation Israel and the Gentile world as collective entities — not a statement about any one believer's grip on salvation. Paul's warning targets presumption in a class of people, unbelieving Gentiles who might coast on privilege, not genuine faith itself: if God did not spare the natural branches for unbelief, he will not spare branches grafted in artificially if they fall into the same unbelief.",
   "translation": "You will say then, Branches were broken off so that I might be grafted in. Granted. They were broken off because of unbelief, and you stand by faith. Do not be high-minded, but be fearing; for if God did not spare the natural branches, neither will he spare you."
@@ -585,7 +685,7 @@
   "translation": "See then the kindness and the severity of God — severity toward those who fell, but toward you, kindness, provided you keep on abiding in that kindness. Otherwise you too will be cut out."
  },
  {
-  "label": "Romans 11:23",
+  "label": "Romans 11:23–29",
   "text": "\"They\" is *ekeinos* (ekeinos), \"those,\" a pointed, at-arm's-length pronoun for the unbelieving Jews. The condition is again *ean* (ean), genuinely open — nothing forces their unbelief to continue.\n\nPaul's claim that \"God is able\" assumes not just the possibility but the real difficulty of regrafting what was cut away — restoring a broken branch is a harder feat than grafting in a wild one to begin with.\n\n\"Mystery\" is *mustērion* (mustērion), a once-hidden plan of God now disclosed to believers, not a puzzle left unsolved.\n\nPaul distinguishes two timelines that are easy to blur: the political dominance of Gentile powers over Israel, running from Babylon to the final defeat of Antichrist, and the \"fullness of the Gentiles,\" the completion of the Church, the body gathered from Pentecost onward.\n\nIsrael's hardening is explicitly partial — \"in part\" — and time-bound, lasting only until that fullness is reached.\n\n\"And thus\" describes manner more than sequence — not merely \"afterward\" but \"by this means\": through the very jealousy Gentile inclusion was designed to provoke, the nation as a corporate whole will be saved, each living Israelite converted at once at the Messiah's return, fulfilling covenant language about a Deliverer removing Jacob's sin.\n\nFinally, \"concerning\"/\"touching\" render *kata* (kata), marking two respects in which God relates to Israel: hostile as measured by their present rejection of the gospel, beloved as measured by his covenant with the fathers.\n\n\"Gifts\" is *charisma* (charisma), a favor given without any merit earning it — a stronger word than the ordinary *dōron* (dōron), \"gift.\"\n\n\"Calling\" is *klēsis* (klēsis), the technical term for God's authoritative summons into his kingdom, not a modern \"vocation.\"\n\nAnd \"without repentance\" is *ametamelētos* (ametamelētos), built on *metamelomai* (metamelomai), \"to change one's mind\" — God's gifts and calling to Israel are not subject to a change of his mind; what he has promised the nation remains irrevocably on the books.",
   "translation": "And those also, if they do not continue in their unbelief, will be grafted in; for God is able to graft them in again. For if you were cut out of what is by nature a wild olive tree, and contrary to nature were grafted into a cultivated olive tree, how much more will these, who are the natural branches, be grafted back into their own olive tree? For I do not want you to be ignorant of this mystery, brothers, so that you may not be wise in your own estimation: a hardening in part has come upon Israel, until the fullness of the Gentiles has come in. And by this means all Israel will be saved, just as it stands written: Out of Zion will come the Deliverer; he will turn ungodliness away from Jacob. And this is my covenant with them, when I take away their sins. As regards the gospel, they are enemies for your sake; but as regards God's choice, they are beloved for the fathers' sake. For the gifts and the calling of God are not subject to a change of his mind."
  },
@@ -600,6 +700,11 @@
   "translation": "O the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments, and how untraceable his ways! For who has known the mind of the Lord, or who became his counselor? Or who has first given to him, that it should be repaid to him? Because from him, and through him, and to him, are all things. To him be the glory forever. Amen."
  },
  {
+  "label": "Romans 12:1",
+  "text": "Logiken latreian, \"rational service,\" uses logikos — the root behind \"logic\" — to describe worship engaging the reasoning mind, not ritual performed apart from understanding.",
+  "translation": "I am urging you, therefore, brothers, through the compassions of God, to present your bodies a sacrifice, living, holy, well-pleasing to God — your rational service."
+ },
+ {
   "label": "Romans 12:2",
   "text": "\"Conformed\" translates *sunschēmatizō* (sunschēmatizō), built on *schēma* (schēma), an outward shape put on from outside rather than grown from within, with the prefix *sun*- specifying the pattern being copied: this present age, *aiōn* (aiōn) — not the created world but the shifting climate of thought and fashion current in it at any given moment. The verb is a present imperative with the negative *mē* (mē), a construction that in Greek doesn't forbid starting something but orders the stopping of something already underway: quit letting the age keep pressing you into its mold.\n\nSet against it is *metamorphoomai* (metamorphoomai), \"transformed\" — the very word used of Christ on the mountain, where the glory already His by nature broke through to the surface. Applied to the believer, it isn't a new costume but a different source: an outward expression rising out of a genuinely changed inner life, sustained through *anakainōsis* (anakainōsis), the ongoing renewal of the mind, not a single decision but a continuing overhaul. The purpose clause leans on *dokimazō* (dokimazō), the verb for testing metal to certify it genuine — as the mind is remade, a believer is able to put God's will to the test and find it approved: good, pleasing, and *teleios* (teleios), lacking nothing needed to be whole.",
   "translation": "And stop being conformed to this age, but keep on being transformed by the renewing of your mind, so that you keep testing and approving what the will of God is — the good and pleasing and complete will."
@@ -608,6 +713,11 @@
   "label": "Romans 12:3",
   "text": "Paul stacks three verbs on the same root, *phroneō* (phroneō), \"to form a judgment, to think.\"\n\nNo one is to *huperphronein* (huperphronein) — to over-think himself, the same *huper*- prefix behind our word \"hyper,\" pushing self-estimate past the mark — but rather to *sōphronein* (sōphronein), literally to think within sound limits, from *sōs* (\"sound\") and *phrēn* (\"mind\"): a calm, accurately sized self-assessment, which has nothing to do with false modesty and everything to do with getting the number right.\n\nThe standard for that estimate is introduced by *kata* (kata), \"down along, in keeping with\" — each believer's gauge is fixed by the measure of faith God apportioned him, not by comparison with somebody else's. Paul immediately backs the point with the body: *praxis* (praxis), a member's function or mode of operating, differs from part to part, yet every part belongs to one body. Sober self-estimate, in other words, isn't self-erasure — it's seeing your one function clearly inside a body that needs all the others too.",
   "translation": "For I am saying, through the grace given to me, to everyone among you: do not be thinking more highly of yourself than you ought to be thinking, but be thinking so as to be sound-minded, each one according to the measure of faith God apportioned to him."
+ },
+ {
+  "label": "Romans 12:4–5",
+  "text": "",
+  "translation": "For just as in one body we have many members, and all the members do not have the same function, so we, the many, are one body in Christ, and individually members belonging to one another."
  },
  {
   "label": "Romans 12:6–8",
@@ -625,14 +735,29 @@
   "translation": "Be constantly blessing those who are persecuting you; be blessing and stop cursing. Be rejoicing with those who rejoice, be weeping with those who weep. Be of the same mind toward one another; not setting your mind on the high things, but being carried along together with the lowly. Stop being wise in your own estimation."
  },
  {
+  "label": "Romans 12:17–18",
+  "text": "",
+  "translation": "Repay to no one evil in exchange for evil; take thought beforehand for what is beautiful in the sight of all men. If possible, so far as it depends on you, be at peace with all men."
+ },
+ {
   "label": "Romans 12:19–21",
   "text": "\"Avenge\" is *ekdikeō* (ekdikeō), \"to assert one's own right,\" and once again the construction is a present imperative with the negative — an order to end something already underway: stop taking your own justice into your own hands.\n\nIn its place, \"give place to wrath\" — the definite article marks a specific wrath, God's — meaning leave the space empty rather than crowding in to do His job for Him.\n\nThe repayment verb, *antapodidōmi* (antapodidōmi), stacks two prepositions onto \"give\" to intensify it into \"pay back in full,\" and that full reckoning belongs to God alone. The coals-on-the-head image draws on an everyday hardship: a hearth fire gone out meant walking to a neighbor and carrying home borrowed embers in a container balanced on the head. Handing an enemy a generous supply of coals wasn't cruelty — it met a real, humbling need and could turn hostility into gratitude.\n\nThe chapter closes with a matched pair of present imperatives, \"stop being conquered\" by evil and \"keep on conquering\" evil with good, putting the believer on the offensive rather than the defensive.",
   "translation": "Stop avenging yourselves, beloved, but leave room for the wrath; for it stands written, Vengeance belongs to me, I will repay in full, says the Lord. But if your enemy hungers, be feeding him; if he thirsts, be giving him drink; for in doing this you will be heaping coals of fire upon his head. Stop being overcome by evil, but keep on overcoming evil with good."
  },
  {
+  "label": "Romans 13:1",
+  "text": "Tetagmenai, \"have been set in order,\" is perfect passive — a settled, standing arrangement, not a one-time act of appointment now finished and behind us.",
+  "translation": "Let every soul keep itself in subjection to the governing authorities. For there is no authority except by God; and those that exist have been set in order by God, and so remain."
+ },
+ {
   "label": "Romans 13:2",
   "text": "The one who \"resists\" is described with a middle-voice participle of *antitassō* (ἀντιτάσσω) — the picture isn't of resistance done to him but resistance he stages himself: he arranges himself in battle order against the authority, like troops drawn up for a fight he started.\n\nWhat he has thereby done to God's ordinance is put in a different verb, *anthistēmi* (ἀνθίστημι), and it's perfect tense — not \"he opposed\" as a completed past act but \"he stands opposed,\" a settled, ongoing condition he has put himself into and continues to occupy.\n\n\"Judgment\" translates *krima* (κρίμα), the plain word for a judicial sentence handed down by a magistrate — Paul pictures an actual verdict, not a vague cosmic comeuppance.",
   "translation": "So that the one who is arraying himself in battle against the authority has set himself in permanent opposition to the ordinance of God; and those who stand in that permanent opposition shall receive judgment for themselves."
+ },
+ {
+  "label": "Romans 13:3–4",
+  "text": "",
+  "translation": "For rulers are not a terror to the good work, but to the evil. Do you want to be unafraid of the authority? Do what is good, and you will have praise from it; for it is God’s servant to you for good. But if you do what is evil, be afraid; for it does not bear the sword for nothing — it is God’s servant, an avenger to bring wrath upon the one practicing evil."
  },
  {
   "label": "Romans 13:5–7",
@@ -643,6 +768,16 @@
   "label": "Romans 13:8",
   "text": "\"Owe no man anything\" is a present imperative with the negative *mē* (μή) — grammatically this doesn't forbid ever incurring a debt, it forbids the continuation of one already running. Paul isn't outlawing loans; he's telling people who owe money to settle up. The one debt he deliberately exempts is love — the kind the Spirit produces in a believer, self-giving toward the person loved. Unlike every other debt, this is one that grows the more it's paid: discharging it doesn't cancel it, it deepens the capacity for more.",
   "translation": "Stop owing to even one person, even one thing — except to be continually loving one another. For the one who is loving another has fulfilled the law."
+ },
+ {
+  "label": "Romans 13:9–14",
+  "text": "Anakephalaioutai, \"is summed up,\" is a rich compound — ana- (\"again\") plus kephalaion (\"head, main point\") — to head everything back up under one point. Engiken, \"has drawn near, and remains near,\" is the same perfect verb Mark uses of the kingdom of God (Mark 1:15).",
+  "translation": "For this: You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet, and if there is any other commandment, it is summed up in this statement: You shall love your neighbor as yourself. Love does no wrong to the neighbor; love therefore is the fulfillment of the law. And this, knowing the season, that it is already the hour for you to be roused out of sleep; for now our salvation is nearer than when we first believed. The night is far gone, and the day has drawn near, and remains near. Let us therefore throw off the works of darkness, and let us put on the weapons of light. Let us walk becomingly, as in the day — not in reveling and drunkenness, not in sexual immorality and shameless deeds, not in strife and jealousy. But put on the Lord Jesus Christ, and make no provision for the flesh, unto its lusts."
+ },
+ {
+  "label": "Romans 14:1–3",
+  "text": "",
+  "translation": "Receive the one who is weak in the faith, but not for the purpose of passing judgment on his reasonings. One man has faith to eat all things; but the one who is weak eats only vegetables. Let not the one who eats look down on the one who does not eat; and let not the one who does not eat judge the one who eats, for God has received him."
  },
  {
   "label": "Romans 14:4",
@@ -705,6 +840,16 @@
   "translation": "It is good not to eat flesh, nor to drink wine, nor to do anything by which your brother stumbles."
  },
  {
+  "label": "Romans 14:22–23",
+  "text": "Ho diakrinomenos, \"the one who doubts,\" is a present participle from the same root as \"divided\" — caught between two judgments rather than settled on one, which is exactly why acting is dangerous: whatever is not out of conviction is, by definition, sin.",
+  "translation": "The faith which you have, keep to yourself before God. Happy is the one who does not judge himself in what he approves. But the one who doubts, if he eats, stands condemned, because it is not out of faith; and everything that is not out of faith is sin."
+ },
+ {
+  "label": "Romans 15:1–3",
+  "text": "",
+  "translation": "Now we who are strong ought to bear the weaknesses of those without strength, and not to please ourselves. Let each of us please his neighbor, for his good, unto building up. For Christ also did not please himself; but, just as it stands written, The reproaches of those who were reproaching you fell upon me."
+ },
+ {
   "label": "Romans 15:4",
   "text": "\"That\" translates *hina* (ἵνα), a genuine purpose clause — Scripture wasn't written by accident for later readers, it was aimed at them on purpose, \"for our learning.\"\n\n\"Comfort\" is *paraklēsis* (παράκλησις), a wide word built on \"calling alongside\" — it covers everything from exhortation to consolation to encouragement, whatever help a person in need requires, not just soothing. Paul pairs it with patience as the twin products Scripture is meant to produce, both feeding into hope.",
   "translation": "For whatever things were written beforehand were written for our instruction, in order that through the patience and through the encouragement that comes from the Scriptures we might keep on having hope."
@@ -713,6 +858,11 @@
   "label": "Romans 15:5–7",
   "text": "\"That\" (*hina*) again marks purpose: the unity Paul prays for isn't the goal itself, it's aimed at something further — glorifying God with one voice.\n\nThe little word sometimes rendered \"even\" is just *kai* (καί), ordinary \"and,\" and the better reading treats it plainly: \"the God and Father of our Lord Jesus Christ,\" naming God specifically as the Father of Jesus, the same construction Paul uses elsewhere.\n\n\"Receive\" is *proslambanō* (προσλαμβάνω) in the middle voice — \"take to oneself,\" the language of drawing someone into one's own circle, granting them access to one's heart. The standard Paul sets is Christ's own reception of each believer — no lower bar is available for how they're to receive one another.",
   "translation": "Now may the God of the patience and the encouragement give to you to be of the same mind with one another according to Christ Jesus, in order that with one accord, with one mouth, you may keep on glorifying the God and Father of our Lord Jesus Christ. Therefore keep on taking one another to yourselves, just as Christ also took us to himself, for the glory of God."
+ },
+ {
+  "label": "Romans 15:8–9",
+  "text": "",
+  "translation": "For I say that Christ has become a servant of the circumcision on behalf of God’s truthfulness, so as to confirm the promises given to the fathers, and that the Gentiles might glorify God for his mercy; just as it stands written, For this reason I will confess to you among the Gentiles, and will sing praise to your name."
  },
  {
   "label": "Romans 15:10–12",
@@ -730,6 +880,11 @@
   "translation": "But I myself stand fully persuaded concerning you, my brothers, that you yourselves also are full of goodness, having been filled to completion with all knowledge, so that you are able to keep on admonishing one another. Yet I write to you the more boldly, in some measure, as one reminding you again, because of the grace given to me from God that I should be a minister of Christ Jesus to the Gentiles, serving as a priest in the good news of God, so that the offering up of the Gentiles may become acceptable, having been sanctified by the Holy Spirit."
  },
  {
+  "label": "Romans 15:15–16",
+  "text": "",
+  "translation": "But I have written to you rather boldly, brothers, in some measure, as reminding you again, because of the grace given to me by God, that I should be a minister of Christ Jesus to the Gentiles, serving as a priest of the good news of God, so that the offering up of the Gentiles might become acceptable, having been sanctified by the Holy Spirit."
+ },
+ {
   "label": "Romans 15:17–21",
   "text": "Paul's \"glorying\" is \"in Christ Jesus\" — the boast belongs entirely to what Christ accomplished through him, not to his own résumé; he immediately shuts down any claim about \"anything which Christ did not work through me.\"\n\nThe miracles he cites come under two different Greek words with different emphases: *sēmeion* (semeion), \"sign,\" stresses the evidential force of a miracle — the credential proving the message came from God — while *teras* (teras), \"wonder,\" stresses its startling, memorable character. Paul's ministry carried both kinds of force.\n\n\"Fully preached\" translates *plēroō* (pleroo) in the perfect tense with *euaggelion* (euangelion), \"good news\" — Paul does not mean he reached every individual from Jerusalem to Illyricum, but that he brought the gospel's proclamation to completion across that whole territory, leaving nothing undone in his assigned task.\n\n\"Strived\" is *philotimeomai* (philotimeomai), literally \"moved by love of honor\" — his refusal to preach where Christ was already named was a matter of honor, not rivalry: he simply would not build on another man's foundation.",
   "translation": "I therefore keep my glorying in Christ Jesus, in the things pertaining to God. For I will not dare to speak of anything except what Christ has worked through me, resulting in the obedience of the Gentiles, by word and deed, by the power of attesting signs and astonishing wonders, by the power of the Holy Spirit — so that from Jerusalem and around as far as Illyricum I have brought the proclaiming of the good news of Christ to completion. And in this way I have made it a point of honor to keep announcing the good news, not where Christ has already been named, so that I would not be building on another man's foundation; but, just as it stands written, Those to whom no report concerning him was made, they shall see, and those who have not heard, they shall understand."
@@ -745,9 +900,19 @@
   "translation": "But now I am journeying to Jerusalem, ministering to the saints. For Macedonia and Achaia were pleased to make a certain joint contribution for the poor of the saints who are in Jerusalem. They were pleased to do it, and they are debtors to them, since the Gentiles have come to share in their spiritual things, and are therefore obligated to serve them in material things. When, then, I have carried this through to completion and have sealed to them this fruit, I will go on through you into Spain — and I know that when I come to you, I will come in the fullness of the blessing of Christ."
  },
  {
+  "label": "Romans 15:28–29",
+  "text": "",
+  "translation": "When, therefore, I have finished this, and have sealed to them this fruit, I will go on through you into Spain. And I know that when I come to you, I will come in the fullness of the blessing of Christ."
+ },
+ {
   "label": "Romans 15:30–33",
   "text": "The \"for\" in \"for our Lord Jesus Christ\" and \"for the love of the Spirit\" is *dia* (dia) with the genitive, marking agency — \"through,\" not \"for the sake of.\" Paul is not just citing these as reasons; he is naming the actual means by which he expects the Romans to be moved to pray.\n\n\"Strive together\" is *sunagonizomai* (sunagonizomai), an athletic term for teammates competing shoulder to shoulder in the games — Paul wants the Romans wrestling alongside him in prayer with the coordinated intensity a team brings to a contest.\n\n\"Believe not\" is *apeitheō* (apeitheo), built from *peithō* (peitho), \"to persuade,\" with a negating prefix — literally \"those resistant to persuasion,\" people who have set themselves against being won over. That is the danger Paul is bracing for in Judea.",
   "translation": "Now I beg you, brothers, through our Lord Jesus Christ and through the love that the Spirit produces, to keep contending together with me, as teammates, in your prayers to God on my behalf, that I may be rescued from those resistant to persuasion in Judea, and that my service for Jerusalem may prove acceptable to the saints, so that I may come to you in joy by the will of God and find rest together with you. Now may the God of peace be with you all. Amen."
+ },
+ {
+  "label": "Romans 16:1–4",
+  "text": "Diakonos, \"servant,\" is the same word behind \"deacon\" — Paul commends Phoebe by an official church title, not just a description of her character.",
+  "translation": "Now I commend to you Phoebe our sister, who is a servant of the church that is at Cenchreae, that you may receive her in the Lord in a manner worthy of the saints, and may stand by her in whatever matter she may have need of you; for she herself has also stood as a helper of many, and of myself as well. Greet Prisca and Aquila, my fellow workers in Christ Jesus, who risked their own necks for my life, to whom not only I give thanks, but also all the churches of the Gentiles."
  },
  {
   "label": "Romans 16:5",

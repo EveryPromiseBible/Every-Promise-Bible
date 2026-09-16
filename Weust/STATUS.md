@@ -345,7 +345,31 @@ of entries closely — but none has had this specific completeness check run
 against it the way Mark just did. Worth doing before calling any of them
 complete.
 
-**Remaining work:** 1-3 John and Jude are finished in `Weust/*.json` but
-were never compiled into `data/weust.js` at all. They need the tense
-audit, this same completeness audit, and the compile step. Next up:
-1 John.
+## Content-completeness audit — Romans (156 -> 189 entries)
+
+Same method as Mark: verse-by-verse against `KJV.json`. Found 90 of 433
+verses uncovered, about the same 21% rate as Mark and the same two-part
+mix — roughly half mislabeling (e.g. "Romans 11:23" already contained all
+of verses 23-29 in full, just labeled as one verse; "Romans 10:18" already
+covered 18-20), half genuine gaps. The genuine gaps included some of the
+letter's best-known material: 1:1 (Paul's own opening self-description),
+3:19-20 and 3:27-28 ("by the law is the knowledge of sin," "justified by
+faith without the deeds of the law"), 4:1-5 (Abraham believing God,
+credited as righteousness — the Genesis 15:6 citation the whole chapter
+argues from), 5:1 ("being justified by faith, we have peace with God"),
+6:3-4 (buried with him by baptism into death), 9:1-9 (Paul's anguish over
+Israel, and "Christ, who is over all, God blessed forever"), 12:1 ("present
+your bodies a living sacrifice"), 13:1 and 13:9-14 (submission to
+authorities; love as the fulfillment of the law, "put on the Lord Jesus
+Christ"), and 16:1-4 (the commendation of Phoebe).
+
+Fixed all of it the same way: relabeled the mislabeled entries, drafted
+original translation and commentary for every genuine gap from the tagged
+Greek (`tools/data/66-Ro-morphgnt.txt`). Romans now has verified content
+for all 433 of its verses — no textual-variant exceptions this time, unlike
+Mark. Re-spliced into `data/weust.js`.
+
+**Remaining work:** Galatians, Ephesians, Philippians, Colossians, Titus,
+Hebrews, 1 & 2 Timothy, and 1 Peter still need this same completeness
+audit. 1-3 John and Jude still need the tense audit, this completeness
+audit, and the compile step. Next up: Galatians.
