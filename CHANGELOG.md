@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: project complete, all 16 books audited (1,394 entries)
+
+1 Peter came back fully clean (0 of 105 verses uncovered). 1 John, 2 John, 3 John, and Jude had never been
+compiled into `data/weust.js` and had never had either audit run -- both came back completely clean for all
+four (some of the most careful tense-handling in the corpus), and are now compiled in for the first time.
+
+This closes out the full project: every book Wuest covered has now been checked for tense/mood/voice
+accuracy against the tagged Greek and for whether each entry's content actually matches its own label's
+verse range, and all 16 are compiled into `data/weust.js` -- 1,394 entries, confirmed live, zero structural
+errors. Along the way: 3 tense fixes, and a completeness pass that added entries to Mark (364->426), Romans
+(156->189), Ephesians (66->88), Philippians (52->56), Colossians (44->48), Titus (21->22), Hebrews
+(155->211), 1 Timothy (42->58), and 2 Timothy (35->46). Galatians, 1 Peter, and 1-3 John/Jude needed no
+content fixes.
+
 ## 2026-09-16 — Wuest commentary: 1 & 2 Timothy's completeness bugs fixed (42->58, 35->46 entries)
 
 1 Timothy: 41 of 113 verses uncovered (36%). 2 Timothy: 31 of 83 (37%). Both closer to Hebrews' pattern than

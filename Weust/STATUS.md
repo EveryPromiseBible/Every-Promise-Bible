@@ -466,6 +466,42 @@ entrust the faith to "faithful men who shall be able to teach others also"
 God-breathed" (3:14-17, the theopneustos verse). Both books now have
 verified content for every verse. Re-spliced into `data/weust.js`.
 
-**Remaining work:** 1 Peter still needs this completeness audit. 1-3 John
-and Jude still need the tense audit, this completeness audit, and the
-compile step. Next up: 1 Peter.
+## Content-completeness audit — 1 Peter (already clean) and tense + compile for 1-3 John and Jude
+
+1 Peter: 0 of 105 verses uncovered — already fully complete, no fix
+needed.
+
+1 John, 2 John, 3 John, and Jude had never been compiled into
+`data/weust.js` at all, and had never had either audit run against them.
+Both audits came back completely clean for all four: 0 of 105, 13, 14, and
+25 verses uncovered respectively, and every flagged verb (24/24, 4/4, 4/4,
+9/9 entries had at least one present participle, perfect, imperfect, or
+subjunctive worth checking) held up under review — this is some of the
+most careful tense-handling in the whole corpus ("has been begotten of
+God," "is habitually sinning," "is continually purifying himself"). No
+fixes needed in either book. Compiled all four into `data/weust.js` for
+the first time.
+
+## Project complete: all 16 Wuest books audited for tense and content-completeness
+
+Every book Wuest covered with running commentary has now been checked
+twice over — once for tense/mood/voice accuracy against the tagged Greek
+(`tools/data/*-morphgnt.txt`), once for whether each entry's actual
+content matches the verse range its own label claims — and is compiled
+into `data/weust.js`. Final tally: **1,394 entries across 16 books**,
+confirmed live via `weustVerseLookup()` with zero structural errors.
+
+Fixes made along the way: 3 tense fixes (Romans 5:17, Romans 13:2,
+Galatians 6:13) and a large content-completeness pass that took Mark from
+364 to 426 entries, Romans from 156 to 189, Ephesians from 66 to 88,
+Philippians from 52 to 56, Colossians from 44 to 48, Titus from 21 to 22,
+Hebrews from 155 to 211, 1 Timothy from 42 to 58, and 2 Timothy from 35 to
+46 — genuine missing verses ranging from single connector clauses to whole
+pericopes (the Transfiguration's own description, the temple cleansing's
+action, "all scripture is God-breathed," the once-for-all-sacrifice
+argument in Hebrews 9). Galatians, 1 Peter, and all of 1-3 John and Jude
+needed no content fixes at all.
+
+**What's not done:** the "next steps" from the top of this file (a closer
+editorial QA pass beyond the automated checks, and site integration
+beyond the word-lookup popup) remain open.
