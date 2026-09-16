@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: 1 & 2 Peter audited and compiled, a real gap found in 2 Peter
+
+Checked 1 Peter (39/46 flagged, clean) and 2 Peter (18/21 flagged) against their MorphGNT files, then
+compiled both into `data/weust.js` for the first time -- they'd been finished in `Weust/*.json` but never
+wired into the compiled file the site actually reads.
+
+2 Peter turned up something more serious than a tense miss: the "2 Peter 2:20-22" entry's translation had
+no content at all for verse 20 -- it jumped straight from verse 19's material to verse 21's "it would have
+been better," even though the label claimed to cover 20-22. Wrote verse 20's translation and added
+commentary on its two perfect-tense verbs (*hettontai*, "have been overcome" -- the same verb Peter used of
+the false teachers themselves one verse earlier; *gegonen*, "has become," a completed and lasting
+deterioration, not a static comparison). Also fixed 2:19's own use of the same verb, which had been
+flattened to "is overcome" instead of matching its neighbor "has been enslaved."
+
+This surfaces a gap the tense audit wasn't built to catch: a multi-verse entry's label can claim more
+verses than its actual English content covers, and nothing systematic checks for that across the corpus.
+Flagged as a follow-up worth doing separately. Next: 1 John.
+
 ## 2026-09-16 — Wuest commentary: tense audit closes out the compiled books
 
 Checked 1 Timothy (27/42 flagged) and 2 Timothy (24/35 flagged) against their MorphGNT files. Both clean --

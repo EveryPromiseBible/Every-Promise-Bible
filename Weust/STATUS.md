@@ -235,8 +235,53 @@ This closes out the audit of every book currently compiled into
 5:17, Romans 13:2, Galatians 6:13 — the rest (Mark, Ephesians, Philippians,
 Colossians, Titus, Hebrews, 1 & 2 Timothy) came back clean.
 
-**Remaining work:** 1 & 2 Peter, 1-3 John, and Jude are finished in
-`Weust/*.json` but were never compiled into `data/weust.js` at all (a
-separate gap found during this audit, unrelated to tense — see the top of
-this file). They need both the tense audit and the compile step. Next up:
-1 Peter.
+## Tense audit against the actual Greek — 1 Peter (46/46 checked, clean)
+
+Same method, against `tools/data/81-1Pe-morphgnt.txt`. 39 of 46 entries
+flagged. **No fixes needed.** 1:4's "having been kept — and continuing to
+be kept — in the heavens for you" is a standout perfect-participle
+rendering. Compiled into `data/weust.js` for the first time (see below).
+
+## Tense audit against the actual Greek — 2 Peter (21/21 checked) — and a real content gap, not just tense
+
+Same method, against `tools/data/82-2Pe-morphgnt.txt`. 18 of 21 entries
+flagged. This one turned up something more serious than a tense miss:
+**the "2 Peter 2:20–22" entry's translation and commentary had no content
+at all for verse 20** — the "escaped the pollutions of the world... again
+entangled... latter end worse than the beginning" clause was entirely
+absent, jumping straight from the verse-19 material to verse 21's "it would
+have been better." The label range said 20–22; the actual English covered
+only 21–22. This is a coverage gap, not a tense error — worth naming
+plainly since it's a different failure mode than what this audit was
+built to catch (label-range coverage was verified project-wide already;
+whether the *content* inside a multi-verse entry actually covers every
+verse in its own range was not).
+
+Fixed by writing verse 20's translation ("For if, after they have escaped
+the defilements of the world... their last state has become worse for them
+than the first") and adding commentary on its two perfect-tense verbs:
+*hēttōntai* (ἡττῶνται, "have been overcome") — the same verb, same tense,
+Peter used one verse earlier of the false teachers' own condition, a
+deliberate echo the original entry's commentary never mentioned because
+the clause using it wasn't there — and *gegonen* (γέγονεν, "has become"),
+perfect rather than a static "is," meaning a completed, lasting
+deterioration. While fixing this, also caught and fixed the adjacent
+inconsistency this parallel exposed: 2:19's *hēttatai* (same lemma, same
+perfect tense) had been rendered as a flat present, "is overcome," instead
+of matching 2:19's own "has been enslaved" — fixed to "has been overcome."
+
+**This raises a real question for the rest of the corpus:** if one
+multi-verse entry can silently drop a whole verse's content while still
+carrying a label that claims to cover it, others might too. The tense
+audit only surfaces this by accident (a flagged verb pointing at a clause
+that turns out not to exist in the translation) — it doesn't systematically
+check for it. **Not yet done: a dedicated content-completeness sweep**
+(comparing each multi-verse entry's actual English content against every
+verse in its claimed range, independent of tense) across all 16 books.
+Worth doing as a follow-up, flagged here rather than attempted mid-audit.
+
+Compiled into `data/weust.js` for the first time (see below).
+
+**Remaining work:** 1-3 John and Jude are finished in `Weust/*.json` but
+were never compiled into `data/weust.js` at all. They need both the tense
+audit and the compile step. Next up: 1 John.
