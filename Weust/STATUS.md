@@ -449,6 +449,23 @@ books now have verified content for every verse. Re-spliced into
 `data/weust.js` and confirmed live (1,326 entries across 12 books, zero
 structural errors).
 
-**Remaining work:** 1 & 2 Timothy and 1 Peter still need this completeness
-audit. 1-3 John and Jude still need the tense audit, this completeness
-audit, and the compile step. Next up: 1 Timothy.
+## Content-completeness audit — 1 Timothy (42 -> 58 entries) and 2 Timothy (35 -> 46 entries)
+
+1 Timothy: 41 of 113 verses uncovered (36%), 2 Timothy: 31 of 83 (37%) —
+both closer to Hebrews' pattern than the earlier epistles: entries were
+already tightly scoped, so almost none of it was mislabeling, nearly all
+genuine gaps. 1 Timothy's included the opening greeting (1:1-4), the call
+to prayer "for kings, and all that are in authority" (2:1-2), the
+women-in-the-assembly instructions (2:9-12), the overseer and deacon
+qualifications in pieces (3:1, 3:4-5, 3:8-9, 3:12-15), the "spirits and
+doctrines of demons" warning (4:1-5), and the widow/elder instructions in
+chapter 5. 2 Timothy's included its own opening (1:1-2), "life and
+immortality to light through the gospel" (1:10-11), Timothy charged to
+entrust the faith to "faithful men who shall be able to teach others also"
+(2:1-4), the perilous-times catalogue (3:1-7), and "all scripture is
+God-breathed" (3:14-17, the theopneustos verse). Both books now have
+verified content for every verse. Re-spliced into `data/weust.js`.
+
+**Remaining work:** 1 Peter still needs this completeness audit. 1-3 John
+and Jude still need the tense audit, this completeness audit, and the
+compile step. Next up: 1 Peter.

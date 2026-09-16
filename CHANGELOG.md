@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: 1 & 2 Timothy's completeness bugs fixed (42->58, 35->46 entries)
+
+1 Timothy: 41 of 113 verses uncovered (36%). 2 Timothy: 31 of 83 (37%). Both closer to Hebrews' pattern than
+the earlier epistles -- almost no mislabeling, nearly all genuine gaps: opening greetings, the call to pray
+"for kings and all in authority" (1 Tim 2:1-2), overseer/deacon qualifications in pieces, the "spirits and
+doctrines of demons" warning (1 Tim 4:1-5), 2 Timothy's "life and immortality to light through the gospel"
+(1:10-11), the perilous-times catalogue (3:1-7), and "all scripture is God-breathed" (3:14-17). Both books
+now verified complete. Next: 1 Peter.
+
 ## 2026-09-16 — Wuest commentary: Titus clean, Hebrews's completeness bug fixed (155 -> 211 entries)
 
 Titus needed only the opening greeting (1:1-4). Hebrews was the biggest completeness gap yet: 139 of 303
