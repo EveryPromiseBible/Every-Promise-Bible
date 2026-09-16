@@ -170,8 +170,18 @@ translation to "those who **are having themselves circumcised**," matching
 5:3's phrasing exactly, and added a note to the commentary pointing back to
 5:2-3 so the parallel is explicit.
 
-**Not yet audited this way:** Ephesians, Philippians, Colossians, Titus,
-Hebrews, 1 & 2 Timothy (compiled into `data/weust.js` but not yet checked
-against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude (finished in
-`Weust/*.json` but not yet compiled into `data/weust.js` at all —
-`data/weust.js` currently has 10 of the 16 books). Next up: Ephesians.
+## Tense audit against the actual Greek — Ephesians (66/66 checked, clean)
+
+Same method, against `tools/data/70-Eph-morphgnt.txt`. 40 of 66 entries
+flagged. **No fixes needed** — if anything this book is where the project's
+handling of the perfect tense is at its best, since Ephesians is full of
+Wuest's signature territory (positional truth, "by grace you have been
+saved"): 2:5/2:8's "you have been in a saved state ... and you remain so"
+and 4:18's "who have been permanently darkened ... who stand alienated"
+both nail the perfect's completed-action-with-abiding-result force exactly.
+
+**Not yet audited this way:** Philippians, Colossians, Titus, Hebrews, 1 & 2
+Timothy (compiled into `data/weust.js` but not yet checked against
+MorphGNT), and 1 & 2 Peter, 1-3 John, Jude (finished in `Weust/*.json` but
+not yet compiled into `data/weust.js` at all — `data/weust.js` currently
+has 10 of the 16 books). Next up: Philippians.

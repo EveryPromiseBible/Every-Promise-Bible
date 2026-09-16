@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit, Ephesians checked clean
+
+Continued into Ephesians against `tools/data/70-Eph-morphgnt.txt`, 40 of 66 entries flagged. No fixes
+needed -- the book's handling of the perfect tense is some of the strongest in the corpus, exactly where
+Wuest's own signature "positional truth" territory lives (2:5/2:8's "you have been in a saved state ... and
+you remain so," 4:18's "who have been permanently darkened ... who stand alienated"). Next: Philippians.
+
 ## 2026-09-16 — Wuest commentary: tense audit, one fix in Galatians
 
 Continued into Galatians against `tools/data/69-Ga-morphgnt.txt`. Found the same shape of miss as Romans
