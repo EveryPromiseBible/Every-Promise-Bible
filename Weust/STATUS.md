@@ -676,3 +676,17 @@ identical in English but the YLT comparison is what tells them apart).
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, Ephesians still 88. Next book: Philippians.
+
+## YLT literal-tense comparison pass — Philippians (5 fixes, all 4 chapters)
+
+No duplicate-content bugs. All 5 fixes were plain aorists or one imperfect
+over-marked as English present-perfect, verified against
+`tools/data/71-Php-morphgnt.txt`: 1:29 (*echaristhē*, "it **was**
+graciously given"), 2:12 (*hypēkousate*, "as you **always obeyed**"),
+2:22 (*edouleusen*, "he **served** with me in the gospel"), 3:18
+(*elegon*, an imperfect this time — "of whom I **kept telling** you
+often," not "have told"), and 4:11 (*emathon*, "for I **learned**... to
+be self-sufficient").
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, Philippians still 56. Next book: Colossians.

@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Philippians (5 fixes, all 4 chapters)
+
+Continued the YLT-comparison pass into Philippians. No duplicate-content bugs. Five fixes, verified against
+tools/data/71-Php-morphgnt.txt: four plain aorists over-marked as present-perfect (1:29, 2:12, 2:22, 4:11) and
+one imperfect over-marked the same way (3:18, "of whom I kept telling you often," not "have told"). Re-spliced
+into data/weust.js (still 1,394 entries, Philippians still 56). Next: Colossians.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Ephesians (3 fixes, all 6 chapters)
 
 Continued the YLT-comparison pass into Ephesians. No duplicate-content bugs. Three aorist-as-present-perfect
