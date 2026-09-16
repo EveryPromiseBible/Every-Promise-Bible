@@ -409,7 +409,20 @@ label), 4:6-7 ("be careful for nothing... the peace of God, which passes
 all understanding"), and 4:15-16. Fixed all of it; every verse now has
 verified content. Re-spliced into `data/weust.js`.
 
-**Remaining work:** Colossians, Titus, Hebrews, 1 & 2 Timothy, and 1 Peter
-still need this completeness audit. 1-3 John and Jude still need the
-tense audit, this completeness audit, and the compile step. Next up:
-Colossians.
+## Content-completeness audit — Colossians (44 -> 48 entries)
+
+27 of 95 verses uncovered at first pass; the same mislabel pattern
+accounted for most of it again, including one that crossed a chapter
+boundary — "Colossians 3:23–25" already held the opening of chapter 4
+("Masters, grant your slaves what is just and fair...") and is now
+labeled "Colossians 3:23–4:1" (the re-splice script's label parser had to
+be extended to handle a range that spans chapters, not just verses within
+one). Five more single-verse labels each already held two to five more
+verses than claimed. Genuine new gaps were just four: 1:1-2 (the opening
+address), 2:1-3, 3:1 ("if ye then be risen with Christ..."), and 4:10-13
+(the closing greetings from Aristarchus, Mark, Justus, and Epaphras).
+Every verse now has verified content. Re-spliced into `data/weust.js`.
+
+**Remaining work:** Titus, Hebrews, 1 & 2 Timothy, and 1 Peter still need
+this completeness audit. 1-3 John and Jude still need the tense audit,
+this completeness audit, and the compile step. Next up: Titus.

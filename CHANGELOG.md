@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: Colossians's completeness bug fixed (44 -> 48 entries)
+
+27 of 95 verses uncovered; mostly mislabeling again, including one crossing a chapter boundary
+("Colossians 3:23-25" already held the start of chapter 4, relabeled "3:23-4:1" -- the re-splice script now
+handles cross-chapter label ranges). Genuine gaps: 1:1-2, 2:1-3, 3:1, and 4:10-13 (the closing greetings).
+Every verse now verified. Next: Titus.
+
 ## 2026-09-16 — Wuest commentary: Philippians's completeness bug fixed (52 -> 56 entries)
 
 32 of 104 verses uncovered at first pass, but most were the same mislabel pattern as Ephesians -- six
