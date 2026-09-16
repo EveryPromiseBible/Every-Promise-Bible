@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: Philippians's completeness bug fixed (52 -> 56 entries)
+
+32 of 104 verses uncovered at first pass, but most were the same mislabel pattern as Ephesians -- six
+entries already held more verses than their label claimed (e.g. "2:8" already covered 8-15 in full). One
+entry had swapped content: labeled verse 4, it actually held verses 5-6, leaving the real verse 4 with no
+entry. Genuine new gaps: 1:3-4, verse 18's "enemies of the cross of Christ" clause, 4:6-7 ("the peace of God
+which passes all understanding"), and 4:15-16. Every verse now verified. Next: Colossians.
+
 ## 2026-09-16 — Wuest commentary: Galatians clean, Ephesians's completeness bug fixed (66 -> 88 entries)
 
 Galatians came back almost perfect (1 of 149 verses uncovered, a pure mislabel). Ephesians was much worse:

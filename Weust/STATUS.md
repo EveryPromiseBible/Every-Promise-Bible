@@ -392,7 +392,24 @@ about Christ and the church (5:32-33), and "children, obey your parents"
 (6:1-3). Fixed all of it; both books now have verified content for every
 verse. Re-spliced into `data/weust.js`.
 
-**Remaining work:** Philippians, Colossians, Titus, Hebrews, 1 & 2 Timothy,
-and 1 Peter still need this completeness audit. 1-3 John and Jude still
-need the tense audit, this completeness audit, and the compile step. Next
-up: Philippians.
+## Content-completeness audit — Philippians (52 -> 56 entries)
+
+32 of 104 verses uncovered at first pass, but most turned out to be the
+same "long flowing paragraph absorbed extra verses without the label
+growing" mislabel found in Ephesians — six entries needed nothing but a
+wider label (e.g. "Philippians 2:8" already held verses 8-15 in full,
+including "at the name of Jesus every knee should bow" and "work out your
+own salvation with fear and trembling"). One entry ("3:4") had swapped
+content entirely: it was labeled as verse 4 but actually held verses 5-6,
+leaving the real verse 4 ("though I myself might also have confidence in
+the flesh...") with no entry until now. Genuine new gaps were smaller than
+they first looked: 1:3-4, half of 3:17-21 (verse 18's "enemies of the
+cross of Christ" clause, the rest already present under a too-narrow
+label), 4:6-7 ("be careful for nothing... the peace of God, which passes
+all understanding"), and 4:15-16. Fixed all of it; every verse now has
+verified content. Re-spliced into `data/weust.js`.
+
+**Remaining work:** Colossians, Titus, Hebrews, 1 & 2 Timothy, and 1 Peter
+still need this completeness audit. 1-3 John and Jude still need the
+tense audit, this completeness audit, and the compile step. Next up:
+Colossians.
