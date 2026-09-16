@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Romans (16 fixes, third audit layer)
+
+Requested a closer pass: compare our `translation` fields against Young's Literal Translation, which never
+smooths a Greek tense into natural English, and restore literal tenses wherever ours backshifted or softened
+one -- even at the cost of smoother-sounding English. Checked every proposed fix against
+`tools/data/66-Ro-morphgnt.txt` before applying it. Found three defect patterns across Romans's 16 chapters:
+English sequence-of-tense backshifting a present/perfect into past (4:19-22, 5:12-14, 11:19-21); aorist
+rendered as English present-perfect instead of simple past (3:10-12, 8:18, 10:14-17, 11:33-36, 15:17-21,
+15:22-24, 16:6-9 and 16:17-20, plus the participial cousin at 1:29-32); and two genuine defects invisible to
+the earlier label-range completeness audit -- a verse silently dropped from the middle of a correctly-spanning
+label (1:2-4 missing v2; 7:16-20 missing v19-20) and duplicate content written twice under two different
+labels (11:16 duplicating 11:17-18; 15:14 duplicating a "15:15-16" entry added during the earlier
+completeness pass without checking 15:14 already had it). 16 entries touched, re-spliced into `data/weust.js`
+(still 1,394 entries, Romans still 189 -- wording fixes only). Same method planned across the remaining 15
+books.
+
 ## 2026-09-16 — Wuest commentary: project complete, all 16 books audited (1,394 entries)
 
 1 Peter came back fully clean (0 of 105 verses uncovered). 1 John, 2 John, 3 John, and Jude had never been

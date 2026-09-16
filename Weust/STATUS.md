@@ -505,3 +505,63 @@ needed no content fixes at all.
 **What's not done:** the "next steps" from the top of this file (a closer
 editorial QA pass beyond the automated checks, and site integration
 beyond the word-lookup popup) remain open.
+
+## YLT literal-tense comparison pass — Romans (16 fixes, a third audit layer)
+
+A closer, verse-by-verse comparison against Young's Literal Translation
+(YLT), the 19th-century translation famous for never smoothing a Greek
+tense into natural-sounding English. The goal: wherever our `translation`
+field backshifts or softens a tense that YLT (and the tagged Greek) keep
+sharp, restore the literal tense even at the cost of smoother English.
+Every proposed fix was checked against `tools/data/66-Ro-morphgnt.txt`
+before being applied — YLT flagged the spot, the tagged Greek settled it.
+
+Three distinct defect patterns turned up, all across Romans's 16 chapters:
+
+- **Backshift into English past.** English narrative sequence-of-tense
+  naturally drags an embedded present/perfect Greek verb into past tense
+  once it sits inside past-tense narration. Fixed at 4:19-22 ("what God
+  **had** promised, he **was** able" -> "what God **has** promised, he
+  **is** able," keeping the genuine perfect *epēngeltai* and present
+  *estin* un-backshifted), 5:12-14 ("who **was** to come" -> "who **is**
+  to come," present participle *mellontos*), and 11:19-21 ("you stand by
+  faith" -> "you **have taken your stand, and stand**, by faith," the
+  standing-perfect *hestēkas*).
+- **Aorist rendered as English present-perfect** instead of simple past.
+  Fixed at 3:10-12 ("have leaned... have gone sour" -> "turned aside...
+  became worthless"), 8:18 ("I **have calculated**" -> "I **am
+  reckoning**," present *logizomai*, not perfect), 10:14-17 ("have not
+  believed... have not heard... has believed" -> "did not believe... did
+  not hear... did believe"), 11:33-36 ("who **has known**... who **has
+  first given**" -> "who **knew**... who **first gave**"), 15:17-21 ("not
+  where Christ **has already been named**" -> "**was** already named"),
+  15:22-24 ("I **have been repeatedly hindered**" -> "I **kept being
+  hindered**," matching the iterative imperfect *ekōlyomēn* rather than a
+  perfect), and 16:6-9, where the opposite mistake had happened —
+  the simple aorist *ekopiasen* ("she labored") was over-elaborated into
+  "who **has labored, and keeps having labored**, to the point of
+  exhaustion," corrected back to a plain "who labored hard for you."
+  16:17-20 ("Your obedience **has reached**" -> "**reached** the ears of
+  everyone," aorist *aphiketo*) closes out the same pattern. 1:29-32 is
+  the participial cousin of this: a concessive "though they **know** full
+  well" softened the aorist participle *epignontes*, corrected to "having
+  **fully known**."
+- **Genuine content gaps and duplicates invisible to the earlier
+  completeness audit**, which only checked label-range arithmetic, not
+  whether an entry's prose actually covers every verse inside its own
+  claimed range. Found: 1:2-4 was silently missing verse 2 ("Which he
+  promised beforehand through his prophets in the holy scriptures");
+  7:16-20 was missing verses 19-20 ("For the good that I want, I am not
+  doing..."); and two duplicate-content bugs where a verse's material had
+  been written twice under two different, non-overlapping labels —
+  11:16 had a full copy of 11:17-18's content (a pre-existing duplicate),
+  and 15:14 had a full copy of the separately-added "15:15-16" entry's
+  content (a duplicate I introduced myself during the earlier
+  completeness-audit pass, without checking whether 15:14 already
+  covered it). Both trimmed back to their own verse's content only.
+
+Re-spliced into `data/weust.js` and confirmed live via `weustVerseLookup()`
+— 1,394 entries total, all structurally sound, Romans still at 189 entries
+(no count change; these were wording fixes and one net-neutral
+duplicate-trim pair). The same YLT-comparison method is planned across the
+remaining 15 books.
