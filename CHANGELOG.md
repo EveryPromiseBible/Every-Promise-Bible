@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit, one fix in Galatians
+
+Continued into Galatians against `tools/data/69-Ga-morphgnt.txt`. Found the same shape of miss as Romans
+13:2: the same verb given two different tense treatments in one letter. 5:2-3 correctly explains
+*peritemnō*'s present-tense participle ("aimed at anyone in the act of receiving the rite, not at those
+already done"), but 6:13's identical present participle was rendered "those who are circumcised" -- reading
+like a settled past state -- with no tense note at all. Fixed to "those who are having themselves
+circumcised," matching 5:3, and cross-referenced the parallel in the commentary. Next: Ephesians.
+
 ## 2026-09-16 — Wuest commentary: tense audit, Mark checked clean
 
 Continued the tense audit (see the Romans entry below) into Mark, against `tools/data/62-Mk-morphgnt.txt`.

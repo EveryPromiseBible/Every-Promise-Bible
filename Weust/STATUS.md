@@ -152,8 +152,26 @@ Wuest himself renders them — his real practice keeps many of them ("and
 they come," "and he says to them") rather than smoothing every one into
 past tense, and that's what's reflected here too.
 
-**Not yet audited this way:** Galatians, Ephesians, Philippians, Colossians,
-Titus, Hebrews, 1 & 2 Timothy (compiled into `data/weust.js` but not yet
-checked against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude (finished in
+## Tense audit against the actual Greek — Galatians (142/142 checked)
+
+Same method, against `tools/data/69-Ga-morphgnt.txt`. 79 of 142 entries had
+a present participle, perfect, imperfect, or subjunctive worth checking.
+
+One real fix, and it's the same *shape* of miss as Romans 13:2 — the same
+verb given two different tense treatments within one short letter. 5:2-3
+correctly makes a point of *peritemnō*'s (περιτέμνω) present-tense
+participle: "the participle for 'circumcised' is present tense, aimed at
+anyone in the act of receiving the rite, not at those already done." But
+6:13 — same lemma, same present participle in the source Greek
+(*peritemnomenoi*, περιτεμνόμενοι) — was rendered "those who **are
+circumcised**," reading like a settled past state rather than an ongoing
+one, and the commentary never mentioned the tense at all. Fixed the
+translation to "those who **are having themselves circumcised**," matching
+5:3's phrasing exactly, and added a note to the commentary pointing back to
+5:2-3 so the parallel is explicit.
+
+**Not yet audited this way:** Ephesians, Philippians, Colossians, Titus,
+Hebrews, 1 & 2 Timothy (compiled into `data/weust.js` but not yet checked
+against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude (finished in
 `Weust/*.json` but not yet compiled into `data/weust.js` at all —
-`data/weust.js` currently has 10 of the 16 books). Next up: Galatians.
+`data/weust.js` currently has 10 of the 16 books). Next up: Ephesians.
