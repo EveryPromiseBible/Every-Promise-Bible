@@ -658,3 +658,21 @@ use since Romans 15:14.
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, Galatians still 142. Next book: Ephesians.
+
+## YLT literal-tense comparison pass — Ephesians (3 fixes, all 6 chapters)
+
+No duplicate-content bugs. Three plain aorist-rendered-as-present-perfect
+fixes, verified against `tools/data/70-Eph-morphgnt.txt`: 2:13
+(*egenēthēte*, "you... **became** near ones," not "have become"), 3:5
+(*apekalyphthē*, "as it **was** now revealed," not "has now been
+revealed" — sitting right next to a correctly-perfect neighbor clause,
+same trap as Mark 6:14/16), and 5:29 (*emisēsen*, "no one **ever hated**
+his own flesh," not "has ever yet hated" — double-checked against YLT's
+own wording this time, since 5:29 looks at first glance like the same
+"no one has ever yet X" universal-negative idiom left alone at Mark 11:2,
+but YLT itself renders *this* one as plain past ("did hate"), not
+present-perfect, so the exception doesn't apply here — the two cases look
+identical in English but the YLT comparison is what tells them apart).
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, Ephesians still 88. Next book: Philippians.

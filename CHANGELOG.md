@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Ephesians (3 fixes, all 6 chapters)
+
+Continued the YLT-comparison pass into Ephesians. No duplicate-content bugs. Three aorist-as-present-perfect
+fixes, verified against tools/data/70-Eph-morphgnt.txt: 2:13, 3:5, and 5:29. The 5:29 case ("no one has ever
+yet hated his own flesh") looked at first like the same "no one has ever yet X" universal-negative idiom left
+alone at Mark 11:2's "no one has ever yet sat," but checking YLT's own wording showed the two aren't the same
+exception -- YLT renders 5:29 as plain past ("did hate"), not present-perfect, so it needed fixing where 11:2
+didn't. Re-spliced into data/weust.js (still 1,394 entries, Ephesians still 88). Next: Philippians.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Galatians (5 fixes, all 6 chapters)
 
 Continued the YLT-comparison pass into Galatians. No duplicate-content bugs this time. All 5 fixes were the
