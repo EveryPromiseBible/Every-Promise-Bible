@@ -423,6 +423,32 @@ address), 2:1-3, 3:1 ("if ye then be risen with Christ..."), and 4:10-13
 (the closing greetings from Aristarchus, Mark, Justus, and Epaphras).
 Every verse now has verified content. Re-spliced into `data/weust.js`.
 
-**Remaining work:** Titus, Hebrews, 1 & 2 Timothy, and 1 Peter still need
-this completeness audit. 1-3 John and Jude still need the tense audit,
-this completeness audit, and the compile step. Next up: Titus.
+## Content-completeness audit — Titus (21 -> 22 entries) and Hebrews (155 -> 211 entries)
+
+Titus was almost perfect: only the opening greeting (1:1-4) was missing
+entirely, added as one new entry.
+
+Hebrews was the largest and most demanding of the completeness passes so
+far: 139 of 303 verses uncovered (46%). Unlike the epistles audited
+before it, Hebrews' existing entries were already tightly scoped to their
+own verse ranges — almost no mislabeling to find — which meant nearly all
+139 verses were genuinely never covered before. This is the book's dense
+theological argument, not scattered filler: the opening Christology
+(1:1, 1:3-4, 1:6-10 — the catena of OT citations establishing the Son's
+superiority to angels), the warning passages (2:1-2, 3:7-15, 6:1-6's "it
+is impossible... to renew again to repentance," 10:26-29), the whole
+Melchizedek argument (7:1-27 in pieces), the new-covenant citation from
+Jeremiah in full (8:6-13), the sustained argument for Christ's once-for-all
+sacrifice (9:11-25, fifteen verses in one entry — the theological core of
+the letter), the faith chapter's own definition ("now faith is the
+title-deed of things hoped for, the proof of things not seen," 11:1), and
+the closing exhortations and benediction (13:1-25 in pieces). Drafted all
+of it fresh from `tools/data/79-Heb-morphgnt.txt`, following the same
+tense-attentive style established across the rest of the corpus. Both
+books now have verified content for every verse. Re-spliced into
+`data/weust.js` and confirmed live (1,326 entries across 12 books, zero
+structural errors).
+
+**Remaining work:** 1 & 2 Timothy and 1 Peter still need this completeness
+audit. 1-3 John and Jude still need the tense audit, this completeness
+audit, and the compile step. Next up: 1 Timothy.

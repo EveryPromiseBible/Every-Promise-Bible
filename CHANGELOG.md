@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: Titus clean, Hebrews's completeness bug fixed (155 -> 211 entries)
+
+Titus needed only the opening greeting (1:1-4). Hebrews was the biggest completeness gap yet: 139 of 303
+verses uncovered (46%), and almost none of it was mislabeling this time -- Hebrews' entries were already
+tightly scoped, so nearly all 139 verses were genuinely never drafted. This is the book's theological
+spine: the opening Christology (1:1-10), the warning passages (2:1-2, 3:7-15, 6:1-6, 10:26-29), the
+Melchizedek argument (chapter 7 in pieces), the Jeremiah new-covenant citation in full (8:6-13), the
+once-for-all-sacrifice argument (9:11-25, fifteen verses), the faith chapter's own definition (11:1), and
+the closing exhortations (13:1-25). Drafted all of it fresh from the tagged Greek. Both books now verified
+complete; confirmed live (1,326 entries across 12 books, zero errors). Next: 1 & 2 Timothy.
+
 ## 2026-09-16 — Wuest commentary: Colossians's completeness bug fixed (44 -> 48 entries)
 
 27 of 95 verses uncovered; mostly mislabeling again, including one crossing a chapter boundary
