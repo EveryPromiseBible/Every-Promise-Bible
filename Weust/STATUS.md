@@ -180,8 +180,20 @@ saved"): 2:5/2:8's "you have been in a saved state ... and you remain so"
 and 4:18's "who have been permanently darkened ... who stand alienated"
 both nail the perfect's completed-action-with-abiding-result force exactly.
 
-**Not yet audited this way:** Philippians, Colossians, Titus, Hebrews, 1 & 2
-Timothy (compiled into `data/weust.js` but not yet checked against
-MorphGNT), and 1 & 2 Peter, 1-3 John, Jude (finished in `Weust/*.json` but
-not yet compiled into `data/weust.js` at all — `data/weust.js` currently
-has 10 of the 16 books). Next up: Philippians.
+## Tense audit against the actual Greek — Philippians (52/52 checked, clean)
+
+Same method, against `tools/data/71-Php-morphgnt.txt`. 28 of 52 entries
+flagged. **No fixes needed.** Notably clean handling of *hyparchō*
+(ὑπάρχω) at 2:6 — "who, **continuing to subsist** in the outward expression
+of God" — which is the classic Wuest crux verse: *hyparchō* implies a prior,
+continuing essential state, not the plain copula *eimi* would give, and the
+distinction is preserved correctly. *Peithō*'s (πείθω) perfect participle
+also recurs three times (1:6, 1:14, 1:25) and gets the same "settled
+persuasion/conviction" treatment every time — the kind of same-verb
+consistency Romans 13:2 and Galatians 6:13 missed.
+
+**Not yet audited this way:** Colossians, Titus, Hebrews, 1 & 2 Timothy
+(compiled into `data/weust.js` but not yet checked against MorphGNT), and
+1 & 2 Peter, 1-3 John, Jude (finished in `Weust/*.json` but not yet
+compiled into `data/weust.js` at all — `data/weust.js` currently has 10 of
+the 16 books). Next up: Colossians.

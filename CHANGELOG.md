@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit, Philippians checked clean
+
+Continued into Philippians against `tools/data/71-Php-morphgnt.txt`, 28 of 52 entries flagged. No fixes
+needed. Worth noting: 2:6's *hyparchō* (the classic Wuest crux verse) correctly gets "continuing to subsist
+in the outward expression of God" rather than a plain copula, preserving the verb's implication of a prior,
+continuing essential state. Next: Colossians.
+
 ## 2026-09-16 — Wuest commentary: tense audit, Ephesians checked clean
 
 Continued into Ephesians against `tools/data/70-Eph-morphgnt.txt`, 40 of 66 entries flagged. No fixes
