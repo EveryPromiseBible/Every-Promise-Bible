@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## 2026-09-15 — Jesus Bible: a genuinely fresh re-read of all five books drafted today
+
+The earlier "closer re-read" pass below reasoned from Towns' text already sitting in context from the
+original drafting read, not a fresh file read -- a distinction worth naming plainly rather than letting
+"re-read" imply more than it was. Asked to actually redo it, re-extracted all five chapters (1 & 2
+Thessalonians, James, Philemon, Revelation) straight from the epub into brand-new files, confirmed they
+were byte-identical in size to the originals (the source hadn't changed), and read them fresh.
+
+Found one more real fix: 1 Thessalonians 4:7, "For my Father hath not called you unto uncleanness, but
+unto holiness," corrected to "For I have not called you unto uncleanness, but unto holiness." Towns states
+it as a clean, isolated first-person claim -- "I have not called you to be filthy minded, but I want you
+to think pure thoughts" -- matching the first-person voice already confirmed running through the rest of
+4:1-12. The original draft had simply missed carrying that voice one verse further.
+
+Every other candidate reconsidered across all five books held up as originally drafted, including one
+near-miss (Revelation 17:14) where Towns' habitual first-person paraphrase voice bleeds into angel speech
+that Rule 3 protects, and would have been a mistake to "fix." Re-verified (89/89 verses in 1
+Thessalonians, all others unchanged), re-spliced into `data/jesus.js`, and re-tested live across all 1,255
+chapter destinations in both states (2,510 loads, zero errors).
+
 ## 2026-09-15 — Jesus Bible: closer re-read of James, Philemon, and Revelation
 
 Extended today's closer-read discipline (already applied to 1 & 2 Thessalonians) to the three other books

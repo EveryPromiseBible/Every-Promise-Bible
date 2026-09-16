@@ -193,6 +193,22 @@ Christ" (4 total, the four self-naming verses above) are every one a deliberate 
 `data/jesus.js` and re-tested live across all 1,255 chapter destinations in both states (2,510 loads, zero
 errors).
 
+**A genuinely fresh re-read, re-extracting Towns' text straight from the epub into new files rather than
+reasoning from what was already in context (the user drew this distinction explicitly after the first
+"closer re-read" above turned out to reuse in-context text), found one more real mismatch: 1 Thess 4:7,
+"For my Father hath not called you unto uncleanness, but unto holiness," should be "For I have not called
+you unto uncleanness, but unto holiness."** Towns states it as a clean, isolated, declarative first-person
+claim — *"I have not called you to be filthy minded, but I want you to think pure thoughts"* — matching the
+already-confirmed first-person voice running through the rest of 4:1-12 (see point 2 above); the original
+draft had missed carrying that same voice one verse further. Fixed, re-verified (89/89 verses unchanged),
+re-spliced into `data/jesus.js`, and re-tested live (2,510 loads, zero errors). The same fresh pass checked
+2 Thessalonians, James, Philemon, and Revelation (see their sections below) and found no further changes:
+every other candidate reconsidered — including a near-miss at Revelation 17:14 where Towns' habitual
+first-person paraphrase voice bleeds into angel speech that Rule 3 protects — held up as originally drafted
+once weighed against the distinction between a reliable signal (an isolated declarative claim precisely
+mirroring one verse) and noise (Towns' first-person voice showing up inside content this project's rules
+already say must stay third-person, or inside a loose narrative-summary aside).
+
 ## Epistle rules (James) — the least biographical letter yet, almost entirely Jesus's own direct voice
 
 Read against Elmer Towns' actual James chapter (`Chapter060.html`, "I Am Jesus — Who Saves You") complete
