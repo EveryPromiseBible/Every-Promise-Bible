@@ -210,8 +210,18 @@ flagged. **No fixes needed** — 1:15's "have been defiled" and 3:11's "has
 been twisted out of joint ... standing self-condemned" both handle the
 perfect correctly.
 
-**Not yet audited this way:** Hebrews, 1 & 2 Timothy (compiled into
-`data/weust.js` but not yet checked against MorphGNT), and 1 & 2 Peter, 1-3
-John, Jude (finished in `Weust/*.json` but not yet compiled into
-`data/weust.js` at all — `data/weust.js` currently has 10 of the 16 books).
-Next up: Hebrews.
+## Tense audit against the actual Greek — Hebrews (155/155 checked, clean)
+
+Same method, against `tools/data/79-Heb-morphgnt.txt`. 104 of 155
+entries flagged — Hebrews is grammatically dense and heavy on the perfect
+tense (its whole argument leans on completed-with-abiding-result
+theology). **No fixes needed.** 10:10's "we have been made holy, and stand
+holy still," 12:2's "has sat down and remains seated," and 13:23's "has
+been set free and remains so" are all excellent, precise handling of
+exactly the tense the book's argument depends on most.
+
+**Not yet audited this way:** 1 & 2 Timothy (compiled into `data/weust.js`
+but not yet checked against MorphGNT), and 1 & 2 Peter, 1-3 John, Jude
+(finished in `Weust/*.json` but not yet compiled into `data/weust.js` at
+all — `data/weust.js` currently has 10 of the 16 books). Next up:
+1 Timothy.

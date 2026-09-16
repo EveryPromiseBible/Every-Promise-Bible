@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: tense audit, Hebrews checked clean
+
+Continued into Hebrews against `tools/data/79-Heb-morphgnt.txt`, 104 of 155 entries flagged -- dense and
+perfect-tense-heavy, matching the book's whole completed-with-abiding-result argument. No fixes needed;
+10:10, 12:2, and 13:23 are especially precise examples. Next: 1 Timothy.
+
 ## 2026-09-16 — Wuest commentary: tense audit, Titus checked clean
 
 Continued into Titus against `tools/data/77-Tit-morphgnt.txt`, 19 of 21 entries flagged. No fixes needed.
