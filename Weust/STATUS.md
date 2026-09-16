@@ -565,3 +565,75 @@ Re-spliced into `data/weust.js` and confirmed live via `weustVerseLookup()`
 (no count change; these were wording fixes and one net-neutral
 duplicate-trim pair). The same YLT-comparison method is planned across the
 remaining 15 books.
+
+## YLT literal-tense comparison pass — Mark (31 fixes, all 16 chapters)
+
+Same method as Romans, applied to the whole of Mark. This book turned up a
+much bigger cluster of the duplicate-content defect than Romans did: **5
+entries** had leftover content from before an adjacent entry was split
+out, invisible to the label-range completeness audit because the
+duplicate lived inside a paragraph break (or, in one case, was appended
+to the same paragraph with no break at all) rather than showing up as a
+mismatched verse range. Found and trimmed: 1:13 (had 1:14-15's "time
+stands fulfilled" material tacked on), 1:22 (had 1:23-24's unclean-spirit
+account tacked on), 1:31 (had 1:32-33's evening-healing material tacked
+on), 2:5 (had 2:6-7's scribes-reasoning material tacked on), and 2:9
+(ran on, with no paragraph break at all, straight into 2:10-11's
+"authority to forgive sins" material). All five duplicates matched
+content that already existed, correctly, under its own separate label
+right next door — a scan for every other book confirmed this exact
+5-in-a-row cluster was unique to Mark's early chapters; no other book has
+it.
+
+Genuine tense fixes, verified against `tools/data/62-Mk-morphgnt.txt`,
+fell into the same two families as Romans, plus a third the Mark pass
+made unmissable:
+
+- **Aorist rendered as English present-perfect** (the largest group):
+  2:25, 7:4, 7:13, 8:2 (a present tense over-marked as perfect, the same
+  direction of error), 9:22, 10:20, 12:32, 12:43, 14:6-9 (three separate
+  instances in four verses — "she **has done** a beautiful work," "she
+  **has done** what she could," "what she **has done** will also be
+  spoken of," all corrected to simple "did"), 14:64, 15:34 (the Psalm 22
+  cry, "why **have you** forsaken me" -> "why **did you** forsake me"),
+  and 6:14/6:16, both double-checked directly against YLT's own wording
+  ("his name **became** public," "he **was** raised") since Herod's
+  sentence sits right next to a genuine perfect (*egēgertai*, correctly
+  kept as "has been raised") that could easily be mistaken for license
+  to backshift its neighbor too.
+- **A flashback/background aorist over-corrected into an English
+  pluperfect** — the clearest new pattern this pass surfaced. Mark
+  narrates a lot of parenthetical backstory with plain aorists introduced
+  by *gar* ("for"), and English narrative instinct wants to mark
+  backstory with "had," but the Greek itself is simple aorist, not the
+  true pluperfect it has elsewhere (compare 14:44's genuine pluperfect
+  *dedōkei*, "had given," correctly left alone). Fixed at 3:6 ("the
+  Pharisees... immediately **kept taking** counsel" — actually an
+  under-marked imperfect, the opposite direction), 3:10, 5:8, 5:29, 5:33,
+  6:17-18 (double-checked against YLT's own "did lay hold," "bound him"),
+  8:14 (also checked against YLT's "and they forgot"), 9:34, 12:12, and
+  16:8. Each was verified against YLT's own wording where the call was
+  close, since YLT is the standard being matched, not just the Greek tag
+  in isolation.
+- **3:26** was a plain backshift of two aorists (*anestē*, *emeristhē*)
+  into present tense ("Satan **has risen up**... **is** divided")
+  rather than into a pluperfect — same family of error, different
+  direction.
+- **16:11** carried two errors in one clause: a present tense (*zē*,
+  "he is alive") backshifted to past, sitting right next to an aorist
+  (*etheathē*, "was seen") backshifted to a pluperfect. Both restored.
+
+One case each was deliberately left alone after checking YLT itself
+rendered it the same non-literal way: 4:29 and 11:2's "no one **has**
+ever yet sat" (YLT: "no one... **hath** sat" — English idiom for a
+never-yet-true universal statement, not a tense error), and 14:44's
+"asked whether he **had** already died" (a true reported-speech
+backshift, grammatically required in English indirect questions, not a
+narrative-smoothing choice).
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, Mark still 426 (all fixes were wording changes or
+net-neutral duplicate trims). Also ran the duplicate-content detector
+(single-verse label, 2+ paragraphs) across all 16 books as a general
+check — Mark's cluster was the only hit; nothing else in the corpus
+matches that shape. Next book in the YLT-comparison pass: Galatians.

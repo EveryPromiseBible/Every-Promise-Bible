@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Mark (31 fixes, all 16 chapters)
+
+Continued the YLT-comparison pass into Mark. Turned up a much bigger duplicate-content cluster than Romans
+had: 5 entries (1:13, 1:22, 1:31, 2:5, 2:9) carried leftover content from before an adjacent entry was split
+out -- invisible to the label-range completeness audit because the duplicate hid inside a paragraph break, or
+in one case had no break at all and just ran straight into the next verse's material. All five trimmed; a
+sweep for the same shape across all 16 books found nothing else like it. Genuine tense fixes (verified against
+tools/data/62-Mk-morphgnt.txt): the usual aorist-as-present-perfect pattern (2:25, 7:4, 7:13, 8:2, 9:22, 10:20,
+12:32, 12:43, 14:6-9 x3, 14:64, 15:34, 6:14, 6:16), plus a pattern Mark made unmissable -- background aorists
+introduced by "for" over-corrected into an English pluperfect where the Greek has no pluperfect at all (3:6,
+3:10, 5:8, 5:29, 5:33, 6:17-18, 8:14, 9:34, 12:12, 16:8), checked against YLT's own wording wherever the call
+was close. Also fixed a plain present/aorist-to-past backshift at 3:26 and 16:11. Left two cases alone after
+confirming YLT itself renders them the same non-literal way (11:2's "hath sat," 14:44's reported-speech "had
+died"). Re-spliced into data/weust.js (still 1,394 entries, Mark still 426). Next: Galatians.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Romans (16 fixes, third audit layer)
 
 Requested a closer pass: compare our `translation` fields against Young's Literal Translation, which never
