@@ -1,5 +1,32 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: fixed 7 pre-existing overlap pairs, added 20 more Protection verses (fourth batch)
+
+Two-part cleanup-and-growth pass, both against the full corpus overlap check run before the last push.
+
+**Cleanup**: 7 verse-span overlaps that predated this session's Protection work (not duplicates by reference,
+but combined-range entries whose span fully contained a separately-existing single-verse entry) were trimmed
+down to their own non-overlapping remainder, with fresh 15-meditation sets written for the trimmed verse:
+Psalm 9:9-10 -> Psalm 9:9 (9:10 already existed separately), Psalm 91:11-12 -> Psalm 91:12, John 10:28-29 ->
+John 10:29, Matthew 7:7-8 -> Matthew 7:8, John 14:13-14 -> John 14:14 (this entry's old verse text also had a
+stray "..." mid-quote, now gone), Ephesians 2:8-9 -> Ephesians 2:9, and Philippians 4:6-7 -> Philippians 4:7
+(this one's stored verse text was actually just verse 6's words a second time, with verse 7 never quoted at
+all -- now correctly quotes verse 7 and carries verse-7-specific meditations). No promises were removed; total
+count unchanged since every fix relabels/rewrites in place rather than deleting an entry.
+
+**Growth**: 20 new Protection-tagged promises, same grace-forward/Jesus-centered brief as the last three
+batches, checked against the whole corpus for span overlaps before drafting: Psalm 27:3, Psalm 140:7, Psalm
+20:7, Psalm 20:8, Psalm 46:3, Psalm 48:3, Psalm 59:1, Psalm 59:9, Psalm 61:4, Psalm 71:1, Psalm 71:2, Psalm
+145:20, Proverbs 12:21, Isaiah 31:5, Daniel 3:27, Hosea 2:18, Micah 5:4, Luke 12:4, John 17:11, and Job 5:11.
+Four lines caught on the usual style pass and reworded: an ACADEMIC "names" hit (Psalm 46:3), an OBLIGATION
+"should expect" hit (Proverbs 12:21), a LEVER "qualifies/disqualifies" hit (Job 5:11), and one set (Luke 12:4)
+with three lines opening on "He" (max is two).
+
+Final counts: 2,275 promises (+20 this batch, +49 total since Protection launched), 34,125 meditations (+300
+this batch, +735 total), 117 promises now tagged Protection (up from 97). Zero duplicate references and zero
+verse-span overlaps across the full corpus after this pass -- confirmed programmatically and live in browser.
+Healing and every other mood untouched throughout.
+
 ## 2026-09-17 — Promises: 9 more Protection verses (third batch)
 
 User asked for more Protection verses, careful again not to duplicate anything already in the corpus. This
