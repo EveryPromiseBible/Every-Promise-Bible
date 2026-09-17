@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: new "Protection" mood category
+
+User asked whether the Promises section had a Protection category -- it didn't (17 moods existed: Encouraged,
+Hopeful, Grateful, Peaceful, Broken, Anxious, Lonely, Waiting, Tired, Overwhelmed, Joyful, Confused, Healing,
+Provision, Tempted, Stressed, Angry). Added "Protection" as an 18th, per the user's request for grace-based,
+Jesus-centered meditations on protection verses, in different verses from what's already covered, combining
+with existing topics where it genuinely fit.
+
+Two parts: (1) retagged 52 existing promises whose verse is centrally about refuge/shield/deliverance from
+harm (Psalm 91, Psalm 121, 2 Samuel 22, Proverbs 18:10, Deuteronomy 33:27, Daniel 6:22, Ephesians 6:16, and
+more) with the new mood alongside whatever they already carried -- no text or meditation content touched, just
+the mood tag added. (2) authored 10 brand-new promises with 15 original meditations each (150 new lines total):
+Psalm 20:1, Psalm 41:2, Psalm 97:10, Proverbs 3:23, 1 Peter 3:13, 2 Kings 6:17, Job 5:19, Psalm 91:9-10,
+Psalm 3:6, and 1 Samuel 17:37 -- none of them previously in the corpus. Two verses originally picked (2
+Corinthians 1:10, Psalm 3:5-6) turned out to overlap existing entries (2 Corinthians 1:9-10, Psalm 3:5); those
+two existing entries got the Protection tag added instead, and Psalm 3:6 (the non-overlapping half of the
+Psalm 3 pair) became a fresh entry.
+
+Validated with tools/add_promises.py (verbatim-KJV, no-duplicate, exactly-15-meditations, known-moods checks)
+and tools/law_scan.py (obligation/conditional/lever language) plus a plain-language/sentence-shape-variety
+pass matching this project's established meditation-writing standards -- 0 issues on final check. "Healing"
+and every other existing mood were left untouched; Protection is additive only. Final counts: 2,236 promises
+(+10), 33,540 meditations (+150), 62 promises now tagged Protection. Confirmed live in the browser -- the
+pill renders, filters correctly, and the new meditations display and paginate normally.
+
 ## 2026-09-16 — Wuest commentary: 6 more duplicate-content bugs, caught by automated detector
 
 Asked to double-check the finished 16-book pass for anything missed. Every duplicate-content bug in this

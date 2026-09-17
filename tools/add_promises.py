@@ -46,7 +46,12 @@ MOODS = ["Encouraged", "Grateful", "Hopeful", "Anxious", "Peaceful", "Broken",
          # for. Same 116 promises, retagged by tools/retag_mood.py -- Sick is
          # deliberately absent from this list so a stale batch cannot reintroduce
          # it and quietly split the mood in two.
-         "Healing"]
+         "Healing",
+         # 2026-09-17: protection -- refuge, shield, deliverance from harm,
+         # safety from the enemy/danger/the evil one. Covers both fresh verses
+         # and existing ones (Psalm 91, Psalm 121, etc.) retagged to add this
+         # mood alongside whatever they already carried.
+         "Protection"]
 
 
 def span(ref):
