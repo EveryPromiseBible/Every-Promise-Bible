@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-09-17 — Site updates bell: announced the new "Protection" category
+
+Added a SITE_UPDATES entry (index.html) telling readers about the new Protection mood -- what it is, that
+it's additive (every other mood untouched), and a sample of the verses now under it. Newest-first at the top
+of the array, kind: 'feature', matching the style of every other reader-facing entry in the bell panel.
+Verified live: the bell shows "NEW FEATURE" with the entry rendering correctly, like/dislike and comments
+intact.
+
 ## 2026-09-17 — Promises: 10 more Protection verses (second batch)
 
 User asked to add more Protection verses, careful not to duplicate anything already in the corpus. Authored
