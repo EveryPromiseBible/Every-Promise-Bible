@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: 12 new verses across Angry, Tempted, Stressed, Provision
+
+User asked for more promises, not necessarily Protection this time. Checked mood distribution across the
+corpus and found Angry (157), Stressed (176), Tempted (180), and Provision (191) were the smallest categories
+(vs. 1,062 Encouraged, 1,023 Hopeful at the top) -- picked those as the target rather than adding to an
+already-heavy mood. This corpus turned out to be extremely dense already: most well-known verses for these
+four moods were already in, and a wide first-pass candidate list came back almost entirely USED or OVERLAP.
+
+Final new content, 12 promises / 180 original meditations, checked against the whole corpus for span overlaps
+before drafting: Proverbs 25:28, Proverbs 29:22, 1 Timothy 2:8, Proverbs 20:3, Proverbs 12:16 (Angry);
+Ephesians 6:12, 1 Peter 2:11, Luke 10:19 (Tempted -- the last two also tagged Protection, since "nothing
+shall by any means hurt you" and "we wrestle not against flesh and blood" both fit there too); Philippians
+4:5, Psalm 4:1 (Stressed); Proverbs 13:25, 2 Chronicles 25:9 (Provision). Style pass caught 4 issues before
+merge: 3 ACADEMIC "names" hits (used as a plain verb -- "this verse names it" -- which the regex still
+catches) and one opener overuse ("This" x3 in 2 Chronicles 25:9); all reworded and re-verified clean.
+
+Final counts: 2,287 promises (+12), 34,305 meditations (+180). Zero duplicate references, zero verse-span
+overlaps, and zero internal duplicate meditations confirmed across the full corpus after merge -- checked
+programmatically and live in browser. Healing and every other existing mood untouched.
+
 ## 2026-09-17 — Promises: fixed 7 pre-existing overlap pairs, added 20 more Protection verses (fourth batch)
 
 Two-part cleanup-and-growth pass, both against the full corpus overlap check run before the last push.
