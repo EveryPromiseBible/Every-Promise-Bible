@@ -873,6 +873,48 @@ Hebrews, 5 1 Peter, 1 2 Peter, 1 1 John, 5 across 2 John/3 John/Jude) —
 1,394 entries confirmed live via `weustVerseLookup()`, zero structural
 errors.
 
+## Fresh-look pass: 6 more duplicate-content bugs, caught by automation instead of eyes
+
+Asked to double check the finished pass for anything missed. The
+duplicate-content bugs found throughout this project were always caught
+by manual reading, which is exactly the method that let 12 of them slip
+past unnoticed for as long as they did (the paragraph-based heuristic
+only caught the ones with a literal blank-line break). So instead of
+re-reading, wrote a proper detector: for every book, split each entry
+into sentences, and for every adjacent pair of entries, measure word-set
+overlap between the first entry's closing sentence(s) and every sentence
+in the next entry. Ran it across all 16 books at a low similarity
+threshold and manually reviewed every hit.
+
+Most hits were false positives — adjacent verses in real argumentative or
+narrative sequences naturally share vocabulary (Romans 8:10/8:11 both
+about the Spirit, Mark's "sit at my right hand" repeated because Jesus
+himself repeats it in the text, and so on). But six were genuine
+duplicates of the established pattern, missed by every previous manual
+pass: **Colossians 1:29** (ran into 2:1-3's "how great a struggle" material),
+**2 Timothy 1:18** (ran into 2:1-4's "be strengthened by the grace" material
+— and this one turned out to be a double bug: fixing the duplicate
+tail also exposed that 1:18's own opening clause, "may the Lord grant
+him to find mercy... in that day," had been missing from the corpus
+entirely, invisible until the duplicate was stripped away and the verse
+was left too short), **Romans 11:2–4** (ran into 11:5-6's "grace...no
+longer of works" material), **Romans 15:25–27** (ran into 15:28-29's
+"I will go on through you into Spain" material), **Hebrews 9:10** (ran
+into 9:11-25's "through his own blood, entered once for all" material),
+and **Ephesians 1:7** (ran into 1:8's "wisdom and understanding"
+material — the pre-existing 1:8 entry was itself a leftover duplicate of
+content 1:7 had already swallowed). All six verified against their
+book's morphgnt verse boundaries before trimming.
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, all book counts unchanged (five were pure trims,
+one restored a genuinely missing clause). Updated total for the whole
+project: **104 tense fixes, 18 duplicate-content bugs** (one of which,
+2 Timothy 1:18, also uncovered and restored a missing clause) across all
+16 books. The detector script is worth keeping — running it as a first
+pass before starting the next book-level project would catch this whole
+defect class up front instead of by accident.
+
 Two defect families accounted for nearly all of it: (1) a Greek aorist
 (or occasionally imperfect) rendered as English present-perfect instead
 of simple past — by far the largest category — and (2) a genuine Greek

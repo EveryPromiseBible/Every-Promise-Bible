@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: 6 more duplicate-content bugs, caught by automated detector
+
+Asked to double-check the finished 16-book pass for anything missed. Every duplicate-content bug in this
+project so far had been caught by manual reading -- exactly the method that let them slip past unnoticed
+in the first place (the paragraph-based heuristic only caught duplicates with a literal blank-line break).
+Wrote a proper detector instead: split each entry into sentences, measure word-overlap between one entry's
+closing sentence(s) and the next entry's sentences, run across all 16 books, review every hit by hand.
+
+Found six more genuine duplicates of the established pattern: Colossians 1:29 (ran into 2:1-3), 2 Timothy
+1:18 (ran into 2:1-4 -- and uncovered a second bug underneath: 1:18's own opening clause, "may the Lord
+grant him to find mercy... in that day," was missing from the corpus entirely, invisible until the duplicate
+tail was stripped away), Romans 11:2-4 (ran into 11:5-6), Romans 15:25-27 (ran into 15:28-29), Hebrews 9:10
+(ran into 9:11-25), and Ephesians 1:7 (ran into 1:8, whose own separate entry was itself a leftover
+duplicate of content 1:7 had swallowed). All verified against morphgnt verse boundaries before trimming.
+Re-spliced into data/weust.js (still 1,394 entries, all book counts unchanged). Updated project total: 104
+tense fixes, 18 duplicate-content bugs (one of which also restored a missing clause) across all 16 books.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison project complete (all 16 books, 104 fixes)
 
 Finished the YLT-comparison pass with the last three books, checked together: 2 John, 3 John, and Jude (5
