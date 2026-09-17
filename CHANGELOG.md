@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 2 Peter (1 fix, all 3 chapters)
+
+Continued the YLT-comparison pass into 2 Peter. No duplicate-content bugs; came back almost entirely clean.
+One fix, verified against tools/data/82-2Pe-morphgnt.txt: 2:15's aorist eplanēthēsan ("they went astray," not
+"have gone astray"). Re-spliced into data/weust.js (still 1,394 entries, 2 Peter still 21). Next: 1 John.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 1 Peter (5 fixes, all 5 chapters)
 
 Continued the YLT-comparison pass into 1 Peter. No duplicate-content bugs. Five aorist-as-present-perfect

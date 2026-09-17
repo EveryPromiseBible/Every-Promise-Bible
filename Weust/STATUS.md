@@ -809,3 +809,15 @@ indent on each remaining book before writing it back.
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, 1 Peter still 46. Next book: 2 Peter.
+
+## YLT literal-tense comparison pass — 2 Peter (1 fix, all 3 chapters)
+
+No duplicate-content bugs; this book (already flagged clean by the
+earlier content-completeness audit) came back almost entirely clean here
+too. One fix, verified against `tools/data/82-2Pe-morphgnt.txt`: 2:15
+(*eplanēthēsan*, "they **went** astray," not "have gone astray"). File
+indent confirmed as 1-space before writing back, avoiding the reformat
+slip caught at 1 Peter.
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, 2 Peter still 21. Next book: 1 John.
