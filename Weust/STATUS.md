@@ -786,3 +786,26 @@ past, since they're definitional statements, not narrated events.
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, Hebrews still 211. Next book: 1 Peter.
+
+## YLT literal-tense comparison pass — 1 Peter (5 fixes, all 5 chapters)
+
+No duplicate-content bugs. All 5 fixes were plain aorists over-marked as
+English present-perfect, verified against
+`tools/data/81-1Pe-morphgnt.txt`: 1:12 (*anēngelē*), 2:7 (*egenēthē*,
+"this one **became** the head of the corner"), 2:25 (*epestraphēte*,
+"but **now turned** back to the shepherd," sitting right next to a
+correctly-imperfect neighbor clause), 3:6 (*egenēthēte*, "whose children
+you **became**"), and 4:10 (*elaben*, "each one **received** a gift").
+
+Also caught a formatting slip of my own: `Weust/1peter.json` (along with
+presumably 2 Peter and the three John epistles / Jude, compiled in a
+later batch than the first ten books) is pretty-printed with 2-space
+indent, not the 1-space indent every earlier book in this pass used. My
+first pass at these fixes blindly re-dumped the file at indent=1, which
+reformatted all 46 entries and would have produced a 462-line diff for a
+5-line change. Caught it before committing, reverted, and reapplied the
+fixes preserving the file's own indent=2 — worth checking the existing
+indent on each remaining book before writing it back.
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, 1 Peter still 46. Next book: 2 Peter.

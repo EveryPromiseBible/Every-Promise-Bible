@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 1 Peter (5 fixes, all 5 chapters)
+
+Continued the YLT-comparison pass into 1 Peter. No duplicate-content bugs. Five aorist-as-present-perfect
+fixes, verified against tools/data/81-1Pe-morphgnt.txt: 1:12, 2:7, 2:25, 3:6, 4:10. Also caught and corrected
+a formatting slip: Weust/1peter.json (and presumably 2 Peter/1-3 John/Jude, compiled in a later batch) uses
+2-space indent, not the 1-space indent every earlier book used -- an initial pass re-dumped the whole file at
+indent=1, reverted before committing, refixed preserving the file's own indent. Re-spliced into data/weust.js
+(still 1,394 entries, 1 Peter still 46). Next: 2 Peter.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Hebrews (3 duplicates, 7 tense fixes)
 
 Continued the YLT-comparison pass into Hebrews. Worth doing even though the book's earlier tense audit had
