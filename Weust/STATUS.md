@@ -725,3 +725,24 @@ in English), 5:12, 5:15, 6:10 (two aorists in one sentence), and 6:21.
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, 1 Timothy still 58. Next book: 2 Timothy.
+
+## YLT literal-tense comparison pass — 2 Timothy (6 entries touched: 4 duplicates, 2 tense fixes)
+
+The biggest duplicate-content haul yet, all of the same "runs on into the
+next verse with no paragraph break" shape first seen at Mark 2:9 — a
+single-verse-labeled entry's last sentence turns out to actually be the
+next verses' material, already covered under its own separate label:
+1:9 (ran into 1:10-11's "made visible through the appearing of our
+Savior..." material), 1:15 (ran into 1:16-17's "Lord grant mercy to the
+household of Onesiphorus..." material), 2:15 (ran into 2:16-18's "turn
+away from unhallowed, empty talk... spread like gangrene" material), and
+4:13 (ran into 4:14-15's Alexander-the-coppersmith material). Each
+trimmed back to its own verse's true boundary, confirmed against
+`tools/data/76-2Ti-morphgnt.txt`'s verse markers. Two plain
+aorist-as-present-perfect fixes: 2:18 (*ēstochēsan*, "men who **went**
+astray") and 3:14 (*emathes*/*epistōthēs*, two aorists in one clause —
+"the things you **learned** and **became** convinced of... knowing from
+whom you **learned** them").
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, 2 Timothy still 46. Next book: Titus.

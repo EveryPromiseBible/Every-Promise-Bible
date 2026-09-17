@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 2 Timothy (4 duplicates, 2 tense fixes)
+
+Continued the YLT-comparison pass into 2 Timothy -- the biggest duplicate-content haul yet, all the same
+"runs on into the next verse with no paragraph break" shape first seen at Mark 2:9: 1:9, 1:15, 2:15, and 4:13
+each had a sentence that actually belonged to the next verse(s), already covered under its own separate
+label. Trimmed all four to their true boundaries against tools/data/76-2Ti-morphgnt.txt's verse markers. Also
+two aorist-as-present-perfect fixes (2:18, 3:14 x2). Re-spliced into data/weust.js (still 1,394 entries,
+2 Timothy still 46). Next: Titus.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 1 Timothy (10 fixes across 8 entries)
 
 Continued the YLT-comparison pass into 1 Timothy. No duplicate-content bugs. Verified against
