@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Titus (1 fix, all 3 chapters)
+
+Continued the YLT-comparison pass into Titus. No duplicate-content bugs; this small 22-entry book came back
+almost entirely clean. One fix, verified against tools/data/77-Tit-morphgnt.txt: 2:11's aorist epephanē
+("the grace of God... appeared," not "has appeared"). Re-spliced into data/weust.js (still 1,394 entries,
+Titus still 22). Next: Hebrews.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 2 Timothy (4 duplicates, 2 tense fixes)
 
 Continued the YLT-comparison pass into 2 Timothy -- the biggest duplicate-content haul yet, all the same

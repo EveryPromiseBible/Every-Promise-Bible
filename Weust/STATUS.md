@@ -746,3 +746,12 @@ whom you **learned** them").
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, 2 Timothy still 46. Next book: Titus.
+
+## YLT literal-tense comparison pass — Titus (1 fix, all 3 chapters)
+
+No duplicate-content bugs — this small book (22 entries) came back almost
+entirely clean. One fix, verified against `tools/data/77-Tit-morphgnt.txt`:
+2:11 (*epephanē*, "the grace of God... **appeared**," not "has appeared").
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, Titus still 22. Next book: Hebrews.
