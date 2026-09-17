@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Hebrews (3 duplicates, 7 tense fixes)
+
+Continued the YLT-comparison pass into Hebrews. Worth doing even though the book's earlier tense audit had
+come back clean: found three more duplicate-content bugs of the "runs on into the next verse, no paragraph
+break" shape (8:5, 9:5, 11:38), trimmed against tools/data/79-Heb-morphgnt.txt's verse boundaries. Seven tense
+fixes split between aorist-as-present-perfect (2:13, 4:10, 7:21, 11:2) and the opposite direction -- a genuine
+perfect or imperfect under-marked into a pluperfect or flattened past (11:5 x2, 11:17, 12:9). Left two
+generic/gnomic aorist-participle passages alone (6:4-6, 10:26-29) after confirming YLT treats them the same
+non-literal way, since they're definitional statements rather than narrated events. Re-spliced into
+data/weust.js (still 1,394 entries, Hebrews still 211). Next: 1 Peter.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Titus (1 fix, all 3 chapters)
 
 Continued the YLT-comparison pass into Titus. No duplicate-content bugs; this small 22-entry book came back

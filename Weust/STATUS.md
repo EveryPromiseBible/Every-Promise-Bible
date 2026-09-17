@@ -755,3 +755,34 @@ entirely clean. One fix, verified against `tools/data/77-Tit-morphgnt.txt`:
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, Titus still 22. Next book: Hebrews.
+
+## YLT literal-tense comparison pass — Hebrews (10 entries touched: 3 duplicates, 7 tense fixes)
+
+Hebrews's own completeness audit had already been the biggest single
+find in the whole project (155->211 entries), so this closer pass was
+worth doing even though the book's tense audit had come back clean
+earlier. It found three more duplicate-content bugs of the now-familiar
+"runs on into the next verse with no paragraph break" shape: 8:5 (ran
+into 8:6-13's "he has obtained a more excellent ministry" material), 9:5
+(ran into 9:6's "these things having been prepared, the priests enter"
+material), and 11:38 (ran into 11:39-40's "though attested through their
+faith, did not receive the promise" material) — each trimmed to its
+verified verse boundary in `tools/data/79-Heb-morphgnt.txt`.
+
+Seven tense fixes, split between the two usual families: aorist
+over-marked as present-perfect (2:13, 4:10, 7:21, 11:2), and a genuine
+perfect or imperfect backshifted the other direction into a pluperfect or
+simple past mismatch (11:5's *memartyrētai*, "he **has** been attested,"
+plus its own neighboring aorist reason-clause "because God
+**transferred** him," not "had transferred" — the same
+background-aorist-as-flashback trap found throughout Mark; 11:17's
+*prosenēnochen*, "**has** already offered up Isaac"; and 12:9's
+imperfect *eichomen*, "we **had** fathers... as those who disciplined
+us," not "have had"). Two generic/gnomic passages (6:4-6's chain of aorist
+participles describing apostasy, and 10:26-29's chain describing willful
+sin) were checked against YLT and left alone — YLT itself keeps these as
+timeless participial or present-perfect constructions rather than simple
+past, since they're definitional statements, not narrated events.
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, Hebrews still 211. Next book: 1 Peter.
