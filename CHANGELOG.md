@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: 10 more Protection verses (second batch)
+
+User asked to add more Protection verses, careful not to duplicate anything already in the corpus. Authored
+10 more brand-new promises (150 more original meditations): Psalm 91:6, Psalm 91:7, Psalm 91:13, Psalm 71:3,
+Psalm 140:4, Proverbs 4:6, Zechariah 9:8, Psalm 25:20, 2 Timothy 3:11, and 1 John 5:19.
+
+Three intended verses turned out to overlap existing entries once validated (Psalm 37:39-40 overlapped
+existing Psalm 37:39 AND Psalm 37:40 as two separate entries; Acts 18:10 overlapped existing Acts 18:9-10;
+1 John 5:18-19 overlapped existing 1 John 5:18; Jude 1:24 overlapped existing Jude 1:24-25) -- those five
+existing entries got the Protection tag added instead, and the non-overlapping remainder (1 John 5:19) became
+a fresh entry. Same validation pipeline as the first batch: add_promises.py (verbatim KJV, no overlapping
+verse spans, exactly 15 meditations) + law_scan.py (no obligation/conditional/lever language) + plain-language
+and sentence-opener-variety checks -- caught and fixed 5 plain-language hits ("names"/"actual"/"described")
+and 9 repeated-opener sets before merging clean.
+
+Final counts: 2,246 promises (+10 this batch, +20 total since Protection was added), 33,690 meditations
+(+150 this batch, +300 total), 77 promises now tagged Protection (up from 62). Healing and every other
+existing mood remain untouched. Confirmed live.
+
 ## 2026-09-17 — Promises: new "Protection" mood category
 
 User asked whether the Promises section had a Protection category -- it didn't (17 moods existed: Encouraged,
