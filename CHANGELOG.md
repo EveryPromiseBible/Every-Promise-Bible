@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison project complete (all 16 books, 104 fixes)
+
+Finished the YLT-comparison pass with the last three books, checked together: 2 John, 3 John, and Jude (5
+fixes total, all aorist/imperfect-as-present-perfect, verified against tools/data/84-2Jn, 85-3Jn, and
+86-Jud-morphgnt.txt). No duplicate-content bugs in these three.
+
+This closes out the full third-layer audit across all 16 Wuest books: every `translation` field has now been
+checked against Young's Literal Translation's insistence on showing the Greek tense even where smoother
+English would hide it, on top of the two earlier audits (tense-vs-tagged-Greek, then content-completeness).
+Final tally: 104 fixes across all 16 books (16 Romans, 31 Mark, 5 Galatians, 3 Ephesians, 5 Philippians,
+5 Colossians, 10 1 Timothy, 6 2 Timothy, 1 Titus, 10 Hebrews, 5 1 Peter, 1 2 Peter, 1 1 John, 5 across 2
+John/3 John/Jude). Two defect families covered nearly all of it -- aorist rendered as English present-perfect,
+and a genuine perfect backshifted the other direction into a pluperfect inside background "for" clauses -- plus
+an unexpected third: 12 duplicate-content bugs (5 Mark, 4 2 Timothy, 3 Hebrews) where an entry's prose ran on
+past its own verse boundary into the next entry's already-covered material, invisible to the earlier
+label-range completeness audit. 1,394 entries confirmed live via weustVerseLookup(), zero structural errors.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 1 John (1 fix, all 5 chapters)
 
 Continued the YLT-comparison pass into 1 John. No duplicate-content bugs; this book was already unusually

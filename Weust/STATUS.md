@@ -838,3 +838,55 @@ from the beginning," not "has been sinning").
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, 1 John still 24. Next book: 2 John, 3 John, Jude
 (three tiny books, checking together).
+
+## YLT literal-tense comparison pass — 2 John, 3 John, Jude (5 fixes, all three books)
+
+The last three books of the full 16-book pass, checked together since
+all three are one chapter. No duplicate-content bugs. Five fixes, all
+aorist/imperfect over-marked as English present-perfect, verified against
+`tools/data/84-2Jn-morphgnt.txt`, `85-3Jn-morphgnt.txt`, and
+`86-Jud-morphgnt.txt`: 2 John 1:5 (*eichomen*, an imperfect — "one which
+we **had** from the beginning"), 2 John 1:7 and 1:8 (*exēlthon*,
+*eirgasametha* — "many deceivers **went** out," "the things we
+**worked** for"), 3 John 1:6 (*emartyrēsan*, "who **testified** to your
+love"), Jude 1:4 (*pareisedysan*, "certain men **slipped** in
+stealthily"), and Jude 1:18 (*elegon*, an imperfect — "that they **kept
+telling** you," matching the same durative-imperfect convention fixed at
+Philippians 3:18).
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— **project complete: all 16 books of the YLT literal-tense comparison
+pass are finished.** Final count unchanged at 1,394 entries across 16
+books, zero structural errors.
+
+## Project complete: YLT literal-tense comparison pass, all 16 books
+
+Every book Wuest covered has now been checked a third time — first for
+tense/mood/voice against the tagged Greek, then for whether each entry's
+content actually matches its own label's verse range, and now for
+whether the `translation` field's English tense matches Young's Literal
+Translation's insistence on showing the Greek tense even when smoother
+English would hide it. Final tally across the whole pass: **104 fixes**
+across all 16 books (16 Romans, 31 Mark, 5 Galatians, 3 Ephesians,
+5 Philippians, 5 Colossians, 10 1 Timothy, 6 2 Timothy, 1 Titus, 10
+Hebrews, 5 1 Peter, 1 2 Peter, 1 1 John, 5 across 2 John/3 John/Jude) —
+1,394 entries confirmed live via `weustVerseLookup()`, zero structural
+errors.
+
+Two defect families accounted for nearly all of it: (1) a Greek aorist
+(or occasionally imperfect) rendered as English present-perfect instead
+of simple past — by far the largest category — and (2) a genuine Greek
+perfect correctly identified but then backshifted into an English
+pluperfect anyway, usually inside background/explanatory clauses
+introduced by "for" (γάρ), where English narrative instinct wants a
+pluperfect that the Greek itself never uses. A third, unexpected
+category also turned up along the way: 12 duplicate-content bugs (5 in
+Mark, 4 in 2 Timothy, 3 in Hebrews) where an entry's prose ran on past
+its own verse boundary into the next entry's already-covered material —
+invisible to the earlier label-range completeness audit, caught only by
+this close a reading. Every fix was checked against the book's own
+tagged-Greek morphgnt file before being applied, and against YLT's own
+wording directly in the handful of genuinely ambiguous cases (epistolary
+aorists, universal-negative idioms, generic/gnomic participle chains)
+where a mechanical rule would have overridden a defensible existing
+choice.
