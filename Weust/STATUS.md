@@ -821,3 +821,20 @@ slip caught at 1 Peter.
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, 2 Peter still 21. Next book: 1 John.
+
+## YLT literal-tense comparison pass — 1 John (1 fix, all 5 chapters)
+
+No duplicate-content bugs. This book was already unusually tense-precise
+— 1:1's own opening sentence already correctly distinguishes the perfect
+*akēkoamen*/*heōrakamen* ("have heard... have seen") from the aorist
+*etheasametha*/*epsēlaphēsan* ("gazed upon... felt") in the same breath,
+and 2:12-14's famous double set of "I am writing... I have written"
+already matches the standing epistolary-aorist convention used
+throughout this pass. One fix, verified against
+`tools/data/83-1Jn-morphgnt.txt`: 3:8 (*hamartanei*, a plain present
+tense over-marked as present-perfect — "the devil **keeps sinning**
+from the beginning," not "has been sinning").
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, 1 John still 24. Next book: 2 John, 3 John, Jude
+(three tiny books, checking together).

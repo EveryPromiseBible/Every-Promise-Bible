@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 1 John (1 fix, all 5 chapters)
+
+Continued the YLT-comparison pass into 1 John. No duplicate-content bugs; this book was already unusually
+tense-precise (1:1 already distinguishes perfect from aorist in the same sentence; 2:12-14's famous double
+set already matches the epistolary-aorist convention used throughout this pass). One fix, verified against
+tools/data/83-1Jn-morphgnt.txt: 3:8's present tense hamartanei over-marked as present-perfect ("the devil
+keeps sinning," not "has been sinning"). Re-spliced into data/weust.js (still 1,394 entries, 1 John still 24).
+Next: 2 John, 3 John, Jude (checking the three tiny books together).
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 2 Peter (1 fix, all 3 chapters)
 
 Continued the YLT-comparison pass into 2 Peter. No duplicate-content bugs; came back almost entirely clean.
