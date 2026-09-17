@@ -707,3 +707,21 @@ you"), and 4:11 (*egenēthēsan*, "who **became** a comfort to me").
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, Colossians still 48. Next book: 1 Timothy.
+
+## YLT literal-tense comparison pass — 1 Timothy (8 entries touched, 10 fixes)
+
+No duplicate-content bugs. All fixes were plain aorists over-marked as
+English present-perfect, verified against `tools/data/75-1Ti-morphgnt.txt`
+and cross-checked against YLT wherever a qualification-list construction
+made the call look ambiguous: 1:6, 1:11, 1:19, 1:20 (four separate
+aorists across two entries in chapter 1), 2:14 (the one exception running
+the other way — a genuine perfect, *gegonen*, was under-marked as simple
+past and needed lifting to "**has** come to be," not fixed down), 5:10
+(five aorists in a single qualification list — "if she **brought up**
+children... **showed** hospitality... **washed**... **assisted**...
+**devoted** herself," all checked against YLT's own plain-past rendering
+of the same list, since qualification lists like this can go either way
+in English), 5:12, 5:15, 6:10 (two aorists in one sentence), and 6:21.
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, 1 Timothy still 58. Next book: 2 Timothy.

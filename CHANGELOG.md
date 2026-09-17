@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, 1 Timothy (10 fixes across 8 entries)
+
+Continued the YLT-comparison pass into 1 Timothy. No duplicate-content bugs. Verified against
+tools/data/75-1Ti-morphgnt.txt: mostly the usual aorist-as-present-perfect pattern (1:6, 1:11, 1:19, 1:20,
+5:10 x5 in one qualification list, 5:12, 5:15, 6:10 x2, 6:21), plus one fix running the other direction --
+2:14's genuine perfect (gegonen) was under-marked as simple past and needed lifting to "has come to be."
+Re-spliced into data/weust.js (still 1,394 entries, 1 Timothy still 58). Next: 2 Timothy.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Colossians (5 fixes, all 4 chapters)
 
 Continued the YLT-comparison pass into Colossians. No duplicate-content bugs. Five aorist-as-present-perfect
