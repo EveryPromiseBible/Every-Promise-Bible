@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: 9 more Protection verses (third batch)
+
+User asked for more Protection verses, careful again not to duplicate anything already in the corpus. This
+batch hit the heaviest overlap rate yet: of 12 verses picked, 7 turned out to overlap existing entries once
+validated -- in several cases (Isaiah 43:1-2, Ephesians 6:10-11, Hebrews 13:5-6, 2 Timothy 4:17-18) BOTH
+halves of the intended range already existed as separate single-verse entries, so the whole range was dropped
+in favor of retagging both existing entries. In three other cases only one half was free: Psalm 118:6-7
+became Psalm 118:7 alone (118:6 retagged), Daniel 3:17-18 became Daniel 3:18 alone (3:17 retagged), and
+Psalm 124:6-8 split into two fresh single-verse entries, Psalm 124:6 and Psalm 124:8 (124:7 retagged), since
+the middle verse of that three-verse span was already taken.
+
+Final new content: 9 promises, 135 original meditations -- Psalm 91:8, Psalm 94:22, Psalm 107:6, Psalm 118:7,
+Psalm 124:6, Psalm 124:8, Proverbs 19:23, Daniel 3:18, and Matthew 2:13. Same validation pipeline as the
+prior two batches; this round's content pass caught "your part" as a literal law_scan OBLIGATION-list phrase
+(harmless in context -- "taking your part" meaning "taking your side" -- but flagged anyway) alongside the
+usual "names"/"described"/"pictures"/"actual" plain-language hits, plus heavy "This" opener overuse across
+nearly every set in the batch (up to 5 of 15 lines in one case) -- all fixed and re-verified clean.
+
+Final counts: 2,255 promises (+9 this batch, +29 total since Protection launched), 33,825 meditations (+135
+this batch, +435 total), 97 promises now tagged Protection (up from 77). Healing and every other mood
+untouched throughout. Confirmed live.
+
 ## 2026-09-17 — Site updates bell: announced the new "Protection" category
 
 Added a SITE_UPDATES entry (index.html) telling readers about the new Protection mood -- what it is, that
