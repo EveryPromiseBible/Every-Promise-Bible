@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Colossians (5 fixes, all 4 chapters)
+
+Continued the YLT-comparison pass into Colossians. No duplicate-content bugs. Five aorist-as-present-perfect
+fixes, verified against tools/data/72-Col-morphgnt.txt: 1:22, 1:26, 3:25, 4:8, 4:11. The 1:22 case also
+involved a textual variant (the modern critical text has a passive "you were reconciled" where the manuscript
+tradition YLT used has an active "he reconciled") -- kept our existing active-voice wording, which already
+matches YLT's own manuscript tradition, and fixed only the tense. Re-spliced into data/weust.js (still 1,394
+entries, Colossians still 48). Next: 1 Timothy.
+
 ## 2026-09-16 — Wuest commentary: YLT literal-tense comparison, Philippians (5 fixes, all 4 chapters)
 
 Continued the YLT-comparison pass into Philippians. No duplicate-content bugs. Five fixes, verified against

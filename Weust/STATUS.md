@@ -690,3 +690,20 @@ be self-sufficient").
 
 Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
 — still 1,394 entries, Philippians still 56. Next book: Colossians.
+
+## YLT literal-tense comparison pass — Colossians (5 fixes, all 4 chapters)
+
+No duplicate-content bugs. All 5 fixes were plain aorists over-marked as
+English present-perfect, verified against
+`tools/data/72-Col-morphgnt.txt`: 1:22 (a textual-variant case —
+*apokatēllagēte* in the modern critical text is passive "you were
+reconciled," but our wording already followed the majority-text active
+voice YLT itself uses, "did he reconcile," so only the tense was fixed:
+"He **now reconciled**," not "has now reconciled"), 1:26 (*ephanerōthē*,
+"was now made known," sitting right beside a correctly-perfect neighbor
+clause — the same trap as Mark 6:14/16 and Ephesians 3:5), 3:25
+(*ēdikēsen*, "the wrong he **did**"), 4:8 (*epempsa*, "I **sent** him to
+you"), and 4:11 (*egenēthēsan*, "who **became** a comfort to me").
+
+Re-spliced into `data/weust.js`, confirmed live via `weustVerseLookup()`
+— still 1,394 entries, Colossians still 48. Next book: 1 Timothy.
