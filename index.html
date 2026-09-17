@@ -413,17 +413,17 @@
      and so on -- not just the outermost, and each is a plain heading (never
      a click target here) grouping the leaf-level entries beneath it, each
      of which is a real <details> a reader opens to read that part -- see
-     buildKjvSynopsisChapter. Weight and numeral color follow depth (level
-     0/1 bold, 2+ normal; level 0's numeral rust, the rest gray) the same
-     way whether a given level happens to render as a plain label here or
-     as a fold -- syn-fold-lvl0/1/2/3 on the <details> mirrors syn-group-
-     lvl0/1/2/3 on the label divs for exactly this reason. A depth reading
-     as bold in one branch and normal in the next, purely because one
-     happens to have children of its own and the other doesn't, was the
-     bug: weight now tracks depth, not leaf-vs-group. */
+     buildKjvSynopsisChapter. Every level is bold (size still shrinks with
+     depth, level 0's numeral rust, the rest gray) the same way whether a
+     given level happens to render as a plain label here or as a fold --
+     syn-fold-lvl0/1/2/3 on the <details> mirrors syn-group-lvl0/1/2/3 on
+     the label divs for exactly this reason. All-bold headings vs. plain-
+     weight .illum-v scripture is deliberate: opening a fold should make it
+     obvious at a glance which line is the heading you tapped and which is
+     the verse text underneath it. */
   .syn-group-label{margin:28px 0 8px;max-width:34em;line-height:1.4;}
   .syn-group-label:first-child{margin-top:6px;}
-  /* Weight and size follow outline depth (0/1 bold, 2+ normal), the same
+  /* Weight is bold at every depth (only size/indent shrink), the same
      whether a level renders as a static group label here or as a clickable
      fold below -- a level reads the same regardless of which one a given
      branch happens to be, rather than boldness depending on whether that
@@ -431,7 +431,7 @@
   .syn-group-lvl0{font-size:1.22em;font-weight:700;color:var(--ink);}
   .syn-group-lvl0 .syn-num{color:#9a3d16;}
   .syn-group-lvl1{font-size:1em;font-weight:600;color:var(--ink);margin-left:1.15em;}
-  .syn-group-lvl2,.syn-group-lvl3{font-size:0.96em;font-weight:400;
+  .syn-group-lvl2,.syn-group-lvl3{font-size:0.96em;font-weight:600;
     color:var(--ink);margin-left:1.15em;}
   .syn-group-lvl2{margin-left:2.3em;}
   .syn-num{font-weight:inherit;color:var(--gray);}
@@ -439,12 +439,8 @@
     margin-left:1.15em;}
   details.syn-fold:first-of-type{border-top:none;}
   details.syn-fold > summary.syn-fold-h{list-style:none;cursor:pointer;
-    color:var(--ink);font-size:0.98em;padding-bottom:6px;
+    color:var(--ink);font-size:0.98em;padding-bottom:6px;font-weight:600;
     display:flex;align-items:baseline;gap:6px;}
-  details.syn-fold.syn-fold-lvl0 > summary.syn-fold-h,
-  details.syn-fold.syn-fold-lvl1 > summary.syn-fold-h{font-weight:600;}
-  details.syn-fold.syn-fold-lvl2 > summary.syn-fold-h,
-  details.syn-fold.syn-fold-lvl3 > summary.syn-fold-h{font-weight:400;}
   details.syn-fold.syn-fold-lvl0 > summary.syn-fold-h .syn-num{color:#9a3d16;}
   details.syn-fold > summary.syn-fold-h::-webkit-details-marker{display:none;}
   details.syn-fold > summary.syn-fold-h::before{content:'\203A';display:inline-block;

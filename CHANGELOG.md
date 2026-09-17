@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 2026-09-17 — KJV Synopsis: bold every outline heading level
+
+User asked for a clearer visual split between a Synopsis heading and the scripture underneath it once you
+tap one open. Levels 0/1 (Roman numeral, letter) were already bold, but levels 2/3 (the number/sub-number
+depth, which is the level most outline branches actually bottom out at) were font-weight:400 -- same weight
+as the KJV verse text itself, so an opened fold read as one undifferentiated block. Made every depth bold
+(.syn-group-lvl2/3 and details.syn-fold-lvl2/3's summary both now font-weight:600, matching level 1) while
+leaving .illum-v (the actual verse paragraphs) untouched at its existing normal weight. Verified live on
+Romans 8, which uses all four outline depths in one chapter.
+
 ## 2026-09-17 — Promises: 12 new verses across Angry, Tempted, Stressed, Provision
 
 User asked for more promises, not necessarily Protection this time. Checked mood distribution across the
