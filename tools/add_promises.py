@@ -34,7 +34,7 @@ import kjv
 
 BATCH_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "promises_new")
 
-MOODS = ["Encouraged", "Grateful", "Hopeful", "Anxious", "Peaceful", "Broken",
+MOODS = ["Encouraged", "Grateful", "Anxious", "Peaceful", "Broken",
          "Confused", "Waiting", "Lonely", "Overwhelmed", "Joyful", "Tired",
          "Stressed", "Tempted", "Angry",
          # 2026-07-20: provision -- money, work, debt, lack, daily supply. The
@@ -51,7 +51,14 @@ MOODS = ["Encouraged", "Grateful", "Hopeful", "Anxious", "Peaceful", "Broken",
          # safety from the enemy/danger/the evil one. Covers both fresh verses
          # and existing ones (Psalm 91, Psalm 121, etc.) retagged to add this
          # mood alongside whatever they already carried.
-         "Protection"]
+         "Protection",
+         # 2026-09-17: hope REPLACES hopeful, same reasoning as sick->healing --
+         # a shorter, plainer noun for the same 1,023 promises, renamed in
+         # data/promises.js directly (no separate retag script needed, since
+         # it was a pure string swap, not a re-selection of which promises
+         # carry it). Hopeful is deliberately absent so a stale batch or an
+         # old client cache cannot reintroduce it and split the mood in two.
+         "Hope"]
 
 
 def span(ref):

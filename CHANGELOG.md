@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: renamed the "Hopeful" mood to "Hope"
+
+User asked for the rename. Pure string swap across all 1,023 promises carrying it in data/promises.js -- no
+re-selection of which promises carry the mood, same as the Sick->Healing rename. Also updated the hardcoded
+MOODS allow-list in tools/add_promises.py so future batches use the new name; Hopeful is deliberately left out
+of that list, same reasoning as Sick, so a stale batch or cache can't reintroduce it and split the mood in
+two. The mood pill list in index.html needed no change since it derives from the data. Verified live: the
+pill reads "Hope" and filtering by it correctly returns the renamed promises.
+
 ## 2026-09-17 — Promises: 20 more verses, mostly Protection (fifth batch)
 
 User asked for more promises and meditations, no specific mood named. Checked the mood-count distribution
