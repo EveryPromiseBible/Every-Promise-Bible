@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: renamed the "Peaceful" mood to "Rest"
+
+Same pure string swap as the Hopeful->Hope rename minutes earlier, across all 726 promises carrying it.
+Updated the add_promises.py MOODS allow-list to match, Peaceful deliberately left out for the same
+stale-batch/cache reason as Hopeful and Sick. Verified live: both "Hope" and "Rest" pills render correctly
+and filter to their renamed promises.
+
 ## 2026-09-17 — Promises: renamed the "Hopeful" mood to "Hope"
 
 User asked for the rename. Pure string swap across all 1,023 promises carrying it in data/promises.js -- no

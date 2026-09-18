@@ -34,7 +34,7 @@ import kjv
 
 BATCH_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "promises_new")
 
-MOODS = ["Encouraged", "Grateful", "Anxious", "Peaceful", "Broken",
+MOODS = ["Encouraged", "Grateful", "Anxious", "Broken",
          "Confused", "Waiting", "Lonely", "Overwhelmed", "Joyful", "Tired",
          "Stressed", "Tempted", "Angry",
          # 2026-07-20: provision -- money, work, debt, lack, daily supply. The
@@ -58,7 +58,11 @@ MOODS = ["Encouraged", "Grateful", "Anxious", "Peaceful", "Broken",
          # it was a pure string swap, not a re-selection of which promises
          # carry it). Hopeful is deliberately absent so a stale batch or an
          # old client cache cannot reintroduce it and split the mood in two.
-         "Hope"]
+         "Hope",
+         # 2026-09-17: rest REPLACES peaceful, same pure string swap over the
+         # same 726 promises. Peaceful is deliberately absent for the same
+         # stale-batch/cache reason as Hopeful and Sick above.
+         "Rest"]
 
 
 def span(ref):
