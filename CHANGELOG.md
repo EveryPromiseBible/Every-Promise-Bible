@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: renamed the "Grateful" mood to "Blessing"
+
+User wanted Grateful shortened; considered and rejected "Grace" first (would relabel thankfulness verses as
+being about the unmerited-favor doctrine instead, a real meaning change, not a pure rename) and offered
+Blessed/Thanks/Praise as shorter alternatives that keep the same meaning. User picked "Blessing." Same pure
+string swap as the two renames just before it, across all 724 promises. Updated the add_promises.py MOODS
+allow-list to match; Grateful deliberately left out for the same stale-batch/cache reason as the others.
+Verified live: the pill reads "Blessing" and filtering by it returns the renamed promises correctly.
+
 ## 2026-09-17 — Promises: renamed the "Peaceful" mood to "Rest"
 
 Same pure string swap as the Hopeful->Hope rename minutes earlier, across all 726 promises carrying it.

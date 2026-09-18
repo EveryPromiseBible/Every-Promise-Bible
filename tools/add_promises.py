@@ -34,7 +34,7 @@ import kjv
 
 BATCH_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "promises_new")
 
-MOODS = ["Encouraged", "Grateful", "Anxious", "Broken",
+MOODS = ["Encouraged", "Anxious", "Broken",
          "Confused", "Waiting", "Lonely", "Overwhelmed", "Joyful", "Tired",
          "Stressed", "Tempted", "Angry",
          # 2026-07-20: provision -- money, work, debt, lack, daily supply. The
@@ -62,7 +62,11 @@ MOODS = ["Encouraged", "Grateful", "Anxious", "Broken",
          # 2026-09-17: rest REPLACES peaceful, same pure string swap over the
          # same 726 promises. Peaceful is deliberately absent for the same
          # stale-batch/cache reason as Hopeful and Sick above.
-         "Rest"]
+         "Rest",
+         # 2026-09-17: blessing REPLACES grateful, same pure string swap over
+         # the same 724 promises. Grateful is deliberately absent for the
+         # same stale-batch/cache reason as the renames above.
+         "Blessing"]
 
 
 def span(ref):
