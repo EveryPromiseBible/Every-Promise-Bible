@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: renamed the "Joyful" mood to "Joy"
+
+Same pure string swap as the three renames just before it, across all 289 promises carrying it. Updated the
+add_promises.py MOODS allow-list to match; Joyful deliberately left out for the same stale-batch/cache reason
+as the others. Verified live: the pill reads "Joy" and filtering by it returns the renamed promises correctly.
+
 ## 2026-09-17 — Promises: renamed the "Grateful" mood to "Blessing"
 
 User wanted Grateful shortened; considered and rejected "Grace" first (would relabel thankfulness verses as
