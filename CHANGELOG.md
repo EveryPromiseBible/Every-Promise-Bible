@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## 2026-09-17 — Promises: 20 more verses, mostly Protection (fifth batch)
+
+User asked for more promises and meditations, no specific mood named. Checked the mood-count distribution
+again -- Protection was still smallest at 119 despite four prior batches -- and found a much wider vein of
+free candidates than the previous mixed-mood pass turned up: 19 more Protection verses plus 1 Corinthians
+12:9 for Healing (238, next smallest untouched). New content: Psalm 12:7, 18:48, 22:19, 22:20-21, 31:1-2,
+60:11-12, 68:35, 69:29, 70:5, 105:14-15, 107:41, 140:1-2, 144:2, Isaiah 27:5, 41:11-12, 44:8, Matthew 18:10,
+Luke 1:74-75, Romans 8:35 (Protection, two also double-tagged Anxious/Peaceful/Broken/Encouraged/Provision
+where they fit); 1 Corinthians 12:9 (Healing).
+
+Psalm 144:2 needed trimming: the stored verse cut off before "who subdueth my people under me" (David's own
+kingship clause, confusing out of context for an individual reader) -- first attempt left a trailing period
+that broke the verbatim substring check against the source's semicolon, fixed by dropping the period entirely
+so the stored text is a true contiguous substring. Style pass caught 7 ACADEMIC hits, all the word "names"
+used as a plain verb ("this verse names it") or "pictures" as a verb -- both trip the regex same as any other
+form -- reworded to "states"/"speaks of"/"means" and re-verified clean.
+
+Final counts: 2,307 promises (+20), 34,605 meditations (+300), 138 tagged Protection (was 119), 238 tagged
+Healing. Zero duplicate references, zero verse-span overlaps, zero internal duplicate meditations confirmed
+across the full corpus after merge -- checked programmatically and live in browser.
+
 ## 2026-09-17 — KJV Synopsis: bold every outline heading level
 
 User asked for a clearer visual split between a Synopsis heading and the scripture underneath it once you
