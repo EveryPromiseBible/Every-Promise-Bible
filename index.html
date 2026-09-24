@@ -3983,11 +3983,18 @@ function toggleKjvJesus() {
 /* Shown only on a KJV chapter the Jesus Bible also covers; null ref (the
    Synopsis reference page, or any other translation) hides it. Called from
    loadIllum on every destination, not from switchTranslation, since
-   coverage is per-chapter, not per-translation. */
+   coverage is per-chapter, not per-translation.
+
+   2026-09-24: Chris's call -- pulled the dot out of the KJV toolbar
+   entirely (`has` forced false below), so it never shows and can't be
+   toggled on. Nothing else changed: jesusChapterForRef, toggleKjvJesus,
+   kjvJesusOn, the currentTx==='kjv' branch in buildIllumChapter, and
+   data/jesus.js are all still here and still work -- restoring the dot
+   is one line (delete the `&& false`) if it's ever wanted back. */
 function updateKjvJesusDot(ref) {
   const dot = document.getElementById('kjvJesusDot');
   if (!dot) return;
-  const has = currentTx === 'kjv' && !!ref && !!jesusChapterForRef(ref);
+  const has = currentTx === 'kjv' && !!ref && !!jesusChapterForRef(ref) && false;
   dot.style.display = has ? '' : 'none';
   dot.classList.toggle('on', has && kjvJesusOn);
 }
@@ -3998,6 +4005,15 @@ function ilEsc(s) {
 }
 /* Poetry keeps its line breaks; prose has none to keep. */
 function ilText(s) { return ilEsc(s).replace(/\n/g, '<br>'); }
+/* Bolds every standalone "Jesus" or "Jesus Christ" in the Illumination
+   Translation's own reading text, so the name stands out on the page --
+   Illumination only, not KJV, not devotionals, not comments (those all
+   go through plain ilText, never this). Alternation tries "Jesus Christ"
+   first so the whole phrase bolds as one unit rather than leaving
+   "Christ" un-bolded next to a bolded "Jesus". */
+function ilBoldJesus(escapedHtml) {
+  return escapedHtml.replace(/\b(Jesus Christ|Jesus)\b/g, '<strong>$1</strong>');
+}
 
 /* Built for a named corpus rather than the active one, because search now
    indexes every translation at once and must be able to work out a destination
@@ -4271,7 +4287,7 @@ function renderIllumVerseP(v, si, vi, ch, book) {
        ' onclick="ilHighlightVerse(this,' + si + ',' + vi + ',event)">' +
        '<span class="illum-ref" onclick="illumRefClick(this,\'' + ilEsc(ch.ref) + '\',event)">' +
          ilEsc(v[0]) + '</span> ' +
-       (expRaw ? expAnnotateHTML(expRaw) : ilText(v[1])) +
+       (expRaw ? expAnnotateHTML(expRaw) : (currentTx === 'illum' ? ilBoldJesus(ilText(v[1])) : ilText(v[1]))) +
        (defText ? ' <span class="illum-def-bulb" onclick="illumDefToggle(this,event)">\u{1F4A1}</span>' : '') +
        '</p>';
   if (defText) {

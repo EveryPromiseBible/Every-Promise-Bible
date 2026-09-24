@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## 2026-09-24 — Illumination: bold "Jesus"/"Jesus Christ"; KJV: Jesus Bible dot removed from the toolbar
+
+Two requests from Chris. First: bold every standalone "Jesus" or "Jesus Christ" in the Illumination
+Translation's own reading text, so the name stands out on the page -- scoped to the Illumination only via a
+new `ilBoldJesus()` wrapping `ilText()`'s escaped output, called from `renderIllumVerseP` only when
+`currentTx === 'illum'`. KJV, devotionals, and comments still go through plain `ilText` untouched.
+
+Second: the little red "show this chapter in the voice of Jesus" dot in the KJV toolbar (`kjvJesusDot`) is
+gone from the UI. Chris wanted it out of the way but kept for reference, not deleted -- so `updateKjvJesusDot`
+now forces `has` to always be false (`&& false` appended, with a comment explaining it), and everything else
+(`jesusChapterForRef`, `toggleKjvJesus`, `kjvJesusOn`, the `currentTx === 'kjv'` overlay branch in
+`buildIllumChapter`, and `data/jesus.js` itself) is untouched and still fully wired -- restoring the dot is
+deleting that one `&& false`.
+
+Verification note: the Claude-in-Chrome browser extension was unresponsive this session (confirmed a local
+network/extension issue, not a code problem), so this shipped on a careful static/code review of the three
+small, mechanical edits rather than a live screenshot check.
+
 ## 2026-09-17 — Promises: renamed the "Joyful" mood to "Joy"
 
 Same pure string swap as the three renames just before it, across all 289 promises carrying it. Updated the
