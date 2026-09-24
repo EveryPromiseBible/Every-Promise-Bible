@@ -1,5 +1,33 @@
 # CHANGELOG
 
+## 2026-09-24 — Illumination bulb notes: grace-centered rewrite begins (Matthew 1-2)
+
+New project, Chris's call: the bulb notes under the Illumination Translation are being rewritten book by
+book so each one points to Jesus and His grace in that portion of scripture, rather than just plainly
+retelling what the verse says (the header in data/illum-defs.js still says "plain, elementary retellings,
+not interpretation" for the untouched majority -- that line will need updating once this project is further
+along). Matthew was picked as the first book since it's Gospel-first.
+
+Built `tools/illum_defs_rewrite.py`, a companion to the existing `illum_defs_author.py` (which is for brand
+new definitions and refuses to touch an entry that already exists). This one is the deliberate opposite: it
+REQUIRES every (chapterRef, blockLabel) to already have a definition, so it can never accidentally create a
+new entry out of a typo'd label, and overwrites that entry's text. Also backed up the pre-rewrite file in
+full to `_shelved/illum-defs.js.before-jesus-grace-rewrite.bak` before the first chapter, per Chris's request,
+so the original plain-retelling notes are recoverable outside of git history too if ever needed.
+
+Matthew 1 (9 entries) and Matthew 2 (9 entries) done: genealogy notes lean on the four named women (Tamar,
+Rahab, Ruth, "the wife of Uriah") and the kings' mixed record to show grace choosing an unlikely family line;
+the infancy narrative notes lean on Gentile wise men worshipping first, Jesus retracing Israel's own exodus
+story, and (carefully, without framing God as the cause of Herod's cruelty) the massacre of the innocents.
+Same plain-language/no-academic-jargon checks used for the Promises meditations applied here too -- caught
+"names" used as a verb twice (ACADEMIC-list hit even as a plain verb, same gotcha hit repeatedly in the
+Promises project) and reworded both.
+
+26 chapters and roughly 211 entries left in Matthew alone, then the rest of the NT and OT -- multi-session,
+tracked in memory as illum-defs-grace-rewrite, one or a few chapters per session as requested. Verification
+this session was code/data review only (JSON structure, entry counts, style-regex checks) rather than a live
+screenshot -- the Claude-in-Chrome extension was unresponsive throughout.
+
 ## 2026-09-24 — Illumination: bold "Jesus"/"Jesus Christ"; KJV: Jesus Bible dot removed from the toolbar
 
 Two requests from Chris. First: bold every standalone "Jesus" or "Jesus Christ" in the Illumination
