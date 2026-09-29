@@ -413,33 +413,37 @@
      and so on -- not just the outermost, and each is a plain heading (never
      a click target here) grouping the leaf-level entries beneath it, each
      of which is a real <details> a reader opens to read that part -- see
-     buildKjvSynopsisChapter. Every level is bold (size still shrinks with
-     depth, level 0's numeral rust, the rest gray) the same way whether a
-     given level happens to render as a plain label here or as a fold --
-     syn-fold-lvl0/1/2/3 on the <details> mirrors syn-group-lvl0/1/2/3 on
-     the label divs for exactly this reason. All-bold headings vs. plain-
-     weight .illum-v scripture is deliberate: opening a fold should make it
-     obvious at a glance which line is the heading you tapped and which is
-     the verse text underneath it. */
+     buildKjvSynopsisChapter. Every level stays bold at every depth (Chris's
+     call: all-bold vs. plain-weight .illum-v scripture is what makes it
+     obvious at a glance which line is a heading and which is the verse text
+     underneath it once a fold opens) but a multi-level chapter (Roman ->
+     letter -> number, sometimes -> lowercase letter) used to read as one
+     flat wall of same-weight, same-color bold lines -- so the four tiers
+     now step down in size, indent, AND color together: the two heading
+     tiers (Roman numeral, then letter) both carry the warm rust accent so
+     they visibly read as "headings," while the leaf tiers (number, then
+     lowercase letter) stay neutral gray and indent further, reading as the
+     content grouped under a heading rather than another heading of equal
+     weight. syn-fold-lvl0/1/2/3 on the <details> mirrors syn-group-lvl0/1/2/3
+     on the label divs so a level looks the same whether it renders as a
+     plain label here or as a fold. */
   .syn-group-label{margin:28px 0 8px;max-width:34em;line-height:1.4;}
   .syn-group-label:first-child{margin-top:6px;}
-  /* Weight is bold at every depth (only size/indent shrink), the same
-     whether a level renders as a static group label here or as a clickable
-     fold below -- a level reads the same regardless of which one a given
-     branch happens to be, rather than boldness depending on whether that
-     particular branch has children of its own. */
   .syn-group-lvl0{font-size:1.22em;font-weight:700;color:var(--ink);}
   .syn-group-lvl0 .syn-num{color:#9a3d16;}
-  .syn-group-lvl1{font-size:1em;font-weight:600;color:var(--ink);margin-left:1.15em;}
-  .syn-group-lvl2,.syn-group-lvl3{font-size:0.96em;font-weight:600;
-    color:var(--ink);margin-left:1.15em;}
-  .syn-group-lvl2{margin-left:2.3em;}
+  .syn-group-lvl1{font-size:1.06em;font-weight:700;color:var(--ink);margin-left:1.15em;}
+  .syn-group-lvl1 .syn-num{color:#b5642f;}
+  .syn-group-lvl2{font-size:0.96em;font-weight:600;color:var(--ink);margin-left:2.3em;}
+  .syn-group-lvl3{font-size:0.9em;font-weight:600;color:var(--ink);margin-left:3.45em;}
   .syn-num{font-weight:inherit;color:var(--gray);}
-  details.syn-fold{max-width:34em;border-top:1px solid var(--line);padding-top:10px;margin-top:10px;
-    margin-left:1.15em;}
+  details.syn-fold{max-width:34em;border-top:1px solid var(--line);padding-top:10px;margin-top:10px;}
+  details.syn-fold.syn-fold-lvl0{margin-left:0;font-size:1em;}
+  details.syn-fold.syn-fold-lvl1{margin-left:1.15em;font-size:0.98em;}
+  details.syn-fold.syn-fold-lvl2{margin-left:2.3em;font-size:0.94em;}
+  details.syn-fold.syn-fold-lvl3{margin-left:3.45em;font-size:0.9em;}
   details.syn-fold:first-of-type{border-top:none;}
   details.syn-fold > summary.syn-fold-h{list-style:none;cursor:pointer;
-    color:var(--ink);font-size:0.98em;padding-bottom:6px;font-weight:600;
+    color:var(--ink);padding-bottom:6px;font-weight:600;
     display:flex;align-items:baseline;gap:6px;}
   details.syn-fold.syn-fold-lvl0 > summary.syn-fold-h .syn-num{color:#9a3d16;}
   details.syn-fold > summary.syn-fold-h::-webkit-details-marker{display:none;}
